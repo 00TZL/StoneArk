@@ -95,7 +95,6 @@ export default function SplanFooter() {
 
         {/* Partners Section */}
         <div className="border-t border-gray-800 pt-12 pb-8">
-          <h4 className="font-bold text-xl mb-8 text-center text-white">{t('footer.partners.title')}</h4>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {/* Brokers */}
             <div className="bg-gray-900 dark:bg-gray-950 border border-gray-800 p-6 hover:border-gray-700 transition-colors">
