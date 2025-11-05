@@ -1,0 +1,174 @@
+import Link from 'next/link';
+import { EducationPageContent } from '@/content/education/forex-basics.content';
+
+interface EducationPageTemplateProps {
+  content: EducationPageContent;
+  children: React.ReactNode; // Main article content with sections
+}
+
+export default function EducationPageTemplate({
+  content,
+  children,
+}: EducationPageTemplateProps) {
+  return (
+    <div className="min-h-screen bg-white dark:bg-gray-900">
+      <article className="max-w-4xl mx-auto px-6 py-24">
+        {/* Breadcrumb */}
+        <nav className="text-sm text-gray-500 dark:text-gray-400 mb-6">
+          <Link href="/" className="hover:text-black dark:hover:text-white">
+            {content.heroTitle.includes('Forex') ? 'Home' : '首页'}
+          </Link>
+          {' > '}
+          <Link href="/education" className="hover:text-black dark:hover:text-white">
+            {content.heroTitle.includes('Forex') ? 'Education Center' : '教育中心'}
+          </Link>
+          {' > '}
+          <span className="text-black dark:text-white">{content.heroTitle}</span>
+        </nav>
+
+        {/* Hero Section */}
+        <header className="mb-12 pb-8 border-b-2 border-black dark:border-white">
+          <h1 className="text-4xl md:text-5xl font-black text-black dark:text-white mb-6 leading-tight">
+            {content.heroTitle}
+          </h1>
+          <p className="text-xl text-gray-600 dark:text-gray-400 mb-6">
+            {content.heroDescription}
+          </p>
+
+          <div className="flex flex-wrap gap-4 text-sm">
+            <div className="flex items-center gap-2 px-4 py-2 bg-gray-100 dark:bg-gray-800 border border-gray-300 dark:border-gray-700">
+              <span className="text-gray-600 dark:text-gray-400">
+                {content.heroTitle.includes('Forex') ? '📖 Reading Time:' : '📖 阅读时间：'}
+              </span>
+              <span className="font-bold text-black dark:text-white">{content.readingTime}</span>
+            </div>
+            <div className="flex items-center gap-2 px-4 py-2 bg-gray-100 dark:bg-gray-800 border border-gray-300 dark:border-gray-700">
+              <span className="text-gray-600 dark:text-gray-400">
+                {content.heroTitle.includes('Forex') ? '🎯 Difficulty:' : '🎯 难度：'}
+              </span>
+              <span className="font-bold text-black dark:text-white">{content.difficulty}</span>
+            </div>
+            <div className="flex items-center gap-2 px-4 py-2 bg-gray-100 dark:bg-gray-800 border border-gray-300 dark:border-gray-700">
+              <span className="text-gray-600 dark:text-gray-400">
+                {content.heroTitle.includes('Forex') ? '📅 Updated:' : '📅 更新：'}
+              </span>
+              <span className="font-bold text-black dark:text-white">{content.lastUpdated}</span>
+            </div>
+          </div>
+        </header>
+
+        {/* Table of Contents */}
+        <nav className="mb-12 p-6 bg-gray-50 dark:bg-gray-800 border-2 border-gray-200 dark:border-gray-700">
+          <h2 className="text-2xl font-bold text-black dark:text-white mb-4">{content.tocTitle}</h2>
+          <ul className="space-y-2">
+            {content.tableOfContents.map((item, index) => (
+              <li key={item.id}>
+                <a
+                  href={`#${item.id}`}
+                  className="text-gray-700 dark:text-gray-300 hover:text-black dark:hover:text-white transition-colors flex items-start gap-2"
+                >
+                  <span className="text-black dark:text-white font-bold">{index + 1}.</span>
+                  <span>{item.title}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </nav>
+
+        {/* Main Content - Passed as children */}
+        <div className="prose prose-lg dark:prose-invert max-w-none mb-16">
+          {children}
+        </div>
+
+        {/* FAQ Section */}
+        <section id="faq" className="mb-16">
+          <h2 className="text-3xl font-black mb-8 text-black dark:text-white border-l-4 border-black dark:border-white pl-4">
+            {content.faqTitle}
+          </h2>
+
+          <div className="space-y-4">
+            {content.faqs.map((faq, index) => (
+              <details
+                key={index}
+                className="group border-2 border-black dark:border-white"
+              >
+                <summary className="cursor-pointer p-6 font-bold text-lg text-black dark:text-white list-none flex justify-between items-center hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors">
+                  <span>{faq.question}</span>
+                  <span className="transform group-open:rotate-180 transition-transform">▼</span>
+                </summary>
+                <div className="p-6 pt-0 text-gray-700 dark:text-gray-300 border-t-2 border-black dark:border-white">
+                  <p className="leading-relaxed">{faq.answer}</p>
+                </div>
+              </details>
+            ))}
+          </div>
+        </section>
+
+        {/* Related Resources */}
+        <section className="mb-16">
+          <h2 className="text-3xl font-black mb-6 text-black dark:text-white border-l-4 border-black dark:border-white pl-4">
+            {content.relatedTitle}
+          </h2>
+
+          <div className="grid md:grid-cols-3 gap-6">
+            {content.relatedResources.map((resource, index) => (
+              <Link
+                key={index}
+                href={resource.href}
+                className="border-2 border-black dark:border-white p-6 hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-all group"
+              >
+                <div className="text-3xl mb-4">{resource.icon}</div>
+                <h3 className="text-xl font-bold mb-2">{resource.title}</h3>
+                <p className="text-sm text-gray-600 dark:text-gray-400 group-hover:text-gray-300 dark:group-hover:text-gray-600">
+                  {resource.description}
+                </p>
+              </Link>
+            ))}
+          </div>
+        </section>
+
+        {/* CTA Section */}
+        <section className="bg-black dark:bg-white text-white dark:text-black p-12 border-2 border-black dark:border-white">
+          <div className="max-w-2xl mx-auto text-center">
+            <h2 className="text-3xl md:text-4xl font-black mb-6">
+              {content.ctaTitle}
+            </h2>
+            <p className="text-xl mb-8 text-gray-300 dark:text-gray-700">
+              {content.ctaDescription}
+            </p>
+            <div className="flex flex-col sm:flex-row gap-4 justify-center">
+              <Link
+                href="/splan/join-us"
+                className="px-10 py-4 bg-white dark:bg-black text-black dark:text-white font-bold text-lg border-2 border-white dark:border-black hover:bg-transparent hover:text-white dark:hover:bg-transparent dark:hover:text-black transition-all inline-block text-center"
+              >
+                {content.ctaPrimaryButton}
+              </Link>
+              <Link
+                href="/splan/psychology-test"
+                className="px-10 py-4 bg-transparent text-white dark:text-black font-bold text-lg border-2 border-white dark:border-black hover:bg-white hover:text-black dark:hover:bg-black dark:hover:text-white transition-all inline-block text-center"
+              >
+                {content.ctaSecondaryButton}
+              </Link>
+            </div>
+          </div>
+        </section>
+
+        {/* Footer Navigation */}
+        <nav className="mt-16 flex justify-between items-center pt-8 border-t-2 border-black dark:border-white">
+          <Link
+            href="/education"
+            className="text-gray-600 dark:text-gray-400 hover:text-black dark:hover:text-white font-bold transition-colors"
+          >
+            {content.footerPrevText}
+          </Link>
+          <Link
+            href="/education"
+            className="text-gray-600 dark:text-gray-400 hover:text-black dark:hover:text-white font-bold transition-colors"
+          >
+            {content.footerNextText}
+          </Link>
+        </nav>
+      </article>
+    </div>
+  );
+}
