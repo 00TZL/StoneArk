@@ -6,6 +6,7 @@ import UnifiedNavbar from "@/components/layout/UnifiedNavbar";
 import SplanFooter from "@/components/splan/SplanFooter";
 import SubscriptionNotification from "@/components/custom/SubscriptionNotification";
 import FloatingContactForm from "@/components/custom/FloatingContactForm";
+import WelcomeModalWrapper from "@/components/custom/WelcomeModalWrapper";
 import Providers from "@/components/providers/Providers";
 import MouseFollower from "@/components/effects/MouseFollower";
 import ScrollProgress, { BackToTop } from "@/components/effects/ScrollProgress";
@@ -115,6 +116,7 @@ export default async function PortalLayout({
           <SplanFooter />
           <BackToTop />
           <FloatingContactForm />
+          <WelcomeModalWrapper />
           <SubscriptionNotification />
         </Providers>
       </body>
