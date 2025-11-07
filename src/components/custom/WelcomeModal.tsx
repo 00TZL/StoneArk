@@ -92,44 +92,132 @@ const WelcomeModal = forwardRef<WelcomeModalHandle>((props, ref) => {
     return null;
   }
 
-  // 缩小状态 - 右下角小窗口
-  if (modalState === 'minimized') {
-    return (
+  const isMinimized = modalState === 'minimized';
+  const isExpanded = modalState === 'expanded';
+
+  return (
+    <>
+      {/* 大弹窗背景遮罩 - 只在展开时显示 */}
+      <AnimatePresence>
+        {isExpanded && (
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            className="fixed inset-0 bg-black/70 backdrop-blur-sm z-50 flex items-center justify-center p-4"
+            onClick={(e) => {
+              // 点击背景关闭
+              if (e.target === e.currentTarget) {
+                handleClose();
+              }
+            }}
+          />
+        )}
+      </AnimatePresence>
+
+      {/* 统一的视频容器 - 通过 CSS 控制位置和大小 */}
       <motion.div
-        initial={{ opacity: 0, scale: 0.8, y: 100 }}
-        animate={{ opacity: 1, scale: 1, y: 0 }}
-        exit={{ opacity: 0, scale: 0.8, y: 100 }}
-        className="fixed right-8 bottom-40 z-50 w-80 bg-white dark:bg-gray-900 border-2 border-black dark:border-white shadow-2xl"
+        initial={false}
+        animate={{
+          scale: 1,
+          opacity: 1,
+        }}
+        className="fixed z-50 bg-white dark:bg-gray-900 border-2 border-black dark:border-white shadow-2xl"
+        style={
+          isExpanded
+            ? {
+                top: '50%',
+                left: '50%',
+                transform: 'translate(-50%, -50%)',
+                width: 'calc(100% - 2rem)',
+                maxWidth: '56rem',
+                maxHeight: '90vh',
+              }
+            : {
+                right: '2rem',
+                bottom: '10rem',
+                width: '20rem',
+              }
+        }
       >
-        {/* 小窗口标题栏 */}
-        <div className="bg-black dark:bg-white text-white dark:text-black px-4 py-2 flex items-center justify-between">
-          <h3 className="text-sm font-bold">
-            {isZh ? '职业交易员介绍' : 'Professional Trader Intro'}
-          </h3>
+        {/* 标题栏 - 根据状态显示不同内容 */}
+        <div
+          className={`text-white dark:text-black px-4 py-2 flex items-center justify-between ${
+            isMinimized
+              ? 'bg-black dark:bg-white'
+              : 'bg-gradient-to-r from-black via-gray-800 to-black dark:from-white dark:via-gray-200 dark:to-white px-6 py-4 border-b-2 border-gray-700 dark:border-gray-300'
+          }`}
+        >
+          <div className="flex items-center gap-3">
+            {isExpanded && (
+              <div className="w-10 h-10 bg-white dark:bg-black flex items-center justify-center">
+                <span className="text-2xl">🎓</span>
+              </div>
+            )}
+            <div>
+              <h2 className={isMinimized ? 'text-sm font-bold' : 'text-xl font-black'}>
+                {isMinimized
+                  ? isZh
+                    ? '职业交易员介绍'
+                    : 'Professional Trader Intro'
+                  : isZh
+                  ? '欢迎来到 汇刃'
+                  : 'Welcome to FX Killer'}
+              </h2>
+              {isExpanded && (
+                <p className="text-xs text-gray-300 dark:text-gray-700">
+                  {isZh ? '了解职业交易员职位，开启你的交易生涯' : 'Learn about professional trading careers'}
+                </p>
+              )}
+            </div>
+          </div>
           <div className="flex items-center gap-2">
-            <button
-              onClick={handleExpand}
-              className="hover:scale-110 transition-transform"
-              aria-label={isZh ? '展开' : 'Expand'}
-              title={isZh ? '展开' : 'Expand'}
-            >
-              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 8V4m0 0h4M4 4l5 5m11-1V4m0 0h-4m4 0l-5 5M4 16v4m0 0h4m-4 0l5-5m11 5l-5-5m5 5v-4m0 4h-4" />
-              </svg>
-            </button>
+            {isMinimized && (
+              <button
+                onClick={handleExpand}
+                className="hover:scale-110 transition-transform"
+                aria-label={isZh ? '展开' : 'Expand'}
+                title={isZh ? '展开' : 'Expand'}
+              >
+                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={2}
+                    d="M4 8V4m0 0h4M4 4l5 5m11-1V4m0 0h-4m4 0l-5 5M4 16v4m0 0h4m-4 0l5-5m11 5l-5-5m5 5v-4m0 4h-4"
+                  />
+                </svg>
+              </button>
+            )}
+            {isExpanded && (
+              <button
+                onClick={handleMinimize}
+                className="p-2 hover:bg-white/10 dark:hover:bg-black/10 transition-colors rounded"
+                aria-label={isZh ? '最小化' : 'Minimize'}
+                title={isZh ? '最小化' : 'Minimize'}
+              >
+                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M20 12H4" />
+                </svg>
+              </button>
+            )}
             <button
               onClick={handleClose}
-              className="hover:scale-110 transition-transform"
+              className={
+                isMinimized
+                  ? 'hover:scale-110 transition-transform'
+                  : 'p-2 hover:bg-white/10 dark:hover:bg-black/10 transition-colors rounded'
+              }
               aria-label={isZh ? '关闭' : 'Close'}
             >
-              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <svg className={isMinimized ? 'w-4 h-4' : 'w-5 h-5'} fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
               </svg>
             </button>
           </div>
         </div>
 
-        {/* 视频容器 - 保持 iframe 不重绘 */}
+        {/* 视频容器 - 始终存在，不会重新挂载 */}
         <div className="relative w-full aspect-video bg-black">
           <iframe
             ref={iframeRef}
@@ -142,90 +230,17 @@ const WelcomeModal = forwardRef<WelcomeModalHandle>((props, ref) => {
         </div>
 
         {/* 小窗口底部提示 */}
-        <div className="p-3 bg-gray-50 dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700">
-          <p className="text-xs text-gray-600 dark:text-gray-400 text-center">
-            {isZh ? '点击展开查看完整内容' : 'Click expand to view full content'}
-          </p>
-        </div>
-      </motion.div>
-    );
-  }
-
-  // 展开状态 - 大弹窗（使用相同的 iframe ref）
-  return (
-    <AnimatePresence>
-      <motion.div
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        exit={{ opacity: 0 }}
-        className="fixed inset-0 bg-black/70 backdrop-blur-sm z-50 flex items-center justify-center p-4"
-        onClick={(e) => {
-          // 点击背景关闭
-          if (e.target === e.currentTarget) {
-            handleClose();
-          }
-        }}
-      >
-        <motion.div
-          initial={{ scale: 0.9, y: 20, opacity: 0 }}
-          animate={{ scale: 1, y: 0, opacity: 1 }}
-          exit={{ scale: 0.9, y: 20, opacity: 0 }}
-          transition={{ type: "spring", bounce: 0.3, duration: 0.6 }}
-          className="bg-white dark:bg-gray-900 border-4 border-black dark:border-white shadow-2xl w-full max-w-4xl max-h-[90vh] overflow-hidden flex flex-col"
-          onClick={(e) => e.stopPropagation()}
-        >
-          {/* 标题栏 */}
-          <div className="bg-gradient-to-r from-black via-gray-800 to-black dark:from-white dark:via-gray-200 dark:to-white text-white dark:text-black px-6 py-4 flex items-center justify-between border-b-2 border-gray-700 dark:border-gray-300">
-            <div className="flex items-center gap-3">
-              <div className="w-10 h-10 bg-white dark:bg-black flex items-center justify-center">
-                <span className="text-2xl">🎓</span>
-              </div>
-              <div>
-                <h2 className="text-xl font-black">
-                  {isZh ? '欢迎来到 汇刃' : 'Welcome to FX Killer'}
-                </h2>
-                <p className="text-xs text-gray-300 dark:text-gray-700">
-                  {isZh ? '了解职业交易员职位，开启你的交易生涯' : 'Learn about professional trading careers'}
-                </p>
-              </div>
-            </div>
-            <div className="flex items-center gap-2">
-              <button
-                onClick={handleMinimize}
-                className="p-2 hover:bg-white/10 dark:hover:bg-black/10 transition-colors rounded"
-                aria-label={isZh ? '最小化' : 'Minimize'}
-                title={isZh ? '最小化' : 'Minimize'}
-              >
-                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M20 12H4" />
-                </svg>
-              </button>
-              <button
-                onClick={handleClose}
-                className="p-2 hover:bg-white/10 dark:hover:bg-black/10 transition-colors rounded"
-                aria-label={isZh ? '关闭' : 'Close'}
-              >
-                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
-                </svg>
-              </button>
-            </div>
+        {isMinimized && (
+          <div className="p-3 bg-gray-50 dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700">
+            <p className="text-xs text-gray-600 dark:text-gray-400 text-center">
+              {isZh ? '点击展开查看完整内容' : 'Click expand to view full content'}
+            </p>
           </div>
+        )}
 
-          {/* 内容区域 */}
+        {/* 大弹窗内容 - 只在展开时显示 */}
+        {isExpanded && (
           <div className="flex-1 overflow-y-auto">
-            {/* 视频区域 - 使用相同的 iframe ref */}
-            <div className="relative w-full aspect-video bg-black">
-              <iframe
-                ref={iframeRef}
-                src={bilibiliEmbedUrl}
-                scrolling="no"
-                frameBorder="0"
-                className="w-full h-full border-0"
-                allowFullScreen
-              />
-            </div>
-
             {/* 视频描述 */}
             <div className="p-6 bg-gray-50 dark:bg-gray-800">
               <div className="flex items-start gap-4 mb-6">
@@ -252,12 +267,19 @@ const WelcomeModal = forwardRef<WelcomeModalHandle>((props, ref) => {
                     className="inline-flex items-center gap-3 px-8 py-4 bg-black dark:bg-white text-white dark:text-black text-lg font-bold border-2 border-black dark:border-white hover:bg-white hover:text-black dark:hover:bg-black dark:hover:text-white transition-all shadow-lg hover:shadow-xl hover:scale-105"
                   >
                     <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeWidth={2}
+                        d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"
+                      />
                     </svg>
                     <span>{isZh ? '免费领取交易资料礼包' : 'Get Free Trading Resources'}</span>
                   </button>
                   <p className="text-sm text-gray-600 dark:text-gray-400 mt-3">
-                    {isZh ? '包含：交易策略手册、风险管理指南、心理素质测试' : 'Includes: Strategy Manual, Risk Management Guide, Psychology Test'}
+                    {isZh
+                      ? '包含：交易策略手册、风险管理指南、心理素质测试'
+                      : 'Includes: Strategy Manual, Risk Management Guide, Psychology Test'}
                   </p>
                 </div>
               ) : (
@@ -267,8 +289,18 @@ const WelcomeModal = forwardRef<WelcomeModalHandle>((props, ref) => {
                     <>
                       <div className="flex items-center gap-3 mb-4">
                         <div className="w-10 h-10 bg-black dark:bg-white flex items-center justify-center">
-                          <svg className="w-6 h-6 text-white dark:text-black" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+                          <svg
+                            className="w-6 h-6 text-white dark:text-black"
+                            fill="none"
+                            stroke="currentColor"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              strokeLinecap="round"
+                              strokeLinejoin="round"
+                              strokeWidth={2}
+                              d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"
+                            />
                           </svg>
                         </div>
                         <div>
@@ -288,7 +320,11 @@ const WelcomeModal = forwardRef<WelcomeModalHandle>((props, ref) => {
                         className="space-y-4"
                       >
                         <input type="hidden" name="_next" value={`${siteUrl}/${language}/thank-you`} />
-                        <input type="hidden" name="_subject" value={isZh ? "交易资料领取 - 欢迎弹窗" : "Trading Resources Request - Welcome Modal"} />
+                        <input
+                          type="hidden"
+                          name="_subject"
+                          value={isZh ? '交易资料领取 - 欢迎弹窗' : 'Trading Resources Request - Welcome Modal'}
+                        />
                         <input type="hidden" name="_captcha" value="false" />
 
                         {/* 姓名字段 */}
@@ -379,9 +415,7 @@ const WelcomeModal = forwardRef<WelcomeModalHandle>((props, ref) => {
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                         </svg>
                       </div>
-                      <h4 className="text-xl font-bold text-black dark:text-white mb-2">
-                        {isZh ? '提交成功！' : 'Success!'}
-                      </h4>
+                      <h4 className="text-xl font-bold text-black dark:text-white mb-2">{isZh ? '提交成功！' : 'Success!'}</h4>
                       <p className="text-gray-700 dark:text-gray-300">
                         {isZh ? '资料已发送到您的邮箱，请查收。' : 'Resources have been sent to your email.'}
                       </p>
@@ -400,9 +434,9 @@ const WelcomeModal = forwardRef<WelcomeModalHandle>((props, ref) => {
               </p>
             </div>
           </div>
-        </motion.div>
+        )}
       </motion.div>
-    </AnimatePresence>
+    </>
   );
 });
 
