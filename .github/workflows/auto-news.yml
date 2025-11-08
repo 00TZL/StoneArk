@@ -33,7 +33,7 @@ jobs:
         run: node scripts/seo-content-generator.js
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          NODE_ENV: production
+          NODE_ENV: Production
 
       - name: Commit and push if changes
         run: |

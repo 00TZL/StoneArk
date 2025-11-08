@@ -126,30 +126,27 @@ async function rewriteWithGroqZh(content) {
         model: 'groq/compound',
         messages: [
           {
-            role: 'system',
-            content: '你是专业的外汇分析师。将外汇新闻改写为SEO友好的中文内容。只返回改写后的文章内容，不要有任何解释、推理过程或元信息。'
-          },
-          {
             role: 'user',
-            content: `改写以下外汇新闻：
+            content: `你是专业的财经记者，请将以下外汇新闻改写成中文文章。
 
+原文：
 ${content}
 
-严格要求：
-1. 第一行必须是中文标题（翻译原标题）
-2. 只返回文章内容，不要有"改写后的内容"等标签
-3. 不要解释你的改写过程
-4. 保持核心信息不变
-5. 改变表达方式和句子结构
-6. 自然融入关键词：外汇、交易
-7. 正文分成2-3个段落，每段3-4句话
-8. 总字数200-250字
-9. 段落之间空一行
-10. 立即开始写文章`
+要求：
+1. 第一行写完整的中文标题（必须是完全中文，不能有任何英文单词）
+2. 然后空一行
+3. 正文2-3段，每段50-80字，总共200-250字
+4. 保留原文的核心数据、价格、百分比等关键信息
+5. 用自然流畅的中文表达，不要直接翻译
+6. 包含外汇交易相关词汇：货币对、汇率、交易、美元、欧元等
+7. 不要加任何标签、说明或额外内容
+8. 货币对格式：欧元/美元、美元/日元、黄金/美元等
+
+立即开始写（第一行就是中文标题）：`
           }
         ],
-        temperature: 0.7,
-        max_tokens: 600
+        temperature: 0.8,
+        max_tokens: 500
       },
       {
         headers: {
@@ -180,29 +177,25 @@ async function rewriteWithGroqEn(content) {
         model: 'groq/compound',
         messages: [
           {
-            role: 'system',
-            content: 'You are a professional forex analyst. Rewrite forex news into SEO-friendly English content. Return ONLY the rewritten article content, NO explanations, NO meta-commentary, NO "rewritten content" labels.'
-          },
-          {
             role: 'user',
-            content: `Rewrite this forex news:
+            content: `You are a professional forex journalist. Rewrite the following forex news into a concise article.
 
+Original:
 ${content}
 
-CRITICAL RULES:
-1. Return ONLY the article paragraphs - nothing else
-2. NO labels like "Rewritten Content" or "Reasoning"
-3. NO explanations about your process
-4. Keep core facts unchanged
-5. Use different expressions and sentence structures
-6. Include keywords: forex, trading
-7. Write 2-3 paragraphs, each with 3-4 sentences
-8. 150-200 words total
-9. Separate paragraphs with blank lines
-10. Start writing the article IMMEDIATELY`
+Requirements:
+1. Write 2-3 paragraphs, 50-70 words each, total 150-200 words
+2. Keep all key data: prices, percentages, currency pairs, technical levels
+3. Use natural, flowing language - don't just translate
+4. Include forex keywords: currency pair, exchange rate, trading, USD, EUR, etc.
+5. Focus on market movement, causes, and implications
+6. No labels, no meta-commentary, no explanations
+7. Start immediately with the content (no title needed)
+
+Begin:`
           }
         ],
-        temperature: 0.7,
+        temperature: 0.8,
         max_tokens: 400
       },
       {
@@ -223,11 +216,11 @@ CRITICAL RULES:
 
 // 简单改写（中文备用）
 function simpleRewriteZh(content) {
-  const parts = content.split('\n');
+  const parts = content.split('\n').filter(p => p.trim());
   const englishTitle = parts[0].trim();
-  const desc = parts.slice(1).join(' ').substring(0, 100);
+  const bodyText = parts.slice(1).join(' ').substring(0, 200);
 
-  // 简单的英译中标题（基于常见交易术语）
+  // 翻译标题中的常见术语
   let chineseTitle = englishTitle
     .replace(/USD\/JPY/gi, '美元/日元')
     .replace(/EUR\/USD/gi, '欧元/美元')
@@ -236,37 +229,52 @@ function simpleRewriteZh(content) {
     .replace(/USD\/CAD/gi, '美元/加元')
     .replace(/NZD\/USD/gi, '纽元/美元')
     .replace(/USD\/CHF/gi, '美元/瑞郎')
-    .replace(/XAU\/USD/gi, '黄金/美元')
-    .replace(/XAG\/USD/gi, '白银/美元')
+    .replace(/XAU\/USD|Gold/gi, '黄金')
+    .replace(/XAG\/USD|Silver/gi, '白银')
     .replace(/Price Forecast/gi, '价格预测')
     .replace(/Technical Analysis/gi, '技术分析')
     .replace(/Market Update/gi, '市场更新')
-    .replace(/rebounds/gi, '反弹')
-    .replace(/rises/gi, '上涨')
-    .replace(/falls/gi, '下跌')
+    .replace(/rebounds?/gi, '反弹')
+    .replace(/rises?/gi, '上涨')
+    .replace(/falls?/gi, '下跌')
     .replace(/steady/gi, '稳定')
-    .replace(/tops/gi, '突破')
-    .replace(/struggles/gi, '承压');
+    .replace(/tops?/gi, '突破')
+    .replace(/struggles?/gi, '承压')
+    .replace(/advances?/gi, '走高')
+    .replace(/extends?/gi, '延续')
+    .replace(/nears?/gi, '接近')
+    .replace(/drops?/gi, '下滑')
+    .replace(/gains?/gi, '上涨')
+    .replace(/weakens?/gi, '走弱')
+    .replace(/strengthens?/gi, '走强');
+
+  // 提取数字和百分比
+  const numbers = bodyText.match(/\d+\.?\d*%?/g) || [];
+  const numberInfo = numbers.length > 0 ? `，目前报价${numbers[0]}附近` : '';
 
   return `${chineseTitle}
 
-外汇市场最新动态显示，${desc}
+周五外汇市场显示，该货币对持续波动${numberInfo}。市场交易员密切关注美联储政策动向以及主要经济数据发布，这些因素继续影响市场走势和投资者情绪。
 
-市场分析师指出，当前外汇交易环境复杂多变，投资者需要密切关注相关经济数据和技术指标的变化。专业交易员建议，在当前市场环境下应谨慎操作，严格控制风险，合理设置止损止盈位。
+技术分析显示，该货币对当前处于关键位置，上方阻力和下方支撑均需重点关注。交易者建议结合基本面因素，制定合理的交易策略，严格控制风险。
 
-技术面分析显示，关键支撑位和阻力位对交易决策至关重要。外汇交易者应结合基本面和技术面进行综合分析，制定合理的交易策略。市场波动性增加时，更需要保持冷静，避免情绪化交易。`;
+分析师指出，短期内市场波动可能加剧，投资者应保持谨慎态度。建议密切关注重要经济数据和央行官员讲话，这些都可能对汇率走势产生重要影响。`;
 }
 
 // 简单改写（英文备用）
 function simpleRewriteEn(content) {
-  const parts = content.split('\n');
-  const desc = parts.slice(1).join(' ').substring(0, 100);
+  const parts = content.split('\n').filter(p => p.trim());
+  const bodyText = parts.slice(1).join(' ').substring(0, 200);
 
-  return `Latest forex market updates indicate ${desc}
+  // 提取数字和百分比
+  const numbers = bodyText.match(/\d+\.?\d*%?/g) || [];
+  const priceInfo = numbers.length > 0 ? ` trading near ${numbers[0]}` : '';
 
-Market analysts point out that forex trading volatility has increased significantly in recent sessions. Traders are advised to monitor economic data releases closely and maintain strict risk management protocols when executing trades.
+  return `The currency pair shows continued volatility on Friday${priceInfo}. Market participants are closely monitoring Federal Reserve policy signals and key economic data releases, which continue to influence market sentiment and trading dynamics.
 
-Technical indicators suggest key support and resistance levels remain crucial for trading decisions. Forex market participants should combine fundamental and technical analysis to develop robust trading strategies in the current environment.`;
+Technical analysis indicates the pair is positioned at a crucial level, with both upside resistance and downside support warranting close attention. Traders recommend combining fundamental factors with technical setups to develop sound trading strategies while maintaining strict risk management.
+
+Analysts note that near-term volatility could intensify, urging investors to exercise caution. Key economic data releases and central bank commentary should be monitored closely, as these factors may significantly impact exchange rate movements in the coming sessions.`;
 }
 
 // 生成slug
