@@ -5,12 +5,19 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { getServerLanguage, generateBilingualMetadata } from '@/lib/getServerLanguage';
 import LocaleLink from '@/components/navigation/LocaleLink';
+import ReactMarkdown from 'react-markdown';
 
 interface NewsPageProps {
   params: Promise<{
     slug: string;
     locale: string;
   }>;
+}
+
+interface HistoryNewsItem {
+  slug: string;
+  title: string;
+  date: string;
 }
 
 async function getNewsContent(slug: string, language: 'zh' | 'en') {
@@ -33,6 +40,42 @@ async function getNewsContent(slug: string, language: 'zh' | 'en') {
     source: data.source,
     content: content
   };
+}
+
+async function getHistoryNews(language: 'zh' | 'en', currentSlug: string, limit = 10): Promise<HistoryNewsItem[]> {
+  const newsDir = path.join(process.cwd(), 'src/content/news');
+
+  if (!fs.existsSync(newsDir)) {
+    return [];
+  }
+
+  const folders = fs.readdirSync(newsDir).filter(item => {
+    const itemPath = path.join(newsDir, item);
+    return fs.statSync(itemPath).isDirectory() && item !== currentSlug;
+  });
+
+  const news = folders
+    .map(folder => {
+      const filePath = path.join(newsDir, folder, `${language}.md`);
+
+      if (!fs.existsSync(filePath)) {
+        return null;
+      }
+
+      const fileContent = fs.readFileSync(filePath, 'utf8');
+      const { data } = matter(fileContent);
+
+      return {
+        slug: folder,
+        title: data.title,
+        date: data.date
+      };
+    })
+    .filter((item): item is HistoryNewsItem => item !== null)
+    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
+    .slice(0, limit);
+
+  return news;
 }
 
 export async function generateMetadata({ params }: NewsPageProps) {
@@ -72,6 +115,7 @@ export default async function NewsDetailPage({ params }: NewsPageProps) {
   const isZh = language === 'zh';
 
   const news = await getNewsContent(slug, language);
+  const historyNews = await getHistoryNews(language, slug);
 
   if (!news) {
     notFound();
@@ -81,7 +125,7 @@ export default async function NewsDetailPage({ params }: NewsPageProps) {
     <div className="min-h-screen bg-gray-50 dark:bg-gray-950">
       {/* Header */}
       <div className="bg-white dark:bg-gray-900 border-b-2 border-gray-200 dark:border-gray-800">
-        <div className="max-w-4xl mx-auto px-6 py-8">
+        <div className="max-w-7xl mx-auto px-6 py-8">
           <LocaleLink
             href="/news"
             className="inline-flex items-center text-sm text-gray-600 dark:text-gray-400 hover:text-black dark:hover:text-white mb-6"
@@ -115,41 +159,82 @@ export default async function NewsDetailPage({ params }: NewsPageProps) {
         </div>
       </div>
 
-      {/* Content */}
-      <article className="max-w-4xl mx-auto px-6 py-12">
-        <div className="prose prose-lg dark:prose-invert max-w-none">
-          <div
-            className="text-gray-800 dark:text-gray-200 leading-relaxed"
-            dangerouslySetInnerHTML={{
-              __html: news.content.replace(/\n/g, '<br/>')
-            }}
-          />
-        </div>
+      {/* Main Content with Sidebar */}
+      <div className="max-w-7xl mx-auto px-6 py-12">
+        <div className="flex flex-col lg:flex-row gap-8">
+          {/* Sidebar - History News */}
+          <aside className="lg:w-80 shrink-0">
+            <div className="sticky top-24">
+              <div className="bg-white dark:bg-gray-900 border-2 border-gray-200 dark:border-gray-800 p-6">
+                <h3 className="text-lg font-bold text-gray-900 dark:text-white mb-4 pb-3 border-b-2 border-gray-200 dark:border-gray-800">
+                  {isZh ? '最新新闻' : 'Recent News'}
+                </h3>
+                <ul className="space-y-3">
+                  {historyNews.map((item) => (
+                    <li key={item.slug}>
+                      <LocaleLink
+                        href={`/news/${item.slug}`}
+                        className="block group"
+                      >
+                        <div className="text-sm font-semibold text-gray-900 dark:text-white group-hover:text-blue-600 dark:group-hover:text-blue-400 line-clamp-2 mb-1">
+                          {item.title}
+                        </div>
+                        <div className="text-xs text-gray-500 dark:text-gray-400">
+                          {new Date(item.date).toLocaleDateString(isZh ? 'zh-CN' : 'en-US', {
+                            month: 'short',
+                            day: 'numeric'
+                          })}
+                        </div>
+                      </LocaleLink>
+                    </li>
+                  ))}
+                </ul>
+                {historyNews.length === 0 && (
+                  <p className="text-sm text-gray-500 dark:text-gray-400">
+                    {isZh ? '暂无更多新闻' : 'No more news'}
+                  </p>
+                )}
+              </div>
+            </div>
+          </aside>
 
-        {/* Tags */}
-        <div className="mt-12 pt-8 border-t-2 border-gray-200 dark:border-gray-800">
-          <div className="flex flex-wrap gap-2">
-            {news.keywords.map((keyword: string) => (
-              <span
-                key={keyword}
-                className="px-3 py-1 bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 text-sm"
+          {/* Article Content */}
+          <article className="flex-1 min-w-0">
+            <div className="prose prose-lg dark:prose-invert max-w-none
+              prose-headings:text-gray-900 dark:prose-headings:text-white
+              prose-p:text-gray-800 dark:prose-p:text-gray-200
+              prose-p:leading-relaxed prose-p:mb-4
+              prose-strong:text-gray-900 dark:prose-strong:text-white
+              prose-a:text-blue-600 dark:prose-a:text-blue-400">
+              <ReactMarkdown>{news.content}</ReactMarkdown>
+            </div>
+
+            {/* Tags */}
+            <div className="mt-12 pt-8 border-t-2 border-gray-200 dark:border-gray-800">
+              <div className="flex flex-wrap gap-2">
+                {news.keywords.map((keyword: string) => (
+                  <span
+                    key={keyword}
+                    className="px-3 py-1 bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 text-sm"
+                  >
+                    #{keyword}
+                  </span>
+                ))}
+              </div>
+            </div>
+
+            {/* Back Link */}
+            <div className="mt-8">
+              <LocaleLink
+                href="/news"
+                className="inline-block px-6 py-3 bg-black dark:bg-white text-white dark:text-black font-bold hover:bg-gray-800 dark:hover:bg-gray-200 transition-colors"
               >
-                #{keyword}
-              </span>
-            ))}
-          </div>
+                {isZh ? '查看更多新闻' : 'View More News'}
+              </LocaleLink>
+            </div>
+          </article>
         </div>
-
-        {/* Back Link */}
-        <div className="mt-8">
-          <LocaleLink
-            href="/news"
-            className="inline-block px-6 py-3 bg-black dark:bg-white text-white dark:text-black font-bold hover:bg-gray-800 dark:hover:bg-gray-200 transition-colors"
-          >
-            {isZh ? '查看更多新闻' : 'View More News'}
-          </LocaleLink>
-        </div>
-      </article>
+      </div>
     </div>
   );
 }

@@ -1,10 +1,10 @@
 ---
 title: "AUD/USD steady amid US consumer confidence drop, Fed policy uncertainty"
-date: "2025-11-08 20:33:20"
+date: "2025-11-08 20:50:17"
 description: "AUD/USD trades sideways on Friday, around 0.6480 at the time of writing, following the release of a key indicator that showed a significant deteriorat"
 keywords: ["forex", "trading", "market analysis", "forex news"]
 category: "Forex News"
-source: "FXStreet Forex & Commodities News"
+source: "FX Killer Analysis Team"
 language: "en"
 ---
 
@@ -14,7 +14,7 @@ Market analysts point out that forex trading volatility has increased. Traders a
 
 ---
 
-**Data Source**: FXStreet Forex & Commodities News
-**Updated**: 2025-11-08 20:33
+**Data Source**: FX Killer Analysis Team
+**Updated**: 2025-11-08 20:50
 
 **Disclaimer**: This article is for reference only and does not constitute investment advice. Forex trading involves risks; please make decisions carefully.

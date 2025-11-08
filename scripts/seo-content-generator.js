@@ -9,7 +9,7 @@ const RSS_SOURCES = [
   'https://www.fxstreet.com/rss/news/latest'
 ];
 
-const GROQ_API_KEY = process.env.GROQ_API_KEY || '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';
+const GROQ_API_KEY = process.env.GROQ_API_KEY;
 const NEWS_DIR = path.join(__dirname, '../src/content/news');
 const HISTORY_FILE = path.join(__dirname, '../.news-history.json');
 
@@ -136,16 +136,17 @@ async function rewriteWithGroqZh(content) {
 原文：${content}
 
 要求：
-1. 保持核心信息不变
-2. 改变表达方式和句子结构
-3. 自然融入关键词：外汇、交易
-4. 字数严格控制在150-200字之间
-5. 不包含任何推广链接或广告
-6. 只返回改写后的正文内容，不要标题、不要其他说明`
+1. 第一行输出中文标题（翻译原标题）
+2. 保持核心信息不变
+3. 改变表达方式和句子结构
+4. 自然融入关键词：外汇、交易
+5. 正文字数严格控制在150-200字之间
+6. 不包含任何推广链接或广告
+7. 格式：第一行=标题，空一行，然后是正文`
           }
         ],
         temperature: 0.7,
-        max_tokens: 400
+        max_tokens: 500
       },
       {
         headers: {
@@ -305,22 +306,27 @@ async function generateContent() {
           rewriteWithGroqEn(`${cleanTitle}\n\n${cleanDesc}`)
         ]);
 
+        // 从中文内容中提取标题（第一行）和正文
+        const zhLines = contentZh.split('\n');
+        const zhTitle = zhLines[0].trim();
+        const zhBody = zhLines.slice(1).filter(line => line.trim()).join('\n\n');
+
         // 生成中文Markdown
         const markdownZh = `---
-title: "${cleanTitle.replace(/"/g, '\\"')}"
+title: "${zhTitle.replace(/"/g, '\\"')}"
 date: "${dayjs().format('YYYY-MM-DD HH:mm:ss')}"
 description: "${cleanDesc.substring(0, 150).replace(/"/g, '\\"')}"
 keywords: ["外汇", "交易", "市场分析", "外汇新闻"]
 category: "外汇新闻"
-source: "${feed.title}"
+source: "FX Killer 分析团队"
 language: "zh"
 ---
 
-${contentZh}
+${zhBody}
 
 ---
 
-**数据来源**: ${feed.title}
+**数据来源**: FX Killer 分析团队
 **更新时间**: ${dayjs().format('YYYY-MM-DD HH:mm')}
 
 **免责声明**: 本文仅供参考，不构成投资建议。外汇交易存在风险，请谨慎决策。
@@ -333,7 +339,7 @@ date: "${dayjs().format('YYYY-MM-DD HH:mm:ss')}"
 description: "${cleanDesc.substring(0, 150).replace(/"/g, '\\"')}"
 keywords: ["forex", "trading", "market analysis", "forex news"]
 category: "Forex News"
-source: "${feed.title}"
+source: "FX Killer Analysis Team"
 language: "en"
 ---
 
@@ -341,7 +347,7 @@ ${contentEn}
 
 ---
 
-**Data Source**: ${feed.title}
+**Data Source**: FX Killer Analysis Team
 **Updated**: ${dayjs().format('YYYY-MM-DD HH:mm')}
 
 **Disclaimer**: This article is for reference only and does not constitute investment advice. Forex trading involves risks; please make decisions carefully.
