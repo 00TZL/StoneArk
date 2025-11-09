@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2025-11-09T08:07:33.058Z",
+  "price": {
+    "close": "0.56284124",
+    "high": "0.56344378",
+    "low": "0.56261957",
+    "open": "0.56338030",
+    "change": "-0.09",
+    "datetime": "2025-11-08 08:00:00"
+  },
+  "indicators": {
+    "rsi": 50.17514,
+    "macd": -0.00027626538,
+    "macd_signal": -0.0005235422,
+    "sma20": 0.56215043
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理]",
+      "content": "当前纽元/美元在0.5628附近震荡整理，短期内趋势偏向横盘。尽管24小时内略微下跌0.09%，但整体价格仍在高点0.5634和低点0.5626之间波动，显示出市场缺乏方向性。投资者需关注即将到来的经济数据和市场情绪，以判断短期走势。\n\n在技术指标方面，虽然RSI尚未提供数据，但根据当前的MACD指标，价格处于微弱的下行趋势。MACD值为-0.000276，表明卖方略占优势。然而，SMA(20)为0.5621，显示出短期支撑位在此区域，可能会吸引买入兴趣。投资者应密切关注价格与这一均线的关系。\n\n从支撑和阻力位来看，支撑位在0.5621附近，若价格跌破该水平，可能进一步向0.5600靠近。反之，若价格突破0.5634，则可能挑战0.5650的阻力位。因此，短期内投资者应密切关注这些关键水平，以便制定相应的交易策略。\n\n综合来看，建议投资者在当前区间内采取区间交易策略。若价格接近0.5621支撑位可考虑适度买入，而若突破0.5634则可考虑短期卖出。保持灵活的止损和止盈策略，以应对市场的波动性，确保风险可控。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD currency pair is currently trading at 0.5628, reflecting a slight decline of 0.09% over the past 24 hours. The price action has exhibited a range-bound behavior, with a recent high of 0.5634 and a low of 0.5626. This sideways movement suggests a consolidation phase, which could precede a breakout in either direction. Traders should closely monitor price patterns and volume to identify potential shifts in momentum.\n\nIn terms of technical indicators, the absence of a defined RSI and the current MACD reading of -0.0003 suggest a weak bearish sentiment. The MACD being below zero indicates that sellers are currently in control, but the lack of significant momentum may limit downside potential. Moreover, the 20-period Simple Moving Average (SMA) at 0.5622 serves as a dynamic support level, reinforcing the notion that the pair may find buying interest near this area.\n\nKey support levels are observed around 0.5622, where the 20SMA aligns, while resistance is found at 0.5634. A break above this resistance could open the door for a potential rally towards higher levels, with the next target being the 0.5650 region. Conversely, if the price drops below the 0.5622 support, it could trigger further selling pressure, leading to a test of 0.5610. \n\nTraders might consider a cautious approach, placing buy orders near the support zone at 0.5622 and setting stop-losses just below this level to manage risk. Alternatively, short positions could be initiated if the pair decisively breaks below this support. A careful watch on market sentiment and external economic factors will be crucial for navigating upcoming price movements in this pair."
+    }
+  }
+}

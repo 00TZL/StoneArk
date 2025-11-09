@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2025-11-09T08:05:29.692Z",
+  "price": {
+    "close": "153.37801",
+    "high": "153.48399",
+    "low": "153.36900",
+    "open": "153.42500",
+    "change": "-0.03",
+    "datetime": "2025-11-08 08:00:00"
+  },
+  "indicators": {
+    "rsi": 52.12617,
+    "macd": -0.0038541127,
+    "macd_signal": -0.037290384,
+    "sma20": 153.2843
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理中]",
+      "content": "当前美元/日元汇率在153.37801附近波动，显示出短期内的震荡整理趋势。近期价格在153.36900至153.48399之间波动，表明市场情绪相对谨慎，投资者观望后市走势。在未出现明显趋势信号的情况下，继续关注市场的重大消息和数据发布，可能会对价格产生影响。\n\n在技术指标方面，虽然RSI(14)数据缺失，但MACD指标目前处于负值区域，显示出卖压的存在。SMA(20)为153.28430，表明短期均线支撑位在此附近，若价格突破该水平，可能会引发进一步下跌。需密切关注MACD的交叉情况，以判断后续的买入或卖出时机。\n\n支撑位方面，153.36900为关键支撑位，一旦跌破，可能会加速下行。而上方阻力位在153.48399，若价格突破该水平，可能会引发短期反弹。建议交易者在这个区间内操作，利用短线波动进行日内交易，同时注意设置止损以控制风险。\n\n总体来看，美元/日元在此区域内震荡整理，投资者应保持谨慎，关注技术指标的变化及市场情绪，灵活调整交易策略。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently trading at 153.37801, reflecting a slight decline of 0.03% over the past 24 hours. This minor pullback suggests a consolidation phase after a recent upward move. The price remains above the 20-period simple moving average (SMA) at 153.28430, indicating that the overall trend is still bullish. A sustained position above this SMA could attract further buying interest, while a break below may signal a shift in sentiment.\n\nIn terms of key support and resistance levels, the recent high of 153.48399 serves as a significant resistance point, while the low of 153.36900 acts as immediate support. If the price can breach the resistance level, it could pave the way for a challenge of higher targets, potentially towards the psychological level of 154. Conversely, if the price falls below the support level, it might indicate a deeper correction, with the next support likely found around the SMA and potentially lower.\n\nWhile the RSI(14) data is currently unavailable, the MACD shows a slight negative value at -0.0038541127, which suggests that momentum may be weakening. Traders should monitor this indicator closely for any crossover signals that could indicate a change in trend direction. A turn positive here could reinforce bullish sentiment, while continued bearish momentum may prompt a reassessment of long positions.\n\nGiven the current market dynamics, a cautious trading strategy is advisable. Traders could consider entering long positions on confirmation of support at 153.36900, with a stop-loss set just below this level to manage risk. Alternatively, a break above 153.48399 could be seen as a signal for potential breakout plays. Active monitoring of the price action around these key levels will be crucial for effective trade management."
+    }
+  }
+}

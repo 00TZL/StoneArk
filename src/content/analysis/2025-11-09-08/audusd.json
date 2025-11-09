@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2025-11-09T08:06:12.377Z",
+  "price": {
+    "close": "0.64968818",
+    "high": "0.65011048",
+    "low": "0.64960372",
+    "open": "0.65006822",
+    "change": "-0.05",
+    "datetime": "2025-11-08 08:00:00"
+  },
+  "indicators": {
+    "rsi": 57.14547,
+    "macd": 0.00011015301,
+    "macd_signal": -0.00012294851,
+    "sma20": 0.64853444
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理中]",
+      "content": "当前澳元/美元（AUD/USD）交易在0.6496至0.6501区间内，显示出一定的震荡整理趋势。虽然价格稍微下跌0.05%，但整体未脱离这一区间，反映出市场参与者对当前价格的犹豫。若突破上方阻力位0.6501，可能会引发进一步的上涨动能。\n\n在技术指标方面，尽管当前尚未提供RSI和MACD的完全数据，但从SMA(20)来看，价格略高于该均线（0.6485），说明短期内仍具备一定的支撑力度。若RSI指标回升至50以上，可能预示着市场买盘增加，反之则需警惕进一步下行风险。\n\n支撑位方面，0.6485附近的SMA为关键支撑，若跌破可能会加速回调至0.6460一线。上方阻力位集中在0.6501，突破后可望挑战0.6520的心理关口。交易者需关注这些关键水平，以便及时调整策略。\n\n综合来看，当前市场情绪偏向谨慎，建议交易者可以考虑在支撑位附近寻找买入机会，而在接近阻力位时则应做好获利了结或止损准备，灵活应对市场波动，以降低风险。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar (AUD) against the US Dollar (USD) is currently trading at 0.6497, reflecting a slight decline of 0.05% over the last 24 hours. The price action has been relatively stable within a narrow range, with a high of 0.6501 and a low of 0.6496. This tight range indicates a period of consolidation, suggesting that market participants are evaluating potential catalysts for future movement, particularly as global economic data releases loom.\n\nIn terms of trend analysis, the AUD/USD appears to be experiencing a bearish sentiment in the short term, with the price trading below the 20-day Simple Moving Average (SMA) of 0.6485. This positioning hints at potential downward pressure, particularly if the pair fails to reclaim levels above the SMA. Traders should keep an eye on any bearish continuation patterns, particularly if the price breaks below the recent low of 0.6496, which could trigger further selling momentum.\n\nFrom an indicator perspective, the MACD shows a slight positive divergence, indicating that while the price is testing lower levels, the momentum is not as strong, which could suggest potential for a rebound. However, without the Relative Strength Index (RSI) data available, caution is warranted. Traders may want to consider waiting for confirmation of a reversal or a strong break below the support level at 0.6496 before making significant positions.\n\nKey support levels to monitor include the recent low at 0.6496 and additional support at 0.6480, which may provide a buffer against further declines. On the upside, resistance is found around 0.6500 and the SMA at 0.6485. A bullish scenario would require a solid break above these resistance levels, potentially targeting higher retracement levels. In the meantime, traders may consider employing a range-bound trading strategy, capitalizing on the current consolidation phase until clearer directional signals emerge."
+    }
+  }
+}

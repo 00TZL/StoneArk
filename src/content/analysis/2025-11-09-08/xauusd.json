@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2025-11-09T08:08:57.204Z",
+  "price": {
+    "close": "3992.44",
+    "high": "3992.72",
+    "low": "3987.9",
+    "open": "3990.91",
+    "change": "0.04",
+    "datetime": "2025-11-08 23:00:00"
+  },
+  "indicators": {
+    "rsi": 49.4964,
+    "macd": -0.75801438,
+    "macd_signal": -0.16287453,
+    "sma20": 3994.802
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理，关注短期趋势]",
+      "content": "当前黄金/美元(XAU/USD)价格在3992.44附近震荡整理，整体走势偏向于横盘。虽然价格相对稳定，但考虑到24小时变化仅为0.04%，市场情绪似乎较为谨慎。投资者需密切关注未来的行情发展，以把握潜在的交易机会。\n\n从技术指标来看，当前MACD为-0.758，表明市场处于弱势，且缺乏强烈的买入信号。由于RSI数据缺失，无法进行超买超卖的具体判断。20日简单移动平均线(SMA)在3994.80位置，若价格突破该水平，可能会引发短期的反弹。\n\n在支撑和阻力位方面，3987.90为关键支撑位，若跌破该位置，可能会加剧下行压力。反之，3992.72的高点则是当前的阻力位，若突破将有可能开启新的上行趋势。投资者需关注这两个关键点。\n\n建议短线交易者在支撑位附近寻找买入机会，而在接近阻力位时则考虑获利了结或做空。保持灵活的交易策略，以应对市场的变化，确保在波动中把握利润。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current price of Gold against the US Dollar (XAU/USD) stands at 3992.44, reflecting a slight positive change of 0.04% over the past 24 hours. The recent high of 3992.72 and low of 3987.9 indicate a relatively tight trading range, suggesting that the market is consolidating. This sideways movement may precede a more significant directional move, making it crucial for traders to watch for breakout levels either above 3994.80 or below 3987.90.\n\nThe Simple Moving Average (SMA) of 20 periods is currently at 3994.80, acting as a short-term resistance level. If the price can close above this level convincingly, it may trigger bullish sentiment, with potential targets around 4000 and 4010. Conversely, if the price fails to breach this resistance and begins to decline, the next support level lies at 3987.90, which could provide a buying opportunity for traders looking to capitalize on potential reversals.\n\nThe MACD indicator shows a negative value of -0.758, indicating bearish momentum in the short term. However, the absence of a signal line makes interpretation challenging. Traders should monitor the MACD closely for any signs of a crossover that could suggest a shift in momentum. A subsequent bullish crossover might signal a stronger upward move, while continued bearish momentum could lead to further declines.\n\nGiven the current market conditions, traders may consider a cautious approach. A breakout above the SMA could present a buying opportunity, while a failure to hold above support may warrant short positions. Utilizing stop-loss orders is advisable to mitigate risk, especially in a market exhibiting low volatility and potential for abrupt price action. Proper risk management will be key in navigating the current consolidation phase."
+    }
+  }
+}
