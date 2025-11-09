@@ -41,8 +41,15 @@ jobs:
           git config --global user.email 'x.stark.dylan@gmail.com'
           git add src/content/news/
           git add .news-history.json
+          git add .google-submitted-urls.json
           git add pnpm-lock.yaml
           git diff --quiet && git diff --staged --quiet || (
             git commit -m "chore: Auto-generate forex news $(date +'%Y-%m-%d %H:%M')" &&
             git push
           )
+
+      - name: Submit URLs to Google Indexing API
+        run: node scripts/submit-to-google.js
+        env:
+          GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
+        continue-on-error: true
