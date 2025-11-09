@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2025-11-09T07:31:13.471Z",
+  "price": {
+    "close": "153.37801",
+    "high": "153.48399",
+    "low": "153.36900",
+    "open": "153.42500",
+    "change": "-0.03",
+    "datetime": "2025-11-08 08:00:00"
+  },
+  "indicators": {
+    "rsi": "52.12617",
+    "macd": "-0.0038541127",
+    "macd_signal": "-0.037290384",
+    "sma20": "153.28430"
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理，短期关注支撑位]",
+      "content": "当前美元/日元在153.37801附近震荡整理，价格略微下跌0.03%。从近期走势来看，汇价在153.48399和153.36900区间内波动，显示出市场短期内缺乏明确方向，可能处于整固期。在此背景下，投资者应关注这个区间的突破情况。\n\n技术指标方面，虽然RSI和MACD数据尚不完整，但20日简单移动平均线(SMA)显示出153.28430的支撑水平，这一价位在过去几天内为汇价提供了较强的支撑。如果汇价跌破这一水平，可能会引发进一步的下行压力，投资者需保持警惕。\n\n支撑位方面，153.36900是重要的支撑位，而153.48399则是近期的阻力位。若价格突破阻力位，将可能迎来新的上涨势头。反之，若跌破支撑位，则需关注更低的买入机会。在这种震荡行情中，短线交易者可考虑在支撑位附近寻找买入机会，止损设置在153.36900下方。\n\n总体而言，美元/日元当前处于整理阶段，建议投资者密切关注关键支撑和阻力位的突破情况，以便及时调整交易策略。保持灵活应变的心态，将有助于在波动中把握交易机会。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY currency pair is currently exhibiting a slight bearish trend, as indicated by the recent price movement and a minimal 24-hour change of -0.03%. The latest price is situated at 153.37801, which is close to the lower end of the daily range between 153.36900 and 153.48399. This consolidation phase suggests that the pair is experiencing indecision among traders, potentially leading to a breakout in either direction depending on upcoming market catalysts.\n\nIn terms of technical indicators, the absence of an RSI reading limits our ability to assess overbought or oversold conditions. However, the MACD shows a negative value of -0.0038541127, hinting at a bearish momentum that could lead to further downside if the trend continues. The Simple Moving Average (SMA) of 20 periods at 153.28430 serves as a potential support level, where buyers might step in to prevent a deeper decline. Should the price break below this level, we could see further selling pressure.\n\nSupport levels are critical to monitor, particularly at 153.28430 and the psychological level of 153.000. Resistance is identified at the recent high of 153.48399. A break above this resistance could signal a renewed bullish sentiment, while a failure to hold above the SMA could lead traders to test the support levels below. Watching these key levels will be essential for understanding the potential direction of the pair.\n\nFor traders considering positions, it may be prudent to adopt a wait-and-see approach. Entering long positions near the SMA support or upon a confirmed breakout above 153.48399 could offer favorable risk-to-reward scenarios. Conversely, those looking to sell should consider waiting for confirmation of a breakdown below the SMA or key support levels. Implementing tight stop-loss orders will be essential given the current volatility and uncertainty in the market."
+    }
+  }
+}

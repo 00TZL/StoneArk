@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2025-11-09T07:31:27.009Z",
+  "price": {
+    "close": "0.64968818",
+    "high": "0.65011048",
+    "low": "0.64960372",
+    "open": "0.65006822",
+    "change": "-0.05",
+    "datetime": "2025-11-08 08:00:00"
+  },
+  "indicators": {
+    "rsi": "57.14547",
+    "macd": "0.00011015301",
+    "macd_signal": "-0.00012294851",
+    "sma20": "0.64853444"
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：当前处于震荡整理阶段",
+      "content": "当前，澳元/美元的价格为0.6497，近期表现出微弱的下行趋势。24小时变化仅为-0.05%，显示出市场缺乏明确的方向性。高点和低点分别为0.6501和0.6496，进一步强调了当前市场的整理状态。短期内，价格可能继续在这一区间内波动，投资者需保持警惕。\n\n从技术指标来看，虽然RSI和MACD的具体数值尚不可用，但根据目前的价格走势，市场情绪可能偏向于谨慎。SMA(20)为0.6485，作为短期支撑位，对价格回调提供了一定的支撑力度。如果价格向下突破此水平，则可能引发进一步的下行压力。\n\n在支撑和阻力方面，当前支撑位在0.6485附近，而阻力位则在0.6501附近。投资者可以关注这两个关键水平。若价格突破0.6501，则可能引发反弹，反之，如跌破0.6485，则可能加剧跌势。\n\n综合来看，建议投资者在当前震荡行情中采取观望策略，耐心等待价格突破关键水平后再进行交易。如果价格突破阻力位，可以考虑做多；而若跌破支撑位，则应考虑做空。保持灵活应变的交易策略，以应对市场的变化。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently trading at 0.64968818, reflecting a slight decline of 0.05% over the past 24 hours. This price action suggests a consolidation phase after recent volatility. The recent high of 0.65011048 and low of 0.64960372 indicate a tight trading range, which could signal indecision among traders. A breakout above the recent high may suggest a bullish reversal, while a break below the recent low could lead to further bearish momentum.\n\nThe absence of RSI data limits our ability to assess market momentum; however, the MACD value at 0.00011015301 indicates a potential bullish crossover, albeit weak. The 20-period Simple Moving Average (SMA) at 0.64853444 serves as a critical support level. If the price approaches this SMA, a bounce could indicate buying interest, while a decisive break below could suggest further weakness. Traders should monitor these indicators closely for signs of a directional move.\n\nIn terms of support and resistance levels, immediate support is seen at the SMA of 0.64853444, while resistance is identified at the recent high of 0.65011048. A successful test of support could provide a buying opportunity, particularly if accompanied by bullish candlestick patterns. Conversely, if the price breaks through the support level, traders should be cautious and consider short positions, targeting the next support level.\n\nFor trading strategies, consider a wait-and-see approach. If the price breaks above the resistance level, entering a long position may be prudent, with a target near 0.6520. Conversely, if the price breaches support, a short position could be warranted, aiming for a target around 0.6460. Risk management remains crucial, so set appropriate stop-loss orders to mitigate potential losses."
+    }
+  }
+}
