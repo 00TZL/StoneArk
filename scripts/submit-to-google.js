@@ -9,12 +9,22 @@ const SUBMITTED_HISTORY_FILE = path.join(__dirname, '../.google-submitted-urls.j
 function getServiceAccountKey() {
   // 优先使用环境变量（GitHub Actions）
   if (process.env.GOOGLE_SERVICE_ACCOUNT_KEY) {
-    return JSON.parse(process.env.GOOGLE_SERVICE_ACCOUNT_KEY);
+    try {
+      const keyString = process.env.GOOGLE_SERVICE_ACCOUNT_KEY;
+      // 尝试解析 JSON
+      const key = JSON.parse(keyString);
+      console.log('✅ 从环境变量加载密钥成功');
+      return key;
+    } catch (error) {
+      console.error('❌ 解析环境变量失败:', error.message);
+      throw new Error('环境变量 GOOGLE_SERVICE_ACCOUNT_KEY 格式错误');
+    }
   }
 
   // 本地开发使用文件
   const KEY_FILE = path.join(__dirname, '../public/cryptocashcontrol-a101c084ca74.json');
   if (fs.existsSync(KEY_FILE)) {
+    console.log('✅ 从本地文件加载密钥成功');
     return JSON.parse(fs.readFileSync(KEY_FILE, 'utf8'));
   }
 
