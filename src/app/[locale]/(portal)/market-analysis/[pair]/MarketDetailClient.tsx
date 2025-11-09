@@ -145,7 +145,7 @@ export default function MarketDetailClient({ analysis, language }: MarketDetailC
 
               <div className="space-y-6">
                 {/* RSI */}
-                {analysis.indicators.rsi && (
+                {typeof analysis.indicators.rsi === 'number' && (
                   <div>
                     <div className="flex justify-between items-center mb-2">
                       <span className="text-gray-600 dark:text-gray-400 text-sm">RSI (14)</span>
@@ -168,7 +168,7 @@ export default function MarketDetailClient({ analysis, language }: MarketDetailC
                 )}
 
                 {/* MACD */}
-                {analysis.indicators.macd && (
+                {typeof analysis.indicators.macd === 'number' && (
                   <div>
                     <div className="flex justify-between mb-1">
                       <span className="text-gray-600 dark:text-gray-400 text-sm">MACD</span>
@@ -176,7 +176,7 @@ export default function MarketDetailClient({ analysis, language }: MarketDetailC
                         {analysis.indicators.macd.toFixed(5)}
                       </span>
                     </div>
-                    {analysis.indicators.macd_signal && (
+                    {typeof analysis.indicators.macd_signal === 'number' && (
                       <div className="flex justify-between">
                         <span className="text-gray-600 dark:text-gray-400 text-sm">Signal</span>
                         <span className="font-semibold text-gray-700 dark:text-gray-300">
@@ -188,7 +188,7 @@ export default function MarketDetailClient({ analysis, language }: MarketDetailC
                 )}
 
                 {/* SMA */}
-                {analysis.indicators.sma20 && (
+                {typeof analysis.indicators.sma20 === 'number' && (
                   <div>
                     <div className="flex justify-between">
                       <span className="text-gray-600 dark:text-gray-400 text-sm">SMA (20)</span>

@@ -161,10 +161,10 @@ export default function MarketAnalysisClient({ analyses, language }: MarketAnaly
                         <div className="flex justify-between">
                           <span className="text-gray-600 dark:text-gray-400">RSI(14)</span>
                           <span className={`font-semibold ${rsiStatus.color}`}>
-                            {analysis.indicators.rsi?.toFixed(1) || 'N/A'} ({rsiStatus.text})
+                            {typeof analysis.indicators.rsi === 'number' ? analysis.indicators.rsi.toFixed(1) : 'N/A'} ({rsiStatus.text})
                           </span>
                         </div>
-                        {analysis.indicators.macd && (
+                        {typeof analysis.indicators.macd === 'number' && (
                           <div className="flex justify-between">
                             <span className="text-gray-600 dark:text-gray-400">MACD</span>
                             <span className="font-semibold text-gray-900 dark:text-white">
