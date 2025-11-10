@@ -305,8 +305,18 @@ export default function SplanFooter() {
           </div>
         </div>
 
-        {/* Affiliate Banners */}
-        <div className="border-t border-gray-800 pt-8 pb-8">
+        {/* Bottom */}
+        <div className="border-t border-gray-800 pt-8 text-center text-sm text-gray-400">
+          <p>2024-2025 {t('footer.copyright')}</p>
+          <p className="mt-2 text-xs">
+            {t('footer.disclaimer')}
+          </p>
+        </div>
+      </div>
+
+      {/* Affiliate Banners - Full Width */}
+      <div className="border-t border-gray-800 mt-8 pt-8 pb-8">
+        <div className="max-w-screen-xl mx-auto px-6">
           <div className="flex flex-col md:flex-row justify-center items-center gap-6 md:gap-8">
             {/* FTMO Banner */}
             <a
@@ -338,14 +348,6 @@ export default function SplanFooter() {
               />
             </a>
           </div>
-        </div>
-
-        {/* Bottom */}
-        <div className="border-t border-gray-800 pt-8 text-center text-sm text-gray-400">
-          <p>2024-2025 {t('footer.copyright')}</p>
-          <p className="mt-2 text-xs">
-            {t('footer.disclaimer')}
-          </p>
         </div>
       </div>
 
