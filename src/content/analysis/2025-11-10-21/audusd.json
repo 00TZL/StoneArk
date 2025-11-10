@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2025-11-10T21:27:15.910Z",
+  "price": {
+    "close": "0.65415061",
+    "high": "0.65415061",
+    "low": "0.65402222",
+    "open": "0.65402222",
+    "change": "0.01",
+    "datetime": "2025-11-11 08:00:00"
+  },
+  "indicators": {
+    "rsi": 65.45664,
+    "macd": 0.0009498325,
+    "macd_signal": 0.00096778404,
+    "sma20": 0.6531666
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理走势]",
+      "content": "当前AUD/USD的价格为0.65415061，近期走势显示出震荡整理的特征。虽然24小时变化较小，但价格在高点与低点之间波动，显示出市场缺乏明确的方向。投资者需关注即将到来的经济数据发布，以判断市场的潜在动向。\n\n在技术指标方面，MACD的数值为0.00094983250，表明短期内多头力量略显不足，未能形成强势反弹。由于RSI(14)数据缺失，暂时无法判断市场的超买或超卖状态。SMA(20)为0.65316660，当前价格略高于该均线，可能形成一定的支撑。\n\n从支撑和阻力位来看，价格在0.65402222附近获得了一定的支撑，而上方的阻力位则在0.6550区域。若AUD/USD突破此阻力位，将可能引发进一步上涨，反之则可能回落至支撑位附近。投资者需要密切关注这两个关键水平。\n\n在交易策略上，建议采取观望态度，等待价格突破关键水平后再选择入场。若价格突破0.6550，可考虑做多，反之则可考虑空单。保持灵活性和风险管理，以应对市场的快速变化。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently trading at 0.65415061, reflecting a slight increase of 0.01% over the last 24 hours. The market's recent high and low levels, at 0.65415061 and 0.65402222 respectively, indicate a narrow trading range, suggesting a period of consolidation. This sideways movement may precede a more significant directional shift. Traders should monitor this range closely, as a breakout above the high could signify bullish momentum, while a drop below the low could lead to bearish sentiment.\n\nIn terms of technical indicators, the absence of an available RSI and the current MACD at 0.00094983250 suggests that momentum is relatively neutral. The absence of a signal line complicates a clear interpretation of momentum trends. However, the 20-period Simple Moving Average (SMA) at 0.65316660 indicates potential support. A move below this level could signal a shift in market sentiment, while a bounce off this SMA could reinforce bullish prospects.\n\nKey support is identified at the SMA level of 0.65316660, while resistance may be observed at the recent high of 0.65415061. A successful test of these levels could provide traders with actionable insights. If the price holds above the SMA, it may attract buyers, indicating a potential upward trajectory. Conversely, failure to maintain this level could lead to increased selling pressure, pushing the price lower.\n\nTraders may consider a buy position if the price breaks above the resistance level, ideally supported by volume to confirm the move. Conversely, if the price slips below the SMA, a short position could be warranted, targeting the next support level. Employing a tight stop-loss strategy will be crucial in managing risk in this uncertain environment, especially given the current lack of clear momentum signals."
+    }
+  }
+}

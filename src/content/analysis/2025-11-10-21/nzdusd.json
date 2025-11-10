@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2025-11-10T21:28:35.112Z",
+  "price": {
+    "close": "0.56484407",
+    "high": "0.56484407",
+    "low": "0.56471652",
+    "open": "0.56474841",
+    "change": "0.01",
+    "datetime": "2025-11-11 08:00:00"
+  },
+  "indicators": {
+    "rsi": 58.94836,
+    "macd": 0.00040330931,
+    "macd_signal": 0.00033857476,
+    "sma20": 0.56411045
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理中]",
+      "content": "当前纽元/美元（NZD/USD）在0.5648附近震荡整理，市场情绪较为平稳。价格在最近24小时内变化不大，仅上涨0.01%。这种横盘状态可能意味着市场参与者在等待更明确的指引，因此短期内可能会继续维持窄幅波动。\n\n从技术指标来看，虽然RSI未提供，但MACD显示出微弱的正值，表明短期内可能存在一定的买入动能。SMA(20)位于0.5641，价格在其上方运行，显示出短期内的支撑位。若价格持续维持在此水平之上，可能会吸引更多买盘。\n\n支撑位方面，0.5647是近期低点，若下破此位可能引发更多的卖盘，进一步测试0.5640的支撑区域。而在阻力位方面，若价格突破0.5650，可能会引发更强的上涨动能，吸引多头入场。\n\n综合来看，短期内纽元/美元维持震荡整理的走势，建议交易者可在支撑位附近谨慎布局买入，但需关注市场消息和技术面变化，及时调整策略，以防范风险。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD currency pair is currently trading at 0.5648, showing a slight increase of 0.01% over the past 24 hours. The price movement remains relatively stable, with a defined range reflected in the high and low of 0.5648 and 0.5647, respectively. Analyzing the trend, the pair appears to be in a sideways consolidation phase following a prior bearish trend. This indicates potential indecision in the market, suggesting traders should remain cautious before committing to significant positions.\n\nFrom an indicator perspective, the absence of a current RSI reading limits our ability to assess momentum accurately. However, the MACD value of 0.0004 suggests a potential bullish divergence, though this signal requires confirmation through subsequent price action. The 20-period Simple Moving Average (SMA) at 0.5641 serves as a dynamic support level. If the price holds above this SMA, it could indicate a possible uptrend; however, a break below this level would signal a bearish continuation.\n\nKey support is located at the recent low of 0.5647, which traders should monitor closely. A break below this level could target further downside, potentially reaching 0.5640. Conversely, resistance is established near the recent high of 0.5648. A decisive break above this level might attract bullish sentiment and open the door for further gains towards 0.5655. Therefore, traders should look for breakout opportunities on either side of the current range.\n\nIn terms of trading strategies, a cautious approach is advisable given the current market conditions. Day traders could consider placing buy orders above 0.5648, while sell orders could be positioned below 0.5647. For longer-term traders, waiting for a clearer directional signal would be prudent before entering positions. As always, risk management is essential, with stop-loss orders placed strategically to protect against unexpected volatility."
+    }
+  }
+}
