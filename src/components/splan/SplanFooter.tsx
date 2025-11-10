@@ -228,7 +228,7 @@ export default function SplanFooter() {
             <ul className="space-y-2 text-sm">
               <li>
                 <a
-                  href="https://ftmo.com/"
+                  href="https://trader.ftmo.com/?affiliates=UUdNjacFYttdgsZcEozt"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-400 hover:text-white transition-colors"
