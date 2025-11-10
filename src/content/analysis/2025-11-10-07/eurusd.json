@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2025-11-10T07:02:13.032Z",
+  "price": {
+    "close": "1.15542",
+    "high": "1.15647",
+    "low": "1.15521",
+    "open": "1.15621",
+    "change": "-0.07",
+    "datetime": "2025-11-10 17:00:00"
+  },
+  "indicators": {
+    "rsi": 50.39159,
+    "macd": 0.00030645142,
+    "macd_signal": 0.00050389719,
+    "sma20": 1.15623
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[当前震荡走势]",
+      "content": "当前欧元/美元（EUR/USD）在1.15542附近震荡整理，24小时变化为-0.07%。从价格走势来看，近期维持在1.15521至1.15647的区间内，显示出市场缺乏强烈的方向性。整体趋势偏向横盘，短期内可能仍将继续在该区间内波动。\n\n技术指标方面，虽然RSI尚不可用，但SMA(20)位于1.15623，表明短期均线略高于当前价格，可能显示出一定的下行压力。MACD的微弱正值表明市场多头势能依然存在，但力度有限，需关注后续的交投情况。\n\n支撑位方面，1.15521是关键支撑，若跌破此位，可能加速下行至1.15400附近。而上方阻力位在1.15647，若突破该位，则有望向1.15800进发。投资者应关注这些关键价位，决定进出场策略。\n\n建议投资者在当前区间内采取观望态度，等待价格突破某一关键水平后再做决策。如果价格突破1.15647，可考虑轻仓做多，若下破1.15521，则可考虑做空，以应对市场的短期波动。务必设置合理止损，控制风险。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair currently trades at 1.15542, reflecting a slight decline of 0.07% over the last 24 hours. The price action has remained relatively stable, oscillating within a tight range between the recent high of 1.15647 and a low of 1.15521. This narrow trading band suggests a consolidation phase, where market participants are weighing potential directional moves. Traders should closely monitor this range as a breakout could signal a shift in sentiment and momentum.\n\nIn terms of technical indicators, the SMA(20) at 1.15623 is providing a dynamic resistance level, while the recent price action indicates that the pair is hovering just below this moving average. The lack of a confirmed RSI reading limits our momentum analysis, but the MACD value of 0.00030645142 suggests a potential bullish divergence if the price can hold above the lower bound of the trading range. This scenario warrants cautious optimism for bullish traders looking to capitalize on a potential upward move.\n\nSupport levels are identified around the recent low of 1.15521, with a significant psychological round number at 1.15500 also providing a floor. A break below this level could open the door for further downside towards 1.15350. Conversely, a sustained rally above the SMA(20) could pave the way for a retest of the upper resistance at 1.15647, with further targets extending toward 1.15800. \n\nFor trading strategies, short-term traders may consider a buy position on a confirmed breakout above 1.15647, ideally with supportive volume. Conversely, a break below 1.15521 may trigger short positions, targeting the support at 1.15500. As always, risk management through stop-loss orders is crucial, given the prevailing volatility in the forex market."
+    }
+  }
+}

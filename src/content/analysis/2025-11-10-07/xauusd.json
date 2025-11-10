@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2025-11-10T07:07:05.566Z",
+  "price": {
+    "close": "4070.74",
+    "high": "4073.52",
+    "low": "4069.94",
+    "open": "4072.7",
+    "change": "-0.04",
+    "datetime": "2025-11-10 18:00:00"
+  },
+  "indicators": {
+    "rsi": 84.20064,
+    "macd": 18.94916,
+    "macd_signal": 11.3515,
+    "sma20": 4015.626
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理，关注支撑和阻力]",
+      "content": "当前黄金/美元（XAU/USD）价格为4070.74，近期市场呈现出震荡整理的趋势。价格在4069.94至4073.52区间内波动，显示出市场在该区间内缺乏明确方向。投资者应密切关注这一区间的突破情况，以确定后续的交易策略。\n\n从技术指标来看，虽然RSI数据暂缺，但MACD的值为18.94916，表明当前市场仍有一定的上行动能。结合20日简单移动平均线（SMA）在4015.63位置，价格目前已明显高于该均线，显示出短期内多头占优，但需警惕回调风险。\n\n在支撑位方面，4069.94是关键支撑位，如果价格跌破该水平，可能会引发更深的回调。阻力位则在4073.52，若突破该点位，可能会吸引更多买盘进入市场。投资者应关注这两个价位，并结合市场情绪进行决策。\n\n建议投资者可以在接近支撑位时寻找买入机会，而在接近阻力位时采取部分获利了结的策略。同时，保持警惕，注意市场情绪和突发事件对价格的影响，以制定灵活的交易计划。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current price of XAU/USD at 4070.74 indicates a relatively stable market, with a slight 24-hour decline of 0.04%. Analyzing the recent price action, gold is maintaining its position above the 20-day Simple Moving Average (SMA) of 4015.63, suggesting that the overall trend remains bullish in the near term. If the price continues to hover around current levels, a breakout above the recent high of 4073.52 could signal further bullish momentum, potentially targeting levels near 4085 or higher.\n\nIn terms of indicators, the MACD is currently positive at 18.94916, reflecting bullish momentum. However, the absence of the RSI data makes it difficult to analyze overbought or oversold conditions comprehensively. Traders should monitor for potential divergence or convergence as future data becomes available. The current market sentiment appears cautiously optimistic, but the lack of strong momentum could lead to consolidation before any significant moves occur.\n\nKey support levels can be identified around the recent low of 4069.94, which may act as a safety net for buyers. Should prices break below this level, traders might look for further support around the SMA at 4015.63. Conversely, resistance is likely to be found at the recent high of 4073.52, with additional resistance at psychological levels above 4080. These levels will be crucial for traders looking to enter or exit positions effectively.\n\nFor trading strategies, short-term traders might consider buying on dips near support levels, particularly if additional bullish signals emerge from indicators. Alternatively, those with a longer-term perspective could look for consolidation patterns before committing to larger positions. It’s essential to remain vigilant for any sudden market changes that could influence gold prices, given the geopolitical and economic factors that often impact this asset class."
+    }
+  }
+}

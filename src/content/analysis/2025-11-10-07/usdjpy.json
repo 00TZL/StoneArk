@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2025-11-10T07:03:35.995Z",
+  "price": {
+    "close": "154.031998",
+    "high": "154.041000",
+    "low": "154.011002",
+    "open": "154.026001",
+    "change": "0.01",
+    "datetime": "2025-11-10 18:00:00"
+  },
+  "indicators": {
+    "rsi": 66.15764,
+    "macd": 0.18157279,
+    "macd_signal": 0.11356145,
+    "sma20": 153.5248
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理，关注突破机会]",
+      "content": "当前美元/日元价格为154.03，走势呈现震荡整理状态。价格在154.041和154.011之间波动，显示出短期内缺乏明确的方向。若突破154.04，可能会引发多头攻击，进一步挑战更高的阻力位；反之，若跌破154.01，则可能会引发空头回调，测试下方支撑。\n\n技术指标方面，当前RSI未提供，但MACD显示出0.181的正值，暗示短期内多头势力仍然存在。20日简单移动平均线(SMA)在153.5248，提供了一个相对可靠的支撑位。若价格回落至该水平附近，可以考虑逢低买入的策略。\n\n支撑位方面，154.01是重要的心理关口，一旦跌破将增加看空情绪。若突破154.04，则可以视为新的买入信号，目标指向154.5附近的阻力位。交易者应密切关注这些关键水平，以便在市场波动中做出相应调整。\n\n综合来看，美元/日元在当前区间内震荡，短期交易者可以考虑在支撑和阻力位附近寻找入场机会。长线投资者则可关注基本面变化，以便做出更为稳健的交易决策。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently trading at 154.03, demonstrating a stable range with a slight upward bias over the past 24 hours. The high and low for the period have been relatively contained at 154.041 and 154.011, respectively, indicating a consolidation phase. This stability suggests that the market is awaiting a catalyst to drive the pair either higher or lower. Given the current price action, the immediate trend appears to be bullish, supported by the general strength of the U.S. dollar in the broader forex market.\n\nIn terms of technical indicators, the absence of a confirmed RSI reading limits our ability to assess overbought or oversold conditions. However, the MACD shows a positive value of 0.1816, hinting at bullish momentum. The Simple Moving Average (SMA) of 20 periods at 153.52 serves as a crucial support level; a pullback towards this SMA could provide an opportunity for traders to enter long positions, provided that the support holds. \n\nKey resistance has emerged around the 154.04 level; if the price can convincingly break this threshold, we may see further upside potential towards higher levels, potentially targeting the psychological barrier of 155.00. Conversely, if the price fails to maintain above this resistance, a retracement towards the SMA or even lower could be in the cards, with the next significant support around 153.00. \n\nTraders should consider a cautious approach, possibly looking for buying opportunities near the SMA while keeping an eye on the resistance at 154.04. A confirmed breakout above this level could trigger buy signals, whereas a failure to hold above support levels might necessitate a reassessment of bullish positions. Risk management strategies should be employed, particularly in light of the potential volatility surrounding key economic releases."
+    }
+  }
+}

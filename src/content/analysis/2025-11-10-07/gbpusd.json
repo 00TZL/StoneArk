@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2025-11-10T07:02:53.847Z",
+  "price": {
+    "close": "1.31444",
+    "high": "1.31444",
+    "low": "1.31444",
+    "open": "1.31444",
+    "change": "0.02",
+    "datetime": "2025-11-10 18:00:00"
+  },
+  "indicators": {
+    "rsi": 53.16985,
+    "macd": 0.00068073371,
+    "macd_signal": 0.00096190412,
+    "sma20": 1.31514
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[震荡整理，谨慎操作]",
+      "content": "当前GBP/USD的最新价格为1.31444，显示出震荡整理的趋势。虽然24小时变化仅为0.02%，但市场缺乏明显的方向性，这可能受到市场情绪和基本面因素的影响。短期内，价格在1.31400附近波动，未能突破近期的高点。\n\n在技术指标方面，RSI尚不可用，但根据现有的MACD数据，其值为0.00068073371，表明市场动能略显疲软。20日简单移动平均线(SMA)位于1.31514附近，可能会成为短期内的阻力位。若价格突破该水平，可能会引发进一步的上涨。\n\n支撑位方面，若价格下行，1.31300将是一个关键的支撑区域。如果触及这一水平并获得支撑，可能会吸引买盘介入。反之，若跌破该支撑位，则可能会加速下行，测试更低的价位。\n\n综合来看，当前市场处于震荡整理阶段，建议投资者保持谨慎，等待更清晰的趋势信号。可以观望为主，或在接近支撑位时考虑小幅买入，而在遇到阻力位时则考虑适度获利了结。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The British Pound (GBP) against the US Dollar (USD) is currently exhibiting a neutral trend, as indicated by its latest price of 1.31444. The lack of significant movement over the past 24 hours, with a minimal change of just 0.02%, suggests a period of consolidation. A key factor to watch is the proximity to the 20-day Simple Moving Average (SMA) at 1.31514, which could serve as a dynamic resistance level. If the price breaks above this level, it may signal a potential bullish reversal.\n\nTechnical indicators are currently limited, but the MACD value of 0.00068073371 suggests a slight bullish sentiment in the short term. However, without a defined signal line or a clear RSI reading, traders should exercise caution. The absence of a strong momentum signal indicates that traders may benefit from waiting for a clearer trend to establish before entering positions. Therefore, it's advisable to monitor upcoming economic data releases that could catalyze price movements.\n\nIn terms of support and resistance levels, the immediate resistance is seen at the SMA of 1.31514, while potential support could be sought around the psychological level of 1.31000. A decisive move below this support level could trigger further selling pressure, while a breakout above resistance could open up a pathway toward the 1.32000 mark. Traders should keep an eye on these levels for potential entry or exit points.\n\nGiven the current market conditions, a cautious approach is recommended. It may be prudent to adopt a wait-and-see strategy, allowing for a more definitive trend to emerge. If the price action begins to demonstrate sustained movement above the SMA, consider entering long positions. Conversely, if bearish momentum develops below the support level, establishing short positions may become favorable. Always ensure to utilize appropriate risk management techniques, regardless of the chosen strategy."
+    }
+  }
+}
