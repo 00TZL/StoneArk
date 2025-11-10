@@ -42,6 +42,7 @@ jobs:
           git config --global user.email 'x.stark.dylan@gmail.com'
           git add src/content/analysis/
           git diff --quiet && git diff --staged --quiet || (
+            git pull --rebase &&
             git commit -m "chore: Auto-generate market analysis $(date +'%Y-%m-%d %H:%M')" &&
             git push
           )
