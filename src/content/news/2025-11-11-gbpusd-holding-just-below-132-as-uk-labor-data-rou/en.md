@@ -1,10 +1,10 @@
 ---
 title: "GBP/USD holding just below 1.32 as UK labor data rounds the corner"
 date: "2025-11-11 01:25:43"
-description: "GBP/USD kept its foot on the gas pedal on Monday, extending into a four-day win streak as Cable traders gear up for the . Free forex trading training by FX Killer."
-keywords: ["forex","trading","market analysis","forex news","forex training","trader incubation","FX Killer"]
+description: "GBP/USD kept its foot on the gas pedal on Monday, extending into a four-day win streak as Cable traders gear up for the . Free forex trading training by StoneArk."
+keywords: ["forex","trading","market analysis","forex news","forex training","trader incubation","StoneArk"]
 category: "Forex News"
-source: "FX Killer Analysis Team"
+source: "StoneArk Analysis Team"
 language: "en"
 ---
 
@@ -14,15 +14,15 @@ As the market awaits the employment figures, fluctuations in the GBP/USD exchang
 
 ---
 
-#### About FX Killer Trader Incubation Program
+#### About StoneArk Trader Incubation Program
 
-Want to become a professional trader? FX Killer offers a **completely free** professional trader training program. We provide systematic courses, practical training, and professional mentorship to help you grow from beginner to full-time trader.
+Want to become a professional trader? StoneArk offers a **completely free** professional trader training program. We provide systematic courses, practical training, and professional mentorship to help you grow from beginner to full-time trader.
 
 👉 [Join Free Training Program](/splan/join-us) | [Trading Psychology Assessment](/splan/psychology-test)
 
 ---
 
-**Data Source**: FX Killer Analysis Team
+**Data Source**: StoneArk Analysis Team
 **Updated**: 2025-11-11 01:25
 
 **Disclaimer**: This article is for reference only and does not constitute investment advice. Forex trading involves risks; please make decisions carefully.

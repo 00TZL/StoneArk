@@ -2,7 +2,7 @@ import { EducationPageContent } from './forex-basics.content';
 
 export const priceActionContent = {
   zh: {
-    title: '价格行为交易策略 - Pin Bar、Inside Bar、供需区域完整指南 | FX Killer',
+    title: '价格行为交易策略 - Pin Bar、Inside Bar、供需区域完整指南 | StoneArk',
     description: '深入讲解价格行为交易：Pin Bar、Inside Bar、Rejection Candle、供需区域（Supply/Demand）、裸K交易策略。掌握纯价格分析，无需指标。',
     keywords: '价格行为, Pin Bar, Inside Bar, 供需区域, 裸K交易, 价格拒绝, 纯价格分析',
 
@@ -70,18 +70,18 @@ export const priceActionContent = {
     ],
 
     ctaTitle: '想要掌握价格行为交易的精髓？',
-    ctaDescription: '加入FX Killer专业培训，学习裸K交易和供需区域策略',
+    ctaDescription: '加入StoneArk专业培训，学习裸K交易和供需区域策略',
     ctaPrimaryButton: '了解培训计划',
     ctaSecondaryButton: '免费心理测评',
 
-    footerPrevText: '← 支撑阻力',
-    footerNextText: '风险管理 →',
+    footerPrevText: '< 支撑阻力',
+    footerNextText: '风险管理 >',
     footerPrevHref: '/education/support-resistance',
     footerNextHref: '/education/risk-management',
   } as EducationPageContent,
 
   en: {
-    title: 'Price Action Trading Strategy - Pin Bar, Inside Bar, Supply/Demand Zones Guide | FX Killer',
+    title: 'Price Action Trading Strategy - Pin Bar, Inside Bar, Supply/Demand Zones Guide | StoneArk',
     description: 'In-depth explanation of price action trading: Pin Bar, Inside Bar, Rejection Candle, Supply/Demand zones, naked chart trading strategies. Master pure price analysis without indicators.',
     keywords: 'price action, Pin Bar, Inside Bar, supply demand zones, naked trading, price rejection, pure price analysis',
 
@@ -149,12 +149,12 @@ export const priceActionContent = {
     ],
 
     ctaTitle: 'Want to Master the Essence of Price Action Trading?',
-    ctaDescription: 'Join FX Killer professional training to learn naked trading and supply/demand strategies',
+    ctaDescription: 'Join StoneArk professional training to learn naked trading and supply/demand strategies',
     ctaPrimaryButton: 'Learn About Training',
     ctaSecondaryButton: 'Free Psychology Test',
 
-    footerPrevText: '← Support Resistance',
-    footerNextText: 'Risk Management →',
+    footerPrevText: '< Support Resistance',
+    footerNextText: 'Risk Management >',
     footerPrevHref: '/education/support-resistance',
     footerNextHref: '/education/risk-management',
   } as EducationPageContent,

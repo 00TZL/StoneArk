@@ -19,10 +19,10 @@ export default function SplanFooter() {
           <div>
             <div className="flex items-center mb-4">
               <span className="text-xl font-black text-white">
-                {language === 'zh' ? '汇' : 'FX'}
+                {language === 'zh' ? '基石' : 'Stone'}
               </span>
               <span className="text-xl font-normal text-gray-400 ml-1">
-                {language === 'zh' ? '刃' : 'Killer'}
+                {language === 'zh' ? '量化' : 'Ark'}
               </span>
             </div>
             <p className="text-gray-400 text-sm leading-relaxed mb-4">
@@ -32,7 +32,7 @@ export default function SplanFooter() {
             <div className="flex items-center gap-4">
               {/* Telegram */}
               <a
-                href="https://t.me/binance_cashcontrol"
+                href="https://t.me/BigBoss_TZL"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white transition-colors"
@@ -45,7 +45,7 @@ export default function SplanFooter() {
 
               {/* X (Twitter) */}
               <a
-                href="https://x.com/RealFXkiller"
+                href="http://twitter.com/smileLZT"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white transition-colors"
@@ -58,7 +58,7 @@ export default function SplanFooter() {
 
               {/* YouTube */}
               <a
-                href="https://www.youtube.com/@FX-Killer-Trader"
+                href="https://www.youtube.com/@BigBossTZL"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white transition-colors"
@@ -73,7 +73,7 @@ export default function SplanFooter() {
               <button
                 onClick={() => setShowWechatModal(true)}
                 className="text-gray-400 hover:text-white transition-colors cursor-pointer"
-                title="WeChat: DerrenX"
+                title="WeChat: Recruit_Trader"
               >
                 <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
                   <path d="M8.691 2.188C3.891 2.188 0 5.476 0 9.53c0 2.212 1.17 4.203 3.002 5.55a.59.59 0 0 1 .213.665l-.39 1.48c-.019.07-.048.141-.048.213 0 .163.13.295.29.295a.326.326 0 0 0 .167-.054l1.903-1.114a.864.864 0 0 1 .717-.098 10.16 10.16 0 0 0 2.837.403c.276 0 .543-.027.811-.05-.857-2.578.157-4.972 1.932-6.446 1.703-1.415 3.882-1.98 6.025-1.31-.452-3.79-4.214-6.876-8.768-6.876zm-2.924 5.232a.72.72 0 0 1 .717-.72.72.72 0 0 1 .718.72.72.72 0 0 1-.718.72.72.72 0 0 1-.717-.72zm5.674 0a.72.72 0 0 1 .717-.72.72.72 0 0 1 .717.72.72.72 0 0 1-.717.72.72.72 0 0 1-.717-.72zm7.735 4.55c0-3.564-3.51-6.446-7.835-6.446-4.325 0-7.835 2.882-7.835 6.446 0 1.948 1.03 3.703 2.646 4.895a.52.52 0 0 1 .188.586l-.344 1.304a.488.488 0 0 0-.042.188c0 .144.115.26.255.26a.289.289 0 0 0 .148-.047l1.677-.982a.762.762 0 0 1 .632-.086c.784.19 1.61.295 2.475.295 4.325 0 7.835-2.882 7.835-6.446zm-9.606-1.31a.635.635 0 0 1-.633-.634c0-.35.283-.633.633-.633.35 0 .634.283.634.633a.635.635 0 0 1-.634.633zm3.81 0a.635.635 0 0 1-.633-.634c0-.35.283-.633.633-.633.35 0 .634.283.634.633a.635.635 0 0 1-.634.633z"/>
@@ -233,7 +233,7 @@ export default function SplanFooter() {
               </li>
               <li>
                 <a
-                  href="https://www.maxweb.red/join?ref=YYSTARK"
+                  href="https://www.maxweb.red/referral/earn-together/refer2earn-usdc/claim?hl=zh-CN&ref=GRO_28502_OUKP3&utm_source=default"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-400 hover:text-white transition-colors"
@@ -241,7 +241,31 @@ export default function SplanFooter() {
                   Binance
                 </a>
                 <span className="text-xs text-gray-500 ml-2">{language === 'zh' ? '邀请码' : 'Code'}:</span>
-                <code className="text-xs bg-gray-800 px-2 py-0.5 text-gray-400 font-mono ml-1">YYSTARK</code>
+                <code className="text-xs bg-gray-800 px-2 py-0.5 text-gray-400 font-mono ml-1">GRO_28502_OUKP3</code>
+              </li>
+              <li>
+                <a
+                  href="https://www.bitget.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-gray-400 hover:text-white transition-colors"
+                >
+                  Bitget
+                </a>
+                <span className="text-xs text-gray-500 ml-2">{language === 'zh' ? '邀请码' : 'Code'}:</span>
+                <code className="text-xs bg-gray-800 px-2 py-0.5 text-gray-400 font-mono ml-1">55un</code>
+              </li>
+              <li>
+                <a
+                  href="https://www.gate.io/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-gray-400 hover:text-white transition-colors"
+                >
+                  Gate.io
+                </a>
+                <span className="text-xs text-gray-500 ml-2">{language === 'zh' ? '邀请码' : 'Code'}:</span>
+                <code className="text-xs bg-gray-800 px-2 py-0.5 text-gray-400 font-mono ml-1">VVFEXVLACA</code>
               </li>
             </ul>
 
@@ -256,18 +280,6 @@ export default function SplanFooter() {
                 >
                   FTMO
                 </a>
-              </li>
-              <li>
-                <a
-                  href="https://fundednext.com/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-gray-400 hover:text-white transition-colors"
-                >
-                  FundedNext
-                </a>
-                <span className="text-xs text-gray-500 ml-2">{language === 'zh' ? '邀请码' : 'Code'}:</span>
-                <code className="text-xs bg-gray-800 px-2 py-0.5 text-gray-400 font-mono ml-1">REFQKEAYK</code>
               </li>
             </ul>
 
@@ -383,7 +395,7 @@ export default function SplanFooter() {
                   {language === 'zh' ? '微信号' : 'WeChat ID'}
                 </p>
                 <p className="text-3xl font-bold text-black dark:text-white mb-4">
-                  DerrenX
+                  Recruit_Trader
                 </p>
                 <p className="text-xs text-gray-500 dark:text-gray-500">
                   {language === 'zh' ? '复制微信号，在微信中添加好友' : 'Copy WeChat ID and add as friend in WeChat'}
@@ -392,7 +404,7 @@ export default function SplanFooter() {
 
               <button
                 onClick={() => {
-                  navigator.clipboard.writeText('DerrenX');
+                  navigator.clipboard.writeText('Recruit_Trader');
                   alert(language === 'zh' ? '微信号已复制！' : 'WeChat ID copied!');
                 }}
                 className="w-full px-6 py-3 bg-black dark:bg-white text-white dark:text-black font-bold hover:bg-gray-800 dark:hover:bg-gray-200 transition-colors"

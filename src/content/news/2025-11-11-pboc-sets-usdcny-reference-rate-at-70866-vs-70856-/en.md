@@ -1,10 +1,10 @@
 ---
 title: "PBOC sets USD/CNY reference rate at 7.0866 vs. 7.0856 previous"
 date: "2025-11-11 01:25:08"
-description: "On Tuesday, the People’s Bank of China (PBOC) set the USD/CNY central rate for the trading session ahead at 7.0866 compa. Free forex trading training by FX Killer."
-keywords: ["forex","trading","market analysis","forex news","forex training","trader incubation","FX Killer"]
+description: "On Tuesday, the People’s Bank of China (PBOC) set the USD/CNY central rate for the trading session ahead at 7.0866 compa. Free forex trading training by StoneArk."
+keywords: ["forex","trading","market analysis","forex news","forex training","trader incubation","StoneArk"]
 category: "Forex News"
-source: "FX Killer Analysis Team"
+source: "StoneArk Analysis Team"
 language: "en"
 ---
 
@@ -14,15 +14,15 @@ The new exchange rate also contrasts with a Reuters estimate of 7.1204, indicati
 
 ---
 
-#### About FX Killer Trader Incubation Program
+#### About StoneArk Trader Incubation Program
 
-Want to become a professional trader? FX Killer offers a **completely free** professional trader training program. We provide systematic courses, practical training, and professional mentorship to help you grow from beginner to full-time trader.
+Want to become a professional trader? StoneArk offers a **completely free** professional trader training program. We provide systematic courses, practical training, and professional mentorship to help you grow from beginner to full-time trader.
 
 👉 [Join Free Training Program](/splan/join-us) | [Trading Psychology Assessment](/splan/psychology-test)
 
 ---
 
-**Data Source**: FX Killer Analysis Team
+**Data Source**: StoneArk Analysis Team
 **Updated**: 2025-11-11 01:25
 
 **Disclaimer**: This article is for reference only and does not constitute investment advice. Forex trading involves risks; please make decisions carefully.

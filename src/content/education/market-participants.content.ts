@@ -2,7 +2,7 @@ import { EducationPageContent } from './forex-basics.content';
 
 export const marketParticipantsContent = {
   zh: {
-    title: '外汇市场参与者完整指南 - 央行、机构与散户交易者角色分析 | FX Killer',
+    title: '外汇市场参与者完整指南 - 央行、机构与散户交易者角色分析 | StoneArk',
     description: '深入讲解外汇市场参与者：中央银行、商业银行、对冲基金、零售交易者的角色与影响。理解订单流动、市场结构、机构vs散户差异，提升交易胜率。',
     keywords: '外汇市场参与者, 中央银行, 对冲基金, 机构交易者, 散户交易者, 订单流, 市场结构',
 
@@ -74,14 +74,14 @@ export const marketParticipantsContent = {
     ctaPrimaryButton: '对比经纪商',
     ctaSecondaryButton: '免费模拟账户',
 
-    footerPrevText: '← 货币对指南',
-    footerNextText: 'K线形态 →',
+    footerPrevText: '< 货币对指南',
+    footerNextText: 'K线形态 >',
     footerPrevHref: '/education/currency-pairs-guide',
     footerNextHref: '/education/candlestick-patterns',
   } as EducationPageContent,
 
   en: {
-    title: 'Complete Market Participants Guide - Central Banks, Institutions & Retail Traders | FX Killer',
+    title: 'Complete Market Participants Guide - Central Banks, Institutions & Retail Traders | StoneArk',
     description: 'In-depth explanation of forex market participants: central banks, commercial banks, hedge funds, retail traders roles and influence. Understand order flow, market structure, institutional vs retail differences to improve trading.',
     keywords: 'forex market participants, central banks, hedge funds, institutional traders, retail traders, order flow, market structure',
 
@@ -153,8 +153,8 @@ export const marketParticipantsContent = {
     ctaPrimaryButton: 'Compare Brokers',
     ctaSecondaryButton: 'Free Demo Account',
 
-    footerPrevText: '← Currency Pairs',
-    footerNextText: 'Candlestick Patterns →',
+    footerPrevText: '< Currency Pairs',
+    footerNextText: 'Candlestick Patterns >',
     footerPrevHref: '/education/currency-pairs-guide',
     footerNextHref: '/education/candlestick-patterns',
   } as EducationPageContent,

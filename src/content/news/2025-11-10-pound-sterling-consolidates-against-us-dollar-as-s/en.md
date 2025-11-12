@@ -1,10 +1,10 @@
 ---
 title: "Pound Sterling consolidates against US Dollar as Senate advances stopgap bill"
 date: "2025-11-10 08:50:51"
-description: "The Pound Sterling (GBP) consolidates near 1.3150 against the US Dollar (USD) during the European trading session on Mon. Free forex trading training by FX Killer."
-keywords: ["forex","trading","market analysis","forex news","forex training","trader incubation","FX Killer"]
+description: "The Pound Sterling (GBP) consolidates near 1.3150 against the US Dollar (USD) during the European trading session on Mon. Free forex trading training by StoneArk."
+keywords: ["forex","trading","market analysis","forex news","forex training","trader incubation","StoneArk"]
 category: "Forex News"
-source: "FX Killer Analysis Team"
+source: "StoneArk Analysis Team"
 language: "en"
 ---
 
@@ -14,15 +14,15 @@ The approval of the bill has removed some immediate uncertainty; however, the ex
 
 ---
 
-#### About FX Killer Trader Incubation Program
+#### About StoneArk Trader Incubation Program
 
-Want to become a professional trader? FX Killer offers a **completely free** professional trader training program. We provide systematic courses, practical training, and professional mentorship to help you grow from beginner to full-time trader.
+Want to become a professional trader? StoneArk offers a **completely free** professional trader training program. We provide systematic courses, practical training, and professional mentorship to help you grow from beginner to full-time trader.
 
 👉 [Join Free Training Program](/splan/join-us) | [Trading Psychology Assessment](/splan/psychology-test)
 
 ---
 
-**Data Source**: FX Killer Analysis Team
+**Data Source**: StoneArk Analysis Team
 **Updated**: 2025-11-10 08:50
 
 **Disclaimer**: This article is for reference only and does not constitute investment advice. Forex trading involves risks; please make decisions carefully.

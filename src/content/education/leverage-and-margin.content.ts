@@ -2,7 +2,7 @@ import { EducationPageContent } from './forex-basics.content';
 
 export const leverageMarginContent = {
   zh: {
-    title: '外汇杠杆与保证金完整指南 - 深度解析交易杠杆原理与风险 | FX Killer',
+    title: '外汇杠杆与保证金完整指南 - 深度解析交易杠杆原理与风险 | StoneArk',
     description: '全面讲解外汇杠杆和保证金机制：杠杆比例选择、保证金计算、强制平仓规则、爆仓风险管理。帮助交易者理性使用杠杆，避免过度交易，实现稳健盈利。',
     keywords: '外汇杠杆, 保证金交易, 杠杆比例, 强制平仓, 爆仓, 保证金计算, 杠杆风险, 外汇风险管理',
 
@@ -70,18 +70,18 @@ export const leverageMarginContent = {
     ],
 
     ctaTitle: '想要学习专业的杠杆管理策略？',
-    ctaDescription: '加入 FX Killer 培训，掌握职业交易员的风险控制技巧',
+    ctaDescription: '加入 StoneArk 培训，掌握职业交易员的风险控制技巧',
     ctaPrimaryButton: '了解培训计划',
     ctaSecondaryButton: '免费心理测评',
 
-    footerPrevText: '← 点差与佣金',
-    footerNextText: '技术分析基础 →',
+    footerPrevText: '< 点差与佣金',
+    footerNextText: '技术分析基础 >',
     footerPrevHref: '/education/spreads-and-commissions',
     footerNextHref: '/education/bollinger-bands',
   } as EducationPageContent,
 
   en: {
-    title: 'Complete Guide to Forex Leverage and Margin - Deep Dive into Trading Mechanisms | FX Killer',
+    title: 'Complete Guide to Forex Leverage and Margin - Deep Dive into Trading Mechanisms | StoneArk',
     description: 'Comprehensive explanation of forex leverage and margin: leverage ratio selection, margin calculation, margin call rules, liquidation risk management. Learn to use leverage rationally for stable profitability.',
     keywords: 'forex leverage, margin trading, leverage ratio, margin call, liquidation, margin calculation, leverage risk, forex risk management',
 
@@ -149,12 +149,12 @@ export const leverageMarginContent = {
     ],
 
     ctaTitle: 'Want to Master Professional Leverage Management?',
-    ctaDescription: 'Join FX Killer training to learn professional risk control techniques',
+    ctaDescription: 'Join StoneArk training to learn professional risk control techniques',
     ctaPrimaryButton: 'Learn About Training',
     ctaSecondaryButton: 'Free Psychology Test',
 
-    footerPrevText: '← Spreads & Commissions',
-    footerNextText: 'Technical Analysis Basics →',
+    footerPrevText: '< Spreads & Commissions',
+    footerNextText: 'Technical Analysis Basics >',
     footerPrevHref: '/education/spreads-and-commissions',
     footerNextHref: '/education/bollinger-bands',
   } as EducationPageContent,

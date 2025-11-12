@@ -1,10 +1,10 @@
 ---
 title: "GBP/USD weakens to near 1.3150 as US Senate reaches deal to extend government funding"
 date: "2025-11-10 03:07:42"
-description: "The GBP/USD pair loses traction to near 1.3150, snapping the three-day losing streak during the early Asian session on M. Free forex trading training by FX Killer."
-keywords: ["forex","trading","market analysis","forex news","forex training","trader incubation","FX Killer"]
+description: "The GBP/USD pair loses traction to near 1.3150, snapping the three-day losing streak during the early Asian session on M. Free forex trading training by StoneArk."
+keywords: ["forex","trading","market analysis","forex news","forex training","trader incubation","StoneArk"]
 category: "Forex News"
-source: "FX Killer Analysis Team"
+source: "StoneArk Analysis Team"
 language: "en"
 ---
 
@@ -14,15 +14,15 @@ As traders react to the news from the US Senate about extending government fundi
 
 ---
 
-#### About FX Killer Trader Incubation Program
+#### About StoneArk Trader Incubation Program
 
-Want to become a professional trader? FX Killer offers a **completely free** professional trader training program. We provide systematic courses, practical training, and professional mentorship to help you grow from beginner to full-time trader.
+Want to become a professional trader? StoneArk offers a **completely free** professional trader training program. We provide systematic courses, practical training, and professional mentorship to help you grow from beginner to full-time trader.
 
 👉 [Join Free Training Program](/splan/join-us) | [Trading Psychology Assessment](/splan/psychology-test)
 
 ---
 
-**Data Source**: FX Killer Analysis Team
+**Data Source**: StoneArk Analysis Team
 **Updated**: 2025-11-10 03:07
 
 **Disclaimer**: This article is for reference only and does not constitute investment advice. Forex trading involves risks; please make decisions carefully.

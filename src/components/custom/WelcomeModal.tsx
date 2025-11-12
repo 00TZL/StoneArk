@@ -26,7 +26,7 @@ const WelcomeModal = forwardRef<WelcomeModalHandle>((props, ref) => {
   const { language } = useLanguage();
   const isZh = language === 'zh';
 
-  const emailAddress = "x.stark.dylan@gmail.com";
+  const emailAddress = "bigbossa.tzl@gmail.com";
   const siteUrl = "https://fxkiller.com";
   // B站视频嵌入地址
   const bilibiliEmbedUrl = "//player.bilibili.com/player.html?isOutside=true&aid=258136585&bvid=BV19a411X7eY&cid=767139112&p=1";
@@ -178,8 +178,8 @@ const WelcomeModal = forwardRef<WelcomeModalHandle>((props, ref) => {
                     ? '职业交易员介绍'
                     : 'Professional Trader Intro'
                   : isZh
-                  ? '欢迎来到 汇刃'
-                  : 'Welcome to FX Killer'}
+                  ? '欢迎来到 基石量化'
+                  : 'Welcome to StoneArk'}
               </h2>
               {isExpanded && (
                 <p className="text-xs text-gray-300 dark:text-gray-700">

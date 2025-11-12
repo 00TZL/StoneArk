@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find . -name *.json -type f -exec sh -c \"echo \"\"=== {} ===\"\"; wc -c \"\"{}\"\" | awk \"\"{if ($1 > 5000 && $1 < 6000) print $0}\"\"\")",
+      "Bash(node -c \"const fs = require(''fs''); const content = fs.readFileSync(''src/app/[locale]/(portal)/education/forex-basics/page.tsx'', ''utf8''); console.log(''File size:'', content.length); console.log(''Char at 5270:'', JSON.stringify(content.substring(5260, 5280)));\")",
+      "Bash(node -e \"const fs = require(''fs''); const file = ''src/app/[locale]/(portal)/education/forex-basics/page.tsx''; const content = fs.readFileSync(file, ''utf8''); console.log(''Position 5270:'', JSON.stringify(content.substring(5260, 5280)));\")",
+      "Bash(node -e \"const fs = require(''fs''); const content = JSON.stringify(require(''./src/content/education/forex-basics.content.ts'')); console.log(''JSON length:'', content.length); console.log(''Position 5270:'', JSON.stringify(content.substring(5260, 5290)));\")",
+      "Bash(node check-json.js)",
+      "Bash(find . -name \"*.ts\" -type f -exec sed -i \"s/← /< /g\" {} +)",
+      "Bash(find . -name \"*.ts\" -type f -exec sed -i \"s/ →/ >/g\" {} +)",
+      "Bash(git add -A)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

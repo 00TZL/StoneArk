@@ -25,13 +25,13 @@ const inter = Inter({
 export const metadata: Metadata = {
   metadataBase: new URL('https://fxkiller.com'),
   title: {
-    default: "FX Killer - Professional FX Trader Training Platform | 汇刃·外汇交易职业交易员培训",
-    template: "%s | FX Killer"
+    default: "StoneArk - Professional FX Trader Training Platform | 基石量化·外汇交易职业交易员培训",
+    template: "%s | StoneArk"
   },
-  description: "FX Killer (汇刃) - 专注于外汇交易的职业交易员培训平台。提供系统化外汇交易培训、实战训练和资金支持。通过专业考核即可获得资金管理权限，分润比例高达90%。培养真正适合外汇市场的专业交易员。",
+  description: "StoneArk (基石量化) - 专注于外汇交易的职业交易员培训平台。提供系统化外汇交易培训、实战训练和资金支持。通过专业考核即可获得资金管理权限，分润比例高达90%。培养真正适合外汇市场的专业交易员。",
   keywords: [
-    "FX Killer",
-    "汇刃",
+    "StoneArk",
+    "基石量化",
     "外汇交易",
     "外汇培训",
     "职业交易员",
@@ -54,9 +54,9 @@ export const metadata: Metadata = {
     "资金管理",
     "技术分析",
   ],
-  authors: [{ name: "FX Killer Team" }],
-  creator: "FX Killer",
-  publisher: "FX Killer",
+  authors: [{ name: "StoneArk Team" }],
+  creator: "StoneArk",
+  publisher: "StoneArk",
   formatDetection: {
     email: false,
     address: false,
@@ -74,24 +74,24 @@ export const metadata: Metadata = {
     locale: "zh_CN",
     alternateLocale: ["en_US"],
     url: "https://fxkiller.com",
-    siteName: "FX Killer | 汇刃",
-    title: "FX Killer - Professional FX Trader Training Platform | 汇刃·职业交易员培训",
+    siteName: "StoneArk | 基石量化",
+    title: "StoneArk - Professional FX Trader Training Platform | 基石量化·职业交易员培训",
     description: "专注于外汇交易的职业交易员培训平台。提供系统化外汇交易培训、实战训练和资金支持。通过专业考核即可获得资金管理权限，分润比例高达90%。",
     images: [
       {
         url: "/og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "FX Killer - Professional FX Trader Training Platform",
+        alt: "StoneArk - Professional FX Trader Training Platform",
         type: "image/jpeg",
       }
     ],
   },
   twitter: {
     card: "summary_large_image",
-    site: "@fxkiller",
-    creator: "@fxkiller",
-    title: "FX Killer - Professional FX Trader Training Platform",
+    site: "@stoneark",
+    creator: "@stoneark",
+    title: "StoneArk - Professional FX Trader Training Platform",
     description: "专注于外汇交易的职业交易员培训平台。提供系统化外汇交易培训、实战训练和资金支持。",
     images: ["/og-image.jpg"],
   },

@@ -11,8 +11,8 @@ export default function StructuredData() {
   const organizationSchema = {
     "@context": "https://schema.org",
     "@type": "EducationalOrganization",
-    "name": language === 'zh' ? "汇刃 FX Killer" : "FX Killer",
-    "alternateName": language === 'zh' ? "FX Killer" : "汇刃",
+    "name": language === 'zh' ? "基石量化 StoneArk" : "StoneArk",
+    "alternateName": language === 'zh' ? "StoneArk" : "基石量化",
     "url": "https://fxkiller.com",
     "logo": "https://fxkiller.com/logo.png",
     "description": language === 'zh'
@@ -34,7 +34,7 @@ export default function StructuredData() {
   const websiteSchema = {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    "name": "FX Killer",
+    "name": "StoneArk",
     "url": "https://fxkiller.com",
     "potentialAction": {
       "@type": "SearchAction",
@@ -50,13 +50,13 @@ export default function StructuredData() {
   const courseSchema = pathname.includes('/splan/courses') ? {
     "@context": "https://schema.org",
     "@type": "Course",
-    "name": language === 'zh' ? "FX Killer 职业交易员培训课程" : "FX Killer Professional Trader Training Course",
+    "name": language === 'zh' ? "StoneArk 职业交易员培训课程" : "StoneArk Professional Trader Training Course",
     "description": language === 'zh'
       ? "全面系统的外汇交易培训课程，涵盖基础知识、技术分析、风险管理、交易心理等"
       : "Comprehensive forex trading training course covering fundamentals, technical analysis, risk management, and trading psychology",
     "provider": {
       "@type": "Organization",
-      "name": "FX Killer"
+      "name": "StoneArk"
     },
     "courseMode": "online",
     "educationalLevel": "Beginner to Advanced"

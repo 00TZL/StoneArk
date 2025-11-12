@@ -1,10 +1,10 @@
 ---
 title: "GBP/USD consolidates as US shutdown optimism and BoE data drive sentiment"
 date: "2025-11-10 16:25:44"
-description: "GBP/USD consolidates during the North American session on Monday, remaining steady at around 1.3150 amid growing specula. Free forex trading training by FX Killer."
-keywords: ["forex","trading","market analysis","forex news","forex training","trader incubation","FX Killer"]
+description: "GBP/USD consolidates during the North American session on Monday, remaining steady at around 1.3150 amid growing specula. Free forex trading training by StoneArk."
+keywords: ["forex","trading","market analysis","forex news","forex training","trader incubation","StoneArk"]
 category: "Forex News"
-source: "FX Killer Analysis Team"
+source: "StoneArk Analysis Team"
 language: "en"
 ---
 
@@ -14,15 +14,15 @@ Market participants are closely monitoring developments in the US, which may bol
 
 ---
 
-#### About FX Killer Trader Incubation Program
+#### About StoneArk Trader Incubation Program
 
-Want to become a professional trader? FX Killer offers a **completely free** professional trader training program. We provide systematic courses, practical training, and professional mentorship to help you grow from beginner to full-time trader.
+Want to become a professional trader? StoneArk offers a **completely free** professional trader training program. We provide systematic courses, practical training, and professional mentorship to help you grow from beginner to full-time trader.
 
 👉 [Join Free Training Program](/splan/join-us) | [Trading Psychology Assessment](/splan/psychology-test)
 
 ---
 
-**Data Source**: FX Killer Analysis Team
+**Data Source**: StoneArk Analysis Team
 **Updated**: 2025-11-10 16:25
 
 **Disclaimer**: This article is for reference only and does not constitute investment advice. Forex trading involves risks; please make decisions carefully.
