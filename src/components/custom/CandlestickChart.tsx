@@ -158,22 +158,15 @@ export default function CandlestickChart() {
       return cciData;
     };
 
-    // Get candle color based on CCI (NS Indicator logic)
+    // Get candle color based on bullish/bearish (涨绿跌红)
     const getCandleColor = (cci1: number, cci2: number, isBullish: boolean): { body: string; wick: string; hollow: boolean } => {
-      // Sensitivity = 1 (default): CCI1 period = 7, CCI2 period = 49
-
-      if (cci1 >= 0 && cci2 >= 0) {
-        // Strong uptrend - Black border, hollow
-        return { body: 'rgba(0, 0, 0, 1)', wick: 'rgba(0, 0, 0, 1)', hollow: true };
-      } else if (cci1 < 0 && cci2 >= 0) {
-        // Weak/warning - Light gray, bullish candles hollow
-        return { body: 'rgba(180, 180, 180, 1)', wick: 'rgba(180, 180, 180, 1)', hollow: isBullish };
-      } else if (cci1 < 0 && cci2 < 0) {
-        // Strong downtrend - Black, filled
-        return { body: 'rgba(0, 0, 0, 1)', wick: 'rgba(0, 0, 0, 1)', hollow: false };
-      } else { // cci1 > 0 && cci2 < 0
-        // Bounce/weak - Light gray, bullish candles hollow
-        return { body: 'rgba(180, 180, 180, 1)', wick: 'rgba(180, 180, 180, 1)', hollow: isBullish };
+      // 涨的K线变成绿色，跌的K线变成红色
+      if (isBullish) {
+        // 阳线（涨）- 绿色，空心
+        return { body: 'rgba(34, 197, 94, 1)', wick: 'rgba(34, 197, 94, 1)', hollow: true };
+      } else {
+        // 阴线（跌）- 红色，实心
+        return { body: 'rgba(239, 68, 68, 1)', wick: 'rgba(239, 68, 68, 1)', hollow: false };
       }
     };
 

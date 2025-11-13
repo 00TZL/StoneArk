@@ -57,7 +57,7 @@ const DummyContent = () => {
   return (
     <div className="w-full -mt-20">
       {/* Hero Section - Full Width K-line Background */}
-      <div className="relative bg-white dark:bg-black overflow-hidden h-screen">
+      <div className="relative bg-gray-900 overflow-hidden h-screen">
         {/* K-line Chart Background */}
         <div className="absolute inset-0 w-full h-full">
           <CandlestickChart />

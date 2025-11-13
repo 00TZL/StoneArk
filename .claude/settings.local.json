@@ -8,7 +8,9 @@
       "Bash(node check-json.js)",
       "Bash(find . -name \"*.ts\" -type f -exec sed -i \"s/← /< /g\" {} +)",
       "Bash(find . -name \"*.ts\" -type f -exec sed -i \"s/ →/ >/g\" {} +)",
-      "Bash(git add -A)"
+      "Bash(git add -A)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nchore: Complete rebranding from FX Killer to StoneArk\n\n- Replace all \"FX Killer\"/\"FXKiller\" with \"StoneArk\"\n- Replace all \"汇刃\" with \"基石量化\"\n- Update email from x.stark.dylan@gmail.com to bigbossa.tzl@gmail.com\n- Update footer social media links (Telegram, X, YouTube, WeChat)\n- Update footer partners: remove FundedNext, add Bitget and Gate.io\n- Update Binance referral link and code\n- Create custom SVG favicon with trader and K-line chart design\n- Fix Unicode arrow characters in education content files\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git push origin main)"
     ],
     "deny": [],
     "ask": []

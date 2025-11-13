@@ -22,7 +22,7 @@ export default function BrandName() {
   return (
     <>
       {chars.map((char, index) => {
-        const isSecondPart = language === 'zh' ? index >= 1 : index >= 2;
+        const isSecondPart = language === 'zh' ? index >= 2 : index >= 2;
 
         return (
           <motion.span
