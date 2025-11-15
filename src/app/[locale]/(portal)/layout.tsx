@@ -6,6 +6,7 @@ import UnifiedNavbar from "@/components/layout/UnifiedNavbar";
 import SplanFooter from "@/components/splan/SplanFooter";
 import SubscriptionNotification from "@/components/custom/SubscriptionNotification";
 import FloatingContactForm from "@/components/custom/FloatingContactForm";
+import FloatingAIChatbot from "@/components/custom/FloatingAIChatbot";
 import WelcomeModalWrapper from "@/components/custom/WelcomeModalWrapper";
 import CalendlyWidget from "@/components/custom/CalendlyWidget";
 import StructuredData from "@/components/seo/StructuredData";
@@ -177,6 +178,7 @@ export default async function PortalLayout({
           <SplanFooter />
           <BackToTop />
           <FloatingContactForm />
+          <FloatingAIChatbot />
           <WelcomeModalWrapper />
           <CalendlyWidget />
           <SubscriptionNotification />
