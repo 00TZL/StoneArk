@@ -6,7 +6,7 @@ import EmailContactModal from '@/components/custom/EmailContactModal';
 export default function CoursesPage() {
   const [isEmailModalOpen, setIsEmailModalOpen] = useState(false);
   return (
-    <div className="min-h-screen bg-white dark:bg-gray-950">
+    <div className="min-h-screen bg-slate-50 dark:bg-slate-950">
       {/* Hero - Enhanced */}
       <div className="relative bg-gradient-to-br from-black via-gray-900 to-black text-white border-b-2 border-gray-800 overflow-hidden">
         {/* Decorative Background */}

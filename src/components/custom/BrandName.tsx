@@ -4,7 +4,11 @@ import { useLanguage } from '@/contexts/LanguageContext';
 import { motion } from 'framer-motion';
 import { useState, useEffect } from 'react';
 
-export default function BrandName() {
+interface BrandNameProps {
+  variant?: 'default' | 'inverse';
+}
+
+export default function BrandName({ variant = 'default' }: BrandNameProps) {
   const { language } = useLanguage();
   const [hasAnimated, setHasAnimated] = useState(false);
 
@@ -23,11 +27,21 @@ export default function BrandName() {
     <>
       {chars.map((char, index) => {
         const isSecondPart = language === 'zh' ? index >= 2 : index >= 2;
+        const primaryClass =
+          variant === 'inverse'
+            ? 'text-white'
+            : 'text-black dark:text-white';
+        const secondaryClass =
+          variant === 'inverse'
+            ? 'text-slate-300'
+            : 'text-gray-600 dark:text-gray-400';
 
         return (
           <motion.span
             key={`${language}-${index}`}
-            className={isSecondPart ? 'font-normal text-gray-600 dark:text-gray-400' : 'font-black text-black dark:text-white'}
+            className={`${isSecondPart ? 'font-normal' : 'font-black'} ${
+              isSecondPart ? secondaryClass : primaryClass
+            }`}
             initial={hasAnimated ? false : {
               x: (index % 2 === 0 ? -1 : 1) * 150,
               y: (index % 3 === 0 ? -1 : 1) * 80,

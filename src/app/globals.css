@@ -6,6 +6,12 @@
   /* 告诉浏览器我们已经处理了暗色模式，不要自动转换颜色 */
   :root {
     color-scheme: light;
+    /* 金融领域专业配色 */
+    --finance-primary: #1e3a8a; /* 深蓝色 */
+    --finance-secondary: #1e40af; /* 蓝色 */
+    --finance-accent: #f59e0b; /* 金色 */
+    --finance-dark: #0f172a; /* 深色 */
+    --finance-light: #f8fafc; /* 浅色背景 */
   }
 
   :root.dark {
@@ -13,11 +19,11 @@
   }
 
   * {
-    @apply border-gray-200;
+    @apply border-gray-300 dark:border-gray-700;
   }
 
   body {
-    @apply bg-white text-gray-900;
+    @apply bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100;
     font-family: var(--font-inter), system-ui, sans-serif;
   }
 }

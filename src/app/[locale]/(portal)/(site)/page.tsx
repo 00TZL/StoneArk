@@ -55,9 +55,9 @@ const DummyContent = () => {
   }, [profitImages.length]);
 
   return (
-    <div className="w-full -mt-20">
+    <div className="w-full -mt-20 bg-slate-50 dark:bg-slate-950">
       {/* Hero Section - Full Width K-line Background */}
-      <div className="relative bg-gray-900 overflow-hidden h-screen">
+      <div className="relative bg-slate-50 dark:bg-slate-950 overflow-hidden h-screen">
         {/* K-line Chart Background */}
         <div className="absolute inset-0 w-full h-full">
           <CandlestickChart />
@@ -95,14 +95,14 @@ const DummyContent = () => {
                   <>
                     <p>精准、专业、高效</p>
                     <p>
-                      <span className="inline-block bg-black dark:bg-white text-white dark:text-black px-3 py-1 animate-pulse">免费培养</span>真正的外汇交易专家
+                      <span className="inline-block bg-amber-500 dark:bg-amber-600 text-white px-3 py-1 animate-pulse rounded">免费培养</span>真正的外汇交易专家
                     </p>
                   </>
                 ) : (
                   <>
                     <p>Precise, Professional, Efficient</p>
                     <p>
-                      <span className="inline-block bg-black dark:bg-white text-white dark:text-black px-3 py-1 animate-pulse whitespace-nowrap">Free Training</span>{' '}
+                      <span className="inline-block bg-amber-500 dark:bg-amber-600 text-white px-3 py-1 animate-pulse whitespace-nowrap rounded">Free Training</span>{' '}
                       for True Forex Trading&nbsp;Experts
                     </p>
                   </>
@@ -116,14 +116,14 @@ const DummyContent = () => {
                 <PulseButton>
                   <ShineButton
                     onClick={() => router.push(`/${language}/splan/join-us`)}
-                    className="px-12 py-6 bg-black dark:bg-white text-white dark:text-black text-xl font-black border-2 border-black dark:border-white hover:bg-white hover:text-black dark:hover:bg-black dark:hover:text-white transition-all shadow-lg"
+                    className="px-12 py-6 bg-blue-900 dark:bg-blue-800 text-white text-xl font-bold border-2 border-blue-900 dark:border-blue-800 hover:bg-blue-800 dark:hover:bg-blue-700 transition-all shadow-lg rounded-lg"
                   >
                     {t('hero.cta.learn')}
                   </ShineButton>
                 </PulseButton>
                 <button
                   onClick={() => router.push(`/${language}/dashboard`)}
-                  className="px-12 py-6 bg-white dark:bg-black text-black dark:text-white text-xl font-black border-2 border-black dark:border-white hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-all"
+                  className="px-12 py-6 bg-white dark:bg-slate-800 text-blue-900 dark:text-blue-200 text-xl font-bold border-2 border-blue-900 dark:border-blue-700 hover:bg-blue-50 dark:hover:bg-slate-700 transition-all rounded-lg"
                 >
                   {t('hero.cta.dashboard')}
                 </button>
@@ -151,8 +151,8 @@ const DummyContent = () => {
           <FadeInSlide direction="up" delay={0.1}>
             <HoverCard className="h-full">
               <div className="p-8 bg-white dark:bg-gray-800 border-2 border-gray-200 dark:border-gray-700 h-full hover:border-black dark:hover:border-white transition-colors">
-                <div className="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-                  <span className="text-2xl text-white dark:text-black font-bold">1</span>
+                <div className="mb-4 w-12 h-12 bg-blue-900 dark:bg-blue-800 flex items-center justify-center rounded-lg">
+                  <span className="text-2xl text-white font-bold">1</span>
                 </div>
                 <h3 className="text-2xl font-bold mb-4 text-black dark:text-white">{t('advantage.selection.title')}</h3>
                 <p className="text-gray-600 dark:text-gray-400 leading-relaxed">
@@ -165,8 +165,8 @@ const DummyContent = () => {
           <FadeInSlide direction="up" delay={0.2}>
             <HoverCard className="h-full">
               <div className="p-8 bg-white dark:bg-gray-800 border-2 border-gray-200 dark:border-gray-700 h-full hover:border-black dark:hover:border-white transition-colors">
-                <div className="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-                  <span className="text-2xl text-white dark:text-black font-bold">2</span>
+                <div className="mb-4 w-12 h-12 bg-blue-900 dark:bg-blue-800 flex items-center justify-center rounded-lg">
+                  <span className="text-2xl text-white font-bold">2</span>
                 </div>
                 <h3 className="text-2xl font-bold mb-4 text-black dark:text-white">{t('advantage.growth.title')}</h3>
                 <p className="text-gray-600 dark:text-gray-400 leading-relaxed">
@@ -179,8 +179,8 @@ const DummyContent = () => {
           <FadeInSlide direction="up" delay={0.3}>
             <HoverCard className="h-full">
               <div className="p-8 bg-white dark:bg-gray-800 border-2 border-gray-200 dark:border-gray-700 h-full hover:border-black dark:hover:border-white transition-colors">
-                <div className="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-                  <span className="text-2xl text-white dark:text-black font-bold">3</span>
+                <div className="mb-4 w-12 h-12 bg-blue-900 dark:bg-blue-800 flex items-center justify-center rounded-lg">
+                  <span className="text-2xl text-white font-bold">3</span>
                 </div>
                 <h3 className="text-2xl font-bold mb-4 text-black dark:text-white">{t('advantage.commission.title')}</h3>
                 <p className="text-gray-600 dark:text-gray-400 leading-relaxed">
@@ -194,7 +194,7 @@ const DummyContent = () => {
         {/* 与传统培训对比 */}
         <div className="bg-gray-50 dark:bg-gray-900 border-2 border-gray-200 dark:border-gray-800 p-8">
           <h3 className="text-2xl font-bold text-center mb-8 text-black dark:text-white">
-            <span className="bg-black dark:bg-white text-white dark:text-black px-4 py-2">{t('comparison.vs')}</span>
+            <span className="bg-blue-900 dark:bg-blue-800 text-white px-4 py-2 rounded">{t('comparison.vs')}</span>
           </h3>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             {/* StoneArk */}

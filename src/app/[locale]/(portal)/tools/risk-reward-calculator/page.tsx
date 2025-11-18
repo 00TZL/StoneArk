@@ -72,7 +72,7 @@ export default function RiskRewardCalculatorPage() {
   const results = calculateResults();
 
   return (
-    <div className="min-h-screen bg-white dark:bg-gray-900 pt-24 pb-16">
+    <div className="min-h-screen bg-gray-50 dark:bg-gray-950 pt-24 pb-16">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Header */}
         <div className="text-center mb-12">

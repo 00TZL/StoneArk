@@ -21,7 +21,7 @@ export default function DonatePage() {
   }, []);
 
   return (
-    <div className="min-h-screen bg-white dark:bg-gray-900">
+    <div className="min-h-screen bg-slate-50 dark:bg-slate-950">
       {/* Hero Section - 增强版 */}
       <div className="relative overflow-hidden bg-gradient-to-br from-black via-gray-900 to-black border-b-2 border-gray-800">
         {/* 装饰性背景 */}
