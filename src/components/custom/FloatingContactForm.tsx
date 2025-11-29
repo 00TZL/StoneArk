@@ -15,7 +15,7 @@ export default function FloatingContactForm() {
   const isZh = language === 'zh';
 
   const emailAddress = "bigbossa.tzl@gmail.com";
-  const siteUrl = "https://fxkiller.com";
+  const siteUrl = "https://www.jishilianghua.com";
 
   const handleSubmit = (e: React.FormEvent) => {
     // Form will be submitted by FormSubmit.co
