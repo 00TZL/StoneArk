@@ -9,6 +9,7 @@ interface Post {
   author: string;
   avatar: string;
   content: string;
+  image?: string;
   timestamp: string;
   likes: number;
   replies: number;
@@ -21,6 +22,8 @@ export default function CommunityPage() {
   const [posts, setPosts] = useState<Post[]>([]);
   const [newPost, setNewPost] = useState('');
   const [username, setUsername] = useState('');
+  const [imageFile, setImageFile] = useState<File | null>(null);
+  const [imagePreview, setImagePreview] = useState<string>('');
   const [isLoading, setIsLoading] = useState(true);
 
   // 加载帖子
@@ -40,6 +43,18 @@ export default function CommunityPage() {
     }
   };
 
+  const handleImageChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const file = e.target.files?.[0];
+    if (file) {
+      setImageFile(file);
+      const reader = new FileReader();
+      reader.onloadend = () => {
+        setImagePreview(reader.result as string);
+      };
+      reader.readAsDataURL(file);
+    }
+  };
+
   const handleSubmitPost = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!newPost.trim() || !username.trim()) return;
@@ -49,6 +64,7 @@ export default function CommunityPage() {
       author: username,
       avatar: '🆕',
       content: newPost,
+      image: imagePreview || undefined,
       timestamp: new Date().toISOString(),
       likes: 0,
       replies: 0,
@@ -67,6 +83,8 @@ export default function CommunityPage() {
         setPosts([post, ...posts]);
         setNewPost('');
         setUsername('');
+        setImageFile(null);
+        setImagePreview('');
       }
     } catch (error) {
       console.error('Error creating post:', error);
@@ -158,6 +176,34 @@ export default function CommunityPage() {
                 required
               />
             </div>
+            <div>
+              <label className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
+                {isZh ? '上传图片（可选）' : 'Upload Image (Optional)'}
+              </label>
+              <input
+                type="file"
+                accept="image/*"
+                onChange={handleImageChange}
+                className="w-full px-4 py-2 border-2 border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-800 text-gray-900 dark:text-white rounded-lg focus:border-blue-500 dark:focus:border-blue-400 outline-none transition-colors"
+              />
+              {imagePreview && (
+                <div className="mt-3 relative">
+                  <img src={imagePreview} alt="Preview" className="max-h-48 rounded-lg" />
+                  <button
+                    type="button"
+                    onClick={() => {
+                      setImageFile(null);
+                      setImagePreview('');
+                    }}
+                    className="absolute top-2 right-2 bg-red-500 hover:bg-red-600 text-white rounded-full p-1"
+                  >
+                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                    </svg>
+                  </button>
+                </div>
+              )}
+            </div>
             <button
               type="submit"
               className="px-6 py-2 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg transition-colors"
@@ -194,6 +240,13 @@ export default function CommunityPage() {
               <p className="text-gray-800 dark:text-gray-200 mb-4 whitespace-pre-wrap">
                 {post.content}
               </p>
+
+              {/* Post Image */}
+              {post.image && (
+                <div className="mb-4">
+                  <img src={post.image} alt="Post image" className="max-w-full rounded-lg" />
+                </div>
+              )}
 
               {/* Post Actions */}
               <div className="flex items-center gap-6 pt-4 border-t border-gray-200 dark:border-gray-800">
