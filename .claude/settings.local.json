@@ -19,7 +19,19 @@
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(npx tsc:*)",
-      "Bash(pnpm run build)"
+      "Bash(pnpm run build)",
+      "Bash(node -e:*)",
+      "Bash(node check-char.js:*)",
+      "Bash(netstat:*)",
+      "Bash(findstr:*)",
+      "Bash(taskkill:*)",
+      "Bash(pnpm update:*)",
+      "Bash(set:*)",
+      "Bash(pnpm next build:*)",
+      "Bash(ren:*)",
+      "Bash(pnpm install:*)",
+      "Bash(git rm:*)",
+      "Bash(ls:*)"
     ],
     "deny": [],
     "ask": []
