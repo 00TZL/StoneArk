@@ -4,7 +4,7 @@ import type { NextRequest } from 'next/server';
 const locales = ['zh', 'en'];
 const defaultLocale = 'zh';
 
-// Paths that should not be processed by the middleware
+// Paths that should not be processed by the proxy
 const excludedPaths = [
   '/api',
   '/_next',
@@ -15,7 +15,7 @@ const excludedPaths = [
   '/models',
 ];
 
-export function middleware(request: NextRequest) {
+export function proxy(request: NextRequest) {
   const pathname = request.nextUrl.pathname;
 
   // Skip excluded paths
