@@ -209,18 +209,6 @@ export default function SplanFooter() {
             <ul className="space-y-2 text-sm">
               <li>
                 <a
-                  href="https://i.ecmarkets.com/api/client/pm/2/99R9C"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-gray-400 hover:text-white transition-colors"
-                >
-                  EC Markets
-                </a>
-                <span className="text-xs text-gray-500 ml-2">{language === 'zh' ? '邀请码' : 'Code'}:</span>
-                <code className="text-xs bg-gray-800 px-2 py-0.5 text-gray-400 font-mono ml-1">99R9C</code>
-              </li>
-              <li>
-                <a
                   href="https://my.tickmill.com?utm_campaign=ib_link&utm_content=IB47958600&utm_medium=Open+Account&utm_source=link&lp=https%3A%2F%2Fmy.tickmill.com%2Fzh%2Fsign-up%2F"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -229,7 +217,7 @@ export default function SplanFooter() {
                   TickMill
                 </a>
                 <span className="text-xs text-gray-500 ml-2">{language === 'zh' ? '邀请码' : 'Code'}:</span>
-                <code className="text-xs bg-gray-800 px-2 py-0.5 text-gray-400 font-mono ml-1">IB47958600</code>
+                <code className="text-xs bg-gray-800 px-2 py-0.5 text-gray-400 font-mono ml-1">IB14846232</code>
               </li>
               <li>
                 <a
