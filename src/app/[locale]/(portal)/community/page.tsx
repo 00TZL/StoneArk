@@ -119,13 +119,24 @@ export default function CommunityPage() {
 
   const formatTimestamp = (timestamp: string) => {
     const date = new Date(timestamp);
-    const now = new Date();
-    const diff = Math.floor((now.getTime() - date.getTime()) / 1000);
 
-    if (diff < 60) return isZh ? '刚刚' : 'Just now';
-    if (diff < 3600) return isZh ? `${Math.floor(diff / 60)}分钟前` : `${Math.floor(diff / 60)}m ago`;
-    if (diff < 86400) return isZh ? `${Math.floor(diff / 3600)}小时前` : `${Math.floor(diff / 3600)}h ago`;
-    return isZh ? `${Math.floor(diff / 86400)}天前` : `${Math.floor(diff / 86400)}d ago`;
+    if (isZh) {
+      const year = date.getFullYear();
+      const month = date.getMonth() + 1;
+      const day = date.getDate();
+      const hours = date.getHours().toString().padStart(2, '0');
+      const minutes = date.getMinutes().toString().padStart(2, '0');
+      return `${year}年${month}月${day}日 ${hours}:${minutes}`;
+    } else {
+      const options: Intl.DateTimeFormatOptions = {
+        year: 'numeric',
+        month: 'short',
+        day: 'numeric',
+        hour: '2-digit',
+        minute: '2-digit'
+      };
+      return date.toLocaleString('en-US', options);
+    }
   };
 
   return (
