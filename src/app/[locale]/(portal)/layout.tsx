@@ -8,7 +8,6 @@ import SubscriptionNotification from "@/components/custom/SubscriptionNotificati
 import FloatingContactForm from "@/components/custom/FloatingContactForm";
 import FloatingAIChatbot from "@/components/custom/FloatingAIChatbot";
 import WelcomeModalWrapper from "@/components/custom/WelcomeModalWrapper";
-import CalendlyWidget from "@/components/custom/CalendlyWidget";
 import StructuredData from "@/components/seo/StructuredData";
 import Providers from "@/components/providers/Providers";
 import MouseFollower from "@/components/effects/MouseFollower";
@@ -180,7 +179,6 @@ export default async function PortalLayout({
           <FloatingContactForm />
           <FloatingAIChatbot />
           <WelcomeModalWrapper />
-          <CalendlyWidget />
           <SubscriptionNotification />
           <Analytics />
           <SpeedInsights />
