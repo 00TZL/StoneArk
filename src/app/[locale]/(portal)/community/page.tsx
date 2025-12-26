@@ -6,6 +6,8 @@ import { useLanguage } from '@/contexts/LanguageContext';
 import { blogPosts } from '@/data/blogPosts';
 import { motion } from 'motion/react';
 
+export const dynamic = 'force-dynamic';
+
 interface Post {
   id: number;
   author: string;
