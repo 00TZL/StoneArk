@@ -19,6 +19,10 @@ export default function UnifiedNavbar() {
 
   const navItems = [
     {
+      name: t('nav.psychology'),
+      link: "/splan/psychology-test",
+    },
+    {
       name: t('nav.training'),
       link: "/splan/join-us",
     },
@@ -48,10 +52,6 @@ export default function UnifiedNavbar() {
     {
       name: t('nav.blog'),
       link: "/splan/blog",
-    },
-    {
-      name: t('nav.psychology'),
-      link: "/splan/psychology-test",
     },
     {
       name: t('nav.dashboard'),
