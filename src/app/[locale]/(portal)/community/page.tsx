@@ -25,10 +25,7 @@ export default function CommunityPage() {
   const { language } = useLanguage();
   const isZh = language === 'zh';
 
-  const tabParam = searchParams.get('tab');
-  const [activeTab, setActiveTab] = useState<'community' | 'blog'>(
-    tabParam === 'blog' ? 'blog' : 'community'
-  );
+  const [activeTab, setActiveTab] = useState<'community' | 'blog'>('community');
   const [posts, setPosts] = useState<Post[]>([]);
   const [newPost, setNewPost] = useState('');
   const [username, setUsername] = useState('');
@@ -39,10 +36,11 @@ export default function CommunityPage() {
 
   // Update tab from URL parameter
   useEffect(() => {
+    const tabParam = searchParams.get('tab');
     if (tabParam === 'blog') {
       setActiveTab('blog');
     }
-  }, [tabParam]);
+  }, [searchParams]);
 
   // 加载帖子
   useEffect(() => {
