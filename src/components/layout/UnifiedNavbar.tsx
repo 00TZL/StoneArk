@@ -50,10 +50,6 @@ export default function UnifiedNavbar() {
       link: "/community",
     },
     {
-      name: t('nav.blog'),
-      link: "/splan/blog",
-    },
-    {
       name: t('nav.dashboard'),
       link: "/dashboard",
     },

@@ -23,7 +23,7 @@ export default function BlogPostPage() {
             {t('blog.notFound')}
           </h1>
           <button
-            onClick={() => router.push(`/${language}/splan/blog`)}
+            onClick={() => router.push(`/${language}/community?tab=blog`)}
             className="px-6 py-3 bg-black dark:bg-white text-white dark:text-black font-semibold hover:bg-gray-800 dark:hover:bg-gray-200 transition-colors"
           >
             {t('blog.backToBlog')}
@@ -59,7 +59,7 @@ export default function BlogPostPage() {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           {/* Back Button */}
           <button
-            onClick={() => router.push(`/${language}/splan/blog`)}
+            onClick={() => router.push(`/${language}/community?tab=blog`)}
             className="flex items-center gap-2 text-gray-600 dark:text-gray-400 hover:text-black dark:hover:text-white mb-8 transition-colors"
           >
             <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
