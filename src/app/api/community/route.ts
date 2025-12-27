@@ -63,7 +63,7 @@ export async function PUT(request: Request) {
   try {
     ensureDataDirectory();
 
-    const { id, likes, replies } = await request.json();
+    const { id, likes, replies, comments } = await request.json();
 
     if (!fs.existsSync(DATA_FILE)) {
       return NextResponse.json(
@@ -77,7 +77,12 @@ export async function PUT(request: Request) {
 
     posts = posts.map((post: any) =>
       post.id === id
-        ? { ...post, likes: likes ?? post.likes, replies: replies ?? post.replies }
+        ? {
+            ...post,
+            likes: likes ?? post.likes,
+            replies: replies ?? post.replies,
+            comments: comments ?? post.comments
+          }
         : post
     );
 

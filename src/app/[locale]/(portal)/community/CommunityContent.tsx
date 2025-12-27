@@ -6,6 +6,13 @@ import { useLanguage } from '@/contexts/LanguageContext';
 import { blogPosts } from '@/data/blogPosts';
 import { motion } from 'motion/react';
 
+interface Comment {
+  id: number;
+  author: string;
+  content: string;
+  timestamp: string;
+}
+
 interface Post {
   id: number;
   author: string;
@@ -15,6 +22,7 @@ interface Post {
   timestamp: string;
   likes: number;
   replies: number;
+  comments?: Comment[];
 }
 
 export default function CommunityContent() {
@@ -31,6 +39,9 @@ export default function CommunityContent() {
   const [imagePreview, setImagePreview] = useState<string>('');
   const [isLoading, setIsLoading] = useState(true);
   const [selectedCategory, setSelectedCategory] = useState<string>('all');
+  const [showComments, setShowComments] = useState<Record<number, boolean>>({});
+  const [newComment, setNewComment] = useState<Record<number, string>>({});
+  const [commentAuthor, setCommentAuthor] = useState<Record<number, string>>({});
 
   // Update tab from URL parameter
   useEffect(() => {
@@ -82,6 +93,7 @@ export default function CommunityContent() {
       timestamp: new Date().toISOString(),
       likes: 0,
       replies: 0,
+      comments: [],
     };
 
     try {
@@ -128,6 +140,53 @@ export default function CommunityContent() {
       ));
     } catch (error) {
       console.error('Error updating like:', error);
+    }
+  };
+
+  const toggleComments = (postId: number) => {
+    setShowComments(prev => ({ ...prev, [postId]: !prev[postId] }));
+  };
+
+  const handleAddComment = async (postId: number) => {
+    const commentText = newComment[postId]?.trim();
+    const author = commentAuthor[postId]?.trim();
+
+    if (!commentText || !author) return;
+
+    const comment: Comment = {
+      id: Date.now(),
+      author,
+      content: commentText,
+      timestamp: new Date().toISOString(),
+    };
+
+    const post = posts.find(p => p.id === postId);
+    if (!post) return;
+
+    const updatedComments = [...(post.comments || []), comment];
+    const newReplies = updatedComments.length;
+
+    try {
+      await fetch('/api/community', {
+        method: 'PUT',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          id: postId,
+          comments: updatedComments,
+          replies: newReplies,
+        }),
+      });
+
+      setPosts(posts.map(p =>
+        p.id === postId ? { ...p, comments: updatedComments, replies: newReplies } : p
+      ));
+
+      setNewComment(prev => ({ ...prev, [postId]: '' }));
+      setCommentAuthor(prev => ({ ...prev, [postId]: '' }));
+    } catch (error) {
+      console.error('Error adding comment:', error);
     }
   };
 
@@ -329,13 +388,73 @@ export default function CommunityContent() {
                       </svg>
                       <span className="font-medium">{post.likes}</span>
                     </button>
-                    <button className="flex items-center gap-2 text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
+                    <button
+                      onClick={() => toggleComments(post.id)}
+                      className="flex items-center gap-2 text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
+                    >
                       <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
                       </svg>
                       <span className="font-medium">{post.replies}</span>
                     </button>
                   </div>
+
+                  {/* Comments Section */}
+                  {showComments[post.id] && (
+                    <div className="mt-4 pt-4 border-t border-gray-200 dark:border-gray-800">
+                      {/* Existing Comments */}
+                      {post.comments && post.comments.length > 0 && (
+                        <div className="space-y-3 mb-4">
+                          {post.comments.map((comment) => (
+                            <div key={comment.id} className="bg-gray-50 dark:bg-gray-800 rounded-lg p-3">
+                              <div className="flex items-center gap-2 mb-1">
+                                <span className="font-semibold text-sm text-gray-900 dark:text-white">
+                                  {comment.author}
+                                </span>
+                                <span className="text-xs text-gray-500 dark:text-gray-400">
+                                  {formatTimestamp(comment.timestamp)}
+                                </span>
+                              </div>
+                              <p className="text-sm text-gray-700 dark:text-gray-300">
+                                {comment.content}
+                              </p>
+                            </div>
+                          ))}
+                        </div>
+                      )}
+
+                      {/* Add Comment Form */}
+                      <div className="space-y-2">
+                        <input
+                          type="text"
+                          placeholder={isZh ? '你的昵称' : 'Your name'}
+                          value={commentAuthor[post.id] || ''}
+                          onChange={(e) => setCommentAuthor(prev => ({ ...prev, [post.id]: e.target.value }))}
+                          className="w-full px-3 py-2 text-sm border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-800 text-gray-900 dark:text-white rounded-lg focus:border-blue-500 dark:focus:border-blue-400 outline-none"
+                        />
+                        <div className="flex gap-2">
+                          <input
+                            type="text"
+                            placeholder={isZh ? '写下你的评论...' : 'Write a comment...'}
+                            value={newComment[post.id] || ''}
+                            onChange={(e) => setNewComment(prev => ({ ...prev, [post.id]: e.target.value }))}
+                            onKeyPress={(e) => {
+                              if (e.key === 'Enter') {
+                                handleAddComment(post.id);
+                              }
+                            }}
+                            className="flex-1 px-3 py-2 text-sm border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-800 text-gray-900 dark:text-white rounded-lg focus:border-blue-500 dark:focus:border-blue-400 outline-none"
+                          />
+                          <button
+                            onClick={() => handleAddComment(post.id)}
+                            className="px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white text-sm font-medium rounded-lg transition-colors"
+                          >
+                            {isZh ? '发送' : 'Send'}
+                          </button>
+                        </div>
+                      </div>
+                    </div>
+                  )}
                 </motion.div>
               ))}
             </div>
