@@ -42,6 +42,7 @@ export default function CommunityContent() {
   const [showComments, setShowComments] = useState<Record<number, boolean>>({});
   const [newComment, setNewComment] = useState<Record<number, string>>({});
   const [commentAuthor, setCommentAuthor] = useState<Record<number, string>>({});
+  const [showUsernamePrompt, setShowUsernamePrompt] = useState(false);
 
   // Update tab from URL parameter
   useEffect(() => {
@@ -50,6 +51,14 @@ export default function CommunityContent() {
       setActiveTab('blog');
     }
   }, [searchParams]);
+
+  // Load username from localStorage
+  useEffect(() => {
+    const savedUsername = localStorage.getItem('community_username');
+    if (savedUsername) {
+      setUsername(savedUsername);
+    }
+  }, []);
 
   // 加载帖子
   useEffect(() => {
@@ -82,7 +91,17 @@ export default function CommunityContent() {
 
   const handleSubmitPost = async (e: React.FormEvent) => {
     e.preventDefault();
-    if (!newPost.trim() || !username.trim()) return;
+
+    // Check if username is set, if not show prompt
+    if (!username.trim()) {
+      setShowUsernamePrompt(true);
+      return;
+    }
+
+    if (!newPost.trim()) return;
+
+    // Save username to localStorage
+    localStorage.setItem('community_username', username);
 
     const post: Post = {
       id: Date.now(),
@@ -108,7 +127,6 @@ export default function CommunityContent() {
       if (response.ok) {
         setPosts([post, ...posts]);
         setNewPost('');
-        setUsername('');
         setImageFile(null);
         setImagePreview('');
       }
@@ -149,9 +167,19 @@ export default function CommunityContent() {
 
   const handleAddComment = async (postId: number) => {
     const commentText = newComment[postId]?.trim();
-    const author = commentAuthor[postId]?.trim();
+    let author = commentAuthor[postId]?.trim();
+
+    // If no author provided for this comment, use the saved username
+    if (!author && username) {
+      author = username;
+    }
 
     if (!commentText || !author) return;
+
+    // Save username to localStorage if not already saved
+    if (username && !localStorage.getItem('community_username')) {
+      localStorage.setItem('community_username', username);
+    }
 
     const comment: Comment = {
       id: Date.now(),
@@ -288,20 +316,45 @@ export default function CommunityContent() {
               transition={{ delay: 0.1 }}
               className="bg-gray-50 dark:bg-gray-900 border-2 border-gray-200 dark:border-gray-800 rounded-2xl p-6 mb-6"
             >
-              <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-4">
-                {isZh ? '发表内容' : 'Create Post'}
-              </h2>
+              <div className="flex items-center justify-between mb-4">
+                <h2 className="text-xl font-bold text-gray-900 dark:text-white">
+                  {isZh ? '发表内容' : 'Create Post'}
+                </h2>
+                {username && (
+                  <div className="flex items-center gap-2">
+                    <span className="text-sm text-gray-600 dark:text-gray-400">
+                      {isZh ? '当前用户：' : 'Current user: '}
+                      <span className="font-semibold text-gray-900 dark:text-white">{username}</span>
+                    </span>
+                    <button
+                      type="button"
+                      onClick={() => {
+                        setUsername('');
+                        localStorage.removeItem('community_username');
+                      }}
+                      className="text-xs text-blue-600 dark:text-blue-400 hover:underline"
+                    >
+                      {isZh ? '更改' : 'Change'}
+                    </button>
+                  </div>
+                )}
+              </div>
               <form onSubmit={handleSubmitPost} className="space-y-4">
-                <div>
-                  <input
-                    type="text"
-                    placeholder={isZh ? '你的昵称' : 'Your username'}
-                    value={username}
-                    onChange={(e) => setUsername(e.target.value)}
-                    className="w-full px-4 py-2 border-2 border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-800 text-gray-900 dark:text-white rounded-lg focus:border-blue-500 dark:focus:border-blue-400 outline-none transition-colors"
-                    required
-                  />
-                </div>
+                {!username && (
+                  <div>
+                    <input
+                      type="text"
+                      placeholder={isZh ? '请输入你的昵称' : 'Enter your username'}
+                      value={username}
+                      onChange={(e) => setUsername(e.target.value)}
+                      className="w-full px-4 py-2 border-2 border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-800 text-gray-900 dark:text-white rounded-lg focus:border-blue-500 dark:focus:border-blue-400 outline-none transition-colors"
+                      required
+                    />
+                    <p className="mt-1 text-xs text-gray-500 dark:text-gray-400">
+                      {isZh ? '首次发帖需要设置昵称，之后会自动保存' : 'Set your username for the first post, it will be saved automatically'}
+                    </p>
+                  </div>
+                )}
                 <div>
                   <textarea
                     placeholder={isZh ? '分享你的想法、经验或问题...' : 'Share your thoughts, experiences, or questions...'}
@@ -425,13 +478,15 @@ export default function CommunityContent() {
 
                       {/* Add Comment Form */}
                       <div className="space-y-2">
-                        <input
-                          type="text"
-                          placeholder={isZh ? '你的昵称' : 'Your name'}
-                          value={commentAuthor[post.id] || ''}
-                          onChange={(e) => setCommentAuthor(prev => ({ ...prev, [post.id]: e.target.value }))}
-                          className="w-full px-3 py-2 text-sm border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-800 text-gray-900 dark:text-white rounded-lg focus:border-blue-500 dark:focus:border-blue-400 outline-none"
-                        />
+                        {!username && !commentAuthor[post.id] && (
+                          <input
+                            type="text"
+                            placeholder={isZh ? '你的昵称' : 'Your name'}
+                            value={commentAuthor[post.id] || ''}
+                            onChange={(e) => setCommentAuthor(prev => ({ ...prev, [post.id]: e.target.value }))}
+                            className="w-full px-3 py-2 text-sm border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-800 text-gray-900 dark:text-white rounded-lg focus:border-blue-500 dark:focus:border-blue-400 outline-none"
+                          />
+                        )}
                         <div className="flex gap-2">
                           <input
                             type="text"
@@ -452,6 +507,11 @@ export default function CommunityContent() {
                             {isZh ? '发送' : 'Send'}
                           </button>
                         </div>
+                        {username && (
+                          <p className="text-xs text-gray-500 dark:text-gray-400">
+                            {isZh ? `以 ${username} 的身份评论` : `Commenting as ${username}`}
+                          </p>
+                        )}
                       </div>
                     </div>
                   )}
