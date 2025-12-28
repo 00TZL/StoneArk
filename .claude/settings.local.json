@@ -31,7 +31,10 @@
       "Bash(ren:*)",
       "Bash(pnpm install:*)",
       "Bash(git rm:*)",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Bash(del:*)",
+      "Bash(wc:*)",
+      "Bash(pnpm run dev)"
     ],
     "deny": [],
     "ask": []
