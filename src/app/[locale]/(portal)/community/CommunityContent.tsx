@@ -42,7 +42,7 @@ export default function CommunityContent() {
   const [showComments, setShowComments] = useState<Record<number, boolean>>({});
   const [newComment, setNewComment] = useState<Record<number, string>>({});
   const [commentAuthor, setCommentAuthor] = useState<Record<number, string>>({});
-  const [showUsernamePrompt, setShowUsernamePrompt] = useState(false);
+  const [hasSavedUsername, setHasSavedUsername] = useState(false);
 
   // Update tab from URL parameter
   useEffect(() => {
@@ -57,6 +57,7 @@ export default function CommunityContent() {
     const savedUsername = localStorage.getItem('community_username');
     if (savedUsername) {
       setUsername(savedUsername);
+      setHasSavedUsername(true);
     }
   }, []);
 
@@ -92,16 +93,11 @@ export default function CommunityContent() {
   const handleSubmitPost = async (e: React.FormEvent) => {
     e.preventDefault();
 
-    // Check if username is set, if not show prompt
-    if (!username.trim()) {
-      setShowUsernamePrompt(true);
-      return;
-    }
-
-    if (!newPost.trim()) return;
+    if (!username.trim() || !newPost.trim()) return;
 
     // Save username to localStorage
     localStorage.setItem('community_username', username);
+    setHasSavedUsername(true);
 
     const post: Post = {
       id: Date.now(),
@@ -320,7 +316,7 @@ export default function CommunityContent() {
                 <h2 className="text-xl font-bold text-gray-900 dark:text-white">
                   {isZh ? '发表内容' : 'Create Post'}
                 </h2>
-                {username && (
+                {hasSavedUsername && (
                   <div className="flex items-center gap-2">
                     <span className="text-sm text-gray-600 dark:text-gray-400">
                       {isZh ? '当前用户：' : 'Current user: '}
@@ -330,6 +326,7 @@ export default function CommunityContent() {
                       type="button"
                       onClick={() => {
                         setUsername('');
+                        setHasSavedUsername(false);
                         localStorage.removeItem('community_username');
                       }}
                       className="text-xs text-blue-600 dark:text-blue-400 hover:underline"
@@ -340,7 +337,7 @@ export default function CommunityContent() {
                 )}
               </div>
               <form onSubmit={handleSubmitPost} className="space-y-4">
-                {!username && (
+                {!hasSavedUsername && (
                   <div>
                     <input
                       type="text"
@@ -478,7 +475,7 @@ export default function CommunityContent() {
 
                       {/* Add Comment Form */}
                       <div className="space-y-2">
-                        {!username && !commentAuthor[post.id] && (
+                        {!hasSavedUsername && !commentAuthor[post.id] && (
                           <input
                             type="text"
                             placeholder={isZh ? '你的昵称' : 'Your name'}
@@ -507,7 +504,7 @@ export default function CommunityContent() {
                             {isZh ? '发送' : 'Send'}
                           </button>
                         </div>
-                        {username && (
+                        {hasSavedUsername && (
                           <p className="text-xs text-gray-500 dark:text-gray-400">
                             {isZh ? `以 ${username} 的身份评论` : `Commenting as ${username}`}
                           </p>
