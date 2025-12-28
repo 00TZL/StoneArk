@@ -93,7 +93,12 @@ export default function CommunityContent() {
   const handleSubmitPost = async (e: React.FormEvent) => {
     e.preventDefault();
 
-    if (!username.trim() || !newPost.trim()) return;
+    console.log('Form submitted', { username, newPost: newPost.substring(0, 20) });
+
+    if (!username.trim() || !newPost.trim()) {
+      console.log('Validation failed', { username: username.trim(), newPost: newPost.trim() });
+      return;
+    }
 
     // Save username to localStorage
     localStorage.setItem('community_username', username);
@@ -111,6 +116,8 @@ export default function CommunityContent() {
       comments: [],
     };
 
+    console.log('Creating post', post);
+
     try {
       const response = await fetch('/api/community', {
         method: 'POST',
@@ -120,11 +127,16 @@ export default function CommunityContent() {
         body: JSON.stringify(post),
       });
 
+      console.log('API response', { ok: response.ok, status: response.status });
+
       if (response.ok) {
         setPosts([post, ...posts]);
         setNewPost('');
         setImageFile(null);
         setImagePreview('');
+        console.log('Post created successfully');
+      } else {
+        console.error('Failed to create post', response.status);
       }
     } catch (error) {
       console.error('Error creating post:', error);
@@ -344,11 +356,12 @@ export default function CommunityContent() {
                       placeholder={isZh ? '请输入你的昵称' : 'Enter your username'}
                       value={username}
                       onChange={(e) => setUsername(e.target.value)}
+                      maxLength={8}
                       className="w-full px-4 py-2 border-2 border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-800 text-gray-900 dark:text-white rounded-lg focus:border-blue-500 dark:focus:border-blue-400 outline-none transition-colors"
                       required
                     />
                     <p className="mt-1 text-xs text-gray-500 dark:text-gray-400">
-                      {isZh ? '首次发帖需要设置昵称，之后会自动保存' : 'Set your username for the first post, it will be saved automatically'}
+                      {isZh ? '首次发帖需要设置昵称（最多8个字），之后会自动保存' : 'Set your username (max 8 characters), it will be saved automatically'}
                     </p>
                   </div>
                 )}
