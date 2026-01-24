@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-01-24T05:31:05.244Z",
+  "price": {
+    "close": "0.59492",
+    "high": "0.59496",
+    "low": "0.5949",
+    "open": "0.59491",
+    "change": "0.00",
+    "datetime": "2026-01-24 16:00:00"
+  },
+  "indicators": {
+    "rsi": 72.804,
+    "macd": 0.0012578539,
+    "macd_signal": 0.0012921289,
+    "sma20": 0.5934295
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：震荡整理，短期观望",
+      "content": "当前纽元/美元处于震荡整理状态，价格在0.5949至0.5950区间内波动，短期没有显著的趋势变化。由于24小时内价格变动幅度较小，市场情绪相对平稳，未能突破近期的支撑和阻力水平。\n\n从技术指标来看，当前RSI和MACD数据尚未提供明确的超买或超卖信号。MACD值为正，但没有形成明确的交叉或趋势确认。SMA(20)为0.5934，显示出价格在该区域附近有一定的支撑作用，暗示短期内可能继续维持震荡走势。\n\n支撑位位于0.5930一带，而阻力位则处于0.5955附近。突破这些关键价位可能会引发更大的波动。若价格突破0.5955，有可能向0.5970进发；如果跌破0.5930，则可能向0.5900寻找下一支撑。\n\n建议短期内保持观望，等待价格突破关键支撑或阻力位后再考虑进场交易。若选择入场，可在突破后设置止损，控制风险。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently trading at 0.59492, experiencing a stable market with minimal fluctuation. Over the past 24 hours, the pair has shown no significant change, indicating a period of consolidation. The price has been range-bound, with a high of 0.59496 and a low of 0.5949, which suggests a tight trading range and a lack of clear directional momentum. This range-bound behavior may point to market participants awaiting further catalysts or economic data to drive a breakout.\n\nIn terms of technical indicators, the absence of RSI(14) and the lack of a defined signal for the MACD leaves the market without clear momentum indicators. The MACD reading of 0.0012578539, while positive, does not suggest strong bullish or bearish pressure, implying that market participants are adopting a wait-and-see approach. The absence of volatility and clear trend direction presents a challenging environment for traders relying solely on momentum signals for trade setups.\n\nThe 20-period Simple Moving Average (SMA) stands at 0.59343, indicating that the market is currently trading slightly above this level, reinforcing the idea of a neutral to slightly bullish bias in the short term. The price could act as a dynamic support in case of downward movement. However, traders should be cautious as a breach of this level could signal a potential bearish shift, with 0.5930 as the next immediate support.\n\nFor trading strategies, short-term traders may consider range-bound strategies, buying near support (0.5940) and selling near resistance levels around 0.5950. However, with current low volatility and the lack of strong trend indicators, more cautious traders might opt to wait for a clear breakout above 0.5950 or a break below 0.5930 before making directional trades."
+    }
+  }
+}

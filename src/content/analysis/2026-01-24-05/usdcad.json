@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-01-24T05:30:23.707Z",
+  "price": {
+    "close": "1.3703",
+    "high": "1.37102",
+    "low": "1.37005",
+    "open": "1.37009",
+    "change": "0.01",
+    "datetime": "2026-01-24 16:00:00"
+  },
+  "indicators": {
+    "rsi": 23.83184,
+    "macd": -0.0021896255,
+    "macd_signal": -0.0022908358,
+    "sma20": 1.37236
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理，短期震荡区间待突破]",
+      "content": "当前美元/加元(USD/CAD)在1.3703附近震荡整理，市场未显示出明显的单边趋势。价格在高低区间波动，未能有效突破1.37102的高点或1.37005的低点，显示出短期内市场存在一定的区间整理。该区间的上限与下限为潜在的短期支撑与阻力位置。\n\n在技术指标方面，MACD处于负值区域（-0.0021896255），这可能表明短期内卖压较强，但由于信号线数据缺失，判断趋势转折的依据不够明确。SMA(20)位于1.37236附近，表示若价格突破此水平，可能会出现短期的上涨动力。相较之下，RSI(14)未提供明确的超买或超卖信号。\n\n对于支撑与阻力，1.37005和1.37102分别构成当前价格区间的支撑与阻力。若价格突破1.37102，可能会引发进一步上涨，反之跌破1.37005，则可能会测试更低的支撑位。需要关注市场情绪及其他宏观经济因素对价格走势的潜在影响。\n\n建议短期交易者关注1.37005和1.37102的突破情况，若出现有效突破，可考虑短线操作。总体而言，当前的区间震荡格局可能持续，适合采取区间交易策略。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently experiencing tight price action, with the latest price at 1.3703, reflecting minimal movement over the last 24 hours (0.01%). This suggests a consolidation phase, as the pair has been bouncing between a narrow range, marked by the recent high of 1.37102 and low of 1.37005. Without significant news or volatility in the broader market, the pair is likely to remain range-bound in the near term. This type of price behavior can often precede either a breakout or a continuation pattern, depending on future catalysts.\n\nFrom a trend perspective, the pair is still trading slightly below the 20-period simple moving average (SMA) of 1.37236, which points to a mild bearish bias. However, the SMA is relatively flat, which further supports the idea of consolidation. The lack of a clear directional trend is reinforced by the MACD's negative value of -0.00219, which suggests that momentum is weak, but there is no immediate bearish reversal signal either. The absence of a significant RSI reading further limits the technical analysis for momentum-based traders at this time.\n\nKey support for the USD/CAD is seen at 1.37005, which marks the recent low. A sustained break below this level could expose the pair to further downside, potentially targeting 1.3680 or 1.3650 as the next support zones. On the other hand, resistance is found around the 1.3720-1.3730 area, where the price has struggled to break higher. A push above this resistance could open up the possibility of a retest of the 1.3750 area or higher.\n\nGiven the current market environment, traders may consider range trading strategies, buying near support levels around 1.3700 and selling near resistance at 1.3725. However, caution is advised due to the lack of strong momentum signals. A breakout above 1.3730 or a breakdown below 1.3700 could provide clearer direction for a more sustained move."
+    }
+  }
+}

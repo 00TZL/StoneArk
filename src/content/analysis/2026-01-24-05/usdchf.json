@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-01-24T05:31:47.168Z",
+  "price": {
+    "close": "0.78137",
+    "high": "0.7815",
+    "low": "0.78066",
+    "open": "0.78145",
+    "change": "-0.01",
+    "datetime": "2026-01-24 16:00:00"
+  },
+  "indicators": {
+    "rsi": 23.024973,
+    "macd": -0.0024566756,
+    "macd_signal": -0.0023739045,
+    "sma20": 0.7847325
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[震荡整理，短期偏弱]",
+      "content": "当前美元/瑞郎的走势呈现震荡整理的状态。价格在0.78137附近波动，处于短期弱势区间。虽然24小时变化较小，但市场情绪保持谨慎，未有明显突破。近期价格未能突破0.7847的20日简单移动平均线（SMA），显示出上行动能不足。\n\n技术指标方面，MACD呈现负值，说明市场短期内可能仍维持卖压。RSI没有提供有效的超买超卖信号，表明市场没有强烈的买入或卖出信号。由于RSI数据缺失，目前无法通过此指标进一步确认买入或卖出时机。\n\n支撑位方面，0.78066是当前的低点，若价格进一步下行，这一水平将是关键的支撑区域。若价格突破该支撑位，可能会进一步下探0.78000。上行阻力则位于0.7847，突破此点位可能带来新的上行机会，但需要放量确认。\n\n综合来看，当前市场处于震荡整理阶段，建议交易者保持观望，关注0.78066和0.7847的关键水平。若价格突破这些水平，可根据突破方向决定交易策略。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently showing a relatively neutral price action, with the latest price at 0.78137, down marginally by 0.01% over the past 24 hours. The market has remained range-bound, oscillating between a high of 0.7815 and a low of 0.78066. At present, the pair is trading just above key support levels, which could suggest a possible consolidation phase. A breakout above 0.7847 could indicate a potential bullish reversal, especially if accompanied by strong market momentum.\n\nLooking at the RSI, the lack of data leaves us with limited insight into the strength of any overbought or oversold conditions. The absence of an RSI reading at this point makes it challenging to gauge any immediate shifts in momentum. The MACD is negative at -0.0024566756, indicating that bearish pressure is currently present. However, with no signal line available for comparison, it’s difficult to predict whether this will lead to further declines or if a reversal is likely to take place soon.\n\nThe 20-period simple moving average (SMA) at 0.7847 acts as a dynamic resistance level, while the lows near 0.78066 serve as solid support. A clear break below this support would target a deeper retracement, possibly toward the 0.7800 level. On the other hand, a push through the SMA could signal a return of bullish sentiment, leading the pair toward the next resistance at 0.7850 or higher.\n\nFor traders, watching the immediate price action around the support at 0.78066 is critical. A rejection from this level could present a buying opportunity for a potential rally back to the SMA resistance. Conversely, if the pair breaks below support, further downside could be expected. In the absence of strong indicator signals, a wait-and-see approach may be prudent."
+    }
+  }
+}

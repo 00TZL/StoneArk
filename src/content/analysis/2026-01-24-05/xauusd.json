@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-01-24T05:32:29.582Z",
+  "price": {
+    "close": "4982.37899",
+    "high": "4982.62917",
+    "low": "4982.3422",
+    "open": "4982.41358",
+    "change": "-0.00",
+    "datetime": "2026-01-24 16:00:00"
+  },
+  "indicators": {
+    "rsi": 66.36846,
+    "macd": 16.88747,
+    "macd_signal": 19.15919,
+    "sma20": 4967.91508
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：当前横盘震荡，需关注关键支撑与阻力",
+      "content": "目前XAU/USD的价格表现出震荡整理的特征，最新价格稳定在4982.38附近，全天波动较小，变化幅度几乎为零。市场在近期维持在4982.63至4982.34的区间内，暂时没有明确的突破方向。这表明市场参与者情绪较为谨慎，缺乏明确的多空力量。\n\n从技术指标上看，当前缺乏RSI的有效数据，MACD显示16.88的正值，但信号线暂时不明，表明市场未形成强烈的趋势信号。SMA(20)则处在4967.92附近，作为短期支撑位，若价格回调至此水平，可能会有一定的反弹机会。\n\n支撑位方面，4967.92的SMA(20)是近期的关键支撑位，一旦价格突破此位置，可能会继续下行至更低的支撑区域。上方的阻力位则在4982.63，突破这一点可能为上涨打开空间，需关注该位置的价格反应。\n\n建议投资者在现阶段保持谨慎观望，等待价格突破关键支撑或阻力位置后再考虑操作。若价格突破4982.63，可考虑轻仓做多；反之，若跌破4967.92支撑，则可适当布局空单。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current price of Gold vs US Dollar (XAU/USD) is at 4982.38, with no significant change in the past 24 hours. Despite the relatively stable price movement, it’s essential to consider the broader trend. On a short-term basis, the price is holding above the 20-period simple moving average (SMA), which suggests a mild bullish sentiment. However, the market is showing little volatility, with the high and low ranging narrowly from 4982.63 to 4982.34. This tight price range signals indecision in the market, and traders should be cautious of breakout opportunities.\n\nIn terms of indicators, the Relative Strength Index (RSI) is unavailable, leaving us with limited momentum analysis. The Moving Average Convergence Divergence (MACD) value of 16.89 indicates a positive momentum but lacks the accompanying signal line for a clearer buy or sell signal. The absence of a complete MACD setup and the lack of RSI data implies the need for further confirmation before entering any trade. Without strong momentum indicators, traders may look for confirmation from price action or news-based catalysts.\n\nLooking at support and resistance levels, the price is close to its recent high, which could act as resistance around 4982.63. A break above this level could open the door for further upward movement towards the next resistance zone. On the downside, the immediate support lies around 4982.34. A failure to hold above this support could suggest further consolidation or a potential decline toward lower levels. These levels offer a balanced risk-to-reward profile for short-term traders.\n\nGiven the current technical landscape, a conservative approach would be recommended. Traders should monitor for clear breakouts above resistance or a confirmation of downward momentum if the price fails to hold near the support zone. Entering trades based solely on current technicals may expose traders to more risk, so a more cautious approach may be necessary until stronger signals emerge."
+    }
+  }
+}

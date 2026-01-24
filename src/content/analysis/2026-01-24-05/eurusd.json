@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-01-24T05:27:34.946Z",
+  "price": {
+    "close": "1.18233",
+    "high": "1.1824",
+    "low": "1.1823",
+    "open": "1.1823",
+    "change": "0.00",
+    "datetime": "2026-01-24 16:00:00"
+  },
+  "indicators": {
+    "rsi": 76.83541,
+    "macd": 0.0022504379,
+    "macd_signal": 0.0022167924,
+    "sma20": 1.17936
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[震荡整理，待突破]",
+      "content": "当前EUR/USD价格保持稳定在1.18233附近，表现出明显的整理走势。由于24小时变化为0.00%，市场暂时缺乏明确的方向，反映出交易者对当前市场情绪的不确定性。整体来看，汇价处于区间震荡中，若突破上行阻力或下行支撑，可能带来新的趋势信号。\n\n技术指标方面，MACD的数值为0.00225，显示出轻微的上行动能，但信号线尚不可用，因此无法得出明确的趋势判断。RSI未给出，因此缺乏进一步的超买或超卖信息。而SMA(20)的值为1.17936，显示出短期内支撑位略低于当前价格，表明市场在此价格附近可能获得支撑。\n\n当前支撑位在1.1823附近，而上方的阻力位为1.1824，显示出市场在这一狭窄区间内波动。如果价格突破这些关键水平，将可能启动更大的波动。突破1.1824可能会推高价格，而跌破1.1823则可能引发回调。\n\n交易建议上，对于短期交易者，可关注当前区间的上下边界。如果价格突破上方1.1824，可考虑尝试多单；若下破1.1823，则可以考虑做空。保持灵活应对，避免市场进一步的震荡消耗。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The Euro against the US Dollar (EUR/USD) is currently trading in a narrow range with minimal price movement, as indicated by the 24-hour change of 0.00%. This suggests a period of consolidation, with price action fluctuating around 1.1823. The lack of significant volatility points to a market in indecision, potentially awaiting fresh catalysts to drive movement. The price is near the recent low of 1.1823, and with the high slightly above it, the pair may be setting up for a breakout in either direction.\n\nLooking at the technical indicators, the absence of RSI data limits our ability to analyze momentum, but the MACD at 0.00225 hints at a slight bullish bias, though not strong enough to suggest an imminent trend reversal. The 20-period simple moving average (SMA) sits at 1.17936, which is slightly below the current price, providing a level of dynamic support. If the price tests the SMA, it could act as a floor, with potential for a bounce higher if demand strengthens.\n\nIn terms of support and resistance, immediate support is found at 1.1823, the recent low, and further support can be identified near the SMA at 1.17936. If the pair breaks below this level, the next key support zone would likely come in around 1.1750. On the upside, resistance appears at the 1.1830 level, with any move beyond this point signaling a potential test of 1.1850, where additional selling interest may arise.\n\nFor traders, a breakout above 1.1830 could offer an opportunity to enter long positions, with targets near 1.1850. Conversely, a break below the 1.1790 region would suggest further downside potential, with traders looking for shorts, targeting 1.1750 as the next support. It’s essential to monitor the market closely for any changes in momentum or the emergence of key fundamentals that may shift the market sentiment."
+    }
+  }
+}

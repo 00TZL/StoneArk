@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-01-24T05:29:40.677Z",
+  "price": {
+    "close": "0.68934",
+    "high": "0.68934",
+    "low": "0.68927",
+    "open": "0.6893",
+    "change": "0.01",
+    "datetime": "2026-01-24 16:00:00"
+  },
+  "indicators": {
+    "rsi": 74.25272,
+    "macd": 0.0014316074,
+    "macd_signal": 0.0015621359,
+    "sma20": 0.688061
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，突破需谨慎]",
+      "content": "当前澳元/美元（AUD/USD）在0.6893附近震荡整理，价格波动幅度较小，全天变化仅为0.01%。从整体趋势来看，短期内缺乏明显的方向性，市场仍处于盘整状态。若突破当前区间，可能会引发更大幅度的波动。\n\n在技术指标方面，虽然RSI和MACD未提供具体数据，但SMA(20)指标显示0.6881的水平可能是短期内的重要支撑位。若价格回调至此水平附近，可能会出现反弹。但若持续跌破此点位，可能进一步下行。\n\n从支撑和阻力角度分析，目前支撑位在0.68927附近，若突破该点，价格可能会继续走弱。阻力位则位于0.6895附近，突破此点有可能测试更高的价位。鉴于当前市场走势较为平稳，短期内区间波动可能继续。\n\n建议交易者在现阶段谨慎操作，建议等待突破关键支撑或阻力位再做决策。若价格持续盘整，适合进行区间交易，风险控制至关重要。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently showing tight price movement, hovering around 0.68934. Given the 24-hour change of just 0.01%, this suggests consolidation within a narrow range. This lack of volatility indicates that traders are awaiting a catalyst for a more decisive price action. With the latest high and low being virtually identical, there’s a strong indication of equilibrium between buying and selling pressures at the moment. However, the pair is holding above the 20-period simple moving average (SMA), which hints at slight bullish sentiment.\n\nIn terms of indicators, the MACD value of 0.0014316074 indicates a mild positive momentum, though without a clear signal line for confirmation, it is difficult to conclude strong bullishness. The RSI is missing, making it harder to assess whether the pair is in overbought or oversold territory. Without these key technical indicators, traders may want to proceed cautiously, waiting for clearer signals to emerge. The current market is largely driven by price action, with no major bullish or bearish trends firmly established.\n\nSupport for the pair is evident at the lower bound of the current range near 0.68927, with the potential for a bounce if the price moves downward. On the other hand, resistance is seen at the 0.68934 level, where the price has repeatedly failed to break higher in recent trading. A breakout above this point could see further upside potential, possibly targeting the next resistance level at around 0.6900. However, without strong trend momentum or a breakout catalyst, trading opportunities may remain limited.\n\nFor short-term traders, a cautious range trading strategy could be considered, buying at the support level and selling at resistance. Breakouts above 0.68934 could signal potential for a short-term upward move, while any sharp moves below 0.68927 may suggest a re-test of lower levels. However, as long as the market remains in consolidation, risks are high for false breakouts and whipsaw movements."
+    }
+  }
+}
