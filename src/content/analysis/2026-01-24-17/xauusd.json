@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-01-24T17:28:40.213Z",
+  "price": {
+    "close": "4982.46166",
+    "high": "4982.64401",
+    "low": "4982.35937",
+    "open": "4982.42698",
+    "change": "-0.00",
+    "datetime": "2026-01-25 04:00:00"
+  },
+  "indicators": {
+    "rsi": 66.30656,
+    "macd": 8.0063988,
+    "macd_signal": 10.6643,
+    "sma20": 4982.45047
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：当前走势平稳，等待进一步信号确认",
+      "content": "当前黄金/美元（XAU/USD）价格维持在4982.46附近，短期内价格波动较小，日内变化为0%。目前市场缺乏明显的趋势信号，因此需要密切关注即将发布的技术指标以及市场情绪的变化。结合24小时内的高低点数据，4982.64为上方短期阻力位，而4982.36则是下方的支撑位。\n\n从技术指标来看，当前未能获得RSI(14)和MACD的有效数据，意味着市场动能和趋势的确认较为不足。SMA(20)在4982.45附近提供了短期支撑，显示出市场正在保持横盘整理态势，但没有足够的动力突破当前区间。\n\n支撑位和阻力位的关键水平可能成为短期交易的关键。若价格突破4982.64，上行空间可能会打开，向更高水平进发；相反，若跌破4982.36，可能会导致价格回落，寻找更低的支撑区域。\n\n基于当前的市场状况，建议采取观望策略，等待市场出现明确的突破信号。如果价格突破阻力位，考虑适当做多；反之，跌破支撑位时，考虑做空。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD pair is showing a neutral short-term trend as the price hovers around 4982.46, with minimal movement in the past 24 hours. The market is currently trapped between the daily high of 4982.64 and low of 4982.36, indicating low volatility and lack of strong directional momentum. Without clear signs of either bullish or bearish trends, the market is likely in a consolidation phase, waiting for a catalyst that could break it out of this range. A breakout above 4982.64 could signal a shift towards bullish momentum, while a drop below 4982.36 may prompt further downside testing.\n\nThe lack of an available RSI(14) value means that we are missing an essential momentum indicator, but other tools can still guide decision-making. The MACD reading of 8.0064 suggests a positive short-term momentum, but the absence of the signal line leaves some ambiguity. If the MACD crosses above its signal line (once available), it could reinforce a bullish outlook. For now, traders should remain cautious, using range-bound strategies until clearer signals emerge from the price action or indicators.\n\nThe SMA(20) is currently sitting at 4982.45, aligning closely with the price, confirming the neutral stance of the market. A break above this moving average might indicate that the bulls are starting to gain control, especially if confirmed by other indicators like MACD. On the other hand, any rejection at this level could push the price lower. Traders should watch for signs of a reversal or continuation at these key levels for potential entry or exit points.\n\nKey support is seen at the lower boundary around 4982.36, with resistance at the upper level of 4982.64. A range trade between these levels is a viable strategy, but a break beyond either side will provide clearer directional bias. Given the lack of significant indicators, risk management remains crucial, and traders should ensure stop-loss orders are placed strategically to avoid adverse price swings."
+    }
+  }
+}

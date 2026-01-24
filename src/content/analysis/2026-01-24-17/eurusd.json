@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-01-24T17:23:19.070Z",
+  "price": {
+    "close": "1.18237",
+    "high": "1.18241",
+    "low": "1.18228",
+    "open": "1.1823",
+    "change": "0.00",
+    "datetime": "2026-01-25 04:00:00"
+  },
+  "indicators": {
+    "rsi": 74.42683,
+    "macd": 0.0011546972,
+    "macd_signal": 0.0014742518,
+    "sma20": 1.18239
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[震荡整理，需关注突破]",
+      "content": "目前，欧元/美元（EUR/USD）价格稳定在1.18237附近，呈现震荡整理的格局。虽然价格在短期内未显示出明显的上涨或下跌趋势，但近期的波动幅度较小，表明市场多空力量较为平衡，处于观望状态。\n\n从技术指标来看，SMA(20)与现价几乎持平，表明短期内均线没有明确的方向性指引。此外，MACD的数值仍较为平稳，缺乏足够的动能支持市场强烈的突破。因此，当前没有出现明显的趋势信号。\n\n支撑位方面，1.18228附近是近期的低点，若价格跌破此处，可能会进一步测试下方支撑区域。上方1.18241是短期阻力位，若突破该点位，可能迎来上行反弹。整体来看，市场仍处于窄幅震荡中。\n\n综合考虑，建议投资者保持观望，等待价格突破重要支撑或阻力位后再做决策。若突破1.18241，可考虑轻仓做多；若跌破1.18228，则可以适当关注做空机会。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently trading at 1.18237, showing minimal movement in the last 24 hours, reflecting a consolidation phase in the market. The lack of significant price fluctuation suggests that market participants are in a wait-and-see mode. With the high and low for the day at 1.18241 and 1.18228, respectively, the pair is exhibiting tight price action. In such conditions, it’s important to closely monitor any shifts in momentum that could signal a breakout in either direction.\n\nThe absence of a clear trend at this moment makes the market somewhat neutral. The RSI(14) is unavailable, but the MACD shows a very slight positive value of 0.00115, suggesting a minimal bullish bias, though not strong enough to confirm an uptrend. Given the current values, it’s important to watch for any potential crossovers or sharp moves that could provide more clarity on the direction. The SMA(20) at 1.18239 aligns closely with the current price, indicating no immediate short-term trend bias.\n\nOn the support side, 1.18228 could serve as a short-term floor, while 1.18241 acts as an immediate resistance. A break below 1.18228 might signal a potential move toward the next support level, around 1.18180, whereas a break above 1.18241 could lead to further upside, possibly targeting 1.18300 or higher. For now, traders should be cautious of trading within this narrow range and wait for a confirmed breakout above or below these levels.\n\nGiven the current consolidation, a conservative trading strategy could be to watch for price action around the 1.18228-1.18241 range. A breakout from either side would present a better risk-reward setup, while intraday traders may consider scalping in this narrow range if volatility picks up. Patience is key, as waiting for clearer signals may provide better entry points for more decisive moves."
+    }
+  }
+}

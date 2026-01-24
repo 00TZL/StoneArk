@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-01-24T17:27:56.373Z",
+  "price": {
+    "close": "0.78187",
+    "high": "0.78227",
+    "low": "0.78032",
+    "open": "0.78032",
+    "change": "0.17",
+    "datetime": "2026-01-25 04:00:00"
+  },
+  "indicators": {
+    "rsi": 41.40076,
+    "macd": -0.0013604191,
+    "macd_signal": -0.0016988393,
+    "sma20": 0.7811395
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：震荡整理中，短期走弱",
+      "content": "当前美元/瑞郎（USD/CHF）价格为0.78187，处于震荡整理的状态。从短期走势来看，价格在0.78227和0.78032之间波动，显示出缺乏明确的方向。该货币对可能正在寻求突破，但目前市场动能不足。\n\n技术面上，MACD值为-0.00136，表明短期内价格可能受到下行压力。由于缺乏RSI和MACD的信号线数据，进一步确认当前走势的动力较为困难。SMA(20)的值为0.78114，进一步证明市场的价格运动趋于平缓，尚未表现出明显的强势或弱势。\n\n从支撑与阻力来看，当前支撑位位于0.78032，若跌破该价位，可能会进一步测试更低的支撑区域。阻力位则位于0.78227，若突破此点位，可能会迎来短期的反弹上涨。建议交易者在支撑位附近谨慎考虑买入，而在接近阻力位时，可以采取卖出策略。\n\n综合来看，美元/瑞郎在当前区间内震荡整理，适合短线交易者利用区间波动进行操作。建议密切关注价格的突破情况，待趋势明确后再做出更长期的交易决策。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently trading near the 0.78187 mark, showing a modest 24-hour change of 0.17%. This slight movement indicates a period of consolidation within a narrow range, as the price has fluctuated between a high of 0.78227 and a low of 0.78032 over the past day. Given the lack of substantial price action, the pair may be awaiting a catalyst for a more significant move. The general market sentiment seems neutral, with neither bulls nor bears showing a clear dominance at this moment.\n\nFrom a technical perspective, the pair remains within a short-term bullish bias above the 20-period simple moving average (SMA) at 0.78114. This SMA serves as a dynamic support, suggesting a prevailing mild upward momentum. However, the MACD, currently negative at -0.00136, indicates some underlying bearish pressure. Traders should be cautious of a potential downside break if the price fails to hold above the SMA, which could open the door to further downside testing.\n\nThe immediate support level lies near 0.78032, which corresponds to the recent low, with further support around 0.7790. On the resistance side, the 0.78227 high forms the initial barrier, and a sustained break above this level could target higher levels near 0.7850. However, a breakdown below the support zones could lead to a retest of lower levels, potentially signaling a shift in the short-term trend.\n\nGiven the technical setup, traders should adopt a wait-and-see approach. A break above 0.78227 may signal a buying opportunity, while a move below 0.78032 could lead to short positions. Risk management is key, especially in such a narrow range, and traders should look for a clear directional move to determine the next steps."
+    }
+  }
+}

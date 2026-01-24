@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-01-24T17:24:05.061Z",
+  "price": {
+    "close": "1.36304",
+    "high": "1.36432",
+    "low": "1.36268",
+    "open": "1.36428",
+    "change": "-0.09",
+    "datetime": "2026-01-25 04:00:00"
+  },
+  "indicators": {
+    "rsi": 58.39951,
+    "macd": 0.0017546214,
+    "macd_signal": 0.0024609441,
+    "sma20": 1.3646
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：震荡整理，关注支撑与阻力",
+      "content": "当前英镑/美元价格在1.36304附近震荡整理，日内波动较小。市场情绪偏谨慎，价格未显著突破近期区间，因此短期内可能维持震荡模式，趋势较为平稳。若突破上方1.36460附近的SMA(20)，可能出现短期反弹；若跌破1.36268支撑，则可能进一步下行。\n\n从技术指标来看，RSI(14)和MACD的缺失数据限制了具体超买或超卖信号的判断。不过，当前的价格位置接近近期低点，可能处于超卖区域。价格若持续在1.36268支撑附近企稳，有可能为短期反弹提供条件。\n\n支撑位方面，1.36268是关键支撑，若此位有效支撑，则可能再次向上挑战1.36432的高点。若突破该高点，则可能向1.3660-1.3670区域延伸。相反，下破支撑可能进一步指向1.3600甚至更低。\n\n对于交易建议，短期内建议保持观望，等待价格进一步突破支撑或阻力位后再做决策。如果价格突破1.36460，考虑小幅做多；如果跌破1.36268，可以考虑做空，但需设好止损以控制风险。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently exhibiting a narrow range as it hovers around the 1.3630 level, with a slight 24-hour change of -0.09%. This indicates a relatively neutral sentiment in the market, with price action staying within a narrow channel between the high of 1.36432 and the low of 1.36268. Traders are likely waiting for more significant news or technical developments before making decisive moves. As the price remains near the 20-period simple moving average (SMA) of 1.36460, it suggests consolidation around the short-term average, with no strong directional bias yet.\n\nThe current market environment presents an indecisive trend, as neither the RSI nor the MACD is providing clear signals for momentum. The MACD line at 0.00175 is near zero, suggesting a balance between buying and selling pressures. Without a strong crossover or divergence, the pair lacks a definitive directional force. This could imply that further price movement may depend on external factors, such as market sentiment shifts or upcoming economic data releases.\n\nFrom a technical standpoint, support is seen near 1.36270, which aligns with the recent low, providing a foundation for potential bullish rebounds. On the upside, the resistance at 1.36430 has capped price advances, suggesting that the pair may struggle to break above this level without additional bullish catalysts. A decisive break above 1.36430 could lead to a test of higher resistance levels, while a move below 1.36270 may signal further downside pressure.\n\nFor traders, it would be prudent to monitor price action closely for a breakout from this range. A break above resistance may present a buying opportunity, while a sustained drop below support could signal a shift toward bearish momentum. Until a clearer trend emerges, the pair may continue to trade within this narrow range, requiring careful risk management and attention to market developments."
+    }
+  }
+}

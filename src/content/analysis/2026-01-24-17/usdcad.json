@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-01-24T17:26:21.863Z",
+  "price": {
+    "close": "1.37239",
+    "high": "1.37248",
+    "low": "1.37189",
+    "open": "1.37189",
+    "change": "0.03",
+    "datetime": "2026-01-25 04:00:00"
+  },
+  "indicators": {
+    "rsi": 53.85802,
+    "macd": -0.00061217083,
+    "macd_signal": -0.0011757111,
+    "sma20": 1.37068
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理中，观望为主]",
+      "content": "当前美元/加元价格为1.37239，处于近期的震荡整理区间内。价格波动较小，24小时内变化仅为0.03%。这种小幅波动表明市场情绪偏向谨慎，缺乏明确的方向性趋势。整体而言，市场情绪可能受到美联储和加拿大央行政策预期的影响，未出现强烈的突破性信号。\n\n技术指标方面，SMA(20)当前位于1.37068，表明短期内价格在该均线附近震荡。MACD为负值，表示当前市场略显空头趋势，但未出现明显的卖压。由于RSI值缺失，我们无法从该指标判断过买或过卖状态，因此仍需关注后续数据更新。\n\n支撑位在1.37189附近，而阻力位则在1.37248处。短期内，若价格突破1.37248，可能会推动市场向上试探更高价位。反之，若价格跌破1.37189，可能会再次测试更低的支撑区域。投资者应关注这些关键水平，以便在价格接近支撑或阻力时做出相应决策。\n\n综合来看，当前市场缺乏明确的趋势信号，建议投资者保持观望，等待更明确的价格突破或技术指标的进一步确认。此时操作需谨慎，以避免在震荡行情中做出不必要的交易。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently trading at 1.37239, with a minor 24-hour change of 0.03%. The market is consolidating within a narrow range between the high of 1.37248 and low of 1.37189, indicating a lack of strong directional momentum. This price action suggests the market is in a wait-and-see phase, with traders likely looking for a catalyst to break out of this range. \n\nFrom a technical standpoint, the pair is exhibiting a mild bearish bias, as reflected by the negative MACD value of -0.00061217083. While this does not indicate an imminent downtrend, it highlights that the bears are still in control, albeit weakly. The RSI(14) is currently unavailable, but the MACD and recent price action suggest limited buying pressure in the market. \n\nThe key support for USD/CAD lies at 1.37189, with any break below this level potentially leading to further downside, targeting 1.37000. On the upside, resistance is found near 1.37250, and a break above this could see the pair attempting to test higher levels around 1.37500. Traders should watch for price action near these key levels, as a breakout could signal a more decisive move in either direction.\n\nGiven the current technical environment, a neutral to slightly bearish outlook seems most appropriate. Traders could consider short positions near the resistance zone if price fails to sustain above 1.37250, with stops above 1.37500. Conversely, any significant break below 1.37189 might provide opportunities to target the next support at 1.37000. Risk management will be crucial in these consolidating market conditions."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-01-24T17:25:36.200Z",
+  "price": {
+    "close": "0.68897",
+    "high": "0.68927",
+    "low": "0.68855",
+    "open": "0.68927",
+    "change": "-0.04",
+    "datetime": "2026-01-25 04:00:00"
+  },
+  "indicators": {
+    "rsi": 60.95529,
+    "macd": 0.00066090781,
+    "macd_signal": 0.00090511599,
+    "sma20": 0.689302
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，短期看平]",
+      "content": "目前澳元/美元（AUD/USD）维持震荡整理的局面，价格在0.6885-0.6893区间内波动。短期内，市场缺乏明确的趋势信号，整体走势偏向平稳。价格目前接近20日简单移动平均线（SMA 20），显示出短期内没有强烈的上涨或下跌动力。\n\n从技术指标来看，MACD为正但信号线尚未显示出明显趋势，说明市场仍处于观望阶段。RSI（相对强弱指数）数据缺失，无法提供进一步的超买或超卖信号。因此，当前市场情绪偏向中性，价格可能继续在当前区间内波动，缺乏突破的动力。\n\n支撑位在0.6885附近，这一价位多次得到支撑，若跌破则可能进一步下探0.6870。上方的阻力位则在0.6893附近，一旦突破该价位，可能会出现短期的反弹。若价格继续维持在当前区间内整理，可等待突破信号再做进一步的操作。\n\n建议短期内观望，等待更明确的突破信号。如果价格突破上方阻力位，考虑做多；若跌破支撑位，则可以考虑做空。但在此期间，过于激进的操作风险较大。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently showing slight bearish pressure, trading at 0.68897, a marginal decline of 0.04% over the last 24 hours. Price action has been contained within a narrow range, with the high at 0.68927 and low at 0.68855, signaling limited volatility. A close look at the market dynamics suggests the pair is hovering near the lower end of the recent trading range. In the absence of significant news or fundamental shifts, this range-bound behavior may continue in the short term.\n\nThe 20-period Simple Moving Average (SMA) at 0.68930 is acting as an immediate resistance level, with the market trading just below it. This SMA often serves as a dynamic support or resistance in trending markets, and its proximity to the current price hints at potential resistance if price fails to break above this level. A sustained move above this could indicate a shift to a more bullish sentiment, with the next potential resistance around 0.69050. On the downside, the recent low of 0.68855 provides initial support, and a breach below this could open the door to further weakness, targeting the next support around 0.68700.\n\nWithout RSI and MACD data, it is challenging to get a precise read on momentum. However, given the flat nature of the current price action and limited price movement, it is likely that the market is consolidating. If the pair fails to break above the 0.68930 level in the near term, a further decline to test support levels could be expected. Traders should watch for a potential breakout or breakdown beyond the range of 0.68855–0.68927 for clearer directional signals.\n\nFor trading strategies, it is prudent to wait for a confirmed break of key levels before entering positions. A break above 0.68930 could present a buying opportunity with targets around 0.69050, while a break below 0.68855 may warrant short positions targeting the next support level. In this environment, a cautious, range-bound approach is advisable, with a focus on risk management."
+    }
+  }
+}
