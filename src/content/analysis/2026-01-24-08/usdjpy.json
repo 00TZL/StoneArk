@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-01-24T08:35:44.813Z",
+  "price": {
+    "close": "155.6956",
+    "high": "155.70141",
+    "low": "155.69159",
+    "open": "155.69571",
+    "change": "-0.00",
+    "datetime": "2026-01-24 19:00:00"
+  },
+  "indicators": {
+    "rsi": 15.82658,
+    "macd": -0.60489067,
+    "macd_signal": -0.64556539,
+    "sma20": 156.23918
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[短期震荡调整，关注关键支撑与阻力]",
+      "content": "当前美元/日元的价格表现为小幅震荡，最新价格为155.6956。考虑到价格波动较小（24小时变化为0.00%），当前市场呈现出一定的横盘整理状态。从技术面来看，短期内价格受限于156.24（SMA20）和155.69附近的支撑区间。\n\n虽然RSI和MACD等指标数据暂缺，但从SMA(20)来看，当前价格略低于均线，可能表明短期内略有下行压力。若价格持续低于156.24，则有可能面临进一步回落，特别是接近155.69的支撑位时，可能会出现反弹。\n\n支撑位方面，155.69一线对价格构成较强支撑。若价格跌破此支撑位，则可能进一步探底至155.60附近的水平。相反，若价格突破156.24，则可能继续测试更高的阻力位，目标可看至156.50附近。\n\n综合来看，当前市场表现为震荡整理，建议交易者密切关注155.69与156.24的关键价格区间。如果价格反弹至156.24附近，可考虑短期卖出；若下行突破155.69支撑位，则可以考虑空头操作。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY market is currently consolidating, with the price hovering around 155.6956, reflecting little movement in the last 24 hours. This indicates a period of indecision, where buyers and sellers are in balance. The recent high of 155.70141 and low of 155.69159 suggest tight price action, which is characteristic of consolidation or range-bound conditions. Traders should look for a breakout beyond these levels to signal the next directional move.\n\nThe lack of a clearly defined RSI(14) value and the current MACD reading of -0.60489067 suggest a neutral to slightly bearish short-term momentum. A negative MACD implies that the recent price action has slightly favored sellers, but without significant downward movement, it doesn't indicate a strong bearish trend. This could imply potential weakness or a lack of conviction in either direction. Traders may wait for a confirmation, either through a deeper drop in MACD or a bullish reversal, to assess further market bias.\n\nSupport and resistance are key to the current setup, with the recent low of 155.69159 acting as a minor support level, while the high of 155.70141 represents the immediate resistance. A break below support could see the price move lower toward 155.50, while a break above resistance could bring the price toward the 156.00 level, aligning with the 20-period SMA at 156.23918. Traders should focus on these levels, adjusting their strategies based on price action near them.\n\nGiven the tight range and neutral indicators, trading decisions should remain cautious for now. A breakout above 155.70 could signal a buying opportunity, with targets near 156.00. Conversely, a dip below 155.69 could open opportunities for short trades, targeting 155.50. Traders should prioritize confirmation from momentum indicators before taking positions."
+    }
+  }
+}

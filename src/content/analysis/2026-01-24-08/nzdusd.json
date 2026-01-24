@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-01-24T08:38:02.889Z",
+  "price": {
+    "close": "0.59492",
+    "high": "0.59496",
+    "low": "0.59489",
+    "open": "0.5949",
+    "change": "0.00",
+    "datetime": "2026-01-24 19:00:00"
+  },
+  "indicators": {
+    "rsi": 72.83473,
+    "macd": 0.0010926495,
+    "macd_signal": 0.0012176702,
+    "sma20": 0.594063
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理中，短期缺乏明确方向]",
+      "content": "当前纽元/美元（NZD/USD）价格在0.59492附近徘徊，24小时变化几乎为零，表明市场暂时缺乏强烈的波动性。根据现有数据，短期内该货币对的走势呈现震荡整理状态，未能突破关键支撑或阻力水平。\n\n技术指标方面，MACD值为0.0011，表明短期动能偏弱，且未显示出明确的买卖信号。RSI(14)暂时无法提供明确的超买或超卖判断，而20日简单移动平均（SMA）显示价格略高于其均值，暗示市场略微倾向于上涨。\n\n从支撑与阻力来看，当前的支撑位在0.59489附近，若价格跌破此位，可能会加速向下测试0.5940区间。上方阻力则位于0.5950附近，突破这一点有望为上涨提供更多空间。\n\n建议交易者在该区间内采取震荡操作策略，等待价格突破明确的支撑或阻力位后再做进一步决策。短期内，观望和等待更清晰的趋势信号可能是更为稳妥的选择。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The New Zealand Dollar (NZD) against the US Dollar (USD) is currently showing a stable price of 0.59492 with minimal 24-hour change, reflecting a sideways market movement. The pair is consolidating within a narrow range between 0.59489 and 0.59496, which indicates indecision among traders. This range-bound behavior suggests that neither buyers nor sellers have gained significant control. A break out of this range, either above 0.5950 or below 0.5948, could indicate the direction of the next price move, potentially initiating a trend.\n\nWith the lack of the RSI (14) and an unavailable MACD signal, there is limited momentum data at present. However, the SMA(20) at 0.594063 provides insight into the short-term trend, acting as a dynamic support level. The price is currently trading above this moving average, suggesting a mild bullish bias in the short-term. If the price stays above the SMA, a continuation of upward movement toward 0.5955 is possible. If the market fails to hold above the SMA, there may be downside pressure, with 0.5940 acting as the next support level.\n\nKey support levels are around 0.5940 and 0.5935, while resistance is observed near 0.5950 and 0.5955. A clear break above 0.5955 could signal further bullish momentum, potentially targeting 0.5970. On the other hand, a breakdown below 0.5935 would shift the market sentiment to the downside, opening the possibility for a deeper retracement towards 0.5915. Traders should keep an eye on any breakout from the narrow range, as it could dictate the next market move.\n\nGiven the current market conditions, it’s recommended to watch for a breakout or a bounce off key levels. Traders might consider entering long positions if the price moves above 0.5950, with a stop just below 0.5940. Conversely, a short position could be viable if the price falls below 0.5935, targeting the next support around 0.5915. It's important to maintain caution due to the tight price action and lack of strong momentum signals."
+    }
+  }
+}

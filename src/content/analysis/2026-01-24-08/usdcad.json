@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-01-24T08:37:14.798Z",
+  "price": {
+    "close": "1.37079",
+    "high": "1.37081",
+    "low": "1.37009",
+    "open": "1.3703",
+    "change": "0.04",
+    "datetime": "2026-01-24 19:00:00"
+  },
+  "indicators": {
+    "rsi": 31.2252,
+    "macd": -0.0018468248,
+    "macd_signal": -0.0021332427,
+    "sma20": 1.37125
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理，短期区间波动]",
+      "content": "当前美元/加元价格维持在1.37079附近，24小时变化幅度较小，表现出一定的震荡整理走势。价格在1.37081和1.37009之间波动，表明市场缺乏强烈的方向性趋势，短期内可能维持区间震荡。\n\n从技术指标来看，MACD目前处于负值区域，且值为-0.0018，显示出市场动能较弱，缺乏明显的买盘力量。RSI指标未提供具体数据，因此无法直接分析超买或超卖情况，但可以从价格变化及MACD值推测出市场的低迷状态。SMA(20)位于1.37125，略高于当前价格，显示出短期内价格可能面临一定的阻力。\n\n支撑位方面，若价格下行，1.37009可能构成短期支撑，而上行突破1.37125可能遇到更强的阻力，尤其是接近1.3720附近。因此，关注价格在这些关键点位的反应，有助于判断市场是否会突破当前区间。\n\n交易策略建议：建议投资者在当前区间内采取区间交易策略，短线可以在支撑位附近寻找买入机会，而在接近阻力位时则考虑卖出。保持谨慎态度，等待价格突破或其他技术指标进一步确认趋势。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently in a tight range, hovering just above 1.3700, with the latest price at 1.37079. The market shows little volatility with a 24-hour change of just 0.04%. This suggests that the pair is in a consolidation phase, where both buyers and sellers are somewhat evenly matched. The price is also near the 20-period simple moving average (SMA), which is at 1.37125, indicating a neutral short-term outlook. \n\nFrom a trend perspective, USD/CAD has been range-bound for the past few sessions, oscillating between the high of 1.37081 and the low of 1.37009. The lack of clear direction suggests that the market is awaiting a trigger for the next move. Traders may watch for a breakout above the 1.37125 resistance level or a move below the 1.3700 support zone for potential trend initiation. The pair is not showing strong momentum, which can signal caution in aggressive positioning.\n\nThe current MACD value of -0.0018 suggests slight bearish pressure, but the lack of a signal line value prevents any strong conclusions. Without clear divergence or convergence in the MACD, the market may be waiting for further confirmation before committing to a direction. Similarly, the RSI is unavailable, so it's difficult to assess overbought or oversold conditions. Traders might want to monitor the MACD closely for any signs of a trend reversal, as it could offer a clearer signal in the near term.\n\nGiven the neutral price action, traders might prefer waiting for a confirmed breakout before making significant trades. If the price breaches 1.3715, it could signal a shift to the upside, targeting the next resistance level. Conversely, a break below 1.3700 could lead to a downward move, with potential support near 1.3680. In the meantime, range-bound strategies may be most appropriate, with tight stop losses in place."
+    }
+  }
+}

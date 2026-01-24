@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-01-24T08:34:54.083Z",
+  "price": {
+    "close": "1.3648",
+    "high": "1.36487",
+    "low": "1.36476",
+    "open": "1.3648",
+    "change": "0.00",
+    "datetime": "2026-01-24 19:00:00"
+  },
+  "indicators": {
+    "rsi": 83.26713,
+    "macd": 0.0033985851,
+    "macd_signal": 0.0037506175,
+    "sma20": 1.36231
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[区间整理，缺乏明确方向]",
+      "content": "当前英镑/美元（GBP/USD）在1.3648附近整理，价格波动较为窄幅，缺乏显著的趋势信号。近期的高低点相差无几，反映市场缺乏强烈的买卖动力。市场的短期走势可能保持区间震荡，投资者需警惕潜在的突破。\n\n技术指标方面，MACD显示一个微弱的正值，表明可能存在短期的上行动能。然而，由于RSI和信号线数据不明确，缺乏明确的超买或超卖信号，进一步确认趋势方向的缺失使得市场走势难以预测。SMA(20)支持价位1.36231，短期支撑仍然在该水平附近。\n\n对于支撑与阻力，当前的支撑位在1.36476附近，而阻力则位于1.36487。若价格突破1.36487，可能引发短期上涨，测试更高水平；反之，若跌破1.36231，则可能继续向下探测支撑区域。综合来看，市场仍处于横盘整理阶段，缺乏明确的趋势信号。\n\n交易建议上，短期内建议采取观望策略，避免在无明显方向的市场中过早介入。若突破上方阻力，可以考虑短期做多，而若下破支撑位，则可考虑做空，但需密切关注进一步的市场走势和技术指标变化。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The British Pound vs US Dollar (GBP/USD) is currently in a tight range, with the price at 1.3648 and minimal movement over the past 24 hours. The pair has been trading within a narrow range, with a high of 1.36487 and a low of 1.36476. The lack of significant price fluctuation signals a consolidation phase, suggesting market participants are awaiting more impactful economic news or events before making decisive moves. The trend is neutral at the moment, but price action could soon break out of this range in either direction.\n\nThe absence of a clear Relative Strength Index (RSI) and Signal line for the MACD makes it difficult to gauge the underlying momentum. However, the MACD value of 0.0034 indicates that bullish pressure exists, though it is weak and unconfirmed without a corresponding Signal. Traders should remain cautious of entering trades based solely on the MACD or RSI readings until clearer signals appear. The 20-period Simple Moving Average (SMA) at 1.36231 provides a short-term indication of the overall trend, with price currently above the SMA, suggesting a slight bullish bias in the immediate term.\n\nSupport for GBP/USD can be found at the 1.3620 area, just below the current price, which aligns with the 20-period SMA. A breakout below this level could open the door for further downside towards the 1.3600 region, which may act as stronger support. On the upside, resistance is anticipated at 1.3660, a level where the pair has previously faced selling pressure. A break above this level could trigger a move toward higher resistance zones near 1.3700.\n\nGiven the current market conditions, traders should be cautious with any positions. A break of the 1.3620 support could present an opportunity for short positions, while a push above 1.3660 may suggest a bullish trend. Until then, the market remains in a consolidation phase, and trading with a range-bound strategy might be appropriate."
+    }
+  }
+}

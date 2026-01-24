@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-01-24T08:39:36.170Z",
+  "price": {
+    "close": "4982.49038",
+    "high": "4982.62986",
+    "low": "4982.34008",
+    "open": "4982.40922",
+    "change": "0.00",
+    "datetime": "2026-01-24 19:00:00"
+  },
+  "indicators": {
+    "rsi": 66.42958,
+    "macd": 14.32604,
+    "macd_signal": 17.15272,
+    "sma20": 4975.68129
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理，短期上涨潜力]",
+      "content": "当前黄金/美元价格为4982.49，全天波动较小，显示出市场的震荡整理态势。价格接近20日简单移动平均线(SMA 20)，该位置在4975.68附近，为短期内可能的支撑位。若价格持续在此附近震荡整理，则可能出现反弹上行。\n\n从技术指标来看，MACD数据为14.33，但缺少信号线的数据，因此暂时难以提供明确的趋势判断。RSI指标暂时无法获取，缺乏对市场超买或超卖的确认。然而，市场依旧维持较窄的区间波动，表明价格可能处于整理阶段。\n\n支撑位方面，4982.34为近期低点，若价格跌破该位置，可能测试更低的支撑区间，向4970一带靠近。阻力位则在4982.63附近，若突破此水平，黄金可能测试更高价位，向5000接近。\n\n综合来看，短期内黄金/美元可能维持震荡整理，若突破当前区间，可能会出现进一步的上涨。建议在支撑位附近寻找低位买入机会，止损设定在4970下方。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current price of XAU/USD is holding steady at 4982.49, with no significant change in the last 24 hours. This suggests a period of consolidation in the market, where price action remains contained within a narrow range, reflecting uncertainty or a pause in momentum. The absence of a noticeable trend shift implies that traders are awaiting new economic data or geopolitical developments to drive the next directional move. The price remains close to the recent high of 4982.63, indicating that the bulls are trying to maintain control. However, the lack of a clear RSI or MACD signal leaves us with limited momentum indicators for now.\n\nThe short-term trend remains neutral to slightly bullish, as the price is trading above the 20-period Simple Moving Average (SMA) of 4975.68. This suggests that the market may still have some bullish pressure, especially if the price holds above the SMA. However, the lack of any other clear momentum indicators such as a strong MACD histogram or RSI reading leaves room for caution. Traders should monitor the price’s behavior around this level, as a break below the 20-SMA could trigger a short-term bearish bias. A retest of the support at 4975.68 may follow, with further downside towards 4970.\n\nThe key support for the pair lies near 4970, with resistance around the recent high at 4982.63. A breakout above this level could signal an extension of the current consolidation into a fresh rally, targeting higher resistance at 4990 or beyond. Conversely, if the price falls below the 4970 support, a deeper pullback could materialize, potentially testing the 4955-4960 region. Given the range-bound conditions, waiting for a breakout or confirmation of momentum before entering a trade would be prudent.\n\nConsidering the current neutral market dynamics, traders should look for opportunities around key levels. A confirmed break above 4982.63 could present a buy signal, with targets toward the next resistance level. On the other hand, failure to hold above 4975.68 might prompt short opportunities, with initial targets near 4970. Due to the absence of strong momentum indicators, patience and discipline will be important in navigating this market effectively."
+    }
+  }
+}
