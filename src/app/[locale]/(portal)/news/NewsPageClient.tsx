@@ -93,7 +93,8 @@ export default function NewsPageClient({ initialNews }: NewsPageClientProps) {
           </h1>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed">
             {isZh
-              ? '实时经济事件追踪 · 每日更新全球外汇市场最新动态'\n              : 'Real-Time Economic Events · Daily Global Forex Market Updates'}
+              ? '实时经济事件追踪 · 每日更新全球外汇市场最新动态'
+              : 'Real-Time Economic Events · Daily Global Forex Market Updates'}
           </p>
         </div>
       </div>

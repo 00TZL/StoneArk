@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useMemo } from 'react';
-import { Calendar, TrendingUp, AlertCircle, Clock } from 'lucide-react';
+import { Calendar, AlertCircle, Clock } from 'lucide-react';
 
 interface EconomicEvent {
   time: string;
@@ -92,5 +92,160 @@ export default function EconomicCalendarSection({ language }: EconomicCalendarSe
   };
 
   return (
-    <div className=\"bg-white dark:bg-gray-900 border-b-2 border-gray-200 dark:border-gray-800\">\n      <div className=\"max-w-7xl mx-auto px-6 py-12\">\n        {/* Section Header */}\n        <div className=\"mb-8\">\n          <div className=\"flex items-center gap-3 mb-4\">\n            <Calendar className=\"w-8 h-8 text-gray-900 dark:text-white\" />\n            <h2 className=\"text-3xl font-bold text-gray-900 dark:text-white\">\n              {isZh ? '经济日历' : 'Economic Calendar'}\n            </h2>\n          </div>\n          <p className=\"text-gray-600 dark:text-gray-400\">\n            {isZh\n              ? '实时追踪全球重要经济事件，把握市场动向'\n              : 'Track important global economic events in real-time'}\n          </p>\n        </div>\n\n        {/* Filters */}\n        <div className=\"grid grid-cols-1 md:grid-cols-3 gap-4 mb-8\">\n          {/* Date Selector */}\n          <div>\n            <label className=\"block text-sm font-bold text-gray-700 dark:text-gray-300 mb-2\">\n              {isZh ? '日期' : 'Date'}\n            </label>\n            <input\n              type=\"date\"\n              value={selectedDate}\n              onChange={(e) => setSelectedDate(e.target.value)}\n              className=\"w-full px-4 py-2 bg-gray-50 dark:bg-gray-800 border-2 border-gray-300 dark:border-gray-700 text-gray-900 dark:text-white font-semibold focus:outline-none focus:border-black dark:focus:border-white\"\n            />\n          </div>\n\n          {/* Importance Filter */}\n          <div>\n            <label className=\"block text-sm font-bold text-gray-700 dark:text-gray-300 mb-2\">\n              {isZh ? '重要性' : 'Importance'}\n            </label>\n            <select\n              value={selectedImportance}\n              onChange={(e) => setSelectedImportance(e.target.value)}\n              className=\"w-full px-4 py-2 bg-gray-50 dark:bg-gray-800 border-2 border-gray-300 dark:border-gray-700 text-gray-900 dark:text-white font-semibold focus:outline-none focus:border-black dark:focus:border-white\"\n            >\n              <option value=\"all\">{isZh ? '全部' : 'All'}</option>\n              <option value=\"high\">{isZh ? '高' : 'High'}</option>\n              <option value=\"medium\">{isZh ? '中' : 'Medium'}</option>\n              <option value=\"low\">{isZh ? '低' : 'Low'}</option>\n            </select>\n          </div>\n\n          {/* Currency Filter */}\n          <div>\n            <label className=\"block text-sm font-bold text-gray-700 dark:text-gray-300 mb-2\">\n              {isZh ? '货币' : 'Currency'}\n            </label>\n            <select\n              value={selectedCurrency}\n              onChange={(e) => setSelectedCurrency(e.target.value)}\n              className=\"w-full px-4 py-2 bg-gray-50 dark:bg-gray-800 border-2 border-gray-300 dark:border-gray-700 text-gray-900 dark:text-white font-semibold focus:outline-none focus:border-black dark:focus:border-white\"\n            >\n              <option value=\"all\">{isZh ? '全部货币' : 'All Currencies'}</option>\n              {currencies.map(currency => (\n                <option key={currency} value={currency}>{currency}</option>\n              ))}\n            </select>\n          </div>\n        </div>\n\n        {/* Events List */}\n        <div className=\"space-y-4\">\n          {filteredEvents.length === 0 ? (\n            <div className=\"text-center py-12 bg-gray-50 dark:bg-gray-800 border-2 border-gray-200 dark:border-gray-700\">\n              <AlertCircle className=\"w-12 h-12 mx-auto mb-3 text-gray-400\" />\n              <p className=\"text-gray-600 dark:text-gray-400\">\n                {isZh ? '当前筛选条件下没有事件' : 'No events match the current filters'}\n              </p>\n            </div>\n          ) : (\n            filteredEvents.map((event, index) => (\n              <div\n                key={index}\n                className=\"bg-gray-50 dark:bg-gray-800 border-2 border-gray-200 dark:border-gray-700 p-4 hover:border-black dark:hover:border-white transition-colors\"\n              >\n                <div className=\"flex flex-col md:flex-row md:items-center gap-4\">\n                  {/* Time */}\n                  <div className=\"flex items-center gap-2 md:w-24 shrink-0\">\n                    <Clock className=\"w-4 h-4 text-gray-600 dark:text-gray-400\" />\n                    <span className=\"font-bold text-gray-900 dark:text-white\">\n                      {event.time}\n                    </span>\n                  </div>\n\n                  {/* Currency */}\n                  <div className=\"md:w-16 shrink-0\">\n                    <span className=\"px-2 py-1 bg-black dark:bg-white text-white dark:text-black text-xs font-bold\">\n                      {event.currency}\n                    </span>\n                  </div>\n\n                  {/* Importance */}\n                  <div className=\"md:w-20 shrink-0\">\n                    <div className=\"flex items-center gap-2\">\n                      <div className={`w-3 h-3 rounded-full ${getImportanceColor(event.importance)}`}></div>\n                      <span className=\"text-sm font-semibold text-gray-700 dark:text-gray-300\">\n                        {getImportanceText(event.importance)}\n                      </span>\n                    </div>\n                  </div>\n\n                  {/* Event Name */}\n                  <div className=\"flex-1 min-w-0\">\n                    <h3 className=\"font-bold text-gray-900 dark:text-white\">\n                      {event.event}\n                    </h3>\n                  </div>\n\n                  {/* Forecast & Previous */}\n                  <div className=\"flex gap-6 md:w-48 shrink-0\">\n                    {event.forecast && (\n                      <div>\n                        <div className=\"text-xs text-gray-500 dark:text-gray-400 mb-1\">\n                          {isZh ? '预测' : 'Forecast'}\n                        </div>\n                        <div className=\"font-bold text-gray-900 dark:text-white\">\n                          {event.forecast}\n                        </div>\n                      </div>\n                    )}\n                    {event.previous && (\n                      <div>\n                        <div className=\"text-xs text-gray-500 dark:text-gray-400 mb-1\">\n                          {isZh ? '前值' : 'Previous'}\n                        </div>\n                        <div className=\"font-bold text-gray-600 dark:text-gray-400\">\n                          {event.previous}\n                        </div>\n                      </div>\n                    )}\n                  </div>\n                </div>\n              </div>\n            ))\n          )}\n        </div>\n\n        {/* Info Note */}\n        <div className=\"mt-6 p-4 bg-blue-50 dark:bg-blue-900/20 border-2 border-blue-200 dark:border-blue-800\">\n          <p className=\"text-sm text-blue-900 dark:text-blue-300\">\n            <strong>{isZh ? '提示：' : 'Note: '}</strong>\n            {isZh\n              ? '所有时间均为北京时间（UTC+8）。高重要性事件可能对市场产生重大影响。'\n              : 'All times are in Beijing Time (UTC+8). High importance events may have significant market impact.'}\n          </p>\n        </div>\n      </div>\n    </div>\n  );
+    <div className="bg-white dark:bg-gray-900 border-b-2 border-gray-200 dark:border-gray-800">
+      <div className="max-w-7xl mx-auto px-6 py-12">
+        {/* Section Header */}
+        <div className="mb-8">
+          <div className="flex items-center gap-3 mb-4">
+            <Calendar className="w-8 h-8 text-gray-900 dark:text-white" />
+            <h2 className="text-3xl font-bold text-gray-900 dark:text-white">
+              {isZh ? '经济日历' : 'Economic Calendar'}
+            </h2>
+          </div>
+          <p className="text-gray-600 dark:text-gray-400">
+            {isZh
+              ? '实时追踪全球重要经济事件，把握市场动向'
+              : 'Track important global economic events in real-time'}
+          </p>
+        </div>
+
+        {/* Filters */}
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
+          {/* Date Selector */}
+          <div>
+            <label className="block text-sm font-bold text-gray-700 dark:text-gray-300 mb-2">
+              {isZh ? '日期' : 'Date'}
+            </label>
+            <input
+              type="date"
+              value={selectedDate}
+              onChange={(e) => setSelectedDate(e.target.value)}
+              className="w-full px-4 py-2 bg-gray-50 dark:bg-gray-800 border-2 border-gray-300 dark:border-gray-700 text-gray-900 dark:text-white font-semibold focus:outline-none focus:border-black dark:focus:border-white"
+            />
+          </div>
+
+          {/* Importance Filter */}
+          <div>
+            <label className="block text-sm font-bold text-gray-700 dark:text-gray-300 mb-2">
+              {isZh ? '重要性' : 'Importance'}
+            </label>
+            <select
+              value={selectedImportance}
+              onChange={(e) => setSelectedImportance(e.target.value)}
+              className="w-full px-4 py-2 bg-gray-50 dark:bg-gray-800 border-2 border-gray-300 dark:border-gray-700 text-gray-900 dark:text-white font-semibold focus:outline-none focus:border-black dark:focus:border-white"
+            >
+              <option value="all">{isZh ? '全部' : 'All'}</option>
+              <option value="high">{isZh ? '高' : 'High'}</option>
+              <option value="medium">{isZh ? '中' : 'Medium'}</option>
+              <option value="low">{isZh ? '低' : 'Low'}</option>
+            </select>
+          </div>
+
+          {/* Currency Filter */}
+          <div>
+            <label className="block text-sm font-bold text-gray-700 dark:text-gray-300 mb-2">
+              {isZh ? '货币' : 'Currency'}
+            </label>
+            <select
+              value={selectedCurrency}
+              onChange={(e) => setSelectedCurrency(e.target.value)}
+              className="w-full px-4 py-2 bg-gray-50 dark:bg-gray-800 border-2 border-gray-300 dark:border-gray-700 text-gray-900 dark:text-white font-semibold focus:outline-none focus:border-black dark:focus:border-white"
+            >
+              <option value="all">{isZh ? '全部货币' : 'All Currencies'}</option>
+              {currencies.map(currency => (
+                <option key={currency} value={currency}>{currency}</option>
+              ))}
+            </select>
+          </div>
+        </div>
+
+        {/* Events List */}
+        <div className="space-y-4">
+          {filteredEvents.length === 0 ? (
+            <div className="text-center py-12 bg-gray-50 dark:bg-gray-800 border-2 border-gray-200 dark:border-gray-700">
+              <AlertCircle className="w-12 h-12 mx-auto mb-3 text-gray-400" />
+              <p className="text-gray-600 dark:text-gray-400">
+                {isZh ? '当前筛选条件下没有事件' : 'No events match the current filters'}
+              </p>
+            </div>
+          ) : (
+            filteredEvents.map((event, index) => (
+              <div
+                key={index}
+                className="bg-gray-50 dark:bg-gray-800 border-2 border-gray-200 dark:border-gray-700 p-4 hover:border-black dark:hover:border-white transition-colors"
+              >
+                <div className="flex flex-col md:flex-row md:items-center gap-4">
+                  {/* Time */}
+                  <div className="flex items-center gap-2 md:w-24 shrink-0">
+                    <Clock className="w-4 h-4 text-gray-600 dark:text-gray-400" />
+                    <span className="font-bold text-gray-900 dark:text-white">
+                      {event.time}
+                    </span>
+                  </div>
+
+                  {/* Currency */}
+                  <div className="md:w-16 shrink-0">
+                    <span className="px-2 py-1 bg-black dark:bg-white text-white dark:text-black text-xs font-bold">
+                      {event.currency}
+                    </span>
+                  </div>
+
+                  {/* Importance */}
+                  <div className="md:w-20 shrink-0">
+                    <div className="flex items-center gap-2">
+                      <div className={`w-3 h-3 rounded-full ${getImportanceColor(event.importance)}`}></div>
+                      <span className="text-sm font-semibold text-gray-700 dark:text-gray-300">
+                        {getImportanceText(event.importance)}
+                      </span>
+                    </div>
+                  </div>
+
+                  {/* Event Name */}
+                  <div className="flex-1 min-w-0">
+                    <h3 className="font-bold text-gray-900 dark:text-white">
+                      {event.event}
+                    </h3>
+                  </div>
+
+                  {/* Forecast & Previous */}
+                  <div className="flex gap-6 md:w-48 shrink-0">
+                    {event.forecast && (
+                      <div>
+                        <div className="text-xs text-gray-500 dark:text-gray-400 mb-1">
+                          {isZh ? '预测' : 'Forecast'}
+                        </div>
+                        <div className="font-bold text-gray-900 dark:text-white">
+                          {event.forecast}
+                        </div>
+                      </div>
+                    )}
+                    {event.previous && (
+                      <div>
+                        <div className="text-xs text-gray-500 dark:text-gray-400 mb-1">
+                          {isZh ? '前值' : 'Previous'}
+                        </div>
+                        <div className="font-bold text-gray-600 dark:text-gray-400">
+                          {event.previous}
+                        </div>
+                      </div>
+                    )}
+                  </div>
+                </div>
+              </div>
+            ))
+          )}
+        </div>
+
+        {/* Info Note */}
+        <div className="mt-6 p-4 bg-blue-50 dark:bg-blue-900/20 border-2 border-blue-200 dark:border-blue-800">
+          <p className="text-sm text-blue-900 dark:text-blue-300">
+            <strong>{isZh ? '提示：' : 'Note: '}</strong>
+            {isZh
+              ? '所有时间均为北京时间（UTC+8）。高重要性事件可能对市场产生重大影响。'
+              : 'All times are in Beijing Time (UTC+8). High importance events may have significant market impact.'}
+          </p>
+        </div>
+      </div>
+    </div>
+  );
 }
