@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-01-24T21:27:45.059Z",
+  "price": {
+    "close": "0.78203",
+    "high": "0.7846",
+    "low": "0.78137",
+    "open": "0.78147",
+    "change": "0.07",
+    "datetime": "2026-01-25 08:00:00"
+  },
+  "indicators": {
+    "rsi": 45.59117,
+    "macd": -0.00088738396,
+    "macd_signal": -0.0013105911,
+    "sma20": 0.7812995
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[短期震荡整理，略偏弱势]",
+      "content": "当前美元/瑞郎（USD/CHF）价格位于0.78203，市场呈现短期震荡整理格局。虽然24小时内价格仅小幅上涨0.07%，但高点0.7846和低点0.78137的区间表明市场波动性较小。整体趋势略显疲软，缺乏明显的上涨动力。\n\n技术指标方面，MACD当前为负值（-0.00088738396），表明短期内空头力量稍强，虽然信号线数据缺失，但负值MACD暗示市场存在下行风险。此外，20日简单移动平均线（SMA(20)）显示出支撑位在0.7813附近，若价格下破此水平，则可能会进一步走弱。\n\n支撑位方面，0.78137附近是关键支撑区域，若价格突破此位置，可能会加速下行至更低水平。而阻力位则位于0.7846，若突破该点位，则有望恢复短期上涨势头，挑战更高的价格水平。\n\n建议短期内观望，避免在震荡区间内贸然交易。如价格突破0.7846，可考虑适量做多；若跌破0.7813支撑，则可考虑适度做空。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair has been showing some consolidation over the past 24 hours, with a slight upward movement of 0.07%. The current price of 0.78203 is in a narrow range, oscillating between the high of 0.7846 and the low of 0.78137. This suggests a lack of strong directional momentum in the short term. The pair is essentially moving sideways, trapped between a range that could act as immediate support and resistance. A breakout above 0.7846 could push prices higher, while a breakdown below 0.78137 would signal a potential downward move.\n\nThe absence of key technical indicators like RSI(14) and the incomplete MACD data makes it difficult to assess momentum clearly. However, the MACD value of -0.00088738396 suggests that the market is in a slight bearish bias, with the negative reading indicating weak downward pressure. Given the lack of a definitive trend, traders should monitor price action for clearer signals. If the MACD moves into positive territory, it could indicate a shift toward a bullish stance, but that would require confirmation through price action.\n\nFrom a moving averages perspective, the SMA(20) at 0.7812995 indicates a neutral stance, suggesting the pair is neither strongly overbought nor oversold. The proximity of the current price to the SMA reinforces the sideways trend, showing that the market is in balance. Should the price maintain or rebound from this level, it could indicate support, while a failure to hold above this point might lead to further declines.\n\nGiven the current lack of strong momentum, the best approach would be to trade within the range for now. If the price breaks above 0.7846, consider long positions with a target near the next resistance level, while a move below 0.78137 could open up short opportunities. Traders should wait for more decisive indicators, particularly a confirmed MACD crossover or RSI reading, to make more informed decisions."
+    }
+  }
+}

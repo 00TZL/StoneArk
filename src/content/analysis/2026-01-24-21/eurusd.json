@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-01-24T21:23:25.683Z",
+  "price": {
+    "close": "1.1825",
+    "high": "1.18252",
+    "low": "1.18239",
+    "open": "1.18241",
+    "change": "0.01",
+    "datetime": "2026-01-25 08:00:00"
+  },
+  "indicators": {
+    "rsi": 73.63217,
+    "macd": 0.00090335579,
+    "macd_signal": 0.0011813579,
+    "sma20": 1.18236
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[短期震荡整理]",
+      "content": "当前欧元/美元价格为1.1825，处于相对平稳的震荡区间。尽管价格波动较小，但从日内走势来看，价格围绕1.1824附近反复波动，显示出市场缺乏明显的方向性。此种走势通常表明市场处于短期整理阶段，交易者需关注突破方向。\n\n技术指标方面，SMA(20)位于1.18236附近，表明短期均线水平对价格形成轻微支撑。MACD指标为0.00090335579，显示出轻微的上涨动能，但由于信号线未提供更多信息，当前动能不强。此外，由于RSI数据不可用，无法进一步分析超买或超卖情况。\n\n支撑位方面，1.18239区域提供了短期支撑，价格若跌破该点位，可能会进一步向下测试1.1820附近的支撑。阻力位则位于1.18252，若突破该水平，可能会出现短暂的上行趋势，接下来可关注1.1830附近的更高阻力位。\n\n建议交易者在当前震荡区间内采取谨慎策略，避免盲目追涨杀跌。若价格突破1.18252，可以考虑轻仓做多，而若跌破1.18239，可尝试做空。但由于当前动能较弱，建议保持短线操作，及时止盈止损。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently displaying a narrow trading range, with minimal price movement over the past 24 hours, suggesting market indecision. The price is holding just above the 1.1820 level, which aligns closely with the 20-period simple moving average (SMA) at 1.18236. This indicates a consolidation phase, with neither bulls nor bears gaining a significant advantage. In the absence of major economic catalysts, price action could remain confined within this tight range unless a breakout occurs.\n\nLooking at the indicators, the lack of a defined RSI value leaves the momentum unclear, but the MACD shows a slight positive reading of 0.000903, suggesting a weak bullish bias in the short term. With no significant divergence between the MACD and price, the trend remains neutral. Traders should closely monitor any changes in the MACD histogram for signs of increasing momentum. If the MACD moves further into positive territory, it may signal an opportunity for a bullish continuation.\n\nThe immediate support level is seen at 1.18239, with any break below potentially targeting the next support zone around 1.1815. On the upside, resistance is located just above 1.1825, with a potential move towards 1.1835 if bullish momentum develops. A breakout above this resistance could signal a stronger move higher, with further upside targeting 1.1850. Traders should be cautious in the current environment, considering tight risk management due to the subdued volatility.\n\nFor trading suggestions, traders should consider waiting for a clear breakout from the current consolidation zone. A move above 1.1835 could trigger buying opportunities, while a dip below 1.1820 might warrant short positions. Given the tight trading range, intraday scalping or range-bound strategies could be viable for short-term traders, while longer-term traders should await stronger directional signals before committing to positions."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-01-24T21:26:17.897Z",
+  "price": {
+    "close": "1.37211",
+    "high": "1.37293",
+    "low": "1.37208",
+    "open": "1.37218",
+    "change": "-0.01",
+    "datetime": "2026-01-25 08:00:00"
+  },
+  "indicators": {
+    "rsi": 50.23244,
+    "macd": -0.00026069776,
+    "macd_signal": -0.00068699397,
+    "sma20": 1.37104
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理走势，待突破方向确认]",
+      "content": "当前美元/加元价格为1.37211，整体呈现震荡整理走势。价格未出现明确的突破，持续在1.37208至1.37293区间内波动，显示市场缺乏强烈的方向性。短期来看，价格偏向区间交易，仍需等待突破上行或下行的重要支撑/阻力位。\n\n技术指标方面，RSI数据缺失，无法判断超买或超卖状态，但根据MACD的数值（-0.00026069776）可以看到，市场的卖压略大于买盘，但并未显示出强烈的下行动能。同时，20日简单移动平均（SMA）为1.37104，显示价格目前在该均线附近波动，短期支撑较为明显。\n\n支撑位方面，1.37208区域为近期低点，若价格下破该位置，则可能测试更深支撑。阻力位位于1.37293，突破此处有望引发上涨行情，可能上行至1.3750附近。当前价格位于支撑和阻力之间，存在较高的不确定性。\n\n交易建议上，建议在当前区间内进行短期波动交易，等待价格突破1.37293或1.37208，突破后再寻找进场机会。如价格突破1.37293，建议寻找多头机会；若下破1.37208，则可能需要关注空头机会。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently showing a slight negative bias, with the latest price at 1.37211, marking a marginal 24-hour decrease of 0.01%. Despite the small drop, the price remains above the key 20-period simple moving average (SMA) of 1.37104, suggesting a general bullish sentiment in the medium term. However, the lack of significant movement between the day's high and low (1.37293 / 1.37208) indicates a consolidation phase, which could signal indecision in the market.\n\nFrom an indicator perspective, the MACD is slightly negative at -0.00026, which hints at a potential bearish momentum, though the absence of a signal line makes this reading less decisive. Without a clear crossover or divergence in the MACD, traders should be cautious of any short-term trends. The Relative Strength Index (RSI) is currently unavailable, leaving traders without one of the key momentum indicators. Still, the prevailing price action around the SMA suggests a balance between buying and selling pressures.\n\nKey support levels lie near the recent low of 1.37208, with the potential for further downside if the price fails to hold above this point. On the other hand, resistance is found near the high of 1.37293, and any break above this level could point to a continuation of the bullish trend. Given the lack of extreme volatility, the pair may continue to trade within this tight range until further market catalysts emerge.\n\nFor traders, the range between 1.37208 and 1.37293 presents an opportunity for scalping within this narrow band. Long positions may be considered if the price tests support near 1.37208, with a target near the resistance at 1.37293. Conversely, short positions could be viable if the pair closes below the SMA, indicating potential downside towards the support levels. Caution is advised, as the lack of strong momentum indicators leaves room for uncertainty."
+    }
+  }
+}

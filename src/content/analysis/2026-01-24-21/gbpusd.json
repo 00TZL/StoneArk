@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-01-24T21:24:07.915Z",
+  "price": {
+    "close": "1.36295",
+    "high": "1.36338",
+    "low": "1.36192",
+    "open": "1.36332",
+    "change": "-0.03",
+    "datetime": "2026-01-25 08:00:00"
+  },
+  "indicators": {
+    "rsi": 55.18457,
+    "macd": 0.0010783786,
+    "macd_signal": 0.0017650564,
+    "sma20": 1.3643
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[整理震荡走势，短期回调风险]",
+      "content": "当前，英镑/美元维持在1.36295附近，整体呈现震荡整理状态。从24小时变化来看，价格微幅下跌0.03%。技术面上，当前没有RSI和MACD信号的数据，但SMA(20)显示价格位于1.36430附近，表明短期内存在一定的阻力。\n\n支撑位方面，1.36192一线为近期的低点，若价格进一步下行，这一水平可能会为价格提供一定支撑。若突破此支撑位，1.36000附近可能成为下一重要支撑区间。阻力位则在1.36338处，突破此水平有可能推动价格上行至1.36500。\n\n由于市场波动较小，短期内英镑/美元可能继续在1.36192至1.36338区间内震荡。技术指标上，MACD和RSI没有给出明确趋势信号，因此短期内保持观望或采取小幅波动的交易策略较为适宜。\n\n交易建议方面，若价格回落至1.36192附近，可考虑短线多单操作，止损放在1.36000下方。若价格突破1.36338，则可关注上行至1.36500的机会，但需警惕短期回调风险。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently experiencing a narrow trading range, with the latest price at 1.36295, showing a slight decline of 0.03% over the past 24 hours. This suggests a period of consolidation after recent volatility. The market appears to be in a neutral to bearish trend, as the price remains slightly below the 20-period SMA of 1.36430, which could act as a resistance point in the near term. The lack of significant momentum suggests that the pair might continue to range within this channel, waiting for a potential catalyst to spark a breakout.\n\nWith the Relative Strength Index (RSI) and MACD signals unavailable, the market’s short-term momentum remains unclear. However, the MACD value of 0.00108 indicates that the trend strength is minimal, pointing to a lack of strong directional movement. The pair may struggle to break decisively above 1.36430 unless we see stronger bullish activity. Without the support of clear momentum indicators, the pair could stay in a sideways trend, lacking the necessary strength to push higher or lower.\n\nKey support for GBP/USD is situated at the 1.36192 level, just above the recent low. A break below this support could open the door for further downside, with the next potential target around 1.36000. Conversely, if the price manages to hold above this level and breaks the 1.36430 resistance, the next significant resistance lies near 1.36700. Traders should monitor price action closely for any breakout or breakdown, as this will dictate the next phase of movement.\n\nIn terms of trading strategy, traders may look for opportunities to trade within the current range, buying near support and selling near resistance. A breakout above 1.36430 could signal a shift to a bullish short-term outlook, while a breakdown below 1.36192 could confirm a bearish continuation. Due to the lack of clear trend indicators, risk management is essential to navigate this range-bound environment."
+    }
+  }
+}

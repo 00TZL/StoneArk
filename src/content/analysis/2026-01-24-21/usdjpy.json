@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-01-24T21:24:50.909Z",
+  "price": {
+    "close": "156.08548",
+    "high": "156.64159",
+    "low": "155.91444",
+    "open": "156.00514",
+    "change": "0.05",
+    "datetime": "2026-01-25 08:00:00"
+  },
+  "indicators": {
+    "rsi": 47.91962,
+    "macd": -0.17964513,
+    "macd_signal": -0.31206452,
+    "sma20": 155.7903
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理走势]",
+      "content": "目前美元/日元处于156.08548附近，整体呈现震荡整理走势。尽管价格小幅上行，但当前缺乏强势的趋势信号，市场情绪偏向平稳，短期内价格波动较小。高点156.64159和低点155.91444表明波动范围有限，可能会维持这种整理模式。\n\n从技术指标来看，MACD值为-0.17964513，虽然未显示明确的信号，但负值表明市场仍可能有一定的卖压。SMA(20)位于155.79030，表明当前价格高于短期均线，可能暗示近期维持在震荡区间的上方。RSI(14)数据缺失，无法进一步判断市场的超买或超卖状况。\n\n支撑位方面，155.91444是近期的低点，若价格跌破此位，可能会进一步走弱，寻找下一个支撑区域。阻力位则在156.64159附近，若突破该位置，则有可能重新测试更高的价格区域。\n\n建议短期内采取区间交易策略，关注156.64159的阻力和155.91444的支撑。若价格接近支撑位，可以考虑买入，接近阻力位时则适合卖出，切勿盲目追涨杀跌，风险控制非常重要。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently showing a slight upward bias, with a price of 156.08548, reflecting a modest 0.05% gain in the last 24 hours. The market has been oscillating between a high of 156.64159 and a low of 155.91444, indicating a narrow trading range. The price is above the 20-period simple moving average (SMA) at 155.79030, suggesting a short-term bullish trend. However, the lack of further momentum in the MACD and RSI indicators points to a potentially stagnating market, with the trend still in consolidation.\n\nIn terms of support and resistance levels, the immediate support is located around 155.91, which aligns closely with the recent low, and could act as a floor for further price retracements. On the upside, the resistance zone is evident near 156.64, the recent high, and serves as the key barrier that traders should monitor. A breakout above this level could open the path toward the next significant resistance near 157.00, while a drop below the support level could lead to further tests of the 155.50 area.\n\nThe MACD value of -0.17964513 indicates a bearish divergence, suggesting that upward momentum may be losing steam. However, without an accompanying change in the signal line or confirmation from other indicators like RSI, this bearish reading remains inconclusive. A crossover in the MACD or a substantial RSI shift could help clarify the direction. Until such confirmation arises, traders may need to wait for a clear breakout or breakdown from these key levels.\n\nFor trading, maintaining a neutral stance seems prudent in the short term. A potential buy trade could be considered upon a solid breakout above 156.64, targeting the 157.00 zone. Conversely, a break below 155.91 could signal a sell opportunity, with a stop-loss near 156.20 to limit potential upside retracements. The absence of clear directional strength requires caution and a wait-and-see approach."
+    }
+  }
+}

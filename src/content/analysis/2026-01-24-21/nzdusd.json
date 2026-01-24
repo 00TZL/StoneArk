@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-01-24T21:27:00.810Z",
+  "price": {
+    "close": "0.59407",
+    "high": "0.5941",
+    "low": "0.59353",
+    "open": "0.59391",
+    "change": "0.03",
+    "datetime": "2026-01-25 08:00:00"
+  },
+  "indicators": {
+    "rsi": 50.18044,
+    "macd": 0.00026152242,
+    "macd_signal": 0.00052913369,
+    "sma20": 0.5946795
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理，短期可能维持区间波动]",
+      "content": "当前纽元/美元(NZD/USD)维持震荡整理的格局，价格在0.5935到0.5941区间内波动。短期内，市场缺乏强烈的趋势性动能，可能会继续在该区间内整理，形成一定的支撑和阻力区间。当前价格接近短期20日SMA(0.59468)，这表明价格在移动均线附近整理，市场情绪保持谨慎。\n\nRSI和MACD数据缺失，无法准确判断超买或超卖的市场情况。然而，基于当前价格的表现，短期内可能出现轻微反弹或回调。支撑位在0.5935附近，而阻力位则位于0.5941上方，突破这些关键价位可能会带来较大的波动。\n\n考虑到目前的震荡状态，交易者可以关注区间内的反弹和回调操作。若价格接近支撑位，可以考虑短期多头操作，若接近阻力位，则可采取短空策略。然而，由于缺乏强烈趋势，建议交易者保持灵活应变，避免过度追求突破。\n\n综上所述，当前市场处于短期震荡整理状态，操作上应注重区间波动。保持风险控制，并密切关注市场动态变化。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD currency pair is currently hovering around 0.59407, maintaining a relatively narrow trading range with a 24-hour change of 0.03%. The pair has shown a slight upward bias, with its high reaching 0.5941 and the low at 0.59353. This mild fluctuation suggests a market in consolidation, with no clear trend direction emerging yet. A more decisive movement would require a break above 0.5947, which could signal a shift toward further bullish momentum. Conversely, support at 0.5935 remains crucial for maintaining the current range.\n\nThe absence of a clear RSI(14) reading makes it difficult to interpret momentum conditions. However, MACD is showing a small positive value of 0.00026152242, which hints at a potential bullish divergence or slight upward pressure. This indicator suggests the pair is experiencing a period of consolidation, but should momentum build, it could offer a buying opportunity. A crossover above zero or a positive signal line could further support this hypothesis. \n\nThe 20-period Simple Moving Average (SMA) stands at 0.5947, providing a near-term resistance level. If the price manages to surpass this level with sustained buying pressure, it could indicate further bullish continuation towards higher levels. On the downside, the immediate support zone lies at 0.5935. A break below this level could open up the potential for a retracement towards 0.5920 or lower, particularly if broader market conditions are risk-off.\n\nFor traders, it would be prudent to monitor the price action closely, especially near the 0.5947 resistance and 0.5935 support. A break and close beyond these levels would offer clearer directional cues. A buy signal above 0.5947 or a sell signal below 0.5935 could provide more defined opportunities. Additionally, a wait-and-see approach, coupled with watching for signs of momentum through MACD or potential RSI readings, could enhance trade execution."
+    }
+  }
+}
