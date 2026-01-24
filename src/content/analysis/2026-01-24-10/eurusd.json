@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-01-24T10:27:35.606Z",
+  "price": {
+    "close": "1.18232",
+    "high": "1.1824",
+    "low": "1.1823",
+    "open": "1.18231",
+    "change": "0.00",
+    "datetime": "2026-01-24 21:00:00"
+  },
+  "indicators": {
+    "rsi": 76.2428,
+    "macd": 0.0017630345,
+    "macd_signal": 0.0020160699,
+    "sma20": 1.18147
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[震荡整理，趋势不明]",
+      "content": "当前欧元/美元的价格在1.18232附近小幅震荡，全天波动极其有限，仅有0.00%的变化。从技术角度来看，目前该货币对的趋势较为平缓，缺乏明确的上行或下行信号，表现出一定的整理模式。若短期内无法突破当前区间，则可能继续在1.1820至1.1830区间内震荡整理。\n\nRSI（相对强弱指数）数据缺失，无法提供有效的超买超卖信号，而MACD指标显示当前数值接近零轴，表明动能较弱。SMA(20)均线位于1.18147，略低于当前价格，短期内可作为支撑位。若价格跌破该支撑位，可能会进一步测试1.1800附近的关键支撑区域。\n\n鉴于当前缺乏强烈的市场趋势，建议投资者在1.1820-1.1830区间内进行区间交易，若价格突破上方1.1830则可能打开更大的上涨空间，反之若跌破1.1810支撑位则有可能形成进一步下行风险。在此区间内操作时，设置合理止损和止盈，以规避市场波动带来的不确定性。\n\n综合来看，欧元/美元短期内或将维持震荡整理格局，等待更明确的市场信号或数据公布来决定未来的方向。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The Euro vs. US Dollar (EUR/USD) is currently displaying a neutral market sentiment with a narrow trading range, as the price moves between 1.1824 and 1.1823, reflecting a minimal 24-hour change of 0.00%. This lack of price action indicates that the market is consolidating, with neither buyers nor sellers taking clear control. With the current price near the 1.1823 level, traders should keep an eye on potential breakouts above or below this tight range. Given the lack of strong momentum, further sideways action is possible unless there is a significant catalyst.\n\nThe RSI(14) is currently not available, limiting our ability to gauge the overbought or oversold conditions for this pair. However, the MACD value of 0.00176 suggests a slight positive momentum, although the absence of a clear signal line makes it difficult to interpret with certainty. Without a strong crossover or divergence, the current MACD does not indicate any immediate trend reversal or continuation, which keeps the outlook in a neutral state. \n\nIn terms of key technical levels, the current SMA(20) stands at 1.18147, which could act as a support level if the price dips lower. A break below this moving average would signal potential downside risk, with further support seen at 1.1800, a psychological level. On the upside, the immediate resistance is at 1.1824, and any sustained move above this level could lead to further tests of resistance at 1.1835. Traders should focus on these levels for potential breakouts or reversals.\n\nGiven the current market conditions, a cautious trading approach is recommended. Traders should consider entering positions based on breakouts from the current range, with stop losses set around the nearest support and resistance zones. Risk management is key in this tight-range environment, where quick market fluctuations could trigger stop-outs if not monitored closely."
+    }
+  }
+}

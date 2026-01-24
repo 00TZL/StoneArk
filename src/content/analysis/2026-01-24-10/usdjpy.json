@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-01-24T10:29:04.294Z",
+  "price": {
+    "close": "155.69679",
+    "high": "155.70086",
+    "low": "155.69095",
+    "open": "155.69438",
+    "change": "-0.00",
+    "datetime": "2026-01-24 21:00:00"
+  },
+  "indicators": {
+    "rsi": 15.88041,
+    "macd": -0.54520442,
+    "macd_signal": -0.61419351,
+    "sma20": 155.98198
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[横盘整理，短期观望]",
+      "content": "当前美元/日元的价格走势处于相对稳定状态，价格在155.69-155.70之间震荡整理。短期内无明显趋势，价格波动较小，表现为窄幅区间震荡。投资者需保持谨慎，避免在未确认趋势反转时盲目入场。\n\n从技术指标来看，RSI值缺失，但MACD值为负，说明市场可能处于短期下行压力之中。不过，MACD的负值并未出现明显放大，暗示空头动能不足。SMA(20)在155.98附近，当前价格稍低于此水平，暗示短期内可能面临一定的压力。\n\n对于支撑和阻力的判断，当前支撑位较为明确，位于155.690附近，突破该位置可能会进一步下行。上方阻力位在155.980附近，若突破该水平，可能会迎来一波反弹。价格突破这些关键点位将为后市走势提供更清晰的方向指引。\n\n综合来看，美元/日元短期内可能继续横盘整理，建议投资者采取观望策略，耐心等待突破关键支撑或阻力位后再进行操作。避免在当前区间内频繁进出市场，以免受到短期波动影响。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently exhibiting a relatively neutral price action with a slight range-bound movement around the 155.70 level. The absence of significant change over the past 24 hours suggests consolidation after recent volatility. The price is currently trading just below the 20-period SMA at 155.98, indicating a mild bearish bias. However, the market has yet to show any strong directional momentum, keeping traders cautious. A break above the SMA could signal a shift toward the upside, potentially targeting resistance levels above 156.00.\n\nIn terms of momentum, the MACD is negative at -0.5452, which points to bearish pressure in the short term. However, the lack of a signal line reading makes it difficult to confirm any sustained downward move. This suggests a cautionary outlook for aggressive selling at these levels. The absence of an RSI reading complicates the analysis of overbought or oversold conditions, but given the flat price action, it’s likely that the market is in a neutral zone, waiting for a catalyst to determine the next directional move.\n\nKey support is located at 155.69, which marks the recent low. A breakdown below this level could lead to further downside momentum, potentially targeting 155.50 or lower. On the upside, resistance near 155.70-155.75 could serve as an initial hurdle, with a breakout above 156.00 likely to signal a stronger bullish trend. Traders should closely monitor these levels for potential price reactions, as they may set the tone for the upcoming session.\n\nFor trading, it is recommended to remain patient and wait for clearer signals. A break and hold above 156.00 could provide a bullish entry opportunity, while a drop below 155.69 might offer a short-selling setup. Given the current lack of strong momentum, cautious entry with tight stops is advisable, especially until more conclusive market action unfolds."
+    }
+  }
+}

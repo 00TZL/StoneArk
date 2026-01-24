@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-01-24T10:32:39.771Z",
+  "price": {
+    "close": "4982.45193",
+    "high": "4982.62421",
+    "low": "4982.33218",
+    "open": "4982.41175",
+    "change": "-0.00",
+    "datetime": "2026-01-24 21:00:00"
+  },
+  "indicators": {
+    "rsi": 66.39635,
+    "macd": 12.70024,
+    "macd_signal": 15.67736,
+    "sma20": 4979.68392
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理，短期震荡格局延续]",
+      "content": "目前黄金/美元（XAU/USD）价格维持在4982附近，呈现震荡整理的局面。价格未能突破近期高点4982.62421，依然在较窄区间内波动，显示出短期内市场缺乏明显的方向性。整体趋势上，看似维持整理状态，等待进一步的突破信号。\n\n在技术指标方面，RSI数据缺失，无法对超买或超卖情况进行准确评估。MACD的数值为12.70024，但未给出明确的交叉信号，表明市场暂时缺乏强烈的动能。SMA(20)位于4979.68392附近，为当前价格提供了一定的支撑，显示短期内下行压力较小。\n\n支撑位方面，4982.33218一线已成为短期内的重要支撑水平，若价格下行至此位置，则可能出现反弹。上行阻力位则集中在4982.62421附近，突破此阻力有望带来进一步上涨的动力。然而，由于市场情绪偏向震荡，突破的可能性相对较低。\n\n综合来看，黄金/美元仍处于震荡整理中，短期内建议投资者关注价格在支撑与阻力之间的波动。建议在支撑位附近逢低做多，在阻力位附近做空，同时保持灵活应变的交易策略，以应对突发的价格波动。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD market shows a very narrow range over the past 24 hours, with little price change. The price is trading at 4982.45193, hovering near the 20-period Simple Moving Average (SMA) of 4979.68392, indicating a neutral sentiment in the market. This consolidation suggests a lack of strong directional momentum, leaving traders cautious and waiting for more significant market drivers to emerge. The price is holding just above the key SMA support, which could provide short-term stability.\n\nLooking at the MACD, it is currently reading at 12.70024 with no defined signal, indicating that there is no clear trend in terms of momentum. This lack of signal further supports the neutral view on the market. The Relative Strength Index (RSI) is unavailable, which means we cannot assess overbought or oversold conditions. In the absence of momentum indicators and volatility, the market is likely to maintain its current range unless impacted by external factors such as news or economic data.\n\nIn terms of support and resistance, the recent high of 4982.62421 and low of 4982.33218 provide immediate boundaries. The tight range between these levels suggests the market is currently lacking a clear breakout. Traders should watch for price movement beyond these levels for signals of stronger trends. A break above the high could push prices toward 4985-4990, while a break below the low could test lower levels near the 4975 area, where additional support could be found.\n\nGiven the market's current indecision, traders may consider range-bound strategies, looking to buy near support and sell near resistance. However, they should remain cautious and wait for more substantial indicators or news developments that could trigger a breakout. In this environment, tight stop losses are recommended to manage risk effectively, as the market could be prone to sudden volatility."
+    }
+  }
+}

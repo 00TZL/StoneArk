@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-01-24T10:30:31.765Z",
+  "price": {
+    "close": "1.37051",
+    "high": "1.37099",
+    "low": "1.37008",
+    "open": "1.37017",
+    "change": "0.03",
+    "datetime": "2026-01-24 21:00:00"
+  },
+  "indicators": {
+    "rsi": 30.057351,
+    "macd": -0.0016773187,
+    "macd_signal": -0.0019967909,
+    "sma20": 1.37065
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理，缺乏明确趋势]",
+      "content": "当前美元/加元在1.37050附近震荡整理，价格小幅波动，未能显示出明显的上涨或下跌趋势。从日内的高低点来看，波动范围较窄，市场情绪较为平稳，暂时缺乏强劲的买卖动力。\n\n技术指标方面，当前MACD值为-0.0017，表明短期内市场可能略微偏向空头，但这一信号仍较为微弱。同时，20日简单移动平均线（SMA）显示价格略低于其均值，显示出短期内市场可能处于整理阶段。RSI指标暂时没有提供明确的超买或超卖信号，进一步表明市场缺乏方向性。\n\n在支撑和阻力方面，当前价格接近1.3700附近，这一价位可以视为短期支撑位。如果价格进一步下探，可能会测试1.3690或更低的水平。上方的阻力位位于1.3710，若突破该位，有望进一步上涨至1.3725附近。\n\n综合来看，美元/加元目前处于震荡整理区间，短期内缺乏明确的方向性。建议交易者保持观望，等待价格突破1.3710或1.3690以确认新的趋势形成。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently experiencing minimal price movement, reflecting a relatively calm market sentiment. The latest price of 1.37051 sits just below the 20-period Simple Moving Average (SMA) of 1.37065, suggesting that the market remains slightly neutral in the short term. However, the narrow price range between the daily high and low, 1.37099 and 1.37008 respectively, indicates limited volatility, which could be an indication of consolidation. As such, it’s critical to watch for a breakout from this range to gain a clearer directional bias.\n\nThe absence of RSI and MACD data makes it challenging to assess momentum and strength definitively. However, the MACD value of -0.0017 hints at slight bearish pressure, as the negative value indicates that the recent price action is below the moving average. If the pair continues to hold below the 20-period SMA, it could signal further downside potential. A push above 1.3710, however, may prompt a retest of the next resistance near 1.3730. Conversely, failure to maintain levels above 1.37000 might see a drop to the support zone around 1.3680.\n\nGiven the lack of strong directional indicators, this pair is likely to remain range-bound for the short term. Traders should focus on key support and resistance levels. Watching the 1.37000 to 1.3710 zone for breakouts or rejections will be crucial. A confirmed break above 1.3710 could bring a bullish momentum shift, targeting 1.3730. However, a break below 1.3680 would validate a bearish continuation. Given current market conditions, a cautious approach with range-bound strategies could be beneficial.\n\nFor trading strategy, it is advisable to monitor price action closely around the 1.3700 level for signs of either bullish or bearish movement. With the current price oscillating near neutral levels, tight stop-losses should be used, particularly if taking a position near the support or resistance zones. In this scenario, risk management remains a priority, as the market could shift quickly once a breakout or breakdown occurs."
+    }
+  }
+}

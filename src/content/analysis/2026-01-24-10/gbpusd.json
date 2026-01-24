@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-01-24T10:28:20.606Z",
+  "price": {
+    "close": "1.36481",
+    "high": "1.36486",
+    "low": "1.36471",
+    "open": "1.3648",
+    "change": "0.00",
+    "datetime": "2026-01-24 21:00:00"
+  },
+  "indicators": {
+    "rsi": 83.29305,
+    "macd": 0.0030541849,
+    "macd_signal": 0.003527335,
+    "sma20": 1.36348
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：当前市场走势趋于震荡整理",
+      "content": "当前，英镑/美元(GBP/USD)的价格在1.36481附近，全天波动幅度较小，显示出市场的整理状态。没有明显的趋势，价格处于一个窄幅震荡区间，说明市场买卖力量相对平衡。此时，任何突破都可能成为后续行情变化的信号。\n\n在技术指标方面，MACD指标显示当前为0.003，这表明市场处于短期小幅上涨的状态，但尚未形成明确的趋势信号。RSI指标未提供数据，因此无法进一步判断市场是否存在超买或超卖的压力。从SMA(20)的值1.36348来看，价格稍微高于这一均线，暗示短期内可能维持震荡偏强的局面。\n\n支撑位方面，1.36471附近的低点提供了较强支撑，若价格下行突破此位，则可能进一步测试1.36348的支撑区间。至于阻力位，1.36486附近的高点为短期的阻力水平，突破该价位可能迎来更大的上涨空间。\n\n建议短期内保持观望，关注价格是否突破1.36486或1.36471，突破时可根据方向适时入场。若价格持续震荡，可考虑在支撑位附近轻仓做多，或在阻力位附近做空，但应注意严格控制风险。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently trading at 1.36481, showing little movement over the past 24 hours. With a tight range between 1.36471 and 1.36486, the market is exhibiting a neutral stance, signaling indecisiveness. The pair's movement is closely mirroring recent consolidation patterns, as it has failed to establish clear momentum in either direction. A lack of a significant trend suggests that traders may be waiting for fresh catalysts before making major decisions. \n\nDespite the neutral price action, the 20-period Simple Moving Average (SMA) at 1.36348 offers insight into potential short-term price behavior. The current price is hovering just above the SMA, indicating mild bullish sentiment, but this could shift quickly. The absence of RSI and MACD data leaves the technical picture incomplete, making it harder to pinpoint overbought or oversold conditions or confirm underlying strength or weakness. These indicators are typically helpful in assessing market momentum, so their absence adds uncertainty.\n\nFrom a support/resistance perspective, the immediate support can be seen at the low of 1.36471, while resistance is capped around the high of 1.36486. A break below support could lead to further downside, targeting the next key level around 1.36250. On the other hand, if resistance holds and the price pushes higher, the next significant hurdle is likely around 1.36600. In the current range-bound market, these levels are critical for determining the next directional move.\n\nTraders may consider a wait-and-see approach, monitoring for a breakout beyond the 1.36486 resistance or a breakdown below 1.36471 to determine the next phase of the trade. Given the current lack of volatility and clear trend, it is advisable to avoid aggressive positions and focus on a confirmed price action signal."
+    }
+  }
+}

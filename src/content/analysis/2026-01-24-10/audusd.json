@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-01-24T10:29:47.479Z",
+  "price": {
+    "close": "0.68934",
+    "high": "0.68934",
+    "low": "0.68924",
+    "open": "0.6893",
+    "change": "0.01",
+    "datetime": "2026-01-24 21:00:00"
+  },
+  "indicators": {
+    "rsi": 74.24406,
+    "macd": 0.001085447,
+    "macd_signal": 0.0013114589,
+    "sma20": 0.689013
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理中，短期缺乏明确方向]",
+      "content": "目前，澳元/美元（AUD/USD）处于较为平稳的震荡整理状态。当前价格为0.68934，全天变化幅度仅为0.01%，表明市场在较窄的区间内波动。价格接近20日简单移动平均线（SMA20），说明短期内市场缺乏强烈的上行或下行动能，趋势仍未明确。\n\n从技术指标来看，RSI和MACD数据尚不完全，暂时无法提供有效的超买或超卖信号。不过，价格紧靠SMA20附近，表明市场可能会面临一定的压力或支撑。如果价格突破或回落至此线，则可能形成进一步走势的信号。\n\n在支撑和阻力方面，当前的支撑位可观察0.68924，若价格跌破该位置，可能会进一步考验0.68800附近的低点。上方的阻力位则看向0.69000-0.69050区域，一旦突破，可能会导致价格小幅上行。\n\n基于当前市场震荡的特点，建议交易者可短线操作，等待突破支撑或阻力位时采取行动。同时，保持关注相关技术指标的更新，以便及时调整交易策略。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently exhibiting a narrow trading range, with a slight increase in price over the last 24 hours. The market appears to be consolidating around the 0.6893 level, showing limited volatility. The price remains close to the 20-period Simple Moving Average (SMA) at 0.68901, indicating a neutral short-term outlook. A breakout above 0.6895 could indicate a bullish move towards the next resistance around 0.6900, while a failure to hold above this level might keep the pair under pressure.\n\nLooking at momentum indicators, the absence of a clearly defined RSI and MACD signal limits our ability to gauge overbought or oversold conditions accurately. However, the MACD value of 0.001085 suggests minimal bullish momentum. Without confirmation from these indicators, the price action appears balanced, and traders should remain cautious. A rise in the MACD or a significant change in the RSI would offer better clarity on potential price direction.\n\nIn terms of support and resistance, the immediate support is located near the low of 0.68924, with further support found at 0.6890, where the price has previously shown a tendency to bounce. If the market breaks this support, it could revisit lower levels near 0.6880. Conversely, resistance at 0.6895 is crucial to watch; a break above this could target the 0.6905-0.6910 area, marking a potential short-term rally.\n\nFor traders, the current market environment suggests a wait-and-see approach. A break above 0.6895 may trigger a buying opportunity, while a dip below 0.6890 could prompt short positions, with stops placed just above 0.6895. Caution is advised due to the current lack of momentum signals, so watching for stronger confirmation through momentum indicators will be key in making a more informed decision."
+    }
+  }
+}
