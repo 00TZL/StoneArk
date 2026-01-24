@@ -129,26 +129,11 @@ async function rewriteWithGroqZh(content) {
         messages: [
           {
             role: 'user',
-            content: `你是专业的财经记者，请将以下外汇新闻改写成中文文章。
-
-原文：
-${content}
-
-要求：
-1. 第一行写完整的中文标题（必须是完全中文，不能有任何英文单词）
-2. 然后空一行
-3. 正文2-3段，每段50-80字，总共200-250字
-4. 保留原文的核心数据、价格、百分比等关键信息
-5. 用自然流畅的中文表达，不要直接翻译
-6. 包含外汇交易相关词汇：货币对、汇率、交易、美元、欧元等
-7. 不要加任何标签、说明或额外内容
-8. 货币对格式：欧元/美元、美元/日元、黄金/美元等
-
-立即开始写（第一行就是中文标题）：`
+            content: `改写为中文新闻：${content}\n\n要求：第1行标题，空行，2段正文（共150字），保留数据，自然表达。`
           }
         ],
-        temperature: 0.8,
-        max_tokens: 500
+        temperature: 0.7,
+        max_tokens: 300
       },
       {
         headers: {
@@ -181,25 +166,11 @@ async function rewriteWithGroqEn(content) {
         messages: [
           {
             role: 'user',
-            content: `You are a professional forex journalist. Rewrite the following forex news into a concise article.
-
-Original:
-${content}
-
-Requirements:
-1. Write 2-3 paragraphs, 50-70 words each, total 150-200 words
-2. Keep all key data: prices, percentages, currency pairs, technical levels
-3. Use natural, flowing language - don't just translate
-4. Include forex keywords: currency pair, exchange rate, trading, USD, EUR, etc.
-5. Focus on market movement, causes, and implications
-6. No labels, no meta-commentary, no explanations
-7. Start immediately with the content (no title needed)
-
-Begin:`
+            content: `Rewrite as forex news: ${content}\n\nRequirements: 2 paragraphs, 120 words total, keep data, natural language.`
           }
         ],
-        temperature: 0.8,
-        max_tokens: 400
+        temperature: 0.7,
+        max_tokens: 250
       },
       {
         headers: {
@@ -294,10 +265,10 @@ async function generateContent() {
           const zhBody = zhLines.slice(1).filter(line => line.trim()).join('\n\n');
 
           // 从中文正文中提取前150字作为描述，添加 SEO 关键词
-          const zhDescription = zhBody.replace(/\n/g, ' ').substring(0, 120) + '。FX Killer 提供免费外汇交易培训。';
+          const zhDescription = zhBody.replace(/\n/g, ' ').substring(0, 120) + '。StoneArk 提供免费外汇交易培训。';
 
           // 生成中文 SEO 关键词
-          const zhKeywords = ["外汇", "交易", "市场分析", "外汇新闻", "外汇培训", "交易员孵化", "FX Killer"];
+          const zhKeywords = ["外汇", "交易", "市场分析", "外汇新闻", "外汇培训", "交易员孵化", "StoneArk", "基石量化"];
 
           // 生成中文Markdown
           const markdownZh = `---
@@ -306,7 +277,7 @@ date: "${dayjs().format('YYYY-MM-DD HH:mm:ss')}"
 description: "${zhDescription.replace(/"/g, '\\"')}"
 keywords: ${JSON.stringify(zhKeywords)}
 category: "外汇新闻"
-source: "FX Killer 分析团队"
+source: "StoneArk 分析团队"
 language: "zh"
 ---
 
@@ -314,23 +285,23 @@ ${zhBody}
 
 ---
 
-#### 关于 FX Killer 交易员孵化计划
+#### 关于 StoneArk 交易员孵化计划
 
-想成为专业交易员？FX Killer 提供**完全免费**的职业交易员培训计划。我们提供系统化课程、实战训练、专业导师指导，帮助您从零基础成长为全职交易员。
+想成为专业交易员？StoneArk（基石量化）提供**完全免费**的职业交易员培训计划。我们提供系统化课程、实战训练、专业导师指导，帮助您从零基础成长为全职交易员。
 
 👉 [立即加入免费培训计划](/splan/join-us) | [交易心理测评](/splan/psychology-test)
 
 ---
 
-**数据来源**: FX Killer 分析团队
+**数据来源**: StoneArk 分析团队
 **更新时间**: ${dayjs().format('YYYY-MM-DD HH:mm')}
 
 **免责声明**: 本文仅供参考，不构成投资建议。外汇交易存在风险，请谨慎决策。
 `;
 
           // 英文描述和关键词
-          const enDescription = cleanDesc.substring(0, 120) + '. Free forex trading training by FX Killer.';
-          const enKeywords = ["forex", "trading", "market analysis", "forex news", "forex training", "trader incubation", "FX Killer"];
+          const enDescription = cleanDesc.substring(0, 120) + '. Free forex trading training by StoneArk.';
+          const enKeywords = ["forex", "trading", "market analysis", "forex news", "forex training", "trader incubation", "StoneArk"];
 
           // 生成英文Markdown
           const markdownEn = `---
@@ -339,7 +310,7 @@ date: "${dayjs().format('YYYY-MM-DD HH:mm:ss')}"
 description: "${enDescription.replace(/"/g, '\\"')}"
 keywords: ${JSON.stringify(enKeywords)}
 category: "Forex News"
-source: "FX Killer Analysis Team"
+source: "StoneArk Analysis Team"
 language: "en"
 ---
 
@@ -347,15 +318,15 @@ ${contentEn}
 
 ---
 
-#### About FX Killer Trader Incubation Program
+#### About StoneArk Trader Incubation Program
 
-Want to become a professional trader? FX Killer offers a **completely free** professional trader training program. We provide systematic courses, practical training, and professional mentorship to help you grow from beginner to full-time trader.
+Want to become a professional trader? StoneArk offers a **completely free** professional trader training program. We provide systematic courses, practical training, and professional mentorship to help you grow from beginner to full-time trader.
 
 👉 [Join Free Training Program](/splan/join-us) | [Trading Psychology Assessment](/splan/psychology-test)
 
 ---
 
-**Data Source**: FX Killer Analysis Team
+**Data Source**: StoneArk Analysis Team
 **Updated**: ${dayjs().format('YYYY-MM-DD HH:mm')}
 
 **Disclaimer**: This article is for reference only and does not constitute investment advice. Forex trading involves risks; please make decisions carefully.
