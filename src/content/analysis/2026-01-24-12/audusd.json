@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-01-24T12:54:41.497Z",
+  "price": {
+    "close": "0.68939",
+    "high": "0.68942",
+    "low": "0.68929",
+    "open": "0.6893",
+    "change": "0.01",
+    "datetime": "2026-01-24 23:00:00"
+  },
+  "indicators": {
+    "rsi": 74.75805,
+    "macd": 0.00096317896,
+    "macd_signal": 0.001194508,
+    "sma20": 0.6892055
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，短期维持区间波动]",
+      "content": "当前澳元/美元在0.68939附近震荡整理，短期内没有显著的趋势形成。由于缺乏明确的动能，市场情绪偏向观望，预计短期内价格将维持在当前区间内波动。结合最近的高点和低点，0.68942和0.68929形成短期的关键阻力与支撑位。\n\n技术指标方面，MACD的正值（0.000963）表明市场可能处于微弱的上行压力中，但因未能看到明显的RSI信号或MACD信号线交叉，整体动能依然较弱。SMA(20)位于0.6892附近，价格当前小幅高于该均线，显示短期内可能会有小幅上行的空间，但仍然需要突破更高的阻力位才能确认反弹走势。\n\n在支撑/阻力方面，若AUD/USD突破0.68942，可能会面临0.6900左右的更强阻力，若跌破0.68929支撑，则可能向下测试更低水平。整体来看，当前市场格局偏向于震荡整理，短期内缺乏明确趋势。\n\n交易建议方面，可以在当前区间内进行短线交易。建议在接近支撑位0.68929时寻找买入机会，若接近0.68942或更高位，则可考虑卖出。长线操作建议等待市场出现更明确的突破信号。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar against the US Dollar (AUD/USD) has been relatively stable in recent trading, with a minor 24-hour change of +0.01%. The price is currently hovering at 0.68939, reflecting a tight range within the high of 0.68942 and low of 0.68929. Given the lack of significant price movement, the pair is in a neutral to slightly bullish posture in the short term. The absence of a clearly defined trend suggests that market participants are waiting for a catalyst, possibly from upcoming economic data or central bank policy signals.\n\nLooking at key indicators, the absence of a clear RSI (14) reading suggests that momentum is currently neutral, with neither overbought nor oversold conditions. The MACD value of 0.00096317896 indicates a slight bullish bias, but without a corresponding signal line or substantial cross, it remains inconclusive for directional trading. Traders may need to wait for a clearer signal from the MACD to assess any potential change in momentum or trend strength. \n\nThe 20-period Simple Moving Average (SMA) at 0.68920550 provides an immediate level of support. If the price breaks below this level, it could indicate further downside risk toward the next support around 0.68800. Conversely, if the price holds above the SMA and pushes higher, the resistance at the previous high of 0.68942 could be targeted, and a break above could lead to a retest of 0.69000, a psychological level.\n\nGiven the current market conditions, the optimal strategy would be to watch for a break in either direction. A bearish breakout below the SMA could be used for short entries with targets toward the next support level. Alternatively, a bullish move above 0.68942 could offer a potential long position, but confirmation from additional indicators like RSI or MACD would strengthen the trade setup."
+    }
+  }
+}

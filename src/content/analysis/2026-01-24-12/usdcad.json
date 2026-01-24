@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-01-24T12:55:26.279Z",
+  "price": {
+    "close": "1.37045",
+    "high": "1.37104",
+    "low": "1.37007",
+    "open": "1.37019",
+    "change": "0.03",
+    "datetime": "2026-01-24 23:00:00"
+  },
+  "indicators": {
+    "rsi": 30.22353,
+    "macd": -0.0014930326,
+    "macd_signal": -0.0018385559,
+    "sma20": 1.37034
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[当前震荡趋势]",
+      "content": "当前美元/加元（USD/CAD）价格为1.37045，市场波动较为平稳，24小时内仅有0.03%的微幅变化。价格位于近期高点1.37104和低点1.37007之间，呈现出轻微的震荡格局。整体上，短期内的趋势偏向横盘整理，缺乏明显的单边行情。\n\n在技术指标方面，RSI(14)暂时无法提供明确的超买或超卖信号。MACD显示负值（-0.0014930326），但未能产生明显的信号线交叉，表明市场短期内缺乏明确的动能。20日简单移动平均线（SMA 20）显示价格轻微高于其值（1.37034），但没有强烈的趋势指示。\n\n从支撑与阻力的角度来看，目前1.37000附近是一个关键支撑位，一旦跌破此水平，可能会进一步测试1.36800附近的支撑。而上方的阻力位则位于1.37100附近，如果价格突破该水平，可能会出现短期上涨的机会。\n\n综合来看，当前市场处于震荡整理阶段，建议交易者采取观望策略，等待价格突破重要支撑或阻力位时再做进一步操作。短期内，若价格维持在1.37000-1.37100区间内震荡，短线交易者可以考虑区间交易策略。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently consolidating within a narrow range, with the latest price at 1.37045. This reflects a muted 24-hour change of just 0.03%, indicating a lack of strong momentum in the market. The pair has recently traded between a high of 1.37104 and a low of 1.37007, signaling a relatively stable market. This sideways movement suggests a wait-and-see sentiment, likely driven by external factors such as oil price fluctuations or broader economic data releases, as the Canadian Dollar often correlates with commodity prices.\n\nFrom a technical standpoint, the pair is hovering around its 20-period simple moving average (SMA), which is positioned at 1.37034. This SMA often serves as a dynamic support or resistance level in short-term trends. The price's proximity to the SMA suggests that the market is in a neutral stance, neither in a strong uptrend nor downtrend. Given that the pair is trading within a tight range, traders should watch for a breakout or breakdown beyond the current high/low range for a clearer directional signal.\n\nThe MACD reading of -0.0014930326 suggests a slight bearish bias, though the absence of a signal line makes the analysis less conclusive. A more pronounced bearish signal would be generated if the MACD line crosses below zero or if there is a confirmed divergence with the price. Traders should monitor these developments closely, as any MACD crossovers could provide a more definitive entry point. Until then, caution is advised, as the current conditions are not offering clear directional momentum.\n\nKey support is at 1.37007, and resistance lies near the high of 1.37104. A move below the support level could expose further downside potential, testing levels closer to 1.36700. Conversely, a break above resistance could signal a potential bullish reversal, possibly leading to a test of 1.37300. Traders might consider playing the range for now, waiting for a breakout, while maintaining tight stop-loss orders to manage risk."
+    }
+  }
+}

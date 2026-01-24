@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-01-24T12:53:15.295Z",
+  "price": {
+    "close": "1.36469",
+    "high": "1.36487",
+    "low": "1.36464",
+    "open": "1.3648",
+    "change": "-0.01",
+    "datetime": "2026-01-24 23:00:00"
+  },
+  "indicators": {
+    "rsi": 81.67068,
+    "macd": 0.0027079149,
+    "macd_signal": 0.0032600282,
+    "sma20": 1.36419
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[震荡整理，短期偏强]",
+      "content": "当前英镑/美元（GBP/USD）价格在1.36469附近，处于震荡整理状态。价格波动区间较小，高点1.36487和低点1.36464之间的差距不大，显示市场缺乏明确的方向。短期内，价格有可能继续在当前区间内整理，未能突破明显的支撑或阻力水平。\n\n技术指标方面，MACD值为0.0027，表明市场动能较弱，未出现强烈的买入或卖出信号。RSI（相对强弱指数）未提供足够的数据以进行解读。SMA(20)均线位于1.36419，表明短期均线支撑在此位置，若价格跌破该支撑位，可能会进一步考验下方的支撑区。\n\n支撑位目前位于1.36419附近，而阻力位则在1.36487一线。若价格突破1.36487上行，可能会挑战更高的水平，反之，则有可能回落至1.36419甚至更低的区域。考虑到目前市场的震荡走势，短期内继续观望为主，避免过度追涨杀跌。\n\n建议交易者在价格接近支撑位时考虑寻找买入机会，而在接近阻力位时则可以适当考虑卖出或减仓。总体来看，当前市场缺乏强烈趋势，因此操作上应保持灵活性，控制风险。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The British Pound against the US Dollar (GBP/USD) is currently showing a neutral-to-bullish stance, with the latest price sitting at 1.36469. Over the past 24 hours, the pair has moved within a tight range, registering a slight decline of 0.01%. This indicates a period of consolidation. The price action suggests that market participants are waiting for more directional clues, and the pair is holding close to its recent support levels, around the 1.3646 to 1.3649 zone.\n\nThe absence of a detailed RSI reading makes it harder to gauge momentum directly, but the proximity of the price to the 20-period SMA at 1.36419 suggests that the pair is somewhat neutral. The MACD value of 0.0027 points to mild positive momentum, but the lack of a clear signal line makes it challenging to interpret a strong trend. Still, with the price above the 20-period SMA, the possibility of upward movement could remain intact, especially if the price holds above this level.\n\nLooking at key support and resistance levels, immediate support is seen around the low of 1.36464, just below the current price. If this level is broken, the next support zone could be found at the 1.3635 region, marking a deeper correction. On the resistance side, the pair faces an immediate hurdle at the 1.36487 level. A break above this resistance could lead to further bullish momentum toward higher targets, potentially towards 1.3655.\n\nTraders may consider a cautious approach with tight stop-loss orders around the 1.3646 support. If the price holds steady above the 20-period SMA and breaks through the resistance at 1.36487, long positions could be favored. However, a failure to hold above this level might suggest a short-term pullback, making it important to monitor for breakout confirmation before making any larger trades."
+    }
+  }
+}

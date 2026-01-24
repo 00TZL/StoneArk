@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-01-24T12:52:20.398Z",
+  "price": {
+    "close": "1.18229",
+    "high": "1.18243",
+    "low": "1.18222",
+    "open": "1.18231",
+    "change": "-0.00",
+    "datetime": "2026-01-24 23:00:00"
+  },
+  "indicators": {
+    "rsi": 75.6983,
+    "macd": 0.00156699,
+    "macd_signal": 0.0018700256,
+    "sma20": 1.18205
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[震荡整理，短期趋稳]",
+      "content": "当前欧元/美元（EUR/USD）价格为1.18229，表现出明显的震荡整理模式。价格波动幅度较小，且全天变化接近于零，表明市场暂时缺乏强烈的趋势动力。短期来看，市场可能继续维持在1.18222至1.18243之间区间整理。\n\n在技术指标方面，RSI（14）暂无数据，而MACD显示出微弱的正值（0.0015669900），表明市场处于横盘整理状态。20日简单移动平均线（SMA 20）位于1.18205附近，进一步证明市场尚未形成明显的上升或下降趋势。\n\n从支撑和阻力位来看，当前1.18222是短期支撑位，若跌破此位可能会加剧下行压力。阻力位则位于1.18243，若突破此位，有可能触发短线反弹。市场的波动范围较小，因此投资者应关注价格突破这些关键位置后的动态。\n\n综合来看，当前交易建议为观望为主，等待价格突破区间上下限后再进行操作。短期内，如果突破上方阻力位，可考虑轻仓做多；反之，跌破支撑位则可考虑做空。但需注意风险管理，避免过度交易。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently showing minimal movement with the latest price at 1.18229, reflecting a 24-hour change of 0.00%. This indicates a market in a tight consolidation phase, where price action is largely range-bound. The recent high of 1.18243 and low of 1.18222 suggest that the pair is maintaining a narrow trading range. Given this tight price action, the market is likely awaiting a catalyst for a breakout in either direction.\n\nOn the technical front, the 20-period simple moving average (SMA) sits at 1.18205, just below the current price, suggesting that there is a slight bullish bias in the short-term. The Relative Strength Index (RSI) and MACD indicators are currently unavailable, limiting the ability to assess momentum or overbought/oversold conditions. However, the proximity of the price to the SMA indicates that the pair is neither significantly overbought nor oversold, supporting the view of a neutral to slightly bullish outlook.\n\nKey support for EUR/USD can be identified near 1.18222, which aligns with the recent low. A break below this level could signal a continuation of the downtrend, potentially testing further support near 1.1800. On the resistance side, the recent high of 1.18243 is a critical level to watch. If the price manages to break above this, it could trigger further upside movement toward 1.1850, a potential resistance zone.\n\nFor traders, the current range-bound price action suggests a cautious approach. Traders could consider waiting for a breakout above 1.18243 or a drop below 1.18222 to confirm direction. Until then, trading within this range could offer limited opportunities, especially given the lack of strong momentum indicators."
+    }
+  }
+}

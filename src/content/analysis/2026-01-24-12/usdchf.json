@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-01-24T12:56:57.909Z",
+  "price": {
+    "close": "0.78102",
+    "high": "0.78149",
+    "low": "0.78077",
+    "open": "0.78144",
+    "change": "-0.05",
+    "datetime": "2026-01-24 23:00:00"
+  },
+  "indicators": {
+    "rsi": 23.0033001,
+    "macd": -0.0017445775,
+    "macd_signal": -0.0020395666,
+    "sma20": 0.781736
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：当前震荡整理，短期偏弱",
+      "content": "当前美元/瑞郎（USD/CHF）价格在0.78102附近，呈现小幅下跌趋势，24小时变化为-0.05%。从价格走势来看，近期市场缺乏强烈的动能，价格在0.78077至0.78149区间内震荡整理，显示出市场对进一步方向缺乏明确看法。整体上，价格维持在20日简单移动平均线（SMA 20）下方，表明短期内仍处于弱势整理阶段。\n\n在技术指标方面，MACD值为-0.0017，虽然MACD线位于零轴下方，但没有明显的交叉信号。目前RSI指标暂无具体数值，缺乏进一步的超买或超卖信息。20日SMA的支撑水平大致位于0.78173，这可能会对价格构成一定的支撑压力。若价格突破此点位，可能会迎来新的上涨动能。\n\n支撑位方面，0.78077是短期内的重要支撑区，如果价格跌破此处，可能会进一步测试0.78000附近的心理关口。至于阻力位，0.78149为当前的短期阻力，若突破此位置，可能会有进一步反弹的空间。整体来看，当前震荡整理区间较为明确，短期内风险偏下行。\n\n基于当前市场状况，建议保持观望或等待价格突破支撑/阻力位后再进行交易。如果价格持续整理并未突破区间，可以选择采取区间交易策略。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently trading at 0.78102, showing a slight 24-hour decline of -0.05%. The recent price action indicates a narrow trading range between 0.78077 and 0.78149. The price has been relatively stable, indicating a consolidation phase. A breakdown below the support at 0.78077 could signal further downside risk, possibly testing lower support zones around 0.7800. On the other hand, if the price holds above this level, a return to the 0.78149 high or a move towards the 20-period simple moving average at 0.78174 is plausible.\n\nWithout the RSI and a clear MACD signal, it’s challenging to gauge overbought or oversold conditions, which limits deeper momentum analysis. The MACD value of -0.0017 suggests some bearish pressure, but the absence of a defined trend means there’s no immediate confirmation of a strong move. Traders should monitor the MACD's behavior for any divergence or convergence that may signal a shift in momentum. Additionally, the RSI, once available, would be crucial for providing insights into potential reversal points or overbought conditions.\n\nThe nearest resistance level appears at 0.78149, which coincides with the intraday high, followed by the SMA(20) at 0.78174. If the price breaks above the SMA, a bullish outlook might emerge, potentially pushing the pair toward higher resistance levels. On the flip side, any further dip below the immediate support at 0.78077 may lead to testing more substantial support areas below 0.7800. These levels should be closely watched for signs of breakout or breakdown.\n\nGiven the current market dynamics, cautious trading around the current range is advised. A range-bound strategy could be effective until clearer directional signals from the MACD or a more defined trend emerges. Traders could consider entering near support for a short-term bounce or wait for a confirmed breakout before taking stronger positions."
+    }
+  }
+}

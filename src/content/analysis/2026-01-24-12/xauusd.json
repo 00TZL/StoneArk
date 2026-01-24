@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-01-24T12:57:42.578Z",
+  "price": {
+    "close": "4982.52038",
+    "high": "4982.64383",
+    "low": "4982.34468",
+    "open": "4982.40454",
+    "change": "0.00",
+    "datetime": "2026-01-24 23:00:00"
+  },
+  "indicators": {
+    "rsi": 66.45414,
+    "macd": 11.19866,
+    "macd_signal": 14.18324,
+    "sma20": 4980.95886
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：震荡整理，短期区间波动",
+      "content": "当前XAU/USD的市场价格在4982.52附近，表现出短期内的震荡整理走势。价格未显示出强烈的上涨或下跌趋势，维持在一个相对狭窄的区间内波动。24小时变化几乎为零，市场情绪较为平稳，投资者对未来走势保持谨慎态度。\n\n从技术指标来看，SMA(20)目前为4980.96，表明价格在20周期内保持相对稳定。MACD值为11.20，虽然没有提供信号线的数据，但当前MACD处于正值区间，显示出潜在的上行压力。然而，RSI(14)缺乏数据，导致短期动量无法通过此指标进行评估。\n\n支撑位方面，XAU/USD在4982.34附近找到短期支撑，而阻力位则在4982.64左右。价格目前接近支撑区域，如果突破阻力位可能会带来进一步的上行动力。建议投资者在此区间内采取区间交易策略，关注突破信号。\n\n综上所述，黄金/美元短期走势可能会继续震荡整理，投资者应保持谨慎，密切关注价格的突破方向。若突破上行可考虑逢低做多，反之则可考虑做空策略。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD market is currently exhibiting a neutral price action with little to no change in the last 24 hours, reflecting a lack of significant momentum. The latest price is hovering near 4982.52, with the high and low for the period narrowly contained within a 3-point range. This suggests indecision in the market, possibly awaiting a fresh catalyst to establish a clear direction. Despite the lack of major price movement, it's essential to consider the overall broader trend, which appears flat on the daily chart.\n\nThe absence of a clear Relative Strength Index (RSI) value makes it challenging to gauge market conditions in terms of overbought or oversold conditions. The MACD at 11.20 is slightly above the baseline but does not yet signal any strong upward momentum, given the lack of a Signal line for comparison. This could indicate a period of consolidation, where the price is likely to remain range-bound until either the bulls or bears gain control. Traders should monitor the MACD closely for any divergence or crossover in the coming sessions.\n\nSupport and resistance levels are currently defined by the price action seen in recent trading. Immediate support is around 4982.34, the lower bound of the recent trading range. A break below this level could lead to a test of lower levels, potentially targeting the 4975-4970 zone, which could act as further support. Resistance is clearly marked at 4982.64, the session high, with a potential push beyond this level targeting the 4990-4995 region. A breakout above this could suggest a return to bullish sentiment.\n\nGiven the current indecisive price action, traders might consider waiting for a clear breakout or confirmation before entering a position. A strong close above the 4983 resistance level could signal a long opportunity, while a drop below 4982.34 might warrant a short trade with targets near 4975. Patience will be key in this range-bound market to avoid false breakouts."
+    }
+  }
+}

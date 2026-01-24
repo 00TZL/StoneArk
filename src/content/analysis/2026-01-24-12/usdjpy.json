@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-01-24T12:53:59.295Z",
+  "price": {
+    "close": "155.70321",
+    "high": "155.71115",
+    "low": "155.69153",
+    "open": "155.69428",
+    "change": "0.00",
+    "datetime": "2026-01-24 23:00:00"
+  },
+  "indicators": {
+    "rsi": 16.77802,
+    "macd": -0.4858085,
+    "macd_signal": -0.57275862,
+    "sma20": 155.76608
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[短期震荡整理，待突破确认趋势]",
+      "content": "当前美元/日元价格维持在155.70附近，未显示出强烈的上涨或下跌动能。价格处于较窄的区间震荡（155.69-155.71），短期内市场情绪偏向中立。若突破区间的上边界155.71，可能会有进一步上涨的空间；反之，跌破下边界155.69，则可能开启下行调整。\n\n在技术指标方面，MACD指标显示为负值，表明短期内市场的下行压力较大，且未有明显的反转信号。RSI因缺乏数据，无法提供准确的超买或超卖判断。20日简单移动平均线（SMA）位置在155.77附近，稍微高于当前价格，可能为近期阻力位。\n\n支撑位方面，155.69为短期关键支撑线，若价格突破该水平，可能会加剧下行压力。阻力位则在155.77附近，突破这一位置可能会推动价格进一步上涨，形成新的上行趋势。\n\n建议投资者短期内维持观望，等待价格突破关键支撑或阻力位后再做进一步交易决策。若突破155.71，可以考虑做多，目标看向156.00；若跌破155.69，则可以考虑做空，目标下看155.50。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently in a narrow consolidation range, hovering around the latest price of 155.70321. Over the past 24 hours, there has been little price movement, indicating indecisiveness in the market. The price remains close to the SMA(20) at 155.76608, which suggests that short-term momentum is neutral. The absence of significant fluctuations also points to a potential for breakout in either direction depending on future catalysts, such as economic data or central bank actions.\n\nLooking at the indicators, the MACD shows a negative value of -0.48580850, indicating bearish momentum. However, with the absence of a defined signal line or RSI(14) data, the picture remains incomplete for an immediate confirmation of trend strength. The MACD’s position suggests caution, as the potential for price dips is present, but there is no strong signal yet to suggest that bearish pressure will dominate. Traders may consider waiting for clearer indicator confirmation before making large positions.\n\nIn terms of key levels, immediate support is seen at 155.69153, where the price bounced recently, while resistance lies at 155.71115. A breakout above the resistance could lead to further upside, potentially targeting the SMA(20) level at 155.76608. Conversely, a drop below the support level could trigger a deeper decline, testing lower levels. Traders may look for breakouts above 155.71115 or below 155.69153 to enter positions, depending on their risk appetite.\n\nOverall, the USD/JPY pair remains in a neutral range, with limited short-term volatility. Market participants should keep an eye on further developments, particularly in relation to US and Japan economic announcements or shifts in investor sentiment, which could provide the necessary momentum for a decisive price move."
+    }
+  }
+}
