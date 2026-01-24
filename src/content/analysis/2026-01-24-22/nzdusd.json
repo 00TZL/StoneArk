@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-01-24T22:29:22.549Z",
+  "price": {
+    "close": "0.59392",
+    "high": "0.59433",
+    "low": "0.5939",
+    "open": "0.59431",
+    "change": "-0.07",
+    "datetime": "2026-01-25 09:00:00"
+  },
+  "indicators": {
+    "rsi": 47.24707,
+    "macd": 0.00022069103,
+    "macd_signal": 0.00047038077,
+    "sma20": 0.594642
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：当前呈现震荡整理趋势",
+      "content": "目前，纽元/美元处于窄幅震荡整理状态，价格在0.5939至0.59433区间波动。尽管价格略微下跌，但整体波动较小，未出现明显的趋势性变化。RSI与MACD指标暂时无法提供明确的超买或超卖信号，这意味着市场情绪尚不明朗。\n\n从技术面来看，20日简单移动平均线(SMA)位于0.59464附近，价格略低于此位置，暗示短期内价格可能存在小幅回落的风险。若价格跌破当前支撑位0.5939，可能会继续寻找下一支撑位0.5930一线。反之，若价格突破0.59433的高点，则有可能迎来一定的反弹。\n\n当前的支撑位在0.5939附近，阻力位在0.59433附近。价格波动较小，短期内的交易策略应以区间震荡为主。投资者可以关注价格在支撑位和阻力位之间的波动，进行短线操作。建议在接近支撑位时寻找买入机会，而在接近阻力位时则考虑卖出。\n\n综合来看，当前市场未显示出明显的趋势，因此短期交易者应保持谨慎，关注价格是否能突破关键水平，进一步确认市场方向。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently showing a slight bearish sentiment, as the price stands at 0.59392, with a modest 24-hour change of -0.07%. The price has remained range-bound between 0.5939 and 0.59433 during the session, indicating a consolidation phase. This suggests that the market is uncertain and in a wait-and-see mode, with no strong momentum in either direction. A break below 0.5939 could signal further downside pressure towards the next support level around 0.5930. Conversely, a rise above 0.59433 might shift sentiment toward a short-term bullish outlook, with potential for a move to 0.5950.\n\nIndicator-wise, the absence of a clear RSI(14) value leaves the relative strength of the market open to interpretation, but the MACD is showing a positive value of 0.00022069103. This suggests that, at the moment, there is mild upward momentum, albeit not enough to indicate a strong buy signal. Given the lack of a clearly defined trend, the market could see a reversal or a continuation based on upcoming data or external market conditions. Traders should be cautious and monitor for the development of more clear trends.\n\nThe 20-period simple moving average (SMA) is currently at 0.594642, which lies just above the market price, potentially acting as a resistance zone. Should price approach this level, it will be crucial to observe whether the market can break above the SMA or if the level holds, suggesting a rejection and further consolidation or downward movement. Support for the pair is likely found around 0.5930, where price action may find buying interest if it dips further.\n\nFor traders, caution is advised in the current market. The price is in a narrow range, with no strong trend emerging. A breakout above 0.59433 could present a buying opportunity, targeting 0.5950, while a break below 0.5939 might open the door to short positions with targets at 0.5930. Patience and confirmation of a clear breakout are key to managing risk effectively."
+    }
+  }
+}

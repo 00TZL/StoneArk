@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-01-24T22:27:57.659Z",
+  "price": {
+    "close": "0.68886",
+    "high": "0.68907",
+    "low": "0.68866",
+    "open": "0.68904",
+    "change": "-0.03",
+    "datetime": "2026-01-25 09:00:00"
+  },
+  "indicators": {
+    "rsi": 55.47563,
+    "macd": 0.00039967361,
+    "macd_signal": 0.00062145142,
+    "sma20": 0.689229
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：当前震荡整理，谨慎观望",
+      "content": "当前澳元/美元的价格为0.68886，24小时变化仅为-0.03%，显示出市场的震荡整理状态。价格在高点0.68907和低点0.68866之间波动，表现出短期内缺乏明确的趋势。考虑到这种横盘整理的行情，当前应以观望为主，等待进一步的突破信号。\n\n技术指标方面，虽然RSI和MACD数据尚不完全，但目前价格接近20日简单移动平均线(SMA)，该位置为0.68923，呈现出一定的支撑作用。若价格跌破此均线，可能会进一步回调，反之，若突破当前震荡区间的上限0.68907，则可能迎来短期的反弹。\n\n支撑位方面，0.68866附近形成了较为强劲的支撑，而阻力位则在0.68907附近。若价格突破该阻力位，则有望向上测试0.6900附近的水平。而若价格下行跌破支撑位，可能会进一步回调至0.68750区域。\n\n建议交易者保持谨慎，避免在当前区间内进行过多激进交易。若价格突破上方阻力位，可以考虑短期多单操作；而下行跌破支撑时，适合采取观望或适度做空的策略，等待市场给出更明确的趋势信号。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently in a narrow consolidation phase, with the price hovering around 0.68886, slightly below the 20-period Simple Moving Average (SMA) at 0.68923. This suggests a neutral short-term outlook, with the market trapped in a tight range between 0.68866 and 0.68907. The lack of significant movement or clear directional bias implies that traders are awaiting further catalysts. A breakout above the SMA could shift the momentum towards the 0.6900 resistance level, while a drop below 0.68866 could signal further downside potential.\n\nThe absence of a clear Relative Strength Index (RSI) reading makes it difficult to gauge the pair's overbought or oversold conditions. However, the MACD value of 0.00039967361 indicates that momentum is currently weak, showing a lack of clear trend direction. The MACD's positive value could suggest a slight bullish bias, but without a signal line or further confirmation, the momentum remains uncertain. A stronger crossover or divergence in the MACD could provide more insight into the pair's next move.\n\nSupport is likely to be found at the 0.68866 level, with potential to extend further towards 0.68700 if bearish pressure persists. Resistance is currently pegged near 0.68907, and a break above this level could target the psychological 0.6900 mark. The 20-period SMA provides a dynamic resistance level, with the price needing to clear this zone to indicate a possible shift in momentum. Traders should keep an eye on market sentiment and external catalysts, such as economic data, that could trigger a breakout.\n\nIn terms of trading suggestions, a conservative approach might involve waiting for a decisive move beyond the current range. A buy signal could be considered on a break above 0.68907, with a target at 0.6900 or higher. On the other hand, a sell trade could be viable if the price drops below 0.68866, targeting 0.68700. Keep in mind that with the current indecisive market behavior, caution is advised until a clear trend is established."
+    }
+  }
+}

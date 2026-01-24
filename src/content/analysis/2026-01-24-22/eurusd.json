@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-01-24T22:25:28.725Z",
+  "price": {
+    "close": "1.18239",
+    "high": "1.18242",
+    "low": "1.1823",
+    "open": "1.18232",
+    "change": "0.00",
+    "datetime": "2026-01-25 09:00:00"
+  },
+  "indicators": {
+    "rsi": 71.0069446,
+    "macd": 0.00083032969,
+    "macd_signal": 0.0011091101,
+    "sma20": 1.18236
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[震荡整理，缺乏明确趋势信号]",
+      "content": "当前欧元/美元价格在1.18239附近波动，短期内呈现震荡整理格局。24小时变化为0，表明市场处于相对平静状态。价格在1.1823到1.18242之间波动，显示出缺乏强烈的趋势动能，市场观望情绪较浓。\n\n从技术指标来看，MACD显示一个微弱的正值0.0008303，表明市场可能处于轻微的多头偏向，但信号线缺失使得这一信号不够强烈。SMA(20)位于1.18236附近，表明短期均线呈水平形态，进一步印证了当前价格的震荡走势。RSI数据缺失，难以进一步评估超买或超卖情况。\n\n在支撑与阻力方面，当前的支撑位在1.1823，若价格跌破此点，可能会进一步测试更低区域。上方阻力位则位于1.18242，突破该位可能会带来短期上涨的机会，但缺乏强烈的上行动能，因此建议谨慎操作。\n\n总体来看，市场缺乏明确的趋势信号，建议交易者保持观望，等待价格突破关键支撑或阻力位再做决定。若价格突破1.18242并且伴随成交量放大，可以考虑短线多单，而跌破1.1823则可能出现短线空单机会。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently experiencing tight price action, with the latest price sitting at 1.18239, showing little movement over the last 24 hours. The price is fluctuating within a narrow range between 1.18242 and 1.1823, reflecting a period of consolidation. This range-bound movement suggests indecision in the market, and it’s critical to wait for a breakout to identify the next major directional move. Given the lack of clear momentum, a sideways trend is dominant for now.\n\nThe RSI (14) is unavailable, limiting insights into overbought or oversold conditions. Similarly, the MACD is currently positive at 0.00083, but without the signal line for comparison, it's challenging to gauge its potential bullish or bearish implications. The position of the MACD above zero hints at a slight bullish bias, but the absence of clear trend momentum makes it unreliable as a standalone indicator. For traders, this suggests caution and a need for further confirmation before taking significant positions.\n\nThe 20-period SMA stands at 1.18236, almost identical to the current price, which highlights a period of equilibrium in the market. This moving average is acting as a dynamic support/resistance zone. A sustained break below this level could signal the potential for further downside movement, with the next support seen near 1.1820. On the flip side, if the price moves above 1.18242, we may see a slight push towards 1.1830, but any upside movement would require stronger bullish momentum or an external catalyst.\n\nFor traders, the key strategy is to monitor price action closely for a breakout above 1.18242 or below 1.1823. A move beyond these levels would offer a clearer indication of the next short-term direction. In the absence of such a breakout, it is prudent to adopt a neutral stance, as the lack of volatility and momentum could lead to further choppy, low-volume trading."
+    }
+  }
+}

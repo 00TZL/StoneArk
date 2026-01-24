@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-01-24T22:30:49.593Z",
+  "price": {
+    "close": "4982.41382",
+    "high": "4982.64385",
+    "low": "4982.35937",
+    "open": "4982.42698",
+    "change": "-0.00",
+    "datetime": "2026-01-25 09:00:00"
+  },
+  "indicators": {
+    "rsi": 66.14535,
+    "macd": 5.60708,
+    "macd_signal": 7.73397,
+    "sma20": 4982.47399
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理，短期缺乏明确趋势]",
+      "content": "当前黄金/美元（XAU/USD）价格保持在4982.41附近，全天波动极小，几乎没有变化。从日内高点和低点来看，价格处于一个狭窄的区间内，显示出市场处于震荡整理状态，缺乏强烈的买卖动能。\n\n在技术指标方面，RSI(14)未提供数据，MACD目前为正值5.60708，表明短期内市场有一定的买方力量，但由于缺乏信号线的数据，趋势的强度仍然不明确。20日简单移动平均线（SMA）在4982.47附近，进一步验证了当前价格接近于均衡水平，未见明显的趋势变化。\n\n支撑位方面，当前价格接近于日内低点4982.36，若跌破该水平，可能会寻找到更强的支撑位于4970附近。阻力位则位于日内高点4982.64附近，突破这一点位后，可能会看到向更高水平的进一步上涨。\n\n建议交易者在当前市场环境下保持谨慎。短期内，市场可能会维持震荡整理，适合采用区间交易策略，关注支撑与阻力的突破信号。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD market currently appears to be in a very neutral phase, with price movements almost flat, reflecting a 24-hour change of 0.00%. The latest price is 4982.41382, sitting within a very tight range between the high of 4982.64385 and the low of 4982.35937. This lack of volatility suggests a market waiting for a catalyst or a breakout. The absence of significant movement on the daily chart can indicate either a consolidation phase or a potential accumulation before the next directional move.\n\nLooking at the technical indicators, the Relative Strength Index (RSI) is unavailable, leaving us with limited tools to gauge overbought or oversold conditions. The MACD shows a value of 5.60708, but without the signal line or a historical context, it’s challenging to draw strong conclusions. The MACD might suggest the potential for a trend if the signal line comes into play, but the current data lacks that confirmation. The SMA (20) at 4982.47399 is almost identical to the current market price, further emphasizing the market's equilibrium and lack of clear direction.\n\nFrom a support and resistance perspective, the price is currently sandwiched between the day's high and low. The resistance seems to lie just above 4982.64, while support is seen around the 4982.36 level. A break either above or below these levels could indicate the next market direction. If the price moves above the resistance level, it could be signaling a potential bullish move, with the next resistance zone possibly around 4985-4990. On the other hand, a break below support could open up downside risk toward 4980 or lower.\n\nConsidering the current stagnation in the market, a wait-and-see approach is recommended for traders. The tight range suggests that entering at this point could result in minimal price movement, with a clearer trend likely emerging if the price breaks either the high or low. Patience may be key, as waiting for a decisive move could offer better risk-reward scenarios."
+    }
+  }
+}

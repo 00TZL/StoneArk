@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-01-24T22:30:05.381Z",
+  "price": {
+    "close": "0.78237",
+    "high": "0.78454",
+    "low": "0.78112",
+    "open": "0.78127",
+    "change": "0.14",
+    "datetime": "2026-01-25 09:00:00"
+  },
+  "indicators": {
+    "rsi": 49.67063,
+    "macd": -0.0007963924,
+    "macd_signal": -0.0012171964,
+    "sma20": 0.7813135
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[震荡整理，短期承压]",
+      "content": "当前美元/瑞郎价格为0.78237，整体表现出震荡整理的趋势。从24小时变化来看，波动幅度较小，变动仅为0.14%。在0.78454至0.78112的区间内反复震荡，短期内缺乏明确的方向性突破。\n\n技术指标方面，SMA(20)显示价格在20日均线附近波动，表明市场情绪较为中立。MACD值为负，且未形成明显的信号线交叉，显示卖压略强。然而，由于RSI值暂无数据，无法通过该指标进一步确认超买或超卖的情况。\n\n从支撑/阻力层面来看，当前0.78112附近构成短期支撑，若价格下破该位置，可能会测试更低的支撑位。上方阻力则在0.78454附近，一旦突破该点位，可能会出现反弹或继续上涨的可能。\n\n综合来看，美元/瑞郎在当前的震荡区间内短期承压，建议在价格接近支撑位时考虑轻仓做多，而在接近阻力位时可尝试做空。保持谨慎，等待更明确的趋势信号。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair has been trading in a relatively narrow range recently, with a slight upward bias. Currently priced at 0.78237, the market is hovering just above the key support level of 0.78112, which could act as a critical floor. If this support holds, we could see the pair test the next resistance at 0.78454, forming a range-bound price action. A break above this resistance may signal further bullish momentum, but such a move would require confirmation through additional indicators.\n\nIn terms of technical indicators, the RSI is unavailable, but the MACD shows a slight bearish divergence at -0.00079639240, suggesting a subtle downside pressure. With no distinct crossover or signal line data available for the MACD, this indicates that the momentum is currently weak, and traders should be cautious. The market seems to be consolidating, and there isn't a clear trend in play. This lack of decisive direction may make it challenging to trade with conviction unless further data emerges.\n\nThe 20-period Simple Moving Average (SMA) is positioned at 0.78131350, slightly below the current price. This dynamic level often serves as a support in range-bound conditions, reinforcing the idea of 0.78112 acting as a near-term support. If price dips below this SMA, traders may look for confirmation of further downside targets. A break below 0.78112 would open up the potential for further weakness, with the next support levels around 0.78000 and 0.77800.\n\nGiven the current market environment, traders should watch for a breakout from the range between 0.78112 and 0.78454. If the pair continues to trade within these bounds, scalpers and range traders may find opportunities. A clear break above 0.78454 could signal an entry for bullish positions, while a drop below 0.78112 could offer short opportunities. Patience is key as the market consolidates, and caution is advised until stronger directional signals emerge."
+    }
+  }
+}

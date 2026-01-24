@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-01-24T22:27:13.753Z",
+  "price": {
+    "close": "156.24266",
+    "high": "156.40144",
+    "low": "155.90541",
+    "open": "155.90688",
+    "change": "0.22",
+    "datetime": "2026-01-25 09:00:00"
+  },
+  "indicators": {
+    "rsi": 54.48877,
+    "macd": -0.15234563,
+    "macd_signal": -0.2824206,
+    "sma20": 155.80869
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理，等待突破]",
+      "content": "目前美元/日元（USD/JPY）正处于一个震荡整理的阶段，价格在156.24附近波动，且接近日内高点156.40。市场情绪较为平稳，24小时变动仅为0.22%，反映出缺乏明显的趋势驱动因素。若突破156.40，可能会引发进一步的上涨；反之，回落至155.90以下，则可能重新考验下方支撑位。\n\n从技术指标来看，MACD处于负值区域，当前值为-0.152，显示出一定的空头压力。然而，RSI未提供明确的数据，这使得短期内趋势尚不明朗。20日简单移动平均线（SMA）位于155.81附近，提供了较强的支撑作用。如果价格维持在此上方，短期内保持震荡整理的可能性较大。\n\n支撑位位于155.90，若价格跌破此位置，可能会加速下行至更低的区域。阻力位则集中在156.40一线，若突破该位，可能会迎来新的上行空间。交易者可在此区间内寻找进场机会，但需密切关注价格的突破信号。\n\n建议交易者在当前区间内谨慎操作，关注突破信号的确认。若突破156.40，可考虑做多；若价格跌破155.90，则可考虑做空。在操作时，建议使用适当的止损，避免波动带来的风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair has shown a steady upward trend over the past few days, with the current price holding near the 156.24 level. The pair has been oscillating within a tight range between 155.91 and 156.40, with minimal volatility. The recent 24-hour change of 0.22% indicates market consolidation. This suggests that the pair might be in a wait-and-see phase, with traders potentially awaiting further economic data or a breakout from the current range.\n\nLooking at the indicators, the MACD is currently at -0.152, signaling some bearish pressure, though it is still far from any strong trend reversal. Since the RSI is not available, we lack a clear view of overbought or oversold conditions, which could have provided more context for potential price corrections. The 20-period SMA stands at 155.81, reinforcing the notion of support at this level. If the price pulls back, this moving average may act as a key zone for buyers to step in and maintain the bullish trend.\n\nSupport at 155.91 is a critical level to monitor. A break below this could expose further downside potential toward the 155.80 zone, near the SMA. On the upside, resistance is clearly marked at 156.40. A sustained move above this resistance could signal a continuation of the uptrend, targeting the next resistance levels higher. Traders should look for confirmation of a breakout or breakdown before entering positions, as the current price action remains relatively muted.\n\nFor traders, it's advisable to watch for a breakout above 156.40 or a retest of the support at 155.91. A move higher could present long opportunities, particularly if the market shows bullish momentum. Conversely, a break below support would open up the possibility for short trades, but caution should be exercised due to the current lack of strong trend signals."
+    }
+  }
+}

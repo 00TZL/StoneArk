@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-01-24T22:28:39.499Z",
+  "price": {
+    "close": "1.37218",
+    "high": "1.37249",
+    "low": "1.37181",
+    "open": "1.37183",
+    "change": "0.02",
+    "datetime": "2026-01-25 09:00:00"
+  },
+  "indicators": {
+    "rsi": 51.19187,
+    "macd": -0.00022433691,
+    "macd_signal": -0.00059765344,
+    "sma20": 1.37113
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理，等待突破]",
+      "content": "当前美元/加元价格在1.37218附近，短期内走势处于震荡整理状态。价格波动较小，呈现出高点1.37249和低点1.37181的区间震荡。未能突破前期高点，说明市场目前缺乏强劲的方向性趋势，仍在等待关键突破。\n\n从技术指标来看，RSI和MACD指标未提供明确的超买或超卖信号。MACD接近零轴，显示出市场缺乏强烈的买卖动能。此外，SMA(20)位于1.37113，价格略高于此均线，可能表明短期内略微偏多，但并不具有强烈的上行动力。\n\n支撑位方面，1.37180附近可能是一个关键支撑区，若价格跌破此水平，可能进一步向1.3700靠近。阻力位则在1.37250附近，若突破此点位，可能会触发短期内的多头趋势。市场正处于一个相对平衡的状态，等待价格突破其中一个关键点。\n\n建议交易者在当前区间内以震荡交易为主，等待价格突破1.37250或跌破1.37180后再做进一步操作。若突破上行，可考虑适度入场做多，反之则关注做空机会。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently experiencing mild upward momentum, with the price at 1.37218, reflecting a slight 24-hour change of 0.02%. The pair's movement is confined within a narrow range, marked by a high of 1.37249 and a low of 1.37181. This price action suggests a consolidation phase, indicating indecision in the market. While the trend does not show strong momentum, the presence of a higher low could signal potential for further upward movement, especially if key resistance levels are broken.\n\nThe 20-period simple moving average (SMA) is at 1.37113, providing a dynamic support level. This aligns with the lower bound of the recent range, where price has found some stability. If the pair falls below this level, the market could be primed for a short-term bearish correction. However, if the price holds above this SMA, a continuation of the current trend toward resistance at 1.37249 is possible, with the next key resistance level being 1.37400.\n\nLooking at momentum indicators, the MACD is currently negative at -0.00022433691, which suggests that the pair is in a weak bearish phase. However, the lack of a significant signal line crossover leaves the market neutral, implying that traders should remain cautious. The absence of an RSI reading limits our analysis of overbought or oversold conditions, further highlighting the importance of price action and range-bound trading in this scenario.\n\nGiven the current conditions, traders might consider waiting for a clear breakout above 1.37249 to confirm bullish continuation or a break below 1.37113 to signal a potential reversal. Tight stop losses should be implemented to protect against sudden market swings, as the pair is currently experiencing low volatility and could be prone to short-term fluctuations."
+    }
+  }
+}
