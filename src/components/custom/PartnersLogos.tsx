@@ -33,8 +33,8 @@ export default function PartnersLogos() {
     },
     {
       name: 'TickMill',
-      code: 'IB47958600',
-      link: 'https://my.tickmill.com?utm_campaign=ib_link&utm_content=IB47958600&utm_medium=Open+Account&utm_source=link&lp=https%3A%2F%2Fmy.tickmill.com%2Fzh%2Fsign-up%2F',
+      code: 'IB14846232',
+      link: 'https://secure.cn-tickmill.net?utm_campaign=ib_link&utm_content=IB14846232&utm_medium=Open+Account&utm_source=link&lp=https%3A%2F%2Fsecure.cn-tickmill.net%2Fzh%2Fsign-up%2F',
       benefit: isZh ? '超低点差 + 全额返佣' : 'Ultra-low spreads + Full rebate'
     },
     {

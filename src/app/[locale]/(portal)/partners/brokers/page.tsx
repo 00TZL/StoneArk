@@ -42,7 +42,7 @@ export default function PartnerBrokersPage() {
       description: isZh
         ? 'TickMill受英国FCA、塞浦路斯CySEC及南非FSCA三重监管，提供多种账户类型满足不同需求。点差低至0.1点，负余额保护，资金安全有保障，适合各级别交易者。'
         : 'TickMill is triple regulated by UK FCA, Cyprus CySEC and South Africa FSCA, offering multiple account types for different needs. Spreads as low as 0.1 pips, negative balance protection, fund security guaranteed, suitable for all level traders.',
-      link: 'https://my.tickmill.com?utm_campaign=ib_link&utm_content=IB47958600&utm_medium=Open+Account&utm_source=link&lp=https%3A%2F%2Fmy.tickmill.com%2Fzh%2Fsign-up%2F',
+      link: 'https://secure.cn-tickmill.net?utm_campaign=ib_link&utm_content=IB14846232&utm_medium=Open+Account&utm_source=link&lp=https%3A%2F%2Fsecure.cn-tickmill.net%2Fzh%2Fsign-up%2F',
     },
   ];
 

@@ -209,7 +209,7 @@ export default function SplanFooter() {
             <ul className="space-y-2 text-sm">
               <li>
                 <a
-                  href="https://my.tickmill.com?utm_campaign=ib_link&utm_content=IB47958600&utm_medium=Open+Account&utm_source=link&lp=https%3A%2F%2Fmy.tickmill.com%2Fzh%2Fsign-up%2F"
+                  href="https://secure.cn-tickmill.net?utm_campaign=ib_link&utm_content=IB14846232&utm_medium=Open+Account&utm_source=link&lp=https%3A%2F%2Fsecure.cn-tickmill.net%2Fzh%2Fsign-up%2F"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-400 hover:text-white transition-colors"
@@ -337,7 +337,7 @@ export default function SplanFooter() {
 
             {/* TickMill Banner */}
             <a
-              href="https://my.tickmill.com?utm_campaign=ib_link&utm_content=IB47958600&utm_medium=IB+Loyalty&utm_source=link&lp=https%3A%2F%2Fwww.tickmill.com%2Fpartners%2Fib-loyalty"
+              href="https://secure.cn-tickmill.net?utm_campaign=ib_link&utm_content=IB14846232&utm_medium=IB+Loyalty&utm_source=link&lp=https%3A%2F%2Fwww.tickmill.com%2Fpartners%2Fib-loyalty"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block hover:opacity-80 transition-opacity"
