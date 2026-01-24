@@ -2,8 +2,8 @@ name: Auto Fetch Forex News
 
 on:
   schedule:
-    # 每30分钟运行一次
-    - cron: '*/30 * * * *'
+    # 每天北京时间中午12点运行（UTC 04:00）
+    - cron: '0 4 * * *'
   workflow_dispatch: # 允许手动触发
 
 jobs:
