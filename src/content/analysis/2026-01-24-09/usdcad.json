@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-01-24T09:30:14.582Z",
+  "price": {
+    "close": "1.37009",
+    "high": "1.37072",
+    "low": "1.37002",
+    "open": "1.37011",
+    "change": "-0.00",
+    "datetime": "2026-01-24 20:00:00"
+  },
+  "indicators": {
+    "rsi": 23.65226,
+    "macd": -0.0018062901,
+    "macd_signal": -0.002076659,
+    "sma20": 1.37089
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理，趋势尚不明朗]",
+      "content": "当前美元/加元的市场表现处于震荡整理阶段，价格波动相对有限，最新价格为1.37009。虽然价格变化不大，但短期内依然存在上涨和下跌的可能性。由于缺乏明显的趋势方向，投资者应保持谨慎。\n\n从技术指标来看，MACD目前显示轻微的负值（-0.0018），这表明市场上可能存在一定的卖压。然而，RSI值缺失，无法提供超买或超卖的具体信息。20日简单移动平均线(SMA)为1.37089，接近当前价格，反映出市场的短期均衡状态。\n\n在支撑和阻力位方面，当前价格接近1.37002的低点支撑位，如果跌破该支撑，可能会进一步下行。上方阻力位位于1.37072附近，若突破此位置，可能会恢复上涨动能。短期内价格仍在这一范围内波动，突破则可能带来新的趋势信号。\n\n对于交易建议，建议在价格接近支撑位时寻找做多机会，在接近阻力位时考虑做空。然而，由于市场趋势尚不明确，建议短线交易者密切关注价格波动，避免持仓过长时间。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently trading at 1.37009, with minimal movement over the last 24 hours. The price remains within a narrow range between 1.37072 (high) and 1.37002 (low), indicating a period of consolidation. This suggests that market participants are awaiting new catalysts to drive price action. The price is slightly below the 20-period simple moving average (SMA) at 1.37089, which may indicate a neutral to bearish bias in the short term. However, the lack of significant change over the past day suggests indecision in the market.\n\nThe absence of RSI data makes it difficult to gauge overbought or oversold conditions, but the MACD reading at -0.0018 suggests a slight bearish momentum, as the histogram remains negative. The MACD signal line is unavailable, preventing a clear divergence analysis, but traders should monitor for any crossover or trend reversal signals in the coming sessions. Given the current MACD setup, a potential continuation of bearish momentum could be anticipated if the pair fails to break the 1.3710 resistance level decisively.\n\nKey support levels lie around the 1.3700 region, where the price recently bounced, and a break below could target 1.3690. On the upside, the immediate resistance is at 1.3710, followed by 1.3720. If the price manages to push through the resistance zone, we could see a retest of the higher range. Therefore, the market sentiment currently appears neutral, and traders should watch for either a break above 1.3710 or a dip below 1.3700 to confirm the next move.\n\nFor trading, a breakout strategy may be effective. A short position could be considered if the price fails to breach 1.3710, especially with the current bearish momentum indicated by the MACD. Conversely, a long position might be considered if the price breaks above 1.3710, targeting 1.3720 and beyond. Risk management is crucial, given the limited price action and the neutral trend, to avoid being caught in false breakouts."
+    }
+  }
+}

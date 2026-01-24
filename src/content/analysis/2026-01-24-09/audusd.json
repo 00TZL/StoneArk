@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-01-24T09:29:27.625Z",
+  "price": {
+    "close": "0.68931",
+    "high": "0.68934",
+    "low": "0.68929",
+    "open": "0.6893",
+    "change": "0.00",
+    "datetime": "2026-01-24 20:00:00"
+  },
+  "indicators": {
+    "rsi": 73.98807,
+    "macd": 0.0011498103,
+    "macd_signal": 0.0013681214,
+    "sma20": 0.688863
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，走势偏空]",
+      "content": "当前澳元/美元（AUD/USD）在0.68931附近窄幅震荡，价格几乎没有24小时的波动。从整体走势来看，市场仍然缺乏明确的趋势方向，短期内可能继续维持震荡整理状态。考虑到缺乏强烈的上升或下降动能，当前行情较难打破现有区间。\n\n技术指标方面，RSI(14)值暂时无法提供，MACD值为0.0011498103，表明短期内价格波动处于较低水平，且没有明显的交叉信号。SMA(20)位于0.68886附近，为当前支撑位。若价格跌破此位置，可能会进一步测试0.68800左右的支撑。\n\n当前的阻力位主要集中在0.68950附近，这一水平能够有效限制上涨动能。若突破此阻力位，则可能会有进一步的上行空间，测试0.69000大关。否则，市场可能继续维持在窄幅区间内震荡，缺乏方向性突破。\n\n基于当前行情，建议短期内采取区间交易策略，利用0.68886附近的支撑位和0.68950的阻力位进行短线操作。若突破关键支撑或阻力，考虑调整策略。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently exhibiting a range-bound structure with the price hovering around 0.68931. The tight trading range, with a high of 0.68934 and a low of 0.68929, suggests limited volatility and a neutral market sentiment. Given the current price action, the market appears to be consolidating, possibly waiting for a catalyst, such as economic data or central bank commentary, to drive the next move. Short-term traders may look for small intraday movements within this range.\n\nFrom an indicator perspective, the lack of a clear RSI reading prevents an immediate overbought or oversold assessment, leaving price action as the primary signal. The MACD value of 0.0011498103, while positive, does not yet suggest significant bullish momentum, and the absence of a signal line makes it harder to confirm any directional bias. This reinforces the idea of a neutral trend in the near term. Traders should closely monitor the price's ability to break key levels for further confirmation of market direction.\n\nSupport for the AUD/USD is located around 0.68886, as indicated by the 20-period simple moving average (SMA), which is a typical short-term trend guide. A close below this level could suggest further weakness and potential testing of lower support levels. On the upside, resistance might be found around 0.68934, which is the highest point of the current trading range. A breakout above this level could potentially lead to a bullish move, targeting higher levels in the 0.6900 range.\n\nIn terms of trading strategy, caution is advised for those looking to enter positions, as the market's narrow trading range and lack of significant momentum provide minimal risk/reward opportunities. Range-bound strategies could be effective for those seeking to trade within the defined levels, but any breakout above resistance or below support should be followed with confirmation from volume or other indicators to avoid false signals."
+    }
+  }
+}

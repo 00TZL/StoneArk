@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-01-24T09:28:38.733Z",
+  "price": {
+    "close": "155.69636",
+    "high": "155.70144",
+    "low": "155.69211",
+    "open": "155.69372",
+    "change": "-0.00",
+    "datetime": "2026-01-24 20:00:00"
+  },
+  "indicators": {
+    "rsi": 15.83501,
+    "macd": -0.57516395,
+    "macd_signal": -0.63146519,
+    "sma20": 156.11071
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理，缺乏明确方向]",
+      "content": "当前美元/日元的价格走势表现出震荡整理的特征，价格在155.69211至155.70144区间内波动，未能显示出明确的上涨或下跌动能。此状态下，市场情绪相对平稳，短期内价格波动较小，可能会继续在这一区间内整理。\n\n从技术指标来看，RSI和MACD的缺失数据使得进一步分析受限。尽管SMA(20)显示当前价格位于156.11071附近，但缺乏其他确认信号，暗示市场可能处于观望期，尚未形成强劲的趋势。若价格突破此均线位置，可能会出现新的动向。\n\n支撑位方面，155.69211一线仍为关键支撑区域，若价格跌破此点位，可能会进一步下探至更低的支撑区间。阻力位则位于156.11071附近，若突破此水平，可能会尝试向更高价位迈进，形成上涨信号。\n\n综合来看，建议在当前区间内采取震荡交易策略，关注突破155.69211和156.11071的走势，若价格突破任一边界，可能会带来新的交易机会。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USD/JPY is currently trading in a tight consolidation near 155.70 after an extended bullish phase earlier in the year. The inability to push beyond recent highs, combined with compressed intraday range, suggests short-term exhaustion within a broader uptrend. Price action remains heavy below the 20-period moving average, indicating that bullish momentum has stalled and that the pair may be transitioning into a corrective or range-bound phase.\n\nMomentum indicators lean mildly bearish. The MACD reading is negative at -0.575, signaling that downside pressure is building, even though the absence of a confirmed signal line limits conviction. RSI data is unavailable, but the lack of volatility and flat price behavior imply neutral momentum rather than aggressive selling. The fact that price is holding below the SMA(20) at 156.11 reinforces near-term bearish bias unless buyers reclaim that level decisively.\n\nKey support is clustered very tightly around 155.65–155.60, which aligns with the current session’s low and short-term demand. A clean break below this zone could expose 155.20, followed by a more significant level near 154.80. On the upside, immediate resistance is located at 155.90–156.00, with stronger resistance at the SMA(20) near 156.11. A break above that would reopen the path toward 156.80.\n\nFrom a trading perspective, short-term strategies favor selling rallies while price remains below the 156.00–156.10 resistance band. Conservative traders may wait for a confirmed breakdown below 155.60 before entering short positions, targeting lower support zones. Conversely, bullish continuation setups would require a firm close above the 20-period average, supported by expanding momentum, to justify renewed long exposure. Risk management remains essential given the compressed range."
+    }
+  }
+}

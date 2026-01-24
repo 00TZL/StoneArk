@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-01-24T09:27:48.281Z",
+  "price": {
+    "close": "1.36481",
+    "high": "1.36486",
+    "low": "1.36469",
+    "open": "1.36481",
+    "change": "0.00",
+    "datetime": "2026-01-24 20:00:00"
+  },
+  "indicators": {
+    "rsi": 83.2912,
+    "macd": 0.0032256427,
+    "macd_signal": 0.0036456226,
+    "sma20": 1.36292
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：当前震荡整理，短期观望",
+      "content": "当前，英镑/美元在1.36481附近震荡整理，24小时价格变化几乎为零，表明市场缺乏强烈的方向性。高点与低点接近，形成区间震荡格局，短期内可能继续维持这种走势。由于RSI和MACD信号缺失，无法通过这些指标判断市场的超买或超卖状态。\n\n从技术指标来看，SMA(20)位于1.36292，这为价格提供了一定的支撑。若价格回调至此水平，可能会遇到买盘介入，推动价格反弹。然而，由于缺乏明显的动能，市场暂时处于犹豫状态，尚未出现明确的突破信号。\n\n支撑位和阻力位分别在1.36469和1.36486附近，价格若突破这些关键点，可能会带来短期的波动。若突破1.36486，可能会进一步上涨至1.36550附近，反之跌破1.36469则可能指向1.36200的支撑区域。\n\n建议交易者短期内保持观望，待价格突破上述关键水平后再做进一步操作。在市场方向明确之前，避免频繁交易，减少风险暴露。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently trading at 1.36481, showing little to no movement over the past 24 hours. The market has been quite stagnant with a narrow trading range between 1.36469 and 1.36486. This indicates a period of consolidation after the recent fluctuations, which may suggest that the pair is awaiting further catalysts to spark direction. The price action at this level suggests neutral sentiment, with neither bulls nor bears showing dominance at the moment.\n\nDespite the lack of specific indicator data, the pair is trading just above its 20-period Simple Moving Average (SMA), which stands at 1.36292. This SMA could act as a dynamic support level in the near term, offering a buffer against potential downside moves. If the pair dips towards this level and holds, it would reinforce a short-term bullish bias. Conversely, a break below this SMA would indicate a possible shift toward a more bearish outlook, opening up the possibility for further declines towards the next support zone.\n\nThe current market conditions make it critical to watch for key resistance and support levels. Resistance is expected around the high of 1.36486, which is the immediate ceiling. A breach above this level could lead to a retest of higher levels, potentially targeting 1.3670 or 1.3700. On the other hand, a downside break below 1.3620 would test the strength of the SMA and may push the pair lower, with the next significant support likely around 1.3600.\n\nTraders should focus on watching for price action around the 1.36486 resistance and the 1.36292 SMA support. A break in either direction would offer a clearer trading signal, with buying interest likely above resistance and selling potential below support. Caution is advised given the lack of major momentum and the close proximity of the price to key levels."
+    }
+  }
+}

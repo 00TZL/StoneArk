@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-01-24T09:32:45.639Z",
+  "price": {
+    "close": "4982.4297",
+    "high": "4982.62655",
+    "low": "4982.34082",
+    "open": "4982.40932",
+    "change": "-0.00",
+    "datetime": "2026-01-24 20:00:00"
+  },
+  "indicators": {
+    "rsi": 66.38454,
+    "macd": 13.5009,
+    "macd_signal": 16.42182,
+    "sma20": 4977.90041
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理，关注突破信号]",
+      "content": "当前黄金/美元（XAU/USD）的价格保持在4982.43附近，全天变动极为有限，显示出市场在该价格区间的震荡整理态势。短期内，价格未突破明显的支撑或阻力位，整体走势缺乏明显方向。考虑到这一点，市场情绪趋向中性，投资者应关注价格是否能突破当前的区间限制。\n\n从技术指标来看，RSI暂缺数据，无法有效评估市场的超买或超卖状态。MACD的值为13.5，表明价格的短期动能可能较弱，且没有形成明显的趋势信号。与此同时，20日简单移动平均线（SMA）位于4977.9附近，作为支撑位起到一定作用，但价格依然保持在其上方，未形成强烈的反转信号。\n\n支撑位主要集中在4982.34附近，而阻力位则在4982.63左右。若价格突破阻力位，可能会带来进一步上涨的机会，反之若跌破支撑位，可能引发短期回调。市场需密切关注价格在这些关键水平附近的反应，以判断未来走势。\n\n综合来看，黄金/美元目前处于震荡整理阶段，建议交易者保持耐心，等待价格突破关键支撑或阻力位时再做进一步决策。建议保持灵活的交易策略，避免在无明确信号的情况下贸然进场。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD market shows an overall neutral trend, with the latest price of 4982.4297 barely shifting in the past 24 hours. Despite this, there is subtle volatility within the day’s range, with a high of 4982.62655 and a low of 4982.34082. The lack of movement could indicate consolidation, suggesting a potential breakout or a continuation pattern. Traders should remain cautious, waiting for further confirmation before positioning themselves for a more definitive trend.\n\nIndicator analysis reveals a lack of a complete RSI reading, making it challenging to assess the market’s momentum fully. The MACD reading of 13.50090, however, indicates that there might be some bullish momentum. However, with no signal line available for context, it’s hard to interpret this movement effectively. Similarly, the SMA(20) at 4977.90041 remains slightly below the current price, indicating short-term bullishness but offering limited guidance on longer-term trends.\n\nFrom a support and resistance standpoint, the market is showing a range-bound pattern. Key resistance lies around 4982.62655, while support is found at 4982.34082. These levels are critical for traders to monitor. If the price breaks either level, it may provide an indication of a new directional move. Otherwise, the market is likely to continue within this narrow range, and trading opportunities may be limited without a clear breakout.\n\nGiven the current market structure, conservative traders may want to adopt a wait-and-see approach. If the price holds above 4982.34082 and starts pushing toward resistance, there may be a short-term buy opportunity, particularly if MACD starts showing stronger positive momentum. Conversely, if support breaks, a short position towards the next support zone may be viable. Monitoring upcoming indicators and price action will be crucial in confirming any shifts in market sentiment."
+    }
+  }
+}
