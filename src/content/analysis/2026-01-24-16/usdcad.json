@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-01-24T16:35:00.045Z",
+  "price": {
+    "close": "1.37222",
+    "high": "1.37229",
+    "low": "1.37196",
+    "open": "1.37199",
+    "change": "0.02",
+    "datetime": "2026-01-25 03:00:00"
+  },
+  "indicators": {
+    "rsi": 52.1841,
+    "macd": -0.00073994576,
+    "macd_signal": -0.0013113312,
+    "sma20": 1.37059
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：短期震荡整理，偏向看多",
+      "content": "当前美元/加元价格在1.37222附近波动，显示出短期震荡整理的走势。从技术角度来看，价格保持在20日简单移动平均线（SMA）之上，表明多方略占上风，价格有可能继续上行。短期内，若突破1.37229高点，可能会进一步挑战上方的压力区间。\n\nMACD指标目前显示轻微的负值，且信号线尚未明确，因此暂时缺乏明确的强势信号。RSI未给出数据，但根据当前价格区间的震荡，RSI可能处于中性区域，暗示市场处于等待突破的状态。短期内需要关注价格是否能够突破当前的震荡范围。\n\n从支撑和阻力角度看，1.37196为近期的支撑位，若下破该位置，则有可能测试1.37000这一较强支撑位。上方的阻力位集中在1.37229，突破该水平后，可进一步考虑1.37500作为潜在目标。\n\n基于当前市场情况，建议投资者在价格接近支撑位时考虑买入，特别是在价格确认保持在1.37196之上时。若价格突破1.37229，则可以考虑做多，目标位看向1.37500附近。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently showing a relatively stable price action around 1.37222, with a slight daily change of 0.02%. This suggests a neutral market environment, where neither bulls nor bears are asserting strong control. However, the minor price fluctuations highlight that the pair is testing short-term resistance near 1.37229, while the recent low of 1.37196 provides some support. Traders should keep an eye on these levels, as any breakout above 1.37229 could lead to a retest of higher resistance zones, potentially driving prices towards 1.3750 or higher.\n\nThe lack of a clear RSI reading suggests that momentum remains neutral at this stage, making it harder to determine whether the market is overbought or oversold. The MACD value of -0.00074 indicates a slight bearish divergence, but with no signal line crossover to confirm, the potential for further downside remains limited. While this subtle bearish momentum is worth noting, it's not strong enough to suggest a trend reversal at this moment. The market is likely consolidating, awaiting fresh catalysts for direction.\n\nWith the 20-period Simple Moving Average (SMA) providing dynamic support at 1.37059, it is clear that this level is holding well as a potential entry point for buyers. A bounce off this level could push the price back toward the 1.37200 region, where it faces minor resistance. However, if the price breaks below the SMA, it may trigger further downside momentum toward the next support at 1.3680. Traders should monitor for any significant price movement below the SMA, as this could signal a more pronounced bearish trend.\n\nIn terms of trading strategy, a wait-and-see approach may be prudent until the pair breaks through key levels. A buy order could be placed near 1.37059 with a target around 1.3750 if the price holds above this support. Conversely, a sell position might be considered if the price drops below the SMA and breaches the support at 1.37196, aiming for a move towards 1.3680. Keeping a tight stop-loss to manage risk will be crucial given the current low volatility."
+    }
+  }
+}

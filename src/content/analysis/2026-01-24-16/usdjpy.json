@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-01-24T16:33:24.011Z",
+  "price": {
+    "close": "155.7162",
+    "high": "155.72335",
+    "low": "155.7143",
+    "open": "155.71657",
+    "change": "-0.00",
+    "datetime": "2026-01-25 03:00:00"
+  },
+  "indicators": {
+    "rsi": 17.66827,
+    "macd": -0.37472236,
+    "macd_signal": -0.4750678,
+    "sma20": 155.69825
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理中，突破待定]",
+      "content": "当前美元/日元价格稳定在155.7162附近，市场未显著波动。短期内价格走势呈现震荡整理格局，未出现明确的上涨或下跌趋势。考虑到当前价格接近近期高点155.72335和低点155.7143，市场情绪较为谨慎，缺乏强势动能。\n\n从技术指标来看，MACD值为负值（-0.37472236），表明短期内卖方力量相对较强，但由于信号线数据缺失，未能完全确认趋势变化。SMA(20)为155.69825，表明短期均线呈现轻微上升趋势，但市场暂时未突破该水平，进一步上涨的动力不足。\n\n支撑位位于155.7143附近，而阻力位则接近155.72335。如果价格突破155.72335，可能会迎来短期的上涨行情；相反，若跌破155.7143支撑，可能会进一步回调。此时，交易者应关注市场波动性，并做好止损设置。\n\n综上所述，当前美元/日元呈现震荡整理态势，建议暂时保持观望，等待价格突破关键支撑或阻力位后再作进一步决策。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair has been largely neutral over the past 24 hours, with minimal price movement, indicating consolidation within a tight range. The current price of 155.7162 reflects a slight retreat from the high of 155.72335, suggesting limited volatility in the short term. This could indicate market indecision, potentially due to a lack of major economic releases or shifts in market sentiment. Traders should monitor for any upcoming news or data that could break the current range.\n\nWithout an RSI reading or a clear MACD signal, it's important to focus on price action and key moving averages for further insights. The 20-period Simple Moving Average (SMA) at 155.69825 provides a slight upward bias, reinforcing the idea of support near 155.70. A close below this level may signal further downside, with the potential for a retest of 155.71. This could indicate that bears are gaining control, particularly if broader market conditions start to favor the Japanese yen.\n\nFrom a technical standpoint, key support is likely found around the 155.71 region, which aligns with the low of the day. A breakdown below this level could open the door for a move towards 155.50 or lower, signaling more substantial bearish pressure. On the resistance side, 155.72 could act as a near-term cap. A sustained push above this level might trigger a move towards higher targets, potentially around 156.00, depending on the strength of the momentum.\n\nIn terms of trading strategy, waiting for confirmation through price action could be prudent. A break above 155.72 or below 155.70 could provide clearer direction for the next trade. Conservative traders may prefer to remain neutral until the range is broken, while more aggressive traders could consider scalping within the current consolidation zone, targeting small moves between support and resistance levels."
+    }
+  }
+}

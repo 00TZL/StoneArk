@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-01-24T16:35:46.173Z",
+  "price": {
+    "close": "0.59481",
+    "high": "0.59483",
+    "low": "0.5948",
+    "open": "0.59481",
+    "change": "-0.00",
+    "datetime": "2026-01-25 03:00:00"
+  },
+  "indicators": {
+    "rsi": 69.48763,
+    "macd": 0.00065987681,
+    "macd_signal": 0.00085840475,
+    "sma20": 0.5948955
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理，缺乏明确方向]",
+      "content": "当前纽元/美元（NZD/USD）处于0.5948附近，价格变动极为有限，显示出震荡整理的市场结构。从高低点来看，价格几乎没有显著波动，显示出市场情绪处于观望状态。短期内，若没有外部刺激，预计价格会继续维持当前的震荡格局。\n\n技术指标方面，MACD目前为0.00066，说明市场短期内没有强烈的上行或下行动能。RSI值未给出，但考虑到价格的稳定性，当前的RSI可能处于中性水平，未呈现超买或超卖的信号。SMA(20)为0.5949，接近当前价格，进一步确认了震荡整理的趋势。\n\n支撑位方面，0.5948附近可以作为近期的支撑位，若价格跌破此处，可能会进一步测试更低水平。阻力位则位于0.5949附近，突破该水平可能会为短期反弹打开空间。交易者可在这些区间内进行区间交易，保持谨慎。\n\n建议方面，考虑到当前市场缺乏方向性，短期内建议观望，避免大规模仓位的投入。如果价格突破区间边界，可以考虑短期内的反向操作，严格设置止损。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently trading near the 0.5948 level, reflecting minimal price movement in the last 24 hours with a change of only -0.00%. The pair has been consolidating within a narrow range, with a high of 0.59483 and a low of 0.5948, suggesting a lack of strong momentum. The market's stagnant movement indicates indecision, likely influenced by both regional economic factors and the broader global risk sentiment. The price is testing the support zone at 0.59480, which could determine if the current consolidation will lead to a continuation or a reversal.\n\nThe lack of RSI data leaves some uncertainty regarding potential overbought or oversold conditions, but the MACD line at 0.00066 is currently above the zero line, indicating slight bullish momentum. However, the absence of a clear signal line makes it difficult to draw definitive conclusions about the sustainability of this movement. In terms of technical indicators, the SMA(20) at 0.59489550 suggests a neutral to slightly bullish bias in the short term, with the price lingering close to this moving average, which may act as dynamic support or resistance depending on the direction the market takes.\n\nSupport levels appear at the 0.5948 and 0.5947 marks, where the pair could find buyers if there’s a dip. Should the price break below these levels, it may open up further downside, targeting 0.5945. On the upside, resistance is found near the 0.5950 level, with a move above that threshold potentially pushing the pair towards 0.5955. Traders should watch for any significant breakouts beyond these levels for a clearer market direction. Until then, a range-bound strategy may be the most prudent approach.\n\nIn the current market environment, a cautious approach is recommended. As the pair is in consolidation mode, traders may look for entry points near key support or resistance levels. If a breakout occurs, it could signal a trend continuation. Conversely, a failure to break these levels might suggest a further consolidation phase. Risk management is essential, as the market lacks strong directional momentum at the moment."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-01-24T16:36:31.510Z",
+  "price": {
+    "close": "0.78052",
+    "high": "0.78056",
+    "low": "0.78051",
+    "open": "0.78053",
+    "change": "-0.00",
+    "datetime": "2026-01-25 03:00:00"
+  },
+  "indicators": {
+    "rsi": 20.64279,
+    "macd": -0.0015339841,
+    "macd_signal": -0.0017834444,
+    "sma20": 0.781067
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：当前震荡整理，走势无明显方向",
+      "content": "目前，美元/瑞郎价格处于0.7805附近，全天变化微弱，表明市场缺乏强烈的动能。价格波动区间较小，暂时未能突破高点或低点，呈现整理行情。短期内，市场可能会继续震荡，寻找明确的趋势方向。\n\n从技术指标来看，MACD为负值，表明短期内卖压存在，但由于信号线未形成，缺乏明确的交易信号。RSI数据缺失，无法提供有关超买或超卖的参考。SMA(20)稍微偏上，显示出近期市场的轻微偏强，但不足以构成反转信号。\n\n支撑位方面，当前的低点0.78051可以视为短期支撑，若价格跌破此位，可能会进一步下探。阻力位则位于0.7811附近，若价格突破该区域，可能会触发短期上涨。交易者应密切关注这些关键价位的突破情况，以决定入场时机。\n\n建议保持谨慎，短期内可以在0.7805附近轻微做空，但注意止损设置在支撑位下方。若价格突破0.7811，可考虑做多。整体来看，当前市场仍处于震荡整理阶段，等待进一步的趋势确认。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently experiencing a period of consolidation near the 0.78050 level, with very little movement in the past 24 hours. The price is hovering just above the 20-period simple moving average (SMA) at 0.78107, indicating a potential continuation of a sideways trend. Given the narrow trading range between the daily high and low, market participants are waiting for clearer direction or a catalyst to trigger movement in either direction. A break above 0.78150 may suggest a bullish momentum shift, while a failure to hold above the 0.78050 mark could lead to further downside testing.\n\nThe absence of RSI and MACD data makes it difficult to evaluate momentum directly, but the MACD value at -0.0015 signals a mild bearish bias in the short term. However, the lack of significant directional movement suggests that market participants may be waiting for stronger fundamentals or news to drive a breakout. The current MACD value, while negative, is relatively close to neutral, which implies that the market is in a holding pattern, rather than committing to a trend. A closer look at price action, such as breaking key support or resistance levels, could provide a clearer signal.\n\nSupport for the USD/CHF pair is evident around 0.78000, with a potential for further downside if this level is breached. On the other hand, resistance is near 0.78150, and a break above this level could trigger a short-term rally towards the next key resistance around 0.78300. The pair is likely to remain within this range unless there is a significant move that triggers a shift in market sentiment, either through geopolitical factors or a change in risk appetite.\n\nFor traders, a cautious approach is recommended given the tight price range and the current lack of clear directional indicators. A wait-and-see approach could be prudent, with buy signals potentially activated above 0.78150, while sell signals may emerge below the support at 0.78000. Risk management remains crucial as the market could remain volatile with little warning. Traders should monitor broader market trends and any economic releases from both the US and Switzerland for potential catalysts."
+    }
+  }
+}

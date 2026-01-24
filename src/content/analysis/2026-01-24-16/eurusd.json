@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-01-24T16:31:51.200Z",
+  "price": {
+    "close": "1.18244",
+    "high": "1.18249",
+    "low": "1.18238",
+    "open": "1.1824",
+    "change": "0.00",
+    "datetime": "2026-01-25 03:00:00"
+  },
+  "indicators": {
+    "rsi": 76.48532,
+    "macd": 0.0012416486,
+    "macd_signal": 0.001556055,
+    "sma20": 1.18242
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：当前区间整理，等待突破",
+      "content": "当前欧元/美元价格稳定在1.18244附近，波动较小，24小时变化为0.00%。这种价格震荡表明市场处于整理阶段，缺乏明显的趋势动力。当前价格接近20日简单移动平均线（SMA 20）1.18242，显示出市场在短期内的平衡状态。\n\n从技术指标来看，RSI未提供数据，而MACD的值为0.0012，接近于零，表明多空力量相对平衡，短期内缺乏明显的方向性。考虑到MACD信号线缺失，趋势尚未得到确认，这种情况可能意味着市场尚未准备好做出强烈反应。\n\n在支撑和阻力方面，1.18238是当前的短期支撑位，而1.18249则是最近的阻力位。如果价格突破这些点位，可能会出现更大的波动。突破上行阻力位可能会带来更强的上涨动力，反之，跌破支撑位则可能预示价格下行的风险。\n\n基于当前的市场状况，建议采取观望策略，等待价格突破关键技术水平后再做出操作决策。如果价格突破上行，可以考虑做多，若跌破支撑则可考虑做空。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently trading at 1.18244, with no significant price change over the past 24 hours. The market is consolidating within a tight range, as the high and low for the period remain very close at 1.18249 and 1.18238. This could indicate a lack of volatility or significant market drivers. The absence of substantial movement suggests a neutral sentiment at present, where traders may be waiting for a catalyst to either break the current range or continue the sideways action.\n\nFrom a trend perspective, the pair is largely neutral, as indicated by the latest price hovering just slightly above the 20-period Simple Moving Average (SMA), which stands at 1.18242. The price's proximity to the SMA highlights the lack of a strong directional bias. Without clear trend momentum, the market is likely in a consolidation phase, with price oscillating around this key level. Traders should look for any signs of breakout in either direction for more clarity.\n\nThe Relative Strength Index (RSI) and Moving Average Convergence Divergence (MACD) indicators are currently unavailable or show minimal data. This lack of additional momentum signals means traders should remain cautious and refrain from taking excessive risk until further confirmation from these indicators. When RSI and MACD values become available, they will be critical in understanding overbought or oversold conditions, and whether a reversal or continuation is imminent.\n\nKey support for EUR/USD is at 1.18238, with resistance just above at 1.18249. Should the price breach these levels, the pair could open up further movement in either direction. A close above 1.18250 might suggest a bullish breakout, while a move below 1.18230 could signal a bearish trend. As the market lacks clear directional signals, it may be wise to trade within this range while waiting for confirmation of any breakout or breakdown."
+    }
+  }
+}

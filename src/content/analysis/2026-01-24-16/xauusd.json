@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-01-24T16:37:18.267Z",
+  "price": {
+    "close": "4982.45505",
+    "high": "4982.64401",
+    "low": "4982.35937",
+    "open": "4982.42698",
+    "change": "-0.00",
+    "datetime": "2026-01-25 03:00:00"
+  },
+  "indicators": {
+    "rsi": 66.30364,
+    "macd": 8.57753,
+    "macd_signal": 11.32761,
+    "sma20": 4982.4629
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[价格震荡整理，未显著偏向任一方向]",
+      "content": "当前黄金/美元价格维持在4982.46附近，呈现震荡整理的走势。24小时内价格变化极小，显示市场缺乏强烈的买卖动能。此时，短期内没有明确的上涨或下跌趋势，价格可能会继续在现有区间内波动，等待市场的进一步指引。\n\n从技术指标来看，RSI暂未提供有效数据，而MACD值为8.57753，虽然MACD处于正值区域，但没有明确的信号线数据。因此，当前MACD指标无法有效确认强势的买入或卖出信号。SMA(20)的价格接近当前市场价，进一步证实市场处于横盘整理阶段，缺乏明确的趋势方向。\n\n支撑位方面，XAU/USD目前的低点在4982.36附近，若价格突破此位置，可能会继续下探至更低的支撑位。阻力位在4982.64附近，若突破该阻力位，则有可能迎来短期的上行机会。因此，当前应关注这两个关键价格区间的突破。\n\n交易建议上，建议投资者在短期内保持观望，避免在价格震荡时进行大幅度操作。若价格突破支撑或阻力位，可考虑根据突破方向制定交易策略，适当进行短线操作。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current price of Gold vs US Dollar (XAU/USD) stands at 4982.45505, showing a very slight change of 0.00% over the past 24 hours. This indicates a stable market environment, with little movement in either direction. The price range has remained tight between 4982.64401 and 4982.35937, reflecting a period of consolidation. Given the narrow price fluctuations, it's likely that Gold is in a range-bound phase, waiting for new catalysts to drive momentum either upwards or downwards.\n\nOn the technical front, the SMA(20) at 4982.46290 suggests a slight bullish bias, as the current price is just below the 20-period simple moving average. However, without a clear trend or strong momentum, this indicator alone isn't sufficient for a strong directional signal. The absence of RSI data makes it challenging to gauge market overbought or oversold conditions. Additionally, MACD values at 8.57753 are relatively neutral, lacking a clear divergence or convergence, which typically signals trend strength or reversal.\n\nFor support and resistance, the nearest level of support appears at 4982.35937, the lower range of today's price. A break below this level could open the door to further downside, possibly targeting the 4980.00 psychological level. On the upside, resistance is found at 4982.64401, which is also the recent high. A break above this resistance would indicate a potential for further gains, but it would require momentum from other technical indicators or external market factors to confirm.\n\nGiven the current technical setup, traders should watch for a breakout in either direction from the established range. A sustained move above the resistance could lead to short-term buying opportunities, while a breakdown below support could signal the start of a bearish correction. However, with the market showing low volatility, any trade should be approached cautiously, considering the potential for a continuation of range-bound behavior."
+    }
+  }
+}

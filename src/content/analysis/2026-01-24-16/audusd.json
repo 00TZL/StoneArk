@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-01-24T16:34:12.764Z",
+  "price": {
+    "close": "0.68937",
+    "high": "0.68939",
+    "low": "0.68931",
+    "open": "0.68932",
+    "change": "0.00",
+    "datetime": "2026-01-25 03:00:00"
+  },
+  "indicators": {
+    "rsi": 71.89885,
+    "macd": 0.00074845586,
+    "macd_signal": 0.00096840166,
+    "sma20": 0.6893375
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理中，短期难以突破]",
+      "content": "当前，澳元/美元呈现震荡整理状态，价格区间非常窄，最新价格为0.68937，24小时内变化几乎为零。由于市场缺乏明显的驱动力，短期内突破当前区间的可能性较低。技术指标显示，MACD略微为正，但信号线数据缺失，未能提供明确的买卖信号。\n\n支撑位和阻力位上，价格在0.68931至0.68939之间震荡波动，表现出一定的横盘整理状态。考虑到短期内缺乏强劲的趋势，若价格持续在这一范围内波动，预计可能会出现一定的反复整理。当前支撑位附近为0.68931，若跌破该点，则可能进一步测试更低区域的支撑。\n\n从SMA(20)来看，当前价格几乎与20日简单移动平均线持平，反映出市场情绪暂时平稳。相对强弱指数(RSI)和MACD指标目前尚未提供明确的超买或超卖信号，说明市场尚未呈现过度买入或卖出的情况。\n\n建议投资者在当前的震荡区间内，采取区间交易策略，耐心等待更明确的突破信号。在价格突破上方阻力或下方支撑时，可以考虑进行相应的交易操作。同时，保持风险管理，以应对潜在的市场波动。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair has been trading within a narrow range, with the latest price at 0.68937. Over the past 24 hours, the pair has remained relatively stable, with no significant price change, showing a high of 0.68939 and a low of 0.68931. This tight price action suggests a consolidation phase, as traders await more market catalysts. The absence of volatility highlights a lack of clear directional momentum, which may be indicative of a market in equilibrium or waiting for a trigger.\n\nThe moving averages, particularly the 20-period Simple Moving Average (SMA), are signaling a neutral short-term outlook. With the SMA closely aligning with the current price at 0.68934, there is no immediate indication of a strong upward or downward trend. Traders may look for a breakout above or below the recent range to determine the next major move. In such cases, a sustained close above 0.68940 could target 0.6900, while a drop below 0.68930 could bring 0.6890 into focus as the next potential support level.\n\nRegarding the MACD, the reading of 0.00074845586 suggests that the pair is in a slight positive momentum. However, with the absence of a clear signal line, the current trend is not sufficiently defined for a strong buy or sell recommendation. Investors should wait for further confirmation, either through a crossing of the MACD above the signal line or a deeper negative divergence, before taking aggressive positions.\n\nIn terms of support and resistance levels, the immediate support appears to be at 0.68930, followed by the 0.6890 level, while the resistance at 0.68940 is the key level to watch. A break above this could open the door to higher resistance zones. Short-term traders may focus on a range-bound strategy, taking advantage of small fluctuations within these levels until a clearer trend emerges."
+    }
+  }
+}
