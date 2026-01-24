@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-01-24T06:43:17.554Z",
+  "price": {
+    "close": "0.59493",
+    "high": "0.59496",
+    "low": "0.59489",
+    "open": "0.59491",
+    "change": "0.01",
+    "datetime": "2026-01-24 17:00:00"
+  },
+  "indicators": {
+    "rsi": 72.87982,
+    "macd": 0.0012057319,
+    "macd_signal": 0.0012745942,
+    "sma20": 0.5936765
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[当前维持窄幅震荡，短期走势不明朗]",
+      "content": "当前纽元/美元（NZD/USD）价格为0.59493，24小时变动幅度仅为0.01%，显示出市场的低波动性。短期来看，价格处于震荡区间内，未能形成明确的上涨或下跌趋势。需要注意的是，当前没有RSI和MACD的详细数据，影响了我们对动能的进一步判断。\n\n从技术指标来看，20日简单移动平均线（SMA(20)）位于0.5937附近，略微倾向看涨。这一水平为支撑位，若价格跌破该支撑，可能会出现更大的下行风险。然而，由于波动幅度较小，目前难以确定趋势强度。\n\n对于支撑和阻力的判断，目前0.59489和0.59496构成价格区间的上下界限。突破上行可能遇到更大的阻力位于0.5955，而下行支撑位则可能在0.5935附近。突破任何一方都可能推动短期趋势形成。\n\n建议交易者在当前环境中采取观望策略，待价格突破区间后再做进一步决策。若价格向上突破，可考虑适量买入；若价格下行突破，则可能会有短期的卖出机会。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently trading at 0.59493, showing minimal movement over the past 24 hours with a slight change of 0.01%. This stability suggests a consolidating market, as the price remains within a narrow range between the daily high of 0.59496 and low of 0.59489. The market is likely in a neutral state at this point, with no significant directional bias, but it could be preparing for a breakout or reversal depending on upcoming catalyst events.\n\nThe SMA(20) at 0.59367650 serves as a key short-term support level for NZD/USD. If the price maintains this level, it could indicate that the bulls are attempting to hold the pair above this threshold, potentially setting the stage for an upward move. However, a break below this level could suggest further downside potential, with the next support likely around 0.5930. Traders should monitor any shift in momentum near this zone, as it may determine the next move.\n\nThe MACD value of 0.0012 is positive, but without a clear signal line or RSI value, the momentum is hard to gauge. The lack of confirmation from these indicators means caution is advised, as traders are still waiting for a clearer indication of market direction. The absence of strong overbought or oversold conditions adds to the uncertainty, and market participants should be alert to external factors that may influence the pair’s behavior in the coming sessions.\n\nGiven the current market structure, traders may consider waiting for a clearer breakout above 0.5950 or a breakdown below 0.5935 before taking positions. A rise above the 0.5950 resistance level could offer an entry point for a potential bullish move, while a breakdown below 0.5935 might trigger a bearish outlook. Maintaining a neutral stance until further confirmation is prudent to avoid unnecessary risks."
+    }
+  }
+}

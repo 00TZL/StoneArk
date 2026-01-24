@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-01-24T06:40:45.610Z",
+  "price": {
+    "close": "155.69286",
+    "high": "156.23298",
+    "low": "155.60218",
+    "open": "155.69451",
+    "change": "-0.00",
+    "datetime": "2026-01-24 17:00:00"
+  },
+  "indicators": {
+    "rsi": 15.70373,
+    "macd": -0.66222977,
+    "macd_signal": -0.66127887,
+    "sma20": 156.48583
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：目前维持震荡整理格局",
+      "content": "当前美元/日元（USD/JPY）价格为155.69286，整体处于震荡整理的状态。从技术角度来看，价格接近156.23的近期高点，短期内似乎面临一定的阻力。由于24小时变化为0%，市场情绪较为平稳，暂无明显趋势出现。\n\n在技术指标方面，MACD为-0.6622，表明短期内卖盘压力较大，虽然信号线数据缺失，但该数值表明空头仍占主导。SMA（20）为156.48583，显示短期均线处于下行压力区，可能限制价格上行空间。\n\n支撑位方面，155.60附近可以视作强支撑，若价格下破此水平，可能加剧下行压力，甚至触及更低水平。至于阻力位，156.23则为重要的压力点，若突破此位，价格有可能进一步上探更高水平。\n\n交易建议：当前市场呈现整理模式，建议投资者保持观望，等待突破确认。若价格突破156.23，可以考虑做多；若跌破155.60，则可寻找做空机会。保持灵活性，谨慎操作。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently trading at 155.69286, showing a negligible change of -0.00% in the past 24 hours. Over this period, the pair has fluctuated between a high of 156.23298 and a low of 155.60218, indicating a relatively narrow trading range. The current price is slightly below the 20-period simple moving average (SMA) of 156.48583, suggesting that the trend is weakly bearish in the short term. If the price moves lower, it could test key support levels around 155.60 and 155.50. \n\nThe MACD reading of -0.66222977 suggests that bearish momentum is in play, though the lack of a signal line reading limits further interpretation. The negative MACD indicates that there is potential for further downside if momentum continues to favor sellers. Traders should monitor the price closely as it approaches the 155.60 support level, as a break below could pave the way for a deeper pullback toward 155.00, an area that could act as a more significant support.\n\nFrom a broader perspective, resistance is evident near the recent high of 156.23. A strong push above this level could signal a reversal or shift in momentum toward the upside. Traders may look for potential bullish entries above 156.23, with the next significant resistance target at 156.50. However, until the price breaches this resistance zone, the pair remains trapped within a narrow range, indicating the potential for a continuation of the current consolidation pattern.\n\nIn terms of trading strategy, a cautious approach is recommended. A break below the support levels of 155.60-155.50 could provide shorting opportunities, with targets at 155.00. Conversely, if the pair rises above 156.23, traders could consider buying, targeting the next resistance near 156.50. It is crucial to wait for clear price action confirmation before taking any significant positions."
+    }
+  }
+}

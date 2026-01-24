@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-01-24T06:44:46.969Z",
+  "price": {
+    "close": "4982.52416",
+    "high": "4982.63154",
+    "low": "4982.34717",
+    "open": "4982.41457",
+    "change": "0.00",
+    "datetime": "2026-01-24 17:00:00"
+  },
+  "indicators": {
+    "rsi": 66.44046,
+    "macd": 16.022226,
+    "macd_signal": 18.53205,
+    "sma20": 4970.56558
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理，短期关注区间突破]",
+      "content": "当前黄金/美元价格在4982.52附近，表现出明显的震荡整理行情。近期价格波动较小，呈现出高点4982.63与低点4982.35之间的窄幅区间。由于缺少明显的方向性，市场暂时处于观望状态，等待进一步的市场动向。\n\n从技术指标上看，RSI(14)数据缺失，无法判断超买或超卖情况；MACD值为16.02，表明市场存在一定的买盘动能，但信号线未提供更多的方向性暗示。SMA(20)位于4970.57附近，呈现出轻微的上行趋势，显示市场的中短期情绪略偏向多头。\n\n支撑位和阻力位的关键位置分别位于4970.57（SMA支撑）和4982.63（前高阻力）。若突破上方阻力位，黄金可能延续上涨走势，但如果下破支撑位，可能会面临下行风险。短期内，价格维持在区间内震荡整理，突破方向将决定未来的市场趋势。\n\n交易建议方面，建议投资者在当前区间内采取观望策略，等待价格突破4982.63上方或4970.57下方的关键点位，选择相应方向的交易。风险控制需严谨，避免在震荡行情中过度追单。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The market for XAU/USD is currently at a relatively stable level with minimal change over the last 24 hours, reflecting a lack of major movement or volatility. The price has been hovering just above the 4982 mark, staying within a narrow range between the high of 4982.63 and the low of 4982.35. This indicates indecision in the market, with neither the bulls nor bears able to assert control. In such conditions, traders may consider waiting for a breakout in either direction to confirm the next move.\n\nThe 20-period simple moving average (SMA) is at 4970.57, which is slightly below the current price, suggesting a mildly bullish bias in the short term. However, the lack of clear momentum indicators, such as a definitive RSI or MACD signal, makes it difficult to assess the strength of this trend. Traders should monitor any shifts in price behavior relative to this SMA level for clues on potential direction. A move above the recent highs could confirm continued upward momentum, while a breakdown below the SMA may signal a potential retracement.\n\nThe absence of a precise RSI reading means there is no clear overbought or oversold condition, leaving the market neutral from a momentum standpoint. The MACD value of 16.02 could indicate the presence of some bullish momentum, but the lack of a signal line means confirmation is lacking. As such, caution is advised until further data points emerge. Traders should look for confirmation of trend direction before committing to larger positions.\n\nSupport is likely around the 4982.35 level, which marks the low of the current range. A solid test and bounce from this support could offer buying opportunities. Conversely, resistance sits near the high of 4982.63, with a break above this level potentially signaling further gains. For now, conservative traders might prefer a wait-and-see approach, looking for a breakout or a pullback to more established levels before entering a trade."
+    }
+  }
+}

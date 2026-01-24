@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-01-24T06:39:58.393Z",
+  "price": {
+    "close": "1.36479",
+    "high": "1.36487",
+    "low": "1.36479",
+    "open": "1.3648",
+    "change": "-0.00",
+    "datetime": "2026-01-24 17:00:00"
+  },
+  "indicators": {
+    "rsi": 83.40597,
+    "macd": 0.0037400195,
+    "macd_signal": 0.0039062886,
+    "sma20": 1.36105
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[震荡整理，关注突破信号]",
+      "content": "目前英镑/美元（GBP/USD）维持在1.36479附近，整体表现平稳。尽管价格波动极小（24小时变化为0.00%），但市场仍然保持着震荡整理的格局。从当前的高低点来看，价格在短期内未表现出明确的趋势，表明市场缺乏方向性。\n\n从技术指标来看，RSI和MACD的缺失数据使得短期动能的分析受到限制，但SMA(20)显示出价格轻微偏向上行的趋势（1.36105）。如果价格突破当前1.36487的高点，可能会开启新的上行趋势。而若下行跌破1.36105的支撑位，则有可能测试更低的支撑水平。\n\n支撑位和阻力位的关键关注点为1.36105和1.36487。当前价格接近阻力区，可能需要等待价格突破才能确定后续走势。如果价格突破1.36487上行，可以考虑轻仓做多，目标指向1.3700附近；若跌破1.36105支撑，则需谨慎操作，并考虑做空。\n\n综合来看，市场处于整理状态，建议密切关注价格突破的信号，避免盲目追单。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD market shows a tight trading range around 1.36479, with no significant change over the past 24 hours. This stagnation suggests a lack of strong momentum in either direction. The price is currently hovering near the intraday high of 1.36487, which may act as a short-term resistance level. Given the narrow price action, the market could be in a consolidation phase, waiting for a breakout or a clearer catalyst.\n\nThe Relative Strength Index (RSI) is not available, but the MACD value at 0.0037 indicates a slight bullish bias, though it lacks strength due to the absence of a clear signal line crossover. The absence of a confirmed trend may indicate that traders are waiting for more data or a shift in market sentiment. With the MACD still close to zero, there’s insufficient momentum to suggest any sustained price movement in either direction at this moment.\n\nLooking at the 20-period simple moving average (SMA), which sits at 1.36105, it provides a key support level for the market. If the price moves downward, this SMA can act as a foundation for potential reversal or continuation. Should the price break below this level, the next potential support could be near the 1.36000 zone, a round psychological level that could provide further stability for buyers.\n\nFor traders, caution is advised given the lack of momentum and clear signals. A breakout above 1.36487 could offer an opportunity for a bullish move, but confirmation through increased volume or an RSI signal would be ideal. On the flip side, if the price moves below the SMA and the 1.36105 support, a bearish trend could take hold, targeting lower levels."
+    }
+  }
+}
