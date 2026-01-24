@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-01-24T13:38:40.114Z",
+  "price": {
+    "close": "0.59484",
+    "high": "0.59494",
+    "low": "0.5948",
+    "open": "0.59492",
+    "change": "-0.01",
+    "datetime": "2026-01-25 00:00:00"
+  },
+  "indicators": {
+    "rsi": 70.55984,
+    "macd": 0.00081558823,
+    "macd_signal": 0.001005374,
+    "sma20": 0.5947895
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：震荡整理，短期维持区间波动",
+      "content": "当前纽元/美元（NZD/USD）表现出震荡整理的走势，价格保持在0.5948附近窄幅波动。从技术角度来看，市场缺乏明显的上升或下降动能，因此短期内可能会在一定区间内震荡整理。当前价格接近短期20日简单移动平均线（SMA），显示出一定的均衡状态。\n\n虽然目前RSI(14)数据缺失，但MACD指标显示出微弱的正值0.00081558823，表明短期内买方可能略占优势。然而，鉴于MACD的信号线尚不可用，因此不能仅凭此指标判断强烈的趋势变化。价格的高点与低点紧密相邻，表明市场尚未做出明确方向性突破。\n\n支撑位方面，0.5948附近是当前的关键支撑位，若价格跌破该位置，可能会加速下行至更低的价位。上方的阻力位则位于0.59494，若价格突破该水平，可能会出现短期上涨动能。由于目前市场缺乏明确的趋势，建议交易者可等待价格突破支撑或阻力位后再进行操作。\n\n总体而言，考虑到当前的市场环境，建议采取观望策略，等待进一步的突破信号再做决策。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently in a narrow range, with a slight negative 24-hour change of -0.01%. This suggests indecisiveness in the market as price movement has been constrained between the high of 0.59494 and the low of 0.5948. Given this tight range, it appears the pair is consolidating near its recent support and resistance levels. The market seems to be waiting for further direction, possibly from upcoming economic data or geopolitical developments.\n\nThe absence of RSI data makes it challenging to analyze overbought or oversold conditions, but the MACD value at 0.0008 indicates a neutral momentum at present. With no signal line available, it's difficult to draw clear conclusions on momentum shifts. Additionally, the 20-period simple moving average (SMA) is at 0.59478950, which is very close to the current price. This suggests that the market is holding a balance between bullish and bearish forces, with price not deviating significantly from the average.\n\nSupport for NZD/USD is likely to be found at the lower boundary of the recent range near 0.5948, while resistance may appear near 0.5950. A breakout beyond these levels could trigger more significant movement. If the price rises above 0.5950, the next potential resistance zone could be around 0.5955. On the downside, a break below 0.5948 may lead to further downside pressure, possibly targeting the 0.5940 region.\n\nGiven the current market conditions, traders may consider a range-bound strategy, buying near support at 0.5948 and selling near resistance at 0.5950. However, traders should remain cautious, as low volatility suggests a lack of clear trend direction. Watch for any new developments that could drive a breakout or spark more directional movement in the coming sessions."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-01-24T13:40:09.685Z",
+  "price": {
+    "close": "4982.38964",
+    "high": "4982.64402",
+    "low": "4982.35974",
+    "open": "4982.42698",
+    "change": "-0.00",
+    "datetime": "2026-01-25 00:00:00"
+  },
+  "indicators": {
+    "rsi": 66.24068,
+    "macd": 10.48435,
+    "macd_signal": 13.44358,
+    "sma20": 4981.80274
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理，等待突破]",
+      "content": "当前黄金/美元(XAU/USD)价格表现出震荡整理的走势，最新价格为4982.39。近期价格波动幅度较小，且未突破前期高点或低点，显示市场处于观望状态。短期内，价格可能维持在当前区间内震荡整理，直到出现新的技术信号或基本面驱动。\n\n从技术指标来看，目前RSI(14)和MACD信号不明显，因此很难通过这些指标判断市场的超买或超卖状态。20日简单移动平均线(SMA)处于4981.80附近，显示出价格在短期内有一定的支撑作用。若价格下行接近SMA支撑位，可能会吸引买盘介入。\n\n支撑位和阻力位方面，当前低点4982.36和高点4982.64构成短期区间边界。突破上方阻力位有可能推动价格向更高水平运行，而下行突破支撑位可能会导致价格进一步回落。因此，关键在于价格能否突破这些技术水平，进一步确认趋势方向。\n\n基于当前震荡局面，建议交易者采取区间交易策略，耐心等待价格突破上方或下方的关键技术位。若突破，建议采取顺势交易；若未突破，可考虑在区间内进行短线操作。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD pair is currently exhibiting a neutral market sentiment, with minimal movement observed over the past 24 hours, holding steady at $4982.39. The price action remains within a tight range between $4982.64 (high) and $4982.36 (low), signaling a period of consolidation. Traders should note that such price action often precedes a breakout or breakdown. As of now, there is no clear directional bias, suggesting market indecisiveness.\n\nFrom a trend perspective, the pair appears to be in a sideways channel, trading near the short-term moving average (SMA 20) of $4981.80, which indicates the market's lack of strong momentum. This equilibrium suggests potential for a breakout in either direction, dependent on broader market catalysts. The absence of significant trends could be due to a lack of major economic news or geopolitical developments, which typically influence gold prices. \n\nIn terms of technical indicators, the RSI (14) remains unavailable, making it difficult to assess overbought or oversold conditions. The MACD reading of 10.48, while above zero, lacks a signal line comparison, thus limiting the ability to draw conclusions on momentum or possible trend shifts. However, traders should be vigilant for any changes in the MACD's behavior as it could provide early signs of a trend reversal or continuation once additional data becomes available.\n\nKey support is found near the low of $4982.36, while resistance can be anticipated around the high of $4982.64. A break below the support level could signal a move towards the next lower support, while a break above resistance may trigger a short-term rally. Given the current lack of clear direction, it is advisable for traders to wait for a confirmed breakout before entering positions, with tight stop losses in place to manage risk."
+    }
+  }
+}

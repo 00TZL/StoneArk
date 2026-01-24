@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-01-24T13:36:28.979Z",
+  "price": {
+    "close": "155.71644",
+    "high": "155.72017",
+    "low": "155.70441",
+    "open": "155.7065",
+    "change": "0.00",
+    "datetime": "2026-01-25 00:00:00"
+  },
+  "indicators": {
+    "rsi": 17.54566,
+    "macd": -0.45608153,
+    "macd_signal": -0.5494024,
+    "sma20": 155.73456
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：当前区间震荡，待突破方向",
+      "content": "当前美元/日元价格维持在155.71附近，整体呈现震荡整理格局。由于没有明显的突破或下跌趋势，短期内该货币对可能继续在当前区间内波动。技术面来看，价格处于20日简单移动平均线(SMA)附近，表明短期内市场缺乏明确的方向性。\n\n从MACD指标来看，目前的值为-0.456，表明市场可能处于弱势状态，但由于信号线数据缺失，未能确认是否会出现反弹。RSI指标未提供，因此难以确认市场的超买或超卖状态。若RSI数据可用，可能有助于进一步分析市场的动能。\n\n支撑位和阻力位方面，当前低点155.70和高点155.72构成短期内的支撑和阻力区间，突破这些关键价位可能会带来更强的波动。如果价格突破155.72上方，可能会测试156.00或更高水平；反之，若跌破155.70支撑，可能会向155.50靠近。\n\n建议投资者在当前震荡区间内可考虑观望，待价格突破上述关键价位后再采取相应交易策略。如果突破上行，可以考虑做多，而突破下行则适合做空。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently trading at 155.71644, marking a stable 24-hour change of 0.00%. The price is consolidating within a narrow range between the recent high of 155.72017 and low of 155.70441, indicating market indecision. This price action suggests a neutral trend in the short term, where neither bulls nor bears are gaining dominance. If the pair can break above the 155.72 resistance level, there could be an opportunity for an upward push towards 155.80, while a drop below 155.70 may signal a potential pullback toward 155.60.\n\nThe lack of available RSI data makes it challenging to assess the overbought or oversold conditions, which would typically provide insight into potential price reversals. The MACD currently stands at -0.456, reflecting a slight bearish momentum, but without a clear signal line, the market's direction remains uncertain. The absence of a clear divergence or cross indicates that traders may want to wait for more definitive signals before making a move. A crossing above zero could be a signal of potential bullishness, while further negative momentum would reinforce the current bearish bias.\n\nThe 20-period Simple Moving Average (SMA) at 155.73456 is slightly above the current price, adding a bearish tilt to the market sentiment. This SMA can act as a dynamic resistance level, with price action potentially struggling to break above it. A decisive close above the SMA could change the outlook to neutral or even bullish, especially if supported by additional bullish indicators. Traders may look for a break above this moving average for confirmation of an upward move.\n\nGiven the current technical structure, traders might consider waiting for either a clear break above 155.72 or a drop below 155.70 for confirmation before taking a position. Risk-averse traders could focus on scalping within the range, while those with a higher risk tolerance could aim for larger moves depending on the breakout direction. Patience and careful monitoring of momentum indicators are essential in this consolidation phase."
+    }
+  }
+}

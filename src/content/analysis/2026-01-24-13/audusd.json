@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-01-24T13:37:13.583Z",
+  "price": {
+    "close": "0.68926",
+    "high": "0.68945",
+    "low": "0.68907",
+    "open": "0.68941",
+    "change": "-0.02",
+    "datetime": "2026-01-25 00:00:00"
+  },
+  "indicators": {
+    "rsi": 70.6456,
+    "macd": 0.00090040113,
+    "macd_signal": 0.0011360695,
+    "sma20": 0.689252
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，等待方向突破]",
+      "content": "目前，澳元/美元（AUD/USD）价格维持在0.68926附近，日内波动较小，只有-0.02%的微幅变化。当前价格接近20日简单移动平均线（SMA20）的水平，这意味着市场暂时处于震荡整理区间，缺乏明确的上行或下行趋势。\n\n从技术指标来看，MACD显示出轻微的正值，表明短期内有些许上涨动能，但由于缺乏RSI和信号线的完整数据，无法做出更精确的动向预测。市场目前处于一个较为中性的状态，投资者应警惕突破的风险。\n\n在支撑/阻力位方面，当前价格的支撑位在0.68907附近，而阻力位则在0.68945附近。若价格突破这两个关键点位，可能会加速当前震荡区间的突破，带来更大的波动空间。\n\n基于目前的市场表现，建议投资者在接近支撑位时寻求买入机会，而在接近阻力位时考虑卖出或设置止盈。若价格突破当前区间，短期内可能会有较大的价格波动，投资者应保持灵活的交易策略。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar (AUD) against the US Dollar (USD) is currently trading at 0.68926, maintaining a relatively neutral stance with a slight 24-hour decline of -0.02%. Over the past 24 hours, price action has remained within a narrow range, fluctuating between a high of 0.68945 and a low of 0.68907. This limited range suggests consolidation, indicating indecision in the market. The flat price action points to a potential buildup of momentum that could resolve either upwards or downwards in the coming sessions.\n\nWith the RSI not available, analyzing momentum indicators such as the MACD reveals a small positive value of 0.00090040113. This indicates a very mild bullish pressure, though the absence of a signal line comparison makes it difficult to interpret significant strength. The price is near the 20-period SMA (0.689252), which acts as a dynamic support/resistance level. This moving average's proximity to the current price suggests a balancing point, with price movements likely to remain confined to this area unless a decisive breakout occurs.\n\nIn terms of support and resistance, the immediate support is around the recent low of 0.68907, while resistance lies just above at 0.68945. These levels are crucial as they define the short-term boundaries of the market. A breakout above 0.68945 could pave the way for further upside towards the next resistance, while a break below 0.68907 would likely trigger additional selling pressure, testing lower levels.\n\nFor traders, it is recommended to adopt a cautious approach until a clearer trend emerges. Given the current consolidation phase, short-term scalping opportunities could be considered within the 0.68907-0.68945 range. However, a breakout from this zone should prompt a reevaluation of positions for a more definitive trade setup."
+    }
+  }
+}

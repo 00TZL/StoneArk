@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-01-24T13:34:54.767Z",
+  "price": {
+    "close": "1.18225",
+    "high": "1.1824",
+    "low": "1.18215",
+    "open": "1.18235",
+    "change": "-0.01",
+    "datetime": "2026-01-25 00:00:00"
+  },
+  "indicators": {
+    "rsi": 74.93081,
+    "macd": 0.0014755215,
+    "macd_signal": 0.0017918906,
+    "sma20": 1.1822
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[震荡整理，短期趋势偏弱]",
+      "content": "当前欧元/美元价格在1.18225附近波动，全天变化幅度微弱，仅为-0.01%。市场处于震荡整理状态，未能显示出明显的方向性。结合短期内的高点和低点（1.1824 / 1.18215），价格的波动幅度较小，表明市场暂时缺乏明确的走势动能。\n\n技术指标方面，MACD当前值为0.0014755215，显示出微弱的上涨动能，但由于缺乏信号线的配合，仍不能确认趋势转向。此外，20日简单移动平均线(SMA)处于1.18220附近，价格略微高于其水平，短期内可能对价格形成一定的支撑。\n\n在支撑位方面，1.18215附近可能是关键支撑区域，一旦跌破该位置，价格有可能进一步下探至1.1810附近。而在阻力位方面，1.1824附近将成为短期内的重要压力位，突破此处可能会引发短线的反弹。\n\n建议交易者在当前震荡区间内采取区间交易策略，关注支撑与阻力的突破情况，避免追高追空。若价格突破关键支撑或阻力，可以考虑相应的止损点进行操作。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently trading at 1.18225, reflecting a relatively stable market with minimal fluctuation in the last 24 hours. The price has been confined within a narrow range of 1.1824 and 1.18215, indicating a lack of significant volatility. In the short term, this suggests the pair is in a consolidation phase, where neither the bulls nor bears have managed to dominate. If this sideways movement persists, traders should expect further consolidation or a potential breakout if the price breaches the current boundaries.\n\nFrom an indicator perspective, the MACD shows a slight positive value at 0.0014755215, suggesting a mild bullish momentum. However, without a clear signal line or an RSI reading, the momentum lacks confirmation. This indicates that, while there is some upward pressure, it's not sufficiently strong to confirm a definitive trend reversal. Traders should be cautious, as the absence of additional indicators leaves the market vulnerable to sudden shifts based on upcoming news or macroeconomic events.\n\nSupport for the EUR/USD currently stands around 1.18215, just below the present price level, providing a solid base for the pair. If this level is breached, the next support could be found at the psychological level of 1.1800. On the resistance side, the high of 1.1824 could act as an immediate barrier, followed by 1.1850, where the pair could encounter more significant selling pressure. A break above this resistance level may signal a return to bullish momentum.\n\nIn terms of trading strategy, the current range-bound nature suggests a cautious approach. Traders could consider employing range trading strategies, looking for opportunities to buy near support and sell near resistance. However, a breakout above 1.1824 or below 1.18215 would trigger a reassessment of the market, potentially leading to stronger directional moves. Given the current lack of clear trend direction, it's essential to stay flexible and monitor key levels for confirmation of future price action."
+    }
+  }
+}

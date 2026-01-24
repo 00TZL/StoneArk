@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-01-24T13:35:42.396Z",
+  "price": {
+    "close": "1.36446",
+    "high": "1.36465",
+    "low": "1.36437",
+    "open": "1.36459",
+    "change": "-0.01",
+    "datetime": "2026-01-25 00:00:00"
+  },
+  "indicators": {
+    "rsi": 78.35158,
+    "macd": 0.0025159858,
+    "macd_signal": 0.0031099434,
+    "sma20": 1.36436
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[震荡整理，短期偏向震荡调整]",
+      "content": "目前英镑/美元(GBP/USD)呈现震荡整理的走势，价格稳定在1.36446附近，24小时内变化不大，波动区间较为狭窄。短期内市场缺乏强烈的方向性动能，主要维持在1.36465和1.36437之间的小幅波动。当前市场尚未出现明显的突破信号，可能仍需等待更有力的市场驱动因素。\n\n技术指标方面，RSI和MACD尚未提供足够的超买或超卖信号，说明市场情绪处于平稳状态。SMA(20)位于当前价格附近，进一步确认了当前区间整理的情况。MACD数值接近零轴，显示出市场趋势不明显。若价格突破此整理区间，可能会带来短期方向性的波动。\n\n支撑位主要集中在1.36437，若价格下破此位置，可能会进一步下探至更低的支撑区域。上方则有1.36465附近的阻力位，若突破此水平，价格有可能试探更高的阻力区间。考虑到当前市场的震荡特征，投资者应密切关注这些关键水平。\n\n建议交易者在当前区间内进行高抛低吸操作，保持短期内的震荡交易策略。如若突破关键支撑或阻力位，可以考虑顺势开盘。总体来说，保持灵活应变，避免过早做出方向性预测。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD is currently trading at 1.36446, showing a minimal 24-hour change of -0.01%. The pair has remained range-bound between the high of 1.36465 and low of 1.36437, suggesting a period of consolidation. At this point, the trend appears neutral, with no strong directional bias. The lack of significant movement could indicate that market participants are awaiting more decisive cues, potentially from upcoming economic data or central bank commentary.\n\nFrom an indicator perspective, the lack of a clear RSI value complicates momentum analysis. However, the MACD stands at 0.0025, which is a relatively neutral reading, signaling that the current market momentum is weak. Without the signal line, it is difficult to confirm whether the MACD indicates an impending crossover, but it suggests indecision at this moment. The 20-period Simple Moving Average (SMA) at 1.36436 is very close to the current price, confirming the range-bound nature of the pair and highlighting a lack of short-term trend strength.\n\nKey support for GBP/USD lies around the 1.36437 level, which aligns closely with the daily low and has provided a solid floor in the recent range. If the price breaks below this level, further downside could be targeted at 1.36250, where additional support might emerge. On the upside, resistance is found at the high of 1.36465. A break above this could open the door to a potential test of 1.36700, providing an opportunity for bullish traders.\n\nGiven the lack of clear momentum and trend, it might be best to adopt a range-trading approach for the time being. A short position near resistance could be viable, with tight stop-loss orders to manage risk. Conversely, if price moves toward support, long positions could be considered, with caution around key psychological levels."
+    }
+  }
+}
