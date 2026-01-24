@@ -54,10 +54,6 @@ export default function UnifiedNavbar() {
       link: "/dashboard",
     },
     {
-      name: language === 'zh' ? '日历' : 'Calendar',
-      link: "/economic-calendar",
-    },
-    {
       name: language === 'zh' ? '天梯' : 'Leaderboard',
       link: "/top-traders",
     },

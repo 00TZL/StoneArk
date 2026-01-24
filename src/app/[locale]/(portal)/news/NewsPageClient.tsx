@@ -3,6 +3,7 @@
 import { useState, useEffect, useMemo } from 'react';
 import { useLanguage } from '@/contexts/LanguageContext';
 import LocaleLink from '@/components/navigation/LocaleLink';
+import EconomicCalendarSection from '@/components/custom/EconomicCalendarSection';
 
 interface NewsItem {
   slug: string;
@@ -87,14 +88,25 @@ export default function NewsPageClient({ initialNews }: NewsPageClientProps) {
           </div>
           <h1 className="text-5xl md:text-7xl font-bold mb-6">
             <span className="font-black">
-              {isZh ? '外汇新闻' : 'Forex News'}
+              {isZh ? '财经日历 & 外汇新闻' : 'Economic Calendar & Forex News'}
             </span>
           </h1>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed">
             {isZh
-              ? '每日更新全球外汇市场最新动态，助您把握交易机会'
-              : 'Daily updates on global forex market news to help you seize trading opportunities'}
+              ? '实时经济事件追踪 · 每日更新全球外汇市场最新动态'\n              : 'Real-Time Economic Events · Daily Global Forex Market Updates'}
           </p>
+        </div>
+      </div>
+
+      {/* Economic Calendar Section */}
+      <EconomicCalendarSection language={language} />
+
+      {/* News Section Header */}
+      <div className="bg-white dark:bg-gray-900 border-b-2 border-gray-200 dark:border-gray-800 pt-12">
+        <div className="max-w-7xl mx-auto px-6">
+          <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-4">
+            {isZh ? '外汇新闻' : 'Forex News'}
+          </h2>
         </div>
       </div>
 

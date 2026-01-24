@@ -3,6 +3,7 @@ import fs from 'fs';
 import path from 'path';
 
 const DATA_FILE = path.join(process.cwd(), 'data', 'community-posts.json');
+const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || 'admin123'; // 设置管理员密码
 
 // 确保数据目录存在
 function ensureDataDirectory() {
@@ -12,7 +13,7 @@ function ensureDataDirectory() {
   }
 }
 
-// GET - 获取所有帖子
+// GET - 获取所有帖子（按精选和点赞数排序）
 export async function GET() {
   try {
     ensureDataDirectory();
@@ -22,7 +23,14 @@ export async function GET() {
     }
 
     const data = fs.readFileSync(DATA_FILE, 'utf-8');
-    const posts = JSON.parse(data);
+    let posts = JSON.parse(data);
+
+    // 排序：精选帖子在最上面，然后按点赞数排序
+    posts.sort((a: any, b: any) => {
+      if (a.featured && !b.featured) return -1;
+      if (!a.featured && b.featured) return 1;
+      return (b.likes || 0) - (a.likes || 0);
+    });
 
     return NextResponse.json({ posts });
   } catch (error) {
@@ -112,6 +120,107 @@ export async function PUT(request: Request) {
     console.error('Error updating post:', error);
     return NextResponse.json(
       { error: 'Failed to update post' },
+      { status: 500 }
+    );
+  }
+}
+
+// DELETE - 删除帖子（仅管理员）
+export async function DELETE(request: Request) {
+  try {
+    ensureDataDirectory();
+
+    const { id, password } = await request.json();
+
+    // 验证管理员密码
+    if (password !== ADMIN_PASSWORD) {
+      return NextResponse.json(
+        { error: 'Unauthorized - Invalid admin password' },
+        { status: 401 }
+      );
+    }
+
+    if (!fs.existsSync(DATA_FILE)) {
+      return NextResponse.json(
+        { error: 'No posts found' },
+        { status: 404 }
+      );
+    }
+
+    const data = fs.readFileSync(DATA_FILE, 'utf-8');
+    let posts = JSON.parse(data);
+
+    // 删除指定帖子
+    const originalLength = posts.length;
+    posts = posts.filter((post: any) => post.id !== id);
+
+    if (posts.length === originalLength) {
+      return NextResponse.json(
+        { error: 'Post not found' },
+        { status: 404 }
+      );
+    }
+
+    fs.writeFileSync(DATA_FILE, JSON.stringify(posts, null, 2));
+
+    return NextResponse.json({ success: true, message: 'Post deleted successfully' });
+  } catch (error) {
+    console.error('Error deleting post:', error);
+    return NextResponse.json(
+      { error: 'Failed to delete post' },
+      { status: 500 }
+    );
+  }
+}
+
+// PATCH - 切换精选状态（仅管理员）
+export async function PATCH(request: Request) {
+  try {
+    ensureDataDirectory();
+
+    const { id, featured, password } = await request.json();
+
+    // 验证管理员密码
+    if (password !== ADMIN_PASSWORD) {
+      return NextResponse.json(
+        { error: 'Unauthorized - Invalid admin password' },
+        { status: 401 }
+      );
+    }
+
+    if (!fs.existsSync(DATA_FILE)) {
+      return NextResponse.json(
+        { error: 'No posts found' },
+        { status: 404 }
+      );
+    }
+
+    const data = fs.readFileSync(DATA_FILE, 'utf-8');
+    let posts = JSON.parse(data);
+
+    let postFound = false;
+    posts = posts.map((post: any) => {
+      if (post.id === id) {
+        postFound = true;
+        return { ...post, featured: featured ?? false };
+      }
+      return post;
+    });
+
+    if (!postFound) {
+      return NextResponse.json(
+        { error: 'Post not found' },
+        { status: 404 }
+      );
+    }
+
+    fs.writeFileSync(DATA_FILE, JSON.stringify(posts, null, 2));
+
+    return NextResponse.json({ success: true, message: 'Post featured status updated' });
+  } catch (error) {
+    console.error('Error updating featured status:', error);
+    return NextResponse.json(
+      { error: 'Failed to update featured status' },
       { status: 500 }
     );
   }

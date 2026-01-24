@@ -1,0 +1,46 @@
+name: Auto Cleanup Community Posts
+
+on:
+  schedule:
+    # 每月1号北京时间凌晨2点运行（UTC 18:00 前一天）
+    - cron: '0 18 L * *'
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  cleanup-posts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Cleanup old community posts
+        run: node scripts/cleanup-community-posts.js
+
+      - name: Commit and push if changes
+        run: |
+          git config --global user.name 'C-L-STARK'
+          git config --global user.email 'x.stark.dylan@gmail.com'
+
+          # Check if there are changes
+          git add data/community-posts.json
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            # Pull latest changes before committing
+            git stash
+            git pull --rebase
+            git stash pop || true
+
+            # Add changes again after pull
+            git add data/community-posts.json
+            git commit -m "chore: Auto-cleanup old community posts $(date +'%Y-%m-%d')"
+            git push
+          fi
