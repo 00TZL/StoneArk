@@ -81,8 +81,8 @@ export default function MarketAnalysisClient({ analyses, language }: MarketAnaly
             </h1>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed mb-8">
               {isZh
-                ? '每 90 分钟自动更新 · 8 大主流货币对 · 专业技术指标分析'
-                : 'Auto-Updated Every 90 Minutes · 8 Major Pairs · Professional Technical Analysis'}
+                ? '每日自动更新 · 8 大主流货币对 · 专业技术指标分析'
+                : 'Daily Auto-Update · 8 Major Pairs · Professional Technical Analysis'}
             </p>
 
             {/* 更新时间 */}
