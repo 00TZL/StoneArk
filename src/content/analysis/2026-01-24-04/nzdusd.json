@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-01-24T04:43:11.839Z",
+  "price": {
+    "close": "0.5949",
+    "high": "0.59493",
+    "low": "0.59489",
+    "open": "0.5949",
+    "change": "0.00",
+    "datetime": "2026-01-24 15:00:00"
+  },
+  "indicators": {
+    "rsi": 72.67989,
+    "macd": 0.0013055304,
+    "macd_signal": 0.0013006976,
+    "sma20": 0.5931735
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理，短期走势偏平]",
+      "content": "当前纽元/美元价格稳定在0.5949附近，24小时内几乎没有波动。短期内，汇价在0.59493和0.59489之间震荡整理，显示出市场的观望情绪。虽然价格波动较小，但这种盘整状态可能是价格蓄势待发的信号。\n\n技术指标方面，RSI(14)暂无数据，无法提供超买或超卖的强烈信号。MACD指标的值为0.0013，显示出价格变化的动能较弱，且由于信号线数据缺失，无法进一步确认趋势的强弱。20期简单移动平均线（SMA）位于0.59317，作为短期支撑位有效。\n\n从支撑与阻力角度来看，当前价格接近短期支撑位0.5940附近，若价格跌破此位，可能会向0.5930附近寻找进一步支撑。上方的阻力位约在0.5955至0.5960之间，突破该区域可能会推动价格进一步上涨。\n\n鉴于目前的震荡格局，短期内建议保持观望，等待价格突破支撑或阻力位时再做决策。如果价格突破0.5960，则可能考虑逢高做多；若跌破0.5930，则可考虑做空。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently trading at 0.5949, showing minimal movement with a 24-hour change of 0.00%. The pair's price has been confined within a narrow range, between 0.59493 and 0.59489, indicating low volatility. This consolidation phase suggests market indecision, as neither buyers nor sellers are exerting strong influence at the moment. The price remains just above the 20-period simple moving average (SMA) of 0.5931735, which could serve as a potential support level should the market attempt a downward move.\n\nWithout the availability of the RSI (14), momentum is difficult to assess fully, but the MACD value of 0.0013055304 indicates a slight bullish bias, albeit without a confirmed trend reversal. The absence of a MACD signal line makes the indicator less reliable in this case, leaving the price action as the primary tool for forecasting potential movements. Traders should be cautious of this lack of clear momentum, as it heightens the risk of false breakouts in either direction.\n\nIn terms of support and resistance, the immediate level of support appears to be near the 0.5930-0.5932 region, corresponding to the SMA (20). A break below this area could prompt further downside pressure toward the next key support level at 0.5900. On the upside, resistance is seen at the recent high of 0.59493, with any strong move above this level potentially targeting 0.5970, which would represent a significant shift in market sentiment.\n\nGiven the current market conditions, a cautious approach is advisable. Traders should monitor for any breakout above 0.59493 or below the 0.5930 region, as these levels could signal the next major price movement. A range-bound strategy could also be employed, waiting for price to either confirm a breakout or rebound off support levels before entering new positions."
+    }
+  }
+}

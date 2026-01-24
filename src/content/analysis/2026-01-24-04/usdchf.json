@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-01-24T04:43:53.096Z",
+  "price": {
+    "close": "0.7814",
+    "high": "0.78149",
+    "low": "0.78118",
+    "open": "0.78145",
+    "change": "-0.01",
+    "datetime": "2026-01-24 15:00:00"
+  },
+  "indicators": {
+    "rsi": 23.12826,
+    "macd": -0.0025456651,
+    "macd_signal": -0.0023538499,
+    "sma20": 0.785216
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[短期震荡整理，关注突破信号]",
+      "content": "当前美元/瑞郎（USD/CHF）价格为0.7814，近期处于震荡整理阶段。价格在0.78118至0.78149区间内波动，表明市场缺乏明确的趋势方向。从24小时变化来看，价格略微下跌，显示出当前买卖力量平衡，但整体波动较小。\n\nMACD指标显示负值（-0.0025），但信号线数据缺失，暂时无法进一步确认趋势强弱。由于RSI(14)数据未提供，暂时无法通过超买或超卖判断市场情绪。20日简单移动平均线(SMA)为0.7852，当前价格低于该均线，可能暗示短期内价格有进一步下行压力。\n\n技术面上，0.7811附近构成短期支撑，而0.7815-0.7820区域则是近期的阻力区。如果价格突破上行并站稳0.7820以上，可能会迎来反弹行情。相反，若跌破0.7811支撑，则可能加剧下行风险，需警惕价格进一步下探。\n\n交易建议方面，建议投资者在0.7811附近寻找支撑做多，但需留意突破0.7820的信号；若跌破0.7811，则可考虑适当做空。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently exhibiting a narrow trading range, with the price hovering around 0.7814. Over the last 24 hours, the pair has shown minimal movement, with a slight decrease of 0.01%. This lack of volatility suggests a consolidation phase, where the market is waiting for a catalyst to spark a directional move. The price remains just above the recent low of 0.78118, indicating a potential short-term support level. If the price continues to respect this level, we may see a mild bounce back toward the 0.7852 SMA.\n\nThe MACD reading at -0.0025 indicates that the market is currently in a slight bearish bias, as the histogram remains negative. However, with the absence of a clear signal line, this indicator does not provide a strong directional signal at the moment. This lack of clear momentum calls for caution in trading, as the market could easily revert or maintain its current range-bound nature. Traders should watch for either a potential crossover or a move above 0.7852 for confirmation of a shift in momentum.\n\nSupport is identified at 0.78118, a level that has held firm throughout the day. If the price breaks below this support, we could see further declines towards the 0.7800 region. On the upside, 0.7852, which is the 20-period SMA, acts as immediate resistance. A breakout above this level could open the door for a stronger move toward 0.7880 or higher. Monitoring price action near these levels will be crucial for determining the next major move.\n\nGiven the current market conditions, a range-bound trading strategy may be appropriate. A short position near resistance at 0.7852 with a target at 0.78118 could be effective. Alternatively, a break above resistance might warrant a long entry, targeting the next resistance level around 0.7880. Traders should remain patient and wait for clearer signals from price action or technical indicators before committing to larger trades."
+    }
+  }
+}

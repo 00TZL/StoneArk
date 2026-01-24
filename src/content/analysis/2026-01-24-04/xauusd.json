@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-01-24T04:44:33.818Z",
+  "price": {
+    "close": "4982.50774",
+    "high": "4982.6267",
+    "low": "4982.34077",
+    "open": "4982.41116",
+    "change": "0.00",
+    "datetime": "2026-01-24 15:00:00"
+  },
+  "indicators": {
+    "rsi": 66.42514,
+    "macd": 17.75747,
+    "macd_signal": 19.72904,
+    "sma20": 4964.72252
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理，短期可能保持区间波动]",
+      "content": "当前XAU/USD价格处于4982.50附近，显示出震荡整理的走势。高点和低点相差较小，表明市场在一定区间内未形成明显的突破。考虑到当前价格稳定在20日SMA(4964.72)上方，短期内可能维持这种区间波动的格局。\n\n技术指标方面，MACD指标的数值为17.76，尽管未提供完整的信号线数据，但此数值表明当前市场依然存在一定的买盘动能。RSI(14)未提供，无法进一步确认是否存在超买或超卖的风险，但从价格走势来看，市场情绪较为平稳。\n\n支撑位方面，4964.72的20日SMA可能为短期支撑水平，一旦跌破，可能会向下寻找更强的支撑位。上方的压力位在4982.63附近，若突破此价位，可能会引发进一步上涨的动能，测试更高价格。\n\n交易建议方面，建议在当前区间内采取短线交易策略。可在接近支撑位时考虑买入，接近阻力位时考虑卖出。但要注意，市场情绪可能随时发生变化，突破当前区间后要灵活调整策略。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD pair is currently trading at 4982.50774, showing a neutral market sentiment with a 24-hour price change of 0%. Price action remains tightly bound between a high of 4982.6267 and a low of 4982.34077, indicating a period of consolidation. This flat movement suggests that the market is awaiting a catalyst to break either to the upside or downside. The lack of significant movement and a neutral trend should be watched closely for any indications of a breakout.\n\nThe absence of the RSI (14) and the unavailability of a signal line for the MACD make it difficult to assess the momentum with traditional tools. However, the MACD value of 17.75747 points to potential bullish bias, though it is not sufficient alone to suggest a strong upward trend. This absence of confirmation signals highlights the need for caution in making trades, as the market could be in a corrective phase or waiting for clearer direction.\n\nSupport is found near the 4964.72252 level, which corresponds closely with the 20-period simple moving average (SMA). If prices begin to approach this level, it could act as a strong support, and a bounce here could offer a buying opportunity. On the resistance side, any sustained break above the recent high of 4982.6267 might open the door for a test of higher levels. Traders should monitor these levels for potential opportunities.\n\nGiven the market's lack of volatility and mixed indicators, it would be prudent for traders to wait for a decisive break of the established range. A move beyond the current high or low could provide clearer signals, especially if supported by a shift in the RSI or a cross of the MACD signal line. For now, any trades should consider tight risk management and a focus on short-term fluctuations."
+    }
+  }
+}

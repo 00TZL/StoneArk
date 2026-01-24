@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-01-24T04:41:46.722Z",
+  "price": {
+    "close": "0.68931",
+    "high": "0.68939",
+    "low": "0.68929",
+    "open": "0.6893",
+    "change": "0.00",
+    "datetime": "2026-01-24 15:00:00"
+  },
+  "indicators": {
+    "rsi": 74.074996,
+    "macd": 0.0014987673,
+    "macd_signal": 0.0015950871,
+    "sma20": 0.6877965
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理区间，短期趋于稳定]",
+      "content": "当前澳元/美元在0.6893附近震荡整理，短期内波动较小，市场呈现横盘走势。价格没有显著突破上行或下行区域，说明市场缺乏明确的趋势方向，投资者应关注短期内是否出现更强的动能。\n\n从技术指标来看，虽然RSI(14)数据暂时不可用，但MACD指标显示出轻微的多头信号，当前值为0.0015。价格未出现明显的趋势，因此可视为整理阶段，且未见明显的超买或超卖信号。SMA(20)线在0.6878附近，提供一定的支撑。\n\n支撑位方面，0.6892一线为当前价格的重要支撑区域，若跌破此位可能会考验更低的支撑区间。阻力位则位于0.6894附近，一旦突破该位置，可能会带来短期上行的机会。\n\n基于当前技术形态，建议保持观望，并在突破支撑或阻力时考虑进场。对于短期交易者，区间操作可能是较好的选择，而对于长期投资者，宜等待更明确的趋势信号再作决策。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently trading near the 0.6893 level, displaying minimal 24-hour movement. Given the tight price range between the day’s high of 0.68939 and low of 0.68929, the market shows signs of consolidation. The lack of significant movement suggests indecision among traders. The price is hovering just above the 20-period Simple Moving Average (SMA), which is at 0.6878, signaling that short-term market sentiment is somewhat neutral. Any strong breakout from this range could trigger larger price movements.\n\nThe Relative Strength Index (RSI) is currently unavailable, which limits the ability to analyze the market's momentum and potential overbought or oversold conditions. However, the MACD value is at 0.0015, showing a very slight bullish bias. Although the MACD line is positive, the lack of a clear Signal line makes it difficult to draw any definitive conclusions regarding trend strength or potential reversals. Traders should monitor for any change in momentum, as a crossover of the MACD above the Signal line would suggest strengthening bullish pressure.\n\nThe immediate support level appears to be near 0.6878, where the 20-period SMA is located. A breakdown below this level would expose the next support zone around 0.6850. On the resistance side, a significant level is seen at 0.6900, which would need to be broken for further bullish movements. If the price pushes above 0.6900, it could signal a shift towards a more sustained upward trend. Traders could look for buying opportunities near support, with caution if the price tests resistance.\n\nGiven the current market dynamics, a neutral-to-bullish bias seems appropriate, but confirmation through a break above the 0.6900 resistance level would be crucial. Until then, range-bound trading near the 0.6893 level remains likely. Active traders might consider scalping within this range, while longer-term traders should wait for a clearer breakout to align with the broader trend."
+    }
+  }
+}

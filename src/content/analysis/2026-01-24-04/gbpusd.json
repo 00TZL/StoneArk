@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-01-24T04:40:20.292Z",
+  "price": {
+    "close": "1.36483",
+    "high": "1.36487",
+    "low": "1.36479",
+    "open": "1.36481",
+    "change": "0.00",
+    "datetime": "2026-01-24 15:00:00"
+  },
+  "indicators": {
+    "rsi": 83.46461,
+    "macd": 0.0040446292,
+    "macd_signal": 0.0039612141,
+    "sma20": 1.35985
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[震荡整理，关注突破]",
+      "content": "当前英镑/美元（GBP/USD）价格稳定在1.36483附近，显示出震荡整理的走势。过去24小时内，价格波动极小，区间在1.36479到1.36487之间，显示出市场暂时缺乏明确的方向。此时，市场参与者需要保持警惕，关注可能的突破。\n\n从技术指标来看，RSI（14）目前无数据，无法直接判断是否存在超买或超卖信号。MACD值为0.0040，表明市场处于平稳状态，但未显示出强烈的买入或卖出信号。20日简单移动平均线（SMA）位于1.35985，暗示短期内价格可能会回测此位置支撑。\n\n支撑位方面，1.36479为当前的短期支撑，若价格跌破此水平，则可能会向1.35985靠近，测试更强的支撑位。阻力位则在1.36487附近，若价格突破此水平，可能会向1.3700区域靠近。\n\n考虑到当前市场震荡整理，建议投资者采取谨慎策略。可在支撑位附近寻找短期买入机会，若价格突破阻力位，可考虑适量跟进多头头寸。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently consolidating within a narrow range, with a price of 1.36483 near the daily high of 1.36487. Given the tight trading range between the high of 1.36487 and the low of 1.36479, the market is showing indecision and lack of clear momentum. This suggests that a breakout from this range could determine the next directional move. Traders should closely monitor any significant breakouts above 1.3650 or below 1.3645 to assess the next potential trend.\n\nWithout available RSI data, it is challenging to gauge the current overbought or oversold conditions, but the MACD value of 0.0040 indicates that momentum is still slightly positive. The absence of a defined signal line makes it difficult to draw any significant conclusions from the MACD at this moment, but a potential crossover could provide further direction. However, the 20-period simple moving average at 1.35985 is acting as a dynamic support, and a test of this level could be a key point to watch for potential long entries.\n\nSupport levels are likely found at 1.3645 and 1.3600, with the SMA(20) providing additional support near 1.35985. On the resistance side, 1.3650 and any breakout above it would expose further upside potential, potentially targeting 1.3670 or 1.3700. If the price fails to breach these resistance levels, we may see further consolidation or a downward retracement. \n\nIn terms of trading strategy, a breakout above 1.3650 could present a long opportunity, especially if the MACD shows bullish divergence or a confirmed crossover. Alternatively, a breakdown below 1.3645 could signal a short position, with a stop just above 1.3650. Traders should be cautious given the range-bound nature of the current market and wait for confirmation before taking positions."
+    }
+  }
+}
