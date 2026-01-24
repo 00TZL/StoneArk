@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-01-24T18:39:04.178Z",
+  "price": {
+    "close": "156.0845",
+    "high": "156.88189",
+    "low": "155.70529",
+    "open": "155.97375",
+    "change": "0.07",
+    "datetime": "2026-01-25 05:00:00"
+  },
+  "indicators": {
+    "rsi": 46.72376,
+    "macd": -0.28199288,
+    "macd_signal": -0.41312565,
+    "sma20": 155.73238
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理，等待突破]",
+      "content": "当前美元/日元处于震荡整理区间，价格在156.08附近波动。近期高点接近156.88，而低点则在155.71附近，市场缺乏明显的方向性突破。虽然价格保持在这个区间内，但仍存在可能的突破压力。\n\n技术指标方面，RSI和MACD的缺失使得短期趋势判断存在一定不确定性。但从SMA(20)来看，当前价格略高于20日简单移动平均线，表明近期趋势偏向多头。若价格持续维持在SMA之上，可能会为后市上涨提供支撑。\n\n支撑位在155.71附近，这一水平曾多次形成支撑，若价格跌破此位，可能会进一步下探至更低区域。阻力位则在156.88附近，突破此水平有可能加速上涨，进一步向157.50或更高价位进发。\n\n因此，建议投资者在156.08附近保持观望，等待价格突破当前区间。一旦突破156.88，则可以考虑逢低做多；若跌破155.71，则可考虑做空。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently trading near 156.0845, reflecting a relatively stable market with a modest 24-hour change of +0.07%. This suggests a consolidation phase, with the price action hovering near recent highs. The market shows a clear uptrend from the low of 155.70529, supported by the SMA(20) at 155.73238. This indicates that the short-term trend remains bullish, as the price is comfortably above the moving average, which often acts as a support in an uptrend.\n\nLooking at the MACD value of -0.28199288, we notice that it is negative, signaling a potential bearish divergence. While the MACD alone does not suggest a strong trend reversal, it does indicate that upward momentum may be weakening. The absence of the Signal line makes this interpretation tentative, but traders should remain cautious if the MACD begins to cross toward zero, which would be a clearer signal of a slowdown or reversal in momentum.\n\nThe resistance level is evident at 156.88189, the recent high, while 155.70529 serves as the support base, forming a range between these two levels. A break above 156.88189 could see the pair targeting higher levels, potentially reaching the psychological resistance of 157. However, a failure to maintain support at 155.70529 may expose a deeper pullback, with the SMA(20) acting as the first major support to watch. \n\nGiven the current technical picture, traders might consider buying on a pullback toward the 155.70 area, looking for confirmation through a rebound or price action reversal. Conversely, if the price moves decisively above 156.88, a breakout strategy targeting 157 could be worth exploring. Tight stop losses near 155.70 can help manage risk in case of an unexpected retracement."
+    }
+  }
+}

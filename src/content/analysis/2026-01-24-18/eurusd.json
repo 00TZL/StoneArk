@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-01-24T18:37:37.565Z",
+  "price": {
+    "close": "1.18232",
+    "high": "1.18249",
+    "low": "1.18229",
+    "open": "1.18244",
+    "change": "-0.01",
+    "datetime": "2026-01-25 05:00:00"
+  },
+  "indicators": {
+    "rsi": 71.60361,
+    "macd": 0.0010830843,
+    "macd_signal": 0.0013972946,
+    "sma20": 1.18237
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[震荡整理，突破可期]",
+      "content": "当前欧元/美元（EUR/USD）价格略微偏弱，处于1.18230附近，全天波动幅度较小，表现出一定的整理态势。虽然24小时内价格变化为负，但幅度有限，市场未见明显的趋势性突破。综合来看，当前市场情绪偏向谨慎，短期可能维持震荡区间内运行。\n\n从技术指标上看，RSI(14)数据缺失，未能提供明确的超买或超卖信号。MACD指标显示为正值，表明市场仍具一定的买盘动力，但未显现强势买入信号。20日简单移动平均线（SMA）位于1.18237，基本上与当前市场价持平，表明价格整体稳定，未出现明显的多头或空头趋势。\n\n支撑位方面，价格在1.18229附近得到一定支撑，若跌破此位，可能会向下测试更低水平。上方的阻力位则在1.18249附近，突破此位置可能为后市上行提供动力。整体来看，若价格突破阻力位，可能会迎来短期上涨趋势，反之则有可能回落至支撑位。\n\n建议在当前区间内采取观望策略，避免过度交易。若价格突破上方阻力，可以考虑做多，反之可考虑适时做空。短期内市场走势仍以震荡整理为主，需密切关注突破信号。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently trading in a tight range around 1.18232, showing minimal 24-hour movement at -0.01%. This suggests that market participants are awaiting further directional cues. The price is hovering close to its 20-period simple moving average (SMA) of 1.18237, indicating consolidation. The lack of significant price movement points to indecision in the market. A breakout above the high of 1.18249 or below the low of 1.18229 could trigger a move in either direction.\n\nIn terms of indicators, the Relative Strength Index (RSI) and MACD are not providing immediate guidance. The absence of an RSI reading means no overbought or oversold conditions can be assessed at this moment. The MACD value is currently at 0.0010830843, which indicates that the pair is neither in a strong bullish nor bearish phase, as the signal line is unavailable for comparison. Traders should monitor for potential crossovers or shifts in momentum for clearer direction.\n\nKey support for EUR/USD lies at the 1.18229 level, which has held firm in the recent low, while resistance can be found near the high of 1.18249. A break below support could open the door for a move toward the next level at 1.18000, whereas a push above resistance might lead to a test of 1.18500. Traders may consider a breakout strategy with tight stop-loss orders to manage risk.\n\nGiven the current lack of momentum and mixed signals from technical indicators, cautious trading is advisable. Traders should wait for a confirmed breakout to enter positions, with potential for either a short-term rally or pullback depending on market sentiment."
+    }
+  }
+}

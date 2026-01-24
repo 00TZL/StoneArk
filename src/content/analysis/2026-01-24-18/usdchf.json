@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-01-24T18:41:55.532Z",
+  "price": {
+    "close": "0.78175",
+    "high": "0.78376",
+    "low": "0.78137",
+    "open": "0.78137",
+    "change": "0.05",
+    "datetime": "2026-01-25 05:00:00"
+  },
+  "indicators": {
+    "rsi": 39.73679,
+    "macd": -0.0012532882,
+    "macd_signal": -0.0016161109,
+    "sma20": 0.781189
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：震荡整理，短期看稳",
+      "content": "目前，美元/瑞郎呈现震荡整理走势，价格徘徊于0.78137到0.78376区间内。短期内，市场缺乏明显的趋势方向，价格波动较小，未见突破关键支撑和阻力位。因此，短期内可能继续保持震荡模式。\n\n技术指标方面，RSI和MACD暂时无法提供有效的买卖信号。MACD处于负值区间，显示出一定的下行压力，但未达到强烈的卖出信号。SMA(20)略微支撑价格，表明当前价格略高于其20日均线，短期内可能维持在这一水平附近。\n\n支撑位位于0.78137，而阻力位则接近0.78376。如果价格突破0.78376，可能会进一步测试上方0.7850的阻力区间；如果跌破0.78137，则可能继续向下试探0.7800区域。短期内，价格可能会在这些区间内震荡。\n\n基于当前市场情况，建议保持观望，除非出现突破性走势。若价格突破阻力位，可考虑小幅多单操作；若价格跌破支撑位，可考虑空单策略。但在当前震荡区间内，不宜过于激进。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently hovering around 0.78175, reflecting a modest 24-hour change of 0.05%. This slight movement suggests a consolidating market, with little direction established. The price has been contained within a narrow range, from the high of 0.78376 to the low of 0.78137. The market's overall tone indicates a balance between buyers and sellers, as neither side has managed to establish a clear dominance. Given the price's tight trading range, the market could be preparing for a breakout or a continuation of its current range-bound movement.\n\nLooking at the short-term trend, the pair is trading slightly above the 20-period simple moving average (SMA) of 0.78119, suggesting a neutral to slightly bullish bias. The price is positioned just above the moving average, indicating a modest upside potential. However, the lack of a significant RSI reading and an unclear MACD signal limits the current analysis, as these indicators would typically help confirm momentum and strength. The absence of a clear trend makes it essential for traders to monitor price action closely for any potential reversal or breakout signals.\n\nKey support is seen at 0.78137, with the low of the day providing a solid foundation for the pair. A drop below this level could expose further downside potential, targeting the next major support near 0.78000. Conversely, resistance is seen at the recent high of 0.78376, and any move past this level would open the door for a test of the next resistance at 0.78500. Traders should pay attention to price action near these key levels for potential breakout or reversal opportunities.\n\nConsidering the current market conditions, a cautious approach is recommended. Traders might look for a breakout above 0.78376 to confirm a bullish move, targeting higher resistance levels. Alternatively, a reversal near the support at 0.78137 could provide a short-term buying opportunity. Overall, waiting for a clearer signal in the form of a breakout or strong trend confirmation is advised before committing to larger positions."
+    }
+  }
+}

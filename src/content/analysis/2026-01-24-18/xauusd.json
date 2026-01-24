@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-01-24T18:42:40.017Z",
+  "price": {
+    "close": "4982.40611",
+    "high": "4982.64401",
+    "low": "4982.35937",
+    "open": "4982.42698",
+    "change": "-0.00",
+    "datetime": "2026-01-25 05:00:00"
+  },
+  "indicators": {
+    "rsi": 66.17147,
+    "macd": 7.46203,
+    "macd_signal": 10.024536,
+    "sma20": 4982.45942
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：震荡整理，待突破方向",
+      "content": "当前黄金/美元(XAU/USD)价格维持在4982.4附近，呈现出震荡整理的格局。过去24小时价格变化几乎为零，显示市场暂时缺乏明确的方向性。短期来看，价格在4982.3与4982.6区间内波动，未能突破当前区间边界，市场犹豫不决。\n\n技术指标方面，RSI(14)未提供，缺乏明确的超买或超卖信号。MACD值为7.46，未出现明显的背离或交叉，显示市场力量较为平衡。20日简单移动平均(SMA)为4982.46，价格略高于该水平，表明短期趋势可能偏向上行，但仍需等待更强的突破信号。\n\n支撑位方面，4982.35附近为短期支撑，若价格下破该点，可能会寻找更低的支撑区域。阻力位则在4982.64，突破该水平可能会引发一波上涨行情。投资者应密切关注这些关键价位的突破，决定下一步的交易策略。\n\n建议上，当前市场处于震荡区间内，短期内可选择区间交易策略，在支撑位附近做多，接近阻力位时做空。但若突破关键价位，则可考虑顺势跟进，以期捕捉更大的价格波动。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD market is currently hovering just above the 4982.40 level, showing little movement in the past 24 hours. This lack of significant price action suggests consolidation or indecision among traders. The price is very close to the 20-period SMA at 4982.46, indicating that the market is neutral in the short term. With no major upward or downward momentum, traders might expect the market to continue within a tight range unless a catalyst emerges. A close below the 4982.36 level could signal a potential bearish move, while a break above 4982.64 might trigger bullish sentiment.\n\nThe MACD value of 7.46 without a clear signal line makes it difficult to derive a strong directional bias. The absence of a defined RSI (14) further complicates the technical analysis, as there are no clear signs of overbought or oversold conditions. Traders should monitor the market for any future shifts in momentum, as the current indicators suggest that a clear trend is not established. A confirmed MACD crossover or a rise in RSI would offer stronger confirmation of any upcoming price action.\n\nSupport and resistance levels are key to understanding price boundaries for XAU/USD. Support lies near the 4982.36 level, which has acted as a floor recently, while resistance stands just above at 4982.64. A break below 4982.36 could open up a deeper move toward the next support zone. Conversely, a breakout above 4982.64 could lead to a retest of higher resistance levels. Traders could look for a break and close beyond either of these levels to initiate a more significant trade.\n\nFor now, the market’s lack of volatility makes it a potentially safer environment for range-bound strategies. Traders should wait for a confirmation of either support or resistance being breached, along with further signals from the MACD or RSI, before taking larger positions. A conservative approach with smaller trade sizes may be prudent until the market shows clearer directional intent."
+    }
+  }
+}

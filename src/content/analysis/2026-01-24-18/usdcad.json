@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-01-24T18:40:27.107Z",
+  "price": {
+    "close": "1.37211",
+    "high": "1.37273",
+    "low": "1.3721",
+    "open": "1.37229",
+    "change": "-0.01",
+    "datetime": "2026-01-25 05:00:00"
+  },
+  "indicators": {
+    "rsi": 50.72156,
+    "macd": -0.00051172454,
+    "macd_signal": -0.0010439349,
+    "sma20": 1.37075
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理，短期偏向上行]",
+      "content": "目前美元/加元的价格在1.37211附近波动，24小时内变化幅度较小，仅为-0.01%。从近期的价格走势来看，美元/加元正处于震荡整理的区间内，短期内可能出现小幅回调后再度向上反弹的可能性较大。\n\n技术指标方面，当前RSI(14)暂无数据，无法判断超买超卖状态。MACD值为-0.0005117，表明当前的动能较弱，市场多空力量相对平衡。SMA(20)位于1.37075，价格略微高于该均线，显示出一定的支撑力度。\n\n在支撑和阻力方面，当前的低点为1.3721，可能为短期支撑位。如果跌破此位置，价格可能测试1.3700附近的更强支撑。上方的阻力位则位于1.3727，一旦突破该位置，可能会进一步上涨。\n\n综合来看，美元/加元目前处于震荡整理中，短期内可能在1.3721至1.3727之间波动。建议短线交易者关注支撑和阻力的突破，若价格突破上方阻力，可以考虑做多；若跌破支撑位，则可考虑短空操作。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently showing a tight range between 1.37273 and 1.3721, reflecting relatively stable market conditions with minimal price movement. This range-bound behavior suggests that the market is consolidating after a recent period of moderate volatility. Given the lack of significant trend movement, traders should remain cautious about entering long or short positions without confirmation from further technical indicators. A break above the high at 1.37273 could signal a potential bullish move, while a drop below 1.3721 might indicate further downside pressure.\n\nThe absence of a clear trend is also reflected in the MACD, which is in negative territory at -0.00051172454, though the signal line is not yet defined. This indicates weak bearish momentum, but there is no strong indication of a decisive downward trend. Similarly, the RSI(14) is unavailable, leaving a gap in momentum analysis. Traders should monitor for any MACD crossovers or RSI readings to determine the strength of any emerging trends. Currently, the market is in a neutral state, suggesting a more cautious approach.\n\nThe key support level for the pair lies at 1.3721, with resistance just above at 1.37273. These levels are crucial for traders to watch, as a break of either could provide a clearer directional signal. If the price moves towards support and fails to break it, a potential reversal toward the resistance level may be seen. Conversely, if the resistance level is broken, further gains could be expected, potentially targeting higher levels near 1.3750. \n\nIn terms of trading strategy, short-term traders may consider taking advantage of the range-bound nature of the market, looking to sell near resistance and buy near support. However, a wait-and-see approach may be prudent until clearer directional signals emerge, particularly from the MACD or any significant price action."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-01-24T18:38:22.023Z",
+  "price": {
+    "close": "1.36313",
+    "high": "1.3638",
+    "low": "1.36198",
+    "open": "1.36348",
+    "change": "-0.03",
+    "datetime": "2026-01-25 05:00:00"
+  },
+  "indicators": {
+    "rsi": 59.055612,
+    "macd": 0.0015754955,
+    "macd_signal": 0.0022898533,
+    "sma20": 1.36454
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[震荡整理中，短期看多]",
+      "content": "当前，英镑/美元价格位于1.36313附近，表现出震荡整理的格局。从技术面看，价格仍维持在20日简单移动平均线(SMA)附近，未明显突破或回落，这暗示市场处于相对平衡的状态。短期内，市场可能在这一区域内波动。\n\n尽管RSI(14)数据缺失，但从MACD指标来看，0.0015754955的值显示出微弱的买方动力，未见明显的卖压。MACD值小幅偏高，表明市场尚未出现明确的空头信号，短期内可能仍有上行空间。\n\n支撑位位于1.36198附近，而1.3638则形成了短期阻力。若价格突破1.3645，可能会进一步上行至1.3680或更高。若跌破支撑位1.36198，则可能下探1.3600附近支撑。\n\n建议投资者在当前价格附近采取观望策略，耐心等待价格突破重要支撑或阻力位时再做出交易决策。短期看，突破1.3645可考虑轻仓多单操作，但止损不宜过远。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The British Pound (GBP) against the US Dollar (USD) is currently trading at 1.36313, showing a minor decline of 0.03% over the past 24 hours. This slight pullback is happening within a tight range between 1.36198 and 1.3638, indicating low volatility. The market is consolidating, with no clear trend direction emerging at this point. The price is currently close to its short-term moving average of 1.36454, which suggests some level of support at this level. However, there is no significant momentum to push the price further in either direction.\n\nThe RSI(14) data is unavailable, making it challenging to assess overbought or oversold conditions. However, the MACD shows a value of 0.0016, indicating very minimal bullish momentum. This suggests that while the GBP/USD pair has a slight positive bias, the overall momentum is weak. Given the lack of substantial movement in price or clear directional momentum from the MACD, the market is likely to remain range-bound in the short term, fluctuating between key levels.\n\nKey support lies at 1.36198, the lower bound of the recent range. A break below this level could open the door for further downside, potentially targeting 1.3580 as the next major support level. On the upside, resistance is found at 1.3638, and any push above this resistance could target the 1.3650-1.3670 range. For now, traders should be cautious of false breakouts and wait for a more definitive trend to form.\n\nGiven the current market conditions, a range-bound trading strategy seems most appropriate. If price touches the support at 1.36198, a bounce could offer a potential buying opportunity towards the resistance at 1.3638. On the flip side, a break below the support level would suggest further downside risk. Traders should monitor any signs of increased volatility for clearer trading signals."
+    }
+  }
+}
