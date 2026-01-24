@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-01-24T14:28:58.464Z",
+  "price": {
+    "close": "1.37196",
+    "high": "1.37199",
+    "low": "1.37148",
+    "open": "1.37154",
+    "change": "0.03",
+    "datetime": "2026-01-25 01:00:00"
+  },
+  "indicators": {
+    "rsi": 49.23588,
+    "macd": -0.0010758016,
+    "macd_signal": -0.0015924658,
+    "sma20": 1.37039
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理，关注突破机会]",
+      "content": "当前美元/加元的价格表现处于震荡整理状态，价格在1.37148和1.37199之间波动，未能出现明显的趋势突破。尽管价格保持在较窄的区间内，但这可能预示着后市将迎来方向性的选择。\n\n从技术指标来看，当前的MACD处于负值区域，表明短期内卖盘力量略强，但由于未出现明显的信号线交叉，因此市场并未完全失去买盘支持。SMA(20)位于1.37039附近，价格略高于这一水平，意味着短期内依旧有支撑力量，若价格跌破此水平，可能会加剧下行压力。\n\n支撑位主要集中在1.37148附近，而上方的阻力位则在1.37199附近。突破这些关键点位，将可能触发更大的波动，建议投资者密切关注价格的突破行为，特别是持续向上突破1.3720时，可能会为多头提供机会。\n\n基于当前的市场表现，建议投资者在价格突破区间上下限时进行相应的交易，尤其是等待1.3720附近的突破信号。对于保守型投资者，可以选择在区间震荡内进行短期交易，避免市场剧烈波动时带来的风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently showing a slight bullish bias, as it trades at 1.37196, with a minimal 24-hour change of 0.03%. The price has recently ranged between 1.37199 (high) and 1.37148 (low), indicating a relatively tight trading range. This suggests limited volatility at present, which could reflect a consolidation phase or market indecision. The market may be waiting for more significant economic data or events to drive price action decisively.\n\nThe absence of RSI and the MACD signal complicates a deeper momentum analysis. However, the negative MACD value (-0.0010758016) implies a slight bearish pressure in the short term, though the lack of an active signal prevents any clear directional trend. The SMA(20) stands at 1.37039, providing a key reference for traders. If price remains above this moving average, it could be considered a sign of stability or support. A break below the SMA may prompt further downside testing, especially if the market reacts negatively to upcoming fundamentals.\n\nSupport is seen at the recent low of 1.37148, with potential downside risk towards 1.37039, aligning with the SMA(20). On the upside, resistance is near the high of 1.37199. A breakout above this level could open the door for a test of higher levels, depending on broader market sentiment. Traders should watch for any shifts in price action, particularly around these levels, as they could signal a shift in trend.\n\nGiven the current market conditions, a cautious approach is recommended. A break above the high could lead to short-term bullish momentum, while failure to hold above the SMA(20) may prompt a downside move. With the absence of strong momentum indicators, trading in tight ranges might be more prudent, waiting for clearer direction or catalyst-driven moves."
+    }
+  }
+}

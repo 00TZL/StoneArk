@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-01-24T14:30:34.820Z",
+  "price": {
+    "close": "0.78065",
+    "high": "0.7807",
+    "low": "0.78062",
+    "open": "0.78067",
+    "change": "-0.00",
+    "datetime": "2026-01-25 01:00:00"
+  },
+  "indicators": {
+    "rsi": 21.25599,
+    "macd": -0.0016464101,
+    "macd_signal": -0.001908355,
+    "sma20": 0.7812225
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[震荡整理，短期无明显趋势]",
+      "content": "当前美元/瑞郎（USD/CHF）维持在0.7806附近波动，显示出短期内市场缺乏明确的趋势。价格几乎在高点0.7807和低点0.78062之间震荡整理，表明市场观望情绪较重，投资者对未来走势持谨慎态度。考虑到目前缺乏明显的动能，市场可能会继续处于区间震荡状态。\n\n从技术指标来看，RSI（14）缺失数据，无法提供明确的超买或超卖信号。而MACD的负值（-0.0016464101）暗示短期内可能存在一定的卖压，但由于信号线数据缺失，无法做出更加准确的方向判断。SMA(20)位于0.7812附近，表明近期的短期均线仍保持微弱的下行压力，但并没有显示出强烈的趋势反转信号。\n\n在支撑和阻力方面，当前的支撑位可参考0.7806-0.7805区域，而阻力位则在0.7812附近，突破该点可能会触发价格向上运行。若价格未能突破这些关键点位，可能会继续震荡整理。投资者可以关注市场是否出现突破信号，适时调整交易策略。\n\n综合来看，由于目前市场缺乏动能且处于震荡整理状态，建议保持观望，直到出现更明确的趋势信号。如果价格突破阻力位0.7812，则可以考虑短期多头操作；若跌破支撑位0.7805，则可能会迎来下行风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair has been trading in a narrow range with a slight bearish tilt, reflecting a minor daily change of -0.00%. The current price of 0.78065 is hovering just above the lower end of the recent range, with a high of 0.7807 and a low of 0.78062. Given the lack of substantial movement, the market appears to be consolidating at these levels. This suggests that traders are awaiting more direction, possibly from upcoming economic data or geopolitical events.\n\nThe absence of an RSI(14) reading and a MACD signal indicates that the market is in a neutral phase, lacking a clear momentum direction. The MACD value at -0.0016 further underscores this lack of momentum, indicating that there is no strong buy or sell signal in play at the moment. Traders may want to avoid taking large positions until a clearer trend or signal emerges. However, the market's tight trading range could offer short-term opportunities for scalpers, especially if price breaks either the upper or lower bounds of this consolidation.\n\nLooking at the SMA(20) of 0.78122, we see that the price is slightly below this moving average, reinforcing the bearish sentiment in the very short term. The SMA(20) can act as a dynamic resistance level, and if price struggles to break above it, this could reinforce a continued downward bias. However, a breakout above this level could signal a potential reversal, leading to a retest of recent highs. \n\nKey support levels are at 0.7806 and 0.7805, while resistance is found around the 0.7812 area, close to the SMA(20). Traders may consider short positions near resistance with tight stop-loss orders, while watching for breakouts or breakdowns from these levels to identify more substantial price movements."
+    }
+  }
+}

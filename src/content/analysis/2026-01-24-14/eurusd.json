@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-01-24T14:26:02.508Z",
+  "price": {
+    "close": "1.18237",
+    "high": "1.18244",
+    "low": "1.18231",
+    "open": "1.18232",
+    "change": "0.00",
+    "datetime": "2026-01-25 01:00:00"
+  },
+  "indicators": {
+    "rsi": 76.17172,
+    "macd": 0.0013935521,
+    "macd_signal": 0.0017128611,
+    "sma20": 1.18235
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：震荡偏强",
+      "content": "从当前价格运行区间看，汇价围绕20日均线小幅波动，短线动能有限，整体处于高位窄幅整理状态，趋势表现为震荡偏强，多空力量暂时平衡，市场仍在等待新的技术或情绪驱动。\n\n技术指标方面，MACD运行在零轴上方但柱体较小，显示多头占优但动能不足，趋势延续性有待观察。RSI数据暂缺对判断影响有限，均线走平表明短期方向性不强，偏向整理格局。\n\n关键支撑位关注1.18230一线，该位置接近日内低点，若有效跌破，价格可能回测下方区间。上方阻力位位于1.18245至1.18300区域，需放量突破才能确认上行空间打开。\n\n交易策略上建议以区间操作为主，短线高抛低吸为宜。激进交易者可在支撑位附近轻仓尝试做多并严格止损，稳健者则等待有效突破阻力后再顺势跟进。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD is currently consolidating around 1.18237, reflecting a neutral short-term trend marked by extremely tight intraday ranges. Price action is hovering almost exactly on the 20-period simple moving average at 1.18235, suggesting equilibrium between buyers and sellers. The lack of directional follow-through implies a pause after prior movement, with the market awaiting a catalyst before committing to a clearer bullish or bearish structure.\n\nMomentum indicators reinforce this indecisive tone. RSI(14) is unavailable, limiting overbought or oversold assessment, but price behavior itself shows no impulsive momentum. The MACD value remains positive at 0.00139, which modestly favors the upside, yet the absence of a signal line prevents confirmation. This setup points to weak but constructive momentum, where bullish pressure exists but is not strong enough to generate a breakout on its own.\n\nFrom a technical structure perspective, immediate support is clustered near 1.18230–1.18220, aligned with the session low and short-term balance area. A clean break below this zone could expose 1.18100 as the next downside target. On the upside, resistance sits near 1.18245, followed by a more meaningful level around 1.18400. Only a sustained move beyond these levels would shift the current neutral bias.\n\nTrading conditions favor patience and precision. Range-based strategies are more suitable while volatility remains compressed, with short-term longs near support and cautious shorts near resistance. Breakout traders should wait for a decisive close outside the current range, ideally supported by expanding volume or clearer indicator confirmation. Risk management is essential, as low volatility environments can quickly transition into sharp directional moves."
+    }
+  }
+}

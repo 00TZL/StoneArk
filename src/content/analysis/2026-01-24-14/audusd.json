@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-01-24T14:28:16.693Z",
+  "price": {
+    "close": "0.68935",
+    "high": "0.68938",
+    "low": "0.68929",
+    "open": "0.6893",
+    "change": "0.01",
+    "datetime": "2026-01-25 01:00:00"
+  },
+  "indicators": {
+    "rsi": 72.40225,
+    "macd": 0.00084933926,
+    "macd_signal": 0.0010793616,
+    "sma20": 0.6893135
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，暂时缺乏方向]",
+      "content": "当前澳元/美元价格位于0.68935附近，呈现出震荡整理的局面。价格波动非常有限，24小时变化仅为0.01%。由于缺乏明显的突破，市场暂时处于观望状态。日内高点和低点仅相差不到10个点，显示出市场情绪较为谨慎。\n\n从技术指标来看，MACD的值为0.00084933926，但信号线数据缺失，难以提供明确的方向信号。此外，RSI指标暂时不可用，导致我们无法通过其判断超买或超卖的情况。SMA(20)值为0.68931350，与当前价格差距较小，进一步表明短期内市场缺乏明显的趋势。\n\n支撑位和阻力位的关键区间仍然没有明确突破。若价格跌破0.68929附近，可能会寻找下方更强的支撑，反之若突破0.68938，则可能会有一定的上涨动能。短期内，交易者可密切关注这些价位的突破情况，寻求更明确的操作信号。\n\n交易建议方面，建议保持观望，等待价格突破关键支撑或阻力位后再考虑进场。短期内操作上建议以保守为主，避免在震荡市中盲目交易。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar against the US Dollar (AUD/USD) is currently trading around the 0.68935 mark, with minimal volatility observed over the last 24 hours (a change of just 0.01%). The market is experiencing tight price action, indicated by the high and low being nearly identical. This suggests a period of consolidation, with little directional momentum. Traders should be cautious, as this could signal a potential breakout or continuation pattern, depending on further developments.\n\nFrom a trend perspective, the market has been largely sideways, as reflected by the price hovering close to the 20-period simple moving average (SMA), which stands at 0.68931. The SMA is acting as a neutral indicator, showing no clear direction in terms of short-term trends. A breakout above the SMA could indicate a slight bullish bias, while a move below it might signal further downside pressure. The current range is tight, and traders will be looking for price action to break either the upper or lower bounds for clues on the next move.\n\nThe absence of clear overbought or oversold conditions, as indicated by the RSI, and the MACD being relatively neutral suggests a lack of strong momentum. However, the MACD line being positive indicates some underlying bullish momentum, though it's not sufficient to confirm a clear trend reversal. As a result, trading should focus on short-term range-bound strategies, with an eye on any potential breakout or change in sentiment that could push the price in either direction.\n\nSupport levels are located near the 0.68929 low, which could act as the initial point of defense for any bearish moves. A break below this level could open the door for further downside towards the next support zone. Conversely, resistance lies just above at 0.68938, where the price briefly touched the highest point in the last 24 hours. A successful break above this level could lead to further gains, with traders looking for possible upside targets around 0.6900 or beyond."
+    }
+  }
+}

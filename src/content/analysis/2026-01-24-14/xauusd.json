@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-01-24T14:31:17.620Z",
+  "price": {
+    "close": "4982.39013",
+    "high": "4982.64309",
+    "low": "4982.36012",
+    "open": "4982.42698",
+    "change": "-0.00",
+    "datetime": "2026-01-25 01:00:00"
+  },
+  "indicators": {
+    "rsi": 66.21807,
+    "macd": 9.81376,
+    "macd_signal": 12.71949,
+    "sma20": 4982.5869
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理，观望为主]",
+      "content": "当前黄金/美元(XAU/USD)价格稳定在4982附近，短期内呈现震荡整理的态势。价格波动幅度较小，未显示出明显的上涨或下跌动力。当前市场暂无强烈的趋势信号，因此，建议交易者保持观望，等待进一步的价格动作来确认趋势方向。\n\n从技术指标来看，MACD指标显示9.81376，但缺乏信号线数据，难以提供明确的买卖信号。RSI值未提供，无法判断市场是否处于超买或超卖区域。SMA(20)为4982.58690，价格接近这一均线，表明短期内黄金价格可能保持在这一水平附近波动，且没有强烈的买入或卖出信号。\n\n支撑位方面，当前低点4982.36012可能成为近期的支撑区间，而高点4982.64309则形成了短期的阻力。若价格突破上方阻力位，可能会迎来短期的上涨；而下破支撑位则可能导致价格进一步回调。当前价格区间内，建议交易者采用区间震荡交易策略，灵活把握波动。\n\n总体来看，当前黄金市场缺乏明显的趋势，建议交易者耐心等待价格突破关键支撑或阻力位后再做进一步决策。在没有明显信号时，应避免过度交易。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD market currently appears to be in a neutral range, as indicated by the recent price stability. The price has shown minimal fluctuations, with the 24-hour change at 0.00%, reflecting a consolidation phase. The high and low of the day are tightly packed, suggesting a market that is indecisive. Without a clear directional trend, traders should watch for a breakout above the current range at $4982.64 or below $4982.36 for a potential trend continuation.  \n\nThe lack of significant changes in the RSI and the absence of a Signal line in the MACD make it difficult to gauge overbought or oversold conditions. However, the MACD value of 9.81376 suggests a slight bullish momentum. Until further confirmation through a crossover or a clear trend, traders should remain cautious, as the market is exhibiting little volatility and directional strength. The SMA(20) of $4982.59 also reinforces this indecision, sitting near the current price level.\n\nSupport for XAU/USD is likely found at $4982.36, as it represents the intraday low. A break below this level could lead to further downside movement, potentially targeting lower support zones. On the other hand, resistance is seen at $4982.64, where the price failed to sustain above during the current session. A successful break above this resistance would indicate a bullish shift, with targets possibly extending toward higher levels in the short term.\n\nGiven the current market behavior, traders might consider waiting for a breakout in either direction for clearer signals. A buy position could be considered above $4982.64, while a sell position might be warranted below $4982.36. Until the price clearly breaks one of these levels, the market remains range-bound, and any trades should be executed with caution and in smaller positions."
+    }
+  }
+}

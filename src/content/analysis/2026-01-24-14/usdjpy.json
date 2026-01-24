@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-01-24T14:27:33.064Z",
+  "price": {
+    "close": "155.71684",
+    "high": "155.72078",
+    "low": "155.7117",
+    "open": "155.7138",
+    "change": "0.00",
+    "datetime": "2026-01-25 01:00:00"
+  },
+  "indicators": {
+    "rsi": 17.58524,
+    "macd": -0.4276741,
+    "macd_signal": -0.52505891,
+    "sma20": 155.71166
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理，短期震荡区间内波动]",
+      "content": "当前美元/日元（USD/JPY）价格维持在155.71684附近，市场波动幅度较小，24小时变动几乎为零。价格在155.72078和155.7117之间震荡整理，显示出市场当前缺乏强势的趋势性动能。整体来看，短期内价格处于震荡整理阶段，未能形成明确的上涨或下跌趋势。\n\n技术指标方面，当前RSI(14)缺乏数据，因此无法提供超买或超卖的信号。MACD显示负值（-0.4277），表明当前市场略微偏向空头，但信号线未出现，因此暂时难以确认强烈的卖出信号。20期简单移动平均（SMA）在155.71166附近，价格略高于此水平，显示出短期内可能会继续维持震荡整理状态。\n\n支撑位主要集中在155.7117附近，而阻力位则在155.72078附近。若价格突破155.72078，可能会引发短期的上涨，而跌破155.7117则可能加大下行压力。在没有明显的趋势形成之前，价格可能会继续在这个区间内波动。\n\n交易建议方面，建议在155.72078附近寻找卖出机会，止损设在155.7400之上；而在155.7117附近则可考虑逢低买入，止损设在155.7000下方。总体而言，短期内交易者可在震荡区间内操作，保持谨慎。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently in a narrow range, trading at 155.71684 with minimal volatility over the past 24 hours. The market's tight price action suggests consolidation around this level, with the recent high touching 155.72078 and the low at 155.7117. This indicates a lack of momentum, leaving the market in a neutral phase. Given the absence of a clear directional trend, traders should watch for a breakout either above 155.72 or below 155.71 to gauge the next potential move.\n\nOn the technical front, the absence of an RSI reading makes it difficult to assess overbought or oversold conditions directly. However, the MACD is negative at -0.42767410, which suggests bearish momentum. As this indicator shows a weakening downtrend, traders should remain cautious about entering long positions until further confirmation of bullish momentum. Conversely, short positions may still be valid if the pair breaks below the lower end of its current range, especially with the lack of positive divergence on the MACD.\n\nThe 20-period Simple Moving Average (SMA) at 155.71166 is currently acting as a key support level. This moving average aligns closely with the recent low and may offer a level of stability if the price falls towards this point. A bounce off this level could indicate a continuation of the range-bound environment. However, if the pair breaks through this support, the next area of interest would be around 155.70. On the upside, resistance near 155.72 remains a critical level to break for any bullish continuation.\n\nTraders should exercise caution due to the current lack of significant trends. The key levels to watch are 155.71 for support and 155.72 for resistance. Given the neutral indicators and the narrow price range, a breakout beyond these boundaries could provide a clearer direction. Until then, waiting for confirmation through a decisive move would be prudent for traders looking for more substantial risk/reward opportunities."
+    }
+  }
+}

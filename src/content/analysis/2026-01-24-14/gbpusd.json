@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-01-24T14:26:47.224Z",
+  "price": {
+    "close": "1.36441",
+    "high": "1.36446",
+    "low": "1.36437",
+    "open": "1.36441",
+    "change": "0.00",
+    "datetime": "2026-01-25 01:00:00"
+  },
+  "indicators": {
+    "rsi": 77.64363,
+    "macd": 0.0023337304,
+    "macd_signal": 0.0029540626,
+    "sma20": 1.36455
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[震荡整理，短期区间震荡走势]",
+      "content": "目前英镑/美元的价格稳定在1.36441附近，全天变化几乎为零，表明市场情绪较为平静。当前价格接近SMA(20)的水平，显示出短期内价格缺乏明确的方向性，震荡整理的趋势较为明显。\n\n由于RSI和MACD指标缺乏有效的信号，无法提供进一步的趋势确认，因此技术面无法明确指出强势的买入或卖出信号。当前价格在1.36437至1.36446之间的波动区间内维持，可能会继续呈现区间整理形态。\n\n支撑位大致在1.36430附近，若价格下破此水平，可能会导致进一步回调至1.36300区域。阻力位则在1.36455附近，突破该阻力位可能会带来小幅上涨，测试1.36600附近的压力位。\n\n鉴于目前市场震荡，建议短线交易者关注价格在支撑和阻力之间的波动，适当操作区间交易。但对于较长期的投资者，仍需等待更明确的突破信号再做决定。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The current price of GBP/USD is hovering at 1.36441, showing a neutral trend with no significant movement in the past 24 hours. The tight price range of 1.36446 to 1.36437 suggests that the market is in a consolidation phase, waiting for a catalyst to drive price action. This range-bound behavior indicates that traders are uncertain about the next directional move. A breakout above 1.36455 could lead to further bullish momentum, while a drop below 1.36437 might trigger additional downside pressure.\n\nLooking at the RSI and MACD indicators, the lack of available data for the RSI makes it difficult to assess the momentum fully. The MACD at 0.0023 indicates a neutral stance, with no immediate signs of bullish or bearish momentum. The absence of a clear signal suggests that traders should be cautious, avoiding aggressive trades until a clearer trend emerges. If the MACD begins to show divergence, it could offer valuable clues for the next move in the market.\n\nThe 20-period SMA is currently at 1.36455, providing a dynamic resistance level that has proven effective in the past. Should the price approach or break above this level, it could signal a possible bullish trend toward the next resistance zone around 1.3660. Conversely, the support level at 1.36437 is crucial, as a breach below this point might expose further downside to 1.3620. Traders should watch these levels for potential entries or exits.\n\nGiven the current market indecision, a wait-and-see approach may be prudent. A clear break from the consolidation range would be ideal for setting a trade. For now, staying on the sidelines or looking for short-term opportunities at these key levels would be wise. Consider keeping an eye on global economic events for any catalysts that could break the current stagnation."
+    }
+  }
+}
