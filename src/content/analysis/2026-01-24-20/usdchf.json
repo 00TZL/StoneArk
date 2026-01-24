@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-01-24T20:32:42.545Z",
+  "price": {
+    "close": "0.78174",
+    "high": "0.78482",
+    "low": "0.78139",
+    "open": "0.78209",
+    "change": "-0.05",
+    "datetime": "2026-01-25 07:00:00"
+  },
+  "indicators": {
+    "rsi": 41.39517,
+    "macd": -0.00099422638,
+    "macd_signal": -0.0014124043,
+    "sma20": 0.781282
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[震荡整理，短期看跌]",
+      "content": "当前美元/瑞郎价格在0.78174附近，呈现震荡整理走势。从技术面来看，价格在短期内维持在较窄的区间内波动，0.78482为短期阻力位，而0.78139为支撑位。价格目前未能突破这些区间，显示出市场缺乏明确的方向性。\n\n在指标方面，MACD为负值，且信号线尚未确认，表明市场目前处于弱势状态，可能继续维持低迷。SMA(20)值为0.78128，价格接近这一均线水平，也暗示出震荡走势。RSI未提供数据，但若恢复，可能显示超卖或超买的信号。\n\n考虑到当前的震荡走势及技术指标的弱势，短期内建议保持谨慎，避免过于激进的操作。交易者可以关注支撑位0.78139的突破情况，若跌破该位，可考虑做空。若价格回升至0.78482附近，则可考虑短期做多，但仍需警惕市场波动。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair has been trading in a narrow range, with the latest price at 0.78174. Over the last 24 hours, the price has declined slightly by 0.05%, reflecting a lack of strong momentum in either direction. The price has recently found support near the 0.78139 low, indicating that the pair might be in a consolidating phase. On the upside, the high of 0.78482 serves as an immediate resistance. A break above this resistance could signal a bullish move, but until then, the pair is likely to continue its sideways movement.\n\nThe absence of the RSI data makes it difficult to fully assess the current market's overbought or oversold conditions. However, the MACD value of -0.000994 suggests a slight bearish bias, with the current price action below the zero line. The lack of a clear signal for the MACD and the RSI means traders should remain cautious, as there isn't a strong directional indicator at this point. This underlines the range-bound behavior of the currency pair, with limited volatility in the near term.\n\nThe 20-period Simple Moving Average (SMA) stands at 0.781282, which is very close to the current market price. This proximity suggests that the pair is trading around its short-term average, further confirming the lack of a clear trend. This could be interpreted as an indication of indecision in the market, and any significant price movement might occur only if the pair breaks out from this tight range. Traders may use this SMA as a reference for potential entry points, looking for a bounce off it for short-term trades.\n\nGiven the current market conditions, traders may consider waiting for a breakout above 0.78482 or a drop below 0.78139 to confirm the next trend direction. Until then, it would be wise to trade with caution, focusing on range-bound strategies and maintaining tight stop-losses. A move above resistance would likely lead to further bullish momentum, while a breakdown below support might signal a bearish continuation."
+    }
+  }
+}

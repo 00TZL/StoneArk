@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-01-24T20:30:36.316Z",
+  "price": {
+    "close": "0.68885",
+    "high": "0.689",
+    "low": "0.68862",
+    "open": "0.68897",
+    "change": "-0.02",
+    "datetime": "2026-01-25 07:00:00"
+  },
+  "indicators": {
+    "rsi": 56.9216,
+    "macd": 0.00048351487,
+    "macd_signal": 0.00072809585,
+    "sma20": 0.6892585
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[横盘整理，关注突破方向]",
+      "content": "目前澳元/美元在0.68885附近震荡整理，价格波动幅度较小，24小时内变动幅度为-0.02%。从技术面来看，当前市场呈现横盘整理的状态，未能显示出明确的上行或下行趋势，交易者应关注价格突破0.689或0.68862的关键点位，以确定未来的市场方向。\n\n从技术指标来看，当前RSI(14)数据缺失，无法提供超买超卖的明确指示。MACD显示的0.00048表明市场处于较为平衡的状态，动能较弱。SMA(20)位于0.68925850，反映出短期内价格可能围绕这一水平震荡波动，未出现明显的趋势性变化。\n\n支撑位方面，当前的低点0.68862为关键支撑区间，若价格跌破该水平，可能会进一步测试更低区域。阻力位则在0.689处，突破该价位有望激发上行动能。建议交易者关注价格突破这两大关键点，结合技术指标确认交易信号。\n\n总体而言，短期内建议采取区间交易策略，密切观察0.68862和0.689的突破情况。如果突破，可能出现短期的趋势延续，进而形成更具操作性的交易机会。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently trading near 0.68885, showing a slight 24-hour decline of 0.02%. The price remains within a narrow range, hovering between the high of 0.689 and the low of 0.68862, suggesting a consolidation phase. This range-bound price action implies a lack of clear directional momentum, as the market waits for a catalyst to drive the next move. The near-term trend appears neutral, with no strong bias in either direction.\n\nThe absence of the Relative Strength Index (RSI) and a clear MACD signal leaves technical indicators inconclusive at this moment. The MACD value of 0.00048351487 is marginal, indicating minimal momentum behind the current price movement. The Simple Moving Average (SMA) of 20 periods at 0.68925850 is just slightly above the current market price, signaling a mild bearish bias in the short term. However, the overall market sentiment remains indecisive, which means traders should be cautious of potential false breakouts.\n\nIn terms of support and resistance levels, the immediate support is seen at 0.68862, where the pair recently hit a low. If this support holds, a bounce back to the 0.689 level is possible, providing a potential opportunity for short-term traders. On the upside, the next resistance zone lies around the 0.690 area, where the market has shown some previous price rejection. A break above this level could trigger a further bullish move, but confirmation is needed to avoid a potential reversal.\n\nGiven the lack of strong indicators and the sideways price movement, traders should consider a cautious approach. A wait-and-see strategy, looking for a clear breakout either above 0.690 or below 0.68862, could offer a better risk-to-reward ratio. With the current range-bound action, attempting to trade within the range may also present opportunities, but risks of sudden reversals should be closely monitored."
+    }
+  }
+}

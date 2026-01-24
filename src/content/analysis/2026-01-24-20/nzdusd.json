@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-01-24T20:32:00.189Z",
+  "price": {
+    "close": "0.59392",
+    "high": "0.59393",
+    "low": "0.59371",
+    "open": "0.59381",
+    "change": "0.02",
+    "datetime": "2026-01-25 07:00:00"
+  },
+  "indicators": {
+    "rsi": 46.92051,
+    "macd": 0.00031060577,
+    "macd_signal": 0.00059603651,
+    "sma20": 0.5947205
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：当前震荡整理，缺乏明确趋势",
+      "content": "目前，纽元/美元（NZD/USD）的价格处于0.59392附近，显示出较为平稳的震荡整理走势。价格未突破近期的高点0.59393，也未跌破低点0.59371，市场暂时缺乏明确的趋势方向。虽然24小时变化仅为0.02%，但市场依然保持一定的波动性。\n\n从技术指标来看，RSI(14)值未提供，导致短期超买或超卖情况难以判断。MACD指标为0.00031060577，显示出轻微的正值，表明短期内存在微弱的上行动能，但信号线的缺失使得这一信号的可靠性降低。SMA(20)处于0.59472050，略高于当前价格，进一步暗示当前价格的阻力位在该水平附近。\n\n支撑位在0.59371附近，若价格回调至此区域，可能会出现短期反弹。而阻力位则位于0.59472，突破该水平可能会为进一步上涨打开空间。若价格维持震荡整理，可考虑在支撑位附近寻找买入机会，在阻力位附近考虑卖出或观望。\n\n综合来看，当前市场缺乏强烈趋势，建议投资者采取观望策略，等待价格突破关键支撑或阻力位后再做进一步决策。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently trading at 0.59392, showing a slight 24-hour change of 0.02%. The price range for the past 24 hours has been narrow, between 0.59371 and 0.59393, reflecting a period of limited volatility. This lack of significant movement suggests a consolidation phase, with the market struggling to establish a clear direction. Given the proximity to the 20-period simple moving average (SMA) at 0.59472, this level can act as a dynamic resistance, with the price potentially reverting to it if there's any short-term upward pressure.\n\nThe absence of the RSI and incomplete MACD data leaves some gaps in momentum analysis. However, the MACD value at 0.00031 signals a mild bullish bias, though it remains relatively weak. This suggests that the pair could be in the early stages of a slight upward correction, but the trend remains indecisive without clearer confirmation from other indicators. Traders should look for any increases in momentum or further price action to confirm a trend shift, or alternatively, to see if the consolidation continues.\n\nSupport and resistance levels are essential to watch. The current low of 0.59371 offers near-term support, with potential further downside if this level breaks. On the upside, the SMA at 0.59472 could provide resistance. A break above this level might indicate potential for further gains toward the next resistance level around 0.59550. Conversely, failure to maintain support at 0.59371 could signal a potential decline towards lower support at 0.59300.\n\nGiven the current market conditions, the strategy should be cautious. Traders might consider waiting for confirmation of a breakout either above 0.59472 or below 0.59371 before making a decisive move. For those seeking short-term gains, the range-bound movement offers limited risk, but any shift in momentum could bring higher volatility, thus warranting careful attention to price action."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-01-24T20:33:28.355Z",
+  "price": {
+    "close": "4982.41523",
+    "high": "4982.64306",
+    "low": "4982.36009",
+    "open": "4982.42698",
+    "change": "-0.00",
+    "datetime": "2026-01-25 07:00:00"
+  },
+  "indicators": {
+    "rsi": 66.16495,
+    "macd": 6.47423,
+    "macd_signal": 8.82493,
+    "sma20": 4982.46301
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理，短期无明显趋势]",
+      "content": "当前黄金/美元价格保持在4982附近，未出现明显波动，呈现震荡整理状态。24小时内价格变化极小，表明市场暂时缺乏方向性。由于RSI和MACD信号均无法提供明确的趋势指引，投资者需要密切关注未来的价格突破或回调。\n\n从技术指标来看，MACD的6.47值尚未给出方向性指示，缺乏强势买入或卖出信号。SMA(20)位于4982.46，价格紧贴其上方，这通常表明市场的短期动能不足。考虑到目前的价格区间，若突破当前的高点4982.64，可能会迎来一波上涨动能；而下行突破4982.36，则有可能引发短期回调。\n\n在支撑与阻力方面，短期内的关键支撑位为4982.36，突破此位可能导致价格进一步下探至4980附近。上行方面，阻力位在4982.64，突破该位可能会推动黄金/美元测试更高的价格区域，可能见到4985甚至4990水平。\n\n建议投资者保持观望，避免在当前震荡区间内进行过多交易。待价格突破支撑或阻力位时，再做进一步决策。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current price of Gold vs the US Dollar (XAU/USD) shows minimal movement in the last 24 hours, reflecting a tight market range between the high of 4982.64 and low of 4982.36. Given the tight trading range, the market appears to be consolidating, with no clear directional bias. This type of consolidation often signals a potential breakout in either direction, depending on future market catalysts. Traders should stay alert for signs of momentum building up for a breakout or continuation.\n\nWith the RSI(14) not available, the MACD reading of 6.47423 provides some insight into market sentiment. A positive MACD value, despite the absence of a signal line, suggests slight bullish momentum. However, this is not confirmed by the absence of an RSI, which would normally help in identifying overbought or oversold conditions. Therefore, caution is advised in taking large directional bets without further confirmation from additional indicators or price action.\n\nThe 20-period Simple Moving Average (SMA) at 4982.46 is very close to the current price, indicating a neutral stance. The price hovering near this SMA suggests equilibrium in the market, as neither bulls nor bears have managed to take control. Traders may look for a potential breakout if the price moves decisively above or below this moving average. If the price holds above the SMA, the next key resistance might lie at 4983, with support near 4980.\n\nIn terms of trading strategy, it's recommended to wait for a confirmation of either upward or downward momentum. A break above 4983 could trigger buying opportunities, while a decline below 4980 could signal a short opportunity. Risk management should be prioritized, especially in a market lacking strong directional indicators, to minimize potential losses in the event of a false breakout."
+    }
+  }
+}

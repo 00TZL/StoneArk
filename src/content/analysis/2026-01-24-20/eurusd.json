@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-01-24T20:28:28.184Z",
+  "price": {
+    "close": "1.18232",
+    "high": "1.18249",
+    "low": "1.18229",
+    "open": "1.18244",
+    "change": "-0.01",
+    "datetime": "2026-01-25 07:00:00"
+  },
+  "indicators": {
+    "rsi": 70.090679,
+    "macd": 0.00095087111,
+    "macd_signal": 0.0012491034,
+    "sma20": 1.18235
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：当前震荡整理中",
+      "content": "当前欧元/美元(EUR/USD)价格接近1.18232，市场处于震荡整理状态。24小时内价格波动较小，仅变化-0.01%。由于缺乏明确的方向性趋势，短期内可能继续维持窄幅震荡。\n\n从技术指标来看，虽然RSI(14)未提供，但MACD指标显示当前值为0.00095，表明市场略微倾向多头。但由于缺乏信号线的对比，暂时无法确认明确的买入或卖出信号。SMA(20)显示价格接近该均线，进一步强调市场的横盘整理状态。\n\n支撑位方面，1.18229附近可能会提供短期支撑，而1.18249则是阻力位，若突破该价位，可能会迎来更大波动。当前价格在这两个关键价位之间震荡，投资者应密切关注市场突破的情况。\n\n建议投资者在当前市场条件下采取谨慎操作，短期内可以考虑在支撑位附近寻找低买机会，但要密切关注突破信号。中期来看，需等待市场方向明确后再做进一步决策。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently in a very narrow range, with a minor 24-hour change of -0.01%. The price is hovering just below the 20-period Simple Moving Average (SMA), indicating neutral to slightly bearish short-term sentiment. The tight price action between the high of 1.18249 and the low of 1.18229 suggests a lack of strong momentum in either direction. A breakout above the SMA at 1.18235 could signal a bullish move, but given the limited volatility, it’s uncertain whether this will be sustained.\n\nThe lack of an RSI value makes it difficult to assess overbought or oversold conditions, but other indicators, such as the MACD, show a positive momentum (0.00095), suggesting a mild bullish bias. However, without a clear signal crossover, this momentum lacks strength. Traders may want to wait for confirmation before committing to trades. If the price continues to hover near the 1.1823 region, it may indicate indecision, which could result in a sideways trend until a breakout occurs.\n\nSupport for EUR/USD seems to lie around the low of 1.18229, providing a potential entry point for buyers in case of a slight dip. A breach below this level could open the door for further downside towards the next key support zone, potentially around 1.1810. On the other hand, resistance is located near the high of 1.18249, with further upside possible only if price clears this zone convincingly.\n\nIn terms of trading strategy, a cautious approach is recommended. Short-term traders should look for breakout opportunities or rebounds at established support or resistance levels. A buy trade could be considered if EUR/USD clears 1.18249 with volume, while a sell opportunity may arise on a confirmed break below 1.18229."
+    }
+  }
+}
