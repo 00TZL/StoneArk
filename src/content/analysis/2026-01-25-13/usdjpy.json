@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-01-25T13:38:15.865Z",
+  "price": {
+    "close": "155.95207",
+    "high": "156.04894",
+    "low": "155.85243",
+    "open": "155.85759",
+    "change": "0.06",
+    "datetime": "2026-01-26 00:00:00"
+  },
+  "indicators": {
+    "rsi": 53.56595,
+    "macd": -0.073051405,
+    "macd_signal": -0.11806593,
+    "sma20": 155.85218
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理，短期偏弱]",
+      "content": "当前美元/日元的价格在155.95附近，整体处于震荡整理的走势中。价格略低于近期的20日简单移动平均线（SMA 20），表明短期内可能存在一定的下行压力。虽然24小时变化幅度较小，但价格波动区间较窄，可能会迎来新的突破。\n\n从技术指标来看，MACD指标显示负值（-0.073），但信号线暂时没有数据支持，说明市场暂时缺乏强烈的买入或卖出动能。RSI（14）数据缺失，因此无法对市场的超买或超卖状态做进一步分析。\n\n在支撑与阻力方面，当前支撑位位于155.85，若价格跌破此位，可能会进一步测试更低的支撑区域。而上方的阻力位在156.05附近，突破该阻力位可能会推动价格走高。若价格维持在这一区间内震荡，短期内需关注突破方向。\n\n综合来看，美元/日元短期内可能继续震荡整理。建议在156.05附近考虑卖出，若价格下跌至155.85附近，则可寻找买入机会。应注意市场情绪变化，并适时调整策略。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair currently trades at 155.95207, slightly above its 20-period simple moving average of 155.85218, indicating a mild bullish sentiment in the short term. Despite the low 24-hour change of just 0.06%, the market has been oscillating within a narrow range, with a high of 156.04894 and a low of 155.85243. This range-bound price action suggests a consolidation phase, where neither buyers nor sellers dominate the market. A breakout above the high could trigger upward momentum, while a drop below the low may suggest a bearish shift.\n\nLooking at the indicators, the MACD reading of -0.073051405 reflects slight bearish pressure, with the histogram showing a weak negative momentum. However, without a signal line available, it's difficult to predict any clear reversal or continuation. This suggests that while there is some downward pressure, the market remains indecisive. RSI data is currently unavailable, but generally, it would help to gauge whether the pair is nearing overbought or oversold conditions, which could indicate potential turning points.\n\nThe immediate support level is at 155.85243, with further support likely around the 155.80 region. On the resistance side, the pair faces the 156.04894 level, which is key for any bullish breakout. A clean break above this resistance could open the door for a move towards 156.30, while a failure to breach this area would likely see the pair retreat back to support levels. A rejection at resistance could be an opportunity for short trades with targets set at support levels.\n\nIn terms of trading suggestions, traders may consider waiting for a breakout or breakdown from the current range to establish a clearer trend. A move above 156.05 could prompt a buy position with targets around 156.30, while a drop below 155.85 might offer a short opportunity towards 155.60. It's important to exercise caution, as the market is currently in consolidation, and the absence of a strong directional trend makes it essential to wait for confirmation before committing to any major positions."
+    }
+  }
+}

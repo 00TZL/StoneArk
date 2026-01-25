@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-01-25T13:41:41.239Z",
+  "price": {
+    "close": "0.78454",
+    "high": "0.78456",
+    "low": "0.78428",
+    "open": "0.7843",
+    "change": "0.03",
+    "datetime": "2026-01-26 00:00:00"
+  },
+  "indicators": {
+    "rsi": 72.86421,
+    "macd": 0.00021871245,
+    "macd_signal": -0.0003673906,
+    "sma20": 0.7813745
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：当前走势偏震荡整理",
+      "content": "目前，美元/瑞郎的价格在0.7845附近波动，呈现震荡整理的局面。虽然价格略微上扬，但整体缺乏明确的上涨或下跌动能，交易者应保持谨慎。短期内，市场似乎在等待更强的驱动因素。\n\n技术指标方面，RSI(14)数据未提供，无法进行超买或超卖的准确评估。MACD值为0.0002，表明市场缺乏明确的趋势信号，波动幅度较小。SMA(20)目前在0.7814，作为短期支撑位可能会限制下行风险，但若突破则可能带来下行压力。\n\n从支撑/阻力位来看，当前的价格接近0.7845，略低于日内高点，若突破0.78456，可能会向上挑战0.7850附近的阻力区间。下行方面，0.78428为近期低点，若跌破此位置，可能会测试更低的支撑位。\n\n综上所述，当前建议采取区间操作策略，重点关注0.7845附近的波动。若价格突破支撑或阻力区间，可以根据突破方向进行操作。但在没有强烈信号的情况下，保持观望态度较为稳妥。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently showing a very narrow trading range, with the price hovering around 0.7845. This stability suggests the market is in a consolidation phase, with minimal price movement observed in the last 24 hours. The high/low range of 0.78456 to 0.78428 further emphasizes this lack of significant volatility. A lack of movement could signal a balance between buyers and sellers, with neither side gaining a clear upper hand.\n\nThe absence of a clear RSI reading makes it difficult to assess overbought or oversold conditions directly. However, the MACD value of 0.00021871245 indicates that the momentum is slightly bullish, although the absence of a signal line reduces the reliability of this indicator for immediate trading decisions. Traders should be cautious in interpreting this signal, as it is still not confirmed by a clear trend in the price or the indicators themselves.\n\nLooking at the SMA(20) at 0.7813745, the pair is trading slightly above this moving average, suggesting some upward momentum in the short-term. The SMA could act as a dynamic support level, and any price move near or below this level could be a buying opportunity, assuming further confirmation from other indicators. However, if the price breaches this level decisively, it may signal a potential reversal toward lower support.\n\nFor traders, short-term support is located around 0.78428, while resistance is near 0.78456. A breakout above the recent high might open up potential for a further move toward 0.7850, while a dip below 0.78428 could indicate a correction, possibly heading back towards the SMA at 0.7813. Therefore, traders might consider waiting for a confirmed breakout or a bounce off the SMA before entering positions."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-01-25T13:39:57.805Z",
+  "price": {
+    "close": "1.37356",
+    "high": "1.3736",
+    "low": "1.3727",
+    "open": "1.37283",
+    "change": "0.05",
+    "datetime": "2026-01-26 00:00:00"
+  },
+  "indicators": {
+    "rsi": 69.20506,
+    "macd": 0.00018333347,
+    "macd_signal": -0.000044336305,
+    "sma20": 1.372
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[当前震荡整理，关注支撑和阻力位]",
+      "content": "目前美元/加元(USD/CAD)处于震荡整理阶段，价格在1.3730附近波动，近期没有出现明显的趋势突破。高点1.3736和低点1.3727表明市场处于窄幅区间内，且波动幅度较小，短期内可能继续维持震荡走势。\n\n从技术指标来看，RSI和MACD数据尚不完整，但SMA(20)均线在1.37200附近，表明价格未远离该支撑区。若价格继续保持在1.3730附近，可能会向下测试1.3720一线的支撑，而如果突破1.3740的阻力位，则可能出现上涨动能。\n\n当前关键的支撑位在1.3720附近，若价格跌破该水平，则可能进一步下探1.3700区域。上方的阻力位则为1.3740，突破该水平后，有可能会推动价格走高至1.3750以上。因此，短期内交易者应密切关注这些关键价位的突破情况。\n\n综合来看，建议交易者在震荡区间内进行短线操作，关注支撑和阻力位的突破信号。若突破支撑可考虑做空，而突破阻力可考虑做多。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently trading at 1.37356, showing a modest 0.05% change over the last 24 hours. The market is experiencing relatively tight price movement, with the high and low within a narrow 0.0009 range. This suggests that there is a temporary consolidation, with neither bulls nor bears taking full control. The price is slightly above the 20-period simple moving average (SMA) at 1.37200, indicating a short-term bullish bias, but the overall market sentiment remains uncertain due to lack of significant momentum.\n\nLooking at the RSI (Relative Strength Index), the absence of data prevents a detailed assessment of potential overbought or oversold conditions. However, the MACD shows a minor positive value of 0.000183, implying a weak bullish momentum in the short term. This suggests that, while there is no immediate strong trend, the market may be preparing for a move, possibly to the upside, should the MACD signal line turn positive. The lack of a clear signal from the RSI and MACD, however, points to caution.\n\nKey support is likely to be found at 1.3727, as this level marks the recent low and could act as a strong base should the price test lower levels. On the upside, the resistance at 1.3736 is very close to the current market price, which means it could act as a barrier to any upward movement. A breakout above this level may see the pair testing higher prices, potentially reaching the next resistance zone, while a dip below the support could indicate a bearish shift.\n\nFor traders, a cautious approach is advisable until a clear trend emerges. A potential buy could be considered if the price breaks above 1.3736 with strong volume, confirming an upward move. Conversely, a drop below 1.3727 could trigger a sell signal, with targets at the next support levels. Given the lack of strong momentum indicators, it’s important to watch for confirmation before committing to a position."
+    }
+  }
+}

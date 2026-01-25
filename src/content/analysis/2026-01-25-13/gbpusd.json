@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-01-25T13:37:26.052Z",
+  "price": {
+    "close": "1.36102",
+    "high": "1.36276",
+    "low": "1.35945",
+    "open": "1.36248",
+    "change": "-0.11",
+    "datetime": "2026-01-26 00:00:00"
+  },
+  "indicators": {
+    "rsi": 27.17942,
+    "macd": 0.000023378045,
+    "macd_signal": 0.0004720185,
+    "sma20": 1.36362
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[短期震荡整理]",
+      "content": "当前英镑/美元在1.36102附近交易，呈现出短期震荡整理的走势。价格波动在1.36276和1.35945之间，显示出市场缺乏明显的方向性。价格在接近20日简单移动平均线(SMA 20)的支撑位附近徘徊，表明市场仍处于技术性整理阶段。\n\n虽然当前RSI和MACD指标缺失，但从价格走势来看，当前市场对即将到来的方向选择有较强的观望情绪。MACD接近零轴，说明多空双方力量对比平衡，市场可能在接下来的交易日内维持窄幅震荡区间。\n\n在支撑和阻力方面，1.35945附近可视为强支撑位，而1.36276则是短期阻力位。若价格突破1.36276，可能会再次测试1.36500附近的关键阻力区；反之，若跌破1.35945支撑，可能会延续下行趋势，目标看向1.35600。\n\n基于当前技术面，建议保持观望，直到价格突破区间的关键点位后再做决定。如果突破1.36276，则可以考虑多头入场，反之则可考虑做空。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The current market conditions for GBP/USD suggest a somewhat neutral to mildly bearish outlook. With the latest price at 1.36102, the pair has recently traded within a narrow range between 1.36276 and 1.35945, indicating indecision in the market. The slight 24-hour change of -0.11% reflects this lack of strong momentum. The pair's performance is being constrained by the 20-period simple moving average (SMA) at 1.36362, which is acting as immediate resistance. Should GBP/USD break above this level, it could signal a bullish correction toward the higher range near 1.36500 or even 1.36800.\n\nThe Relative Strength Index (RSI) is unavailable at the moment, but it's important to note that without this key indicator, gauging the current strength or weakness of the trend is difficult. Similarly, the MACD value at 0.000023378045 is marginal, signaling no significant momentum in either direction. The absence of a signal line further complicates any potential buy or sell triggers. However, the flat MACD indicates a period of consolidation, which could precede either an upward or downward breakout depending on how the price interacts with key levels.\n\nThe primary support level lies around 1.35945, which is the recent low. A further dip below this level could expose the pair to lower levels around 1.35700 or even 1.35500. If sellers continue to dominate, the price could face increased downside pressure. On the other hand, should GBP/USD find support near 1.35945 and rebound, it would suggest that the 1.36362 SMA could act as a strong resistance ceiling, limiting any immediate upside potential. \n\nTraders might look for opportunities based on price action around these key levels. A break above 1.36362 could signal a potential bullish reversal, while a failure to hold above 1.35945 might encourage short positions targeting the next support zone. Given the lack of strong momentum indicators, waiting for confirmation through price action or a break of key levels may be the best strategy in this range-bound market."
+    }
+  }
+}

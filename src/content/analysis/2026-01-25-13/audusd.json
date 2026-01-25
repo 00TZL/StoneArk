@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-01-25T13:39:06.130Z",
+  "price": {
+    "close": "0.68855",
+    "high": "0.68895",
+    "low": "0.68836",
+    "open": "0.68891",
+    "change": "-0.05",
+    "datetime": "2026-01-26 00:00:00"
+  },
+  "indicators": {
+    "rsi": 37.6488,
+    "macd": 0.00008393637,
+    "macd_signal": 0.00021458566,
+    "sma20": 0.689175
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，短期观望]",
+      "content": "当前，澳元/美元的价格在0.68855附近波动，短期内处于震荡整理状态。从24小时变化来看，跌幅为-0.05%，显示出市场缺乏强烈的方向性趋势。虽然价格波动幅度较小，但也反映出市场情绪的犹豫不决。\n\n技术指标方面，RSI(14)缺失，但MACD值为0.000083936370，表明目前动能较弱，尚未出现明确的买卖信号。SMA(20)当前为0.68917500，价格位于其下方，这可能暗示价格短期内仍有进一步下探的风险。\n\n在支撑和阻力方面，0.68836为短期支撑位，而0.68895则为近期的阻力位。若价格突破0.68895，则有可能向上测试更高的水平；若跌破0.68836，则可能进一步下行至更低位置。\n\n基于当前市场情况，建议交易者维持观望态度，等待价格突破关键水平后再做进一步决策。如果选择短期交易，可以考虑在支撑位附近寻找低买机会，但务必设置止损以应对潜在风险。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar (AUD) against the US Dollar (USD) is currently trading at 0.68855, showing a slight negative 24-hour change of -0.05%. The price action appears relatively neutral, with a narrow trading range between 0.68895 (high) and 0.68836 (low). Given the lack of significant movement over the past day, the market seems to be consolidating within a tight range, suggesting a period of indecision. For traders, the key focus is to watch for a breakout above 0.6890 or a breakdown below 0.6880, which could signal the next directional move.\n\nIn terms of technical indicators, the RSI (14) is not provided, which limits the ability to assess potential overbought or oversold conditions. The MACD reading of 0.000083936370 is extremely close to zero, indicating minimal momentum behind the current price movement. Without a clear signal from these indicators, price action remains the primary tool for identifying potential trends. As of now, the market seems to lack strong bullish or bearish momentum, with traders remaining on the lookout for a trigger that could lead to a more substantial move.\n\nThe 20-period simple moving average (SMA) at 0.689175 is just above the current price, suggesting a minor bearish bias in the short term. If price action fails to break through the SMA resistance, there is a risk of further downward pressure towards the 0.6880 support level. Conversely, a push above the SMA could open the door for a test of the 0.6900 level or higher, depending on broader market conditions.\n\nTraders might consider a cautious approach given the current consolidation. A breakout above 0.6890 could signal a short-term buy, with targets near 0.6900 or higher. Alternatively, a drop below 0.6880 could present a short entry, targeting the next support level around 0.6870. Keep in mind that volatility could increase with any significant news or market event, so it’s essential to stay alert for possible shifts in market sentiment."
+    }
+  }
+}

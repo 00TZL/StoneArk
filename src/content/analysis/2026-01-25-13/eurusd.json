@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-01-25T13:36:33.421Z",
+  "price": {
+    "close": "1.1818",
+    "high": "1.18219",
+    "low": "1.1815",
+    "open": "1.18213",
+    "change": "-0.03",
+    "datetime": "2026-01-26 00:00:00"
+  },
+  "indicators": {
+    "rsi": 43.72514,
+    "macd": 0.00021140341,
+    "macd_signal": 0.00038414659,
+    "sma20": 1.18236
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：当前震荡整理，短期维持区间波动",
+      "content": "当前欧元/美元价格稳定在1.1818附近，短期内市场呈现震荡整理的走势。尽管24小时变化幅度较小，仅-0.03%，但价格波动区间较为狭窄，显示出市场的不确定性。价格在1.18219的高点和1.1815的低点之间波动，表明市场仍处于整理阶段。\n\n技术指标方面，MACD的值为0.00021140341，尚未形成明确的交叉信号，说明市场缺乏强烈的趋势动能。SMA(20)均线维持在1.18236附近，未能显著偏离当前价格，进一步表明短期内市场缺乏方向性。RSI(14)数据暂缺，但根据当前的价格波动情况，市场可能处于相对中性区间。\n\n从支撑和阻力来看，1.1815附近是短期支撑位，一旦跌破可能会继续向下探测1.1800整数关口。上方1.1822-1.1825区域则构成短期阻力，如果价格突破此区间，可能会重新测试1.1830或更高水平。\n\n综合来看，欧元/美元短期内可能维持震荡整理。建议短线交易者关注1.1815至1.1825区间的价格波动，突破任一边界后可根据市场动向做出适当操作。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The Euro vs US Dollar (EUR/USD) pair is currently trading at 1.1818, reflecting a slight negative 24-hour change of -0.03%. The pair has shown limited volatility within the last 24 hours, with a range between 1.18219 and 1.1815. This minor fluctuation suggests a consolidative market phase, where neither buyers nor sellers are taking full control. At present, the pair appears to be in a short-term sideways movement, with limited directional momentum.\n\nFrom a technical standpoint, the absence of a significant RSI or MACD signal complicates the analysis of momentum. However, the recent SMA(20) value at 1.18236 indicates a slight bearish bias as the price is trading marginally below the 20-period moving average. In the absence of stronger momentum indicators, traders might watch for price action around this moving average for potential breakouts. A sustained movement below the SMA could further support downward pressure.\n\nThe immediate support level is near 1.1815, with a potential break below it indicating a retest of the 1.1800 psychological level. On the upside, resistance is found at 1.1822, close to the 24-hour high. A decisive move above this level could trigger a reversal, with targets extending towards 1.1850. It’s important to note that, in the current market environment, volatility may remain subdued unless external catalysts, such as economic data releases or central bank commentary, influence the market.\n\nFor traders, short-term range-bound strategies could be effective. Buying near 1.1815 with a tight stop-loss could offer a reasonable risk-reward setup if the support holds. Alternatively, a breakout above 1.1822 could present a more bullish trading opportunity. In both cases, close attention should be paid to any shifts in momentum or news releases that could spark a move outside the current range."
+    }
+  }
+}

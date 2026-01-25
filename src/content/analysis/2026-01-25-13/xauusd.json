@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-01-25T13:42:28.821Z",
+  "price": {
+    "close": "4982.40133",
+    "high": "4982.64398",
+    "low": "4982.35936",
+    "open": "4982.42698",
+    "change": "-0.00",
+    "datetime": "2026-01-26 00:00:00"
+  },
+  "indicators": {
+    "rsi": 65.3439,
+    "macd": 1.83624,
+    "macd_signal": 2.64598,
+    "sma20": 4982.44556
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理，缺乏明确趋势信号]",
+      "content": "当前黄金/美元（XAU/USD）价格在4982.40附近震荡整理，短期内未能展现出明显的趋势。24小时变化保持平稳，价格波动较小，显示市场暂时缺乏强烈的买卖动能。鉴于目前没有RSI的数值，难以判断超买或超卖的情况。\n\n从技术指标来看，MACD的值为1.83624，但由于缺乏Signal线数据，不能给出明确的趋势方向。20日简单移动平均线（SMA）显示价格在接近4982.45水平，市场情绪较为中性。总体而言，市场在等待新的价格推动力，可能需要一些基本面因素来推动方向选择。\n\n在支撑与阻力方面，当前的支撑位可以关注4982.36附近，而阻力位则位于4982.64。突破这些关键价位可能会带来较大的价格波动，需关注市场是否突破这些区间进行确认。\n\n建议短期内保持观望，等待价格突破支撑或阻力位后再进行操作。如果价格突破上方阻力位，可能会迎来短线买入机会；反之，若跌破支撑位，则可能出现下行风险，适合考虑卖出。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current price of Gold against the US Dollar (XAU/USD) is trading around 4982.40, showing a slight range-bound movement within the last 24 hours, with a high of 4982.64 and a low of 4982.36. The price action remains neutral, indicating the market’s indecisiveness in establishing a strong directional move. Given the minimal change, the market may be consolidating within a narrow band, suggesting that traders should stay cautious for clearer signals.\n\nIn terms of technical indicators, the Relative Strength Index (RSI) is not available, but the MACD value at 1.83624 is positive, which could suggest that the market is currently experiencing bullish momentum. However, without a clear signal line or RSI, this signal alone does not confirm a strong trend reversal or continuation. The Simple Moving Average (SMA) on the 20-period basis is at 4982.45, which aligns closely with the current market price, further supporting the notion of a consolidation phase. The absence of significant deviations from these indicators points to a lack of clear momentum in either direction.\n\nFrom a support and resistance perspective, the key levels to watch are the low of 4982.36 as immediate support and the high of 4982.64 for resistance. A break below 4982.36 could open the door for further downside toward lower levels, while a break above 4982.64 could signal a potential upward move. Both levels should be closely monitored for signs of a breakout or breakdown. \n\nGiven the lack of strong trend confirmation from both price action and indicators, traders should consider waiting for a clearer breakout or retracement. Trading within the current range may offer limited opportunities, but a decisive move beyond the defined support or resistance zones could trigger larger price swings. As always, applying stop losses to manage risk is crucial when operating in such uncertain conditions."
+    }
+  }
+}
