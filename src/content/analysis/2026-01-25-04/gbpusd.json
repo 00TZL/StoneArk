@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-01-25T04:56:15.559Z",
+  "price": {
+    "close": "1.36429",
+    "high": "1.36431",
+    "low": "1.36408",
+    "open": "1.36423",
+    "change": "0.00",
+    "datetime": "2026-01-25 15:00:00"
+  },
+  "indicators": {
+    "rsi": 66.45703,
+    "macd": 0.00074873194,
+    "macd_signal": 0.0010142428,
+    "sma20": 1.36402
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：市场震荡整理，短期无明显趋势",
+      "content": "当前英镑/美元（GBP/USD）交易区间相对狭窄，价格稳定在1.36400附近。由于24小时变化几乎为零，市场缺乏强烈的方向性，价格波动主要集中在1.36431与1.36408之间，表明市场情绪较为谨慎，短期内难以出现突破性走势。\n\n从技术指标来看，MACD数值为0.00074873194，尽管当前没有信号线数据，但MACD接近零轴，暗示短期内可能会维持震荡整理模式。SMA(20)为1.36402，接近当前价格，显示出市场处于均衡状态，没有明显的趋势性变化。\n\n支撑位位于1.36408，若价格跌破该水平，可能会进一步测试1.36300附近的低点。而1.36431则作为短期阻力位，突破该点位可能会带来小幅上行，但考虑到当前缺乏强烈的动能，突破的可能性相对较低。\n\n综合来看，短期内英镑/美元可能维持震荡整理的格局。建议投资者在该区间内进行区间交易，保持谨慎，等待更明确的突破信号。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD is currently trading at 1.36429, showing minimal movement over the last 24 hours, with a 0.00% change. This suggests a period of consolidation in the market, as the price remains contained between the high of 1.36431 and the low of 1.36408. At this moment, there isn't any significant volatility driving the pair. Traders should be cautious of potential breakouts or reversals if the price fails to sustain above or below this tight range.\n\nThe lack of RSI data makes it difficult to assess overbought or oversold conditions. However, the MACD reading of 0.00074873194 indicates a slight bullish momentum, but without a defined signal, it's too early to claim a clear trend reversal. The absence of significant momentum or trending indicators means that the market may continue to range within its current boundaries unless a more substantial trigger, like economic data or geopolitical news, materializes.\n\nFrom a technical perspective, the 20-period Simple Moving Average (SMA) at 1.36402 acts as immediate support, offering some stability to the price. A close below this level could open up further downside, potentially targeting the low of 1.36408. On the other hand, if the price breaks above the current high of 1.36431, it might be poised to test higher levels, with the next resistance likely located around 1.36600. These levels should be monitored closely as they represent key breakpoints for the pair.\n\nGiven the present market conditions, traders may consider a wait-and-see approach until clearer signals emerge. A break above resistance could offer an opportunity for bullish trades, while a drop below support may signal potential bearish opportunities. It's essential to manage risk carefully in this range-bound environment and remain alert for shifts in momentum."
+    }
+  }
+}

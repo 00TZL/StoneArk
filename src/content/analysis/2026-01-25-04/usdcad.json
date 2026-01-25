@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-01-25T04:58:26.267Z",
+  "price": {
+    "close": "1.37181",
+    "high": "1.37201",
+    "low": "1.37142",
+    "open": "1.37174",
+    "change": "0.01",
+    "datetime": "2026-01-25 15:00:00"
+  },
+  "indicators": {
+    "rsi": 48.4643,
+    "macd": -0.00017275249,
+    "macd_signal": -0.00031006454,
+    "sma20": 1.37157
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理，短期维持横盘]",
+      "content": "美元/加元（USD/CAD）目前呈现震荡整理的走势，价格维持在1.37150附近波动，暂未出现明显的单边趋势。从短期价格走势来看，市场缺乏强烈的买盘或卖盘推动，整体走势处于横盘整理状态。\n\n技术指标方面，MACD显示微弱的负值（-0.00017），表明市场缺乏强烈的动能。目前RSI数据缺失，因此无法根据超买超卖情况做出进一步判断。20日简单移动平均线（SMA）位于1.37157，表现出价格维持在其附近整理的特征，进一步确认短期内未有突破的迹象。\n\n支撑位方面，1.37140附近为近期价格的低点区域，若下行突破，可能会探测到1.37000的支撑。阻力位则在1.37200附近，一旦价格突破该位，可能会测试更高的水平，甚至接近1.37300。\n\n综合来看，当前市场走势较为平淡，建议交易者可采取区间交易策略，在1.37140附近寻找支撑位做多，接近1.37200时考虑卖出。然而，由于缺乏强烈的趋势信号，操作时应保持谨慎，避免过度冒险。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "USD/CAD is trading in a tight consolidation near 1.3718, reflecting a short-term neutral to slightly constructive bias. Price is holding marginally above the 20-period simple moving average at 1.3716, suggesting mild underlying demand despite limited momentum. The narrow daily range points to market indecision, often seen ahead of a volatility expansion. Structurally, the pair remains range-bound rather than trending, favoring short-term tactical trades over directional conviction.\n\nFrom an indicator perspective, momentum signals are mixed. The MACD reading remains slightly negative, indicating residual bearish pressure, but the lack of downside follow-through reduces its strength as a sell signal. The absence of a current RSI reading limits overbought or oversold assessment, increasing reliance on price behavior around key levels. The flat slope of the short-term moving average further reinforces the view of equilibrium between buyers and sellers.\n\nImmediate support is located near 1.3714, aligned with the session low and short-term intraday demand. A clean break below this area could expose 1.3695–1.3700, where prior congestion is likely to attract buyers. On the upside, resistance is capped around 1.3720, followed by a more meaningful barrier near 1.3750. A sustained move above these levels would signal improving bullish momentum and a potential range extension.\n\nTrading strategies should remain adaptive. Range-based approaches may be favored while price holds between 1.3710 and 1.3720, with tight risk controls given compressed volatility. Conservative longs could be considered on dips toward support, targeting a return to the upper boundary. Alternatively, a confirmed breakout above resistance may justify momentum-based longs, while a decisive breakdown below support would shift the bias toward short positions."
+    }
+  }
+}

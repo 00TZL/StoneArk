@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-01-25T04:57:37.980Z",
+  "price": {
+    "close": "0.68928",
+    "high": "0.68939",
+    "low": "0.68907",
+    "open": "0.68933",
+    "change": "-0.01",
+    "datetime": "2026-01-25 15:00:00"
+  },
+  "indicators": {
+    "rsi": 63.97289,
+    "macd": 0.00030198397,
+    "macd_signal": 0.00041034427,
+    "sma20": 0.68923
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理走势]",
+      "content": "当前澳元/美元处于震荡整理状态。最新价格为0.68928，几乎无明显波动，全天变化仅为-0.01%。市场显示出一定的横盘整理信号，未出现显著的突破或回撤。这种行情通常反映出多空双方力量相对平衡，短期内价格难以形成持续的趋势。\n\n从技术指标来看，当前没有提供完整的RSI数据，MACD值为0.00030198397，且信号线数据缺失，表明短期内动能较弱。SMA(20)为0.68923，显示出价格围绕该水平窄幅震荡。没有明显的买入或卖出信号，市场情绪较为谨慎。\n\n支撑位方面，0.68907附近是当前低点，若价格下行可能会进一步测试这一水平。阻力位则集中在0.68939附近，价格突破该位置可能会带来短期反弹。当前价格未触及关键支撑或阻力，继续震荡整理的可能性较大。\n\n交易建议上，若价格回调至支撑位附近，可以考虑短期买入，止损设置在0.68907以下；若突破阻力位，则可以寻找短期卖出信号。不过，鉴于市场缺乏明显动能，建议谨慎操作，避免追高杀跌。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar (AUD) against the US Dollar (USD) is currently experiencing a neutral trend, with minimal volatility over the last 24 hours. The price has fluctuated in a narrow range between 0.68939 and 0.68907, indicating a consolidation phase. With the latest price at 0.68928, market participants are in a wait-and-see mode, possibly awaiting more significant catalysts. The absence of strong directional movement suggests a period of indecision, with traders likely awaiting fresh data or news to provide clearer signals.\n\nDespite the lack of clear momentum, the 20-period Simple Moving Average (SMA) at 0.68923 indicates a slight bias to the downside, as the price is hovering just above the SMA. This subtle bearishness is further reflected in the MACD value of 0.0003, which shows a minimal positive reading but lacks any strong momentum. Without a definitive crossover or a significant shift in the MACD, the short-term outlook remains neutral. This suggests that the pair may continue to range within its current levels unless further market developments occur.\n\nSupport levels are located near the recent low of 0.68907, with a potential break below this area possibly targeting 0.68800 or lower. Resistance is found around the 0.68939 high, with any upward movement likely encountering resistance around 0.69000 or further at 0.69150. Traders should remain cautious of a potential breakout in either direction, with a confirmed shift above resistance signaling a move towards 0.69150 and a break below support suggesting a bearish continuation.\n\nIn terms of trading strategy, the current market conditions favor a range-bound approach. Traders could look for opportunities to sell near the upper resistance (0.68939) and buy near the support at 0.68907. However, any decisive break beyond these levels may warrant re-evaluating positions, as this could signal the start of a stronger trend. It’s important to monitor broader economic factors for a clearer indication of future movement."
+    }
+  }
+}

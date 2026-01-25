@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-01-25T04:56:57.125Z",
+  "price": {
+    "close": "155.72112",
+    "high": "155.73518",
+    "low": "155.72071",
+    "open": "155.73012",
+    "change": "-0.01",
+    "datetime": "2026-01-25 15:00:00"
+  },
+  "indicators": {
+    "rsi": 36.95627,
+    "macd": -0.14653401,
+    "macd_signal": -0.18125962,
+    "sma20": 155.83607
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：震荡整理，等待突破",
+      "content": "当前美元/日元价格维持在155.72附近，呈现震荡整理的走势。短期内，价格未能突破关键水平，市场情绪较为谨慎。鉴于价格接近155.73的高点，存在一定的压力，短期可能继续在当前区间内波动。\n\n从技术指标来看，MACD值为-0.1465，虽然尚未形成明确的信号，但该值提示市场可能处于轻微的空头区域。RSI目前未提供数据，因此无法确认超买或超卖状态。20日简单移动平均线（SMA）位于155.84，价格接近该水平时，可能会面临阻力。\n\n支撑位方面，当前低点155.72附近可能提供一定支撑，若价格跌破该区域，可能会进一步下探至155.70及以下区域。若突破155.84的阻力位，则可能继续上行至156.00附近。\n\n建议投资者密切关注155.72至155.84区间的价格波动。若价格突破上方阻力，考虑短期多头交易；若跌破支撑位，则可考虑做空。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY is currently trading near 155.72, showing a slight decline of 0.01% over the past 24 hours. The price has been consolidating within a tight range, reflecting a lack of strong momentum. The pair has recently tested the high of 155.73518 and the low of 155.72071, indicating a narrow trading range, which could suggest indecision in the market. This type of consolidation often precedes a potential breakout or a continuation of the current trend.\n\nThe lack of RSI data makes it difficult to assess momentum from that perspective, but the MACD value of -0.1465 points to a slight bearish pressure in the market. Although the MACD is negative, it's still important to note that no clear crossover is indicated, as the Signal line is unavailable. This suggests that the market is neither strongly bullish nor bearish at the moment, and traders should be cautious of short-term volatility. \n\nFrom a moving average perspective, the 20-period Simple Moving Average (SMA) at 155.83607 provides a nearby resistance level, with the price currently trading below it. If the price fails to break above this level, a short-term decline toward the lower range could be likely. Conversely, the proximity to the current price suggests that the market may attempt to test or break this resistance level. Support seems to be near the low of 155.72071, and a break below it could signal further downside pressure, possibly targeting lower levels.\n\nFor traders, the market’s current consolidation and lack of decisive momentum suggest a cautious approach. A break above 155.83607 would signal potential for a continuation of the bullish trend, while a move below 155.72071 could open the door for a deeper pullback. It's essential to monitor price action around these levels for confirmation of the next move, especially as the market may still be digesting recent gains."
+    }
+  }
+}

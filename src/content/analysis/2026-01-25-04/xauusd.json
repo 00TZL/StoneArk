@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-01-25T05:00:31.321Z",
+  "price": {
+    "close": "4982.51108",
+    "high": "4982.64386",
+    "low": "4982.35936",
+    "open": "4982.42698",
+    "change": "0.00",
+    "datetime": "2026-01-25 15:00:00"
+  },
+  "indicators": {
+    "rsi": 66.34896,
+    "macd": 3.59255,
+    "macd_signal": 5.092602,
+    "sma20": 4982.47231
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理趋势]",
+      "content": "黄金/美元(XAU/USD)目前在4982.51附近维持震荡整理的走势。价格在过去24小时内变化较小，且波动范围较为窄，显示出市场缺乏明确的方向性。尽管如此，黄金仍保持较强的支撑位和一定的上行潜力，投资者需关注即将到来的市场变动。\n\n从技术指标来看，当前MACD值为3.59，但信号线数据缺失，未能提供明确的买卖信号。RSI数据缺失，因此难以从动量指标上获得明确的超买或超卖信号。20日简单移动平均线(SMA)位于4982.47，紧密接近当前价格，表明市场趋势可能处于均衡状态。\n\n支撑位位于4982.36附近，而阻力位则在4982.64。这一价格区间内的波动可能会持续一段时间，交易者可在该区间内寻找短期交易机会。当价格突破上方阻力时，可能会迎来小幅上涨；反之，若下破支撑位，可能出现一定幅度的下行回调。\n\n综合来看，当前黄金/美元的市场情绪较为谨慎，适合采取观望策略。若突破关键支撑或阻力水平，可适时调整策略，采取短期波段交易。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current market price of XAU/USD is hovering around 4982.51108, with minimal change in the past 24 hours, indicating a period of consolidation. This suggests that gold is experiencing a lack of directional momentum, possibly awaiting further economic data or geopolitical developments. The market is currently balanced between buyers and sellers, and traders should be cautious of any breakouts or shifts in market sentiment.\n\nThe SMA(20) at 4982.47231 indicates a slight upward bias, as the price is trading slightly above this moving average. However, without the RSI or a clear MACD signal, it is difficult to gauge whether the market is truly overbought or oversold. The lack of a significant divergence from the MACD suggests that there is no strong momentum driving the price in either direction. Thus, traders should monitor the price action closely for potential breakout patterns.\n\nLooking at the immediate support and resistance levels, the low of the day at 4982.35936 acts as a strong short-term support, while the high at 4982.64386 serves as immediate resistance. A break below support could open the door for further downside toward the 4970 level, while a push above resistance could see the price targeting 4990 or even higher. However, these moves would require confirmation through further market indicators.\n\nGiven the current market environment, it is advisable for traders to wait for a clear breakout above resistance or a breakdown below support before making substantial trades. For now, a range-bound strategy may be appropriate, focusing on the levels near 4982 for both short-term entries and exits. Patience and careful risk management will be key until clearer signals emerge."
+    }
+  }
+}

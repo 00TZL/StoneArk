@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-01-25T04:59:49.810Z",
+  "price": {
+    "close": "0.78049",
+    "high": "0.78053",
+    "low": "0.78048",
+    "open": "0.78049",
+    "change": "0.00",
+    "datetime": "2026-01-25 15:00:00"
+  },
+  "indicators": {
+    "rsi": 33.77964,
+    "macd": -0.0007516143,
+    "macd_signal": -0.00089038417,
+    "sma20": 0.781069
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[震荡整理中]",
+      "content": "当前美元/瑞郎汇率在0.78049附近震荡整理，价格波动极小。24小时内波动幅度仅0.00005，显示出市场缺乏明确的方向性。技术上来看，汇价维持在20日简单移动平均线(SMA)0.781069附近，未突破关键支撑或阻力位，表明当前市场处于平衡状态，投资者观望情绪较重。\n\n由于RSI和MACD的相关数据缺失，无法准确判断市场的超买或超卖状态，无法通过这些指标提供进一步的信号。然而，从价格走势来看，汇价的高低点变化较为狭窄，市场目前处于震荡区间内，价格尚未显现出明显的上涨或下跌动力。\n\n支撑位方面，当前汇价接近0.78048，若跌破此位，可能测试0.78000这一更为关键的支撑区域。阻力位则在0.78150附近，若突破该位，则可能引发短期上涨动能。整体来看，当前市场处于整理阶段，需等待价格突破某一关键价位才能确定未来趋势。\n\n建议投资者暂时采取观望策略，避免在没有明确趋势的情况下进行大幅度操作。若价格突破上方阻力位，可考虑做多，若下破支撑位，则可考虑做空。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The current market for USD/CHF shows a neutral stance with the latest price at 0.78049, effectively unchanged in the last 24 hours. The pair has experienced very tight price action, oscillating between 0.78053 and 0.78048, indicating a lack of strong momentum. The market appears to be consolidating within a narrow range, with no clear trend direction. Given the lack of significant price movement, traders should look for a breakout from this range to gauge the next directional move.\n\nLooking at the technical indicators, the RSI is not available, which limits our ability to assess potential overbought or oversold conditions. The MACD shows a slight negative value of -0.00075, signaling mild bearish pressure, but this is far from confirming a strong downtrend. The lack of a reliable signal line (N/A) further weakens the relevance of this indicator at the moment. Therefore, it's essential to wait for clearer indications of trend reversal or continuation before committing to any positions.\n\nThe 20-period simple moving average (SMA) at 0.78107 suggests that the market is currently testing a potential resistance zone. The price is below this moving average, indicating a short-term bearish sentiment, but the narrow trading range means this could easily shift if momentum increases. If the price breaks above the SMA, it may signal a resumption of upward momentum towards the next resistance level, which lies around 0.78150. Conversely, a failure to hold above this level could bring the pair back to retest key support near 0.7800.\n\nFor trading strategies, a wait-and-see approach is advisable until either a breakout above the 0.78107 level or a breakdown below 0.7800 materializes. Traders should look for confirmation from indicators like RSI or MACD, once available, to time entries more effectively. In the absence of a clear signal, conservative positions or reduced risk exposure would be prudent until the market offers a clearer trend direction."
+    }
+  }
+}
