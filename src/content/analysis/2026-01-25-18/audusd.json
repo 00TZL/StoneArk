@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-01-25T18:39:44.272Z",
+  "price": {
+    "close": "0.69194",
+    "high": "0.69287",
+    "low": "0.68877",
+    "open": "0.68926",
+    "change": "0.38",
+    "datetime": "2026-01-26 05:00:00"
+  },
+  "indicators": {
+    "rsi": 82.4041,
+    "macd": 0.0003218192,
+    "macd_signal": 0.00019044462,
+    "sma20": 0.689372
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，短期略有上升动能]",
+      "content": "当前AUD/USD走势表现为震荡整理，价格维持在0.68977至0.69287区间内。短期内，市场情绪较为中性，价格波动幅度相对较小，可能会在该区间内继续盘整。不过，当前价格略偏向高位，存在一定的上行动能。\n\n技术面来看，SMA(20)位于0.68937，当前价格略高于该水平，显示出短期内有小幅上行压力。MACD处于轻微正值区间，虽未显现明确的趋势性信号，但暗示可能存在短期反弹的机会。RSI未提供足够的数据支持，因此需关注即将发布的RSI值来进一步确认动能变化。\n\n支撑位方面，0.68877为关键支撑线，若价格跌破该位，可能会出现进一步回调的风险。阻力位则在0.69287附近，一旦突破该区间上限，价格可能会进一步攀升至0.6950区域。短期内，价格突破上述区间可能带来较大波动。\n\n基于当前走势，建议投资者在区间震荡过程中保持观望，等待价格突破支撑或阻力位时再做决策。如突破0.69287，可以考虑适度做多；若跌破0.68877，则可考虑做空。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar (AUD) has been showing a slight bullish momentum against the US Dollar (USD) with a 24-hour price change of +0.38%. The pair is currently trading at 0.69194, slightly above the 20-period Simple Moving Average (SMA) at 0.68937, which suggests a moderate short-term upward trend. The price action has been contained within a narrow range between the high of 0.69287 and the low of 0.68877, indicating consolidation at these levels. Given the current setup, traders should remain cautious, as a breakout from this range is likely to define the next directional move.\n\nThe absence of a definitive Relative Strength Index (RSI) and Signal Line in the MACD data means that there is insufficient information to determine overbought or oversold conditions or a strong trend direction at this moment. However, the current MACD value of 0.00032181920 hints at a subtle bullish sentiment, though it is not yet significant enough to confirm an impending continuation. Traders may want to monitor any potential crosses of the MACD above or below the zero line for more decisive signals.\n\nKey support lies around the 0.68877 low, which has held firm in recent price movements, and a break below this level could lead to further downside toward the 0.68600 area. On the resistance side, the 0.69287 high stands as the immediate obstacle, and surpassing this could pave the way for a push toward the 0.69500 level. With the current price near the upper end of its range, risk/reward ratios should be carefully considered, particularly for traders looking to enter on pullbacks or breakouts.\n\nFor now, the best trading strategy may be to wait for a clear breakout from the established range. Traders can consider placing buy orders above 0.69300 for a potential rally or sell orders below 0.68800 to target support levels. Given the subdued momentum, a more conservative approach with tighter stop-losses is advised until more decisive signals emerge."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-01-25T18:42:54.032Z",
+  "price": {
+    "close": "4982.41009",
+    "high": "4982.64398",
+    "low": "4982.35936",
+    "open": "4982.42698",
+    "change": "-0.00",
+    "datetime": "2026-01-26 05:00:00"
+  },
+  "indicators": {
+    "rsi": 64.92691,
+    "macd": 1.27329,
+    "macd_signal": 1.83515,
+    "sma20": 4982.46896
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：当前震荡整理，短期内缺乏明显趋势",
+      "content": "当前，黄金/美元（XAU/USD）在4982.41009附近震荡整理，价格波动较小，24小时变化几乎为零。从市场走势来看，短期内缺乏明确的上涨或下跌趋势，整体处于整理阶段。\n\n技术指标方面，RSI(14)数据缺失，因此暂时无法评估超买或超卖情况。MACD当前显示为1.27329，虽然暂未出现明显的信号线交叉，但这一数值表明市场可能处于相对强势状态。SMA(20)为4982.46896，价格略低于此水平，表明市场短期内有回调压力。\n\n支撑位和阻力位方面，当前价格接近高点4982.64398和低点4982.35936，这两者构成了短期的支撑和阻力区间。如果价格突破上方阻力，则可能出现进一步的上涨；反之，若跌破支撑位，可能会迎来下行调整。\n\n综合来看，黄金/美元在现阶段的走势缺乏明确的方向。建议投资者保持观望，关注支撑和阻力的突破，适时采取短线操作。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD market currently shows a stable price near 4982.41, with minimal 24-hour movement. The lack of significant change suggests a consolidation phase in the short term. The price is hovering close to the 20-period SMA (4982.47), signaling neutrality. The market may continue within this range unless it breaks decisively either above or below the SMA. Traders should keep an eye on any shifts in sentiment that could push prices beyond the current consolidation band.\n\nThe absence of a defined RSI value makes it challenging to gauge overbought or oversold conditions. However, the MACD at 1.27329 indicates potential bullish momentum, though the lack of a clear signal line leaves the indicator inconclusive. This suggests that any upward momentum may lack strength unless further confirmation arises. Traders should remain cautious and wait for either an RSI reading or clearer MACD divergence before committing to significant positions.\n\nIn terms of key levels, immediate support can be found near 4982.36, where the price touched its low in the 24-hour period. A breach below this could expose lower levels, potentially targeting 4980. Conversely, resistance is located at 4982.64, which is the high of the session. A sustained move above this resistance could signal a shift toward a more bullish outlook, potentially leading to further upward movement. Traders should monitor these levels closely for breakout opportunities.\n\nFor trading strategies, a conservative approach would be to wait for confirmation either through a break of key support or resistance levels. If the price rises above 4982.64, a long position could be considered with an eye on potential further gains. Conversely, if the price drops below 4982.36, a short position may be viable, but risk management should be a priority, as the overall trend remains neutral."
+    }
+  }
+}

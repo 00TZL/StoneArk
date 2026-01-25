@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-01-25T18:41:20.906Z",
+  "price": {
+    "close": "0.59529",
+    "high": "0.59604",
+    "low": "0.59228",
+    "open": "0.59497",
+    "change": "0.05",
+    "datetime": "2026-01-26 05:00:00"
+  },
+  "indicators": {
+    "rsi": 68.80823,
+    "macd": 0.0002021817,
+    "macd_signal": 0.00020178479,
+    "sma20": 0.5948155
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理，略偏下行]",
+      "content": "当前纽元/美元（NZD/USD）维持在0.59529附近，呈现震荡整理的走势。价格在过去24小时仅上涨0.05%，波动较小，表明市场观望情绪较浓。短期内价格在0.59604和0.59228区间波动，缺乏明确的方向性突破。\n\n从技术指标来看，RSI值暂时缺失，但根据SMA(20)的表现，当前价格略高于均线（0.59481550），这暗示市场在短期内有轻微的上涨压力。然而，由于MACD指标没有足够的数据支持，也无法为趋势提供明确的确认信号，市场依然处于震荡状态。\n\n支撑位方面，0.59228是近期低点，若跌破此价位，可能会加剧下行压力，进一步测试0.59000附近的支撑。阻力位则在0.59604一线，若突破此位，则可能测试0.60000的心理关口。\n\n建议交易者可在当前区间内进行区间交易，关注0.59228的支撑与0.59604的阻力突破情况，建议操作时设定合理的止损和止盈点，避免过度追高或追低。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "NZD/USD is trading near 0.5953, holding slightly above its 20-day simple moving average at 0.5948, which suggests a modest short-term bullish bias. Price action over the last session stayed within a relatively tight range, reflecting consolidation rather than strong directional conviction. The pair has been forming higher intraday lows, indicating that buyers are cautiously defending dips, though upside momentum remains restrained.\n\nFrom an indicator perspective, the available MACD reading is marginally positive, pointing to mild bullish momentum, but the absence of a confirmed signal line limits conviction. This setup often aligns with a market transitioning from neutrality toward a potential upside continuation. The lack of RSI data prevents overbought or oversold assessment, so momentum should be judged mainly through price behavior around the moving average and recent highs.\n\nImmediate support is located near 0.5923, the session low, which coincides with short-term demand and acts as the first downside buffer. A clear break below this level could expose the pair toward the 0.5900 psychological zone. On the upside, resistance sits near 0.5960, followed by the more significant 0.6000 area, where prior selling pressure and round-number psychology may attract sellers.\n\nFrom a trading standpoint, a cautious bullish approach may be favored while price holds above the 20-day SMA. Short-term traders could look for buy opportunities on shallow pullbacks toward 0.5940–0.5930, with tight risk management below 0.5920. Alternatively, failure to break above 0.5960 may invite range-based selling strategies, targeting a return toward mid-range support until clearer momentum emerges."
+    }
+  }
+}

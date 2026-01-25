@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-01-25T18:40:29.777Z",
+  "price": {
+    "close": "1.37149",
+    "high": "1.37255",
+    "low": "1.36822",
+    "open": "1.37152",
+    "change": "-0.00",
+    "datetime": "2026-01-26 05:00:00"
+  },
+  "indicators": {
+    "rsi": 47.48996,
+    "macd": -0.00011719095,
+    "macd_signal": -0.000091520946,
+    "sma20": 1.37171
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：当前市场震荡，短期趋稳",
+      "content": "当前美元/加元价格稳定在1.37149附近，短期内呈现震荡走势。虽然最近的24小时变化为零，但价格波动依旧活跃。当前的高点为1.37255，低点1.36822，表明市场在这一区间内保持相对均衡，缺乏强烈的方向性突破。\n\n从技术指标上看，RSI(14)缺失，但可以从SMA(20)的1.37171位置来看，当前价格接近该水平，表现出一定的支撑作用。MACD当前处于负值区域，表明卖方力量稍强，然而没有出现明确的趋势信号。市场短期内可能难以突破现有区间，维持震荡格局。\n\n支撑位可见于1.36822，而阻力位则位于1.37255附近。若价格突破1.37255，可能会进一步测试1.3750附近的阻力。如果下破1.36822支撑位，则可能导致更深的回调，接近1.3650或更低。\n\n建议投资者在当前震荡区间内采取观望策略，待价格突破支撑或阻力位时再考虑进场操作。适合短线交易者利用区间震荡波动进行低买高卖操作，避免大规模的仓位暴露。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently experiencing a relatively stable market with minimal price movement, as reflected by the 24-hour change of just -0.00%. The price is hovering around the 1.37149 level, just slightly below the 20-period simple moving average (SMA) of 1.37171. This suggests a neutral-to-bullish short-term trend. The market is in a consolidation phase, trading between the high of 1.37255 and the low of 1.36822. If the price continues to hold within this range, traders might look for breakout opportunities above or below these key levels.\n\nFrom a technical standpoint, the absence of the RSI and Signal for the MACD limits the precision of overbought or oversold signals. However, the MACD value of -0.000117 suggests a slight bearish bias, signaling a minor downside pressure. Traders should stay vigilant for any significant shift in momentum. A bullish reversal could occur if the price moves above 1.37255, signaling a potential continuation toward 1.3750. On the flip side, a break below 1.36822 could lead to further downside risk towards the 1.3650 region.\n\nThe support zone remains solid around the 1.36822 level, which could act as a buffer against further declines. If the price fails to break lower, it may find support here and stage a rebound toward the 1.3730 resistance. On the other hand, the resistance at 1.37255 is key to watch for any signs of bullish continuation. A clean break above this could open the path for the pair to retest the next resistance zone near 1.3750.\n\nTraders should focus on key price action signals around the support and resistance levels. With the current technical landscape, a breakout strategy can be applied, focusing on price movement beyond 1.37255 or 1.36822. If the price fails to break either boundary, it may be prudent to wait for clearer signals. Given the present market conditions, staying neutral and waiting for confirmation from additional indicators or price action may offer the most reliable setup for future trades."
+    }
+  }
+}
