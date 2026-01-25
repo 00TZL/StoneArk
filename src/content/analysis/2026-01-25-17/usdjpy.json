@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-01-25T17:24:55.610Z",
+  "price": {
+    "close": "156.33816",
+    "high": "156.34597",
+    "low": "155.78949",
+    "open": "155.78949",
+    "change": "0.30",
+    "datetime": "2026-01-26 04:00:00"
+  },
+  "indicators": {
+    "rsi": 66.19526,
+    "macd": -0.0092283481,
+    "macd_signal": -0.073392578,
+    "sma20": 155.83899
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理，等待突破信号]",
+      "content": "当前美元/日元价格在156.34附近，呈现震荡整理的走势。价格在过去24小时内仅小幅上涨0.30%，显示出市场缺乏强劲的单边行情。目前，价格高点156.34597与低点155.78949之间的波动范围较小，表明市场暂时缺乏明确的方向。\n\n技术指标方面，MACD指标显示负值（-0.0092），表明短期内卖方力量较强，市场情绪偏向谨慎。不过，RSI目前无法获取，因此无法对超买或超卖状况进行进一步分析。SMA(20)位于155.84附近，表明短期内价格的平均水平略低，可能会对价格产生支撑作用。\n\n支撑位位于155.79附近，若价格跌破该位置，可能会测试更低的水平。阻力位则处在156.34至156.35之间，一旦突破该位置，有可能出现反弹向上移动。交易者可关注这一水平的突破情况，作为进场或离场的参考。\n\n在当前震荡区间内，建议交易者保持观望，等待价格突破支撑或阻力位后再进行操作。如果价格突破156.35，则可以考虑买入；若跌破155.79，则可能需要考虑卖出。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently trading at 156.33816, showing a modest 0.30% change over the last 24 hours. The pair remains in a relatively strong bullish trend as evidenced by the price trading near the daily high of 156.34597, slightly above the 20-period Simple Moving Average (SMA) at 155.83899. The SMA indicates that the overall trend is leaning upward, suggesting that there’s still room for continuation in the current price movement if this momentum is sustained.\n\nLooking at the MACD, with a value of -0.0092, we see that the histogram is currently negative. This suggests a lack of strong bullish momentum, but it also doesn’t indicate a bearish reversal just yet. Given the absence of a confirmed signal line, the indicator is somewhat neutral, leaving the market in a waiting phase for further directional clarity. Traders should keep an eye on the MACD for a potential cross above the signal line to confirm a shift toward bullishness.\n\nIn terms of support and resistance, the immediate support level lies around the 155.79 level, which could act as a floor for any downside movement. If this level holds, the price may continue its march upwards, with the next resistance zone near 156.35 to 156.40. A break above this level could open up the potential for a push towards higher ranges, possibly around the 157.00 level. On the downside, if the pair falls below 155.79, it might signal a deeper pullback to the 155.00 area.\n\nConsidering the technical setup, a cautious bullish approach is advisable. Traders may consider entering long positions on a dip towards 155.80, with a stop-loss placed below 155.50. Alternatively, they may wait for confirmation of further upward momentum, with a potential entry if the price breaks above the 156.40 resistance. In either case, maintaining a close watch on the RSI and MACD will be key to managing risk and confirming entry points."
+    }
+  }
+}

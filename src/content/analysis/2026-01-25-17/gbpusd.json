@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-01-25T17:24:06.781Z",
+  "price": {
+    "close": "1.36315",
+    "high": "1.36315",
+    "low": "1.36112",
+    "open": "1.36246",
+    "change": "0.05",
+    "datetime": "2026-01-26 04:00:00"
+  },
+  "indicators": {
+    "rsi": 49.73481,
+    "macd": -0.000019060954,
+    "macd_signal": 0.00019179565,
+    "sma20": 1.36358
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[震荡整理，短期偏强]",
+      "content": "当前英镑/美元处于震荡整理状态，价格在1.36112到1.36315区间内波动，显示出市场暂时缺乏明确的方向。虽然没有明显的趋势，但价格接近当前20日简单移动平均线(SMA)，表明短期内可能维持震荡或微弱上行的格局。\n\n从技术指标来看，MACD值接近零，显示出市场动能较弱。RSI指标缺失，但结合价格接近SMA，表明当前市场情绪偏向中性。短期内，若价格突破1.3640水平，则可能进一步走高，否则价格可能再次回到1.3610附近的支撑区。\n\n支撑位在1.36112附近，若价格下行突破该点位，则可能会进一步测试更低支撑位1.3580。阻力位则位于1.3640，如果价格突破该阻力位，可能会推动价格进一步上涨至1.3660。当前的市场环境表明短期内突破的概率不高，仍以区间震荡为主。\n\n建议投资者在当前区间内进行短线交易，关注1.3610和1.3640的关键价位。在支撑位附近寻找买入机会，在接近阻力位时考虑卖出。同时，保持谨慎，避免过度追涨杀跌。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently trading at 1.36315, reflecting a minor 0.05% gain over the past 24 hours. The price action remains confined within a narrow range, with a high of 1.36315 and a low of 1.36112. This tight range suggests a period of consolidation, as the pair is struggling to establish a strong directional movement. The recent price stability indicates market indecision, and traders should closely watch for a breakout either above or below these levels to gauge the next phase of movement.\n\nThe technical indicators show a mixed outlook for GBP/USD. The RSI(14) is currently unavailable, which would typically offer insight into whether the pair is overbought or oversold. However, the MACD reading of -0.000019 suggests a very slight bearish momentum, as the MACD line is close to the signal line, pointing to a neutral to bearish sentiment. The absence of clear momentum signals leaves traders with little guidance on whether the recent consolidation is merely a pause or if it signals the beginning of a deeper pullback.\n\nThe 20-period SMA stands at 1.36358, positioning itself slightly above the current price. This could act as a short-term resistance level. If the price breaks above this level, it could signal a continuation of the uptrend, targeting the next resistance around 1.36600. On the downside, support is seen near 1.36100, the recent low, with further support potentially around 1.35800. A break below this level would likely confirm a bearish reversal, targeting lower levels.\n\nFor traders, the best strategy would be to wait for a decisive breakout above 1.36358 or a breakdown below 1.36100. If the pair holds above the 20-period SMA, it could present a buying opportunity with targets toward 1.36600. Conversely, if the price dips below 1.36100, shorting opportunities with targets near 1.35800 could be considered. Patience is key in this consolidating market."
+    }
+  }
+}

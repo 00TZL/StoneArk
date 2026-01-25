@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-01-25T17:27:29.369Z",
+  "price": {
+    "close": "0.59453",
+    "high": "0.59503",
+    "low": "0.59398",
+    "open": "0.59503",
+    "change": "-0.07",
+    "datetime": "2026-01-26 04:00:00"
+  },
+  "indicators": {
+    "rsi": 47.56474,
+    "macd": 0.00014526546,
+    "macd_signal": 0.00019466561,
+    "sma20": 0.5947345
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[市场震荡，短期走势维持窄幅震荡]",
+      "content": "当前纽元/美元价格0.59453，市场在高点0.59503和低点0.59398之间震荡整理。从短期价格波动来看，当前走势没有明显的趋势，市场情绪较为平静，表现为窄幅震荡。若价格突破0.5950附近的阻力位，可能会迎来进一步的上行机会，反之则可能再次回落。\n\n技术指标方面，虽然没有最新的RSI数据，但MACD指标的微弱正值0.000145，表明市场短期内可能呈现小幅的上行动力。20日简单移动平均线(SMA)的支撑位在0.5947附近，价格维持在此上方时，市场可能继续整理；若下破此位，可能会加剧跌势。\n\n从支撑和阻力来看，当前0.5939为短期支撑位，而0.5950为近期的主要阻力位。突破0.5950有可能引发更多的买盘，反之若跌破0.5939支撑，则可能引发更多的卖盘，并将价格推向更低区间。\n\n基于当前震荡的行情，建议短期内以区间交易为主，操作时可关注0.5950的突破机会，或在接近0.5939支撑时寻找买入机会。同时需关注全球风险事件及经济数据对市场的影响。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The New Zealand Dollar (NZD) against the US Dollar (USD) shows a relatively narrow trading range at present, with the latest price at 0.59453. This range is within a small 24-hour fluctuation of -0.07%, indicating limited volatility. The market has seen minor movement, with the high and low for the day marking just a 0.00105 spread. This suggests that the market is consolidating, and we may need more directional signals before taking any significant trading positions. Given the lack of major news driving the pair, it is crucial to consider price action and key support and resistance levels.\n\nLooking at the current trend, NZD/USD is experiencing sideways movement. With the price hovering near the SMA(20) of 0.59473, it indicates the market’s indecision. Prices staying close to the moving average suggest a balance between buying and selling pressure. The 24-hour price action shows a lack of strong directional momentum, so any breakout above the current high (0.59503) could suggest a short-term bullish trend, while a dip below the low (0.59398) may signal further bearish potential. This range-bound behavior reflects market participants' uncertainty.\n\nIn terms of indicators, the RSI(14) is unavailable, which leaves us to focus on other available data. The MACD shows a positive value (0.00014526546), though the absence of a signal line hinders deeper insight into potential trend strength. The absence of a confirmed MACD crossover keeps the outlook neutral. Without a strong directional signal from these indicators, traders should adopt a cautious approach and watch for confirmation through price action or more definitive technical signals.\n\nSupport is firmly placed at 0.59398, with the potential for further downside if this level is breached. On the other hand, resistance at 0.59503 will be crucial in determining any upward movement. Traders should consider waiting for a break above the resistance or a failure at support before committing to larger positions. With the current technical picture, range trading with tight stop-losses near these levels appears to be a prudent approach for now."
+    }
+  }
+}
