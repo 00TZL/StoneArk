@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-01-25T09:28:55.139Z",
+  "price": {
+    "close": "1.36438",
+    "high": "1.36442",
+    "low": "1.36433",
+    "open": "1.36436",
+    "change": "0.00",
+    "datetime": "2026-01-25 20:00:00"
+  },
+  "indicators": {
+    "rsi": 67.11687,
+    "macd": 0.00061330662,
+    "macd_signal": 0.00077183796,
+    "sma20": 1.36393
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：震荡整理，短期看多",
+      "content": "当前英镑/美元处于震荡整理状态，价格在1.36442和1.36433区间内波动，未出现明显的趋势突破。鉴于价格未大幅变动，短期内市场可能会保持在这一区间内，等待新的驱动因素。整体来看，价格处于区间震荡的局面中。\n\n从技术指标角度看，当前缺乏RSI和MACD的完整数据，无法准确评估市场超买或超卖状态。然而，20期简单移动平均线(SMA)略低于当前价格（1.36393），显示出一定的支撑信号，暗示在短期内市场可能有一定的上行空间。\n\n支撑位方面，1.36433和1.36393区域为近期低点，若价格回调至此，可能会得到支撑并反弹。阻力位则位于1.36442，突破此位置可能推动价格向上走高，接下来则可能挑战更高的价位。操作上，建议在支撑位附近寻找买入机会，突破阻力后可考虑跟进多单。\n\n总的来说，尽管当前市场表现平稳，短期内仍可维持轻微看多操作，但需密切关注突破信号和市场波动，及时调整策略。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently showing minimal volatility, with the price hovering at 1.36438. The price action over the last 24 hours has remained flat, suggesting consolidation. This range-bound movement could indicate indecision in the market, with neither buyers nor sellers gaining a clear upper hand. In the short term, the pair is likely to respect the current level until stronger catalysts emerge, potentially pushing the price in either direction.\n\nThe lack of a clear trend is evident in the RSI(14) and MACD indicators, where the RSI is unavailable, and the MACD shows a small positive value of 0.00061. This slight bullish divergence in the MACD indicates that the bulls are attempting to push higher, but momentum remains weak. With no significant momentum readings, the market may not have the strength to break decisively from its current range, unless external factors come into play, such as major economic data or geopolitical events.\n\nLooking at the moving averages, the 20-period SMA is at 1.36393, just below the current price. This suggests that the market is slightly biased toward a neutral-to-bullish stance, as the price is above the SMA. However, this is not a strong signal of upward momentum given the proximity of the price to the moving average. Should the price dip below the 1.36393 level, support can be found at the recent low of 1.36433, with a more significant support zone forming closer to 1.36300.\n\nIn terms of resistance, the high of 1.36442 marks a minor barrier to further upside, but a more notable resistance level would appear near 1.36700. Traders might consider buying near the 1.36393-1.36400 range with a tight stop-loss, or selling if the price approaches resistance near 1.36700. Caution is advised in the absence of strong indicators, as price action is currently constrained within a tight range."
+    }
+  }
+}

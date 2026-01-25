@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-01-25T09:31:39.002Z",
+  "price": {
+    "close": "1.37205",
+    "high": "1.37207",
+    "low": "1.37178",
+    "open": "1.3718",
+    "change": "0.02",
+    "datetime": "2026-01-25 20:00:00"
+  },
+  "indicators": {
+    "rsi": 52.73884,
+    "macd": -0.000090998634,
+    "macd_signal": -0.00018862086,
+    "sma20": 1.37188
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理，短期看盘整]",
+      "content": "当前美元/加元价格为1.37205，24小时变动幅度仅为0.02%，显示出市场短期内处于较为平稳的状态。尽管价格波动不大，但依然维持在高位，说明市场在等待更明确的方向信号。\n\n从技术指标来看，SMA(20)当前位于1.37188附近，价格轻微偏离此均线，表明短期内市场存在一定的整理压力。MACD仍处于负值区域，表明市场情绪稍偏空，但未见明确的趋势延续信号。RSI数据缺失，无法从该角度进一步评估超买或超卖状态。\n\n支撑位方面，1.37178附近可能是短期支撑点，若价格跌破该位置，可能会加剧下行压力。阻力位则在1.37207附近，若价格突破此位置，有望触发上行势头。若突破1.37207，接下来的目标可能会指向1.3750水平。\n\n基于当前市场情况，建议投资者短期内维持观望，等待价格突破支撑或阻力位后再决定进场。若突破上行可考虑做多，突破下行则可考虑做空。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently trading at 1.37205, showing minimal movement over the past 24 hours with a slight 0.02% change. The price has been contained within a narrow range, fluctuating between a high of 1.37207 and a low of 1.37178. This tight range suggests indecisiveness in the market, with neither buyers nor sellers taking a strong lead. The pair is hovering just above the 20-period simple moving average (SMA) of 1.37188, signaling a neutral short-term bias, indicating neither a clear bullish nor bearish momentum.\n\nThe absence of a clear trend is reinforced by the MACD value of -0.000090998634, which remains near zero, suggesting weak momentum and a lack of directional strength. The relative strength index (RSI) is unavailable for this analysis, making it harder to assess overbought or oversold conditions. However, given the flat nature of the current technical indicators, traders may find this to be a period of consolidation rather than one marked by strong directional trends. A break above the SMA could indicate a bullish reversal, while a decline beneath it may signal further bearish action.\n\nIn terms of support and resistance, the immediate support appears to be near the recent low of 1.37178, which if breached, could open the door for a deeper pullback toward 1.3700. On the upside, resistance is found just above the current high of 1.37207. A breakout above this level may provide a bullish signal, potentially targeting the 1.3740 level as the next area of interest. This level could act as a psychological barrier and provide some resistance to any upward movement.\n\nGiven the current market structure, traders should consider a cautious approach. A range-bound strategy could be effective, with buying near support and selling near resistance. For those with a more aggressive stance, waiting for a decisive breakout above 1.3721 or below 1.3717 could offer more favorable trading opportunities. Patience will be key in this choppy environment as the market waits for clearer signals."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-01-25T09:30:46.204Z",
+  "price": {
+    "close": "0.68941",
+    "high": "0.68942",
+    "low": "0.68934",
+    "open": "0.68935",
+    "change": "0.01",
+    "datetime": "2026-01-25 20:00:00"
+  },
+  "indicators": {
+    "rsi": 64.66868,
+    "macd": 0.00023891334,
+    "macd_signal": 0.00030721355,
+    "sma20": 0.689235
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，短期无明显方向]",
+      "content": "当前澳元/美元（AUD/USD）价格维持在0.6894附近，整体呈现震荡整理态势。由于价格波动范围较小（高点0.68942，低点0.68934），市场缺乏明显的趋势性动能。短期内，市场可能仍处于观望状态，等待进一步的市场指引。\n\n从技术指标来看，当前缺乏RSI和MACD的完整数据，无法深入分析动能变化。然而，SMA(20)为0.689235，表明短期内市场情绪相对平稳。若价格突破SMA上方，可能会迎来小幅上涨；反之，则可能进一步回调。\n\n在支撑和阻力位方面，当前0.68934附近可视为短期支撑位，而上方0.68942为关键阻力位。如果突破该阻力位，可能会进一步推动价格向上测试0.6900附近的强阻力区域。若下行至0.6890附近，可考虑寻找低位支撑。\n\n对于交易策略，建议暂时采取观望策略，待价格突破关键支撑或阻力后再做决策。若突破0.68942阻力，可考虑短期多头机会；若跌破0.6890支撑，则可考虑做空。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar against the US Dollar is currently trading at 0.68941, showing minimal movement over the past 24 hours with a change of just 0.01%. The market is exhibiting a narrow trading range, fluctuating between a high of 0.68942 and a low of 0.68934, indicating consolidation. This suggests a lack of strong momentum in either direction, and the market appears to be waiting for a catalyst, such as economic data releases or central bank statements, to trigger a breakout.\n\nOn the technical front, the pair is hovering near the 20-period simple moving average (SMA) at 0.689235, which serves as an immediate support level. This SMA indicates that the pair is neutral in the short term, as it is trading close to this level without significant deviation. The absence of a clearly defined trend makes it difficult to establish a strong directional bias. If the pair breaks below the 20-period SMA, it could target lower levels, with the next key support around 0.68800, based on recent price action.\n\nThe RSI is currently unavailable, making it difficult to assess overbought or oversold conditions. However, with the MACD standing at 0.00023891334, we see a slight positive bias, suggesting mild upward pressure. While the absence of a clear signal line hinders a full MACD analysis, the positive reading could indicate that a breakout to the upside might be possible if further bullish momentum materializes.\n\nFor trading strategies, a range-bound approach may be appropriate given the lack of significant movement. Traders could consider buying near the 20-period SMA (0.689235) with a target at the resistance around 0.69000. Alternatively, a break below the SMA might signal a short position with a target near the 0.68800 support zone. Risk management is crucial, as the market remains in a narrow consolidation phase."
+    }
+  }
+}

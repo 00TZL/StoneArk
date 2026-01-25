@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-01-25T09:29:42.098Z",
+  "price": {
+    "close": "155.71053",
+    "high": "155.71728",
+    "low": "155.70844",
+    "open": "155.70942",
+    "change": "-0.00",
+    "datetime": "2026-01-25 20:00:00"
+  },
+  "indicators": {
+    "rsi": 36.47985,
+    "macd": -0.13069517,
+    "macd_signal": -0.15149386,
+    "sma20": 155.83886
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理，暂无明确趋势]",
+      "content": "当前美元/日元在155.71053附近维持震荡整理走势，24小时内价格波动极小，变化幅度为0.00%。价格相较于昨日高点155.71728和低点155.70844几乎没有显著变化，表明市场暂时缺乏强烈的买卖动能，价格仍处于高位震荡状态。\n\n技术指标方面，MACD指标当前为负值（-0.1307），表明市场短期内可能存在卖压。然而，由于缺乏RSI和Signal的有效数据，无法对超买或超卖状况做出进一步分析。SMA(20)位于155.83886附近，表明价格目前接近短期均线的下方，可能存在向上反弹的空间。\n\n考虑到当前震荡模式，支撑位可参考155.70844，若价格下破此位，则可能会有进一步回调的风险。阻力位在155.71728附近，若突破该位置，可能会触发更大的上涨动能。综合来看，建议投资者在现有区间内寻找短期波动机会，避免进行过大的单向押注。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair has shown a slight range-bound movement, with the latest price of 155.71053 reflecting minimal change over the past 24 hours. This lack of volatility suggests that the pair is in a consolidation phase, neither strongly bullish nor bearish. The price action is currently oscillating around the 155.71 mark, a key point of support and resistance, with the high/low for the day just marginally above and below this level. In the near term, this consolidation could indicate a breakout opportunity, but traders should wait for clear directional movement.\n\nThe RSI (14) data is unavailable for the moment, limiting a key indicator for momentum analysis. However, the MACD value of -0.1307 signals that bearish pressure is present, though it is not yet severe enough to suggest a strong downtrend. The absence of a clear signal line further reinforces the idea of a neutral market stance, where price could fluctuate within a defined range. Until further momentum is shown, the market is likely to remain indecisive, making it crucial for traders to look for a breakout above or below the current levels.\n\nThe 20-period Simple Moving Average (SMA) at 155.83886 suggests that the pair is trading slightly below its recent average, which may indicate a minor short-term bearish bias. If price fails to reclaim and sustain above the SMA, this may reinforce further downside potential towards key support levels. The immediate support for USD/JPY lies around 155.70844, with the next potential level of resistance at 155.71728. A move beyond these boundaries could offer clearer entry points, either long or short, depending on the direction.\n\nGiven the current market conditions, a conservative approach is advisable. Traders should wait for a decisive break above the SMA or a strong confirmation of bearish momentum before entering trades. Watching for any significant move outside of the current range, along with MACD and potential RSI readings, will provide clearer signals for either a buy or sell opportunity."
+    }
+  }
+}
