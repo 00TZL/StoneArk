@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-01-25T16:38:22.173Z",
+  "price": {
+    "close": "4982.4566",
+    "high": "4982.64389",
+    "low": "4982.36",
+    "open": "4982.42698",
+    "change": "-0.00",
+    "datetime": "2026-01-26 03:00:00"
+  },
+  "indicators": {
+    "rsi": 65.6295,
+    "macd": 1.47412,
+    "macd_signal": 2.12548,
+    "sma20": 4982.45672
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理，等待突破信号]",
+      "content": "当前XAU/USD的价格维持在4982.4566附近，全天波动幅度较小，24小时变化为-0.00%。市场处于短期震荡整理阶段，价格未能突破此前的高点和低点，显示出市场观望情绪较浓。\n\n技术指标方面，当前没有RSI和MACD信号，但价格与20日SMA保持接近，显示出市场在该均线附近的整固。MACD值为1.47412，虽呈现轻微的上涨，但缺乏明确的信号支持，表明市场动能不足。\n\n支撑位方面，若价格下跌，4982.36是一个关键支撑区域，若跌破此位可能会进一步下探。阻力位则在4982.64，若突破该价位，可能会刺激价格进一步上行至更高水平。\n\n在操作建议上，当前市场处于观望期，建议投资者保持耐心，等待明确的突破信号。如果价格突破阻力位并伴随增加的成交量，可以考虑做多；若下破支撑位，则可考虑做空。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current price of XAU/USD is positioned near the 4982.46 mark, showing minimal movement with a 24-hour change of just 0.00%. This stability suggests a market in consolidation, where price action is largely range-bound between the high of 4982.64 and the low of 4982.36. Traders may observe this as a period of indecision, awaiting a catalyst that could determine the next directional move. The lack of significant momentum indicates that a breakout or breakdown could be imminent, depending on external factors or market sentiment shifts.\n\nOn the technical side, the lack of RSI data leaves room for uncertainty regarding the overbought or oversold conditions, but the MACD reading of 1.47412 implies a slight bullish inclination. This is a positive sign, but the absence of a defined signal line makes it difficult to establish a clear trend. Meanwhile, the SMA(20) sitting exactly at the latest price suggests the market is in equilibrium. A sustained move above this level could signal further bullish momentum, while a pullback below could indicate weakening strength.\n\nLooking at support and resistance levels, the immediate support lies at the low of 4982.36, while resistance is seen near the high of 4982.64. If the price breaks through either of these levels, it could indicate a move towards new ranges, either towards higher levels or a retracement. Given the current price action, traders should watch these levels closely for any breakout opportunities. The market may remain in its current range unless there is a notable shift in sentiment or external drivers.\n\nIn terms of trading strategy, a range-bound strategy might be effective for the time being. Scalping or short-term trades could benefit from price oscillations within this narrow range. However, a breakout above the current range could open up opportunities for long positions targeting the next significant resistance. Traders should consider waiting for more confirmation from other indicators before making large positions, particularly in light of the current indecision."
+    }
+  }
+}

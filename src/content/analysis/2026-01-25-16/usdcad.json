@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-01-25T16:36:01.938Z",
+  "price": {
+    "close": "1.37023",
+    "high": "1.3703",
+    "low": "1.37022",
+    "open": "1.37024",
+    "change": "-0.00",
+    "datetime": "2026-01-26 03:00:00"
+  },
+  "indicators": {
+    "rsi": 33.54271,
+    "macd": -0.00025034512,
+    "macd_signal": -0.00010694437,
+    "sma20": 1.37166
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：震荡整理中",
+      "content": "当前美元/加元价格处于震荡整理阶段，最新报价为1.37023，24小时内变化微乎其微。高低点区间仅为1.3703与1.37022，表明市场缺乏明显的趋势方向。价格稳定在这一区间内，显示出短期内可能继续维持区间震荡。\n\n技术指标方面，RSI(14)数据缺失，因此暂时无法提供相对强弱指数的趋势分析。MACD指标当前值为-0.00025，且信号线数据缺失，表明市场处于较为平淡的状态，未能形成强烈的买入或卖出信号。20日简单移动平均(SMA)在1.37166附近，价格略低于该均线，显示出一定的下行压力。\n\n在支撑和阻力位方面，当前价格处于短期区间的高位，若突破1.37166，可能会遇到更强的阻力；反之，如果跌破1.37022附近，可能会测试更低的支撑位。短期来看，1.3700-1.3720区间可能成为价格波动的关键区域。\n\n交易建议上，由于缺乏明确的趋势，建议投资者在此区间内操作，采取短线交易策略，利用震荡区间内的反弹和回调进行进出场。对于较保守的投资者，可等待价格突破区间边界后再做决策。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair currently shows a neutral market sentiment, with a minimal 24-hour change of -0.00%, suggesting limited movement. The price is hovering just below the 1.3716 level, where the 20-period simple moving average (SMA) currently resides. This indicates a potential consolidation phase, with neither buyers nor sellers taking clear control. A price above the SMA could indicate bullish momentum, while a break below might signal further downside risk.\n\nWith the MACD showing a negative value of -0.00025, this implies that the short-term momentum is slightly bearish, but with a lack of strong confirmation from other indicators. Since the Relative Strength Index (RSI) is unavailable, traders should consider alternative methods, such as price action, to gauge potential overbought or oversold conditions. Currently, there are no strong reversal signals, but caution should be exercised as the market stays in a narrow range.\n\nSupport and resistance levels remain key for determining possible trade entry points. Immediate support can be seen around 1.37022, the lower boundary of the current range. A breach of this level could open the door for further downside movement towards 1.3680 or lower. On the upside, resistance remains close to the 1.3716 SMA, with the next potential resistance near the 1.3750 zone. A breakout above this level could signal a bullish move in the short term.\n\nTraders may want to stay cautious until clearer trends emerge. A break above 1.3716 could present a buying opportunity, while a dip below 1.37022 might signal a short position. Given the current consolidation, a range-bound strategy, coupled with close attention to any changes in momentum indicators, would be prudent."
+    }
+  }
+}

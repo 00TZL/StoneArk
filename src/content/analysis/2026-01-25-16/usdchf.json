@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-01-25T16:37:33.216Z",
+  "price": {
+    "close": "0.78241",
+    "high": "0.78364",
+    "low": "0.78197",
+    "open": "0.78236",
+    "change": "0.00",
+    "datetime": "2026-01-26 03:00:00"
+  },
+  "indicators": {
+    "rsi": 53.60005,
+    "macd": 0.00024161961,
+    "macd_signal": -0.000077545462,
+    "sma20": 0.781474
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[震荡整理，短期谨慎看待]",
+      "content": "当前美元/瑞郎价格在0.78241附近震荡整理，整体呈现区间波动的走势。近期价格未能突破上方的0.78364高点，反而出现轻微回落，显示市场情绪较为谨慎。短期内，汇价可能在0.78197至0.78364之间进行整理，缺乏明确的单边趋势。\n\n从技术指标来看，MACD仍然较为平缓，数值为0.00024161961，未显示出明显的买入或卖出信号。RSI尚未提供相关信息，因此无法判断市场是否处于超买或超卖区域。20日简单移动平均线(SMA)目前位于0.781474附近，为汇价提供一定支撑，但短期内的方向性不强。\n\n支撑位位于0.78197附近，该区域为近期低点，若价格回落至此，可能会获得支撑并反弹。阻力位则在0.78364附近，若突破该位置，可能会出现上行动能。鉴于当前震荡整理的市场环境，建议短期内保持观望，避免盲目追高或杀跌。\n\n综合来看，美元/瑞郎短期内或将维持震荡整理状态，突破关键支撑或阻力位后再做进一步判断。建议投资者关注区间内的波动，并灵活调整仓位。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF currency pair is currently showing a neutral market environment, with the latest price at 0.78241, reflecting no change over the past 24 hours. The pair is consolidating within a tight range, with a high of 0.78364 and a low of 0.78197. This lack of significant movement suggests that market participants are awaiting fresh catalysts to drive direction. The prevailing trend appears to be neutral, with no clear bias for either bulls or bears in the immediate term.\n\nThe 20-period simple moving average (SMA) stands at 0.781474, offering some insight into short-term support. Prices are hovering slightly above this level, indicating that the market may consider this area as a potential support zone. If the pair tests this SMA and holds above it, this could signal a bullish continuation. However, if the price breaks below this level, it may suggest further downside potential, with the next level of support potentially near the lower range of 0.78197.\n\nDespite the lack of detailed RSI and MACD readings, the price action itself suggests a more balanced market. With the MACD line at 0.00024161961, the lack of a signal line or strong momentum indicates that there is little directional conviction at this moment. Traders should remain cautious, as momentum indicators are not providing clear guidance. The range-bound price action calls for patience, as larger moves may materialize once the pair breaks above resistance or below support.\n\nGiven the current market conditions, traders could consider watching for a breakout above the 0.78364 resistance or a breakdown below 0.78197. A sustained move above resistance could signal a shift toward bullish momentum, while a break below support could open the door for further declines. Positioning in such a range-bound environment would require careful risk management, as false breakouts are common in these conditions."
+    }
+  }
+}
