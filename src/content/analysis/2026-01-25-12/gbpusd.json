@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-01-25T12:54:42.269Z",
+  "price": {
+    "close": "1.36247",
+    "high": "1.36254",
+    "low": "1.36246",
+    "open": "1.36248",
+    "change": "-0.00",
+    "datetime": "2026-01-25 23:00:00"
+  },
+  "indicators": {
+    "rsi": 37.75327,
+    "macd": 0.00025518866,
+    "macd_signal": 0.00058401907,
+    "sma20": 1.36374
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[震荡整理，短期难以突破]",
+      "content": "目前，英镑/美元价格处于1.36247附近，显示出窄幅震荡整理的趋势。从24小时变化来看，波动极小，市场情绪较为平稳。近期价格区间在1.36246至1.36254之间，表明买卖双方力量相对均衡，暂时未出现明显的方向性趋势。\n\n技术指标方面，RSI（相对强弱指数）尚未提供明确的信号，且MACD的数值偏低，表明市场缺乏强势的买入或卖出动能。SMA（20日简单移动平均线）位于1.36374附近，价格略低于该均线，显示出一定的下行压力。由于当前缺乏突破信号，短期内价格可能会继续在该区间内震荡整理。\n\n支撑位方面，当前低点1.36246和1.36240附近可视为短期支撑，如果价格跌破此区间，可能会进一步回调。阻力位则在1.36300及1.36350处，如果突破这些阻力，价格可能会有上涨的潜力。总体来看，价格仍未形成明确的趋势，需等待更强的市场动能。\n\n交易建议：建议短期内保持观望，除非价格突破1.36350或跌破1.36240。若突破上方阻力位，可以考虑做多，若跌破支撑位，则可考虑做空。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD is currently trading at 1.36247, showing little to no movement in the past 24 hours, indicating a period of consolidation. With a very narrow range between the high of 1.36254 and the low of 1.36246, market participants are likely waiting for a catalyst before making any major moves. The price is hovering just below the 20-period simple moving average (SMA) of 1.36374, which acts as a dynamic resistance. This suggests a potential bearish sentiment in the short term, especially if the price fails to break above the SMA.\n\nIn terms of technical indicators, the Relative Strength Index (RSI) is unavailable, which makes it difficult to assess whether the pair is overbought or oversold. The MACD reading of 0.00025518866 is very close to zero, indicating a lack of momentum. Without a clear trend or significant market movement, the current range-bound price action suggests a waiting period until a breakout or a clear direction emerges.\n\nFrom a support and resistance perspective, the market seems to be in a tight range, with no major levels being breached. The 1.36246 low could act as a short-term support, while 1.36374 remains the primary resistance at the moment, due to its proximity to the SMA. A break below 1.36246 would signal further downside potential, targeting the next support zone near 1.3600. On the upside, a sustained push above 1.36374 could lead to a retest of higher levels, but this would require a shift in market sentiment.\n\nFor traders, this range-bound market offers opportunities for short-term trades. Consider entering short positions if the price breaks below 1.36246 with a target around 1.3600. Alternatively, if the price rises above 1.36374, look for long positions with a target toward 1.3650. Given the lack of momentum indicators, it's important to maintain tight stop losses and monitor the market closely for any changes in sentiment."
+    }
+  }
+}

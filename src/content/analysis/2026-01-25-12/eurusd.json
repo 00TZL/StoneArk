@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-01-25T12:53:55.037Z",
+  "price": {
+    "close": "1.18215",
+    "high": "1.18218",
+    "low": "1.18212",
+    "open": "1.18213",
+    "change": "0.00",
+    "datetime": "2026-01-25 23:00:00"
+  },
+  "indicators": {
+    "rsi": 53.70359,
+    "macd": 0.00027426748,
+    "macd_signal": 0.0004270133,
+    "sma20": 1.18239
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[震荡整理，缺乏明确趋势]",
+      "content": "当前欧元/美元的价格维持在1.18215附近，全天变化幅度极小，市场呈现震荡整理状态。根据目前的市场数据，价格未能突破近期的高低点区间，说明市场缺乏强烈的推动力。在这种情况下，短期内价格可能会在区间内波动，等待更多的市场信号。\n\n从技术指标来看，虽然RSI（14）和MACD信号未明确显示出超买或超卖的信号，但MACD的0.000274的微弱正值仍暗示短期内的多头势能较强。20日简单移动平均线（SMA）位于1.18239附近，价格接近这一水平，表明市场情绪较为平衡。\n\n支撑位位于1.18212附近，而1.18218的高点则形成了短期的阻力位。若价格突破上方阻力位，则可能进一步上涨至1.18300附近。反之，如果价格跌破支撑位，可能会向下探至1.18100区域。\n\n基于当前的震荡行情，建议在接近支撑位时寻找低位买入机会，在接近阻力位时则考虑卖出。然而，鉴于市场缺乏明确趋势，保持谨慎并设置合理止损是明智之举。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD currency pair is currently in a neutral consolidation phase, with the latest price at 1.18215. The price has remained largely unchanged over the past 24 hours, showing a tight range between 1.18218 (high) and 1.18212 (low). Given this, it appears that neither buyers nor sellers are dominating the market at present. The pair is trading near its 20-period simple moving average (SMA) of 1.18239, signaling that the market is indecisive and may continue to range within a narrow band unless there’s a significant catalyst.\n\nThe RSI (Relative Strength Index) is not available, making it challenging to assess whether the pair is overbought or oversold in the short term. However, the MACD (Moving Average Convergence Divergence) at 0.000274 indicates a very weak bullish momentum, suggesting that there is minimal upward pressure on the currency pair. Without a confirmed signal, the market is unlikely to see strong directional moves unless there is a breakthrough either above the recent highs or below the lows.\n\nKey support levels are found at the 1.18212 low, which could provide a floor for the price should it attempt to dip lower. On the upside, resistance sits around the 1.18239 area, which is close to the SMA(20) and marks a critical level that could trigger a move higher if broken. A sustained break above this resistance could open the door for further upside, while a failure to hold above this level may result in a retreat toward the lower range.\n\nTraders may consider waiting for a breakout confirmation before entering any trades. If the price breaks above the resistance level, it could be a signal for a long position with a target at 1.18300 or higher. Conversely, if the pair breaks below the support level, a short position could be appropriate, targeting 1.18100 as the next key support zone. Patience and confirmation of momentum are essential in this current market environment."
+    }
+  }
+}

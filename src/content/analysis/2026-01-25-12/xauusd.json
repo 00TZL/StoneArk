@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-01-25T12:59:28.040Z",
+  "price": {
+    "close": "4982.53781",
+    "high": "4982.64399",
+    "low": "4982.35936",
+    "open": "4982.42698",
+    "change": "0.00",
+    "datetime": "2026-01-25 23:00:00"
+  },
+  "indicators": {
+    "rsi": 66.54775,
+    "macd": 1.98753,
+    "macd_signal": 2.84851,
+    "sma20": 4982.45157
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理，短期方向待定]",
+      "content": "当前黄金/美元（XAU/USD）价格处于震荡区间，近期价格变化幅度较小，整体波动在4982.64至4982.36区间内。由于缺乏强烈的价格趋势，短期内可能维持整理态势。需要关注突破区间的方向，才能确定下一步的行情走势。\n\n在技术指标方面，MACD显示为1.98753，但未出现信号线的明确配合，表明市场仍处于震荡修正阶段，短期内缺乏明确的动能信号。RSI（14）目前未提供数据，但通常该指标若低于30，可能表示超卖；高于70则为超买，这对于短期判断有重要参考意义。\n\n从支撑与阻力层面来看，目前的支撑位约在4982.36附近，而上方的阻力位则接近4982.64。若价格突破上方阻力位，可能进一步向更高价格区间扩展；若跌破支撑位，则可能下探至4980或更低。\n\n综合来看，短期内黄金/美元可能继续维持震荡整理的状态，建议投资者保持观望，等待价格突破当前区间后再做出相应交易决策。突破后的进场机会可能带来较大的利润空间。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current market for Gold against the US Dollar (XAU/USD) is relatively stable, with minimal 24-hour change. The latest price of 4982.53781 suggests a balanced market sentiment. However, a closer look at the intraday range, between 4982.64399 and 4982.35936, indicates that price action is consolidating within a tight range. This type of movement typically precedes a breakout or reversal, depending on upcoming market catalysts. Traders should watch for signs of momentum shifts, particularly as price tests its recent highs and lows.\n\nThe absence of a clear RSI value leaves some uncertainty regarding overbought or oversold conditions, but the MACD reading of 1.98753 suggests a potential bullish bias, assuming the histogram confirms continued momentum. The lack of a signal line makes it difficult to gauge any immediate reversal or confirmation, so focusing on price action becomes key. The 20-period simple moving average (SMA) of 4982.45157 reflects current support, and the price is trading just above it, signaling that bullish pressure is in play. A sustained move above this level could invite further buying.\n\nLooking at the technical setup, immediate support lies near the SMA of 4982.45157, which aligns closely with the intraday low of 4982.35936. If this level holds, it could act as a springboard for a move towards the upper boundary near 4982.64399, the recent high. A break below this support could signal a potential test of deeper levels. Traders should remain vigilant for any price action outside this range, which may signal the beginning of a new trend or further consolidation.\n\nFor now, the market leans slightly bullish due to the positive MACD and price action above the SMA. However, any decisive break above or below the established range could provide clearer trading signals. Traders should focus on managing risk with tight stop losses while watching for higher volatility that might accompany any significant news events."
+    }
+  }
+}

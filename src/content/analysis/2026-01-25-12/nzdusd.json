@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-01-25T12:57:53.973Z",
+  "price": {
+    "close": "0.59489",
+    "high": "0.5949",
+    "low": "0.59487",
+    "open": "0.59488",
+    "change": "0.00",
+    "datetime": "2026-01-25 23:00:00"
+  },
+  "indicators": {
+    "rsi": 63.87406,
+    "macd": 0.00021335365,
+    "macd_signal": 0.0002360639,
+    "sma20": 0.594561
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理，缺乏明确趋势]",
+      "content": "当前纽元/美元(NZD/USD)价格维持在0.59489附近，呈现出震荡整理的态势。过去24小时内价格变动微乎其微，未出现明显的趋势性波动。这种情况通常意味着市场参与者观望情绪较强，缺乏推动价格的重大因素。\n\n从技术指标来看，RSI(14)未给出数据，无法对市场的超买或超卖情况进行评估。MACD指标显示出0.00021335365的微弱正值，但由于信号线数据缺失，难以确认持续上涨的动力。此外，20日简单移动平均线(SMA)为0.594561，略低于当前价格，表明短期内可能存在轻微的上行压力。\n\n在支撑和阻力方面，当前价格接近日内低点0.59487，可能为短期支撑位。若价格突破0.5949水平，则可能测试更高的阻力区域。反之，若价格跌破支撑位，则可能进一步回调至更低区域，需关注0.5945附近的潜在支撑。\n\n建议交易者在此区间内采取观望策略，等待价格突破支撑或阻力位再做进一步操作。如果有短期反弹信号，考虑轻仓参与，避免过度激进操作。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The New Zealand Dollar against the US Dollar (NZD/USD) has shown limited movement over the last 24 hours, with a tight trading range between 0.59487 and 0.5949. The lack of significant price movement suggests a consolidation phase, as the market is caught in a narrow range. Given the lack of momentum, the trend appears neutral at this moment, with no clear direction emerging in either the short or medium term. The market will likely require a catalyst for a breakout from this range.\n\nThe absence of a clear RSI value complicates momentum analysis, but the MACD value of 0.00021335365 suggests the presence of minimal buying or selling pressure. This is confirmed by the relatively flat reading from the Moving Average Convergence Divergence (MACD), which signals a market in equilibrium. Without strong momentum indicators, traders may want to avoid taking large directional positions unless further data becomes available. The 20-period Simple Moving Average (SMA) at 0.59456100 supports the neutral outlook, providing a slight indication of potential support.\n\nSupport for NZD/USD lies near the 0.59487 low, with the next key level extending to the 0.59456 area, which aligns with the SMA(20). If the price breaks below this level, further downside could be expected, potentially testing the next support zone. On the upside, resistance may be seen near the 0.5949 mark, and any move above this level could suggest a possible shift in momentum toward a higher range, but it would need confirmation from more decisive market indicators.\n\nFor trading, it may be prudent to wait for a breakout either above 0.5949 or below 0.59456 to capture a more defined trend. A breakout above 0.5949 could lead to a move towards 0.5955 or higher, while a drop below 0.59456 might open up the path to a further decline. Until a breakout occurs, range-bound strategies could prove effective for short-term traders."
+    }
+  }
+}

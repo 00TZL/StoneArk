@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-01-25T12:58:38.087Z",
+  "price": {
+    "close": "0.7843",
+    "high": "0.78431",
+    "low": "0.78322",
+    "open": "0.78323",
+    "change": "0.14",
+    "datetime": "2026-01-25 23:00:00"
+  },
+  "indicators": {
+    "rsi": 71.79107,
+    "macd": -0.000017093842,
+    "macd_signal": -0.00051407591,
+    "sma20": 0.7812165
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[震荡整理，潜在下行风险]",
+      "content": "当前美元/瑞郎（USD/CHF）价格在0.7843附近波动，呈现出震荡整理的趋势。尽管价格略有上涨，但整体波动幅度较小，且未能突破明显的技术支撑或阻力区域。市场情绪较为平稳，未见强烈的上涨或下跌动能。\n\n从技术指标来看，当前RSI和MACD数据不足以提供明确的趋势信号。SMA(20)位于0.7812附近，表现出短期内价格可能维持在该水平附近波动。如果价格跌破该均线支撑位，可能会引发进一步下行调整。与此同时，MACD值为负，显示出卖盘压力较大。\n\n支撑位方面，0.7832附近为近期的低点区域，若价格进一步下行，可能会触及这一支撑位。上方阻力位在0.7843附近，突破此点位可能会迎来一定反弹。若价格突破0.7850，则可能意味着短期内转向上行趋势。\n\n综合来看，当前市场震荡整理，建议投资者采取谨慎态度，关注0.7832和0.7850的关键价格区域。如价格接近支撑位，考虑低位吸纳；若突破阻力位，则可考虑适度跟进反弹行情。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently trading at 0.7843, with a minor 24-hour change of 0.14%, reflecting a relatively stable market. The price has been oscillating between 0.78322 and 0.78431, suggesting a tight range and lack of strong directional movement. In terms of trend, the pair has been holding above the 20-period simple moving average (SMA), which sits at 0.7812165, indicating mild bullish sentiment in the short term. A sustained break above this level could signal further upside potential, but current momentum remains weak.\n\nThe MACD reading of -0.000017093842, although near zero, suggests minimal momentum at present. Without a defined signal or crossover, this technical indicator doesn’t provide clear guidance on an imminent shift in trend direction. The RSI (14) data is unavailable, which would otherwise help assess whether the market is overbought or oversold, adding additional context to the price action. Traders should remain cautious without further momentum indicators, especially given the tight trading range observed in recent sessions.\n\nKey support for the pair is seen around the 0.78322 low, which has held up during recent price fluctuations. A breakdown below this level could trigger further downside, with potential targets around the 0.7800 zone, where additional support may emerge. On the upside, resistance is found at 0.78431, a level that has capped any upside movement in recent sessions. A break above this resistance could open the door for a retest of the 0.7850 to 0.7870 region, where further selling interest might arise.\n\nFor traders, the current range-bound behavior suggests that short-term scalping or range trading strategies could be appropriate. Waiting for a clear breakout above 0.7843 or a breakdown below 0.78322 would be prudent before taking a position. The lack of significant momentum signals means that caution should be exercised, with close attention paid to future MACD crossovers or RSI readings for more reliable trade entry points."
+    }
+  }
+}
