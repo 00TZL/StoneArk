@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-01-25T20:33:51.336Z",
+  "price": {
+    "close": "1.36878",
+    "high": "1.37107",
+    "low": "1.36696",
+    "open": "1.36952",
+    "change": "-0.06",
+    "datetime": "2026-01-26 07:00:00"
+  },
+  "indicators": {
+    "rsi": 32.098373,
+    "macd": -0.00049153996,
+    "macd_signal": -0.00021674734,
+    "sma20": 1.37144
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理，短期观望]",
+      "content": "目前美元/加元（USD/CAD）走势较为震荡，价格在1.36878附近徘徊。由于24小时变化幅度较小（-0.06%），整体市场情绪偏向中性。近期价格未能突破重要阻力位1.37107，且回落至支撑区间1.36696附近，显示出震荡整理的市场特征。\n\n从技术指标来看，RSI（14）未提供最新数值，表明市场暂时缺乏强烈的超买或超卖信号。MACD值为-0.000491，处于负值区间，短期内显示卖压略占优势，但尚未形成强烈的下行趋势。20日简单移动平均线（SMA）位于1.37144附近，进一步确认了价格当前的整理态势。\n\n在支撑/阻力位方面，当前的支撑位约在1.36696，若价格跌破此处，可能会进一步下探至更低区域。上方阻力位则在1.37107附近，若价格突破此阻力，则有可能重新测试更高价格区间。市场目前处于关键区域，价格的突破或回撤将决定短期趋势的走向。\n\n综上所述，考虑到市场震荡整理的情况，建议在短期内观望，避免在区间内贸然进场。若价格突破1.37107或跌破1.36696，可考虑相应的跟进策略。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD currency pair is currently exhibiting a slightly bearish trend as the price has decreased by 0.06% over the past 24 hours. The market’s inability to break above the recent high of 1.37107 suggests some level of resistance around this zone. The price is currently testing the 1.36696 low, which could potentially act as a support level. Given the market’s sideways movement, it may indicate indecision, though a bearish outlook is still in play as the price remains below the 20-period simple moving average (SMA) at 1.37144.\n\nOn the technical indicators front, the MACD value of -0.00049 indicates a mild bearish momentum, with no clear signal for a reversal or a strong trend yet. The absence of a clear signal line further suggests that the market is in a consolidation phase. This type of price action typically precedes a breakout, either to the upside or downside, depending on how the support and resistance levels react. A further decline toward 1.36696 could confirm the bearish momentum if the pair fails to rebound.\n\nLooking at support and resistance, the next key support lies around 1.36696, with a break below this level likely leading to further downside pressure toward 1.36300. On the resistance side, 1.37107 is a critical zone that traders should monitor closely; a breakout above this resistance could signal a shift in sentiment, providing an opportunity for a move toward the 1.37400 level. As the market is in a consolidation phase, traders may consider waiting for a clear breakout before committing to a position.\n\nFor trading strategies, short positions could be considered if the pair fails to hold above 1.36696, with targets set toward the 1.36300 support level. Conversely, a break above 1.37107 could present an opportunity for long trades, with a potential upside toward 1.37400. In either case, careful attention to price action near key support and resistance levels is advised to manage risk effectively."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-01-25T20:33:06.833Z",
+  "price": {
+    "close": "0.69214",
+    "high": "0.69316",
+    "low": "0.69103",
+    "open": "0.69195",
+    "change": "0.02",
+    "datetime": "2026-01-26 07:00:00"
+  },
+  "indicators": {
+    "rsi": 80.49403,
+    "macd": 0.00066836093,
+    "macd_signal": 0.00033756068,
+    "sma20": 0.689708
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，短期内缺乏明确方向]",
+      "content": "目前，澳元/美元在0.69214附近震荡整理，价格波动较小，24小时变化仅为0.02%。短期来看，市场缺乏强烈的上升或下降趋势，价格维持在0.69103至0.69316区间内。由于没有明确的趋势突破，整体走势呈现出整理态势。\n\n技术指标方面，RSI(14)尚未提供数据，但MACD目前显示为正值0.000668，表明短期内买盘力量略占优势。SMA(20)位于0.6897，显示出市场可能存在一定的支撑，若价格回落至此水平，可能吸引买盘介入。\n\n从支撑和阻力来看，当前0.6910附近为短期支撑位，而0.6932则构成强阻力位。如果价格突破上方阻力，可能进一步测试0.6950区域，若下破支撑，则可能回测0.6870附近。\n\n建议短期交易者可以在支撑位附近寻找买入机会，设置止损在0.6900以下；若价格突破阻力位，可以考虑适度追涨。不过，鉴于当前缺乏明确的方向，保持谨慎并关注市场进一步信号变化。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar against the US Dollar (AUD/USD) is currently displaying a slight bullish bias, with the latest price at 0.69214, a modest 24-hour change of +0.02%. This suggests a neutral-to-positive market sentiment. The high and low during the 24-hour period have been tightly range-bound between 0.69316 and 0.69103, indicating a period of consolidation. Without strong momentum either way, it’s likely that price action may continue to hover within this range unless there’s a catalyst for a breakout.\n\nFrom a technical perspective, the price is currently above the 20-period Simple Moving Average (SMA) of 0.6897, which indicates that the short-term trend is slightly bullish. However, the absence of a clear RSI reading and the low MACD value of 0.00067 suggests that momentum is not strong enough to drive a significant move in either direction. The lack of clear momentum could lead to further consolidation or a minor pullback to test support levels.\n\nKey support is identified at 0.69103, which is the recent low for the 24-hour period. If this level is breached, the next significant support is likely to come in around 0.6897, aligning with the SMA. Resistance is seen at 0.69316, the recent high, which could act as a barrier to further upside. A breakout above this resistance level would open the door to a potential rise toward the 0.6950 region. Traders may want to monitor this zone for potential entry opportunities.\n\nFor short-term traders, the current market structure suggests a range-bound strategy might be appropriate, waiting for a confirmed breakout or breakdown before committing to larger positions. A breach of either the 0.69316 resistance or 0.69103 support would likely present clearer directional signals. Until then, a wait-and-see approach with tight stop-loss orders may be prudent for those looking to capitalize on smaller price movements."
+    }
+  }
+}

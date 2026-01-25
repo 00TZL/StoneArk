@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-01-25T20:30:46.504Z",
+  "price": {
+    "close": "1.18705",
+    "high": "1.18719",
+    "low": "1.18478",
+    "open": "1.1854",
+    "change": "0.13",
+    "datetime": "2026-01-26 07:00:00"
+  },
+  "indicators": {
+    "rsi": 81.6269,
+    "macd": 0.00070471742,
+    "macd_signal": 0.00029596445,
+    "sma20": 1.18251
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：当前震荡整理，短期偏多",
+      "content": "当前欧元/美元价格在1.18705附近波动，24小时变化为0.13%。整体价格处于震荡整理状态，虽然出现轻微上涨，但并未突破显著的技术区间。日内的高低点分别为1.18719和1.18478，价格区间较为窄幅。\n\nRSI和MACD指标当前缺乏明确数据，但根据目前价格走势，可能显示出相对较强的买盘力量。SMA(20)位于1.18251，显示出短期内支撑位较为坚实。若价格回调至此位置，可能会吸引买盘重新进入。\n\n当前支撑位位于1.18478附近，而阻力位则在1.18719附近。若突破上方阻力，可能进一步测试1.19000大关。下行风险较小，除非跌破1.18478支撑位，否则短期内下行空间有限。\n\n建议交易者保持谨慎观望，等待价格突破1.18719上方或回调至支撑位1.18251附近时再作决策。此时，若突破上行则可以考虑做多，而跌破支撑则需准备调整策略。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD currency pair is currently exhibiting a slight bullish bias, with the latest price at 1.18705. Despite a modest 24-hour change of +0.13%, the pair has not shown significant volatility within the past day, trading between a high of 1.18719 and a low of 1.18478. This stability suggests that the market may be consolidating, with traders awaiting a more substantial catalyst for movement. On the longer-term chart, the trend appears mildly bullish, as the price remains above its 20-period simple moving average (SMA), which is currently at 1.18251.\n\nFrom an indicator perspective, the Relative Strength Index (RSI) is unavailable, but the MACD shows a positive value of 0.00070471742, indicating that the bulls have a slight upper hand in the short term. This suggests the potential for a continuation of the current trend, though the absence of a clear signal line makes it difficult to assess any immediate momentum shifts. Traders should watch for any signs of divergence or increased momentum that could signal either a continuation or reversal of the current trend.\n\nKey support for EUR/USD lies at 1.18478, which was tested during the recent low, while resistance is seen around the 1.18719 level. A break above this resistance could open the path toward higher levels, with the next target potentially around 1.19000. Conversely, a fall below 1.18478 would likely see the pair testing deeper support levels, such as the 1.18250 area, where the SMA provides additional support.\n\nFor traders, the current market conditions suggest a cautiously optimistic outlook. A break above resistance could provide a buying opportunity, while a drop below support might prompt a short position. Risk management strategies are essential, with appropriate stop-loss and take-profit levels set to protect against potential reversals."
+    }
+  }
+}

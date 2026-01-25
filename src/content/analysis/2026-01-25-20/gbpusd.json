@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-01-25T20:31:35.098Z",
+  "price": {
+    "close": "1.36576",
+    "high": "1.36789",
+    "low": "1.3636",
+    "open": "1.36469",
+    "change": "0.08",
+    "datetime": "2026-01-26 07:00:00"
+  },
+  "indicators": {
+    "rsi": 61.18799,
+    "macd": 0.00039389456,
+    "macd_signal": 0.00024634354,
+    "sma20": 1.36388
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：震荡整理中，短期偏多",
+      "content": "当前英镑/美元价格在1.36576附近，整体表现出震荡整理的趋势。从短期来看，价格维持在1.3636至1.36789的区间内波动，缺乏明确的上涨或下跌动能。RSI和MACD未提供明确的超买或超卖信号，市场情绪相对平稳，尚未出现强烈的趋势形成。\n\n从技术指标上看，当前SMA(20)位于1.36388，表明该水平可能作为短期支撑。若价格突破1.36789的高点，可能会迎来上行的进一步动能，突破后下一目标看向1.3700附近的阻力位。MACD数据仍处于轻微的正值区，显示出市场略有多头偏向，但未完全确认强势反弹。\n\n支撑位方面，1.3636和SMA(20)均可视为有效支撑区域。若价格下行破位1.3636，可能会回测1.3600区域。反之，若价格向上突破1.36789，1.3700至1.3720区域为可能的阻力区间，需重点关注价格突破后的动向。\n\n综合来看，短期内英镑/美元可能继续维持震荡整理。建议交易者密切关注支撑和阻力的突破情况，若价格突破1.36789则可考虑轻仓多单；若价格跌破1.3636，则可考虑寻找空头机会。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The current price of GBP/USD is 1.36576, showing a modest 0.08% change in the last 24 hours. With the price staying within a tight range of 1.36789 and 1.3636, the market appears to be consolidating. The lack of significant movement suggests a period of indecision, where neither bulls nor bears are gaining clear control. Traders should watch for a breakout beyond these levels to determine the next direction. A move above 1.3680 could target 1.3700 or higher, while a dip below 1.3630 might open the door to 1.3600.\n\nThe 20-period Simple Moving Average (SMA) at 1.36388 indicates a slight bullish bias, as the current price is above this level. This could signal that the market is still in a relatively positive short-term trend, but the market needs to break above 1.3670 to confirm this view. Given the tight trading range, traders should be cautious and await further confirmation before committing to larger positions. A sustained move above 1.3679 would validate the uptrend, while failure to break this level might prompt a reversal or continued range-bound movement.\n\nIn terms of momentum, the MACD is showing a minor positive value of 0.00039389456, though it is not enough to indicate a strong bullish trend. With the RSI unavailable, traders can use the MACD as a partial indication of market sentiment. A stronger positive value or a cross above the signal line would provide more confidence in a bullish outlook. If momentum picks up, expect the market to test resistance levels at 1.3700 or even higher, with 1.3740 acting as a key barrier.\n\nKey support lies at 1.3630 and 1.3600, while resistance is at 1.3679 and 1.3700. The range between these levels offers a viable short-term trading opportunity. Traders could consider buying near support levels and selling near resistance, watching for signs of breakout or reversal. As the market consolidates, risk management will be crucial to protect against potential sudden moves outside the established range."
+    }
+  }
+}

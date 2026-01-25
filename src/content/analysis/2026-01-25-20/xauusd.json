@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-01-25T20:36:01.661Z",
+  "price": {
+    "close": "4982.52167",
+    "high": "4982.66944",
+    "low": "4982.33457",
+    "open": "4982.40644",
+    "change": "0.00",
+    "datetime": "2026-01-26 07:00:00"
+  },
+  "indicators": {
+    "rsi": 65.9757,
+    "macd": 1.089062,
+    "macd_signal": 1.57963,
+    "sma20": 4982.47556
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：震荡整理，短期走势平稳",
+      "content": "当前黄金/美元（XAU/USD）价格在4982.52附近震荡整理，显示出短期内市场缺乏明确的趋势。价格维持在高点4982.67和低点4982.33区间内，表明买卖双方力量相对均衡。短期内可能继续处于区间整理状态，等待新的市场动能。\n\n从技术指标来看，目前的MACD处于正值区间，显示出市场存在一定的上涨动能。然而，由于缺乏RSI和Signal线的有效数据，难以从传统的动量指标中得到明确的趋势信号。SMA(20)位于4982.48附近，短期内的价格大致围绕此均线波动，进一步确认了震荡整理的走势。\n\n对于支撑位和阻力位的判断，当前的支撑位可参考低点4982.33，而阻力位则位于4982.67附近。如果价格突破上行阻力位，可能会引发短期的上涨动能，反之则可能测试支撑位，导致价格回落。\n\n建议投资者在当前区间内进行短线操作，突破关键价位时可考虑采取追随趋势的策略。若价格持续震荡，观望并等待更明确的信号再进行进场。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD market currently shows limited movement with the price at 4982.52, reflecting no change in the past 24 hours. Given this lack of volatility, it's essential to observe any upcoming breakouts or shifts in momentum. At present, the market sits near a key level, with the high at 4982.67 and the low at 4982.33, forming a tight range. This consolidation phase suggests that the market may be waiting for a catalyst to break either upwards or downwards. Traders should monitor the market closely for any price action indicating a breakout, as this could set the tone for the next directional move.\n\nOn the indicator front, the current lack of an RSI reading makes it difficult to assess overbought or oversold conditions, which would typically guide potential reversal points. The MACD is currently at 1.089, but without a corresponding signal line value, its directional strength is unclear. In situations like this, it's important to be cautious of false signals as the market could remain range-bound for an extended period. The 20-period Simple Moving Average (SMA) is slightly above the current price, indicating a slight upward bias, but the price is still very close to this moving average, suggesting indecision in the market. \n\nLooking at key support and resistance, the immediate support appears to be at 4982.33, with resistance close to 4982.67. A break below support could signal a test of lower levels, while a push above resistance might indicate the potential for an upward move, with the next resistance zone possibly around 4985. The narrow range between these two levels presents a potential trading opportunity for scalpers or those seeking to take advantage of small price movements within this consolidation.\n\nGiven the current market dynamics, traders should remain vigilant for any signs of breakout or momentum. If price decisively breaks either the support or resistance, a more directional trade may become viable. For now, however, caution is advised as the market remains in a tight range, and the absence of key technical indicators leaves little certainty regarding the next move."
+    }
+  }
+}

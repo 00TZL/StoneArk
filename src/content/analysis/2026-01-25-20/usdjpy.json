@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-01-25T20:32:22.077Z",
+  "price": {
+    "close": "154.60106",
+    "high": "154.99361",
+    "low": "154.4966",
+    "open": "154.93608",
+    "change": "-0.22",
+    "datetime": "2026-01-26 07:00:00"
+  },
+  "indicators": {
+    "rsi": 20.75554,
+    "macd": -0.25023583,
+    "macd_signal": -0.14543821,
+    "sma20": 155.61174
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理，市场缺乏方向性]",
+      "content": "当前美元/日元价格呈现震荡整理的走势，价格在154.50至154.99区间内波动，显示出市场缺乏明确的上涨或下跌动力。短期内，若价格突破154.99的高点，可能会继续向上测试155.61附近的阻力位；反之，若跌破154.50支撑位，可能会面临进一步的下行压力。\n\n从技术指标来看，当前MACD值为负，显示出市场的弱势情绪。虽然RSI未提供具体数据，但从价格区间的震荡可以推测，市场并未进入超买或超卖区间。20日简单移动平均线（SMA）处于155.61附近，若价格下行突破该线，可能会对短期趋势产生进一步压力。\n\n支撑位方面，154.50一线较为关键，若价格跌破此位置，则可能进一步回测154.00区间。阻力位在154.99和155.61，若突破这些阻力，可能会恢复上涨趋势。市场当前依旧处于整理阶段，需关注这些关键价格点。\n\n建议短期内采取区间交易策略，利用154.50至154.99的波动进行进出场操作。若价格突破关键点位，则应调整策略，考虑趋势方向。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently displaying a slight bearish trend with a modest decline of -0.22% over the past 24 hours. The price has been hovering between 154.4966 and 154.99361, showing consolidation near the lower end of this range. With the latest price at 154.60106, it indicates that there is some resistance near 154.99361, which could potentially cap further upward movement. A failure to break above this level might suggest a continuation of the current consolidation phase or a potential reversal to the downside.\n\nLooking at key technical indicators, the 20-period SMA at 155.61174 highlights that the pair is still trading below its short-term moving average, further reinforcing the bearish sentiment. The MACD value of -0.25023583 indicates a negative momentum, though there is no signal crossover data available at this time. This negative reading on the MACD suggests that bearish momentum could continue if the price fails to break above recent highs. However, the absence of a complete indicator setup leaves the market in a state of indecision.\n\nSupport levels are crucial to watch for any potential downside reversal. The immediate support is seen at 154.4966, which could act as a short-term floor. If this level is breached, further declines could open the door for a move toward the next support zone near 154.00. However, in the absence of clear reversal signals, caution is advised before attempting to trade these levels. A break above the 154.99 resistance, on the other hand, could suggest the pair is attempting to shift to a more neutral or bullish stance.\n\nTraders should keep an eye on price action around these levels, especially if the pair remains below the 20-period SMA. A bounce from the 154.4966 support may present an opportunity to target the next resistance at 154.99. However, it’s crucial to wait for confirmation of bullish momentum before considering long positions. Conversely, failure to hold the 154.4966 support could lead to a bearish outlook with potential for further declines."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-01-25T20:35:19.610Z",
+  "price": {
+    "close": "0.77646",
+    "high": "0.77767",
+    "low": "0.77468",
+    "open": "0.77705",
+    "change": "-0.06",
+    "datetime": "2026-01-26 07:00:00"
+  },
+  "indicators": {
+    "rsi": 30.61931,
+    "macd": -0.00066065704,
+    "macd_signal": -0.00014886977,
+    "sma20": 0.7810855
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[震荡整理，短期偏弱]",
+      "content": "当前美元/瑞郎（USD/CHF）的价格为0.77646，整体处于震荡整理状态。从短期走势来看，价格在0.77468至0.77767区间内波动，未能突破明显的支撑或阻力。短期内，市场可能继续维持这种小幅波动的格局。\n\nMACD指标显示出负值，暗示短期内卖压略有增加，但信号线未明确指向继续下行。RSI未提供有力信号，但从技术面看，当前价格距离SMA(20) 0.7810855水平存在一定距离，可能在该位置附近形成阻力。市场缺乏强烈的上涨动能。\n\n支撑位在0.77468附近，一旦突破该点位，可能会进一步回测0.77000区域。上行方面，若突破0.77767，则短期内可能挑战0.7810的阻力位。考虑到当前震荡格局，若价格接近支撑位，可能是短期反弹的机会，但需注意突破阻力位才能确认上涨动能。\n\n基于当前震荡行情，建议在区间内操作，短期内可在支撑位附近寻找买入机会，而在接近阻力位时则考虑卖出。整体保持灵活应对，耐心等待明确的趋势信号。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently in a slight downtrend, as indicated by the latest price of 0.77646, just below the 20-period simple moving average (SMA) at 0.7810855. This positioning suggests the market is struggling to break above key resistance levels, with the price having recently tested the 0.77767 high and retracing to the lower end of the range at 0.77468. While the overall trend appears to be neutral, the bearish pressure is evident in the small loss of -0.06% over the last 24 hours.\n\nThe absence of a clear RSI value and an incomplete MACD indicator complicates the analysis of momentum. However, the MACD at -0.00066 signals weak downward momentum. Without the support of additional indicators like RSI or Signal lines for MACD, it's difficult to make a definitive call about market strength. Traders should monitor price action closely for signs of either a continuation of the downward movement or a potential reversal, with a break above the 0.7810855 SMA possibly indicating a bullish shift.\n\nKey support levels are found near the recent low of 0.77468, which could act as a bounce point if the market decides to find a bottom. A decisive break below this level would expose further downside risk, with support potentially emerging around 0.77000 or lower. On the resistance side, the area around 0.77767 and the SMA at 0.7810855 will be crucial in determining whether the market can shift back into a neutral or upward momentum. Traders may find opportunities in both short-term scalps and medium-term positions based on these levels.\n\nFor trading, caution is advised due to the current lack of clear trend indicators. A break below support or above resistance should trigger a more confident position, while staying within this range might call for more range-bound strategies. A conservative approach, waiting for a clearer signal from price action or additional technical indicators, may offer better risk management."
+    }
+  }
+}
