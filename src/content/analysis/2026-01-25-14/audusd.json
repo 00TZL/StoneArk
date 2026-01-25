@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-01-25T14:27:25.857Z",
+  "price": {
+    "close": "0.68919",
+    "high": "0.68922",
+    "low": "0.68876",
+    "open": "0.68877",
+    "change": "0.06",
+    "datetime": "2026-01-26 01:00:00"
+  },
+  "indicators": {
+    "rsi": 54.24682,
+    "macd": 0.000096795397,
+    "macd_signal": 0.00019370795,
+    "sma20": 0.6891925
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，缺乏明确方向]",
+      "content": "当前澳元/美元在0.6887至0.6892区间内震荡整理，短期内缺乏明确的上行或下行动能。市场在这一价格区间保持平稳，显示出市场参与者的观望情绪。价格未突破关键的支撑和阻力水平，显示出市场的不确定性。\n\n从技术指标来看，MACD线微弱上行，虽然目前处于极小波动区间，但显示出可能的上行动能。SMA(20)的值为0.68919，价格接近该均线，表明市场暂时处于均衡状态。此外，由于RSI数据缺失，暂时无法对超买或超卖状态做出评估。\n\n支撑位在0.6887附近，这一水平曾多次测试并未有效突破，可能限制价格下行空间。阻力位则在0.6893附近，若突破该点，可能会开启进一步上行空间。整体来看，价格在当前区间内震荡，突破上下限可能会为未来的方向提供信号。\n\n鉴于当前市场走势偏向震荡整理，建议交易者可等待价格突破支撑或阻力后再做决策，避免在区间内贸然进场。保持耐心，密切关注技术指标的变化，以抓住合适的入场时机。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently hovering around the 0.68919 level, showing a slight 0.06% change over the past 24 hours. Price action remains tightly contained, with the high and low for the day only separated by 0.00046. This narrow range suggests a market in consolidation, likely waiting for a catalyst to drive it either higher or lower. The absence of a significant directional move indicates a market that could be gearing up for a breakout, either above the 0.68922 high or below the 0.68876 low. \n\nWith the RSI(14) data unavailable, it is difficult to determine any immediate overbought or oversold conditions. However, given the narrow daily range, the pair might be in a neutral phase. The MACD value at 0.000096795397 suggests some bullish momentum, but without a clear signal or cross, it doesn't provide strong conviction. Traders should remain cautious and monitor for a more definitive crossover or divergence to gain clearer insights into the prevailing momentum. \n\nThe 20-period Simple Moving Average (SMA) sits precisely at 0.68919, reflecting the current price, and further supports the idea of neutrality in the market. A break below the SMA could signal a bearish move toward the 0.68876 support, while a break above might trigger a push toward 0.6900 or higher. This SMA level can act as a crucial pivot point for traders looking for short-term trading opportunities. \n\nLooking at support and resistance, the immediate support appears at 0.68876, while resistance is likely near the 0.68922 level. A clean break below support would expose the pair to further downside, potentially targeting 0.6870 or even lower. Conversely, a move above resistance could signal an attempt to push toward the next resistance zone near 0.6905. Traders should look for confirmation of these levels before entering new positions, as the market remains range-bound for now."
+    }
+  }
+}

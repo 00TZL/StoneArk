@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-01-25T14:30:45.849Z",
+  "price": {
+    "close": "4982.53632",
+    "high": "4982.64296",
+    "low": "4982.35982",
+    "open": "4982.42698",
+    "change": "-0.00",
+    "datetime": "2026-01-26 01:00:00"
+  },
+  "indicators": {
+    "rsi": 66.5338,
+    "macd": 1.71633,
+    "macd_signal": 2.4618,
+    "sma20": 4982.44688
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理，缺乏明确方向]",
+      "content": "目前，黄金/美元（XAU/USD）价格在4982附近维持震荡整理态势，24小时变化几乎为零。市场缺乏强烈的趋势性动能，价格在4982.64和4982.36之间波动，显示出短期内的区间震荡行情。由于RSI和MACD信号不明确，当前并未出现明显的超买或超卖信号。\n\n技术面上，SMA(20)为4982.45，表明市场短期均线支撑位在此附近，进一步确认了当前价格维持在均衡状态。不过，MACD数值为1.71633，虽然存在一定的上升动能，但由于缺乏清晰的信号线，仍需谨慎对待。整体来看，黄金/美元的走势更多表现为整理期的反复横盘。\n\n从支撑和阻力的角度看，短期支撑位位于4982.36，若价格进一步下行，可能会考验这一支撑水平。而阻力位则暂时在4982.64附近，如果突破这一水平，可能会出现短期的反弹上行。交易者可关注这些价格区间的突破情况。\n\n综上所述，目前黄金/美元处于技术性整理阶段，适合短期区间交易。建议在支撑位附近寻找买入机会，而在阻力位附近则考虑卖出或止盈，等待市场趋势的进一步明确。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD pair is currently trading near a critical level around 4982.53, showing little movement over the last 24 hours, reflecting a neutral market sentiment. The lack of significant change in price indicates indecision, with the market possibly awaiting clearer direction from global economic data or geopolitical developments. Price action has been confined within a tight range between 4982.64 and 4982.36, suggesting a period of consolidation. This could set the stage for a potential breakout, either upwards or downwards, depending on the next catalyst.\n\nThe absence of RSI and Signal data makes it challenging to assess immediate overbought or oversold conditions, but MACD is currently at 1.71633, indicating positive momentum, albeit without a clear trend. A positive MACD reading may suggest that bullish sentiment is still in play, although the market lacks the clarity typically provided by a crossing of the MACD line over the signal line. Traders should remain cautious as the absence of key indicators limits the actionable insights for this pair.\n\nThe 20-period SMA is positioned at 4982.45, very close to the current price level, reinforcing the market's lack of clear direction. This proximity suggests that short-term momentum is flat, with neither buyers nor sellers in full control. A break above the SMA could point to a short-term bullish move, with resistance likely around the recent high of 4982.64. Conversely, a break below the low of 4982.36 could signal a bearish shift, with support potentially forming around 4982.00.\n\nIn terms of trading strategy, a breakout above 4982.64 could present an opportunity for a long position, targeting higher levels. On the other hand, a dip below 4982.36 may offer a short opportunity, with the expectation of further downside. However, due to the current neutral market conditions, traders may want to wait for more decisive signals before entering a position, such as a crossover in the MACD or a more definitive price movement."
+    }
+  }
+}

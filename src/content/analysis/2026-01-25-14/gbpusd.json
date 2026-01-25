@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-01-25T14:25:53.054Z",
+  "price": {
+    "close": "1.36262",
+    "high": "1.36268",
+    "low": "1.36097",
+    "open": "1.36099",
+    "change": "0.12",
+    "datetime": "2026-01-26 01:00:00"
+  },
+  "indicators": {
+    "rsi": 45.39584,
+    "macd": -0.000029536969,
+    "macd_signal": 0.00037145214,
+    "sma20": 1.36358
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：震荡整理走势，关注突破",
+      "content": "当前英镑/美元维持震荡整理走势，价格波动较小。最新价格为1.36262，24小时变化仅为0.12%。短期内，汇价未能突破1.36358的20日简单移动平均线（SMA），表明多空双方尚未形成明确的趋势方向。\n\n技术指标方面，RSI（相对强弱指数）数据缺失，无法对超买或超卖情况进行判断。MACD数值接近零，表明市场的动能较弱，缺乏强烈的买入或卖出信号。当前价格接近1.36097支撑位，若跌破此位置，可能进一步下探1.3580附近的关键支撑位。\n\n就支撑与阻力而言，1.36358为短期的主要阻力位，若突破该水平，可能推动价格进一步上行至1.3650。下行方面，1.3600至1.36097区间是较强的支撑区域，若价格持续回落至此区间，可以考虑反弹交易。\n\n综合来看，当前市场缺乏明显趋势，建议投资者保持谨慎，待价格突破关键支撑或阻力位后再做决策。短期内可关注1.3600和1.3630的价格区间，采取区间交易策略。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The British Pound (GBP) against the US Dollar (USD) has shown slight bullish momentum over the past 24 hours, with a modest increase of 0.12%. The current price at 1.36262 reflects a minor uptick from the low of 1.36097, signaling that buyers are maintaining a mild advantage. Despite this, the market is largely consolidating, with the price hovering around the 20-period Simple Moving Average (SMA) at 1.36358. This suggests a lack of strong directional movement, indicating potential indecision in the market. \n\nThe Relative Strength Index (RSI) and MACD indicators are not available, limiting insight into overbought or oversold conditions or momentum shifts. However, the current MACD value of -0.00003 suggests a neutral or slightly bearish bias in the near term. The absence of a clear trend may point to potential choppy price action as market participants await stronger directional signals, possibly from upcoming economic data or central bank news. In this context, trading strategies should remain cautious until clearer patterns emerge.\n\nKey support for GBP/USD is seen around the 1.36097 level, with the potential for further declines if this area fails to hold. A drop below this point could expose deeper support zones closer to 1.35800. On the upside, resistance is capped at the SMA level of 1.36358, with further resistance potentially forming near 1.36500. A break above 1.36500 could signal a more sustained bullish move, while failure to breach this level could see the pair returning to the lower range.\n\nGiven the current market conditions, a range-bound strategy may be advisable, with opportunities to buy near support at 1.36097 and sell near resistance at 1.36358. Tight stop losses should be employed to manage risk, as the market is prone to quick reversals due to the lack of significant trend direction. Patience will be key in waiting for confirmation of a breakout or trend shift before engaging in larger positions."
+    }
+  }
+}

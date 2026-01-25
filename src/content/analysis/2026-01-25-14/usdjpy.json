@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-01-25T14:26:38.678Z",
+  "price": {
+    "close": "155.89829",
+    "high": "155.95745",
+    "low": "155.86653",
+    "open": "155.95068",
+    "change": "-0.04",
+    "datetime": "2026-01-26 01:00:00"
+  },
+  "indicators": {
+    "rsi": 50.012367,
+    "macd": -0.0608472,
+    "macd_signal": -0.10660457,
+    "sma20": 155.84676
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[当前震荡走势，关注支撑和阻力突破]",
+      "content": "当前美元/日元（USD/JPY）在155.89附近交易，呈现震荡整理的格局。24小时内价格略微下跌，变化幅度较小，市场缺乏明显的方向性。随着高点155.96与低点155.87的交替，短期内趋势依然偏向横盘整理。\n\n从技术指标来看，RSI未提供有效数据，但MACD显示出略微负值（-0.0608），表明市场的卖压略微占优。SMA(20)位于155.85附近，价格仍维持在其上方，提示当前走势可能继续维持在此区间内，尚未突破趋势形成的关键水平。\n\n支撑位位于155.87一线，若价格下行至此可能出现短期反弹。阻力位则在155.96附近，若突破这一点位，可能为进一步上涨提供动力。投资者应密切关注这些技术水平，确认价格突破后的后续动向。\n\n建议短期内采取区间交易策略，若价格接近支撑可考虑做多，而接近阻力时则可选择做空。保持灵活操作，并注意随时调整止损位置，以应对市场可能的突然波动。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently exhibiting a neutral to slightly bearish trend, with a marginal decline of -0.04% in the last 24 hours. The price has fluctuated between 155.95745 and 155.86653, indicating a tight range. This suggests a consolidative phase, as the pair struggles to break clear above or below its recent high and low. With the latest price at 155.89829, the market remains indecisive, possibly awaiting fresh economic data or market catalysts.\n\nLooking at the technical indicators, the absence of a clear RSI(14) reading makes it difficult to gauge overbought or oversold conditions. However, the MACD value of -0.0608, although negative, indicates a mild bearish momentum. Since the Signal line is not provided, we cannot assess potential crossovers, but the negative MACD reading suggests the current price action might lean toward further downside unless stronger bullish signals emerge.\n\nThe price is currently hovering just above the 20-period simple moving average (SMA), which stands at 155.84676. This level could act as a dynamic support in the near term. If the price dips below this SMA, the next significant support level lies at 155.86653, near the recent low. Conversely, if the price manages to break above the recent high of 155.95745, resistance at 156.00 could come into focus. A sustained break above this level would suggest a bullish reversal.\n\nFor traders, a cautious approach is recommended. If the pair holds above the SMA and shows signs of recovery, a short-term buy might be considered, targeting resistance around 156.00. On the other hand, a break below the SMA could signal further downside, and traders might look for short opportunities toward the 155.86653 support level. Always use tight stop losses, especially in consolidative market conditions."
+    }
+  }
+}

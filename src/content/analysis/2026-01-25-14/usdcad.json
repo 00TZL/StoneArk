@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-01-25T14:28:10.418Z",
+  "price": {
+    "close": "1.3715",
+    "high": "1.37234",
+    "low": "1.37145",
+    "open": "1.37228",
+    "change": "-0.06",
+    "datetime": "2026-01-26 01:00:00"
+  },
+  "indicators": {
+    "rsi": 44.37447,
+    "macd": 0.000031494014,
+    "macd_signal": -0.000045252292,
+    "sma20": 1.3719
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理中，关注突破方向]",
+      "content": "当前美元/加元价格维持在1.3715附近，整体呈现震荡整理的态势。由于近期市场缺乏明确的强劲趋势，价格在1.37145和1.37234之间波动，表明市场情绪相对谨慎。短期内，价格可能会继续在这个区间内震荡，等待更明确的走势信号。\n\n技术指标方面，MACD目前处于极为接近零轴的位置，且信号线数据缺失，表明短期内市场动能较弱，缺乏明确的买卖方向。SMA(20)在1.37190附近，这一水平提供了短期的支撑。若价格跌破这一水平，可能会增加下行风险。\n\n支撑位方面，1.37145和1.3700是关键的支撑区域，若价格跌破这些水平，可能会加剧空头压力，推动价格进一步下行。阻力位则位于1.37234和1.3740，若突破这些水平，可能会出现反弹至更高价格区间。\n\n对于当前市场状况，建议交易者关注价格是否突破支撑或阻力位以确认未来的交易方向。在未突破之前，适宜保持观望或进行区间交易。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently hovering around the 1.3715 mark, showing a subtle decline of -0.06% over the past 24 hours. This slight retracement suggests a consolidation phase following the recent upward momentum. On the hourly chart, we observe a small range between the high of 1.37234 and low of 1.37145, indicating limited price action. The market appears to be in a wait-and-see mode, with no strong directional bias. \n\nThe absence of an RSI value makes it challenging to gauge the strength or potential reversal of momentum. However, the proximity of the price to the 20-period SMA at 1.37190 suggests that the market could be respecting a near-term equilibrium. Moving averages typically act as dynamic support or resistance levels, and the fact that the price is currently below this average hints at mild bearish sentiment in the short term. With the MACD showing a minimal value, it signals no clear trend or divergence, making it less reliable for generating immediate signals.\n\nKey support is found at 1.37145, just below the current price, and breaking this level could open the door for further downside testing towards 1.3700, which is a more significant psychological barrier. On the upside, resistance lies at 1.37234, and if the price manages to breach this, the next target could be 1.3740. Given the current tight range, traders might look for a breakout either above 1.37234 or below 1.37145 to establish a clearer directional bias.\n\nFor traders, the lack of significant momentum calls for caution. A breakout above 1.37234 could lead to a small bullish rally, while a failure to hold the support at 1.37145 might present a short opportunity. Short-term traders may also consider using tight stop-losses, as volatility appears relatively muted. Patience will be key, and waiting for confirmation at these levels could offer better entry points."
+    }
+  }
+}
