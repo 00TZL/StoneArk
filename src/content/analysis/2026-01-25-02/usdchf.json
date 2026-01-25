@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-01-25T02:27:50.760Z",
+  "price": {
+    "close": "0.78061",
+    "high": "0.78066",
+    "low": "0.78059",
+    "open": "0.78062",
+    "change": "-0.00",
+    "datetime": "2026-01-25 13:00:00"
+  },
+  "indicators": {
+    "rsi": 34.63332,
+    "macd": -0.00076983698,
+    "macd_signal": -0.00096251743,
+    "sma20": 0.7811615
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[震荡整理，短期区间波动]",
+      "content": "当前美元/瑞郎在0.78060附近震荡整理，市场缺乏明显趋势。由于24小时价格变化微弱，显示出市场参与者的观望情绪。短期内，价格波动在0.78066和0.78059之间，表明当前价格处于一个极为窄幅的区间内，缺乏足够的动力推动价格突破。\n\n从技术指标来看，MACD处于负值区域，暗示卖压可能占优，但信号线未完全形成，因此难以确认持续的空头趋势。SMA(20)略微高于当前价格，进一步确认市场可能处于横盘整理状态。此外，RSI暂时无法提供有效参考，表明市场的超买或超卖状态不明显。\n\n就支撑和阻力而言，当前支撑位在0.78059附近，若价格跌破此水平，可能会进一步下探。阻力位则在0.78066附近，若突破该点位，可能出现小幅反弹。然而，考虑到整体震荡整理的局面，价格突破的可能性不大。\n\n建议投资者在当前市场环境中采取谨慎策略，避免追高或追空操作。若价格突破区间边界，可以考虑短线交易，但需关注其他技术指标进一步确认趋势的形成。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently consolidating in a tight range, as the price hovers just above 0.78060. This relatively flat market movement suggests indecision between buyers and sellers. The lack of significant directional movement implies a neutral to slightly bearish short-term bias, as the market struggles to break out of its narrow range. For the time being, traders should closely monitor for any signs of momentum that could trigger a breakout either above or below the current range.\n\nFrom an indicator perspective, the MACD reading is slightly negative at -0.00076983698, indicating a potential bearish momentum, though the absence of a signal line or a full MACD histogram suggests that this sentiment is not yet strongly confirmed. The RSI, though not available, would be crucial to gauge whether the pair is nearing oversold or overbought conditions, which would further influence short-term market direction. Without a clear trend in place, caution is advised.\n\nThe 20-period simple moving average (SMA) at 0.78116150 remains slightly above the current price, which can act as a dynamic resistance level. Should the price move higher, the SMA could offer resistance around this point. On the downside, support levels near 0.78059 could help contain downward pressure. A break below this level could lead to further downside toward 0.78000, a psychological level where additional support may emerge. Traders should stay alert to potential moves in either direction once price action shows more clarity.\n\nFor trading, a break above the 20-SMA or below 0.78059 could provide clearer directional signals. A buy position above the SMA, with a target around 0.78200, may be a consideration if momentum shifts. Conversely, a bearish setup below 0.78059 could prompt a short trade with a target near the psychological support at 0.78000. Given the current lack of volatility, waiting for a decisive move may be the most prudent strategy."
+    }
+  }
+}

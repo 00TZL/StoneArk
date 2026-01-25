@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-01-25T02:24:24.289Z",
+  "price": {
+    "close": "1.3641",
+    "high": "1.36416",
+    "low": "1.36404",
+    "open": "1.36406",
+    "change": "0.00",
+    "datetime": "2026-01-25 13:00:00"
+  },
+  "indicators": {
+    "rsi": 64.90422,
+    "macd": 0.00078871925,
+    "macd_signal": 0.0011564149,
+    "sma20": 1.36407
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[震荡整理阶段]",
+      "content": "当前英镑/美元在1.3640附近小幅波动，价格区间较窄，显示出市场处于震荡整理阶段。日内的价格波动较小，未出现明显的上涨或下跌趋势。由于缺乏强烈的动能信号，短期内该货币对可能会继续维持横盘整理的走势。\n\n从技术指标来看，RSI未显示出过度买入或卖出信号，MACD和信号线的差距也非常小，进一步验证了当前市场缺乏方向性。SMA(20)与当前价格接近，表明短期内均线未能提供明显的支持或阻力。结合这些数据，英镑/美元在短期内可能会维持窄幅震荡。\n\n支撑位方面，1.3640是当前的关键支撑点，如果价格跌破该水平，则可能会继续向下回调至1.3620附近。上行阻力位则在1.3650附近，突破后可能会出现短期的反弹，但如果无法持续突破，价格可能再次回落。\n\n建议短期交易者采用区间交易策略，关注1.3640-1.3650之间的波动。如果价格突破上述区间，可适时调整策略进行追单或止损。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently displaying a neutral short-term trend, with the latest price holding steady at 1.3641, showing minimal fluctuation over the past 24 hours. The pair is trading close to its recent highs, which indicates a period of consolidation. With the current high at 1.36416 and low at 1.36404, the price is confined within a tight range, suggesting indecision in the market. This could indicate that traders are awaiting a significant catalyst to break the range and establish a clear direction.\n\nIn terms of technical indicators, the lack of recent RSI and SMA(20) data limits the insight into potential overbought or oversold conditions. However, the price is trading just above the 20-period simple moving average, a sign that the current trend is neutral to slightly bullish. The MACD value of 0.0008 suggests minimal momentum, reinforcing the idea of a market in equilibrium. Given this, any break above 1.3642 could signal a shift toward bullish momentum, but without clear trend confirmation, caution is advised.\n\nSupport and resistance levels are key for setting up potential trades. The nearest support for GBP/USD lies at 1.3640, just below the current price, while resistance is seen near 1.3642. A break below support could lead to a retest of the 1.3630 area, whereas a move above resistance could target 1.3650 or higher. Traders should look for price action that confirms a breakout beyond these levels before taking aggressive positions.\n\nGiven the tight range and neutral indicators, a wait-and-see approach may be prudent. Conservative traders might prefer a breakout strategy, either buying above 1.3642 or selling below 1.3640. Those seeking short-term gains could also consider range-bound strategies, entering long positions at support and short positions near resistance, while keeping a close eye on upcoming data or geopolitical events that could impact market sentiment."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-01-25T02:23:42.417Z",
+  "price": {
+    "close": "1.18245",
+    "high": "1.18245",
+    "low": "1.18238",
+    "open": "1.1824",
+    "change": "0.00",
+    "datetime": "2026-01-25 13:00:00"
+  },
+  "indicators": {
+    "rsi": 70.39841,
+    "macd": 0.00063254188,
+    "macd_signal": 0.00086155955,
+    "sma20": 1.18238
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[短期震荡整理，突破待定]",
+      "content": "目前欧元/美元汇率处于1.18245附近，全天波动极小，显示出市场暂时缺乏强烈的方向性。考虑到价格已经接近近期的20日简单移动平均(SMA)，短期内价格可能继续震荡整理，等待进一步的突破信号。当前的波动区间较为狭窄，未出现明显的趋势性走势。\n\nMACD目前处于微弱的正值区域，但由于信号线数据缺失，无法给出明确的趋势判断。RSI值未提供，因此技术面尚无明显的超买或超卖信号。价格的平稳运行暗示市场观望情绪浓厚，投资者需关注接下来的关键数据发布，可能会为市场方向指引提供线索。\n\n支撑位大致位于1.18238附近，若价格跌破这一水平，可能会进一步测试下方的支撑区间。阻力位则可参考1.18250区域，若突破该位，可能会迎来新的上涨动能。需特别留意突破后市场的持续性，避免短期反弹的陷阱。\n\n建议投资者在当前区间内采取观望策略，等待价格突破1.18250或1.18238的关键水平。对于短线交易者，可以考虑在支撑位附近进行轻仓多单操作，但要设置严格止损。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently showing consolidation near the 1.18245 mark, with a narrow range between its high and low of 1.18245 and 1.18238. This tight range suggests a neutral market sentiment, with neither buyers nor sellers dominating. The market is currently lacking strong momentum, which could imply a wait-and-see approach as traders await fresh catalysts. A breakout from this tight range could provide clearer directional bias.\n\nWithout the RSI data available, it's important to focus on the MACD and the SMA(20). The MACD is showing a minor positive value at 0.00063254188, indicating slight bullish momentum. However, given the absence of significant divergence, this momentum is weak. The SMA(20) at 1.18238 is in very close proximity to the current price, indicating no clear trend direction. Traders may consider this a range-bound market with possible support at 1.18238 and resistance near 1.18245.\n\nSupport at 1.18238 holds a key level, as the price has shown an ability to stay above it in recent trading. If the pair breaks below this level, the next support zone might be around the 1.18220 region. On the resistance side, the 1.18245 mark offers a clear cap, with a break above it possibly opening the door for further upward movement. However, both levels are close enough that a breakout in either direction may lead to only a short-term move before another consolidation phase.\n\nFor traders, a strategy of waiting for a clear breakout from the 1.18238-1.18245 range would be prudent. A break above could offer long opportunities, with targets at higher resistance levels, while a dip below support may invite short positions. Given the lack of significant indicators, caution is recommended, with a focus on any upcoming economic events or data releases to drive volatility."
+    }
+  }
+}

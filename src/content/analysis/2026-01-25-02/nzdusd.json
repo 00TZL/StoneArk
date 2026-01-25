@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-01-25T02:27:08.893Z",
+  "price": {
+    "close": "0.59463",
+    "high": "0.59466",
+    "low": "0.59463",
+    "open": "0.59464",
+    "change": "-0.00",
+    "datetime": "2026-01-25 13:00:00"
+  },
+  "indicators": {
+    "rsi": 59.61576,
+    "macd": 0.00022683797,
+    "macd_signal": 0.00032700723,
+    "sma20": 0.594586
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理，缺乏明确趋势]",
+      "content": "当前纽元/美元价格稳定在0.59463附近，波动较小，24小时变化几乎为零。价格在0.59466和0.59463之间小幅震荡，显示出市场缺乏强烈的方向性，处于横盘整理阶段。短期内该货币对可能继续在这个区间内波动，暂时没有形成明确的上行或下行趋势。\n\n从技术指标来看，MACD的值为0.00022683797，但没有提供信号线数据，表明当前市场动能较弱，无法形成有效的买卖信号。RSI指标未能提供相关数据，因此无法对市场的超买或超卖状态进行准确判断。20日简单移动平均线（SMA）位于0.594586附近，显示出短期内市场的中性态势。\n\n支撑位和阻力位方面，目前价格接近0.59463的低点支撑位，而上方的短期阻力位则可关注0.59466附近。如果价格突破这些关键点位，可能会触发更大的波动。否则，市场可能继续在当前区间内震荡。\n\n鉴于目前缺乏明确的趋势，建议短线交易者可以关注区间震荡操作，利用支撑与阻力位进行买入和卖出策略。同时，保持警惕，一旦出现新的技术信号或突破，及时调整交易策略。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently in a tight consolidation phase, as reflected by the minimal 24-hour change and price range. The latest price at 0.59463 suggests that the market is showing little volatility. This could indicate indecision among traders, with neither buyers nor sellers able to establish a clear directional bias. The absence of significant price movement and the narrow high-low range also suggests a lack of strong momentum in either direction, which may persist until a catalyst emerges. The 20-period Simple Moving Average (SMA) at 0.594586 indicates that the pair is holding relatively steady around its recent average, further supporting the view of a range-bound market.\n\nIn terms of indicators, the Relative Strength Index (RSI) is not available for the current period, making it difficult to gauge whether the pair is overbought or oversold. However, the MACD value of 0.00022683797 indicates that the momentum is neutral, with no clear signal of a trend shift. The lack of a defined signal line further reinforces the notion that the market is in a phase of equilibrium. Without the RSI or other momentum indicators, the market remains in a state of uncertainty, and traders should watch for any potential breakout from the current range.\n\nSupport and resistance levels are key to understanding potential price action in this market. A critical support level can be identified near the recent low of 0.59463, which has held firm over the past 24 hours. A break below this level could signal further downside potential, opening the door for a move towards 0.59450. On the upside, resistance lies just above the high of 0.59466, which would need to be breached for a move towards higher price levels. Any breakout beyond these ranges could suggest the start of a new trend or volatility shift.\n\nGiven the current market conditions, traders might consider adopting a neutral stance, awaiting a clear breakout or a more definitive signal. If the price breaks above resistance or below support, a short-term trade could be considered in line with the breakout direction. However, caution is advised as the market remains indecisive. A more defined trend will likely emerge as either buying or selling pressure begins to dominate the pair's movement."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-01-25T02:28:34.142Z",
+  "price": {
+    "close": "4982.41513",
+    "high": "4982.64303",
+    "low": "4982.36131",
+    "open": "4982.42698",
+    "change": "0.00",
+    "datetime": "2026-01-25 13:00:00"
+  },
+  "indicators": {
+    "rsi": 66.11266,
+    "macd": 4.16452,
+    "macd_signal": 5.86934,
+    "sma20": 4982.47221
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理中，谨慎操作]",
+      "content": "目前XAU/USD处于一个震荡整理的区间，价格围绕在4982.4附近波动。由于市场缺乏明显的单边趋势，投资者应注意风险控制。近期价格在4982.64和4982.36之间波动，短期内或将继续维持这一区间整理状态。\n\n从技术指标来看，MACD当前为4.16，显示出一定的多头动能，但由于信号线未给出明确的方向，短期内仍需谨慎。SMA(20)保持在4982.47附近，进一步支持价格维持在这一价位的震荡区域。此外，RSI指标目前无法提供有力的数据，意味着市场没有明显的超买或超卖信号。\n\n支撑位位于4982.36附近，一旦跌破该水平，可能进一步下探至4980附近的支撑区域。阻力位则位于4982.64，一旦突破该价位，可能迎来新的上涨空间。短期内，价格的走势可能会继续在此区间内徘徊。\n\n因此，建议投资者在现阶段采取观望策略，避免追高或追低操作。如突破关键支撑或阻力位，则可考虑顺势而为，但需密切关注市场动向，避免过度风险暴露。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD pair is currently trading near a crucial price level of 4982.42, with the market showing no significant movement over the past 24 hours, maintaining a 0% change. This stagnation is further reflected in the tight range between the day’s high and low at 4982.64 and 4982.36, respectively. The lack of substantial price action suggests that the market is in a consolidation phase, with neither bulls nor bears taking strong control at this moment. \n\nLooking at the broader trend, the price is hovering near the 20-period simple moving average (SMA) of 4982.47, which often acts as a dynamic support or resistance level. When the price is close to the SMA, it indicates a period of indecision or equilibrium in the market. Without a clear breakout, it’s difficult to ascertain whether the pair will continue its upward trajectory or face a potential reversal. However, traders should monitor any moves above or below the SMA as signals for future direction.\n\nThe current technical indicators, such as the MACD reading of 4.16452, suggest that momentum may be slightly bullish, though the absence of a signal line makes it challenging to gauge the strength or sustainability of this momentum. Similarly, the lack of an RSI value means that we cannot definitively assess whether the market is overbought or oversold at this time. These gaps in indicator data leave room for further analysis once more data becomes available.\n\nIn terms of support and resistance, the immediate support is likely around the 4982.36 low, and a break below this level could trigger further selling towards the next potential support at 4975. Conversely, resistance lies just above at the 4982.64 level, and a breakout above this price point could signal a bullish continuation, leading towards higher price levels. In this current environment, cautious trading with tight risk management is advisable."
+    }
+  }
+}

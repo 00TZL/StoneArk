@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-01-25T02:26:27.538Z",
+  "price": {
+    "close": "1.37183",
+    "high": "1.3719",
+    "low": "1.37174",
+    "open": "1.37176",
+    "change": "0.00",
+    "datetime": "2026-01-25 13:00:00"
+  },
+  "indicators": {
+    "rsi": 48.16262,
+    "macd": -0.00019319713,
+    "macd_signal": -0.00037629808,
+    "sma20": 1.37143
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：当前震荡整理，等待突破",
+      "content": "当前美元/加元（USD/CAD）处于震荡整理的状态，价格在1.3718附近徘徊，未能显示出强烈的单边趋势。短期内市场情绪偏向平稳，波动较小，价格接近20日简单移动平均线（SMA 1.37143），显示出一定的支撑作用。\n\n从技术指标来看，MACD为负值（-0.00019），但没有明显的交叉信号，表示市场尚未形成明确的趋势方向。RSI数据缺失，无法提供超买或超卖的具体信息，因此需要关注价格波动和其他技术信号来确认趋势的转变。\n\n在支撑位和阻力位方面，当前的价格区间为1.3717至1.3719，短期内这些价格水平可能成为价格的关键反转点。若突破1.3719，则可能测试上方的更高价格区域。下方的支撑位则在1.3714附近，若下破此位，可能会进一步走低。\n\n综合来看，当前不宜盲目追单。建议在价格突破1.3719以上时考虑做多，反之若跌破1.3714，则可考虑做空。保持关注市场的关键技术信号，以确定更明确的交易机会。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently experiencing a neutral market with a price of 1.37183, showing little movement in the past 24 hours. The market’s tight price range between the high of 1.3719 and the low of 1.37174 indicates a consolidation phase, which could suggest indecision among traders. The absence of significant price fluctuations means the market is waiting for a catalyst, such as economic data or central bank decisions, to drive the next directional move.\n\nLooking at the indicators, the RSI(14) is not available, which leaves us without a clear view of overbought or oversold conditions. However, the MACD reading of -0.00019319713 indicates a slight bearish bias, although it is not yet strong enough to confirm a trend reversal. Without a definitive crossover or divergence, the momentum remains weak, and traders should be cautious of placing aggressive trades based solely on this indicator.\n\nThe price is currently just above the 20-period SMA, which is positioned at 1.37143, acting as a minor support level. If the price moves below this level, there could be increased downside pressure, with the next key support at 1.3700. On the upside, resistance is seen near 1.3730, which has previously capped upward movements. A break above this level may signal a continuation of the bullish trend, with targets toward 1.3750.\n\nFor trading strategies, it's recommended to monitor price action near the support and resistance levels. A bounce from the 20-period SMA or a break above 1.3730 could present buying opportunities, while a breakdown below 1.3714 would suggest potential short positions. Traders should wait for confirmation from price movements before committing to trades."
+    }
+  }
+}

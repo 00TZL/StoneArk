@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-01-25T02:25:45.922Z",
+  "price": {
+    "close": "0.68935",
+    "high": "0.68936",
+    "low": "0.68929",
+    "open": "0.6893",
+    "change": "0.01",
+    "datetime": "2026-01-25 13:00:00"
+  },
+  "indicators": {
+    "rsi": 67.77268,
+    "macd": 0.0003430137,
+    "macd_signal": 0.00046868629,
+    "sma20": 0.689235
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[短期震荡整理，略偏空]",
+      "content": "当前澳元/美元（AUD/USD）在0.68935附近徘徊，价格波动较小，短期呈现震荡整理态势。市场缺乏强烈的买盘或卖盘动能，走势缺乏明确方向。当前价格接近20日简单移动平均线（SMA20），这表明价格暂时未突破或跌破长期均线支撑。\n\n在技术指标方面，RSI(14)和MACD信号尚未显示明显的超买或超卖状态，这意味着市场缺乏强烈的超买或超卖情绪，短期内可能维持震荡行情。MACD值接近零线，显示出买卖力量相对均衡，但短期内偏向空头，因其处于低位。\n\n支撑位方面，当前价格接近0.68929低点，这一位置可能提供短期支撑。若跌破该支撑位，则可能进一步测试0.6880的次级支撑。而上方则有0.6895的短期阻力，若突破则可能上行至0.6905附近，挑战更高价格区间。\n\n基于当前市场状态，建议在价格接近支撑位时采取谨慎的多头策略，但需密切关注0.68929和0.6880的支撑情况。如果价格继续震荡整理或下破支撑，可以考虑短期卖出，止损设置在0.6905以上。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently trading in a narrow range, hovering around 0.68935, with very minimal volatility over the last 24 hours. This stability suggests a consolidation phase, with price movement confined within a 0.68929 to 0.68936 range. Given this limited fluctuation, the market may be awaiting a catalyst, such as key economic data or central bank announcements, to drive a stronger directional move. A break above 0.68936 could signal a bullish shift, potentially targeting higher levels around 0.6900 or 0.6920. Conversely, a drop below 0.68929 may suggest weakness, leading to a test of the next support zone at 0.6880.\n\nFrom a technical perspective, the absence of a clear RSI reading leaves room for uncertainty regarding momentum. However, the MACD value at 0.00034301370 indicates a slight bullish bias, though without the accompanying signal line, it’s challenging to draw a strong conclusion on momentum. The price’s proximity to the 20-period SMA of 0.689235 suggests a neutral stance, with the SMA acting as a short-term support level. This alignment implies that if the market fails to break higher, it may retreat toward the SMA or even below.\n\nKey support for the AUD/USD is seen around 0.6880, with resistance looming at 0.6900. These levels are critical for gauging the next significant price move. If the pair remains below the 0.68936 high, resistance around 0.6900 might prove challenging to breach, signaling a continuation of the range-bound behavior. A decisive breakout either way could offer a clearer trading opportunity, either long above 0.6900 or short below 0.6880.\n\nFor traders, maintaining a wait-and-see approach seems prudent until the pair establishes a more definitive trend. A break above 0.6900 could provide long opportunities with a target around 0.6920, while a drop below 0.68929 may open a short position toward 0.6880. It is essential to watch for confirmation of momentum shifts or external news events that might disrupt the current consolidation pattern."
+    }
+  }
+}
