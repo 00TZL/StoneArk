@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-01-25T08:36:57.017Z",
+  "price": {
+    "close": "0.68931",
+    "high": "0.68936",
+    "low": "0.68926",
+    "open": "0.68927",
+    "change": "0.01",
+    "datetime": "2026-01-25 19:00:00"
+  },
+  "indicators": {
+    "rsi": 62.32657,
+    "macd": 0.00024399132,
+    "macd_signal": 0.00032380997,
+    "sma20": 0.6892285
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理趋势]",
+      "content": "当前澳元/美元的价格在0.68931附近波动，显示出一定的震荡整理趋势。过去24小时内，价格变化不大，仅为0.01%。这一走势表明市场参与者对当前价格水平的看法较为一致，缺乏明确的交易方向。\n\n在技术指标方面，虽然RSI和MACD的相关数据尚未完全提供，但从SMA(20)来看，当前价格略高于0.68922850，显示出短期内可能存在支撑。若价格继续维持在此水平之上，可能会吸引更多买盘，助推价格进一步反弹。\n\n支撑位方面，0.68926是短期内的重要支撑，若跌破该位，可能会引发更大幅度的下行调整。相对的，若价格突破0.68936，则有望挑战更高的阻力位，可能为交易者提供短期多头机会。\n\n基于当前市场情况，建议交易者保持观望，密切关注价格在支撑和阻力位的表现。若价格突破关键水平，可考虑适当介入，设定合理的止损和止盈位，以应对市场波动带来的风险。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair currently trades at 0.68931, showing minimal movement with a 24-hour change of just 0.01%. This stability suggests a consolidation phase, with the price oscillating between the recent high of 0.68936 and a low of 0.68926. The lack of significant volatility indicates that traders are awaiting clearer direction, possibly influenced by upcoming economic data or geopolitical developments. A breakout above the recent high could signal a bullish trend, while a drop below the low may indicate bearish momentum.\n\nIn terms of technical indicators, the absence of the RSI(14) and a signal for the MACD limits our ability to gauge momentum effectively. However, the current MACD value of 0.00024399132 suggests a very slight bullish bias, though it is not yet significant enough to prompt decisive trading action. The 20-day Simple Moving Average (SMA) at 0.68922850 serves as a potential support level. A sustained move above this average could reinforce bullish sentiment, while a drop below may trigger further selling pressure.\n\nSupport levels are currently positioned at the recent low of 0.68926, with the next significant support likely around 0.68850, derived from previous price action. On the resistance side, a break above 0.68936 could lead to further gains, targeting levels around 0.69000. Traders should remain vigilant for price action around these critical levels, as they will be pivotal in determining the next move for the AUD/USD.\n\nFor trading strategies, a cautious approach is recommended. Traders might consider buying on a confirmed breakout above 0.68936 with a tight stop-loss just below this level to manage risk. Conversely, selling could be considered if the price breaks below 0.68926, with stops placed above this level. Monitoring upcoming economic releases from both Australia and the U.S. will be essential, as these could provide the necessary volatility to break the current range."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-01-25T08:35:28.805Z",
+  "price": {
+    "close": "1.36439",
+    "high": "1.36445",
+    "low": "1.36436",
+    "open": "1.36439",
+    "change": "0.00",
+    "datetime": "2026-01-25 19:00:00"
+  },
+  "indicators": {
+    "rsi": 67.53872,
+    "macd": 0.00064217796,
+    "macd_signal": 0.00081210897,
+    "sma20": 1.36393
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[震荡整理中]",
+      "content": "当前英镑/美元（GBP/USD）价格在1.36439附近震荡整理，短期内缺乏明确的趋势。价格在1.36445的高点和1.36436的低点之间波动，显示出市场的谨慎情绪。投资者可能在等待更明确的经济数据或政策信号，以推动价格向上或向下突破。\n\n在技术指标方面，MACD略微正值，表明短期内买方略占优势，但信号线缺失使得判断难度增加。20日简单移动平均线（SMA）在1.36393附近提供一定支撑，显示出市场对该价位的关注。此外，RSI指标尚未提供数据，但通常在超买或超卖区域附近可以引导交易决策。\n\n支撑位方面，若价格跌破1.36393，可能会进一步测试1.36250附近的支撑区域。相对的，若价格突破1.36500，则可能会引发更多买盘，向上挑战1.36700的阻力位。建议投资者在当前区间内采取区间交易策略，关注技术指标的变化，以便及时调整交易决策。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently in a narrow trading range, with a minimal 24-hour change. The price is hovering just above the 20-period simple moving average (SMA), which is at 1.36393. This suggests that the market is consolidating, with no strong directional movement. A key focus should be the lack of volatility, as the pair has not yet shown any significant momentum either upward or downward. Traders may want to watch for a break above or below this range for further directional clues.\n\nAt present, immediate support is located at 1.36436, with resistance just above at 1.36445. The proximity of these levels implies a lack of clear market direction. The tight price action suggests the market is waiting for a catalyst, whether from economic data or geopolitical events, to spark a breakout. Without a significant catalyst, traders should be cautious, as prices may continue to oscillate within this narrow range for the time being.\n\nWith the Relative Strength Index (RSI) and MACD data unavailable, traders must rely on price action and the SMA for now. If the price moves above 1.36445, it may signal a potential bullish breakout towards higher levels. Conversely, a dip below 1.36393 could open the door for a deeper retracement toward the next support level. The market is in a holding pattern, and a breakout or breakdown could provide further trading opportunities.\n\nGiven the current market conditions, traders might consider a wait-and-see approach, avoiding aggressive trades until a clear breakout occurs. Conservative traders could look for confirmation of price direction from additional indicators or fundamental catalysts before entering positions."
+    }
+  }
+}

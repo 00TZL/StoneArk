@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-01-25T08:40:08.687Z",
+  "price": {
+    "close": "4982.50695",
+    "high": "4982.64399",
+    "low": "4982.3598",
+    "open": "4982.42698",
+    "change": "0.00",
+    "datetime": "2026-01-25 19:00:00"
+  },
+  "indicators": {
+    "rsi": 66.17322,
+    "macd": 2.66022,
+    "macd_signal": 3.81161,
+    "sma20": 4982.45443
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：震荡整理，短期偏向横盘",
+      "content": "当前黄金/美元(XAU/USD)价格表现出震荡整理的走势，近期价格维持在4982附近，波动幅度较小，缺乏明确的趋势方向。考虑到市场在24小时内未有显著变化，短期内可能延续这种横盘走势，等待市场进一步指引。\n\n从技术指标来看，MACD目前值为2.66022，虽无信号线数据，但这一值表明市场短期内并未显示出强烈的买卖信号。SMA(20)位于4982.45附近，提供了短期支撑，这一均线在当前价格位置形成一定的支撑作用，但仍需关注是否突破此点位。\n\n当前黄金价格的支撑位在4982.36附近，若价格下行突破该支撑，则可能进一步测试更低水平。阻力位则处于4982.64，若突破此阻力，可能出现短期的反弹行情。投资者可在该区间内进行短期波段交易，建议谨慎操作，密切关注价格波动。\n\n综合来看，黄金/美元处于震荡整理阶段，建议投资者在支撑和阻力区间内操作，利用价格波动进行短线交易。同时，保持警惕，避免在无明确信号时做出过度操作。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD pair is currently trading near the level of 4982.50, showing a relatively stable market with a 24-hour change of 0.00%. The lack of significant movement suggests consolidation within this price range. The market has not exhibited substantial volatility, and with the price staying close to the 20-period SMA (4982.45), it reflects a neutral to slightly bullish short-term trend. However, with no major momentum indicators like RSI available, it's important to monitor for any signs of price breaks or reversals as the day progresses.\n\nThe price is confined between recent highs and lows, with a range of 4982.64 to 4982.36, offering clear support and resistance levels. Resistance lies just above the current market price near 4982.64, while support is found at 4982.36. A breakout above resistance could signal a continuation of the bullish trend, while a drop below support might indicate a shift to a bearish trend or further consolidation. Watching these levels will be key for identifying the next move.\n\nThe MACD value at 2.66 is positive, but the absence of a signal line prevents a definitive confirmation of momentum direction. Despite this, the positive MACD reading suggests some buying pressure. If the MACD continues to rise or crosses a signal line when it becomes available, it could reinforce an upward move. However, traders should wait for clearer signs from both the price action and MACD before entering any significant positions.\n\nTraders should approach this market with caution until a clear breakout or reversal occurs. The current range-bound price action suggests a wait-and-see strategy, monitoring support at 4982.36 and resistance at 4982.64. A decisive move beyond these levels could present an opportunity for short-term trades, but a deeper analysis of momentum indicators such as MACD and potential RSI data will help solidify entry points."
+    }
+  }
+}

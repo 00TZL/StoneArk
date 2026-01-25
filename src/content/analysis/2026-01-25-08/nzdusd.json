@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-01-25T08:38:30.415Z",
+  "price": {
+    "close": "0.59484",
+    "high": "0.59486",
+    "low": "0.59482",
+    "open": "0.59483",
+    "change": "0.00",
+    "datetime": "2026-01-25 19:00:00"
+  },
+  "indicators": {
+    "rsi": 62.71032,
+    "macd": 0.00023057991,
+    "macd_signal": 0.00025831445,
+    "sma20": 0.5945525
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理]",
+      "content": "目前纽元/美元（NZD/USD）在0.5948附近震荡整理。根据最新的市场数据，价格波动较为平稳，未显示出明显的趋势发展。当前价格接近20日简单移动平均线（SMA 20），表明市场暂时缺乏足够的动力突破当前区间。\n\n由于RSI（14）未提供数据，无法通过该指标分析超买或超卖状态。同时，MACD值为正，显示出短期内可能的上涨动能，但由于信号线数据缺失，无法确认持续的趋势方向。因此，目前价格可能会在0.5948上下区间内震荡，尚未形成明确的上涨或下跌信号。\n\n从支撑和阻力的角度来看，0.5948附近的价格水平既是当前的支撑位，也是近期的阻力位。如果价格突破0.59486，则可能测试更高的区域，如0.5950；反之，跌破0.5948则可能进一步考验0.5940区域的支撑。\n\n建议短期内保持谨慎观望，若价格突破上述区间，则可考虑适当跟进。没有明确的趋势确认前，建议避免过度激进的交易，等待更多技术信号的确认。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The New Zealand Dollar (NZD) against the US Dollar (USD) is currently showing a narrow price range with minimal movement, as the latest price sits at 0.59484, with a 24-hour change of 0.00%. Given the limited fluctuation between the high and low (0.59486 to 0.59482), it is clear that the market is in a period of consolidation. This could be an indication that traders are waiting for a stronger catalyst to drive a breakout in either direction. The current market lacks significant momentum, and price action is stable within a tight range, which typically suggests indecisiveness or a short-term pause in a broader trend.\n\nLooking at the Simple Moving Average (SMA) with a period of 20, it stands at 0.59455250, which provides a subtle clue about the medium-term trend. The price is currently trading just above this level, suggesting a mild bullish sentiment, but the proximity of the price to the SMA points to a lack of strong directional bias. Without additional indicators like the RSI or a complete MACD setup, this limited data provides insufficient confirmation for either a clear upward or downward trend. A break either above or below the SMA could serve as an important trigger for the next price move.\n\nKey support for NZD/USD is likely to be near 0.59470, which is where the price has found temporary stability within the current range. On the resistance side, 0.59500 could be seen as a psychological barrier, slightly above the current price. Traders should be alert to price action around these levels. If the market breaks above 0.59500, we could see further upside momentum, but if it falls below 0.59470, there could be a potential test of lower levels. Monitoring these areas for breakouts could provide an entry opportunity.\n\nGiven the current market conditions and lack of major indicators like RSI, trading in this range could be advisable for those who prefer range-bound strategies. Traders might consider small, short-term trades near the support and resistance levels, watching closely for any signs of trend reversal or acceleration. Patience is key, as price action is currently confined, and more significant moves may only come once the market establishes clearer direction."
+    }
+  }
+}

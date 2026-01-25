@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-01-25T08:37:45.062Z",
+  "price": {
+    "close": "1.37171",
+    "high": "1.37177",
+    "low": "1.37158",
+    "open": "1.3716",
+    "change": "0.01",
+    "datetime": "2026-01-25 19:00:00"
+  },
+  "indicators": {
+    "rsi": 47.68994,
+    "macd": -0.0001346691,
+    "macd_signal": -0.00021430277,
+    "sma20": 1.37185
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理状态]",
+      "content": "当前美元/加元(USD/CAD)的价格为1.37171，整体趋势表现为震荡整理。尽管价格在高点和低点之间波动不大，但在当前区间内，市场情绪相对谨慎，缺乏明确的方向性突破。投资者应关注即将发布的经济数据和政策声明，这可能会影响货币对的走势。\n\n从技术指标来看，尽管RSI(14)数据缺失，但MACD指标显示出微弱的负值，表明短期内卖方力量略强于买方。SMA(20)为1.37185，当前价格略低于该均线，可能表明短期内面临一定的压力。若价格突破该均线，可能会引发更强的买入信号。\n\n支撑位方面，当前的低点1.37158为重要支撑线，若破位将进一步下探。另一方面，1.37200是短期内的阻力位，若价格能有效突破该水平，可能会吸引更多买盘介入。投资者应密切关注这些关键价位，以便及时调整交易策略。\n\n基于当前市场情况，建议投资者采取观望态度，等待价格突破关键支撑或阻力位后再做决策。若价格突破1.37200，可考虑短期多单；反之，若跌破1.37158，短期空单可能更为合适。保持灵活应变，谨慎操作。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently trading near 1.37171, reflecting a very modest 24-hour change of +0.01%. The price has remained within a narrow range between 1.37177 and 1.37158, suggesting limited market volatility at the moment. This stability hints at a period of consolidation, where the market is waiting for a catalyst to push it decisively in either direction. In the short term, the pair appears to be in a neutral zone, with neither the bulls nor the bears asserting dominance.\n\nThe lack of an RSI reading and a MACD value close to zero (-0.00013466910) indicates a balanced market sentiment, where momentum is muted. The MACD's proximity to its baseline suggests that there is no strong directional movement, further reinforcing the view of market consolidation. Without a clear trend in the indicators, traders should remain cautious of breakout moves, as the market may be prone to sudden shifts once either support or resistance levels are tested.\n\nSupport is seen around the 1.37158 level, where the price has recently bounced, indicating the potential for this area to act as a floor. A break below this could open the door to further downside toward the next support level, which may lie around 1.3700. On the upside, resistance at 1.37185, indicated by the SMA(20), is the key level to watch. If this level is breached, the market could see a push toward 1.3750 or higher, but that will depend on the continuation of buying pressure.\n\nFor traders, a cautious approach seems prudent in the current range-bound environment. A breakout above 1.37185 or below 1.37158 could present an opportunity to enter with a more defined trend. Until then, waiting for confirmation through either a price movement or a shift in the technical indicators might be the most prudent strategy."
+    }
+  }
+}
