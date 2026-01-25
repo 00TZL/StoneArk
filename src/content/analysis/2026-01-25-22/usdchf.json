@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-01-25T22:30:30.230Z",
+  "price": {
+    "close": "0.77604",
+    "high": "0.77687",
+    "low": "0.77448",
+    "open": "0.7765",
+    "change": "-0.04",
+    "datetime": "2026-01-26 09:00:00"
+  },
+  "indicators": {
+    "rsi": 32.0075541,
+    "macd": -0.0012261961,
+    "macd_signal": -0.00051054626,
+    "sma20": 0.7806025
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[震荡整理中]",
+      "content": "当前美元/瑞郎（USD/CHF）走势显示出震荡整理的特征。最新价格为0.77604，近期在0.77687和0.77448之间波动，表明市场缺乏明确方向。投资者需要关注即将到来的经济数据和市场情绪，可能会对汇率产生影响。\n\n从技术指标来看，MACD处于负值，显示出卖方的力量依然存在，不过信号线数据缺失使得趋势判断不够明确。虽然RSI未提供，但价格接近20日简单移动平均线（SMA）0.78060250，表明短期内可能会出现反弹尝试。整体来看，市场情绪依然偏向谨慎。\n\n支撑位方面，0.77448是关键水平，一旦跌破可能会加速下行。而在阻力位方面，0.7800附近则是重要的心理关口，若成功突破，可能会引发更多买盘。交易者应密切关注这些价位，以便及时调整策略。\n\n建议短期内采取观望态度，待价格突破关键支撑或阻力位后再进行进场交易。若价格向上突破并站稳于0.7800以上，可以考虑做多；反之，若跌破0.77448，则应考虑做空。保持灵活应变，方能在震荡市场中把握机会。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently trading at 0.77604, showing a slight decline of 0.04% over the past 24 hours. The price has oscillated between a high of 0.77687 and a low of 0.77448, indicating a consolidative phase within a narrow range. This price action suggests a lack of strong directional momentum, which could lead to a continuation of the sideways trend unless a breakout occurs. Traders should monitor for any developments that may provide clarity on the pair's trajectory.\n\nThe lack of available RSI data complicates the momentum assessment. However, the MACD value of -0.0012261961 indicates that bearish momentum is present, albeit weak. This suggests that sellers have a slight edge in the market, but the absence of significant selling pressure allows for a potential reversal. A close watch on the MACD crossover could provide insights into shifts in momentum that may favor buyers or sellers in the near term.\n\nSupport levels are identified at 0.77448, the recent low, which could serve as a critical barrier against further declines. Conversely, resistance is seen at 0.78060250, the 20-day simple moving average, which has acted as a ceiling in recent trading sessions. A breakout above this level could signal a bullish reversal, while a breakdown below the support level may invite further downside pressure. \n\nTraders might consider a wait-and-see approach, looking for confirmation of either a breakout above the resistance or a breakdown below support. If the price breaches the 20-day SMA, potential long positions could be taken, targeting higher resistance levels. Alternatively, a sustained close below 0.77448 might warrant short positions, with downside targets aligned with psychological levels or recent lows."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-01-25T22:29:14.094Z",
+  "price": {
+    "close": "1.37041",
+    "high": "1.37064",
+    "low": "1.36951",
+    "open": "1.36971",
+    "change": "0.05",
+    "datetime": "2026-01-26 09:00:00"
+  },
+  "indicators": {
+    "rsi": 43.70663,
+    "macd": -0.00046624299,
+    "macd_signal": -0.00029367037,
+    "sma20": 1.37134
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[短期弱势调整]",
+      "content": "当前美元/加元（USD/CAD）的市场表现显示出一定的弱势，价格在1.37041附近波动，24小时变化仅为0.05%。这一走势表明，市场在缺乏强烈动能的情况下，可能会继续维持窄幅震荡。考虑到近期的高点和低点分别为1.37064和1.36951，短期内价格可能会围绕这一区间进行调整。\n\n在技术指标方面，虽然RSI(14)数据缺失，但MACD显示出微弱的负值，暗示短期内可能存在看空的压力。与此同时，20日简单移动平均线（SMA）目前位于1.37134，这一水平作为潜在的阻力位，可能会制约价格的进一步上涨。如果价格未能突破该水平，可能会引发更多的卖盘。\n\n支撑位方面，1.36951为关键的心理支撑，若价格跌破此水平，可能会加剧空头情绪，进一步推动价格下行。相对而言，若价格能够守住此支撑位并反弹，则可能会吸引买盘，形成短期反弹的机会。\n\n综合来看，建议交易者在当前价格附近保持观望，待价格明确突破1.37134阻力位或1.36951支撑位后再进行交易。同时，可以考虑在价格接近支撑位时适度布局多单，而在接近阻力位时则建议谨慎卖出，以控制风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD currency pair is currently trading at 1.37041, reflecting a slight increase of 0.05% over the last 24 hours. The price is hovering near the recent high of 1.37064, suggesting a potential resistance level that traders should monitor closely. The overall trend remains relatively neutral, as the price action has been confined within a narrow range. A breakout above the high could signal a bullish trend, while a move below the low of 1.36951 would indicate a bearish reversal.\n\nIn terms of technical indicators, the absence of an RSI value makes it challenging to assess overbought or oversold conditions. However, the MACD shows a minor negative value, indicating that selling pressure exists, albeit weak. Traders should consider this when evaluating entry and exit points. The SMA(20) at 1.37134 acts as a dynamic resistance level; a sustained move above this average could attract bullish momentum, while a failure to maintain above it might lead to further consolidation or a downward correction.\n\nKey support levels to watch include the recent low of 1.36951, which provides a safety net for buyers. A break below this level could trigger a wave of selling, potentially targeting the next support at 1.36700. Conversely, if the price holds above the support level and breaks through the resistance at 1.37064, it could pave the way for a more significant upward movement, potentially reaching the psychological level of 1.37500.\n\nFor traders, a cautious approach is advisable given the current market conditions. A breakout strategy could be employed, focusing on clear entry points above resistance or below support. Additionally, implementing stop-loss orders just outside these levels could help mitigate risk. Observing fundamental factors, such as economic data releases from both the US and Canada, will also be crucial in making informed trading decisions in the coming sessions."
+    }
+  }
+}

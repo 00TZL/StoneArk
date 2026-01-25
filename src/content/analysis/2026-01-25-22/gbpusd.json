@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-01-25T22:27:19.678Z",
+  "price": {
+    "close": "1.36648",
+    "high": "1.36685",
+    "low": "1.36619",
+    "open": "1.36662",
+    "change": "-0.01",
+    "datetime": "2026-01-26 09:00:00"
+  },
+  "indicators": {
+    "rsi": 63.24939,
+    "macd": 0.00071136423,
+    "macd_signal": 0.0004009316,
+    "sma20": 1.36414
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[震荡整理，关注关键支撑位]",
+      "content": "当前英镑/美元的市场表现表现出一定的震荡整理特征，最新价格为1.36648，24小时变化仅为-0.01%。从高点1.36685和低点1.36619来看，价格波动幅度较小，市场情绪较为谨慎。短期内，价格可能在这个区间内震荡，尚未形成明确的趋势。\n\n在技术指标方面，虽然RSI(14)数据缺失，但MACD处于0.0007的微弱水平，表明市场缺乏强烈的动能。20日简单移动平均线(SMA)为1.36414，若价格下行突破该水平，可能会引发进一步的卖盘压力。需要关注这些技术指标对市场情绪的影响。\n\n支撑位方面，1.36414的SMA可能是一个关键支撑线，若跌破该水平，可能会测试更低的支撑位，如1.3600。而在阻力位方面，1.3670和1.3700是短期内需要关注的阻力区域，若突破这些水平，则可能引发新的买入信号。\n\n综合考虑当前的市场状态，建议交易者保持观望，待价格确认突破关键支撑或阻力后再做决定。如果价格跌破1.36414，可以考虑适度做空，而若突破1.3670，则可以寻找做多的机会。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently trading at 1.36648, reflecting a slight decrease of 0.01% over the last 24 hours. The price has oscillated between a high of 1.36685 and a low of 1.36619, indicating a relatively tight range. This price action suggests a consolidation phase, where traders are likely waiting for a clearer directional signal. The market appears to be balancing between bullish and bearish sentiments, which may lead to increased volatility once a breakout occurs.\n\nFrom a technical perspective, the absence of a defined trend indicates that traders should closely monitor the support and resistance levels. The immediate support level is identified at 1.36414, coinciding with the 20-period Simple Moving Average (SMA). A breach below this level could open the door for further declines, targeting the next support at 1.36200. Conversely, resistance is established at 1.36700, a psychological level that traders will watch for potential bullish momentum.\n\nThe MACD indicator is currently positive at 0.00071136423, suggesting that there may be underlying bullish momentum. However, without a signal line to compare against, this reading requires cautious interpretation. A confirmed bullish crossover in the MACD could provide a stronger case for upward movement, whereas a bearish divergence could warn of a potential reversal. Traders should use this indicator in conjunction with price action to make informed decisions.\n\nIn light of the current market conditions, traders are advised to adopt a wait-and-see approach. A breakout above 1.36700 could present a buying opportunity, while a drop below 1.36414 may trigger selling positions. Implementing stop-loss orders around these key levels can help manage risk effectively. As always, keeping an eye on broader economic indicators and news events will be essential for navigating this dynamic currency pair."
+    }
+  }
+}

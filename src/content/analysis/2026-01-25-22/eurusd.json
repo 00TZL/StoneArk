@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-01-25T22:26:41.525Z",
+  "price": {
+    "close": "1.1858",
+    "high": "1.18666",
+    "low": "1.18519",
+    "open": "1.1858",
+    "change": "-0.01",
+    "datetime": "2026-01-26 09:00:00"
+  },
+  "indicators": {
+    "rsi": 69.082642,
+    "macd": 0.00096799031,
+    "macd_signal": 0.00052176442,
+    "sma20": 1.18295
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[震荡整理中，关注支撑位]",
+      "content": "当前欧元/美元(EUR/USD)的走势表现出震荡整理的特征，价格在1.1858附近运行，未能有效突破1.18666的高点。这一走势表明市场情绪浓厚，但缺乏足够的动能推动价格的进一步上涨。短期内，交易者应关注价格在该区间的波动，以寻找合适的入场机会。\n\n从技术指标来看，MACD目前显示出微弱的正向动能，尽管信号线数据缺失，但当前值表明多头力量尚存。RSI指标虽然未提供，但若在未来几日内出现超买或超卖信号，可能会为交易提供重要参考。此外，SMA(20)的支撑位在1.18295附近，进一步确认了市场在这一水平的防守态势。\n\n支撑和阻力方面，若价格跌破1.18295的支撑位，可能会引发进一步回调，目标看向1.1800。而上方压力位在1.18666，若成功突破，则有望向1.1900进发。综合来看，建议短线交易者在支撑位附近寻找买入机会，同时在接近阻力位时考虑获利了结或止损。\n\n总之，欧元/美元当前走势显示出整理态势，短期内需密切关注支撑位和阻力位的表现，以制定相应的交易策略。保持灵活应变，抓住市场动向，将有助于实现更好的交易结果。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently trading at 1.1858, reflecting a slight decline of 0.01% over the past 24 hours. The price has oscillated within a narrow range, hitting a high of 1.18666 and a low of 1.18519. This lack of significant movement indicates a consolidation phase, suggesting traders are awaiting new directional cues. If the pair can maintain above the recent low, it may indicate a potential reversal, while a break below could lead to further bearish sentiment.\n\nThe absence of an available RSI reading limits our ability to assess overbought or oversold conditions. However, the MACD value at 0.00096799031 suggests a minor bullish momentum, albeit without strong conviction. Traders should be cautious, as a lack of confirmation from the MACD could lead to choppy price action. The SMA(20) at 1.18295 serves as a critical support level; if tested and held, it could provide a buying opportunity. Conversely, a breach of this support may signal a deeper retracement.\n\nKey resistance is observed near the recent high of 1.18666. A breakthrough could lead to a rally towards 1.1900, a psychological level that often attracts traders' attention. Market participants should monitor this resistance closely as a rejection here would reinforce a bearish outlook. Conversely, if the pair can establish a foothold above this level, it could signify a shift in sentiment toward a bullish trend.\n\nIn terms of trading strategy, shorting near resistance levels while setting stop-loss orders above recent highs could be a prudent approach. Conversely, if bullish momentum picks up and the price breaks through resistance, traders might consider going long, targeting the psychological level of 1.1900. Implementing these strategies alongside careful risk management can enhance the potential for favorable outcomes in this pair."
+    }
+  }
+}
