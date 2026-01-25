@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-01-25T21:28:35.379Z",
+  "price": {
+    "close": "1.37004",
+    "high": "1.37086",
+    "low": "1.36853",
+    "open": "1.37003",
+    "change": "-0.00",
+    "datetime": "2026-01-26 08:00:00"
+  },
+  "indicators": {
+    "rsi": 39.63272,
+    "macd": -0.00044116808,
+    "macd_signal": -0.0002454218,
+    "sma20": 1.37141
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[短期震荡整理]",
+      "content": "目前美元/加元的价格位于1.37004，全天变动幅度极小，反映出市场缺乏明显的方向性。近期价格波动较小，整体处于1.36853至1.37086之间的区间整理状态。这表明市场对未来走势的预期不明，可能会继续维持震荡整理的状态。\n\n从技术指标来看，RSI未提供数据，无法准确判断超买或超卖情况。MACD显示轻微的负值（-0.00044116808），但信号线缺失使得该指标的参考价值较低。在短期内，市场可能会受到该负值的压制，但不排除突发的反转情况。\n\n支撑位位于1.36853，若价格突破此位，可能会进一步回落至1.3650附近的区域。阻力位在1.37141附近，突破此位置可能会刺激短期多头进一步上涨，测试1.3730附近的强阻力。\n\n建议交易者在当前区间内寻找高抛低吸的机会，若价格突破支撑或阻力位，可考虑相应的顺势交易。短期内震荡行情较为主导，交易者应保持谨慎，避免过度追高。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair currently sits at 1.37004, exhibiting a neutral stance with a 24-hour change of 0.00%. The pair is showing a narrow range between its high of 1.37086 and low of 1.36853, indicating a lack of strong directional movement. This suggests that the market is consolidating, waiting for a breakout or clearer direction. A break above 1.37141 (the 20-period simple moving average) could signal a continuation toward 1.3750, while a move below 1.3680 may see the pair test support near 1.3650.\n\nThe RSI(14) is currently unavailable, which limits the ability to assess overbought or oversold conditions. However, MACD values are negative at -0.00044116808, indicating a slight bearish bias, but with no clear crossover signal due to the absence of the Signal line. This may suggest that the market lacks strong momentum in either direction, and traders may prefer to wait for additional confirmation before making a decisive move. A bullish crossover of the MACD, if it occurs, could hint at upward momentum, while the continuation of the current negative value could favor bearish positioning.\n\nFrom a support/resistance perspective, immediate resistance is found around 1.3710, with potential for further resistance near 1.3750. On the downside, key support is expected at 1.3680, followed by 1.3650. The price action suggests a tight range with potential for a breakout in either direction, depending on broader market factors. Traders should watch for a clear breakout above resistance or below support for confirmation of the next move.\n\nIn terms of trading strategy, it might be prudent to wait for a breakout above 1.3710 or below 1.3680 before committing to a position. Given the current market conditions, any trade placed should consider tight stop-loss levels due to the subdued volatility and lack of strong directional indicators. A conservative approach, coupled with a focus on confirmation from other indicators, would be advisable for managing risk effectively."
+    }
+  }
+}

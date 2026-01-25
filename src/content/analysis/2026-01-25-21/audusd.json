@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-01-25T21:27:47.803Z",
+  "price": {
+    "close": "0.69118",
+    "high": "0.69277",
+    "low": "0.69118",
+    "open": "0.69203",
+    "change": "-0.13",
+    "datetime": "2026-01-26 08:00:00"
+  },
+  "indicators": {
+    "rsi": 65.25538,
+    "macd": 0.00064399621,
+    "macd_signal": 0.00039182784,
+    "sma20": 0.6897745
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，短期回调风险]",
+      "content": "当前AUD/USD走势表现为震荡整理。近期价格在0.69118附近波动，未能突破关键支撑或阻力位，表明市场情绪较为谨慎。该货币对在短期内可能面临回调压力，尤其是在价格接近0.69277的高点时，市场可能出现卖盘。\n\n从技术指标来看，MACD为正值，表明短期内买方仍占主导，但RSI尚未提供明确的超买或超卖信号。SMA(20)显示短期均线略微上行，可能会作为支撑位。如果价格进一步下行，0.6898附近的SMA可能成为关键支撑。\n\n在支撑/阻力位方面，0.69277为近期的强阻力位，如果突破该水平，可能会迎来更大幅度的上涨。下方支撑位在0.6898附近，如果跌破此处，可能会导致进一步的回调至0.6860。\n\n综合考虑，短期内AUD/USD有一定回调风险，建议投资者关注0.6898附近的支撑位表现。如果价格稳定在该支撑上方，可考虑做多，目标指向0.69277。而如果下破支撑位，则需谨慎操作，建议保持观望或考虑做空。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar against the US Dollar (AUD/USD) is currently trading at 0.69118, experiencing a minor drop of -0.13% over the last 24 hours. This slight decline suggests a neutral to slightly bearish sentiment in the short term. The price range from the high of 0.69277 to the low of 0.69118 indicates a consolidation phase, where the market is not exhibiting strong directional momentum. Given the tight range, traders may expect further consolidation or a breakout depending on upcoming economic news or market catalysts.\n\nThe recent price action suggests a potential resistance at 0.69277, with the market struggling to sustain above this level. If the pair fails to break this resistance, we may see further downward movement toward the key support at 0.68977, aligning with the 20-period simple moving average (SMA). A close below this support could open up further downside, possibly targeting lower levels. Traders should monitor any sustained break below 0.68977, which would confirm a bearish trend continuation.\n\nThe MACD, with a value of 0.00064399621, is showing a bullish indication, but it is important to note the absence of a clear signal line or other indicators to confirm momentum. As such, the MACD alone doesn't offer a strong directional bias. The Relative Strength Index (RSI) remains unavailable, so it is crucial to observe other price action cues for signs of overbought or oversold conditions, which may further guide potential market reversals.\n\nFor traders, the current market suggests a cautious approach with a focus on the 0.68977 support and 0.69277 resistance levels. Short-term traders may look for opportunities around these levels, with a potential breakout above 0.69277 signaling a return to bullish momentum. Conversely, a break below 0.68977 could set the stage for further downside, making it an important level for bearish traders to watch closely."
+    }
+  }
+}

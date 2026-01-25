@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-01-25T21:26:17.634Z",
+  "price": {
+    "close": "1.36655",
+    "high": "1.36738",
+    "low": "1.36519",
+    "open": "1.36621",
+    "change": "0.02",
+    "datetime": "2026-01-26 08:00:00"
+  },
+  "indicators": {
+    "rsi": 64.051785,
+    "macd": 0.00059183563,
+    "macd_signal": 0.00032156846,
+    "sma20": 1.36402
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[震荡整理，暂未形成明确趋势]",
+      "content": "当前英镑/美元的价格走势呈现震荡整理的状态，最新价格为1.36655，24小时变动幅度较小，仅为0.02%。价格维持在1.36519至1.36738区间内波动，缺乏明确的上涨或下跌趋势。从技术角度来看，当前市场处于横盘整理的状态，短期内未能突破关键的支撑或阻力位。\n\n根据简单移动平均线（SMA 20）的数据，当前价格略微高于1.36402，表明短期内价格可能倾向于上行，但整体波动幅度较小，未能形成强势的多头趋势。MACD的数值为0.0006，显示出轻微的看涨动力，但由于信号线未明确给出，且RSI未给出明确值，市场情绪尚未明朗。\n\n支撑位方面，1.36500附近的区域可能为短期支撑位，若价格跌破此位，可能进一步测试1.36000附近的更强支撑。阻力位则集中在1.36750和1.37000区间，突破该阻力可能会引发上涨趋势。考虑到目前的震荡走势，交易者可以关注这些关键技术水平，以把握短期波动。\n\n建议投资者在当前区间内采取区间交易策略，买入支撑位附近、卖出阻力位附近，适当设置止损以控制风险。在市场缺乏明确趋势的情况下，谨慎操作为宜。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently trading at 1.36655, showing a slight 0.02% gain over the last 24 hours. The price has found resistance at 1.36738, with a recent low at 1.36519. The market appears to be consolidating in a tight range, suggesting indecision between buyers and sellers. Without significant news catalysts, the pair may continue to oscillate around these levels, reflecting a neutral to slightly bullish short-term outlook.\n\nThe 20-period Simple Moving Average (SMA) stands at 1.36402, acting as dynamic support for the pair. A bounce off this level would signal continued buying pressure, potentially driving the price towards the upper resistance near 1.36738. If the price breaks below the 1.36402 SMA, it would indicate weakness, with the next key support likely at 1.36000, a psychological level that often attracts buying interest.\n\nThe lack of RSI and MACD data leaves us with an incomplete view of momentum. However, the existing MACD value at 0.00059183563 suggests a minimal bullish momentum. Traders should watch for confirmation from these indicators to assess whether the current trend will extend or reverse. Until then, trading within the established range might be prudent, with buying near support and selling near resistance.\n\nGiven the lack of clear momentum indicators, traders should consider a range-bound strategy. Look for long positions near support levels, such as 1.36519 or the SMA at 1.36402, with a target near 1.36738. A break above this resistance would warrant a reevaluation for a move toward 1.37000. Conversely, if the support levels fail, a bearish scenario could unfold, targeting lower levels like 1.36000."
+    }
+  }
+}

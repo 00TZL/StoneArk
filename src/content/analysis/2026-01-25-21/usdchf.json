@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-01-25T21:30:10.562Z",
+  "price": {
+    "close": "0.77566",
+    "high": "0.77736",
+    "low": "0.77391",
+    "open": "0.77566",
+    "change": "0.02",
+    "datetime": "2026-01-26 08:00:00"
+  },
+  "indicators": {
+    "rsi": 29.30991,
+    "macd": -0.0010575846,
+    "macd_signal": -0.00034248282,
+    "sma20": 0.780791
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[震荡整理中]",
+      "content": "当前美元/瑞郎汇率为0.77566，近期价格波动幅度较小，显示出震荡整理的趋势。尽管24小时变化仅为0.02%，但市场仍然在高点0.77736和低点0.77391之间寻找方向，表明多空力量相对均衡。\n\n技术指标方面，MACD值为-0.0010575846，显示出短期内可能的弱势，但由于信号线数据缺失，无法全面判断趋势。SMA(20)为0.78079100，价格当前位于该均线下方，进一步印证了短期内看跌的信号。RSI指标暂无数据，但在震荡整理期间，通常需要关注超买或超卖的情况。\n\n从支撑和阻力位来看，0.77391是短期支撑位，若跌破该水平，将可能加速下行。反之，0.77736则是重要阻力位，突破后有望恢复上涨动能。建议交易者在当前区间内采取观望策略，等待明确的突破信号再做决策，以降低风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF currency pair is currently trading at 0.77566, reflecting a slight increase of 0.02% over the last 24 hours. Analyzing the recent price action, the pair has maintained a range between the high of 0.77736 and a low of 0.77391. This consolidation indicates potential indecision in the market, suggesting that traders are awaiting further catalysts to establish a clearer trend direction. A breakout above the recent high could signal bullish sentiment, while a decline below the low may indicate bearish pressure.\n\nIn terms of technical indicators, the MACD shows a value of -0.0010575846, which suggests a bearish momentum prevailing in the short term. However, without the signal line available, it's challenging to draw definitive conclusions. The absence of a quantified RSI also limits our ability to assess overbought or oversold conditions effectively. Traders should remain vigilant for the emergence of these indicators to confirm any potential trend shifts.\n\nKey support and resistance levels are essential for understanding potential price movement. The immediate support level is around 0.77391, which, if breached, may lead to further downside targeting 0.77000. Conversely, resistance is identified at 0.77736, with a potential upside target of 0.78000 if the pair breaks above this threshold. These levels could serve as pivotal points for traders looking to capitalize on price fluctuations.\n\nGiven the current market conditions, a cautious trading approach is advisable. For those seeking long positions, a confirmed breakout above 0.77736 could provide an opportunity, ideally paired with bullish confirmation from the MACD and any emerging RSI data. Conversely, traders considering short positions should watch for a decisive move below 0.77391, which could present a favorable risk-reward scenario in a bearish trend."
+    }
+  }
+}

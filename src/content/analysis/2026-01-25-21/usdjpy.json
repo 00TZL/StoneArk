@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-01-25T21:27:01.953Z",
+  "price": {
+    "close": "154.71881",
+    "high": "154.85476",
+    "low": "154.43449",
+    "open": "154.46859",
+    "change": "0.16",
+    "datetime": "2026-01-26 08:00:00"
+  },
+  "indicators": {
+    "rsi": 30.76208,
+    "macd": -0.28702126,
+    "macd_signal": -0.17540898,
+    "sma20": 155.55606
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理，关注关键支撑位]",
+      "content": "当前美元/日元（USD/JPY）价格处于154.71881附近，短期内震荡整理。价格未能突破近期的高点154.85476，显示出一定的压制力度。考虑到价格在该区间内波动，当前走势更倾向于整理行情，缺乏明确的单边趋势。\n\n从技术指标来看，MACD为负值(-0.287)，但未提供具体的信号线数据。RSI指标未提供，意味着我们无法获取即时的超买或超卖信息，这限制了短期交易的精确性。此外，SMA(20)为155.55606，价格仍处于其下方，显示出中期下行压力。\n\n支撑位方面，154.43449一线可视为短期支撑，若跌破该水平，可能会加剧下行风险。若价格重新上涨并突破155.55606的SMA(20)阻力，则有望挑战更高的水平。然而，在当前震荡格局中，突破的可能性相对较低。\n\n交易建议方面，建议短期内关注154.43449支撑位的守稳情况。若价格跌破该支撑，则可考虑做空。反之，若价格向上突破155.55606，可考虑轻仓做多，止损设置在154.43449附近，以控制风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently trading at 154.71881, showing a slight increase of 0.16% in the last 24 hours. The market has been relatively stable within a narrow range, with a high of 154.85476 and a low of 154.43449. Despite this stability, the overall trend appears to be bearish in the short-term, as the price is trading below the 20-period Simple Moving Average (SMA) of 155.55606. This SMA level acts as a dynamic resistance, indicating that unless the price breaks above it, the bears are likely to continue controlling the momentum.\n\nThe MACD indicator is currently negative at -0.287, suggesting a bearish bias in the market. While the signal line is not provided, the negative MACD value indicates that sellers are in control. This can be a sign of weakening bullish momentum, with the potential for further downside movement if the price continues to stay below the SMA. Traders should watch for any reversal or divergence from the MACD to gauge potential shifts in market sentiment.\n\nSupport levels are located at 154.43449, which marks the recent low, followed by a stronger level at 154.00. These areas could act as a cushion for the price if a pullback occurs. On the upside, resistance remains at the 20-period SMA near 155.56, which would need to be broken for a more significant bullish reversal to materialize. Should the pair manage to break above the SMA, the next resistance could be found at 156.00, where the market may face further challenges.\n\nIn terms of trading strategy, a cautious approach is recommended for now. A potential short entry could be considered near the 155.56 resistance, targeting the support at 154.43 for a reasonable risk-to-reward ratio. However, traders should keep an eye on the MACD for any signs of bullish divergence or a cross above the signal line for an early indication of a possible trend reversal."
+    }
+  }
+}
