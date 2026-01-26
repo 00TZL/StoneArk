@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-01-26T02:26:31.162Z",
+  "price": {
+    "close": "0.69229",
+    "high": "0.69255",
+    "low": "0.69163",
+    "open": "0.692",
+    "change": "0.04",
+    "datetime": "2026-01-26 13:00:00"
+  },
+  "indicators": {
+    "rsi": 67.40927,
+    "macd": 0.0008464225,
+    "macd_signal": 0.00069472764,
+    "sma20": 0.690518
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理中]",
+      "content": "当前AUD/USD在0.69229附近波动，显示出短期内的震荡整理走势。价格在0.69163至0.69255区间内反复测试，尚未形成明确的突破。这表明市场情绪较为谨慎，投资者在等待更明确的方向指引。\n\n技术指标方面，MACD显示出微弱的上行动能，当前值为0.00084642250，表明短期内可能存在进一步反弹的机会。然而，RSI指标尚未提供参考数据，无法全面分析超买或超卖状态。20日简单移动平均线（SMA）在0.69051800，作为支撑位，对价格下行有一定保护。\n\n支撑位方面，0.69163是关键的支撑线，若价格下破可能会引发更深的回调。阻力位则在0.69255，突破此水平可能会打开上行空间。建议投资者在当前区间内寻找短线交易机会，关注突破信号，并设定合理的止损和止盈点，以应对市场的波动性。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently trading at 0.69229, showing a slight increase of 0.04% over the last 24 hours. The price has oscillated between a high of 0.69255 and a low of 0.69163, indicating a period of consolidation. This price action suggests that the market is in a neutral phase, with neither buyers nor sellers gaining significant control. A breakout beyond these levels could signal a stronger trend, either upward or downward, depending on the direction.\n\nTechnical indicators provide mixed signals at this stage. The MACD value of 0.00084642250 suggests a slight bullish bias; however, the absence of a signal line makes it difficult to ascertain momentum direction. The lack of a current RSI reading complicates the analysis of overbought or oversold conditions. Traders should monitor these indicators closely, as any shifts could provide crucial insights into potential price movements.\n\nKey support and resistance levels are forming around the recent high and low points. The support level is established at 0.69163, while resistance is seen at 0.69255. A breach of the support level could lead to a test of lower levels, potentially targeting 0.6900. Conversely, if the pair breaks above the resistance, it may pave the way for a rally toward 0.6950. These levels are critical for setting trade entry and exit points.\n\nFor traders looking to engage with this pair, a cautious approach is advisable. A long position could be considered if the price decisively breaks above 0.69255, with a target near 0.6950 while placing a stop-loss just below 0.69163. Conversely, should the price fall below 0.69163, a short position may be warranted, targeting the psychological level of 0.6900 with a stop-loss above 0.69255. Monitoring economic news and data releases from both Australia and the U.S. will also be essential for gauging market sentiment."
+    }
+  }
+}

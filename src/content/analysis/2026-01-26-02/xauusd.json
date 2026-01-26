@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-01-26T02:30:13.092Z",
+  "price": {
+    "close": "5086.88481",
+    "high": "5087.97356",
+    "low": "5069.35565",
+    "open": "5072.154",
+    "change": "0.29",
+    "datetime": "2026-01-26 13:00:00"
+  },
+  "indicators": {
+    "rsi": 98.93701,
+    "macd": 19.25502,
+    "macd_signal": 8.40779,
+    "sma20": 4998.043784
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：当前震荡整理，短期趋向谨慎",
+      "content": "当前黄金/美元（XAU/USD）价格呈现震荡整理态势，最新价格为5086.88。由于24小时内仅有0.29%的微幅变动，市场未出现明显的趋势突破。高低点区间保持在5087.97和5069.36之间，显示出一定的区间波动。\n\n从技术指标来看，RSI（14）暂时无法提供准确参考，但MACD数值为19.26，表明短期内可能存在轻微的上涨动能。然而，由于信号线未给出明确指示，当前市场动能较为不足，整体走势偏向震荡。\n\n短期支撑位位于5069.36附近，若价格下行突破此支撑，则可能进一步考验5000大关。而上方的阻力位则在5087.97附近，一旦突破该阻力，可能引发价格向更高水平的突破。SMA（20）也支持震荡走势，显示出短期内价格波动较为局限。\n\n综合来看，目前黄金/美元处于区间震荡状态，建议交易者在价格接近支撑或阻力时进行区间操作，谨慎追高或追低。同时，密切关注MACD和RSI的后续变化，以便及时调整策略。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The price of Gold against the US Dollar (XAU/USD) is currently in a bullish phase, with the latest price at 5086.88, representing a moderate 0.29% increase over the past 24 hours. The high and low during this period were 5087.97 and 5069.36, indicating a relatively tight range. Given this, the trend appears to be upward, though not excessively volatile. The market has held steady above key support levels, suggesting a stable bullish sentiment. Without the RSI or MACD signaling significant overbought or oversold conditions, the market remains in neutral territory.\n\nThe SMA(20) at 4998.04 is well below the current price, reinforcing the bullish trend. The price is comfortably above the 20-period simple moving average, which indicates strong momentum and suggests that the recent uptrend could continue, barring any sudden market reversals. The absence of a precise MACD signal suggests that while momentum is positive, there isn't yet a clear confirmation of a sustained rally. Traders should be cautious of any sharp pullbacks to the support level at 5069.36, as this could act as a potential entry point for long positions if the market shows signs of reestablishing upward momentum.\n\nSupport is expected around 5069.36, a level which has acted as a recent low. Should the price breach this, a deeper correction toward the next key support at 4998 could become probable. On the resistance side, the immediate obstacle is near the high of 5087.97, with a potential break above this price opening up a move toward higher levels. If the price surpasses 5090-5095, it could signal an extension of the rally, with targets moving towards 5100 or even higher.\n\nIn terms of trading strategy, maintaining a cautious approach is recommended. If the price approaches support at 5069.36 and shows signs of holding, traders could consider entering long positions. Conversely, if the price breaks below this level and fails to recover quickly, a short-term bearish outlook may develop. Monitoring price action near key levels will be crucial in determining the next significant market move."
+    }
+  }
+}

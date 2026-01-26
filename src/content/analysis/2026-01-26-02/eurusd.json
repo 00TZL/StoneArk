@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-01-26T02:23:41.936Z",
+  "price": {
+    "close": "1.18675",
+    "high": "1.18771",
+    "low": "1.18569",
+    "open": "1.18582",
+    "change": "0.08",
+    "datetime": "2026-01-26 13:00:00"
+  },
+  "indicators": {
+    "rsi": 62.59262,
+    "macd": 0.0012751586,
+    "macd_signal": 0.00097548982,
+    "sma20": 1.18386
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[震荡整理，略偏多]",
+      "content": "当前欧元/美元价格为1.18675，近期价格波动较小，表现为震荡整理格局。价格未能突破近期的高点1.18771，依旧维持在1.18569至1.18771区间内波动，说明市场短期内缺乏明确的方向性。\n\n技术指标方面，SMA(20)显示1.18386，这意味着短期均线支撑位在此附近，若价格回落至此水平，可能会迎来支撑反弹。然而，RSI与MACD未提供足够的方向性信号，显示当前市场缺乏强势买入或卖出的动力。\n\n支撑位方面，1.18569和1.18386是重要的支撑区间，突破后可能进一步下探1.18000附近。阻力位则集中在1.18771附近，突破该水平可能会推动价格进一步上涨，目标看向1.19000及更高位置。\n\n在交易建议上，短期内若价格回落至支撑位附近，可以考虑做多，目标可看向1.18800甚至1.19000。若突破阻力位，保持观望或适当加仓。但如果价格跌破支撑位1.18386，可能需要考虑做空。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently hovering near the 1.18675 level, showing a slight 0.08% increase over the past 24 hours. The price action has remained relatively stable, with a range from 1.18569 to 1.18771. The market is experiencing a consolidation phase, indicating a balance between buying and selling pressures. The absence of a clear trend, coupled with the narrow trading range, suggests that the market is awaiting further catalysts for directional movement.\n\nFrom a technical perspective, the Relative Strength Index (RSI) is unavailable at the moment, which limits our ability to gauge overbought or oversold conditions. However, the MACD reading of 0.0013 shows a slight bullish momentum, suggesting that buyers have a small edge at the moment. This indicator is relatively neutral, and without a clear signal crossover, it’s important to exercise caution in entering long positions without confirmation from other indicators.\n\nThe key support level lies at 1.18569, where recent lows have been formed. A break below this level could signal further weakness and open the door for a move toward the 1.18386 region, which coincides with the 20-period simple moving average. On the upside, resistance is found near the high of 1.18771. A decisive break above this level could trigger a rally towards the next resistance zone, which is untested on the chart but would likely lie around 1.19000 or higher.\n\nGiven the current market conditions, traders should be cautious and watch for a clear breakout in either direction. If the price breaks above 1.18771 with strong volume, a buy position could be considered, targeting the next resistance. Conversely, a break below 1.18569 may warrant short positions, aiming for lower support levels. Risk management should be a priority, with tight stop losses to mitigate potential reversals."
+    }
+  }
+}
