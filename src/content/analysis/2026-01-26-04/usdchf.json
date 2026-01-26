@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-01-26T05:05:02.152Z",
+  "price": {
+    "close": "0.77716",
+    "high": "0.77729",
+    "low": "0.77715",
+    "open": "0.77727",
+    "change": "-0.01",
+    "datetime": "2026-01-26 16:00:00"
+  },
+  "indicators": {
+    "rsi": 41.035216,
+    "macd": -0.001252835,
+    "macd_signal": -0.0011322195,
+    "sma20": 0.779527
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[当前震荡整理，短期下行风险]",
+      "content": "目前美元/瑞郎价格处于0.77716附近，全天波动幅度较小，显示市场处于震荡整理状态。从技术面看，价格持续在0.77715到0.77729区间内波动，尚未出现明显突破。短期内，市场情绪相对平稳，缺乏强烈的上涨或下行趋势。\n\nRSI(14)和MACD指标当前没有提供明确的超买超卖信号，表明市场动能较弱。MACD线略为负值（-0.00125），但信号线缺失，显示缺乏明确的方向性。这进一步验证了市场的横盘整理态势。SMA(20)位于0.7795附近，价格处于其下方，提示短期可能有进一步的下行压力。\n\n在支撑和阻力方面，当前支撑位接近0.77715，若价格突破此支撑，有可能进一步测试0.77600附近的低点。上方的阻力位则位于0.7795附近，若价格突破该阻力，可能重新测试0.7800的水平。建议投资者保持观望，待价格突破关键水平后再考虑进场。\n\n综上所述，当前美元/瑞郎处于震荡区间，短期内存在一定下行风险。建议耐心等待突破信号，避免在不确定的震荡行情中贸然操作。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently trading at 0.77716, showing a slight 24-hour change of -0.01%. This indicates a relatively stagnant market, with limited price movement during the past 24 hours. The high and low for the period are closely aligned, suggesting a narrow trading range and indicating a lack of significant volatility. With the current price close to the 20-period SMA of 0.77953, the market seems to be consolidating in a tight range, indicating indecision among traders.\n\nWithout an available RSI reading, we rely on other indicators such as the MACD, which is currently negative at -0.0012528350. A negative MACD suggests that the pair may be in a mild downtrend, as the momentum is not strong enough to push prices higher. However, with no signal line provided, it is difficult to confirm a clear reversal or continuation signal. The market’s trend appears neutral-to-slightly bearish, and further confirmation from other indicators or price action would be necessary to make a more decisive call.\n\nKey support levels can be identified near the low of the current range, 0.77715, and any breakdown below this point could signal further downward movement. On the upside, resistance lies near the recent high of 0.77729. A sustained break above this level may indicate that the pair is preparing for an upside move. Given the current lack of significant momentum, traders may prefer to wait for either a clear breakout or a confirmation of a trend reversal before making any strong positions.\n\nIn terms of trading strategy, it would be prudent to monitor the 0.77715 support and 0.77729 resistance levels closely. A bounce off support could provide an opportunity for a short-term buy position, while a break below support might signal a further decline. Similarly, a break above resistance could trigger a buy signal, but caution should be exercised given the current lack of momentum. Waiting for more clear signals might be the best approach in this relatively quiet market environment."
+    }
+  }
+}

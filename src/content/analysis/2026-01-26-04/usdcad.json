@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-01-26T05:03:12.183Z",
+  "price": {
+    "close": "1.36808",
+    "high": "1.36808",
+    "low": "1.36805",
+    "open": "1.36805",
+    "change": "0.00",
+    "datetime": "2026-01-26 16:00:00"
+  },
+  "indicators": {
+    "rsi": 32.18806,
+    "macd": -0.00093163608,
+    "macd_signal": -0.00069461093,
+    "sma20": 1.37027
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理，突破待定]",
+      "content": "目前美元/加元处于震荡整理状态，价格维持在1.36808附近波动。价格在24小时内几乎没有变化，显示市场暂时缺乏方向性。结合高点和低点的微小波动，当前的市场情绪偏向于观望。\n\n从技术指标来看，RSI(14)缺乏数据，无法提供明确的超买或超卖信号。MACD显示出微弱的负值，暗示短期内价格可能仍存在下行压力，但没有明显的趋势形成。SMA(20)略高于当前价格，表明短期内可能会有反弹的机会，但这需要突破当前的价格区间。\n\n支撑位位于1.36805附近，而阻力位则处于1.37027。价格若突破1.37027，可能会向上寻找更高的阻力位。反之，若跌破支撑位1.36805，则可能会进一步下探。考虑到目前市场的震荡特征，投资者可等待价格突破这些关键价位后再做出操作决策。\n\n综合来看，当前市场缺乏明确的趋势，建议短期内保持谨慎，等待突破后再进行操作。突破后的顺势交易将更为可靠。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently exhibiting a neutral trend, with price movement confined between the day's high of 1.36808 and low of 1.36805. This tight range suggests market indecision, potentially indicating a consolidation phase. Despite the lack of significant movement, traders should be cautious about potential breakouts in either direction. A breakout above the high could lead to a retest of the previous resistance levels near 1.3710, while a decline below the low might bring the next support zone around 1.3650 into focus.\n\nLooking at the technical indicators, the current MACD value is negative at -0.00093, hinting at mild bearish momentum. However, the lack of a confirmed signal line or RSI makes it challenging to gauge whether this is a short-term pullback or the start of a larger decline. Traders should watch for a potential shift in the MACD crossover or a significant change in price action to confirm the trend's direction. A more prominent bearish signal would only emerge if the MACD stays below the zero line while price breaks lower.\n\nIn terms of key support and resistance levels, the immediate range offers potential points to watch. On the downside, 1.3650 represents an important support zone, and any break below this level may open the door for further downside movement. On the upside, resistance lies near the 1.3700–1.3710 range, where previous highs have capped upward price action. The SMA(20) at 1.37027 reinforces the potential resistance near this zone, which could offer a strong barrier to bullish momentum.\n\nGiven the current price action, traders may want to stay cautious and adopt a range-bound trading strategy, looking for potential breakout opportunities once either support or resistance levels are breached. Tight stop-loss orders are advisable to mitigate risks due to the current market’s narrow trading range."
+    }
+  }
+}

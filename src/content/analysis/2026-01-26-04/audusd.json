@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-01-26T05:02:14.178Z",
+  "price": {
+    "close": "0.69141",
+    "high": "0.69173",
+    "low": "0.69098",
+    "open": "0.69125",
+    "change": "0.02",
+    "datetime": "2026-01-26 15:00:00"
+  },
+  "indicators": {
+    "rsi": 57.98401,
+    "macd": 0.00064163452,
+    "macd_signal": 0.00068555278,
+    "sma20": 0.6907955
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[横盘整理，短期维持震荡走势]",
+      "content": "当前澳元/美元(AUD/USD)价格维持在0.69141附近，全天波动幅度较小，反映出市场情绪谨慎。短期内价格在0.69098至0.69173区间内震荡整理，表明市场尚未形成明确的趋势方向。随着市场关注度集中，价格可能继续在这一范围内震荡，直到有新的基本面或技术面消息刺激突破。\n\n从技术指标来看，RSI(14)未给出明确的超买或超卖信号，说明目前市场缺乏强烈的买卖动能。MACD指标接近0轴，显示出市场动能不强，短期内可能持续横向整理。SMA(20)位于0.6907955附近，支撑位较为明确，若价格跌破该支撑，可能加剧下行风险。\n\n支撑位方面，0.69098是最近的低点，突破该水平可能带来进一步的下行空间，目标可看向0.6880区域。阻力位则位于0.69173附近，突破后有望推动价格测试0.6930-0.6950区间。考虑到当前波动较小，建议短线交易者关注区间震荡，利用支撑与阻力进行区间操作。\n\n总体而言，鉴于市场缺乏强烈动能，建议采取区间交易策略，等待更明确的突破信号再做进一步决策。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently trading at 0.69141, showing a slight 24-hour change of +0.02%. The price has oscillated between 0.69098 and 0.69173, indicating low volatility in the short term. The market is currently in a neutral state, with no strong directional momentum. The 20-period SMA is at 0.6907955, suggesting a mild bullish trend as the price is slightly above the moving average. However, with minimal volatility, traders should remain cautious about entering large positions unless clearer trends emerge.\n\nFrom an indicator perspective, the MACD is at 0.00064163452, but without a signal line to compare against, it's difficult to make a strong interpretation. A closer look at the RSI(14) would provide more insight into potential overbought or oversold conditions, but with the current data, there’s no clear divergence or confirmation of momentum shifts. The absence of these key indicators leaves the market in a somewhat indecisive state, waiting for further price action.\n\nSupport and resistance levels are important to monitor. Immediate support can be found around the 0.69098 level, as the price has recently tested this low point. A break below could lead to further downside, potentially targeting 0.69000. On the upside, resistance is observed at 0.69173, which is close to the current high. If the price manages to push above this level, it may find further resistance near 0.69300, where previous price action has shown hesitance.\n\nFor trading, the current market condition suggests a cautious approach. If the price holds above the 20-period SMA and breaks resistance at 0.69173, a short-term bullish outlook could be considered. Alternatively, if the price dips below 0.69098, a bearish strategy may be more appropriate. Traders should closely monitor price action and wait for confirmation before entering any trades to minimize risk."
+    }
+  }
+}
