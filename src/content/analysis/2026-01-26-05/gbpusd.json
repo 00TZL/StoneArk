@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-01-26T05:41:52.778Z",
+  "price": {
+    "close": "1.3665",
+    "high": "1.36693",
+    "low": "1.3659",
+    "open": "1.36609",
+    "change": "0.03",
+    "datetime": "2026-01-26 16:00:00"
+  },
+  "indicators": {
+    "rsi": 57.96835,
+    "macd": 0.00083553927,
+    "macd_signal": 0.00078289376,
+    "sma20": 1.36495
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[短期震荡整理，等待突破]",
+      "content": "当前英镑/美元的价格在1.3665附近，显示出一定的震荡整理趋势。短期内，汇价在1.3659和1.36693之间波动，缺乏明确的突破。整体市场情绪较为谨慎，可能受到近期经济数据的影响，导致交易者观望情绪较浓。\n\n从技术指标来看，RSI和MACD的数值不完全可用，无法对动能进行深入分析。但SMA(20)位于1.36495，价格略高于该水平，暗示市场存在一定的支撑。若价格下行触及此均线支撑，可能会出现反弹。\n\n支撑位方面，1.3659附近较为关键，一旦跌破此位，可能会寻找更低支撑位。阻力位则位于1.36693上方，突破后可能打开更高的上行空间。在当前震荡区间内，关键突破点仍需关注。\n\n建议短线交易者可关注价格是否突破上述支撑或阻力，等待更明确的趋势信号。若突破上方阻力，可考虑轻仓多单；若跌破下方支撑，空单机会可能出现。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "GBP/USD is trading near 1.3665, maintaining a mild bullish bias after consolidating above the short-term average. Price action remains constructive, as the pair holds above the 20-period simple moving average at 1.36495, suggesting buyers are still defending dips. However, the narrow daily range highlights a lack of strong momentum, indicating the market is pausing rather than committing to a decisive directional breakout at this stage.\n\nFrom an indicator perspective, the available MACD reading remains positive at 0.00083, which supports the underlying bullish structure and signals that upside momentum has not fully faded. The absence of a confirmed signal line and RSI reading limits momentum confirmation, so strength should be interpreted cautiously. Still, as long as MACD remains above the zero line, the broader tone favors gradual upside continuation rather than aggressive selling pressure.\n\nKey support is located around 1.3650, closely aligned with the 20-period SMA, followed by a deeper support zone near 1.3625 where previous demand may re-emerge. On the upside, immediate resistance sits near 1.3690, corresponding to the recent intraday high, while a more significant barrier can be found around 1.3730. A clean break above this area would improve the bullish outlook and open room for further gains.\n\nFrom a trading perspective, short-term strategies may favor buying on pullbacks toward the 1.3650 support region, provided price stability is maintained above the moving average. Conservative participants may wait for a confirmed breakout above 1.3690 before engaging, while risk-aware traders should monitor momentum indicators for renewed confirmation. A sustained move below 1.3625 would weaken the bullish structure and shift focus toward a corrective phase."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-01-26T05:40:52.914Z",
+  "price": {
+    "close": "1.1865",
+    "high": "1.18714",
+    "low": "1.18591",
+    "open": "1.18603",
+    "change": "0.04",
+    "datetime": "2026-01-26 16:00:00"
+  },
+  "indicators": {
+    "rsi": 60.51176,
+    "macd": 0.0011847493,
+    "macd_signal": 0.0010879922,
+    "sma20": 1.18443
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[震荡整理中]",
+      "content": "当前欧元/美元的市场表现显示出一定的震荡整理趋势。价格在1.1859至1.1871区间内波动，表明市场缺乏明确的方向性。尽管价格略微上涨，但整体走势仍处于相对平稳的状态，投资者需密切关注即将发布的经济数据以评估可能的突破方向。\n\n从技术指标来看，虽然当前未提供RSI和MACD的完整数据，但根据MACD值可知，短期内多头力量略有增强。SMA(20)位于1.18443，成为短期支撑位。若价格回调至此水平，可能为买入机会；相反，若持续突破1.1871，则可能开启进一步上涨空间。\n\n支撑位方面，1.1844是关键支撑，若跌破此位，则可能加剧下行风险。而阻力位则在1.1871，若突破则可见1.1900的目标。建议投资者在区间内进行波段交易，关注市场消息以把握更好的入场时机。\n\n综上所述，当前欧元/美元走势震荡，建议保持谨慎，运用技术指标辅助决策，密切关注支撑与阻力的关键水平，以实现更好的交易收益。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD is trading near 1.1865, holding above the 20-day simple moving average at 1.1844, which keeps the short-term bias mildly bullish. Price action over the last session was tight, suggesting consolidation after a gradual push higher. The pair remains within a shallow upward channel, but momentum is not aggressive. As long as price stays above the rising SMA, buyers retain near-term control, though upside follow-through looks measured rather than impulsive.\n\nMomentum indicators give a mixed but constructive picture. The MACD value at 0.00118 is positive, indicating bullish momentum is still present, even though the lack of a clear signal line limits confirmation strength. RSI data is unavailable, so overbought or oversold conditions cannot be confirmed, which adds some uncertainty. Still, the positive MACD combined with price holding above its short-term average suggests momentum is supportive, just not strong enough to rule out sideways pauses.\n\nOn the levels side, immediate support sits around 1.1850–1.1844, aligning with the session low and the 20-day SMA. A deeper pullback could expose 1.1820, where buyers would likely defend more aggressively. Resistance is clustered near 1.1875, followed by a more significant barrier around 1.1900, which represents a psychological and technical hurdle. A clean break above 1.1875 would improve the bullish outlook toward that higher zone.\n\nFrom a trading perspective, cautious long positions may be considered on dips toward the 1.1850 area, with tight risk management below 1.1820. Upside targets remain modest unless price can decisively clear 1.1875. Short-term traders might also exploit range conditions by selling near resistance while momentum remains muted. Overall, the bias favors mild upside, but patience is warranted until stronger momentum confirmation appears."
+    }
+  }
+}

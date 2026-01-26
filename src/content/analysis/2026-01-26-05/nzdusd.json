@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-01-26T05:45:35.027Z",
+  "price": {
+    "close": "0.59602",
+    "high": "0.59622",
+    "low": "0.59564",
+    "open": "0.59598",
+    "change": "0.01",
+    "datetime": "2026-01-26 16:00:00"
+  },
+  "indicators": {
+    "rsi": 57.26677,
+    "macd": 0.00040095418,
+    "macd_signal": 0.00039341235,
+    "sma20": 0.5955405
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：短线震荡偏强",
+      "content": "当前纽元/美元维持在0.596附近窄幅整理，价格略高于20日均线，显示短线多头仍占细微优势，但整体波动有限，趋势以震荡偏强为主，尚未形成明确单边结构。\n\n技术指标方面，MACD处于零轴上方，动能温和偏多，但信号线数据缺失，趋势确认度一般；RSI暂不可用，需结合价格与均线判断，多头力量存在但并不激进。\n\n关键支撑位关注0.5955一线，与20日均线基本重合，失守则可能回测0.5950心理关口；上方阻力位在0.5962前高，进一步为0.5970区域，突破后才有延续上行空间。\n\n交易策略上，短线可考虑回踩支撑轻仓做多，止损设于0.5950下方；激进者可等待有效突破0.5962后顺势跟进，整体仓位宜控制，防范震荡行情反复。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair currently trades at 0.59602, showing a slight increase of 0.01% over the past 24 hours. This modest price movement indicates a period of consolidation within the broader context of a bearish trend that has been evident in recent weeks. The pair has struggled to maintain upward momentum following recent highs and appears to be testing the lower range of its trading channel. A sustained break below the recent low of 0.59564 could signal further downside potential, pushing prices toward the psychological support level of 0.5900.\n\nTechnical indicators present a mixed picture. Although the MACD shows a slight positive divergence with a value of 0.0004, the absence of a clear signal line raises caution regarding momentum. The Relative Strength Index (RSI) is currently unavailable, but an RSI reading below 30 would indicate oversold conditions, suggesting the potential for a bounce-back. The 20-period Simple Moving Average (SMA) sits at 0.59554, providing immediate resistance. A decisive move above this level could signal a shift in sentiment, attracting buyers.\n\nSupport levels at 0.59564 and further down at 0.5900 are crucial for the NZD/USD outlook. If prices fail to hold above these levels, the risk of a deeper retracement increases. Conversely, a sustained rally above the 20 SMA could lead to testing resistance around 0.5980, where sellers may re-emerge. Traders should keep a close eye on these levels and the overall trend dynamics.\n\nFor trading strategies, a cautious approach is recommended. Short positions may be warranted if the price breaks below 0.59564, targeting the 0.5900 support level. Conversely, a break above the 20 SMA could prompt a long entry, with an initial target of 0.5980. Risk management remains essential, as market volatility can be unpredictable, particularly in the current economic climate."
+    }
+  }
+}

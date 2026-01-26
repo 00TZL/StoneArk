@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-01-26T05:44:42.462Z",
+  "price": {
+    "close": "1.36789",
+    "high": "1.36828",
+    "low": "1.36751",
+    "open": "1.36805",
+    "change": "-0.01",
+    "datetime": "2026-01-26 16:00:00"
+  },
+  "indicators": {
+    "rsi": 31.56035,
+    "macd": -0.00094200645,
+    "macd_signal": -0.00069668501,
+    "sma20": 1.37027
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理，短期下行压力]",
+      "content": "当前美元/加元(USD/CAD)价格在1.36789附近，呈现震荡整理的走势。从短期来看，价格在1.36751和1.36828区间内波动，表现出一定的横向震荡形态。市场缺乏明确的方向性，导致价格难以突破该区间的边界。短期内，1.3675为支撑位，1.3683则为短期阻力位。\n\n技术指标方面，MACD值为-0.00094，表明市场略有卖盘压力，但由于缺乏信号线数据，整体趋势尚未显现。RSI指标无法提供参考，但基于当前价格水平，RSI值可能接近中性区域。SMA(20)在1.37027附近，为当前价格提供轻微的阻力，暗示短期内存在一定的下行压力。\n\n对于短期交易者，建议关注支撑位1.3675和阻力位1.3683的突破情况。如果价格跌破1.3675支撑位，可能会进一步向下测试1.3650附近的支撑区域。反之，若价格突破1.3683阻力位，可能会试图恢复至1.3700上方。\n\n总体而言，当前市场情绪偏空，短期内美元/加元可能面临小幅下行的风险，投资者应谨慎操作，避免过度追高。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently exhibiting a neutral to slightly bearish trend, with the latest price standing at 1.36789. The pair has seen a minor 24-hour change of -0.01%, suggesting a relatively calm market environment. Over the past 24 hours, price fluctuations have been contained between 1.36751 and 1.36828, showing tight consolidation. This indicates that there is a lack of strong momentum in either direction, with the market waiting for further cues. \n\nLooking at the technical indicators, the MACD shows a small negative value of -0.00094, which hints at a slight bearish momentum in the short term. However, without a clear Signal line available, it is difficult to interpret a sustained directional shift at this point. The Relative Strength Index (RSI) is unavailable, limiting the ability to assess overbought or oversold conditions, but traders should remain cautious. Additionally, the 20-period Simple Moving Average (SMA) stands at 1.37027, above the current market price, which suggests a potential resistance level. This could act as a ceiling, preventing the pair from moving higher unless stronger bullish momentum is seen.\n\nFrom a support and resistance perspective, immediate support can be found at 1.36750, the low of the day. Should the price break below this level, the next key support area would be around 1.36500. On the upside, resistance is found near the SMA at 1.37027, which aligns closely with the recent high of 1.36828. A breakout above the SMA could signal the possibility of a more significant upward move toward the next resistance level at 1.37300.\n\nFor traders, a wait-and-see approach might be prudent in the short term. A break below the support at 1.36750 could open a short position with targets near 1.36500, while a push above the SMA could suggest a buying opportunity toward 1.37300. However, with low volatility and a lack of strong momentum, it’s best to monitor the pair closely for any signs of more definitive trends."
+    }
+  }
+}

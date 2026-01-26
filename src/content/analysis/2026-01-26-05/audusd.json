@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-01-26T05:43:52.095Z",
+  "price": {
+    "close": "0.69144",
+    "high": "0.69186",
+    "low": "0.69119",
+    "open": "0.69142",
+    "change": "0.00",
+    "datetime": "2026-01-26 16:00:00"
+  },
+  "indicators": {
+    "rsi": 58.2424,
+    "macd": 0.00064402769,
+    "macd_signal": 0.00068603141,
+    "sma20": 0.690796
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短线震荡偏多",
+      "content": "从当前价格表现看，澳元兑美元围绕0.691一线窄幅波动，日内涨跌持平，显示多空力量暂时均衡。价格稳守短期均线之上，整体结构偏向高位整理，短线趋势略偏多，但动能仍显不足。\n\n技术指标方面，MACD位于零轴上方且维持微弱正值，说明多头动能仍在，但力度有限，尚未形成强势扩张。RSI数据暂缺，市场超买或超卖状态难以确认，短期更需关注价格行为本身。\n\n支撑与阻力方面，下方初步支撑位于0.6910附近，与日内低点接近，进一步支撑参考20日均线0.6908。上方阻力位看向0.6919一线，若有效突破，或打开上行空间。\n\n交易策略上，稳健型交易者可在支撑区域附近轻仓试多，并设置紧密止损以控制风险；激进者则等待突破阻力后的回踩确认。整体建议保持谨慎，关注后续动能变化再行加码。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "AUD/USD is currently trading near 0.69144, consolidating in a narrow intraday range after recent upside follow-through. Price action remains marginally above the 20-period simple moving average at 0.69080, suggesting a short-term bullish bias is still intact. However, the lack of directional momentum over the last 24 hours reflects market indecision, likely driven by balanced USD demand and cautious sentiment toward the Australian Dollar.\n\nFrom an indicator perspective, the MACD value at 0.00064 remains positive, indicating underlying bullish momentum, though the absence of a clear signal line reading limits confirmation strength. RSI data being unavailable prevents a full momentum assessment, but price behavior near recent highs implies neither overbought nor oversold conditions. Overall, indicators point to mild upside pressure, yet without strong conviction, reinforcing the current consolidation theme.\n\nKey support is located around 0.69080, aligned with the SMA(20), followed by a more critical level near 0.68850, which previously acted as a demand zone. A break below these levels would shift the short-term outlook toward neutral or mildly bearish. On the upside, immediate resistance stands near 0.69200, with a more significant barrier around 0.69500, where sellers previously emerged and capped advances.\n\nFrom a trading standpoint, range-based strategies may be more appropriate while volatility remains compressed. Short-term traders could consider buying near support with tight risk controls, targeting a retest of resistance near 0.69200–0.69500. Alternatively, a confirmed breakout above 0.69500 could open room for trend continuation trades, while a sustained move below 0.68850 would favor short setups. Risk management remains essential in the current low-momentum environment."
+    }
+  }
+}
