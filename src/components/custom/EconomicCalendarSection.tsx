@@ -1,15 +1,18 @@
 'use client';
 
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import { Calendar, AlertCircle, Clock } from 'lucide-react';
 
 interface EconomicEvent {
+  id: string;
   time: string;
   currency: string;
   event: string;
   importance: 'high' | 'medium' | 'low';
-  forecast?: string;
-  previous?: string;
+  forecast?: string | null;
+  previous?: string | null;
+  date: string;
+  country: string;
 }
 
 interface EconomicCalendarSectionProps {
@@ -23,44 +26,45 @@ export default function EconomicCalendarSection({ language }: EconomicCalendarSe
   );
   const [selectedImportance, setSelectedImportance] = useState<string>('all');
   const [selectedCurrency, setSelectedCurrency] = useState<string>('all');
+  const [events, setEvents] = useState<EconomicEvent[]>([]);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
 
-  // Mock data - in production, this would come from an API
-  const mockEvents: EconomicEvent[] = [
-    {
-      time: '08:30',
-      currency: 'USD',
-      event: isZh ? '非农就业人数' : 'Non-Farm Payrolls',
-      importance: 'high',
-      forecast: '180K',
-      previous: '175K'
-    },
-    {
-      time: '10:00',
-      currency: 'EUR',
-      event: isZh ? '欧元区GDP' : 'Eurozone GDP',
-      importance: 'high',
-      forecast: '0.3%',
-      previous: '0.2%'
-    },
-    {
-      time: '14:00',
-      currency: 'GBP',
-      event: isZh ? '英国央行利率决议' : 'BOE Interest Rate Decision',
-      importance: 'high',
-      forecast: '5.25%',
-      previous: '5.25%'
-    }
-  ];
+  // Fetch economic calendar data
+  useEffect(() => {
+    const fetchCalendarData = async () => {
+      try {
+        setLoading(true);
+        setError(null);
+        const response = await fetch('/api/economic-calendar');
+
+        if (!response.ok) {
+          throw new Error('Failed to fetch calendar data');
+        }
+
+        const data = await response.json();
+        setEvents(data);
+      } catch (err) {
+        console.error('Error fetching economic calendar:', err);
+        setError(isZh ? '加载经济日历数据失败' : 'Failed to load economic calendar data');
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchCalendarData();
+  }, [isZh]);
 
   const currencies = ['USD', 'EUR', 'GBP', 'JPY', 'AUD', 'CAD', 'CHF', 'NZD'];
 
   const filteredEvents = useMemo(() => {
-    return mockEvents.filter(event => {
+    return events.filter(event => {
+      const dateMatch = event.date === selectedDate;
       const importanceMatch = selectedImportance === 'all' || event.importance === selectedImportance;
       const currencyMatch = selectedCurrency === 'all' || event.currency === selectedCurrency;
-      return importanceMatch && currencyMatch;
+      return dateMatch && importanceMatch && currencyMatch;
     });
-  }, [mockEvents, selectedImportance, selectedCurrency]);
+  }, [events, selectedDate, selectedImportance, selectedCurrency]);
 
   const getImportanceColor = (importance: string) => {
     switch (importance) {
@@ -161,7 +165,19 @@ export default function EconomicCalendarSection({ language }: EconomicCalendarSe
 
         {/* Events List */}
         <div className="space-y-4">
-          {filteredEvents.length === 0 ? (
+          {loading ? (
+            <div className="text-center py-12 bg-gray-50 dark:bg-gray-800 border-2 border-gray-200 dark:border-gray-700">
+              <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-gray-900 dark:border-white mx-auto mb-3"></div>
+              <p className="text-gray-600 dark:text-gray-400">
+                {isZh ? '加载中...' : 'Loading...'}
+              </p>
+            </div>
+          ) : error ? (
+            <div className="text-center py-12 bg-red-50 dark:bg-red-900/20 border-2 border-red-200 dark:border-red-800">
+              <AlertCircle className="w-12 h-12 mx-auto mb-3 text-red-500" />
+              <p className="text-red-600 dark:text-red-400">{error}</p>
+            </div>
+          ) : filteredEvents.length === 0 ? (
             <div className="text-center py-12 bg-gray-50 dark:bg-gray-800 border-2 border-gray-200 dark:border-gray-700">
               <AlertCircle className="w-12 h-12 mx-auto mb-3 text-gray-400" />
               <p className="text-gray-600 dark:text-gray-400">
@@ -169,9 +185,9 @@ export default function EconomicCalendarSection({ language }: EconomicCalendarSe
               </p>
             </div>
           ) : (
-            filteredEvents.map((event, index) => (
+            filteredEvents.map((event) => (
               <div
-                key={index}
+                key={event.id}
                 className="bg-gray-50 dark:bg-gray-800 border-2 border-gray-200 dark:border-gray-700 p-4 hover:border-black dark:hover:border-white transition-colors"
               >
                 <div className="flex flex-col md:flex-row md:items-center gap-4">

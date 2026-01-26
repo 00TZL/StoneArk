@@ -2,7 +2,7 @@
 import { NextResponse } from 'next/server';
 
 export const dynamic = 'force-dynamic';
-export const revalidate = 3600; // Cache for 1 hour
+export const revalidate = 86400; // Cache for 24 hours (daily updates)
 
 interface RawEconomicEvent {
   title: string;
@@ -16,7 +16,7 @@ interface RawEconomicEvent {
 export async function GET() {
   try {
     const response = await fetch('https://nfs.faireconomy.media/ff_calendar_thisweek.json', {
-      next: { revalidate: 3600 } // Cache for 1 hour
+      next: { revalidate: 86400 } // Cache for 24 hours (daily updates)
     });
 
     if (!response.ok) {
