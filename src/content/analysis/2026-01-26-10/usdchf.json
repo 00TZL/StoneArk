@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-01-26T10:38:54.347Z",
+  "price": {
+    "close": "0.77647",
+    "high": "0.77647",
+    "low": "0.77569",
+    "open": "0.77595",
+    "change": "0.06",
+    "datetime": "2026-01-26 21:00:00"
+  },
+  "indicators": {
+    "rsi": 41.56482,
+    "macd": -0.0010666904,
+    "macd_signal": -0.001075797,
+    "sma20": 0.7780265
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[震荡整理，短期承压]",
+      "content": "当前美元/瑞郎的价格走势处于震荡整理阶段，最新价格为0.77647，价格波动较小，24小时变化仅为0.06%。从技术面来看，价格接近前期的支撑位，未能显著突破，这表明市场短期内可能继续整理，缺乏明确的趋势方向。\n\n在技术指标方面，MACD当前值为-0.0011，显示出弱势的卖盘力量，而RSI未给出明确超买或超卖信号，表明市场情绪较为中性。20日简单移动平均线(SMA)为0.7780，价格略低于此水平，进一步表明短期压力位仍在上方。\n\n支撑位方面，0.7757附近为当前的重要支撑区，若价格进一步下探，该位置可能会成为强支撑。阻力位则位于0.7780附近，若价格反弹突破该阻力，可能会重新测试高点。\n\n建议投资者采取观望策略，除非价格突破0.7757支撑或0.7780阻力，才考虑进行更为积极的操作。在当前区间内，短线交易者可以适当进行区间交易，但需注意风险控制。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently trading at 0.77647, reflecting a modest 24-hour change of 0.06%. This stability suggests a phase of consolidation following a prior trend. The price remains below the 20-day Simple Moving Average (SMA) of 0.7780265, indicating that bearish sentiment may still be prevalent. Traders should closely monitor this level as a potential resistance point; a break above could signal a shift in momentum and a possible rally towards higher levels.\n\nAnalyzing the current market conditions, the low of 0.77569 serves as a crucial support level that traders should watch. If the price approaches this level and shows signs of reversal, it could present a buying opportunity. Conversely, a break below this support could exacerbate selling pressure, potentially leading to further declines. The absence of a clear RSI reading complicates momentum assessment, but the MACD suggests a bearish momentum, as indicated by the negative value of -0.0010666904.\n\nFor trading strategies, traders may consider a cautious approach. A buy signal could emerge if the price breaks above the SMA, particularly if accompanied by increased volume, signaling a potential bullish reversal. Conversely, if the price dips below the support level of 0.77569, a short position may be warranted, particularly if confirmed by a bearish MACD crossover. Staying alert to global economic developments and market sentiment will be essential in navigating this currency pair effectively.\n\nIn summary, the USD/CHF pair is at a critical juncture, balancing between support and resistance levels. Traders should remain vigilant, utilizing technical indicators to inform their decisions. The current market conditions may provide opportunities for both short and long positions, contingent on how the price interacts with key levels in the coming sessions."
+    }
+  }
+}

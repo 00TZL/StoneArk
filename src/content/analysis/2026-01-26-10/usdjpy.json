@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-01-26T10:35:37.551Z",
+  "price": {
+    "close": "153.75763",
+    "high": "153.86965",
+    "low": "153.5856",
+    "open": "153.69731",
+    "change": "0.04",
+    "datetime": "2026-01-26 21:00:00"
+  },
+  "indicators": {
+    "rsi": 31.2919,
+    "macd": -0.47139676,
+    "macd_signal": -0.42261293,
+    "sma20": 154.56132
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理，短期维持区间波动]",
+      "content": "当前美元/日元价格为153.75763，显示出震荡整理的态势。价格未突破重要支撑或阻力位，呈现出短期内在区间内波动的特征。随着市场的观望情绪加剧，价格在153.58至153.87之间波动，市场情绪较为谨慎。\n\n从技术指标来看，MACD值为负数（-0.47139676），表明市场可能处于弱势区间，缺乏强烈的上涨动力。目前缺乏RSI值，未能完全确定市场超买或超卖的状况，而SMA(20)在154.56132位置，成为短期的压力位，表明价格如果突破此位置，可能出现反弹。\n\n支撑位方面，153.58是关键支撑区域，如果价格跌破此水平，可能会进一步下探。然而，当前的阻力位在153.87附近，如果突破该水平，可能引发进一步的上涨。投资者应关注这些价格水平的突破，决定短期交易策略。\n\n综合来看，建议在当前区间内进行震荡交易，关注价格在支撑和阻力位附近的反应。若价格突破区间边界，可考虑顺势而为。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently experiencing a slight upward movement, with a 24-hour change of 0.04%. The market remains near a critical resistance zone around 153.87, which is the high of the session. This level has held multiple times in recent trading sessions, suggesting strong selling interest at this point. If the price can break above this level, the next resistance to watch would be 154.56, the 20-period simple moving average (SMA), where a potential reversal could occur.\n\nThe current MACD reading of -0.471 indicates bearish momentum, as the histogram remains negative. However, the absence of the signal line makes the interpretation somewhat inconclusive. A crossover of the MACD above the zero line could signal a shift towards a bullish trend. Without confirmation from other indicators like the RSI, traders should remain cautious before making a move, as this could signal either a reversal or a continuation depending on the direction of the breakout.\n\nSupport is found at the recent low of 153.59, which provides a level for potential price stabilization. A break below this level would open the path to further downside, possibly testing 153.00. With the lack of a clear trend in the market, a cautious approach is advised. A bounce from support might offer buying opportunities, while a sustained break below support could suggest a shift to the downside.\n\nFor traders, a breakout above the resistance zone could open up long opportunities with targets around the 154.56 SMA, while a rejection at these levels may indicate a short entry with stops just above 153.87. As always, wait for confirmation from indicators and price action before taking decisive positions."
+    }
+  }
+}

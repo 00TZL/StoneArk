@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-01-26T10:34:02.114Z",
+  "price": {
+    "close": "1.1863",
+    "high": "1.18659",
+    "low": "1.18574",
+    "open": "1.18637",
+    "change": "-0.00",
+    "datetime": "2026-01-26 21:00:00"
+  },
+  "indicators": {
+    "rsi": 57.10913,
+    "macd": 0.00081192441,
+    "macd_signal": 0.00092574138,
+    "sma20": 1.18533
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[震荡整理，缺乏明确方向]",
+      "content": "当前，欧元/美元的价格在1.1863附近小幅震荡，显示出市场缺乏明确的方向。24小时内价格几乎无变化，整体走势平稳。由于RSI(14)数据缺失，无法准确判断超买或超卖状态，MACD指标虽有微弱的正值，但尚未出现明显的买入信号。\n\n从技术面来看，1.18574和1.18659为欧元/美元的短期波动区间。当前的SMA(20)值为1.18533，暗示价格在这一位置附近存在一定支撑。如果价格突破上方阻力位1.18659，可能会出现短期反弹，但整体未显示出强势趋势。\n\n考虑到市场缺乏足够的动能，建议交易者保持谨慎，避免在当前区间内进行大幅度操作。短期内，如果价格跌破1.18533支撑位，可以考虑卖出，但应留意是否会有反弹修正。适当等待市场出现更明确的趋势信号，再决定进一步操作。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The Euro vs US Dollar (EUR/USD) is currently in a tight range with limited movement, reflecting the flat 24-hour change of 0.00%. At 1.1863, the price has oscillated between a high of 1.18659 and a low of 1.18574, indicating a consolidation phase. The market sentiment suggests indecision, with the pair hovering around its 20-period Simple Moving Average (SMA) at 1.18533. This SMA is acting as a short-term support, with any breakdown potentially signaling further downside risk towards the 1.1850 level.\n\nThe RSI (14) is not available at this moment, but the MACD is showing a very slight positive value of 0.00081. This suggests that the bullish momentum is weak and lacks strong conviction. Without a definitive crossover or divergence, this could imply a continuation of the range-bound behavior unless a stronger catalyst emerges. Traders should keep an eye on the MACD for any potential shifts in momentum. Currently, the lack of major trend signals calls for a cautious approach in short-term trades.\n\nKey support is found at the 1.1850 level, followed closely by the SMA at 1.18533. Should the price break below these levels, it could target the next significant support zone around 1.1830. On the resistance side, 1.1870 remains the immediate level to watch. A sustained break above this level could open the door for a potential move toward 1.1900. For now, traders may prefer to monitor the pair for any breakout or breakdown before taking decisive action.\n\nIn the current environment, a neutral stance with a focus on scalping or range-trading strategies seems most appropriate. Given the tight price range and lack of directional momentum, risk-averse traders might wait for a clearer breakout confirmation before engaging in larger trades. With strong support and resistance levels in place, a breakout from this range could set the tone for the next phase of the pair's movement."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-01-26T10:36:25.435Z",
+  "price": {
+    "close": "0.6926",
+    "high": "0.6927",
+    "low": "0.69215",
+    "open": "0.69218",
+    "change": "0.07",
+    "datetime": "2026-01-26 21:00:00"
+  },
+  "indicators": {
+    "rsi": 64.97563,
+    "macd": 0.00061205828,
+    "macd_signal": 0.00061467537,
+    "sma20": 0.6915
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：震荡整理，需关注支撑与阻力",
+      "content": "当前，澳元/美元的价格稳定在0.6926附近，全天波动较小，呈现震荡整理的走势。价格接近20日简单移动平均线（SMA 20），这表明市场存在一定的平衡状态。若价格突破当前区间，可能会引发较大幅度的波动。\n\n从技术指标来看，MACD的值为0.000612，表明短期内动能略显微弱，市场可能处于短期调整阶段。由于缺乏明显的RSI数据，暂时无法提供超买或超卖的判断，但仍需关注未来的价格走势是否会打破这一横盘格局。\n\n支撑位方面，0.69215附近的低点为近期的关键支撑区，若跌破此处，可能会进一步回调至0.6900附近。阻力位则位于0.6927，如果价格突破此阻力，可能会进一步上涨至0.6950一线。\n\n在当前区间内，建议短线交易者可考虑在支撑位附近寻找买入机会，而在阻力位附近则可以考虑卖出或平仓。同时，需密切关注市场情绪变化和技术指标的进一步发展，特别是RSI和MACD的变化。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar against the US Dollar (AUD/USD) is currently showing a neutral-to-weak bullish trend, with the latest price at 0.6926, reflecting a slight 0.07% change over the last 24 hours. The price remains within a narrow range, peaking at 0.6927 and bottoming at 0.69215. The pair is trading just above the 20-period Simple Moving Average (SMA), which suggests a mild upward momentum. However, with no significant directional strength, it indicates indecisiveness in the market. \n\nThe lack of a clear Relative Strength Index (RSI) reading and the absence of a signal line for the MACD highlight the market's current hesitation. The MACD value is positive, indicating a slight bullish bias, but with the absence of a corresponding signal line or RSI, traders should approach with caution. These indicators suggest a market that could easily pivot, and the momentum may shift if either support or resistance levels are breached. \n\nThe immediate support for AUD/USD lies at 0.69215, which corresponds with the recent low. If this level holds, the pair could consolidate further within the range or attempt another push upwards. The nearest resistance level is 0.6927, a recent high, and a break above this could open the door for further gains, potentially targeting the 0.6940 zone. Traders should be vigilant to price action near these levels for possible trend confirmation. \n\nGiven the current market environment, a conservative trading strategy is recommended. A buy position could be considered if price breaks above 0.6927 with strong volume, indicating an upward continuation. Conversely, a break below 0.69215 could suggest a bearish reversal, triggering a sell opportunity. However, caution is advised due to the lack of momentum-confirming indicators."
+    }
+  }
+}

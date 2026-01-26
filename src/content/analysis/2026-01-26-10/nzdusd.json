@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-01-26T10:38:08.751Z",
+  "price": {
+    "close": "0.59738",
+    "high": "0.59745",
+    "low": "0.59699",
+    "open": "0.59702",
+    "change": "0.07",
+    "datetime": "2026-01-26 21:00:00"
+  },
+  "indicators": {
+    "rsi": 66.24786,
+    "macd": 0.00048730312,
+    "macd_signal": 0.00040362014,
+    "sma20": 0.5959565
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理，暂时无明显趋势]",
+      "content": "当前纽元/美元（NZD/USD）价格在0.59738附近震荡整理，短期内没有明确的上升或下降趋势。虽然24小时变化为0.07%，价格波动较小，市场情绪偏向观望。近期价格在0.59745和0.59699之间反复波动，表明市场缺乏明确方向。\n\n技术指标方面，RSI和MACD数据尚未提供，无法直接分析动能和超买超卖情况。SMA(20)位于0.59596附近，表明当前价格接近短期均线支撑。若价格跌破此均线，可能会进一步测试0.59500的支撑位，若守住则可能出现小幅反弹。\n\n从支撑位来看，0.59699至0.59500区域较为关键，若价格跌破则可能加剧下行压力。阻力位在0.59745附近，突破后或将测试0.60000的心理关口。若市场突破阻力，可能会带来短期的上涨动力。\n\n交易建议方面，建议关注价格在短期内的震荡区间（0.59500-0.59745）。若价格突破上行阻力，可以考虑适度看多，反之则可考虑做空策略，特别是在接近支撑位时。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "NZD/USD is trading near 0.59738, maintaining a mildly bullish short-term tone after stabilizing above recent intraday lows. Price action remains constructive, with the pair holding above the 20-period simple moving average at 0.59596, suggesting buyers are defending pullbacks. However, upside momentum is still limited, as the pair trades within a tight range, reflecting cautious sentiment and a lack of strong directional conviction.\n\nFrom an indicator perspective, the available signals lean modestly positive. The MACD reading at 0.000487 shows bullish momentum is present, even though the signal line is unavailable to confirm strength or potential divergence. The absence of a current RSI reading limits overbought or oversold assessment, but price behavior itself suggests neutral-to-slightly bullish conditions rather than an overstretched market. Momentum appears steady rather than impulsive.\n\nKey technical levels are clearly defined. Immediate support lies near 0.5970, followed by stronger support around the 20-day SMA at 0.5960. A deeper pullback could expose the 0.5950 psychological area, which may attract renewed buying interest. On the upside, initial resistance is aligned with the recent high at 0.59745, while a sustained break above 0.6000 would be required to confirm a broader bullish continuation.\n\nFrom a trading perspective, range-based strategies remain appropriate in the near term. Conservative traders may look for long entries on dips toward the 0.5960–0.5970 support zone, with tight risk management below 0.5950. Short-term sellers could consider fading rallies near resistance if momentum weakens. A clear breakout above 0.6000 or a breakdown below 0.5950 would likely signal the next directional move."
+    }
+  }
+}
