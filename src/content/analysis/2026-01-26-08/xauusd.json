@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-01-26T08:47:39.169Z",
+  "price": {
+    "close": "5093.25857",
+    "high": "5097.75166",
+    "low": "5089.73054",
+    "open": "5089.7835",
+    "change": "0.07",
+    "datetime": "2026-01-26 19:00:00"
+  },
+  "indicators": {
+    "rsi": 89.53482,
+    "macd": 28.45056,
+    "macd_signal": 21.4414,
+    "sma20": 5027.16404
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[短期震荡整理，关注支撑和阻力突破]",
+      "content": "当前XAU/USD价格位于5093.26附近，呈现出短期震荡整理的走势。价格在过去24小时内变化不大，仅上涨0.07%。目前价格位于区间高点和低点之间，未能突破关键技术水平，显示出市场情绪偏谨慎。\n\n从技术指标来看，RSI和MACD目前的信号较为模糊，无法提供明确的超买或超卖信号。SMA(20)位于5027.16，暗示出短期均线支撑较强，但未能形成强势的上行趋势。当前未见明显的强势突破信号，因此市场处于整理阶段。\n\n支撑位方面，5089.73是最近的低点，可能会为价格提供支撑。如果价格跌破此水平，可能会进一步下探5027附近的20日均线支撑。阻力位在5097.75附近，突破此位可能会为价格带来进一步上涨的空间。\n\n建议短期内观望为主，等待价格突破关键支撑或阻力位后再做进一步决策。若价格突破5097.75，可考虑做多，但需谨防震荡行情的反复。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD pair is currently trading near 5093.26, reflecting a slight 24-hour increase of 0.07%. Despite this minor uptick, the market remains relatively neutral, as there is no significant momentum to either side. The price is hovering just below the daily high of 5097.75, indicating resistance around the 5100 mark. The current low of 5089.73 presents a nearby support level, but there is not enough clarity on the direction for a strong breakout at this stage.\n\nIn terms of indicators, the Relative Strength Index (RSI) is unavailable, leaving us without a clear view of overbought or oversold conditions. The MACD is positive at 28.45, signaling bullish momentum, although the absence of a signal line prevents a definitive reading of whether this momentum is likely to persist. The 20-period Simple Moving Average (SMA) sits at 5027.16, suggesting that the short-term trend is relatively bullish, with the current price trading well above this level.\n\nLooking at support and resistance, the 5097.75 level could act as an immediate resistance, while the 5089.73 low serves as a short-term support. Should the price break below 5089.73, it could test the next significant support around 5070. On the upside, a push above 5100 could potentially lead to further gains, especially if buying pressure intensifies.\n\nFor traders, a range-bound strategy could be effective for the short term. Buying near 5089.73 with a tight stop just below this level could provide risk-adjusted opportunities. Alternatively, a breakout above 5100 could trigger further bullish momentum, providing a chance to enter long positions."
+    }
+  }
+}

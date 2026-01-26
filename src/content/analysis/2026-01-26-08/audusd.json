@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-01-26T08:43:52.539Z",
+  "price": {
+    "close": "0.69193",
+    "high": "0.69225",
+    "low": "0.69101",
+    "open": "0.69103",
+    "change": "0.13",
+    "datetime": "2026-01-26 19:00:00"
+  },
+  "indicators": {
+    "rsi": 60.74928,
+    "macd": 0.00053598121,
+    "macd_signal": 0.0006209574,
+    "sma20": 0.691153
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，走势谨慎]",
+      "content": "当前，澳元/美元在0.69193附近徘徊，全天涨幅较小，仅为0.13%。价格区间在0.69101至0.69225之间，表明市场正在经历震荡整理阶段。短期内，由于价格未能突破这一区间，市场情绪较为谨慎，缺乏强烈的趋势动能。\n\n从技术指标来看，MACD处于正值区间，但信号线未能显示出明显的买入或卖出信号，表明市场在短期内缺乏明确的方向性。SMA(20)为0.69115，显示出当前价格略微偏离均线，这可能暗示市场还在等待进一步的指引来确认下一步走势。\n\n支撑位方面，0.69101是近期低点，若价格突破此位，可能会加速下行至0.6890附近。阻力位则在0.69225处，突破这一水平可能会打开上行空间，向0.6950挑战。交易者应关注这些关键价位，以确认价格突破方向。\n\n建议交易者在当前震荡区间内采取观望策略，短线可尝试低位买入或高位卖出，但必须设立止损以应对突发的价格波动。如果价格突破关键支撑或阻力位，建议根据新趋势调整交易策略。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar against the US Dollar (AUD/USD) is currently in a neutral short-term trend. The latest price sits near 0.69193, showing a minor 0.13% gain over the last 24 hours. While this modest movement suggests stability, it also highlights a lack of clear directional momentum. With the price hovering just above the SMA(20) at 0.69115, traders should watch for any potential breakouts above or below this average for further directional clues. A sustained push above 0.69225 could signal a move toward a bullish trend, while a dip below 0.69101 may suggest a bearish shift.\n\nLooking at the RSI(14), which is not available at this time, would normally provide insights into potential overbought or oversold conditions, but other indicators can offer insight into price momentum. The MACD value is positive at 0.00054, suggesting slight upward momentum, although without a corresponding signal line for confirmation, the reliability of this signal is low. Given the lack of strong directional indicators, the market seems to be in consolidation mode, where price action is more likely to remain within current ranges unless there's a significant external catalyst.\n\nSupport for AUD/USD is found around 0.69101, while resistance levels are near 0.69225. These levels offer a range to trade within if the market continues to exhibit its current neutral behavior. Traders should watch these boundaries closely. A breakout above the resistance level could lead to further gains towards the next major resistance around 0.69400. Conversely, a move below support could drive the price towards lower levels, with the next notable support at 0.68850.\n\nConsidering the lack of strong signals from key indicators, a conservative approach is advisable. For short-term traders, a range-bound strategy with tight stop losses might work best, buying near support and selling near resistance. For those with a longer-term view, waiting for a breakout confirmation could be a more reliable approach before committing to larger positions."
+    }
+  }
+}
