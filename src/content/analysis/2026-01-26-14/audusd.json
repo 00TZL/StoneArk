@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-01-26T14:38:21.423Z",
+  "price": {
+    "close": "0.69305",
+    "high": "0.69313",
+    "low": "0.69159",
+    "open": "0.69171",
+    "change": "0.19",
+    "datetime": "2026-01-27 01:00:00"
+  },
+  "indicators": {
+    "rsi": 65.13831,
+    "macd": 0.00054087015,
+    "macd_signal": 0.00055778543,
+    "sma20": 0.6918885
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，待突破]",
+      "content": "当前澳元/美元（AUD/USD）呈现震荡整理状态，价格在0.6915至0.6931区间内波动。短期内价格没有显著的趋势突破，市场情绪较为平稳。若价格突破0.6932，可能会试探更高的水平；若跌破0.6915支撑位，则有可能进一步下探。\n\n从技术指标来看，RSI和MACD指标数据尚不完全，无法提供全面的超买超卖信息。SMA(20)为0.6919，价格略微偏向其上方，表明短期内市场的支撑较强，价格倾向于在此区间内维持震荡走势。MACD的正值暗示多头占据略微优势，但仍未形成强劲的上行信号。\n\n在支撑位方面，0.6915和0.6900是关键支撑位，若价格突破这些支撑，可能会引发进一步的卖盘。而0.6932和0.6950则是重要的阻力位，突破这些阻力可能会引发上涨动能。\n\n基于当前市场的震荡走势，建议投资者在0.6915至0.6932区间内寻找短线交易机会。若价格突破支撑或阻力，可考虑顺势操作，但需关注市场的进一步波动以调整交易策略。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar against the US Dollar (AUD/USD) is currently showing a relatively stable price near 0.69305, reflecting a modest 0.19% change in the past 24 hours. The price has remained confined within a narrow range between 0.69159 and 0.69313, signaling consolidation. This suggests the market is in a wait-and-see phase, likely awaiting new catalysts to drive price movement. The recent price action indicates potential for further sideways movement or a possible breakout if key support or resistance levels are breached.\n\nWith the RSI(14) currently unavailable, a more in-depth analysis of momentum is limited. However, the MACD value of 0.00054 suggests a slight bullish momentum, although it is minimal. Without the signal line provided, it’s difficult to confirm any clear crossover, but this minor positive value could be indicative of a slight upward bias in the short term. Traders should watch for any significant shifts in momentum that might emerge from news events or further technical developments.\n\nThe SMA(20) at 0.691888 provides a key reference point, as the price is currently trading just above this level. If the price breaks below the SMA, 0.6915 and 0.6900 can be expected as immediate support levels. On the upside, 0.6935 and 0.6950 serve as resistance levels, with a breach above these levels opening the door for further gains. A break above 0.6950 could trigger a more pronounced upward move, especially if accompanied by a rise in volume.\n\nGiven the current market conditions, trading strategies should focus on range-bound movements. Traders may consider buying near the support level around 0.6915 and looking for selling opportunities near resistance levels like 0.6935 or 0.6950. Conservative traders should wait for a confirmed breakout in either direction before entering larger positions, as the current price action suggests a potential for continued consolidation."
+    }
+  }
+}
