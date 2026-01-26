@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-01-26T13:03:01.041Z",
+  "price": {
+    "close": "0.6915",
+    "high": "0.6915",
+    "low": "0.69148",
+    "open": "0.69148",
+    "change": "0.00",
+    "datetime": "2026-01-27 00:00:00"
+  },
+  "indicators": {
+    "rsi": 53.60241,
+    "macd": 0.00045152383,
+    "macd_signal": 0.00055738747,
+    "sma20": 0.6918335
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短线震荡偏弱，等待方向选择",
+      "content": "当前价格0.6915几乎无波动，且高低点极窄，显示市场流动性与动能不足。价格略低于SMA(20)0.69183，短线偏弱但跌幅有限，整体仍处于横盘整理区间，方向需等待放量确认。  \n\n指标方面，MACD为0.00045处于零轴上方，说明中性偏多的底色仍在，但缺少Signal与RSI数据，难以判断背离与超买超卖。结合波幅收敛，短线更像“能量蓄积”，谨防假突破后快速回撤。  \n\n支撑位关注0.6910附近的即时承接，其次看0.6900整数关口，若跌破可能引发止损盘扩大。上方阻力先看SMA(20)0.69183，进一步为0.6925一带，只有有效站稳并延续，才可能打开上行空间。  \n\n交易上建议以区间思路为主：0.6910-0.6900企稳可轻仓试多，止损放在0.6897下方；若反弹受阻0.6918-0.6925并出现回落信号，可短空博弈回踩。等待突破后再顺势加仓更稳。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "AUD/USD is currently trading around 0.6915, showing extremely muted price action and a clear short-term consolidation. The pair is hovering just below the 20-period simple moving average at 0.6918, suggesting mild bearish pressure in the immediate term. The narrow daily range highlights a lack of directional conviction, often seen before volatility expansion. From a broader perspective, price behavior reflects a sideways-to-slightly corrective phase rather than a strong trend.\n\nMomentum indicators provide limited guidance at this stage. RSI(14) is unavailable, which restricts momentum assessment, but the flat price action itself implies neutral conditions. The MACD value remains marginally positive at 0.00045, indicating residual bullish bias, though the absence of a signal line reduces its reliability. Overall, indicators suggest market equilibrium, with neither buyers nor sellers demonstrating sufficient strength to dominate in the near term.\n\nFrom a structural standpoint, immediate support is located near 0.6900, followed by a more critical level around 0.6875, where prior demand has emerged. On the upside, resistance is seen at 0.6925, aligned closely with the 20-period SMA, and a stronger barrier near 0.6950. A decisive break beyond either boundary would likely trigger follow-through momentum, given the current compression in price.\n\nTrading strategies should remain cautious under these conditions. Range-based approaches may be more effective until a clear breakout occurs. Short-term traders could look for buying opportunities near support with tight risk controls, while sellers may consider rejection signals near resistance. A confirmed close above 0.6950 would favor bullish continuation, whereas a breakdown below 0.6900 could open room for deeper corrective moves."
+    }
+  }
+}

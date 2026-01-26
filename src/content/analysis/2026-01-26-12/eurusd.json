@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-01-26T13:00:19.928Z",
+  "price": {
+    "close": "1.1842",
+    "high": "1.18566",
+    "low": "1.18401",
+    "open": "1.18564",
+    "change": "-0.12",
+    "datetime": "2026-01-26 23:00:00"
+  },
+  "indicators": {
+    "rsi": 47.32798,
+    "macd": 0.00056493255,
+    "macd_signal": 0.00081990822,
+    "sma20": 1.18568
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[当前震荡整理，短期看跌倾向]",
+      "content": "当前欧元/美元价格在1.1842附近徘徊，24小时变化为-0.12%，表现出一定的震荡整理趋势。价格波动范围较小，表明市场参与者的情绪较为谨慎，可能等待更明确的信号来决定方向。\n\n在技术指标方面，RSI未提供数据，但根据目前的MACD数据（0.00056493255），显示出略微的买盘动能。尽管如此，MACD信号线未能确认强势的趋势，短期内价格可能会继续维持震荡。SMA(20)为1.18568，稍微高于当前价格，表明短期均线趋向轻微下行，支持价格可能面临压力。\n\n就支撑和阻力位来看，当前的支撑位位于1.18401，而上方的阻力位为1.18566。如果价格突破上方阻力位，可能会出现小幅回升，但若跌破支撑位，则有可能进一步下探至1.1820附近。\n\n综合来看，建议短期内采取观望或轻仓做空策略，若价格突破阻力位，则考虑反向操作。总之，市场尚未出现明确的强趋势，保持灵活应对为最佳策略。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently experiencing a mild bearish tone, with a slight 24-hour decrease of -0.12%. The price is hovering just above the key 1.1840 level, indicating some short-term weakness. This could suggest the possibility of a minor pullback if the price fails to break above the recent high of 1.18566. A downward move might target the next support level at 1.1840, where buyers could look for an opportunity to enter long positions if a reversal is confirmed.\n\nLooking at the indicators, the MACD is positive at 0.00056493255, suggesting that the momentum is still mildly bullish in the short term, although it is not a strong signal for a continuation of an upward trend. The lack of a clearly defined Signal line makes it difficult to interpret a precise crossover, which adds some uncertainty to short-term forecasts. The absence of an RSI reading complicates the assessment of overbought or oversold conditions, meaning traders will have to rely more on price action.\n\nThe 20-period Simple Moving Average (SMA) stands at 1.18568, which is slightly above the current price, indicating resistance around that level. A break above the SMA could signal a move towards higher levels, potentially retesting the previous highs. However, if the pair continues to trade below this moving average, it reinforces the bearish outlook, suggesting that short positions may be more favorable in the near term.\n\nIn terms of trading strategy, waiting for a clear breakout above 1.1857 could signal a bullish move towards 1.1870 or beyond. On the other hand, if price action shows a rejection at the SMA or fails to hold above 1.1840, a bearish continuation towards 1.1820 might be a more viable short trade setup."
+    }
+  }
+}

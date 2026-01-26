@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-01-26T13:02:06.024Z",
+  "price": {
+    "close": "154.16357",
+    "high": "154.17177",
+    "low": "153.72392",
+    "open": "153.72721",
+    "change": "0.29",
+    "datetime": "2026-01-26 23:00:00"
+  },
+  "indicators": {
+    "rsi": 42.18685,
+    "macd": -0.40899737,
+    "macd_signal": -0.43319318,
+    "sma20": 154.3061
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理，等待突破]",
+      "content": "当前美元/日元（USD/JPY）处于震荡整理阶段。价格在154.17附近波动，略低于20日简单移动平均线（SMA 20）154.31，表明短期内上行动能有所减弱。市场呈现出一定的横盘整理，等待突破的信号。\n\nMACD指标目前为负值，显示出卖压稍微占优，尽管RSI未提供明确的超买或超卖信号，但结合当前价格位置，短期内可能出现回调。154.17是当前的阻力位，而153.72则是支撑位。如果价格突破154.17，可以进一步确认上涨动能；如果跌破153.72，可能会引发更深的调整。\n\n从技术角度来看，投资者应关注价格是否能突破当前震荡区间。若价格突破154.17，则可考虑顺势做多，目标看向154.50及更高点。反之，若价格跌破153.72，则应考虑做空，目标指向153.50或更低。\n\n综上所述，当前市场情绪偏向整理，需密切关注价格突破关键支撑/阻力位的动向，抓住可能的趋势延续或反转机会。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently showing a slight upward movement, with a 24-hour change of 0.29%. The price is hovering near 154.16, a level that has been a consistent point of resistance in recent days. The pair is nearing its high of 154.17, which suggests a potential for short-term bullish continuation. However, this could be capped by the nearby resistance zone at 154.30, corresponding to the 20-period simple moving average (SMA), which has proven to be a reliable barrier for further upward movement.\n\nLooking at the current indicators, the MACD is in negative territory, indicating that bearish momentum is still present, albeit weak. This could suggest that while the market is showing some strength, the overall trend is still under pressure. The RSI is not available at this time, but traders should monitor its levels for any signs of divergence, which could offer further insights into the sustainability of the current price action. The lack of significant bullish momentum suggests that upside moves may be short-lived unless confirmed by a clear break above the SMA resistance.\n\nIn terms of support, the 153.72 level is an important zone, as it represents the recent low and could act as a floor for the pair in case of a pullback. If the price falls below this level, there is a risk of further downside toward the 153.00 psychological level. Traders should remain cautious around the 154.30 resistance level, as failure to break above it could lead to a retracement toward lower support zones. \n\nFor those considering trades, a break above 154.30 would open the door for potential buying opportunities, targeting the next key resistance around 154.60. Conversely, if the price fails to maintain the current levels and falls below 153.72, traders might look for short positions, with targets near 153.00 or even lower. Monitoring the price action around these key levels will be crucial for making informed decisions in the near term."
+    }
+  }
+}

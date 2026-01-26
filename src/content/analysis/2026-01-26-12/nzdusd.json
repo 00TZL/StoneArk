@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-01-26T13:04:50.040Z",
+  "price": {
+    "close": "0.59613",
+    "high": "0.59632",
+    "low": "0.59613",
+    "open": "0.59631",
+    "change": "-0.03",
+    "datetime": "2026-01-27 00:00:00"
+  },
+  "indicators": {
+    "rsi": 52.38403,
+    "macd": 0.0003961512,
+    "macd_signal": 0.00041904662,
+    "sma20": 0.5961595
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[短期震荡整理]",
+      "content": "当前纽元/美元（NZD/USD）价格为0.59613，较昨日小幅下跌0.03%。价格维持在0.59632和0.59613之间，表明市场近期处于短期震荡区间。该货币对未出现明显的上升或下降趋势，市场情绪较为谨慎，可能受到全球经济数据或其他市场因素的影响。\n\n从技术指标来看，MACD值为0.00039615120，虽然当前没有明确的信号，但MACD的微小正值可能表明短期内有轻微的买盘动能。20日简单移动平均线（SMA(20)）为0.59615950，价格接近这一水平，进一步验证了市场的整理状态，缺乏明确的方向性。\n\n支撑位方面，0.59600附近可能形成较强的支撑区域，一旦价格下破此位，可能进一步考验下方的0.59550水平。阻力位则位于0.59650附近，若价格突破该区间，可能迎来短期反弹。若突破上行，则有望测试0.59700的关键阻力。\n\n综合来看，当前行情适合短期震荡交易策略，建议投资者关注关键支撑和阻力位的突破。若价格接近支撑位且有反弹信号，可考虑进场多单；若突破阻力位，可考虑开盘做多。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The New Zealand Dollar against the US Dollar (NZD/USD) has been relatively flat in recent trading, with a slight dip of -0.03% over the past 24 hours. The price range for the day has been narrow, oscillating between 0.59632 and 0.59613. This lack of significant movement suggests a neutral market sentiment, possibly indicating consolidation within this range. In the broader context, the pair has been under pressure, with a downward bias since it is trading near its daily low.\n\nAt present, the price is close to the 20-period Simple Moving Average (SMA) of 0.59615950, which is commonly used to gauge short-term trends. The proximity to the SMA suggests that the market might continue to consolidate or face minor bearish pressure if the price fails to break above the SMA. However, there’s potential for a reversal if the price manages to sustain above this moving average, suggesting a possible shift towards a neutral-to-bullish trend.\n\nAlthough the Relative Strength Index (RSI) and MACD values are unavailable at the moment, the MACD value of 0.00039615120 does indicate some bullish momentum in the short term. A further increase in the MACD could signal more buying interest. For traders, the lack of strong trend indicators points towards a wait-and-see approach, particularly with no clear confirmation of either strong buying or selling pressure. However, a break above 0.59632 could potentially signal a minor rally, while a drop below 0.59613 could open the door for further declines.\n\nKey support for NZD/USD can be seen at the 0.59613 level, which aligns with the day's low. A break below this support could lead to further downward movement, possibly testing the next support zone. Conversely, resistance is marked near the high of 0.59632, and any sustained move above this level could point to a short-term reversal. Given the current market conditions, cautious trading within this tight range is recommended, with a focus on price action around key support and resistance levels."
+    }
+  }
+}
