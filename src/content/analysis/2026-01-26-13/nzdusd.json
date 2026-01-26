@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-01-26T13:57:37.181Z",
+  "price": {
+    "close": "0.59647",
+    "high": "0.59653",
+    "low": "0.59552",
+    "open": "0.59631",
+    "change": "0.03",
+    "datetime": "2026-01-27 00:00:00"
+  },
+  "indicators": {
+    "rsi": 55.92606,
+    "macd": 0.00042327371,
+    "macd_signal": 0.00042447113,
+    "sma20": 0.596189
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理中，等待突破]",
+      "content": "当前纽元/美元的价格处于0.59647附近，近期价格波动较小，显示出震荡整理的市场态势。由于24小时变化仅为0.03%，这表明市场情绪较为平稳，缺乏强烈的上涨或下跌动力。考虑到近期的高点和低点（分别为0.59653和0.59552），市场处于小范围区间内波动。\n\n从技术指标来看，当前的SMA(20)为0.59618900，价格略高于该均线，表明短期内价格处于轻微上涨的趋势。但MACD指标的数值较小，仅为0.00042327371，且没有信号线数据，这显示出市场动能较弱，买卖双方仍在僵持中。\n\n就支撑和阻力位而言，当前支撑位位于0.59550附近，而阻力位则在0.59680左右。若价格突破上方阻力位，可能会出现短期反弹，挑战更高的水平。反之，若跌破支撑位，则可能加速下行，寻找更低的支撑区域。\n\n建议短期交易者密切关注价格在区间内的波动情况，避免盲目追涨杀跌。若出现有效突破信号，才可考虑进场操作，设置止损以控制风险。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently hovering just above the 0.5960 mark, with limited movement in the past 24 hours. The price has shown minor fluctuations between 0.59653 and 0.59552, indicating a consolidation phase. This narrow range suggests that the pair is in a neutral or sideways market for now, as the bulls and bears struggle to push the price in either direction. A breakout above 0.59653 could signal potential bullish momentum, while a move below 0.59552 might indicate further downside.\n\nThe lack of clear signals from the RSI (Relative Strength Index) and MACD adds to the current uncertainty. The RSI reading is not available, and the MACD is close to neutral, with a value of 0.00042327371. Without these indicators confirming a direction, the pair may remain within its current trading range. However, traders should monitor any shifts in momentum that could push the price toward key levels. If the MACD begins to diverge, it could signal a stronger trend in one direction.\n\nThe 20-period SMA at 0.596189 provides a useful reference for short-term trend direction. The price is slightly above this moving average, which could indicate a modest bullish sentiment, but the proximity of the price to the SMA suggests that momentum is weak. Traders should look for a break above or below this moving average to gauge the next potential move. A solid close above it could strengthen the case for further upside, while a fall below would suggest bearish pressure.\n\nSupport levels are located at 0.59552, with additional support near 0.5950, while resistance stands at 0.59653 and 0.5970. A breakout above the resistance level would signal a possible rally, while a fall through support could lead to further downside potential. In such a sideways market, traders may consider range-bound strategies, buying near support and selling near resistance, with a close watch for any breakout confirmation."
+    }
+  }
+}

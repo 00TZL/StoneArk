@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-01-26T13:52:35.734Z",
+  "price": {
+    "close": "1.1853",
+    "high": "1.18538",
+    "low": "1.18356",
+    "open": "1.18422",
+    "change": "0.09",
+    "datetime": "2026-01-27 00:00:00"
+  },
+  "indicators": {
+    "rsi": 52.084676,
+    "macd": 0.00051628621,
+    "macd_signal": 0.00075956673,
+    "sma20": 1.18585
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：短期震荡整理，等待突破",
+      "content": "当前欧元/美元（EUR/USD）价格在1.1853附近，显示出市场处于短期震荡整理阶段。价格在过去24小时内的变动较小，仅为0.09%。从技术角度看，当前价格接近20日简单移动平均线（SMA(20)）的1.18585，这可能为短期支撑位，但并未显现出明确的趋势方向。\n\nMACD指标显示出微弱的正值0.00051628621，但信号线数据缺失，使得该指标在当前阶段难以提供强有力的交易信号。由于RSI(14)数据缺失，我们不能进一步评估市场的超买或超卖状态，这使得整体趋势判断依赖更多的价格行为和支撑阻力位。\n\n从支撑位来看，1.18356是当前低点附近，若价格跌破这一水平，可能会进一步下探1.1800区间。而在阻力位方面，1.18538是当前的高点，若突破该点位，可能会打开向1.1900甚至更高水平的上涨空间。\n\n综合来看，欧元/美元短期内仍以震荡整理为主，交易者可以考虑在支撑位附近寻找低风险买入机会，突破阻力位时则可考虑追多。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently hovering around 1.1853, with a modest 24-hour change of +0.09%. The price is in a tight range between the daily high of 1.18538 and low of 1.18356, suggesting a period of consolidation. The recent movement shows a neutral bias, with the market awaiting a clearer directional trigger. The close proximity to the 20-period Simple Moving Average (SMA) at 1.18585 further reinforces the idea of consolidation, with the price holding just below this key level.\n\nOn the indicators front, the MACD is slightly positive at 0.00051628621, although with no clear signal, it points to a lack of strong momentum. A neutral or weak signal from the MACD indicates that there is no strong buying or selling pressure at the moment. The absence of an RSI reading makes it difficult to gauge overbought or oversold conditions, which would usually give us further insight into potential price reversals or continuation patterns. Overall, the indicators suggest a sideways market with limited volatility.\n\nSupport for EUR/USD can be found around the 1.18356 low, while the resistance level sits just above at 1.18538, near the daily high. If the price breaks below 1.18356, further support may come into play at the 1.1800 psychological level. Conversely, if the pair manages to break above 1.18585 (SMA 20), it may open the door to testing higher resistance zones, with the 1.1900 area being a key level to watch for further bullish momentum.\n\nFor traders, this market is currently best suited to range-bound strategies. A bounce from the support level near 1.18356 could offer an opportunity to go long, targeting the resistance around 1.18585. Alternatively, a break above the SMA could provide a signal to consider long positions with a target towards 1.1900. Caution is advised, as the market lacks strong momentum, and breakouts need confirmation to avoid false moves."
+    }
+  }
+}
