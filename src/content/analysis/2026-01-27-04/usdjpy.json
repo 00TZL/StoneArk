@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-01-27T04:41:40.764Z",
+  "price": {
+    "close": "154.5166",
+    "high": "154.54461",
+    "low": "154.42324",
+    "open": "154.42324",
+    "change": "0.06",
+    "datetime": "2026-01-27 15:00:00"
+  },
+  "indicators": {
+    "rsi": 54.91131,
+    "macd": -0.043795209,
+    "macd_signal": -0.1441838,
+    "sma20": 154.076125
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理中]",
+      "content": "当前美元/日元（USD/JPY）价格为154.5166，近期呈现出震荡整理的趋势。价格在154.54461和154.42324之间波动，显示出市场对这一价位的关注。短期内，若价格突破154.55，则可能会吸引更多买盘，反之跌破154.42则可能引发卖盘。\n\n从技术指标来看，RSI尚未提供具体数值，但结合当前的MACD指标为-0.043795209，可以看出市场动能偏弱，未能有效转为正值。此外，SMA(20)在154.076125附近形成了支撑位，若价格回调至此水平，可能会出现反弹。\n\n支撑位方面，154.42和154.07将是重要的技术支撑，若价格跌破这些水平，可能会加剧卖压。在阻力位方面，154.54和155.00是短期内需要关注的关键区域，突破这些位置有望引发新的上行动能。\n\n基于当前市场情况，建议投资者在154.42附近寻找买入机会，设定止损于154.00以下。同时，若价格突破154.55，可以考虑短期内的追涨策略。保持灵活应变，密切关注市场动态。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently trading at 154.5166, showing a marginal 24-hour change of 0.06%. This stability suggests a consolidation phase following recent fluctuations. The price action remains above the 20-day Simple Moving Average (SMA) at 154.076125, indicating that the bullish trend may still be intact. However, traders should monitor for any signs of reversal, particularly if the price breaks below this key moving average, as it could indicate a shift in sentiment.\n\nIn terms of technical indicators, the MACD is currently negative at -0.043795209, which suggests that bearish momentum is present, albeit weak. This could be a signal for traders to exercise caution in entering new long positions. The absence of an RSI reading complicates the analysis, but the MACD's position indicates that while there may be selling pressure, a significant downtrend is not yet confirmed. Observing future MACD crossovers will be crucial for identifying potential buying opportunities.\n\nSupport and resistance levels are critical in this analysis. The recent high at 154.54461 serves as the immediate resistance level, while the low at 154.42324 acts as a key support level. A break above the resistance could open the door for further upside potential, targeting higher levels around 155.00. Conversely, a drop below the support level may trigger further selling pressure and could lead to a retest of the 154.00 psychological level.\n\nFor traders considering entry points, a cautious approach is advisable. If the price breaks above the resistance level, a long position may be warranted with a target near 155.00, placing a stop-loss below the support at 154.42324 to manage risk. Alternatively, if the price dips below the support level, short positions could be considered, targeting a move towards 154.00, again employing a stop-loss to mitigate potential losses."
+    }
+  }
+}

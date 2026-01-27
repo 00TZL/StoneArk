@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-01-27T04:44:08.854Z",
+  "price": {
+    "close": "0.59618",
+    "high": "0.59696",
+    "low": "0.59608",
+    "open": "0.59678",
+    "change": "-0.10",
+    "datetime": "2026-01-27 15:00:00"
+  },
+  "indicators": {
+    "rsi": 44.53021,
+    "macd": 0.000095261679,
+    "macd_signal": 0.00034612032,
+    "sma20": 0.5974285
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理趋势]",
+      "content": "当前纽元/美元(NZD/USD)价格为0.59618，显示出震荡整理的走势。近期价格波动较小，24小时变化为-0.10%。虽然短期内未能突破0.5974的20日简单移动平均线(SMA)，但也未跌破0.59608的低点，表明市场情绪相对谨慎。\n\n技术指标方面，RSI尚未提供，无法判断是否存在超买或超卖状态。MACD显示出微弱的正值，表明短期内买方力量有所增强，但尚未形成明显的买入信号。若价格持续在当前区间内波动，投资者需密切关注后续的技术图形变化。\n\n在支撑和阻力位方面，当前支撑位在0.59608附近，而阻力位则在0.5974附近。如果价格能够突破阻力位，有可能向0.6000关口发起挑战。反之，跌破支撑位则可能引发更深的回调，投资者应保持警惕。\n\n综合考虑，建议投资者可以在当前区间内进行短线交易，待价格突破关键支撑或阻力位时再做出进一步决策。同时，保持灵活应变的策略，以应对市场的快速变化。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The New Zealand Dollar (NZD) against the US Dollar (USD) is currently trading at 0.59618, showing a slight decline of 0.10% in the past 24 hours. The market has been consolidating within a narrow range, as indicated by the high of 0.59696 and low of 0.59608. This suggests a lack of strong directional momentum, with price action tightly bound within the 0.5960 to 0.5970 range. A sustained breakout above 0.5970 could signal a bullish move, while failure to hold above 0.5960 may suggest a deeper pullback.\n\nThe absence of a clear RSI(14) reading leaves limited information regarding the current momentum, but the MACD value of 0.00009526 shows a positive bias, although without a signal line, the interpretation remains inconclusive. The market is not showing strong bullish or bearish momentum, so traders should be cautious about making aggressive trades. A confirmed upward movement above the recent high of 0.59696 would indicate a possible continuation toward the next resistance level at 0.5990.\n\nThe 20-period Simple Moving Average (SMA) sits at 0.59742850, acting as immediate resistance. A break above this SMA could trigger further buying interest, confirming a shift toward a bullish trend. On the other hand, the 0.5960 level remains critical for support. A breach of this level could bring the price closer to 0.5940, marking the next support area where buyers might step in. This support level offers an attractive entry point for those looking to trade the potential for a bounce.\n\nIn terms of trading strategy, traders may consider a cautious approach with a focus on breakout strategies. A break above 0.5970 could warrant a long position with targets toward 0.5990, while a break below 0.5960 could suggest short opportunities with a target toward 0.5940. Risk management remains essential due to the current market's indecisiveness."
+    }
+  }
+}
