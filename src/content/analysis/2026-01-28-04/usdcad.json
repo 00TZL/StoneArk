@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-01-28T04:41:02.637Z",
+  "price": {
+    "close": "1.35978",
+    "high": "1.36052",
+    "low": "1.35972",
+    "open": "1.36016",
+    "change": "-0.03",
+    "datetime": "2026-01-28 15:00:00"
+  },
+  "indicators": {
+    "rsi": 34.44336,
+    "macd": -0.002562876,
+    "macd_signal": -0.0026916737,
+    "sma20": 1.36248
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元",
+      "content": ""
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently experiencing a slight bearish trend, with the latest price at 1.35978, reflecting a 24-hour change of -0.03%. The recent high of 1.36052 and low of 1.35972 indicate a narrow trading range, suggesting indecision among traders. This price action could highlight a potential consolidation phase, where the market is waiting for a catalyst to establish a clearer direction. A sustained move below the recent low may confirm bearish sentiment, while a break above the high could reignite bullish momentum.\n\nIn terms of technical indicators, the absence of an RSI(14) reading complicates momentum analysis, but the MACD value at -0.00256 suggests a lack of strong momentum. This negative MACD indicates that sellers may be gaining control, but without a significant downward trend, it is prudent to monitor for any bullish reversals. The SMA(20) at 1.36248 further reinforces this view, as prices trading below the SMA signal potential bearishness. However, traders should remain cautious, as the proximity to the SMA implies that a bounce back towards this level is also possible.\n\nSupport levels can be observed around the recent low of 1.35972, which may act as a critical threshold for buyers. Should this level break, the next support could be found around 1.35750. Conversely, resistance is likely at the SMA(20) level of 1.36248 and the recent high of 1.36052. Traders might consider setting sell orders near resistance levels while watching for confirmation of support breaks to initiate long positions, depending on market conditions.\n\nOverall, the USD/CAD pair is poised at a crucial juncture. With a cautious bearish tone and key resistance and support levels in play, traders should adopt a watchful approach. Utilizing stop-loss orders around these levels could help manage risk effectively, while remaining alert to shifts in market sentiment that could provide trading opportunities."
+    }
+  }
+}

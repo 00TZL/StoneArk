@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-01-28T04:39:32.179Z",
+  "price": {
+    "close": "152.77127",
+    "high": "152.82743",
+    "low": "152.65681",
+    "open": "152.73463",
+    "change": "0.02",
+    "datetime": "2026-01-28 15:00:00"
+  },
+  "indicators": {
+    "rsi": 39.89107,
+    "macd": -0.35088496,
+    "macd_signal": -0.39870264,
+    "sma20": 152.94207
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[短期震荡走势]",
+      "content": "当前美元/日元的价格为152.77127，显示出短期内震荡的趋势。在过去24小时内，价格变化仅为0.02%，表明市场缺乏明显的方向性。高点152.82743和低点152.65681之间的波动，显示出当前市场的犹豫不决，投资者可能在等待更明确的市场信号。\n\n从技术指标来看，MACD值为-0.35088496，表明短期内卖压较强，但尚未形成明显的下跌趋势。由于RSI未提供，无法全面评估超买或超卖状况。20日简单移动平均线(SMA)为152.94207，当前价格已下穿该水平，暗示可能存在进一步的下行压力。\n\n支撑位在152.65681附近，若价格突破此点位，可能会加速下行。而阻力位则在152.94207，若反弹突破该水平，可能会重新测试高点。建议投资者在当前震荡区间内谨慎操作，可考虑在支撑位附近寻找买入机会，同时在接近阻力位时考虑卖出，以应对市场的不确定性。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently trading near 152.77, indicating a relatively stable market with a minor 24-hour change of +0.02%. Given the price is hovering just below the 20-period SMA at 152.94, it suggests a slightly bearish short-term sentiment. The price’s inability to break above this moving average could indicate that the bulls are struggling to gain traction. If the price fails to reclaim this level, further downside could be expected, especially if the pair approaches previous lows.\n\nThe absence of a clear RSI or Signal Line for the MACD complicates momentum analysis. However, the negative MACD value of -0.35 points to a mild bearish pressure in the market. Traders might interpret this as a signal to be cautious on long positions until a reversal occurs. If the MACD begins to converge positively with the signal line, a bullish momentum shift could be on the horizon. Alternatively, sustained bearish pressure might lead to further downside moves, especially given the prevailing market conditions.\n\nSupport is found near the 152.66 low, with the possibility of a deeper pullback if the market tests this level again. A break below this would expose further downside towards 152.50. Resistance is evident around the 152.83 level, just below the 20-period SMA. A decisive break above this zone could open up the potential for a move higher, targeting 153.00 or even 153.20. Traders should watch for signs of reversal at these key levels.\n\nFor now, the technical picture is mixed, with a slightly bearish bias. Traders may consider short positions on weakness near 152.83, with tight stop losses above the SMA. Alternatively, those anticipating a bounce could look for long entries near 152.66, with a target toward the 152.83 resistance."
+    }
+  }
+}
