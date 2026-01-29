@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-01-29T05:06:18.393Z",
+  "price": {
+    "close": "5557.61721",
+    "high": "5561.13672",
+    "low": "5550.51718",
+    "open": "5561.13672",
+    "change": "-0.05",
+    "datetime": "2026-01-29 16:00:00"
+  },
+  "indicators": {
+    "rsi": 84.28044,
+    "macd": 92.52817,
+    "macd_signal": 78.64901,
+    "sma20": 5391.84115
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理走势]",
+      "content": "当前黄金/美元(XAU/USD)的价格处于震荡整理状态，近期价格在5550.51718至5561.13672之间波动，显示出市场对方向的犹豫。尽管短期内存在些许下行压力，但整体趋势仍未形成明确的破位信号。\n\n从技术指标来看，MACD显示出一定的强势，但由于信号线尚未提供明确的买入或卖出信号，RSI指标的缺失也使得当前的超买或超卖状态难以判断。20日简单移动平均线(SMA)位于5391.84115，表明长期趋势仍然偏向上涨，但短期内可能面临回调。\n\n在支撑和阻力位方面，当前支撑位在5550附近，若跌破该水平，可能会加速下行。而阻力位则在5560上方，若突破，将有助于价格进一步上行。投资者应密切关注这些关键水平，以便及时调整策略。\n\n综合考虑，短期内建议投资者保持观望，待价格突破关键支撑或阻力位后再进行操作。同时，可考虑在支撑位附近小幅介入，控制风险，并设定合理的止损位，以应对市场的不确定性。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current market data for XAU/USD indicates a slight bearish sentiment, with a 24-hour change of -0.05%. The price oscillating around 5557.61721 suggests a consolidation phase following recent fluctuations. A critical observation is the recent high of 5561.13672, which has become a short-term resistance level, while the low of 5550.51718 acts as immediate support. Traders should monitor these levels closely, as a breakout either way could signal the next directional move.\n\nThe lack of an available RSI(14) makes it challenging to gauge the overbought or oversold conditions, but the MACD reading of 92.52817 indicates a potential bullish momentum. However, the absence of a signal line makes it difficult to interpret the strength of this momentum definitively. Traders should remain cautious, as a divergence in price could emerge if momentum fails to support the current price levels. \n\nIn terms of moving averages, the 20-period SMA at 5391.84115 suggests that the long-term trend remains bullish, providing a strong support point far below current prices. This alignment indicates that the market may be experiencing a temporary pullback rather than a reversal. A solid confirmation of the bullish trend would require a break above the resistance level of 5561.13672, supported by volume.\n\nFor trading strategies, consider placing buy orders near the support level of 5550.51718, with take-profit targets set around the resistance level of 5561.13672. Conversely, if the price breaks below this support, establish sell positions, anticipating a move towards lower support zones. Monitoring broader market trends and economic data will also be vital in making informed decisions, as external factors could influence gold prices significantly."
+    }
+  }
+}

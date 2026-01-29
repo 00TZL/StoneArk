@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-01-29T05:03:29.466Z",
+  "price": {
+    "close": "0.70901",
+    "high": "0.70908",
+    "low": "0.70898",
+    "open": "0.70907",
+    "change": "-0.01",
+    "datetime": "2026-01-29 16:00:00"
+  },
+  "indicators": {
+    "rsi": 77.52106,
+    "macd": 0.0024009899,
+    "macd_signal": 0.0017707378,
+    "sma20": 0.7025925
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，等待方向确认]",
+      "content": "当前澳元/美元（AUD/USD）价格为0.70901，近期走势表现出明显的震荡整理特征。价格在0.70908和0.70898之间波动，显示出市场缺乏明确的方向。短期来看，若价格突破上方高点，可能会引发进一步上涨，否则则可能继续在当前区间内震荡。\n\n在技术指标方面，MACD显示出微弱的正值，但信号线数据缺失，无法做出全面分析。相对强弱指数（RSI）也未提供，导致我们对市场动能的理解受限。20日简单移动平均线（SMA）在0.7026附近，显示出长期支撑水平，若价格回落至此，可以考虑逢低买入。\n\n支撑位方面，0.70898为短期支撑，若下破则可能会导致进一步回调。上方阻力位在0.7100附近，如果价格突破该水平，可能会引发新的上涨动能。交易者应关注这些关键水平，以便及时调整策略。\n\n综合来看，建议交易者保持谨慎，待市场确认方向后再进行操作。若价格突破阻力位，则可考虑多头布局；若跌破支撑位，则应考虑短线空头机会。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar (AUD) against the US Dollar (USD) is currently trading at 0.70901, reflecting a slight decline of 0.01% over the past 24 hours. The price movement has been relatively tight, with a high of 0.70908 and a low of 0.70898. This suggests a period of consolidation, indicating that the market may be awaiting further catalysts for direction. The recent price action shows a potential bullish trend, particularly if it can maintain above the 0.70800 support level.\n\nIn terms of indicators, the MACD value of 0.0024 indicates a slight bullish momentum, although the absence of a signal line prevents a definitive interpretation. The lack of RSI data means we cannot assess overbought or oversold conditions at this point. However, the SMA(20) at 0.70259250 acts as a critical support level, indicating that if the price were to drop below this level, it could trigger further selling pressure.\n\nTraders should closely monitor the 0.70800 support level as a break below this could initiate a move towards the SMA(20), reinforcing bearish sentiment. Conversely, if the price can maintain above the 0.70900 mark and test resistance around 0.71000, it may signal a bullish reversal, offering a potential entry point for long positions. The current market dynamics suggest a cautious approach, with traders encouraged to wait for clearer signals from indicators before committing to significant positions.\n\nOverall, the AUD/USD pair is in a consolidation phase, and market participants should remain vigilant for breakout opportunities. Keeping an eye on economic indicators and geopolitical developments will be essential as they could significantly influence currency movements. Using tight stop-loss orders and monitoring key resistance and support levels will be crucial for managing risk in the current environment."
+    }
+  }
+}

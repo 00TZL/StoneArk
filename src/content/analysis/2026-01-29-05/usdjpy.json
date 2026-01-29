@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-01-29T05:02:47.649Z",
+  "price": {
+    "close": "152.97555",
+    "high": "152.98809",
+    "low": "152.96975",
+    "open": "152.98602",
+    "change": "-0.01",
+    "datetime": "2026-01-29 16:00:00"
+  },
+  "indicators": {
+    "rsi": 45.57757,
+    "macd": -0.0086162797,
+    "macd_signal": 0.026584509,
+    "sma20": 153.1544
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理中]",
+      "content": "当前美元/日元汇率在152.97555附近波动，显示出市场在这一价位附近的震荡整理特征。尽管24小时内变化不大，但短期内价格在152.98809和152.96975之间反复测试，表明投资者对该区间的关注度较高，需密切监测突破情况。\n\n从技术指标来看，MACD值为-0.0086，显示出当前市场动能较弱。RSI指标尚未提供，但从SMA(20)的表现来看，价格已跌破该均线，可能暗示短期内卖压增加。投资者应关注市场情绪变化，以确定潜在的入场时机。\n\n支撑位方面，152.9700一线可能成为强支撑，若价格跌破则可能加速下行。而阻力位则在153.1500附近，若突破该水平，可能会引发新一轮的上涨行情。交易者应关注这些关键价位，以便制定相应的交易策略。\n\n基于当前市场状况，建议投资者采取观望态度，待价格突破支撑或阻力位后再考虑入场。同时，保持警惕，避免在震荡行情中盲目交易，以降低风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently trading at 152.97555, showing a slight decline of 0.01% over the past 24 hours. This minor fluctuation suggests that the market is consolidating after recent movements, with the price hovering just below the recent highs. The recent high of 152.98809 indicates a strong resistance level, while the low of 152.96975 serves as immediate support. Traders should monitor these levels closely, as a breakout above resistance could signal a continuation of bullish momentum, while a drop below support may lead to further downside.\n\nTechnical indicators present a mixed picture for the USD/JPY pair. The MACD, currently at -0.0086, suggests a bearish sentiment, although the absence of the signal line makes it difficult to draw definitive conclusions. The lack of a defined trend in the RSI (14) indicates potential indecision in the market, which may lead to choppy trading conditions. Traders should wait for clearer signals in these indicators before making significant trading decisions, especially as the market appears to be in a wait-and-see mode.\n\nThe 20-period simple moving average (SMA) at 153.15440 is another key level to watch. This SMA provides a dynamic resistance point and aligns closely with the recent price action. If the USD/JPY can break above this moving average, it could attract more buying interest, pushing prices higher toward the next resistance level. Conversely, a failure to breach this SMA, coupled with a drop below the support level of 152.96975, could lead to increased selling pressure and a potential retest of lower levels.\n\nIn terms of trading strategy, traders may consider setting buy orders above the resistance level of 152.98809 and sell orders below 152.96975 to capitalize on potential breakouts. Additionally, incorporating stop-loss orders for risk management is advisable, particularly during this period of market consolidation. Monitoring fundamental factors influencing the USD and JPY, such as economic data releases and geopolitical events, will also be crucial for making informed trading decisions in the coming sessions."
+    }
+  }
+}

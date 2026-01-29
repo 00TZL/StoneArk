@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-01-29T05:01:27.995Z",
+  "price": {
+    "close": "1.19901",
+    "high": "1.19913",
+    "low": "1.19786",
+    "open": "1.19862",
+    "change": "0.03",
+    "datetime": "2026-01-29 15:00:00"
+  },
+  "indicators": {
+    "rsi": 59.62555,
+    "macd": 0.00038776375,
+    "macd_signal": 0.000068327643,
+    "sma20": 1.19627
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[震荡整理中]",
+      "content": "当前欧元/美元的价格在1.19901附近波动，整体呈现出震荡整理的趋势。过去24小时内，价格波动范围较小，显示出市场在等待更明确的方向指引。短期内，若价格突破1.19913的高点，将可能引发进一步的上行动能，而若跌破1.19786的低点，则可能加大下行压力。\n\n在技术指标方面，当前的MACD值为正，虽然信号线尚未提供明确的方向指引，但仍显示出潜在的上行动力。20日简单移动平均线(SMA)位于1.19627，作为支撑位，可能在未来的回调中提供一定的支撑。相对强弱指数(RSI)的数据未提供，但可通过进一步观察价格走势来补充分析。\n\n支撑位方面，1.19627是关键的技术支撑，若价格维持在此水平之上，仍有继续反弹的可能。相对的，1.19913则是短期内的重要阻力位，突破此位可能引发多头的进一步进攻。建议交易者在1.19913附近考虑建立空单，在1.19786附近建立多单，以捕捉市场的短期波动。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The current price of EUR/USD at 1.19901 reflects a stable market environment, with a modest 24-hour change of 0.03%. This price action suggests that the pair is consolidating within a tight range, as indicated by the high and low of 1.19913 and 1.19786, respectively. Traders should be alert to potential breakouts from this range, which could signal a stronger directional move. The overall trend remains bullish, supported by a series of higher lows established over recent weeks.\n\nIn terms of technical indicators, the absence of a fully developed RSI and Signal for MACD limits the depth of our analysis. However, the MACD's current value of 0.00038776375 suggests a slight bullish momentum, albeit weak. The SMA(20) at 1.19627 serves as a critical support level, indicating that as long as the price remains above this moving average, bullish sentiment may persist. A significant breach below this level could trigger further selling pressure.\n\nSupport levels are established at 1.19627 and further down at 1.19500, while resistance can be identified at 1.19950 and 1.20000. Traders should monitor these levels closely for possible reversals or breakouts. Given the current price action, a breakout above 1.20000 could pave the way for a stronger rally towards 1.20200, while a drop below 1.19627 may prompt a retest of lower support levels.\n\nFor trading strategies, a cautious approach is recommended. Traders may consider entering long positions if the price decisively breaks above 1.20000, with a target towards 1.20200. Conversely, short positions could be explored if the price falls below 1.19627, targeting 1.19500 as the initial support level. Proper risk management and stop-loss orders should be employed to mitigate any adverse movements in this consolidating market."
+    }
+  }
+}

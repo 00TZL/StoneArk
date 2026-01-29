@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-01-29T05:04:10.988Z",
+  "price": {
+    "close": "1.35196",
+    "high": "1.35218",
+    "low": "1.3519",
+    "open": "1.35212",
+    "change": "-0.01",
+    "datetime": "2026-01-29 16:00:00"
+  },
+  "indicators": {
+    "rsi": 31.41391,
+    "macd": -0.002041343,
+    "macd_signal": -0.0018731694,
+    "sma20": 1.35545
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理中]",
+      "content": "当前美元/加元（USD/CAD）在1.35196附近波动，显示出短期内的震荡整理趋势。24小时变化仅为-0.01%，表明市场缺乏明显方向。价格在1.35218和1.3519之间波动，反映出投资者对当前价位的谨慎态度，等待进一步的市场信号。\n\n从技术指标来看，虽然RSI(14)和MACD的信号尚未完全形成，但当前MACD值为-0.0020413430，显示出略微的卖压。20日简单移动平均线（SMA）为1.35545，价格持续低于此水平，表明短期内可能处于下行压力之中。投资者需密切关注这些指标的变化，以便及时调整策略。\n\n支撑位方面，1.3519是短期关键支撑，若价格跌破此水平，可能进一步下探1.3500的心理关口。阻力位则位于1.3550附近，若突破则有可能恢复上涨趋势。当前市场情绪维持谨慎，操作上建议投资者可关注支撑位的反应，适时进行短线交易。\n\n综合来看，美元/加元在当前价位震荡整理，建议投资者保持灵活，密切关注技术指标的变化和支撑阻力位的突破情况。在确认趋势之前，建议适度减仓，控制风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently trading at 1.35196, reflecting a slight decline of 0.01% over the last 24 hours. The price has oscillated between a high of 1.35218 and a low of 1.3519, indicating a consolidation phase. This range-bound behavior suggests that traders are awaiting further catalysts to drive the pair in either direction. The overall trend appears to be bearish in the short-term, as the price is trading below the 20-period Simple Moving Average (SMA) of 1.35545, which acts as a dynamic resistance level.\n\nIn terms of technical indicators, the MACD shows a value of -0.0020413430, suggesting that bearish momentum is present, although the lack of a signal line makes it difficult to draw definitive conclusions. The Relative Strength Index (RSI) is not available, but generally, a reading below 30 would indicate oversold conditions, while above 70 would signify overbought conditions. Traders should monitor these indicators closely as they can provide insights into potential reversal points or continuation of the current trend.\n\nSupport levels are identified around the 1.3510 mark, which may provide a buffer against further declines. Should the price breach this level, we could see a shift towards the next support at approximately 1.3480. Conversely, resistance remains at the 1.3550 level, which aligns with the SMA, and a decisive break above this point could signal a potential trend reversal or at least a corrective rally.\n\nFor trading strategies, a conservative approach would be to wait for confirmation of a breakout above 1.3550 before considering long positions, as this could indicate renewed bullish interest. Conversely, if the price falls below 1.3510 with strong volume, short positions may be warranted, targeting the next support level. Managing risk with appropriate stop-loss orders will be essential in this volatile market environment."
+    }
+  }
+}
