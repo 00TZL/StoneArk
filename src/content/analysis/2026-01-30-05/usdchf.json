@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-01-30T05:08:45.354Z",
+  "price": {
+    "close": "0.76811",
+    "high": "0.76843",
+    "low": "0.76807",
+    "open": "0.76842",
+    "change": "-0.04",
+    "datetime": "2026-01-30 16:00:00"
+  },
+  "indicators": {
+    "rsi": 54.8116,
+    "macd": 0.00020381731,
+    "macd_signal": -0.00010478702,
+    "sma20": 0.7670815
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[震荡整理中]",
+      "content": "当前美元/瑞郎（USD/CHF）在0.76811附近交易，24小时内微幅下跌0.04%。从价格走势来看，汇率在0.76807至0.76843区间内震荡整理，显示出市场的谨慎情绪。短期内，未出现明显的趋势突破，市场可能会继续在此区间内波动。\n\n技术指标方面，尽管RSI未提供，但目前MACD显示出轻微的正值，表明多头力量尚存。20日移动平均线（SMA）为0.7670815，价格稍微高于这一水平，可能为短期支撑位。若价格持续在此线之上，可能会吸引更多买盘。\n\n支撑位方面，0.76807是一个关键水平，若跌破该位，可能会引发更多的卖盘，进一步下探至0.7670附近。而阻力位则可关注0.76843，突破该位可能会带来进一步上行至0.7690的机会。\n\n综合来看，建议交易者保持观望，等待明确的趋势信号。如果汇率突破0.76843，可以考虑做多，而若跌破0.76807，则可以考虑做空。同时，关注基本面消息，尤其是影响美元和瑞郎的经济数据，以便及时调整策略。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF currency pair is currently trading at 0.76811, experiencing a slight decline of 0.04% over the past 24 hours. This minor pullback follows a relatively stable trend, as the price has oscillated between 0.76843 and 0.76807 during the same period. The overall trend appears neutral, as the price remains confined within a narrow range, indicating a lack of strong directional momentum. Traders should remain vigilant for potential breakouts above resistance or breakdowns below support levels.\n\nFrom a technical standpoint, the absence of a clear trend is further corroborated by the SMA(20) at 0.7670815. The current price is positioned slightly above this moving average, suggesting a potential bullish bias in the short term. However, the MACD value of 0.00020381731 points to a weak momentum, indicating that buyers may struggle to gain traction. Without additional upward movement, the likelihood of a reversal or further consolidation increases.\n\nKey support and resistance levels are essential to monitor. The immediate support level is identified at 0.76807, which, if breached, could lead to a test of lower support near 0.7670. Conversely, resistance is seen at 0.76843. A decisive break above this level may indicate a shift in momentum, potentially paving the way for a rally towards the 0.7700 psychological threshold. \n\nFor traders, a cautious approach is advisable. A buy position could be considered if the price closes above 0.76843 with volume, signaling renewed bullish interest. Conversely, a break below the support at 0.76807 may suggest a bearish outlook, warranting a short position. As always, risk management strategies should be employed to mitigate potential losses in this range-bound scenario."
+    }
+  }
+}

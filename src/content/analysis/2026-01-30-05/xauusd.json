@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-01-30T05:09:27.664Z",
+  "price": {
+    "close": "5206.78056",
+    "high": "5215.46014",
+    "low": "5201.91127",
+    "open": "5215.46014",
+    "change": "-0.16",
+    "datetime": "2026-01-30 16:00:00"
+  },
+  "indicators": {
+    "rsi": 37.17702,
+    "macd": -47.071297,
+    "macd_signal": -23.39237,
+    "sma20": 5355.92878
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[当前震荡走势]",
+      "content": "当前黄金/美元（XAU/USD）在5206.78美元附近震荡整理，显示出短期内市场缺乏明确方向。从最新的高点5215.46美元和低点5201.91美元来看，价格在这一区域内波动，暗示投资者情绪谨慎，可能在等待更明确的市场信号。\n\n技术指标方面，MACD为-47.071，表明卖方力量依然占优，但未能形成明显的下跌趋势。此外，SMA(20)为5355.93，远高于当前价格，显示出短期内价格仍处于下行通道。RSI未提供，但若低于30，可能预示超卖状态，反之则显示超买。\n\n支撑位方面，5201.91美元附近有较强支撑，若突破该水平，可能导致进一步下探。而阻力位则在5215.46美元，若有效突破，可能会激发多头行情。建议投资者在当前价位附近谨慎操作，可以考虑在支撑位附近寻找做多机会，同时在阻力位附近设置止损，以控制风险。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold against the US Dollar (XAU/USD) is currently displaying a slight bearish trend, with the price of 5206.78056 representing a minor pullback from recent highs. The market has moved down 0.16% in the past 24 hours, signaling a cautious sentiment. This retracement suggests that bulls may be losing momentum after a prolonged uptrend, and price action is currently consolidating around the 5200 level, which could act as a short-term support zone. If this support holds, there is potential for a rebound toward higher levels, but a break below could signal a deeper pullback.\n\nThe absence of an available Relative Strength Index (RSI) makes it difficult to gauge immediate overbought or oversold conditions. However, the MACD reading of -47.071297 indicates a negative momentum, which reinforces the bearish tone in the market. The MACD histogram suggests that downward pressure may persist in the short term, signaling that the sellers could continue to dominate. Traders should keep an eye on the MACD for any potential bullish crossovers, which would indicate a change in market sentiment. As it stands, the bearish crossover between the price and the SMA(20) further supports a short-term bearish outlook.\n\nIn terms of support and resistance, the 5200 level is critical in the near term, with a break below this zone possibly leading to a test of deeper support around 5180. On the upside, resistance remains at the 5220 level, with the SMA(20) at 5355.92878 providing a distant reference point for bullish aspirations. If the price begins to trade above 5220 and moves closer to the SMA(20), this could indicate a potential reversal to a more bullish trend. However, any further downside pressure could lead to a test of the next support zone.\n\nGiven the current technical picture, it is advisable to approach the market with caution. Short-term traders might find opportunities in range-bound trades between the current support at 5200 and resistance at 5220, with a wait-and-see approach on the broader trend. Longer-term traders should consider the overall trend's direction, with the expectation that a clear breakout above the SMA(20) or a breakdown below 5200 could define the next major move."
+    }
+  }
+}

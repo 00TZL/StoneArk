@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-01-30T05:05:55.595Z",
+  "price": {
+    "close": "153.95811",
+    "high": "153.97121",
+    "low": "153.91376",
+    "open": "153.91376",
+    "change": "0.03",
+    "datetime": "2026-01-30 16:00:00"
+  },
+  "indicators": {
+    "rsi": 68.88458,
+    "macd": 0.19266434,
+    "macd_signal": 0.093048997,
+    "sma20": 153.3316
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[当前上涨趋势]",
+      "content": "当前，美元/日元汇率维持在153.95811附近，显示出一定的上涨趋势。过去24小时内，价格微幅波动，仅上涨0.03%。考虑到高点和低点的相对接近，市场情绪似乎较为谨慎，可能在等待更明确的方向信号。\n\n从技术指标来看，MACD值为0.19266434，虽然信号线数据缺失，但当前的正值显示出短期内上涨动能依然存在。相对强弱指数（RSI）缺失可能限制了我们对超买或超卖状态的判断，但结合20日简单移动平均线（SMA）153.33160的支撑，可以认为短期内价格维持在此水平之上是合理的。\n\n在支撑和阻力方面，当前支撑位可视为153.91376，而阻力位则在153.97121附近。如果价格能够突破153.97121，将有可能进一步测试154.00心理关口。反之，跌破153.91376则可能引发更多卖压，需谨慎观察。\n\n基于当前行情，建议投资者可在153.91376附近寻找买入机会，同时设定止损以控制风险。如果价格突破153.97121，则可考虑加仓，利用上涨趋势带来的利润。在操作上应保持灵活，密切关注市场动态。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USD/JPY is trading near 153.96, holding firm after a narrow 24-hour range and showing continued bullish pressure. Price remains above the 20-day SMA at 153.33, confirming that the short-term trend still favors the upside. The pair is consolidating just below recent highs, suggesting buyers are defending the current level while waiting for fresh momentum to break higher or trigger a corrective pullback.\n\nMomentum signals remain mildly positive. The MACD value of 0.1927 indicates upward trend strength, though the absence of a clear signal line limits confirmation. With RSI data unavailable, traders should rely more heavily on price structure and moving average behavior. The tight high-low spread suggests reduced volatility, often seen before a stronger directional move. As long as price holds above the SMA zone, bullish bias remains dominant.\n\nKey support lies around 153.91, the session low, with deeper support near 153.33 at the 20-day average. A break below this region could open the door toward 153.00, where prior demand may emerge. Resistance is immediate near 153.97, the day’s high, and a clean breakout above 154.00 would likely attract renewed buying interest, potentially targeting the 154.50 psychological zone.\n\nTrading-wise, the pair favors a cautious bullish strategy while above 153.33. Short-term traders may look for dip-buying opportunities near support, with stops placed below 153.20 to manage downside risk. Breakout traders could consider long entries above 154.00 if volume and momentum improve. Given the current tight consolidation, patience is key, as the next move could accelerate quickly once support or resistance is breached."
+    }
+  }
+}
