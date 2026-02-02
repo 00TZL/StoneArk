@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-02-02T05:24:30.615Z",
+  "price": {
+    "close": "0.60118",
+    "high": "0.60187",
+    "low": "0.60117",
+    "open": "0.60187",
+    "change": "-0.12",
+    "datetime": "2026-02-02 16:00:00"
+  },
+  "indicators": {
+    "rsi": 42.48533,
+    "macd": -0.00016649309,
+    "macd_signal": -0.00016412951,
+    "sma20": 0.6018605
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：短线偏弱震荡，空头略占优",
+      "content": "当前价0.60118紧贴日内低位，且低于SMA(20)0.60186，显示反弹动能不足。24小时小幅回落，价格波动区间极窄，说明市场处于观望，短线以弱势震荡为主，偏向下探测试支撑。  \n\n指标方面，MACD为-0.000166，处于零轴下方，代表空头动能仍在但力度不强。RSI暂缺，需观察后续是否出现背离信号。若价格持续压在均线下，反弹多为修正性质，趋势更偏向逢高承压。  \n\n关键支撑位先看0.60117一线，若有效跌破，可能打开下行空间，进一步关注0.60050与0.59980区域。上方阻力位在0.60186附近的20日均线，突破后才有望上看0.60250，强阻力落在0.60320。  \n\n交易上建议以顺势短空为主：靠近0.60180-0.60250分批试空，止损放在0.60330上方，目标看0.60050及0.59980。若强势站稳0.60186并回踩不破，可轻仓转多，等待动能确认后再加仓。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "NZD/USD is trading near 0.60118, hovering just above recent intraday lows and slightly below the 20-period simple moving average at 0.60186. This positioning suggests a short-term bearish bias, with price struggling to regain upside momentum. The pair has been consolidating in a narrow range, indicating market indecision, but the inability to sustain moves above the SMA keeps the near-term trend tilted modestly to the downside.\n\nFrom an indicator perspective, the MACD reading of -0.00016649 reflects weak bearish momentum, showing that downside pressure is present but not aggressive. The absence of a clear MACD signal line and unavailable RSI(14) reduce confirmation strength, implying that traders should be cautious about over-committing. Momentum indicators overall point to a soft market rather than a strong directional move, favoring range-based or tactical trading approaches.\n\nKey support is located around 0.60100, which aligns closely with the session low and acts as an immediate psychological level. A sustained break below this zone could open the door toward 0.59850 and potentially 0.59500. On the upside, initial resistance sits at 0.60190–0.60200, near the 20-day SMA, followed by a more significant barrier around 0.60500, where selling interest may increase.\n\nTrading strategies should remain conservative under current conditions. Short-term traders may look to sell minor rallies toward the 0.60200 resistance with tight risk controls, targeting a retest of 0.60100 or lower. Alternatively, a clear bullish close above the 20-period SMA could signal a corrective rebound, favoring cautious long positions. Waiting for stronger momentum confirmation may provide higher-probability setups."
+    }
+  }
+}

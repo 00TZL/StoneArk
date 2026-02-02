@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-02-02T05:20:41.305Z",
+  "price": {
+    "close": "1.18627",
+    "high": "1.18637",
+    "low": "1.18593",
+    "open": "1.18628",
+    "change": "0.00",
+    "datetime": "2026-02-02 16:00:00"
+  },
+  "indicators": {
+    "rsi": 53.5803,
+    "macd": 0.00016577362,
+    "macd_signal": 0.000025841668,
+    "sma20": 1.1857
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[震荡整理，短期上涨动能较弱]",
+      "content": "当前欧元/美元价格在1.18627附近，全天变动幅度较小，表明市场处于震荡整理状态。价格在1.18593和1.18637之间波动，未出现明显的突破。若突破上方1.18637，可能会推动价格进一步上行，反之则可能测试下方支撑位。\n\n从技术指标来看，RSI(14)暂无数据，难以判断市场是否过热或超卖。MACD指标显示0.00016577362的值，但没有给出明确的信号，说明市场动能较为平稳。SMA(20)位于1.18570附近，价格略高于该均线，说明短期内市场存在一定的上行压力，但上涨动能不强。\n\n短期内，1.18593是一个关键支撑位，若价格跌破该位置，可能会向下测试更强支撑位。1.18637则是重要阻力位，突破该点可能会引发进一步的上涨行情。在没有明显突破的情况下，市场可能会继续整理。\n\n交易建议上，建议投资者观望，等待价格突破关键支撑或阻力位后再做决定。如果价格突破1.18637，考虑轻仓做多；若跌破1.18593，则可以考虑做空。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD is trading near 1.18627, holding a tight 24h range between 1.18593 and 1.18637, which signals short-term equilibrium after a steady grind higher. Price is sitting slightly above the 20-period SMA at 1.18570, suggesting a mild bullish bias remains intact. However, the extremely narrow range also hints at reduced momentum and a potential volatility expansion ahead, often triggered by a breakout from consolidation.\n\nWith RSI(14) unavailable, momentum assessment leans more on MACD and structure. The MACD reading around 0.000166 is modestly positive, implying underlying bullish pressure, but the missing signal line limits confirmation. Still, as long as EUR/USD continues to print higher lows above the 1.18570 area, the near-term trend stays constructive. If price slips back under the SMA and fails to recover quickly, it would warn of a fading push and possible mean reversion.\n\nKey support sits at 1.18600 first, then 1.18570 (SMA), followed by 1.18593 (session low). A deeper pullback could target 1.18540–1.18500, a psychological and liquidity zone where buyers may defend aggressively. On the upside, immediate resistance is 1.18637 (session high), and a clean break could open 1.18680–1.18720. If momentum accelerates, the next bullish objective becomes 1.18800, where profit-taking is likely.\n\nA practical approach favors buying dips while price holds above 1.18570, using a tight stop below 1.18540 to limit downside if the range breaks lower. Conservative traders may wait for a confirmed push above 1.18637 and then look for continuation toward 1.18720–1.18800. If EUR/USD closes below 1.18570 and rejects retests, short setups become more attractive, targeting 1.18500 with risk controlled above 1.18610."
+    }
+  }
+}

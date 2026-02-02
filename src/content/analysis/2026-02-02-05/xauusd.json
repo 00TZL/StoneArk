@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-02-02T05:26:12.548Z",
+  "price": {
+    "close": "4665.88997",
+    "high": "4694.39975",
+    "low": "4641.10381",
+    "open": "4679.79911",
+    "change": "-0.31",
+    "datetime": "2026-02-02 16:00:00"
+  },
+  "indicators": {
+    "rsi": 20.90912,
+    "macd": -51.75712,
+    "macd_signal": -32.45887,
+    "sma20": 4810.11182
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短期承压偏弱震荡",
+      "content": "从价格结构看，金价近24小时小幅回落，重心运行于前高下方，显示短线多头动能减弱。高点受限、低点逐步测试下方区间，整体呈现偏弱震荡格局，趋势上仍需时间修复。\n\n技术指标方面，价格明显低于20日均线，均线拐头向下，对反弹形成压制。MACD值处于负区间，空头动能占优，虽缺乏信号线确认，但方向性偏空，RSI缺失则降低超买超卖参考。\n\n支撑与阻力方面，下方首要支撑位位于4640一线，若跌破或下探4600附近；上方阻力集中在4695区域，其次是20日均线附近的4810，未有效突破前，反弹空间受限。\n\n交易策略上，偏向顺势思路，短线反弹承压可考虑轻仓试空，止损设于4695上方。若价格企稳4640并出现放量反弹信号，可短多参与，但需严格控制仓位与风险。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current market for XAU/USD is reflecting a subtle bearish sentiment, with the price at 4665.89, showing a 24-hour change of -0.31%. The daily high and low range of 4694.40 to 4641.10 indicates a relatively contained price movement, signaling potential consolidation. The market seems to be in a short-term downtrend, possibly influenced by broader USD strength or market volatility. However, this minor bearish movement should be viewed with caution, as the price remains above key support levels.\n\nLooking at key levels, immediate support is located around the 4641.10 level, which has acted as a floor over the past 24 hours. If the price dips below this, it could trigger a further decline toward the 4600-4620 region, offering another support zone. Resistance is positioned near the 4694.40 mark, just below the recent highs, making it a crucial level to monitor. A break above this resistance could pave the way for a short-term recovery toward 4750, potentially reversing the bearish sentiment.\n\nIn terms of indicators, the absence of a clear RSI and MACD signal makes it difficult to fully gauge momentum. The MACD at -51.76 reflects slight negative momentum, suggesting that the bears are in control in the short term. The 20-period simple moving average at 4810.11 is above the current price, reinforcing the bearish tone. However, it’s important to wait for a clearer indicator crossover or RSI signal before making any firm trading decisions.\n\nFor traders, a cautious approach seems best for now. Watch for potential short trades near resistance around 4694.40, especially if the price shows signs of rejection. On the other hand, if the price breaches support at 4641.10, there could be an opportunity for a short-term sell toward the next support zone. A break above 4694.40 might warrant a more bullish outlook with targets toward 4750."
+    }
+  }
+}

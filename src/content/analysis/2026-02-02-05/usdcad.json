@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-02-02T05:23:38.632Z",
+  "price": {
+    "close": "1.36504",
+    "high": "1.36506",
+    "low": "1.36438",
+    "open": "1.36448",
+    "change": "0.04",
+    "datetime": "2026-02-02 16:00:00"
+  },
+  "indicators": {
+    "rsi": 62.67143,
+    "macd": 0.00086861894,
+    "macd_signal": 0.00047766394,
+    "sma20": 1.36197
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：震荡整理，短期区间走势",
+      "content": "当前美元/加元价格在1.36504附近，全天波动仅为0.04%，显示出市场的整理状态。从技术面来看，价格维持在1.36438至1.36506的区间内，短期内未能突破明显的支撑或阻力，呈现出震荡整理的走势。\n\n目前，SMA(20)显示1.36197的支撑位，若价格向下回撤至该区域，可能会吸引买盘介入。然而，MACD目前的数值为0.00086861894，虽有微弱的正向动能，但信号线尚不可见，暗示短期内缺乏强势趋势。RSI指标缺失，无法给出超买或超卖的明确参考。\n\n从支撑与阻力位来看，1.36438为短期支撑，1.36506则为近期阻力。如果价格突破1.36506，则可能会进一步上探1.36700附近的高位。反之，跌破1.36438，则可能会加速下探至1.36197一带。\n\n在当前市场状态下，建议交易者采取区间交易策略，等待价格在支撑位和阻力位之间波动。若突破重要价位，可考虑顺势操作，若反弹或回撤至支撑位，则可适度做多。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "USD/CAD is holding a mildly bullish tone, with the latest price at 1.36504 hovering near the session high (1.36506). The pair remains supported above the 20-day simple moving average at 1.36197, suggesting buyers are still defending dips. While the 24h change is modest (+0.04%), the tight high/low range signals consolidation rather than exhaustion. Overall structure favors continuation higher unless price slips back below the short-term average.\n\nMomentum signals are constructive but not fully confirmed. The MACD reading at 0.0008686 points to positive momentum, implying the bullish impulse is still active, though the missing signal line limits crossover confirmation. With RSI(14) unavailable, momentum strength can’t be quantified precisely, so price behavior around key zones becomes more important. As long as candles continue to close above the SMA(20), pullbacks look more like pauses than reversals.\n\nImmediate resistance sits at 1.36506, and a clean break above this level could open room toward 1.3680–1.3700, where sellers often reappear in round-number territory. First support is near 1.36438, followed by the more important dynamic support at 1.36197 (SMA 20). A decisive move below 1.3620 would weaken the bullish bias and expose 1.3585–1.3600 as the next demand zone.\n\nFor trading, a cautious bullish approach makes sense while price holds above 1.3620. Aggressive buyers may look for a breakout entry above 1.3651 with a tight stop under 1.3644, targeting 1.3680 and 1.3700. Conservative traders could wait for a pullback toward 1.3625–1.3630 to improve risk-reward. If price closes below 1.3619, shifting to a short-bias becomes more attractive."
+    }
+  }
+}
