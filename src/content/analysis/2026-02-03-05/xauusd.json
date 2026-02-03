@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-02-03T05:16:37.575Z",
+  "price": {
+    "close": "4812.90512",
+    "high": "4825.25449",
+    "low": "4809.48306",
+    "open": "4809.60876",
+    "change": "0.07",
+    "datetime": "2026-02-03 16:00:00"
+  },
+  "indicators": {
+    "rsi": 57.65196,
+    "macd": 18.0049443,
+    "macd_signal": -1.49155,
+    "sma20": 4728.76896
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：当前震荡整理，倾向于测试支撑位",
+      "content": "当前黄金/美元（XAU/USD）价格处于震荡整理阶段，波动较小。当前价格4812.90附近，相较于24小时变化仅上涨0.07%，显示出市场短期内缺乏明显方向。高点4825.25和低点4809.48之间的区间反映出买卖力量均衡，短期内有可能继续保持在此区间内波动。\n\n从技术指标来看，RSI(14)数据缺失，难以准确判断超买或超卖状态；而MACD值为18.00，显示出市场的动能有所增强，但由于信号线数据缺失，无法进一步确认趋势的强弱。SMA(20)当前位于4728.77，表明长期趋势仍呈上行，但短期内价格似乎在20日均线附近构成支撑。\n\n支撑位方面，4809.48的低点为关键支撑，一旦价格跌破该位，可能会加速下行。而阻力位则位于4825.25附近，若突破此点位，可能会刺激价格进一步上涨。综合来看，当前市场可能会在支撑位附近进行震荡整理。\n\n交易建议方面，建议关注4809.48附近的支撑和4825.25的阻力，短期内可以考虑区间交易策略。若价格突破上方阻力，可考虑做多；若跌破支撑位，则可以考虑做空。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD pair is currently displaying a neutral-to-bullish short-term outlook. With the latest price hovering around 4812.90, gold has found support near the low of 4809.48, while resistance remains at 4825.25. The 24-hour change of +0.07% indicates limited movement, suggesting consolidation or indecision in the market. Given the proximity to resistance, a break above this level could indicate a continuation toward higher levels, especially if global risk sentiment or inflation expectations drive further demand for gold.\n\nThe absence of a clear RSI and MACD signal complicates the technical picture. However, the MACD value of 18.00 reflects potential bullish momentum, though it's not enough to confirm a strong trend. The lack of significant divergence between the MACD line and the price action limits the predictive power of this indicator. Similarly, the RSI's unavailability means that momentum indicators are not providing any immediate overbought or oversold signals, which could have guided entry points for trades.\n\nFrom a moving average perspective, the SMA(20) at 4728.77 shows that the medium-term trend is still firmly bullish, as the current price is well above this average. If the price consolidates around the current level before pushing higher, it could solidify the upward trend. However, any dip below the SMA could lead to a retest of the recent low or even the next support at 4720. Therefore, caution is advised when prices approach key resistance levels, as a breakout could confirm upward movement.\n\nFor traders, waiting for a breakout above 4825.25 could offer an opportunity for a long position, targeting a move toward 4850. On the other hand, if the price drops toward the 4809.48 support level, a reversal from there might present a risk-to-reward setup for a buy. Traders should monitor market sentiment and broader economic factors to assess the potential for continued bullish momentum."
+    }
+  }
+}

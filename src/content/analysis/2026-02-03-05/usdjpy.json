@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-02-03T05:13:06.926Z",
+  "price": {
+    "close": "155.41218",
+    "high": "155.43794",
+    "low": "155.41148",
+    "open": "155.41737",
+    "change": "-0.01",
+    "datetime": "2026-02-03 16:00:00"
+  },
+  "indicators": {
+    "rsi": 54.29728,
+    "macd": 0.12568437,
+    "macd_signal": 0.15644609,
+    "sma20": 155.40311
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理，待突破关键区间]",
+      "content": "当前美元/日元处于155.40附近，价格在过去24小时内小幅波动，整体保持震荡整理的态势。从短期价格波动来看，市场缺乏明确的趋势方向。技术上，价格接近短期20日简单移动平均线(SMA)，表明市场可能继续在这一区间内震荡整理。\n\nRSI和MACD的指标尚未给出明确的信号，因此无法从动量的角度确定强势或弱势的市场趋势。当前的MACD数值为0.125，表明有轻微的买盘压力，但没有形成明确的买入或卖出信号，市场情绪保持观望。\n\n从支撑与阻力角度来看，155.41一线是当前的短期支撑位，而155.44附近则为潜在的阻力区。如果价格突破155.44上方，可能会引发新的上行动能，而跌破155.41支撑位则可能导致进一步回调。\n\n综合来看，当前市场仍在整理阶段，建议交易者保持谨慎。若价格突破155.44上行可考虑做多，若跌破155.41支撑则考虑做空，操作时需要密切关注短期价格变化和市场情绪变化。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently showing a narrow range of price movement with the latest price at 155.41218, reflecting a slight intraday loss of -0.01%. This consolidation indicates a period of indecision, where the pair is oscillating within a tight range between the high of 155.43794 and the low of 155.41148. Given the lack of significant momentum, the market appears to be waiting for clearer directional cues. If this range holds, traders may look for a breakout above 155.44 for a potential continuation to the upside.\n\nThe absence of RSI data makes it difficult to confirm any overbought or oversold conditions, while the MACD value of 0.1257 suggests weak bullish momentum at present. As the MACD is above zero but without a signal line, this could indicate a slight bullish bias, though it lacks strength for a decisive trend. The market's overall direction remains unclear, and traders may want to wait for more confirmation from a stronger indicator before making major moves.\n\nThe 20-period SMA currently sits at 155.40311, serving as a dynamic support level for the pair. A break below this level could signal further downside potential, with the next support seen around 155.40. On the resistance side, the immediate level to watch is near 155.44, with a potential upside target toward 155.45. If the price pushes past this resistance, the next likely target is around 155.50. However, a failure to breach resistance could lead to further consolidation or a potential reversal.\n\nFor trading, the current market conditions suggest a cautious approach. A breakout above 155.44 might be a buying opportunity, with tight stops below 155.40, while a failure to break higher could lead to further consolidation or a bearish move toward 155.30. It is essential to monitor for volatility spikes or news events that may provide the necessary catalyst for a directional shift."
+    }
+  }
+}

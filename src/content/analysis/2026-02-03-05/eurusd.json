@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-02-03T05:11:38.429Z",
+  "price": {
+    "close": "1.18113",
+    "high": "1.18121",
+    "low": "1.18092",
+    "open": "1.18093",
+    "change": "0.02",
+    "datetime": "2026-02-03 16:00:00"
+  },
+  "indicators": {
+    "rsi": 46.34967,
+    "macd": -0.00099747314,
+    "macd_signal": -0.0012816134,
+    "sma20": 1.1811
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：价格维持震荡整理，短期走势不明朗",
+      "content": "当前欧元/美元在1.18113附近交易，价格维持窄幅震荡。整体趋势偏向整理阶段，缺乏明确的突破信号。近期价格在1.18092至1.18121区间内波动，显示出短期市场的谨慎态度，未能突破重要技术水平。\n\n从技术指标看，MACD当前处于负值区域，且无明显信号线变化，表明短期内看空情绪较强，但并未形成强烈的卖盘信号。SMA(20)与当前价格非常接近，进一步确认市场缺乏方向性。RSI(14)数据缺失，无法提供额外的超买或超卖指示。\n\n支撑位方面，1.18092附近是近期的低点，若价格下行突破该区间，可能会进一步测试1.18000关口。上方阻力则在1.18121一线，突破该点位有可能推动价格上行至1.1830附近。当前市场表现出震荡整理特征，投资者应密切关注这两个技术点位。\n\n建议交易者采取区间交易策略，避免盲目追涨杀跌。可在支撑位附近寻找买入机会，在接近阻力位时考虑适度做空。然而，由于当前市场缺乏强烈趋势，操作需保持谨慎，避免过度杠杆。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is showing a neutral to slightly bullish stance at the current price of 1.18113. With minimal 24-hour movement (0.02%) and a very narrow trading range between 1.18121 and 1.18092, the market appears to be consolidating in a tight band. The lack of significant price action suggests indecision among traders, with no strong momentum in either direction. Given that the price is holding above the 20-period simple moving average (SMA) of 1.18110, the short-term bias leans towards a continuation of this sideways movement.\n\nThe MACD reading of -0.00099747314 indicates slight bearish momentum, though the absence of a clear signal line makes interpretation challenging. Without a crossover or significant divergence, the indicator is not providing strong directional guidance at this point. Similarly, the RSI (14) is unavailable, leaving us without a concrete indication of overbought or oversold conditions. As such, traders should be cautious about expecting significant volatility or trend acceleration without further confirmation from additional indicators.\n\nKey support for the pair is seen around the 1.18092 low, while resistance lies near 1.18121, which is the recent high. A breakout above this level could trigger a move towards 1.18300, while a breakdown below 1.18092 would suggest a possible retest of the 1.17800 zone. These support and resistance zones are critical for determining the next potential move, with traders looking for confirmation before entering positions.\n\nIn terms of trading strategy, short-term traders may consider range-bound strategies, taking advantage of the tight price fluctuations between support and resistance. However, for those seeking trend continuation, waiting for a breakout above 1.18121 or a breakdown below 1.18092 would provide a clearer direction for entry. Caution is advised due to the lack of clear momentum signals from the technical indicators."
+    }
+  }
+}
