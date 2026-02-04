@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-02-04T05:06:46.708Z",
+  "price": {
+    "close": "156.29319",
+    "high": "156.31579",
+    "low": "156.26881",
+    "open": "156.27899",
+    "change": "0.01",
+    "datetime": "2026-02-04 16:00:00"
+  },
+  "indicators": {
+    "rsi": 72.45151,
+    "macd": 0.19718235,
+    "macd_signal": 0.15817119,
+    "sma20": 155.9247
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：当前偏强，短期震荡整理",
+      "content": "目前，美元/日元（USD/JPY）价格为156.29319，短期内表现出一定的震荡整理迹象。价格略微高于20日简单移动平均线（SMA 20），表明市场在保持一定的上行势头。尽管当前没有RSI和信号线数据，MACD值为0.197，显示出市场略有多头动能。\n\n从技术面看，当前价格处于156.26881和156.31579区间内，预计短期内可能会维持震荡整理。156.31579为短期阻力位，突破后可能会进一步上探，而156.26881则为近期支撑位，跌破此点位可能会开启下行风险。\n\n总体而言，美元/日元仍表现出一定的上涨趋势，尽管短期内震荡较大，整体情绪较为积极。建议投资者关注156.26881的支撑和156.31579的阻力，突破关键价位时可考虑相应的跟进操作。\n\n综合来看，当前市场处于整理状态，等待进一步的技术信号确认。如果价格突破上行，可能会延续上涨势头，而突破下行则需谨慎操作，防止进一步回撤。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The current price of USD/JPY stands at 156.29319, with minimal movement in the last 24 hours (0.01%). The pair is trading close to its recent high of 156.31579, suggesting that the market remains within a range-bound environment. The price is supported by a slight upward bias, yet there is limited volatility in the short term, pointing to a consolidation phase. The market is largely hovering near the SMA(20) of 155.92470, indicating that this level might offer near-term support if tested.\n\nThe RSI(14) remains unavailable for analysis, which would have otherwise provided insights into potential overbought or oversold conditions. The MACD value of 0.19718235 indicates a slight bullish momentum; however, the absence of a signal line comparison restricts a clearer indication of strength or reversal signals. Traders should remain cautious, as the market lacks strong directional confirmation from the indicators. Price action will be crucial in understanding whether the recent range holds or breaks.\n\nFrom a support and resistance perspective, the 156.26881 low acts as a key support level, with the market unable to dip below this threshold in recent trading. A breach of this level could open the door for a move towards 156.00, where further support might materialize. To the upside, the 156.31579 high serves as immediate resistance. A sustained breakout above this point could lead to further gains, with potential targets towards 156.50, a psychological level.\n\nGiven the current market structure, trading strategies should focus on a cautious approach. In the absence of clear trend signals, range-bound trading could be beneficial. Buying near support or shorting near resistance, with tight stop losses, is a reasonable strategy. Traders should closely monitor price action around the 156.26881 and 156.31579 levels for any indications of a breakout or reversal."
+    }
+  }
+}

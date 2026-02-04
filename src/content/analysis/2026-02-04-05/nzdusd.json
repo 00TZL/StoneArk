@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-02-04T05:08:57.341Z",
+  "price": {
+    "close": "0.60363",
+    "high": "0.60364",
+    "low": "0.60336",
+    "open": "0.60347",
+    "change": "0.03",
+    "datetime": "2026-02-04 16:00:00"
+  },
+  "indicators": {
+    "rsi": 50.24719,
+    "macd": 0.00021996106,
+    "macd_signal": 0.00044129052,
+    "sma20": 0.6040025
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[当前价格震荡整理]",
+      "content": "目前，纽元/美元处于窄幅震荡的整理阶段。当前价格在0.6036附近波动，近期未出现明显的方向性突破。高点和低点相差较小，显示出市场缺乏强烈的买卖动力。此时，趋势判断偏向中性。\n\n技术指标方面，RSI和MACD未提供有效的买卖信号。MACD的数值为0.00022，较低的值表明市场没有出现强烈的动能变化。SMA(20)位于0.6040，价格略低于该均线，这可能提示短期内有轻微的下行压力，需关注是否能有效突破。\n\n支撑位方面，0.60336可作为短期支撑点，如果价格回落至此，可能会遇到支撑并出现反弹。阻力位在0.6040附近，这也是SMA(20)所在的位置，突破此处可能会引发进一步的上涨。交易者应关注这些关键位置的突破情况。\n\n建议短期内采取观望策略，除非价格突破0.6040，则可以考虑轻微的多单交易；若价格跌破0.60336，则可能出现短期回调，适合做空。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The New Zealand Dollar (NZD) against the US Dollar (USD) is currently displaying a neutral to slightly bearish sentiment. At the latest price of 0.60363, the market has seen minimal movement over the past 24 hours, with a slight 0.03% change. The price has stayed within a narrow range between 0.60364 (high) and 0.60336 (low), indicating low volatility and market indecision. Given this price action, the trend remains sideways, with a lack of strong momentum in either direction.\n\nTechnical indicators are offering mixed signals. The MACD value is marginally positive at 0.00022, but with the absence of a defined signal line or RSI data, it’s difficult to gauge whether this signals a potential bullish reversal or simply an ongoing consolidation phase. The absence of clear momentum indicators suggests traders should be cautious of jumping into aggressive positions without further confirmation of trend direction. A deeper dive into more extended indicators may reveal better guidance.\n\nSupport and resistance levels are key to guiding potential trades. The immediate support level sits at 0.60336, with the price failing to move significantly lower, indicating a potential floor for short-term moves. On the upside, the resistance level lies just above the current price around 0.60400. A break above this level could set the stage for a short-term rally toward higher levels, but with the narrow range currently in play, price action should be monitored for any breakout opportunities.\n\nIn the current market scenario, trading strategies should prioritize cautious range-bound plays. Traders might consider short positions near the 0.60400 resistance level, while setting stop losses just above the high. For those preferring long positions, waiting for a clear breakout above 0.60400 could provide a more favorable entry. Patience will be key, as further confirmation of trend strength is needed to make higher-confidence trades."
+    }
+  }
+}

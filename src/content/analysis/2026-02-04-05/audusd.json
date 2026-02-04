@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-02-04T05:07:31.058Z",
+  "price": {
+    "close": "0.70254",
+    "high": "0.70254",
+    "low": "0.7023",
+    "open": "0.70238",
+    "change": "0.02",
+    "datetime": "2026-02-04 16:00:00"
+  },
+  "indicators": {
+    "rsi": 57.67869,
+    "macd": 0.00094564086,
+    "macd_signal": 0.0010461143,
+    "sma20": 0.701469
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理中]",
+      "content": "当前澳元/美元（AUD/USD）在0.7023至0.70254区间震荡整理，缺乏明确的上行或下行趋势。从短期走势来看，价格未能突破前期的关键支撑与阻力水平，表明市场观望情绪浓厚，可能处于整理阶段。\n\n技术指标方面，SMA(20)的值为0.701469，表明短期均线略微支持价格向上运行。MACD显示出微弱的正值（0.00094564086），但信号线数据缺失，未能提供明确的买入或卖出信号。RSI数据缺失，因此无法全面判断市场的超买或超卖状况。\n\n在支撑与阻力方面，当前的支撑位位于0.7023，而阻力位可能位于0.7030附近。若价格突破0.7030，可能会迎来进一步上涨；反之，若跌破0.7023，则有可能加剧下行压力。\n\n综合来看，目前市场情绪谨慎，建议投资者保持观望，等待价格突破关键支撑或阻力后再作进一步决策。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently trading at 0.70254, with a minimal 24-hour change of 0.02%. The pair has seen a narrow trading range, oscillating between a high of 0.70254 and a low of 0.7023, reflecting a relatively stable market sentiment. From a trend perspective, the price is hovering just above the 20-period simple moving average (SMA) at 0.70147, suggesting a slight bullish bias in the short-term. However, this is not a strong confirmation of an uptrend, as the price action is quite tight. Traders should watch for a breakout or reversal confirmation.\n\nIn terms of technical indicators, the Relative Strength Index (RSI) is unavailable, leaving limited insight into whether the market is overbought or oversold. The MACD value of 0.00094564086, however, signals a very slight bullish momentum, though the absence of a signal line complicates interpretation. The MACD's positioning suggests there is some upward pressure, but the lack of clear momentum makes it difficult to call for a sustained move in either direction. \n\nLooking at support and resistance, the immediate support lies at the SMA(20) level around 0.70147. If the pair breaks below this, a deeper retracement toward 0.7000 could be in play, providing a solid entry for buyers looking for lower levels. On the upside, the resistance remains at the recent high near 0.70254, but a clear breakout beyond this level would open the door to higher targets, with the next key resistance likely near 0.7040. \n\nFor traders, it's crucial to monitor the price action around the current levels. If the pair manages to stay above the SMA(20) and confirms a break above 0.70254, a buying opportunity could emerge with a focus on the 0.7040 resistance. Conversely, a break below the support around 0.70147 could trigger a more bearish outlook, especially if momentum indicators start to turn negative. Keep an eye on additional signals for confirmation of either scenario."
+    }
+  }
+}
