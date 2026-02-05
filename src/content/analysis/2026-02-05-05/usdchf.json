@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-02-05T05:17:11.686Z",
+  "price": {
+    "close": "0.77843",
+    "high": "0.77846",
+    "low": "0.77818",
+    "open": "0.7782",
+    "change": "0.03",
+    "datetime": "2026-02-05 16:00:00"
+  },
+  "indicators": {
+    "rsi": 64.96939,
+    "macd": 0.00048393266,
+    "macd_signal": 0.00031772647,
+    "sma20": 0.7770025
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：震荡整理，短期上涨动力有限",
+      "content": "目前，美元/瑞郎的价格为0.77843，整体趋势显示出震荡整理的走势。价格波动较为狭窄，24小时内仅变化0.03%，显示市场缺乏强烈的推动力。当前的高点为0.77846，低点为0.77818，表明价格在区间内徘徊，未能突破明显的支持或阻力水平。\n\n从技术指标来看，SMA(20)为0.77700250，显示出价格短期内可能受到20日简单移动平均线的支撑。尽管MACD指标为0.00048393266，但信号线数据缺失，难以提供明确的买卖信号，暗示市场暂时缺乏明确的方向性。\n\n支撑位方面，0.77818附近可能成为短期支撑，若价格进一步下探至此水平，可能会出现反弹。阻力位则在0.77846附近，突破该水平可能会引发小幅的上涨。但整体来看，短期内上涨动力有限，交易者需保持谨慎。\n\n建议短期内观望，避免过早进场。若价格突破0.77846，可以考虑短线做多，而跌破0.77818时则可考虑做空，但要注意控制风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair currently shows a narrow range of movement with the latest price at 0.77843, reflecting a modest 24-hour change of +0.03%. The market is relatively flat, with the high/low range constrained between 0.77846 and 0.77818. This tight range suggests a lack of strong momentum and a potential consolidation phase in the short term. Traders should look for a breakout or a reversal as the next key market development, as the pair is currently lacking strong directional indicators.\n\nThe absence of a clear RSI(14) reading leaves us without momentum confirmation, but the MACD value of 0.00048 suggests a neutral to mildly bullish bias. The MACD's proximity to zero points to limited price action strength, indicating a balance between buyers and sellers. With no immediate trend forming, the market could see fluctuations within its current range. Further confirmation from a more defined indicator like the RSI could offer more clarity in upcoming sessions.\n\nKey support is found at 0.77700, aligned with the 20-period SMA at 0.77700250, marking an important level to watch for potential downside protection. A break below this support could open the door for further declines towards the lower end of the range at 0.77600. On the upside, resistance near 0.77850 is the level to monitor; any sustained break above this point could trigger a short-term bullish rally.\n\nGiven the current market dynamics, traders might consider taking a cautious approach. Short-term trades could be viable within the range, but larger moves are likely to require a breakout above 0.77850 or a breakdown below 0.77700. Traders should stay alert for any significant changes in indicators or price action that could signal a shift in market sentiment."
+    }
+  }
+}

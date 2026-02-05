@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-02-05T05:14:59.700Z",
+  "price": {
+    "close": "0.69696",
+    "high": "0.69712",
+    "low": "0.69668",
+    "open": "0.69712",
+    "change": "-0.02",
+    "datetime": "2026-02-05 16:00:00"
+  },
+  "indicators": {
+    "rsi": 37.11887,
+    "macd": -0.0010670591,
+    "macd_signal": -0.00069087945,
+    "sma20": 0.6996425
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，关注支撑与阻力]",
+      "content": "当前澳元/美元价格在0.69696附近震荡整理，短期内呈现弱势整理行情。价格未能突破0.70关口，表明市场对进一步上涨缺乏动力。从整体走势来看，市场目前处于区间震荡中，价格未见明确的趋势方向。\n\n从技术指标来看，MACD值为-0.0011，显示出轻微的卖压，但由于信号线数据缺失，不能做出进一步的确认。SMA(20)处于0.6996附近，表明短期内价格仍在这一均线下方波动，可能会成为阻力位。RSI（14）指标缺失，无法从超买超卖角度进一步分析。\n\n支撑位方面，价格接近0.69668，为日内低点，若下破此支撑，可能会进一步下探0.69300附近的区域。上方阻力位则在0.6990-0.7000之间，若价格突破此区间，可能会迎来新的上行机会。\n\n建议投资者在当前震荡行情中保持谨慎。可以等待价格突破区间的明确信号后再进行操作，若价格下破支撑可考虑做空，而突破阻力则可能带来做多机会。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar (AUD) against the US Dollar (USD) is currently facing slight downward pressure, as indicated by the recent price of 0.69696 and a marginal 24-hour change of -0.02%. This suggests a consolidation phase in the market. With the current price hovering close to the lower end of its daily range (0.69668), the immediate trend remains neutral, with no clear direction established. Traders should monitor this level closely for signs of either continuation or reversal.\n\nLooking at key indicators, the lack of an RSI value leaves room for further analysis, but the MACD reading of -0.0011 signals a very mild bearish sentiment. The absence of a clear crossover or confirmation of the signal line strengthens this indication of consolidation. In conjunction with the simple moving average (SMA) of 0.6996425, the market is still below the 20-period SMA, suggesting a slight bearish bias. If the price struggles to reclaim the SMA, the downward momentum could persist.\n\nSupport for AUD/USD can be found at 0.69668, a key level that has provided a floor for price movement in the past 24 hours. A break below this could lead to further downside, targeting the next support zone around 0.69500. On the upside, 0.69900 remains a crucial resistance level, aligned closely with the SMA. A price rise above this resistance may indicate a shift in market sentiment toward bullishness, but confirmation is required for any sustained rally.\n\nGiven the current range-bound nature of the market, a cautious approach is advisable. Short-term traders might consider selling near resistance levels with tight stop-loss orders just above 0.69900. Conversely, a break below the support at 0.69668 could offer a selling opportunity, though it would be prudent to wait for confirmation before entering new positions."
+    }
+  }
+}

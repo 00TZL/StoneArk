@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-02-05T05:12:51.858Z",
+  "price": {
+    "close": "1.17868",
+    "high": "1.17888",
+    "low": "1.17867",
+    "open": "1.17888",
+    "change": "-0.02",
+    "datetime": "2026-02-05 16:00:00"
+  },
+  "indicators": {
+    "rsi": 36.25768,
+    "macd": -0.00068216447,
+    "macd_signal": -0.00049645458,
+    "sma20": 1.18037
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[当前震荡整理，短期走势偏弱]",
+      "content": "当前欧元/美元在1.17868附近震荡整理，表现出一定的短期弱势。从技术面来看，价格接近SMA(20)的1.18037水平，但未能有效突破，表明市场在该区域存在卖压。MACD值为负，暗示下行动能较强，而RSI数据缺失，未能提供额外的超买或超卖信息。\n\n支撑位方面，1.17867附近是本次波动的最低点，如果价格跌破该位置，可能会进一步下探至更低的支撑区域。反之，1.17888为当前短期的阻力位，突破该水平可能会带来小幅反弹，但仍需警惕市场的反转信号。\n\n根据目前的价格走势和技术指标，建议短期内保持谨慎。若价格跌破1.17867支撑，可以考虑卖出，目标位可设在1.17750附近。反之，若价格突破1.17888，可能短期内会有所反弹，但依旧需结合更长时间框架的技术分析来判断整体趋势。\n\n整体来看，欧元/美元短期内依旧处于震荡整理状态，市场情绪偏向保守。适合短线交易者根据支撑和阻力位的突破进行操作，避免盲目追涨杀跌。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently trading at 1.17868, showing a minor decline of 0.02% over the past 24 hours. The price range during this period has been relatively tight, with a high of 1.17888 and a low of 1.17867, suggesting a consolidation phase. The market seems to be in a short-term neutral trend, with no strong directional bias. The price is hovering just below the 20-period simple moving average (SMA) at 1.18037, indicating a slight bearish sentiment in the near term. However, the narrow range suggests that the market could break either way, depending on upcoming developments.\n\nThe MACD value of -0.00068216447 points to a very slight bearish momentum, though without a confirmed signal line, it's difficult to derive a definitive trend from this indicator alone. Given that the Relative Strength Index (RSI) data is unavailable, it's hard to gauge the overbought or oversold conditions, leaving the MACD as the primary tool for assessing momentum. If the MACD shows a reversal or a shift towards the zero line, it could provide a clearer signal for a potential trend shift. As of now, the lack of strong directional indicators suggests a range-bound environment.\n\nKey support for the pair appears to be at the recent low of 1.17867, which could act as a potential floor if the price dips further. On the upside, the SMA at 1.18037 serves as a nearby resistance. If the pair manages to break above this level, it could signal a shift towards a more bullish trend. However, with the current price action trapped within a narrow range, a break of either support or resistance is necessary for confirming the next move.\n\nFor traders, a cautious approach seems appropriate in the absence of strong directional momentum. Short-term scalpers may look for opportunities to trade within the current range, buying at support and selling at resistance. A break above 1.18037 could offer a long position targeting higher levels, while a breakdown below 1.17867 could present short opportunities. Given the current market environment, it’s crucial to stay alert for any breakout signals to determine the next phase in this pair’s price action."
+    }
+  }
+}

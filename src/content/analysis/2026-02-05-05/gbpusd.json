@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-02-05T05:13:33.190Z",
+  "price": {
+    "close": "1.3625",
+    "high": "1.36266",
+    "low": "1.36236",
+    "open": "1.36266",
+    "change": "-0.01",
+    "datetime": "2026-02-05 16:00:00"
+  },
+  "indicators": {
+    "rsi": 32.49156,
+    "macd": -0.0017784866,
+    "macd_signal": -0.0014059364,
+    "sma20": 1.36616
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[短期震荡区间，关注突破]",
+      "content": "当前，英镑/美元的价格在1.3625附近运行，保持相对平稳的状态。由于近期波动较小，整体走势呈现震荡整理模式，价格在1.36236至1.36266区间内反复波动。若价格突破上方阻力位1.36616，可能会出现短期的上涨动能。\n\n技术指标方面，RSI和MACD指标暂时无法提供明确的买卖信号，但MACD值为负，显示市场上仍存在一定的卖压。SMA(20)位于1.36616附近，若价格突破这一水平，可能会增强多头的信心。当前的低位未能触及超卖区，市场依然保持较为中性的位置。\n\n支撑位方面，1.36236是当前的短期支撑，若跌破该位，则可能进一步测试更低的支撑水平。上方的阻力在1.36616附近，突破此点位可能会带来新的上涨动力。短期内，市场可能仍维持在这个区间震荡整理。\n\n综合来看，当前英镑/美元处于短期震荡格局，建议交易者保持观望，等待价格突破重要支撑或阻力位后再作决策。风险偏好较高的交易者可在支撑位附近考虑进场，而保守型投资者则可等待更明确的趋势信号。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The current market for GBP/USD shows a slight bearish sentiment, as the price is trading at 1.3625 with minimal movement over the past 24 hours. The high/low range of 1.36266 to 1.36236 indicates tight price action, suggesting a consolidation phase. The market's lack of significant movement could signal indecision among traders, but it also offers opportunities for short-term traders to capitalize on small fluctuations. Given the slight downward bias, caution should be exercised, and a break below the lower range could lead to further downside pressure.\n\nThe MACD reading of -0.00178 suggests a very weak bearish momentum, as the histogram is close to zero. Since the signal line is not provided, it's difficult to assess the full strength of the trend, but the absence of a clear crossover implies that the market may not have enough momentum for a significant downtrend. Traders should be attentive to the formation of more defined bullish or bearish signals in the coming sessions, which could provide clearer trading opportunities. \n\nThe 20-period simple moving average (SMA) at 1.36616 serves as an important level to monitor. A break below this level could signal further bearish activity, with support likely found near 1.3620 and 1.3600, given the price's current position. On the flip side, any move above the SMA could re-establish upward momentum, potentially testing resistance levels near 1.3700. Traders should look for price action around these levels to make more informed decisions on their entries.\n\nIn terms of trading suggestions, for short-term strategies, wait for a break below the support level at 1.3620 to target further downside toward 1.3600. Conversely, if price reverses and moves above the 1.36616 SMA, a potential move to the 1.3700 resistance could offer an opportunity for long trades. As always, tight stop losses should be implemented due to the narrow price range and lack of clear directional momentum."
+    }
+  }
+}

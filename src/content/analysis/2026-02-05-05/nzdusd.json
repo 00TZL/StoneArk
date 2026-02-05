@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-02-05T05:16:28.580Z",
+  "price": {
+    "close": "0.59851",
+    "high": "0.5987",
+    "low": "0.59836",
+    "open": "0.59868",
+    "change": "-0.03",
+    "datetime": "2026-02-05 16:00:00"
+  },
+  "indicators": {
+    "rsi": 36.71232,
+    "macd": -0.0011244559,
+    "macd_signal": -0.0009870599,
+    "sma20": 0.600282
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[当前市场横盘整理]",
+      "content": "当前纽元/美元（NZD/USD）价格为0.59851，24小时变化为-0.03%。从短期走势来看，市场处于横盘整理阶段，价格波动区间较小，未出现显著的上行或下行趋势。当前价格接近近期的低点，且未突破重要的支撑或阻力位，表明市场缺乏方向性。\n\n技术指标方面，SMA(20)为0.60028200，价格当前低于该均线，显示出短期内可能存在下行压力。MACD为负值，且尚未形成明确的金叉或死叉信号，这表明市场在短期内处于弱势状态，缺乏明确的动能。RSI值无法确认，但从价格和MACD的表现来看，市场情绪较为谨慎。\n\n支撑位目前在0.59836附近，而0.5987为近期的高点，形成短期的阻力位。若价格突破0.5987，可能会迎来进一步的上涨动力；反之，若下行突破0.59836支撑位，价格可能会进一步回落。此时，投资者应注意支撑和阻力区间的突破。\n\n建议投资者在当前区间内保持观望，待价格突破关键支撑或阻力位时再做决定。若突破0.5987，考虑轻仓做多；若跌破0.59836，考虑短线做空。但需要注意风险控制，避免市场突发波动导致的损失。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently experiencing a slight downtrend, with the latest price at 0.59851, reflecting a minor 24-hour change of -0.03%. The price is trading just below the recent SMA(20) of 0.600282, which could indicate a potential bearish outlook in the short term. This moving average acts as a dynamic resistance, and a failure to break above this level could lead to further declines. However, the price is still trading within a narrow range, suggesting limited volatility at the moment.\n\nThe MACD is currently at -0.0011, signaling a bearish market momentum, though the absence of a signal line value limits the overall analysis. The negative MACD histogram reinforces the weakening momentum of the New Zealand Dollar, indicating that sellers have some control over the market. However, this is not a strong confirmation of a trend reversal, and traders should be cautious about entering short positions without further confirmation of momentum strength.\n\nKey support is found near the low of 0.59836, a level that could act as a floor for the pair. If the price drops below this level, further downside could open up, targeting the next support zone near 0.5950. On the other hand, resistance is evident at the recent high of 0.5987. A break above this resistance could prompt a retest of the 0.6000 area, potentially creating opportunities for short-term long positions if price action confirms a rebound.\n\nGiven the current technical environment, trading decisions should focus on price behavior around these key levels. A bounce off support or a breakout above resistance could offer good risk-to-reward scenarios for traders. With the market displaying consolidation, it is essential to monitor any changes in momentum closely, particularly if additional indicators like the RSI become available to provide further insight."
+    }
+  }
+}
