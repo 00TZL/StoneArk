@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-02-06T05:17:42.308Z",
+  "price": {
+    "close": "4823.23232",
+    "high": "4825.00858",
+    "low": "4809.20533",
+    "open": "4814.82064",
+    "change": "0.18",
+    "datetime": "2026-02-06 16:00:00"
+  },
+  "indicators": {
+    "rsi": 47.59843,
+    "macd": -27.8257,
+    "macd_signal": -34.15309,
+    "sma20": 4820.83934
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理，谨慎操作]",
+      "content": "当前黄金/美元(XAU/USD)处于震荡整理区间。最新价格保持在4823附近，短期内未能突破上方高点4825或下方低点4809，显示市场情绪谨慎，买卖双方力量对比平衡。若价格突破4825，可迎来短期的上行机会；反之，跌破4809可能引发进一步下行。\n\nRSI和MACD指标未提供明确趋势信号，表明当前市场缺乏强势动能。SMA(20)指标显示价格略高于20日均线，可能表明短期内仍偏向温和上涨，但总体缺乏明确方向。投资者应保持观望，等待更清晰的市场信号。\n\n在支撑位方面，4809附近为关键支撑，一旦价格跌破该水平，可能会加剧价格回调。阻力位在4825附近，若突破该位置，黄金有可能挑战更高水平。交易者可以通过区间操作进行短线交易，但需时刻注意价格波动带来的风险。\n\n建议投资者在当前市场中保持谨慎，避免追高或追低。等待价格突破关键技术水平后再决定进场，以减少风险并抓住潜在的短期交易机会。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current price of XAU/USD is testing important support and resistance levels. With a recent high of 4825.00 and a low of 4809.21, the market is showing a narrow range, suggesting a consolidation phase. Gold has recently been in a sideways trend, with minor fluctuations. A breach above 4825.00 could push prices toward the next resistance at 4835.00, indicating a potential upward move. On the downside, the support at 4809.00 remains critical for the current price action.\n\nThe MACD indicator currently stands at -27.83, suggesting a bearish momentum, though its neutral stance (without a signal line) limits its directional clarity. This indicates that while the trend is negative, the market may be nearing a point of indecision, and traders should watch for any potential divergence or crossover in the MACD for clearer signals. A negative MACD with the absence of a signal line could imply that the bearish pressure is losing steam, which might lead to sideways price action or even a reversal if other indicators align.\n\nAt this point, the 20-period Simple Moving Average (SMA) is at 4820.84, providing a moderate dynamic support level. The SMA acts as a smoothing tool, and its position suggests that the price may find temporary support near this level. A close above this moving average could signal a short-term reversal to the upside, while a break below it could pave the way for a deeper pullback, possibly towards 4800.00. Traders should watch the 4820.00-4825.00 zone closely for potential breakout or breakdown opportunities.\n\nFor short-term trading, a cautious approach is recommended. If price breaks above 4825.00, entering long positions with a target near 4835.00 could be a solid strategy. Conversely, should price break below 4809.00, short positions may offer an opportunity to target the 4800.00 area. As always, risk management is key in this volatile environment."
+    }
+  }
+}
