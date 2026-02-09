@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-02-09T05:27:03.213Z",
+  "price": {
+    "close": "1.36538",
+    "high": "1.36587",
+    "low": "1.36490",
+    "open": "1.36563",
+    "change": "-0.02",
+    "datetime": "2026-02-09 16:00:00"
+  },
+  "indicators": {
+    "rsi": 33.57445,
+    "macd": -0.00048399209,
+    "macd_signal": -0.00026883628,
+    "sma20": 1.36709
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理走势]",
+      "content": "当前美元/加元(USD/CAD)的价格在1.36538附近震荡整理，显示出短期内缺乏强烈的单边趋势。整体市场表现较为平稳，24小时内价格仅出现小幅下跌，且波动幅度较小，这表明市场参与者情绪谨慎，未出现明显的买入或卖出压力。\n\n从技术指标上看，虽然RSI(14)和MACD信号尚未完全显示，但从SMA(20)来看，当前价格接近短期均线1.36709，表明该区域可能是近期的短期阻力位。同时，MACD值接近零轴，可能意味着市场动能不足，价格可能维持震荡状态。\n\n支撑位方面，当前价格下方的支撑区域大致在1.36490附近，这是前一日低点所在，如果突破这一水平，可能会进一步向下寻求更强支撑。反之，上方的1.36709区域则是近期的强阻力位，若突破该水平，则有可能向更高价位反弹。\n\n考虑到当前市场震荡整理的特征，建议交易者在接近支撑或阻力位时进行区间交易，谨慎选择入场时机，同时关注可能出现的技术信号突破，以决定更明确的交易方向。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD currency pair is showing a slight bearish bias, with the price currently at 1.36538, down by 0.02% over the last 24 hours. The pair is trading near the daily low of 1.36490, suggesting a consolidation phase. The lack of significant movement could indicate indecision in the market, with traders waiting for further confirmation before taking larger positions. This neutral behavior is also reflected in the absence of a clear trend signal, indicating that a range-bound market may prevail in the short term.\n\nThe 20-period simple moving average (SMA) at 1.36709 is acting as a subtle resistance level, with the price currently below it. If the pair fails to break above this level, it could indicate continued downward pressure toward the lower boundary of the range. Traders should watch for any moves above this SMA, which may signal a potential shift in market sentiment. Conversely, failure to reclaim the SMA could lead to further declines, particularly toward the immediate support near the 1.36490 area.\n\nRegarding technical indicators, the MACD value of -0.00048 suggests a weak bearish momentum, though the absence of the signal line leaves the full context unclear. The relative strength index (RSI) remains unavailable, but it is important to watch for any signs of oversold or overbought conditions once it becomes active. In the meantime, market participants should remain cautious, as the lack of a definitive signal leaves room for uncertainty in the price action.\n\nTraders should monitor the support at 1.36490 and resistance at 1.36709 for potential breakout opportunities. A break below support could lead to further declines toward 1.36200, while a move above resistance could prompt a retest of 1.3700. Given the current market dynamics, a cautious approach with tight risk management is recommended until clearer signals emerge."
+    }
+  }
+}

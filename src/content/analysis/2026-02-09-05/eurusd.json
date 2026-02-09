@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-02-09T05:24:16.252Z",
+  "price": {
+    "close": "1.18315",
+    "high": "1.18319",
+    "low": "1.18265",
+    "open": "1.18266",
+    "change": "0.04",
+    "datetime": "2026-02-09 16:00:00"
+  },
+  "indicators": {
+    "rsi": 64.94519,
+    "macd": 0.00039222931,
+    "macd_signal": 0.00032782767,
+    "sma20": 1.18205
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[震荡整理，需关注突破信号]",
+      "content": "目前欧元/美元(EUR/USD)呈现震荡整理走势，价格波动较小。最新价格为1.18315，24小时变动仅为0.04%。在当前区间内，市场缺乏明显的单边趋势。价格在1.18319和1.18265之间震荡，表明短期内市场情绪较为平稳，尚未形成明显的方向性突破。\n\n技术指标方面，RSI(14)数据缺失，使得相对强弱指数的分析受到限制。MACD指标显示出微弱的正值0.00039222931，暗示当前的多头力量稍显不足。SMA(20)为1.18205，价格仍在其附近波动，显示出市场可能存在一定的整理需求，需等待更多信号来判断趋势的进一步发展。\n\n支撑位位于1.18265附近，该区域对价格的下行提供了支撑；若突破此位置，可能会加剧下行压力。阻力位则集中在1.18319一线，突破后可能打开进一步上涨的空间。因此，交易者应密切关注价格的突破情况，突破后可考虑顺势操作。\n\n综合来看，目前市场处于震荡整理期，短期内建议保持观望，等待价格突破1.18319或1.18265时再决定交易策略。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD is trading at **1.18315**, holding slightly above the **20-day SMA (1.18205)** and staying pinned near the session high (**1.18319**). The tight 24-hour range (**1.18265–1.18319**) signals consolidation rather than directional conviction. Structurally, price action still leans mildly bullish as long as it remains above the 1.1820 area, but momentum is currently muted, suggesting the pair is pausing rather than accelerating.\n\nFrom an indicator perspective, the available **MACD (0.000392)** is positive, which generally supports a bullish bias, but the missing signal line limits confirmation. Even so, a positive MACD at this level typically implies underlying upside pressure remains intact. The lack of RSI data makes it harder to judge whether the market is stretched, so the cleaner read comes from price location: staying above the 20-SMA keeps short-term trend conditions constructive, while repeated failures near 1.1832 would hint at fading demand.\n\nKey support starts at **1.18265** (the current session low), followed by the **1.18205** moving average zone, which is a critical “line in the sand” for near-term bulls. A clean break below 1.1820 would expose **1.1810** and potentially **1.1800**, where buyers often defend psychologically. On the upside, immediate resistance sits at **1.18320**, then **1.1840–1.1850**, where a breakout would likely trigger follow-through buying.\n\nTrading-wise, the higher-probability approach is to respect the consolidation. **Bullish setups** favor buying dips into **1.1821–1.1827** with tight risk below **1.1818**, targeting **1.1832** first and then **1.1845** if momentum expands. **Bearish setups** become more attractive only on a decisive break and hold below **1.1820**, targeting **1.1810** and **1.1800**. Until volatility increases, smaller position sizing and quicker profit-taking fit best."
+    }
+  }
+}
