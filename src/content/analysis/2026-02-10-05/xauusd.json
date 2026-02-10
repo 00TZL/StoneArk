@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-02-10T05:29:14.678Z",
+  "price": {
+    "close": "5017.02263",
+    "high": "5034.17051",
+    "low": "5017.02263",
+    "open": "5031.63125",
+    "change": "-0.29",
+    "datetime": "2026-02-10 16:00:00"
+  },
+  "indicators": {
+    "rsi": 44.48726,
+    "macd": 0.90310723,
+    "macd_signal": 6.52496,
+    "sma20": 5043.42891
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理，短期承压]",
+      "content": "目前黄金/美元(XAU/USD)的价格为5017.02，24小时内变化幅度较小，跌幅仅为0.29%。从技术面来看，黄金价格当前处于震荡整理区间，未能突破关键的支撑或阻力位。短期内，黄金可能面临一定的压力，因而短期趋势偏向整理。\n\n在技术指标方面，MACD当前为0.9031，显示出价格动能依然较强，但未达到过买或过卖的极限。由于RSI数据缺失，短期内仍无法通过RSI来确认是否处于超买或超卖区间。SMA(20)为5043.43，提示市场可能会受到此水平的压制。\n\n支撑位方面，当前价格接近5034.17附近的低点，而突破此位置可能会进一步测试5000点的支撑区域。阻力位则位于5043.43附近的SMA水平，一旦突破此水平，价格有可能会回升至5050以上。需要密切关注这两个关键价格点。\n\n综上所述，建议短线交易者密切关注支撑和阻力位的突破情况，若价格跌破5000支撑，可考虑做空；反之，突破5043.43阻力可尝试做多。然而，由于当前市场处于整理阶段，交易者应避免激进操作，保持谨慎。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD pair is currently experiencing a slight downtrend, with the price hovering near 5017.02 after a small loss of 0.29% over the last 24 hours. The market remains within a narrow range, with a high of 5034.17 and a low of 5017.02. Despite this, the price continues to trade below the 20-period Simple Moving Average (SMA), which stands at 5043.43, indicating a bearish sentiment in the near term. The SMA serves as a dynamic resistance level, and as long as the price stays below this level, the downside pressure could persist.\n\nThe Relative Strength Index (RSI) is currently unavailable, limiting our ability to assess overbought or oversold conditions. However, the MACD, at 0.90, suggests moderate bullish momentum, though the lack of a signal line reading makes it challenging to assess crossovers and potential trend shifts. A cautious approach is recommended until further data is available on the RSI and Signal line. The absence of clear buy or sell signals from these indicators suggests that traders may need to wait for confirmation before taking action.\n\nKey support is located at the current low of 5017.02. A break below this level could open the door to further downside toward the 5000 psychological level or lower. On the upside, the SMA at 5043.43 presents immediate resistance. A sustained move above this level may indicate the potential for a rally, targeting higher resistance levels near 5050 and beyond. Traders should look for clear breakouts above 5043.43 or breakdowns below 5017.02 to confirm the next major price move.\n\nFor short-term trades, a strategy of trading within the current range, from 5017.02 to 5034.17, may be viable. If the price fails to breach the resistance at 5043.43, consider short positions with targets near the support level at 5017.02. Alternatively, a bullish breakout above 5043.43 could present a potential long entry, with stops placed below the support at 5017.02 to manage risk."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-02-10T05:26:25.700Z",
+  "price": {
+    "close": "0.70743",
+    "high": "0.70748",
+    "low": "0.70725",
+    "open": "0.70739",
+    "change": "0.01",
+    "datetime": "2026-02-10 16:00:00"
+  },
+  "indicators": {
+    "rsi": 55.69226,
+    "macd": 0.0011238466,
+    "macd_signal": 0.0015061416,
+    "sma20": 0.70778016
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，等待突破]",
+      "content": "当前，澳元/美元（AUD/USD）呈现震荡整理的走势。最新价格为0.70743，处于近期的高点与低点区间之间，波动幅度较小，24小时变化仅为0.01%。从技术面看，市场缺乏强烈的方向性，价格可能会在此区间内震荡一段时间。\n\nRSI(14)和MACD指标的缺失信息限制了我们对市场动能的进一步分析，但SMA(20)显示出价格接近20日简单移动均线，这通常意味着短期内可能会有一定的支撑。如果价格持续维持在0.70725至0.70778区间内，则这一区域可以视为短期的支撑与阻力。\n\n如果价格突破上方阻力0.70778，可能会迎来进一步的上涨，反之，若跌破0.70725支撑位，可能会迎来下行修正。基于当前的震荡模式，市场短期内可能继续盘整，等待更明确的趋势信号。\n\n建议交易者密切关注价格突破的信号。一旦价格突破关键支撑或阻力，可能会带来较大的市场波动。若您偏好短线交易，可以考虑在区间内做短期反向交易；长线投资者则需等待价格确认方向后再进入。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar (AUD) against the US Dollar (USD) is currently trading at 0.70743, reflecting a narrow 24-hour change of 0.01%. Despite this minimal fluctuation, the pair's movement suggests consolidation around the current price level, indicating a balance of buying and selling pressure. The price has been oscillating within a tight range between 0.70748 (high) and 0.70725 (low), which highlights a neutral short-term market sentiment. The trend appears to be stable, with no immediate breakout or reversal signals visible.\n\nIn terms of technical indicators, the 20-period Simple Moving Average (SMA) is positioned at 0.70778, providing a slight resistance near the current market price. Given that the price is trading slightly below the SMA, this could imply a potential bearish bias in the short term, unless a strong upward momentum is seen. The lack of RSI and a fully available MACD signal suggests that momentum analysis is inconclusive at the moment, with no clear direction from these indicators. Traders should watch for any signs of divergence or convergence in the MACD to gauge upcoming moves.\n\nSupport for the AUD/USD pair can be seen at the 0.70725 level, with the next critical resistance sitting near the SMA at 0.70778. A break below the support could signal a bearish continuation towards 0.70700, with further downside potential. On the other hand, a move above the SMA could bring the price closer to the 0.70800 region, opening up the potential for a bullish continuation. These levels should be watched closely for potential breakout or breakdown opportunities.\n\nGiven the current market environment and technical readings, it is advisable to take a cautious approach. A breakout above 0.70778 could be a good entry point for long positions, with targets toward 0.70850 and beyond. Conversely, failure to hold above the current support level of 0.70725 might lead to a retest of lower levels, potentially offering shorting opportunities. Be mindful of the overall market sentiment, as this could influence price action significantly."
+    }
+  }
+}

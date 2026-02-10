@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-02-10T05:27:47.870Z",
+  "price": {
+    "close": "0.60402",
+    "high": "0.6041",
+    "low": "0.60371",
+    "open": "0.60383",
+    "change": "0.03",
+    "datetime": "2026-02-10 16:00:00"
+  },
+  "indicators": {
+    "rsi": 50.54229,
+    "macd": 0.00050289012,
+    "macd_signal": 0.00075499553,
+    "sma20": 0.60450189
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：当前震荡整理，缺乏明确趋势",
+      "content": "目前，纽元/美元（NZD/USD）处于震荡整理状态，价格在0.6037至0.6041区间内波动。尽管价格变化幅度不大，但在当前的价位附近，市场缺乏明显的趋势动能，可能需要更多的市场消息或数据来推动方向。短期内，价格可能维持横盘整理，等待进一步的突破。\n\n从技术指标来看，MACD呈现微弱的正值，表明市场仍保持一定的上行动能，但缺乏强烈的买盘信号。由于RSI数据暂时缺失，无法进行有效的超买或超卖状态分析。SMA(20)位于0.6045附近，价格略微低于这一水平，显示出短期内的轻微下行压力，可能为短期反弹的阻力位。\n\n支撑位方面，0.6037附近可视为短期支撑，一旦价格下破该位置，可能会加速下行至0.6030或更低。阻力位则位于0.6045上方，突破该位可能打开进一步上涨空间，指向0.6050或更高。\n\n建议交易者采取观望策略，等待价格突破当前震荡区间后再进行进场。如果价格跌破支撑位，可以考虑做空；如果突破阻力位，则可以尝试做多，前提是其他指标提供进一步确认信号。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently trading at 0.60402, showing a modest 24-hour change of +0.03%. Despite this slight fluctuation, the price is hovering near recent highs, indicating some consolidation within a narrow range. The current trend is neutral-to-slightly bullish as price action is sitting just above the 20-period Simple Moving Average (SMA) of 0.6045, suggesting that there is mild upward pressure. However, the lack of significant momentum hints at an absence of strong trend confirmation at this point. Traders should monitor the pair for signs of a breakout or further consolidation.\n\nFrom an indicator perspective, the absence of an RSI reading and an incomplete MACD setup limits our ability to assess momentum and trend strength clearly. The MACD value of 0.0005 is weak, indicating minimal market volatility. Without further confirmation from these tools, traders should refrain from making aggressive positions and instead wait for more definitive signals, such as a crossover in the MACD or a clear RSI trend. In this current environment, technical indicators provide limited guidance but suggest that waiting for additional data is prudent.\n\nThe immediate support for NZD/USD is seen at the low of 0.60371, with a break below this level potentially opening up further downside to around 0.60300. On the resistance side, 0.6041 serves as an initial ceiling, and if the price manages to break above this level, it could target the next resistance near 0.6050. Given the current price action, a cautious approach is advisable, as either a bounce from support or a breakout above resistance could lead to the next move.\n\nConsidering the lack of strong indicators, a breakout strategy might be suitable. A confirmation of a price move above 0.6041 could present an opportunity for a long position, while a break below 0.6037 might trigger a short. As always, risk management is crucial, with tight stop losses to mitigate potential downside risks in this ranging market environment."
+    }
+  }
+}

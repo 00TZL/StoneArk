@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-02-10T05:28:32.392Z",
+  "price": {
+    "close": "0.76702",
+    "high": "0.76729",
+    "low": "0.76691",
+    "open": "0.76695",
+    "change": "0.01",
+    "datetime": "2026-02-10 16:00:00"
+  },
+  "indicators": {
+    "rsi": 35.27849,
+    "macd": -0.0016554099,
+    "macd_signal": -0.0018997698,
+    "sma20": 0.767625
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[震荡整理，等待突破信号]",
+      "content": "当前美元/瑞郎（USD/CHF）价格位于0.76702附近，市场呈现震荡整理的状态。从24小时价格变化来看，波动较小，仅0.01%的变化。当前价格略低于20日简单移动平均线（SMA 20）0.767625，表明短期内价格维持在一定区间内震荡整理。\n\n技术指标方面，MACD值为-0.0016554099，虽然负值表明当前趋势略偏空，但由于信号线和RSI缺乏明确数据，市场仍未出现强烈的方向性突破。RSI 14的缺失使得我们无法进一步确认超买或超卖的情况，增加了市场的不确定性。\n\n支撑位方面，当前0.76691附近可能是短期内的强支撑，若价格跌破此位，可能进一步向下测试0.76500的支撑。而阻力位则在0.76729，若价格突破这一水平，可能指向0.76800的阻力区域。\n\n建议交易者在当前区间内操作时，保持谨慎。短期内建议关注突破0.76729和0.76691的关键价格水平，一旦出现有效突破，可考虑相应的交易机会。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is showing signs of mild consolidation in a narrow range, with the price hovering just below the 0.7670 level. The market has remained relatively stable in the last 24 hours, reflecting a low volatility environment. The recent high and low of 0.76729 and 0.76691, respectively, suggest a tight trading band, indicating that traders may be waiting for a catalyst to drive the pair in either direction. With no significant trend direction at this point, the outlook is neutral.\n\nIn terms of technical indicators, the MACD is currently negative at -0.0016554099, suggesting weak bearish momentum. However, without a clear signal line to compare this to, the momentum remains somewhat indecisive. The RSI(14) is unavailable, which leaves a gap in understanding overbought or oversold conditions, but the absence of strong momentum points to a market in equilibrium. The SMA(20) at 0.76762500 is marginally above the current price, suggesting mild resistance, but it is not overly significant unless price breaks decisively either above or below this moving average.\n\nKey support and resistance levels are critical for the next potential price move. Support can be found near the low of 0.76691, which should hold unless the bearish pressure intensifies. If this level breaks, further downside could open towards 0.7660. On the upside, 0.7673 represents the nearest resistance, with a push above this level bringing the pair into closer proximity to the SMA(20). A sustained break above 0.7680 would point towards a more bullish scenario, with room to test higher levels.\n\nTraders should remain cautious in the short-term, awaiting confirmation of a breakout or a reversal. If price continues to respect the support at 0.76691, it could create a base for a potential bounce, offering a low-risk buy near this level. Conversely, a move below this support should be treated as a signal for further downside, with a target around 0.7660."
+    }
+  }
+}

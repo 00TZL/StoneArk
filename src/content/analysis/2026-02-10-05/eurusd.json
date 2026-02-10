@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-02-10T05:24:18.806Z",
+  "price": {
+    "close": "1.19104",
+    "high": "1.19106",
+    "low": "1.19059",
+    "open": "1.1908",
+    "change": "0.02",
+    "datetime": "2026-02-10 16:00:00"
+  },
+  "indicators": {
+    "rsi": 64.7394,
+    "macd": 0.0015865712,
+    "macd_signal": 0.0018811529,
+    "sma20": 1.19042
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[震荡整理，短期趋于区间震荡]",
+      "content": "当前欧元/美元（EUR/USD）的价格位于1.19104附近，显示出短期内震荡整理的趋势。价格在最近24小时的波动较小，仅有0.02%的变化，且未能突破1.19106的高点或跌破1.19059的低点，表明市场情绪处于平衡状态。结合当前的价格动作，短期内欧元/美元可能维持区间震荡，尚未显现明确的突破信号。\n\n技术指标方面，RSI（14）目前未提供数据，而MACD显示0.0016的值，表明市场的动能较弱。SMA（20）位于1.19042，表明价格略微偏向多头走势，但未能显现出强烈的上行动能。结合这些技术面因素，可以判断短期内该货币对仍将围绕1.1900-1.1915区间波动。\n\n支撑位方面，1.1900为关键支撑区，若价格跌破此位，则可能进一步测试1.1880附近的支撑。阻力位则位于1.1915和1.1930水平，若突破这些阻力，则可能迎来更大的上涨空间。投资者应关注这些价格区间的突破情况，以便制定相应的交易策略。\n\n建议方面，短期内可以考虑区间交易策略，在1.1900附近寻找买入机会，1.1915附近考虑卖出。不过，需注意若价格突破1.1930或跌破1.1880，可能会引发趋势性行情，应及时调整仓位。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair currently shows a neutral market sentiment with a slight upward movement of 0.02% in the last 24 hours, trading at 1.19104. This modest change indicates that the market is consolidating, with little directional bias in the short term. The pair has tested both 1.19106 on the high and 1.19059 on the low, which is a narrow range, suggesting indecision among market participants. If the price breaks above 1.19106, the next resistance level may be near 1.1920, signaling potential continuation. However, a move below 1.19059 could indicate further bearish pressure, with support around 1.1900 likely to provide a cushion.\n\nThe absence of a clear RSI reading leaves us with a limited indication of overbought or oversold conditions, implying that the market lacks significant momentum for now. The MACD is still positive at 0.0015865712, showing a minor bullish bias, but without a signal line, the data remains inconclusive for forecasting immediate price action. The MACD's current reading indicates that momentum is present but not strong enough to confirm a breakout in either direction. For a more confident entry, traders should wait for more definitive signals, either from the RSI or a stronger MACD cross.\n\nThe 20-period simple moving average at 1.19042 is in close proximity to the current price, acting as a dynamic support level. If the price dips to 1.19042 or below, a bounce may occur, offering a potential buy opportunity. On the other hand, if the market pushes above the SMA and sustains its position, this could signal a bullish trend, potentially reaching for the next resistance zone. As it stands, a range-bound strategy seems prudent, with cautious entries around key levels of 1.1900 and 1.1910.\n\nIn the current market structure, the EUR/USD pair is in a consolidation phase, and trading decisions should be made based on price action and key technical levels. A short-term range strategy, with attention to breaks above or below the established high and low, could offer trading opportunities. For the more cautious trader, waiting for a confirmed shift in momentum or a clear trend reversal would be ideal before committing larger positions."
+    }
+  }
+}
