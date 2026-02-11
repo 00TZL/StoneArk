@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-02-11T05:24:30.611Z",
+  "price": {
+    "close": "1.3665",
+    "high": "1.36663",
+    "low": "1.36581",
+    "open": "1.366",
+    "change": "0.04",
+    "datetime": "2026-02-11 16:00:00"
+  },
+  "indicators": {
+    "rsi": 53.95118,
+    "macd": -0.00021164426,
+    "macd_signal": -0.00031764515,
+    "sma20": 1.36583
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[震荡整理，短期多空交织]",
+      "content": "当前英镑/美元（GBP/USD）维持震荡整理的走势，价格区间处于1.3658和1.3666之间，表现出短期内多空力量的平衡。由于市场波动较小，价格持续在高低点之间波动，显示出缺乏明确的趋势指引。\n\n从技术指标来看，RSI和MACD的相关数据暂时无法提供明确的超买或超卖信号。SMA(20)指标显示出小幅的支撑作用，当前价格略微高于该水平，表明价格可能有短期反弹的潜力。尽管如此，市场仍呈现横盘整理的状态，缺乏足够的动力突破重要的支撑或阻力区。\n\n支撑位方面，1.3658附近是当前价格的支撑区域，若价格跌破该水平，可能会进一步下探至1.3650。上方阻力位则集中在1.3666附近，若突破此区域，可能会引发更大幅度的上涨。不过，由于市场处于整理阶段，突破可能性相对较低。\n\n综合来看，短期内英镑/美元可能继续维持震荡整理。对于交易者来说，可在支撑位附近寻找短期买入机会，若突破上方阻力则可适度增加多头仓位。然而，保持灵活性，避免在区间内持仓过久，尤其是市场没有明确的趋势信号时。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently trading at 1.3665, showing a modest 24-hour change of +0.04%. This slight uptick suggests a stable short-term market, but with minimal volatility. The price has remained within a tight range, reaching a high of 1.36663 and a low of 1.36581. The lack of significant movement indicates a neutral sentiment, with neither buyers nor sellers taking strong control. As the market consolidates around the 1.3665 mark, traders may wait for clearer direction before committing to larger positions.\n\nIn terms of trend analysis, the pair is displaying a sideways range-bound pattern in the short-term. The current price is just above the 20-period SMA, which stands at 1.36583, further confirming the neutral market. This suggests that while there may not be a dominant trend, the market remains balanced. Traders may look for a breakout above 1.3670 for a potential upward momentum, or a drop below the 1.3650 support level could indicate further downside potential. A breakout from either side could set the tone for the next directional move.\n\nThe RSI(14) and MACD indicators are currently not available, but the pair’s price action suggests limited momentum. With the market near equilibrium, traders should consider focusing on key support and resistance levels. The immediate support lies at 1.3650, followed by 1.3625. Resistance is seen at 1.3680, with the psychological level of 1.3700 acting as a more substantial barrier. A break above this resistance could invite stronger buying interest, while a failure to hold above support may push the pair lower.\n\nIn terms of trading strategy, traders may consider using a range-trading approach, entering near key support and resistance levels with tight stop-loss orders. A wait-and-see approach may also be prudent until there’s a clear breakout, either above 1.3680 or below 1.3650. This conservative approach will allow traders to capitalize on price swings without overexposing themselves to risk."
+    }
+  }
+}
