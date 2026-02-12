@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-02-12T05:25:38.262Z",
+  "price": {
+    "close": "0.77172",
+    "high": "0.77173",
+    "low": "0.77137",
+    "open": "0.77151",
+    "change": "0.03",
+    "datetime": "2026-02-12 16:00:00"
+  },
+  "indicators": {
+    "rsi": 63.092448,
+    "macd": 0.00090800691,
+    "macd_signal": 0.00090598028,
+    "sma20": 0.770358
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：当前处于震荡整理阶段",
+      "content": "当前美元/瑞郎（USD/CHF）价格为0.77172，显示出较为平稳的走势，24小时内变化幅度仅为0.03%。价格徘徊在0.7717附近，未能突破前期高点，表明市场情绪相对谨慎。近期走势呈现横盘整理的趋势，缺乏明确的上涨或下跌信号。\n\n从技术指标来看，MACD当前为0.000908，虽然没有明显的信号线交叉，表明当前市场缺乏强烈的买入或卖出动能。SMA（20）则位于0.77036附近，起到了支撑作用，显示出短期内价格可能维持在该水平上下震荡。\n\n对于支撑位，0.7713和0.7700是近期的重要水平，若价格跌破这些区域，可能会进一步回撤至更低价位，如0.7680。阻力位方面，0.7720附近是短期内的关键压力位，突破后有望推动价格进一步上行。若价格持续在这些区间内波动，则可能继续整理。\n\n综合来看，当前市场处于震荡状态，建议投资者采取观望态度，等待价格突破关键支撑或阻力位后再进行操作。对于有短期交易需求的投资者，可考虑在0.7700附近寻找买入机会，止损设在0.7680以下。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair currently shows a neutral to slightly bullish trend, with the price at 0.77172, maintaining stability within a tight range. The price action is near the high of the 24-hour range (0.77173), indicating some upward pressure but with limited volatility. Given the narrow range between the high and low (0.77173 / 0.77137), it suggests that market participants are uncertain, waiting for a more decisive move or news catalyst.\n\nThe SMA(20) at 0.77036 reflects the short-term price trend, offering a subtle support level in the current market structure. If the price retraces toward this level, the SMA could act as a buying opportunity, reinforcing a possible continuation of the prevailing trend. On the upside, a break above 0.77180 could indicate further bullish momentum, with the next resistance potentially forming around 0.77250. Traders should monitor for any signs of upward momentum to validate this move.\n\nThe MACD value of 0.000908 shows some positive momentum, but the absence of a signal line makes it difficult to assess the full strength of the trend. Without a crossing of the signal line, the indicator lacks sufficient confirmation for a sustained bullish breakout. Traders may want to wait for a clearer MACD signal or a confirmation of trend continuation through price action.\n\nIn the current range, consider watching for a breakout above 0.7720 for potential long entries, especially if supported by a rising MACD or further price confirmation. Alternatively, a decline towards 0.7700 or the SMA(20) could present a good entry point for those expecting the trend to hold. Strong risk management practices should be employed, as the pair's tight range suggests potential for quick reversals."
+    }
+  }
+}

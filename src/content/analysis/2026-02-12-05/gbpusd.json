@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-02-12T05:22:12.923Z",
+  "price": {
+    "close": "1.36242",
+    "high": "1.36254",
+    "low": "1.36218",
+    "open": "1.36249",
+    "change": "-0.01",
+    "datetime": "2026-02-12 16:00:00"
+  },
+  "indicators": {
+    "rsi": 40.65752,
+    "macd": -0.00095755615,
+    "macd_signal": -0.00084069317,
+    "sma20": 1.36444
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：震荡整理中，短期观望",
+      "content": "当前，英镑/美元（GBP/USD）维持在1.36242附近，呈现窄幅震荡走势。尽管最近24小时价格波动较小，仅变化了-0.01%，但市场仍在等待进一步的方向确认。价格未能突破重要的支撑或阻力，可能进入整理期。\n\n从技术指标来看，MACD显示轻微的负值（-0.00096），表明短期内卖压较为温和。SMA(20)位于1.36444，价格下方若能维持在这一水平附近，将可能形成支撑。RSI(14)暂时不可用，但根据价格走势来看，短期内缺乏明显的超买或超卖信号。\n\n支撑位方面，1.36218可能为短期的关键支撑区域，如果价格跌破此位，可能会进一步下探1.36000附近的强支撑。而在阻力方面，1.36450附近形成了一个较为明显的阻力区，若突破这一水平，可能会迎来进一步的上涨。\n\n总体来看，英镑/美元短期内可能维持震荡整理格局，建议投资者关注1.36218的支撑和1.36450的阻力。考虑到市场的震荡状态，短期交易者可采取观望策略，待价格突破关键支撑或阻力时再做进一步决策。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently showing a neutral short-term trend, trading near the 1.36242 level, with minimal price fluctuation over the last 24 hours. The lack of substantial movement suggests that market participants are adopting a wait-and-see approach, likely due to broader market conditions or upcoming economic data releases. The high and low of the day, at 1.36254 and 1.36218 respectively, reflect a very tight trading range, indicating low volatility and potential indecision in the market. \n\nIn terms of technical indicators, the lack of RSI data makes it challenging to gauge the momentum or potential overbought/oversold conditions. However, the MACD value at -0.000957 reflects a slight bearish bias, but without a clear signal line, it is difficult to determine the strength of this momentum. The Simple Moving Average (SMA) of 20 periods, located at 1.36444, serves as a potential resistance level, with prices hovering just below it. If the pair is unable to break above this SMA, it could remain capped at lower levels.\n\nKey support and resistance levels are essential to identify potential price action in the coming sessions. On the upside, the nearest resistance is likely around the 1.3645 region, where the 20-period SMA is situated. A break above this level could open the door for a move toward 1.3670 or higher. Conversely, support is seen near the 1.3620 area, with further downside potential likely near the 1.3600 mark. A break below 1.3620 could trigger further selling toward these levels.\n\nTraders should monitor any price movements that break either the 1.3620 support or the 1.3645 resistance levels for potential trade opportunities. A confirmed breakout above 1.3645 could signal bullish continuation, while a breakdown below 1.3620 would indicate further downside potential. Given the tight trading range, patience and clear confirmation of trend direction are crucial for making effective trading decisions in this environment."
+    }
+  }
+}
