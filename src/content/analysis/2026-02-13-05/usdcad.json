@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-02-13T05:21:14.193Z",
+  "price": {
+    "close": "1.36204",
+    "high": "1.36225",
+    "low": "1.36136",
+    "open": "1.36194",
+    "change": "0.01",
+    "datetime": "2026-02-13 16:00:00"
+  },
+  "indicators": {
+    "rsi": 63.72801,
+    "macd": 0.0011590762,
+    "macd_signal": 0.0011814034,
+    "sma20": 1.36042
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理中，关注短期支撑与阻力]",
+      "content": "当前美元/加元在1.36204附近震荡整理，价格波动较小，日内变动仅为0.01%。这一走势表明市场处于观望状态，短期内没有明确的趋势方向。整体而言，美元/加元目前受区间限制，价格在短期内可能继续维持这种震荡模式。\n\n从技术指标来看，MACD的值为0.0011590762，但缺乏信号线数据，无法做出明确的趋势判断。RSI未提供，无法确认市场的超买或超卖状态。20日简单移动平均线（SMA）位于1.36042，短期内价格可能围绕此水平震荡。若突破1.36225的高点，可能迎来短期上涨；若跌破1.36136的低点，则可能加速下行。\n\n支撑位目前位于1.36136，若价格跌破该位置，可能进一步测试1.36000附近的支撑区域。上行阻力位则在1.36225，突破该阻力后可能看到更高的价格。考虑到当前市场缺乏强烈趋势信号，交易者应谨慎操作，关注短期波动。\n\n建议投资者保持谨慎，适当设置止损位。可以尝试在支撑位附近寻找买入机会，在阻力位附近寻求卖出机会。保持灵活应变，根据市场走势调整交易策略。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently hovering near 1.36204, maintaining a neutral stance with a minimal 24-hour change of 0.01%. The market has been relatively range-bound, trading between the high of 1.36225 and the low of 1.36136. This range-bound behavior suggests a consolidation phase, as price action has not shown significant directional momentum. Traders should be cautious in this environment, looking for breakout signals or clearer trends before committing to larger positions.\n\nThe absence of a clear RSI or MACD signal at this time makes the technical analysis more challenging, as these indicators are commonly used to assess overbought or oversold conditions and momentum shifts. With the MACD value at 0.0011590762 but no clear signal line to compare it against, momentum remains ambiguous. The 20-period simple moving average (SMA) at 1.36042 is acting as a potential support level, indicating a mild bullish bias if the price maintains above this level.\n\nGiven the current price behavior, the market may test the support at 1.36136, where a potential reversal could occur if buyers step in. Conversely, resistance is seen around the 1.36225 level, which has capped recent upside movements. A break above this resistance level could open the door for a test of higher levels, potentially targeting 1.3650 or beyond, depending on market conditions.\n\nFor traders, a prudent approach would be to wait for a breakout above the 1.36225 resistance or a confirmation of support at 1.36136 for potential buy signals. A sustained move above 1.36225 could signal bullish momentum, while a failure to maintain the support at 1.36136 might lead to a retracement toward lower levels. Conservative stop-losses should be placed below the support for risk management."
+    }
+  }
+}

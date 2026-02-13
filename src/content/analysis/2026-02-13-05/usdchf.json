@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-02-13T05:23:05.361Z",
+  "price": {
+    "close": "0.77034",
+    "high": "0.7705",
+    "low": "0.77005",
+    "open": "0.77012",
+    "change": "0.03",
+    "datetime": "2026-02-13 16:00:00"
+  },
+  "indicators": {
+    "rsi": 56.13665,
+    "macd": 0.00011699304,
+    "macd_signal": 0.000015602361,
+    "sma20": 0.7692445
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：震荡整理，短期偏强",
+      "content": "当前，美元/瑞郎价格位于0.77034，短期内波动较小。价格在0.77005和0.7705之间波动，显示出市场处于震荡整理状态。没有明显的单边趋势，可能需要关注后续的突破。\n\n从技术指标来看，RSI(14)未提供数据，但根据价格的波动性，短期内未出现超买或超卖的迹象。MACD指标目前显示微弱的正值，表明短期内买方占据主导地位，但尚未强烈确认多头趋势。SMA(20)在0.7692445附近，也未显示明显的趋势变化，进一步验证了震荡整理的格局。\n\n支撑位方面，0.77005是近期的低点，形成了较为坚实的支撑。而上方0.7705为近期高点，构成阻力区域。如果价格突破0.7705，可能会触发进一步上涨的动能，反之，跌破0.77005可能导致进一步回调。\n\n建议在当前价格区间内操作，适合短线交易者关注0.77005和0.7705的突破情况。若价格突破上行，则可以考虑轻仓做多；若下行，则可关注更低支撑位。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently trading at 0.77034, showing a minor 24-hour change of 0.03%. The price remains within a narrow range, oscillating between 0.7705 and 0.77005, indicating low volatility in the market. The pair appears to be in a consolidation phase after a series of subtle price fluctuations. Without a clear directional trend, it is important to focus on key support and resistance levels for potential breakout opportunities. \n\nThe lack of RSI and Signal data makes it difficult to assess momentum in the current market. However, with a MACD value of 0.00011699304, there is a slight bullish bias in the short term, though the absence of significant divergence signals caution. The 20-period SMA at 0.7692445 suggests that the market is currently hovering around this moving average, reinforcing the view of a neutral stance. This indicates that the price might continue consolidating within this narrow range unless there's a catalyst for a breakout.\n\nFor traders, key support is identified at 0.77005, a level where the pair has bounced back in the short term. If the price fails to hold at this level, further downside could be expected towards 0.7690 or lower. On the upside, resistance is evident at 0.7705, and a breach above this could signal a continuation of the upward momentum, though the lack of substantial bullish momentum suggests it might not sustain for long. Watching for any clear breakouts or shifts in momentum would be crucial in taking a trading position.\n\nIn the current market context, the strategy should focus on range trading. Buy near support at 0.77005 and sell near resistance at 0.7705 could offer manageable risk-to-reward setups. However, if the pair breaches these levels, it would warrant reevaluation of the strategy. Monitoring MACD and any future RSI updates could provide further confirmation of a shift in trend."
+    }
+  }
+}

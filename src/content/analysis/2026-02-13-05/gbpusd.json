@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-02-13T05:18:36.378Z",
+  "price": {
+    "close": "1.36106",
+    "high": "1.36144",
+    "low": "1.36094",
+    "open": "1.36115",
+    "change": "-0.01",
+    "datetime": "2026-02-13 16:00:00"
+  },
+  "indicators": {
+    "rsi": 40.3362,
+    "macd": -0.00074659446,
+    "macd_signal": -0.00063919866,
+    "sma20": 1.36278
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：短线震荡偏弱格局延续",
+      "content": "当前价格报1.36106，24小时波动极窄，高低点区间压缩至1.36144与1.36094之间，显示市场动能明显放缓。日内跌幅仅-0.01%，多空力量暂处均衡，但整体运行节奏偏向弱势整理，短线呈现震荡偏空结构。  \n\n从均线系统看，价格位于SMA(20)1.36278下方，说明短期均线对汇价形成压制，趋势重心略向下倾斜。MACD处于零轴下方且为负值，动能柱偏弱，虽无明显放量下行，但空头动能仍占主导，反弹力度受限。  \n\n关键支撑关注1.36090一线，若有效跌破，或进一步测试1.35800区域。上方阻力在1.36280及1.36500附近，需放量突破方能扭转弱势格局。区间压缩预示后续或迎来方向选择。  \n\n操作上宜保持谨慎，短线可在1.36280下方逢高偏空布局，止损置于1.36500上方；若跌破1.36090可顺势跟进。中线投资者建议等待趋势明朗，再行分批建仓，控制仓位风险。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently trading at 1.36106, showing a marginal decline of 0.01% over the last 24 hours. The price is hovering just above the recent low of 1.36094, suggesting a slight bearish sentiment in the short term. Despite this, the market remains fairly balanced with no significant volatility. With the current price trading below the 20-period SMA of 1.36278, the trend appears slightly bearish, but there is no major downtrend forming yet. Traders should watch for any break below 1.3600 for potential further downside.\n\nThe RSI (14) is not available for analysis, limiting insights into market momentum. However, the MACD shows a small negative value at -0.00074659446, indicating weak bearish pressure in the short term. A close look at the MACD can give insight into whether this slight downside momentum is sustainable or a temporary fluctuation. As the MACD is still near zero, it suggests indecision in the market, leaving the door open for either a minor recovery or continued consolidation.\n\nSupport levels are found near 1.3600, where the market has recently bounced. A break below this could see further support around 1.3580. Resistance, on the other hand, is at 1.3630, with the 20-period SMA acting as a nearby barrier. A strong push above this resistance level may signal a potential short-term recovery back toward 1.3650 or even higher. The broader trend remains neutral, with the market showing little directional conviction at present.\n\nGiven the lack of significant trend momentum and the neutral indicators, the best strategy would be to wait for confirmation of either a breakout above 1.3630 or a drop below 1.3600. A break above would be a signal for bullish targets, while a drop could lead to a short-term bearish play. Patience is key in such a market environment with limited volatility."
+    }
+  }
+}

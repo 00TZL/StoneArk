@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-02-13T05:24:07.079Z",
+  "price": {
+    "close": "4978.4949",
+    "high": "4981.10405",
+    "low": "4969.56386",
+    "open": "4975.53194",
+    "change": "0.06",
+    "datetime": "2026-02-13 16:00:00"
+  },
+  "indicators": {
+    "rsi": 46.02902,
+    "macd": -21.011154,
+    "macd_signal": -26.71664,
+    "sma20": 4983.05827
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：震荡整理中待突破",
+      "content": "当前，黄金/美元（XAU/USD）价格保持在4978附近，短期内呈现震荡整理格局。日内价格波动较小，最高触及4981.1，最低跌至4969.56，显示出市场尚未找到明确的方向。基于当前价格，黄金面临较强的横盘整理压力，尚未形成明显的上涨或下跌趋势。\n\n技术指标方面，RSI（14）缺失使得我们无法从超买或超卖角度评估市场的买卖强度。而MACD呈现负值（-21.01），显示出卖方力量较强，短期内可能继续维持弱势走势。SMA(20)保持在4983.06一线，提供了短期内的一个参考阻力位，当前价格依然低于此水平，未能突破。\n\n支撑位方面，4969.56的低点为近期的关键支撑，若跌破此位置，黄金可能会进一步下探至4950附近。而在阻力方面，4983一带的SMA(20)为重要的压制区，若突破该位，可能会重新测试5000关口的上方区域。\n\n建议交易者关注4969.56的支撑和4983的阻力，若价格突破4983，则可考虑追多；若下破4969.56，则短期内看空，谨慎操作。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD pair is currently in a consolidation phase, trading near the recent high of 4981.10405. With a modest 24-hour change of 0.06%, the market appears to be lacking strong directional momentum. The price is hovering just below the 20-period SMA of 4983.058270, indicating that short-term market sentiment may be slightly bearish. However, the proximity to the upper boundary of the range suggests that a breakout to the upside could be a possibility if bullish momentum emerges. \n\nThe MACD value of -21.011154 indicates bearish pressure in the market, with the lack of a signal line preventing further clarity on potential reversals. A negative MACD suggests that the market remains under the influence of sellers, but no clear trend has been established yet. Given the absence of a reliable RSI reading, traders may need to rely more on price action to confirm any shift in market sentiment. Caution is recommended for new entries until a clear direction emerges.\n\nFrom a support/resistance perspective, the key level to watch is the recent low of 4969.56386, which offers support in the near term. A break below this level could signal a deeper correction, with potential targets around 4950. On the upside, the resistance near 4981.10405 remains a critical level. A breakout above this could lead to further gains toward the 5000 psychological level, signaling a shift in sentiment towards bullishness.\n\nTraders may consider waiting for a confirmation of a breakout or a rebound from support before entering trades. With the current market conditions, a cautious approach is advisable, with possible buy positions above 4981.10405 and sell positions below 4969.56386. Patience and attention to key levels will be crucial in navigating this range-bound market."
+    }
+  }
+}
