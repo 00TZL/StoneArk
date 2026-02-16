@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-02-16T05:23:03.308Z",
+  "price": {
+    "close": "1.18622",
+    "high": "1.18641",
+    "low": "1.18608",
+    "open": "1.18626",
+    "change": "-0.00",
+    "datetime": "2026-02-16 16:00:00"
+  },
+  "indicators": {
+    "rsi": 42.080013,
+    "macd": -0.000099954942,
+    "macd_signal": -0.0000031884018,
+    "sma20": 1.18683
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[震荡整理，缺乏明显方向]",
+      "content": "当前，欧元/美元在1.18622附近震荡整理，价格未出现显著波动，全天变化幅度微乎其微。市场缺乏强烈的方向性，可能受到市场情绪的影响。价格在1.18608和1.18641区间波动，未能突破关键价位。\n\n技术面上，短期均线（SMA 20）目前在1.18683，价格略低于该水平，显示出一定的下行压力。虽然RSI和MACD数据未完全呈现出明确的信号，但目前的价格动作暗示市场可能保持震荡整理。若RSI数据更新，可能进一步确认当前的市场动能。\n\n支撑位位于1.18608附近，若价格突破此点位，可能会测试更低水平的支撑。阻力位则位于1.18641附近，若突破此阻力，可能带来短期反弹行情。当前价格维持在这些区间内，市场尚未显示出突破性趋势。\n\n基于目前的技术面，建议保持观望，避免追高或追低。在区间内操作可以考虑短线交易，严格设置止损止盈，避免波动过大带来的风险。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently trading at 1.18622, showing a minimal change of -0.00% over the past 24 hours, indicating a period of consolidation. The market appears to be range-bound with the price oscillating between a high of 1.18641 and a low of 1.18608. Given the lack of significant price movement, this suggests that the pair is currently in a neutral phase, where neither bulls nor bears have clear dominance. A close look at the recent price action may indicate the potential for a breakout, either to the upside or downside, depending on the next catalyst.\n\nThe absence of an RSI value makes it difficult to assess the immediate overbought or oversold conditions. However, with the current price near the 20-period simple moving average (SMA) of 1.18683, it suggests the market is not far from equilibrium. If the price holds above this level, it may indicate a potential for a bullish breakout, while a drop below it could signal a bearish continuation. The MACD is currently in negative territory at -0.0001, which reflects a slight bearish bias, although the absence of a signal line prevents a more thorough analysis of momentum shifts.\n\nKey support for the EUR/USD is found around the 1.18608 low, with a break below this level opening up further downside potential towards 1.18450. On the upside, the 1.18641 high marks an immediate resistance, with a breakthrough above this level likely to target the next resistance at 1.18800. Traders may want to watch for a decisive break either above or below these levels for better clarity on future price direction. At the moment, the market remains within tight ranges, awaiting a catalyst to drive price action.\n\nGiven the current technical environment, traders may consider taking a wait-and-see approach until a clear breakout occurs. A move above 1.18641 could signal an opportunity to enter long positions, while a breakdown below 1.18608 might prompt short entries. Managing risk with stop-loss orders around these key levels can help protect positions against unexpected price moves. A strong catalyst or change in momentum indicators would be essential for confirming the next significant trend."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-02-16T05:25:08.639Z",
+  "price": {
+    "close": "0.7085",
+    "high": "0.70869",
+    "low": "0.70839",
+    "open": "0.70866",
+    "change": "-0.02",
+    "datetime": "2026-02-16 16:00:00"
+  },
+  "indicators": {
+    "rsi": 64.10924,
+    "macd": 0.00029872507,
+    "macd_signal": 0.00010677309,
+    "sma20": 0.707439
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短线震荡偏强运行",
+      "content": "当前汇价报0.7085，日内波动区间极窄，显示市场处于整理格局。价格运行在20日均线0.7074上方，短线多头仍占据主动，但动能释放有限，整体呈现震荡偏强走势，尚未形成明确突破结构。\n\n从技术指标看，MACD位于零轴上方且柱值为正，表明多头动能仍在，但数值较小，暗示上涨力度偏弱。RSI暂无数据，无法确认超买超卖状态，因此趋势延续性仍需价格进一步验证。\n\n结构上，下方初步支撑位于0.7074均线附近，若跌破则关注0.7060一线；上方阻力关注0.7095至0.7100整数关口，一旦有效突破，将打开进一步上行空间，目标或指向0.7130区域。\n\n操作上建议以区间交易为主，回踩支撑轻仓试多，止损设置在0.7060下方；若上破0.7100并放量，可顺势跟进多单。短线不宜追高，注意控制仓位与风险。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently in a narrow range, with the latest price at 0.7085. The market has shown minimal volatility with a 24-hour change of just -0.02%, highlighting a period of consolidation. The pair has traded between a high of 0.70869 and a low of 0.70839, indicating tight price action. Given this limited movement, the short-term trend appears neutral, but traders should watch for a breakout or breakdown beyond this range to establish the next directional move.\n\nThe lack of available RSI and Signal data makes the analysis of momentum challenging. However, the MACD value of 0.0003 suggests there is some bullish pressure in the market. Although the value is quite small, it implies a mild upward bias. If the MACD begins to gain strength or the RSI data becomes available and shows overbought or oversold conditions, it could give clearer insight into potential trend reversals. The pair's price is currently slightly above the 20-period SMA, a sign of bullish short-term momentum, though the small gap doesn't indicate a strong trend.\n\nSupport is found at the low of 0.70839, which has held the pair from further declines. A break below this level would open the way for the 0.7074 zone, marked by the SMA(20). Resistance lies just above at the recent high of 0.70869, with further resistance expected near the 0.7090 level. A sustained move above this resistance could trigger additional buying pressure, while a break below support could signal a bearish shift.\n\nFor traders, the ideal approach would be to await a breakout either above 0.7087 or below 0.7084 to establish a clearer trend direction. In the absence of such a breakout, it may be wise to adopt a range-bound trading strategy, buying near support and selling near resistance. Tight stops are recommended due to the current lack of volatility and directional clarity."
+    }
+  }
+}

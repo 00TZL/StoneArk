@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-02-16T05:27:52.426Z",
+  "price": {
+    "close": "4987.60359",
+    "high": "4987.60359",
+    "low": "4968.76904",
+    "open": "4976.64217",
+    "change": "0.22",
+    "datetime": "2026-02-16 16:00:00"
+  },
+  "indicators": {
+    "rsi": 26.7117,
+    "macd": -13.13222,
+    "macd_signal": -6.43984,
+    "sma20": 5028.66991
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：当前趋势偏弱，市场震荡整理",
+      "content": "当前黄金/美元(XAU/USD)的价格为4987.60，较昨日变化不大，呈现出0.22%的微幅波动。从整体走势来看，黄金价格处于震荡整理阶段，未能突破前期的强阻力位5028.67，市场情绪略显谨慎，短期内可能维持区间波动。\n\n技术面上，MACD指标显示为负值，且未出现明确的反弹信号，这表明短期内黄金仍可能承压。尽管RSI未提供数据，但结合现有的价格走势，可能意味着市场缺乏强烈的买入或卖出动能。SMA(20)位于5028.67附近，若价格突破该均线，则可能引发进一步的反弹。\n\n支撑位位于4968.77附近，若价格下行并跌破此处支撑，可能会进一步测试更低价位。若黄金价格能够突破5028.67的阻力位，可能会迎来更大幅度的上行。考虑到当前的市场震荡，建议保持观望，等待价格突破关键支撑或阻力位后再做进一步操作。\n\n总结来说，黄金/美元当前处于弱势整理阶段，建议投资者密切关注关键技术水平，保持灵活应对，避免在震荡市场中贸然交易。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD pair is currently experiencing a slight upward movement, with a 24-hour change of 0.22%. The price is trading just below its recent high of 5028.66991, suggesting a short-term resistance at that level. With the current price at 4987.60359, this represents a potential consolidation phase, as the market seems to be oscillating within a narrow range. The price could face challenges breaking the 5028.66991 resistance without further momentum.\n\nIndicator-wise, the MACD shows a negative value at -13.13222, indicating a potential bearish pressure in the short term. However, since no signal line is provided, it's difficult to assess the full strength of this momentum shift. The absence of RSI data further complicates the analysis, as this indicator typically helps gauge overbought or oversold conditions. Without these key indicators, the overall sentiment remains neutral with a slight bearish bias.\n\nIn terms of support levels, the low of 4968.76904 is currently providing a base for the price. If this support holds, we could see the market potentially reverse and retest higher levels. However, if the price breaks below this level, it may indicate further downside risk, possibly targeting the next support area, which remains undefined but likely below 4950. Traders should watch for a breakout or breakdown near these levels to gauge the next move.\n\nConsidering the current market conditions, traders might want to adopt a cautious approach. If the price approaches the resistance near 5028.66991, short opportunities could arise, especially if the price fails to break through. Conversely, a solid break of 4968.76904 could present a selling signal. Overall, range-bound trading with a wait-and-see approach could be prudent for now."
+    }
+  }
+}
