@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-02-17T05:18:11.178Z",
+  "price": {
+    "close": "1.18384",
+    "high": "1.18423",
+    "low": "1.18383",
+    "open": "1.18416",
+    "change": "-0.03",
+    "datetime": "2026-02-17 16:00:00"
+  },
+  "indicators": {
+    "rsi": 25.14533,
+    "macd": -0.00059312522,
+    "macd_signal": -0.00050062398,
+    "sma20": 1.18506
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：短期震荡整理",
+      "content": "目前欧元/美元价格在1.18384附近，显示出短期震荡整理的趋势。价格未能突破近期高点，且波动幅度较小，反映出市场缺乏强烈的方向性动能。若当前区间持续，市场可能会在1.18380至1.18500之间波动。\n\n从技术指标来看，MACD值为负，表明当前市场处于弱势，但由于缺乏信号线数据，无法做出更明确的趋势判断。RSI未提供足够数据，因此无法进一步确认超买或超卖的情况。SMA(20)在1.18506，若价格突破此位置，有可能带动进一步上涨。\n\n支撑位方面，1.18380附近对欧元/美元构成较强支撑，若跌破此位，可能会进一步回调至1.18300。阻力位则在1.18500附近，一旦突破该水平，可能会进一步上行至1.18700。考虑到市场整理，建议投资者保持谨慎，等待突破信号再进行操作。\n\n综合来看，当前建议投资者关注价格在1.18380至1.18500区间的波动，切勿在震荡期间进行大幅度操作。适合短线交易者以区间操作为主。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently trading at 1.18384, showing a slight decrease of -0.03% over the past 24 hours. The price movement has been largely range-bound, oscillating between a high of 1.18423 and a low of 1.18383, indicating limited volatility in recent trading. This suggests a consolidation phase where the market is awaiting further directional signals. Given the lack of significant price action, traders should monitor for any breakout above 1.18506 or below 1.18383 to gauge the next potential move.\n\nThe lack of the RSI and MACD signal makes it challenging to derive clear momentum insights at the moment. However, the negative MACD value of -0.00059312522 suggests a mild bearish bias, indicating that the sellers are slightly in control, but the lack of confirmation from other indicators prevents a strong bearish outlook. The price being near the SMA(20) at 1.18506 further reinforces the range-bound environment. If price fails to break above this level, it may continue to retest the support area near 1.18383.\n\nSupport for the EUR/USD is identified at 1.18383, where price has recently found stability. A break below this level could trigger further downside movement towards lower levels, such as 1.1830 or 1.1820. On the resistance side, 1.18506 holds significant importance as the SMA(20) acts as a dynamic resistance level. If the pair can break and sustain above this level, it may challenge higher resistance zones, potentially approaching 1.1870 or 1.1900.\n\nIn the current market conditions, traders might look for short opportunities near 1.18506 if the price fails to maintain above this resistance. Conversely, long positions may become viable on a confirmed breakout above 1.18506, provided there is increased momentum. Risk management is key in this consolidating environment, where tight stop-loss levels are recommended given the ongoing uncertainty."
+    }
+  }
+}

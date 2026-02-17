@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-02-17T05:23:11.955Z",
+  "price": {
+    "close": "4900.83621",
+    "high": "4953.34384",
+    "low": "4897.52004",
+    "open": "4953.04041",
+    "change": "-1.05",
+    "datetime": "2026-02-17 16:00:00"
+  },
+  "indicators": {
+    "rsi": 23.82749,
+    "macd": -19.55908,
+    "macd_signal": -13.88159,
+    "sma20": 4979.12797
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：震荡下行，关注关键支撑位",
+      "content": "当前黄金/美元(XAU/USD)价格位于4900附近，呈现出震荡下行的趋势。价格已突破短期支撑，未能恢复至20日简单移动平均(SMA)4979.13上方，暗示短期内可能继续承压。当前的价格区间波动较小，市场情绪较为谨慎。\n\n从技术指标来看，MACD为负值(-19.55908)，但未出现明显的反转信号。由于缺乏RSI数据，无法全面评估超买或超卖状态。然而，价格未能突破上行阻力，显示出市场的空头力量较强。若短期内价格突破当前低点4897.52，可能进一步下行。\n\n关键支撑位在4897.52附近，一旦跌破，可能进一步挑战更低的水平。反之，若价格回升至4979.13上方，则有望再次测试4953.34的阻力。短期内，市场情绪可能继续维持震荡模式，投资者需关注这些关键技术水平的突破。\n\n建议短期交易者采取观望策略，尤其是在突破关键支撑或阻力前。若突破下行支撑位，空头信号可能加强；若价格反弹至SMA(20)附近，则可考虑适度做多，但需设定合适的止损点位。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current market data for XAU/USD shows a slight bearish trend, with a 24-hour change of -1.05%. The price is hovering near the low of the day, indicating selling pressure. The latest price at 4900.83621 is approaching the support level around 4897.52004. If this level holds, there is potential for a short-term rebound towards the recent high of 4953.34384. However, the market's movement largely depends on how the price reacts to this support zone in the coming hours.\n\nThe absence of RSI data limits the insight into overbought or oversold conditions, but the MACD value of -19.55908 signals a bearish momentum. This suggests that the market may continue to experience downward pressure in the short term, especially if the MACD line remains negative. Traders should watch for any signs of divergence or crossovers that may indicate a shift in momentum. A sustained move below the current price could lead to further declines, with potential targets near the next support level.\n\nThe 20-period SMA at 4979.12797 provides a dynamic resistance level. With the price trading below this average, it reinforces the bearish sentiment, and a breakout above this level could signal a shift toward more neutral or bullish conditions. Traders should be cautious of any rally that fails to break the SMA, as it may be a false breakout, leading to a potential sell-off. Conversely, a decisive break above the SMA could open up more upside potential.\n\nGiven the current market context, a cautious approach is advisable. A break below 4897.52004 could provide a short opportunity targeting the next support. Alternatively, a rebound from this level could offer a buying opportunity towards the SMA. However, any move above 4979.12797 would suggest potential for further bullish action, warranting a reevaluation of the market's trend."
+    }
+  }
+}
