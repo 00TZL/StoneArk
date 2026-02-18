@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-02-18T05:22:18.904Z",
+  "price": {
+    "close": "1.36523",
+    "high": "1.36528",
+    "low": "1.36509",
+    "open": "1.36522",
+    "change": "0.00",
+    "datetime": "2026-02-18 16:00:00"
+  },
+  "indicators": {
+    "rsi": 56.49586,
+    "macd": 0.00019574152,
+    "macd_signal": 0.00020163664,
+    "sma20": 1.36498
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理区间，短期偏向下行]",
+      "content": "当前美元/加元在1.36523附近震荡整理，未出现显著的上涨或下跌趋势。价格在过去24小时内几乎没有变化，高低波动范围极为狭窄，表明市场处于短期的整理状态。技术面上，短期内价格可能继续维持区间震荡，未见明显突破信号。\n\n从技术指标来看，MACD值为0.00019574152，尽管数值很小，但仍显示出微弱的多头动能。当前没有RSI数据，无法进一步分析超买或超卖情况。SMA(20)位于1.36498附近，价格接近该均线，表明市场可能会在此附近找到一定支撑。\n\n支撑位方面，1.36509和1.36498区间是短期的关键支撑区域。如果价格突破这些支撑，可能会进一步测试下方的1.3600水平。阻力位则在1.36528附近，一旦价格突破此水平，有可能会回升至1.3700附近。\n\n综合来看，若价格继续维持在1.3650附近震荡，可以考虑区间操作，做空下方支撑、做多上方阻力。然而，若突破支撑或阻力，可能会引发更大的波动，建议保持警惕，避免盲目追单。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently in a tight range, with the latest price at 1.36523, showing no significant movement over the last 24 hours. Given the narrow range between the high of 1.36528 and low of 1.36509, the pair is consolidating in a near-neutral zone. The price is hovering just above the 20-period simple moving average (SMA) of 1.36498, indicating a mild bullish bias in the short term. However, without clear momentum indicators, the trend remains unclear.\n\nThe MACD value of 0.00019574152 suggests some potential upward momentum, though it’s too weak to confirm any strong directional movement. The absence of an RSI reading means we lack insight into whether the pair is overbought or oversold, making it difficult to gauge the market's strength. Traders should watch for a breakout or breakdown from this range for clearer direction. Until then, the market remains neutral with little indication of a strong push in either direction.\n\nKey support lies at the 1.36509 level, with potential for further decline if broken, which could open the door for a move towards the next support around 1.36350. On the resistance side, 1.36528 marks a critical point, with a break above potentially leading to a test of 1.36700. Given the current consolidation phase, any significant moves beyond these levels would warrant further monitoring for a breakout confirmation.\n\nFor traders, the lack of clear momentum and signals suggests a more cautious approach. Trading within the range between 1.36509 and 1.36528 could offer scalping opportunities, but larger positions may be better placed after a decisive breakout above or below these boundaries. A close above resistance or below support could set the stage for more defined trends in either direction."
+    }
+  }
+}

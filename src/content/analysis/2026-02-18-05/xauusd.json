@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-02-18T05:24:25.603Z",
+  "price": {
+    "close": "4934.3971",
+    "high": "4939.58027",
+    "low": "4930.5465",
+    "open": "4934.04372",
+    "change": "0.01",
+    "datetime": "2026-02-18 16:00:00"
+  },
+  "indicators": {
+    "rsi": 56.97544,
+    "macd": -6.61299,
+    "macd_signal": -16.98138,
+    "sma20": 4893.0083325
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[短期震荡整理，待突破关键价位]",
+      "content": "当前XAU/USD的价格走势呈现震荡整理状态，最近交易区间在4939.58027和4930.5465之间波动，波幅较小。价格处于20日简单移动平均线（SMA 20）之上，表明短期内市场情绪较为积极，虽然未出现明显上涨趋势，但整体趋势偏向上涨。\n\n在技术指标方面，MACD指标显示负值（-6.61299），但未提供足够的信号线数据，因此无法清晰地判断出强烈的买入或卖出信号。此外，RSI（14）目前缺乏数据，因此无法全面评估超买或超卖的风险。SMA 20显示价格稳定在其上方，可能支撑当前的价格区间。\n\n支撑位方面，4930附近为近期低点，是一个较为重要的支撑区域。如果价格突破此水平，可能会触发进一步的下行。上方的阻力位在4939附近，如果突破该水平，可能会迎来更多的买盘，进一步推动价格上涨。\n\n基于目前的市场情形，建议投资者保持观望，等待价格突破关键的支撑或阻力位。如果突破下行支撑，可能考虑卖出；若突破上行阻力，建议寻找适当时机做多。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current price of XAU/USD is showing a minor change, with the price hovering around 4934.3971, up by just 0.01% over the past 24 hours. This flat movement suggests a market indecision with little volatility, keeping the price near the daily high of 4939.58027. Traders should remain cautious, as the price hasn’t yet broken any significant barriers, keeping the overall trend neutral for now. A breakout above 4940 could signal a potential uptrend, while a drop below 4930 might lead to further downside testing.\n\nThe 20-period simple moving average (SMA) is currently at 4893.008, offering dynamic support for the market. As the price is above this SMA, it reflects a positive short-term bias. However, the absence of RSI and signal data makes it difficult to gauge overbought or oversold conditions. Traders should pay attention to any new indicators or shifts in the price action that might provide clearer direction. A failure to hold above the SMA could result in testing lower support zones.\n\nThe MACD currently stands at -6.61299, which indicates bearish momentum. The lack of a signal line in the data, however, makes it difficult to make precise interpretations. While the negative value points to a current downtrend, without further confirmation from other indicators or price action, it remains uncertain whether this will evolve into a sustained sell-off or reverse quickly. A closer look at the market structure around the 4930 low and 4940 high will be crucial for confirming any further direction.\n\nFrom a trading perspective, waiting for a clearer trend confirmation seems prudent. A break above 4940 could offer a buying opportunity targeting 4955 or even 4970, while a breakdown below 4930 may present a short opportunity with support levels around 4915 and 4900. Monitoring volume and additional momentum indicators, once available, will be key to validating these potential moves."
+    }
+  }
+}

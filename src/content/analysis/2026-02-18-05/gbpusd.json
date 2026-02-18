@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-02-18T05:20:17.690Z",
+  "price": {
+    "close": "1.35571",
+    "high": "1.35572",
+    "low": "1.35538",
+    "open": "1.3554",
+    "change": "0.02",
+    "datetime": "2026-02-18 16:00:00"
+  },
+  "indicators": {
+    "rsi": 42.93465,
+    "macd": -0.0010409153,
+    "macd_signal": -0.0013421502,
+    "sma20": 1.35534
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[震荡整理，突破待确认]",
+      "content": "当前英镑/美元（GBP/USD）维持在1.35571附近，价格波动较小，24小时变化仅为0.02%。该货币对在近期显现震荡整理走势，未能形成明显的上升或下降趋势。此状态表明市场情绪较为谨慎，投资者需要关注未来的突破信号。\n\n从技术指标来看，MACD目前处于负值（-0.00104），表明短期内卖盘略占优势，但由于信号线（Signal）尚未给出明确指引，市场方向仍不明确。SMA(20)位于1.35534，显示价格在此水平附近整理，短期内维持在该水平附近波动。\n\n支撑位方面，1.35538为当前的低点，如果价格下破该点位，可能会进一步测试更低区域的支撑。阻力位则位于1.35572附近，一旦突破此位置，可能会迎来上行机会，短期内考验1.36的强阻力。\n\n建议交易者采取观望策略，等待突破的信号再做决定。如果价格突破上方阻力，可考虑做多，反之则可等待价格回调至支撑位附近，再考虑进场操作。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD currency pair is currently exhibiting a relatively neutral market posture with the latest price hovering at 1.35571. The price movement over the past 24 hours has been marginally positive, showing a slight uptick of 0.02%. This hints at a lack of significant volatility, possibly due to a wait-and-see approach from market participants ahead of any major news or data releases. The pair is consolidating between a tight range, with the high and low within a 4-pip window (1.35572 to 1.35538), indicating limited directional momentum.\n\nIn terms of trend analysis, the market is showing signs of being range-bound in the short term. The latest price action suggests that the pair is finding support at the SMA(20) level of 1.35534, which could act as a floor if the price moves lower. As of now, there isn't a strong indication of a trend reversal, as the MACD is still negative (-0.0010409153), signaling some bearish pressure. However, the lack of clear signal data for both the MACD and RSI leaves the market in a wait-and-watch mode, without any definitive bias.\n\nSupport and resistance levels are key to understanding the next potential move. Immediate support is found at 1.35534, which coincides with the SMA(20) and has provided a bounce in recent price action. On the upside, resistance appears to be near the recent high of 1.35572. If the pair pushes through this level, we could see a slight bullish momentum, with targets towards 1.35600. However, a failure to break above 1.35572 may lead to a retest of the support zone at 1.35534, or even a break lower toward 1.35500.\n\nGiven the current market conditions, traders might want to adopt a cautious stance. A short-term trading strategy could involve buying near the 1.35534 support level and targeting the 1.35572 resistance for modest profits. Conversely, if the price fails to break higher, a short position near 1.35572 could offer a potential move toward the 1.35534 support level. Risk management will be crucial, given the relatively tight trading range."
+    }
+  }
+}
