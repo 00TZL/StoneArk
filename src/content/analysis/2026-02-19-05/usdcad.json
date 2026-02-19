@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-02-19T05:21:12.866Z",
+  "price": {
+    "close": "1.3704",
+    "high": "1.37046",
+    "low": "1.37025",
+    "open": "1.37026",
+    "change": "0.01",
+    "datetime": "2026-02-19 16:00:00"
+  },
+  "indicators": {
+    "rsi": 69.4565,
+    "macd": 0.0012110911,
+    "macd_signal": 0.0011549211,
+    "sma20": 1.3683
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理，短期看涨]",
+      "content": "当前美元/加元(USD/CAD)在1.3704附近波动，显示出震荡整理的市场态势。价格接近20日简单移动平均线(SMA 20)的1.36830，说明短期内市场尚未呈现明确的趋势。高低点区间较为狭窄，反映出市场缺乏强烈的方向性信号。\n\n技术指标方面，虽然当前RSI(14)和MACD指标尚未完全提供足够的信号，但MACD值为0.001211，显示出市场的轻微上涨动能。这可能表明，短期内存在一定的上涨机会，尤其是在价格突破1.3705时，可能进一步测试上方的阻力位。\n\n支撑位方面，1.3680附近的SMA(20)提供了强支撑，而上方的阻力位则位于1.3715附近。如果价格突破该阻力，可能会进一步上涨至1.3750区域。然而，若跌破1.3680支撑，则可能会回调至1.3650附近，需警惕风险。\n\n总体来说，建议在突破1.3715时考虑逢低做多，但需密切关注支撑位的守稳情况。同时，由于市场震荡较大，交易时保持适当的止损策略以规避意外风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD market currently presents a neutral short-term outlook. The price is hovering just above the 20-period Simple Moving Average (SMA) at 1.36830, suggesting a mild bullish sentiment. The price's recent movement between the high of 1.37046 and low of 1.37025 indicates a lack of strong directional momentum, with minimal volatility. This could indicate a consolidation phase, where price action is likely to remain within a tight range until further market catalysts emerge. \n\nWithout the Relative Strength Index (RSI) and a Signal for the MACD, interpreting the current market momentum is limited. However, the MACD value of 0.0012 suggests a slight bullish bias, although the absence of a complete signal or confirmation diminishes the reliability of this signal in guiding longer-term moves. Traders should be cautious about entering positions without more definitive trends from these indicators.\n\nThe immediate support level appears to be near 1.3680, corresponding closely with the SMA(20). A break below this level could signal further downside risk toward the 1.3650 region, where additional support is likely to emerge. On the resistance side, the high of 1.37046 represents the key hurdle. If price breaks above this level, it could indicate a continuation of the uptrend, with potential targets around 1.3730 or higher.\n\nFor traders, the lack of strong trend signals suggests caution. A breakout above 1.3705 may offer a buying opportunity, while a breakdown below the support at 1.3680 could signal a short-term sell. However, due to the tight price range and absence of key technical indicators, waiting for clearer confirmation before taking positions would be a prudent strategy."
+    }
+  }
+}

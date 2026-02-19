@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-02-19T05:22:36.660Z",
+  "price": {
+    "close": "0.77318",
+    "high": "0.77332",
+    "low": "0.7731",
+    "open": "0.7731",
+    "change": "0.01",
+    "datetime": "2026-02-19 16:00:00"
+  },
+  "indicators": {
+    "rsi": 61.19835,
+    "macd": 0.00050773033,
+    "macd_signal": 0.00050870627,
+    "sma20": 0.7723755
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：当前震荡整理，短期走势偏多",
+      "content": "当前美元/瑞郎(USD/CHF)的价格为0.77318，处于窄幅震荡区间内。根据市场表现，价格未能有效突破0.77332的上行高点，也未下破0.7731的低点，表明市场在这一区域内有一定的整理需求。短期内，价格有可能继续在此区间内波动，若突破上方高点，则可能开启进一步上涨的空间。\n\n从技术指标来看，当前RSI和MACD指标尚未提供足够的信息来明确判断超买或超卖状态。SMA(20)位于0.772375附近，价格维持在其上方，显示出短期内偏向多头的趋势。若价格维持在SMA(20)上方，可能会增强上涨动力；反之，则需警惕回调风险。\n\n支撑位方面，0.7731附近为短期关键支撑，若价格回调至此区域，可能会获得支撑反弹。阻力位则在0.77332附近，若突破此位置，价格可能进一步上涨至0.7750左右。交易者可关注这些关键点位，制定相应的进场和止损策略。\n\n综合来看，当前市场偏向震荡整理，但短期内仍存在上涨的潜力。建议交易者在支撑位附近寻找买入机会，突破阻力位后可考虑加仓。需密切关注市场的波动性，及时调整策略。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently experiencing a narrow range of movement, with the latest price standing at 0.77318. The price has seen minimal change over the past 24 hours, indicating a consolidation phase. At the moment, the market lacks significant momentum in either direction, as reflected by the modest price fluctuation between the daily high of 0.77332 and low of 0.7731. Without a clear upward or downward trend, the market seems to be in a balanced state, awaiting new catalysts to drive movement.\n\nIn terms of technical indicators, the Relative Strength Index (RSI) is not available, but the MACD shows a slight positive value of 0.00050773033. This suggests a mild bullish bias, though the absence of a signal line makes it difficult to confirm a strong momentum shift. The 20-period Simple Moving Average (SMA) is at 0.77237550, indicating that the price is currently trading slightly above this short-term average, which could act as dynamic support in the near term. Traders may interpret this as a minor bullish indication, but confirmation from other indicators is necessary to validate a sustained move higher.\n\nSupport levels are likely to be found around 0.7731, the daily low, as well as the 20-period SMA near 0.7724. A break below these levels could suggest further downside potential, with the next significant support possibly lying around 0.7710. On the upside, resistance is expected near the high of 0.77332. If the price pushes above this level, further upward momentum may open up towards 0.7740, where additional resistance could emerge. \n\nGiven the current market conditions, a cautious trading approach is recommended. Traders may consider waiting for a clear breakout from the established range or confirmation of momentum through the MACD or RSI. Alternatively, range trading near support and resistance levels may be a viable strategy, with a focus on tighter risk management."
+    }
+  }
+}

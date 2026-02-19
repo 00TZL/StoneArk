@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-02-19T05:20:29.737Z",
+  "price": {
+    "close": "0.7047",
+    "high": "0.70512",
+    "low": "0.70443",
+    "open": "0.70511",
+    "change": "-0.06",
+    "datetime": "2026-02-19 16:00:00"
+  },
+  "indicators": {
+    "rsi": 42.085305,
+    "macd": -0.00037950413,
+    "macd_signal": -0.00041812461,
+    "sma20": 0.705732
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，短期偏弱]",
+      "content": "当前，澳元/美元的价格位于0.7047附近，呈现震荡整理的格局。从最近24小时的价格变化看，跌幅仅为0.06%，表明市场暂时缺乏明确的方向。虽然价格略有下行，但整体波动幅度较小，表明市场情绪相对平稳。\n\n技术指标方面，RSI和MACD的数值暂未提供完整数据，但根据当前SMA(20)为0.7057，可以看出价格略低于其短期均线，显示出短期内可能存在一定的下行压力。MACD指标为负值，也支持了市场偏弱的趋势。若RSI数据可用，若在30以下，可能进一步确认超卖区。\n\n支撑位方面，0.7044是短期的重要支撑区域，若跌破此位置，可能进一步测试0.7030或更低的水平。阻力位则位于0.7051附近，若突破此位置，则有可能迎来一波小幅反弹，甚至挑战0.7070的水平。\n\n综上所述，建议短期内关注0.7044的支撑位是否能有效守住。若价格持续低于0.7050，则可以考虑适当做空，目标位可以看向0.7030；反之，若突破0.7050上方，可以尝试做多，短期目标指向0.7070。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar (AUD) against the US Dollar (USD) has shown a slight bearish bias in the short-term, as indicated by its 24-hour change of -0.06%. The current market price of 0.7047 remains near its lower range for the day, between 0.70443 and 0.70512. This suggests a consolidating or sideways market, potentially indicating indecision among market participants. The pair’s failure to sustain a move beyond 0.7050 could point to resistance, with further potential to retest the recent low.\n\nLooking at the 20-period Simple Moving Average (SMA), which stands at 0.7057, the price is currently trading just below this level. This could suggest a slight bearish trend, as the price has struggled to push above the SMA, indicating that sellers are in control, at least in the short term. A rejection at this moving average could trigger further declines, especially if price fails to hold above the recent low at 0.70443. Traders should keep a close eye on this dynamic, as it could signal continuation of the downtrend.\n\nThe MACD value of -0.00037950413, though negative, is not strong enough to confirm a clear trend reversal. However, it does reflect weak bearish momentum, suggesting that there might be further downside pressure if the pair fails to regain bullish momentum. Without a clear signal from the MACD or RSI, it is difficult to gauge a strong directional bias at this moment. Hence, waiting for a more decisive technical signal may be prudent for traders.\n\nKey support lies at 0.70443, with resistance at the 0.70512 level. A break below 0.70443 could lead to further declines towards the 0.7030 region, while a rise above 0.70512 could shift the focus to a possible retest of the 0.7070 area. A cautious approach may be ideal, as the market remains range-bound with limited momentum to break key levels in either direction."
+    }
+  }
+}

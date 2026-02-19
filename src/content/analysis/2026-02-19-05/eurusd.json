@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-02-19T05:18:21.354Z",
+  "price": {
+    "close": "1.17876",
+    "high": "1.179",
+    "low": "1.17872",
+    "open": "1.17899",
+    "change": "-0.02",
+    "datetime": "2026-02-19 16:00:00"
+  },
+  "indicators": {
+    "rsi": 32.0098226,
+    "macd": -0.0012289324,
+    "macd_signal": -0.0012669893,
+    "sma20": 1.18025
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[震荡整理，短期偏弱]",
+      "content": "当前欧元/美元的价格在1.17876附近，呈现出震荡整理的走势。昨日价格波动较小，全天仅有1.179至1.17872的幅度，未能突破此前的区间。虽然价格未显示明显的上涨动能，但也未出现明显的下行风险，整体走势保持稳定。\n\n从技术指标来看，MACD目前为负值，且数值较小，显示出市场尚未形成明确的趋势。由于缺少RSI和Signal线的支持，市场情绪较为中性，短期内可能延续震荡格局。SMA(20)均线在1.18025，略微高于当前价格，提示短期内如果价格反弹，可能面临一定的阻力。\n\n在支撑与阻力方面，1.17872附近可视为短期支撑位，而1.179-1.180的区间为阻力区域。若突破上方阻力，价格可能试探更高的水平，但考虑到目前的震荡行情，突破的可能性相对较小。反之，若价格跌破支撑位，可能会进一步下行。\n\n综合来看，欧元/美元短期内可能继续震荡整理，交易者可以在区间内寻找短线机会。建议在接近支撑位时尝试做多，在接近阻力位时考虑做空，但需注意市场情绪的变化，避免操作过于激进。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently hovering around 1.17876, showing a marginal decline of 0.02% over the past 24 hours. This small movement indicates a relatively quiet market, with price action remaining within a narrow range between 1.179 and 1.17872. The price has recently tested a support level near 1.1787, which has held firm, suggesting a potential short-term consolidation phase. Given the limited volatility, traders may expect further sideways movement before any significant breakout. \n\nThe SMA(20) at 1.18025 is slightly above the current price, signaling a bearish short-term trend. However, this does not necessarily indicate a strong downward move. If the price manages to break above the 1.18025 level, it could suggest a reversal, pushing the EUR/USD toward the next resistance zone near 1.1820. On the downside, support is found around the 1.1787 level, with a break below that area opening the door for a deeper pullback to 1.1760.\n\nThe MACD currently shows a negative reading of -0.0012, which indicates slight bearish momentum. Without a clear signal from the MACD, market participants should remain cautious. The absence of the RSI(14) value makes it difficult to assess overbought or oversold conditions, but traders should watch for any shifts in momentum as they may signal upcoming price action.\n\nFor traders, maintaining a wait-and-see approach could be prudent until a clear breakout is seen. A move above 1.18025 could trigger buying interest toward 1.1820, while a breakdown below 1.1787 might suggest further weakness towards 1.1760. These levels should be closely monitored for any potential trend shifts in the coming hours."
+    }
+  }
+}
