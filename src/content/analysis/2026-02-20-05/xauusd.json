@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-02-20T05:17:26.259Z",
+  "price": {
+    "close": "5001.60406",
+    "high": "5005.70745",
+    "low": "4999.38479",
+    "open": "4999.38479",
+    "change": "0.04",
+    "datetime": "2026-02-20 16:00:00"
+  },
+  "indicators": {
+    "rsi": 55.1424,
+    "macd": 4.84267,
+    "macd_signal": 5.95311,
+    "sma20": 4995.04991
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：当前震荡整理，短期看空",
+      "content": "当前XAU/USD处于5000附近，价格在5005.71与4999.38之间波动，显示出市场的整理行情。尽管价格变化幅度较小，但可以观察到市场缺乏强烈的趋势延续动能，短期内可能维持震荡整理。\n\n从技术指标来看，SMA(20)在4995.05附近，表明价格接近该均线支撑，若跌破此支撑，可能进一步考验下方的支撑位。MACD的数值为4.84267，但缺乏信号线的确认，显示出市场方向的模糊状态，短期内可能继续整理。\n\n支撑位方面，5000附近提供初步支撑，若价格下探至4995附近，则可能出现更多买盘介入，形成次级支撑。上行阻力位则在5005附近，一旦突破此点位，价格可能挑战更高的水平。 \n\n基于当前震荡行情，建议在接近支撑位时考虑买入，而接近阻力位时则可考虑卖出。交易者应密切关注突破或回调的信号，灵活调整仓位，避免过度追涨杀跌。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current price of XAU/USD is positioned around 5001.60, showing a slight 0.04% change over the past 24 hours. This minimal price fluctuation suggests the market is in a consolidation phase. However, the high of 5005.71 and low of 4999.38 indicate a narrow range, pointing to the possibility of a breakout either upwards or downwards in the near term. Traders should be vigilant for price movement beyond these levels, which could signal a shift in sentiment.\n\nThe absence of an RSI(14) value limits the ability to assess overbought or oversold conditions, making it harder to gauge market momentum. However, the MACD value of 4.84, while positive, indicates mild bullish sentiment, though the lack of a corresponding signal line prevents a clear signal for trend confirmation. Without strong momentum indicators, price action and fundamental factors will likely drive the next major move. It is critical to monitor any divergence in the MACD, which could hint at a reversal or continuation.\n\nThe 20-period Simple Moving Average (SMA) stands at 4995.05, providing some short-term support. If the price remains above this level, it may suggest that the bullish trend is intact. Conversely, if the price dips below this key level, further downside could be seen, targeting 4990 as the next support zone. Traders should consider watching for a break above 5005 to confirm further bullish movement, with resistance levels extending towards 5010 and 5020.\n\nGiven the current range-bound conditions, traders should consider short-term strategies. A breakout above 5005 could trigger a buy signal, with stops placed just below 4995. Conversely, a move below the SMA at 4995 would suggest a possible sell, with a target towards 4990. Tight risk management and keeping an eye on market developments are essential in this indecisive environment."
+    }
+  }
+}

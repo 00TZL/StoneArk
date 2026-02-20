@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-02-20T05:15:20.844Z",
+  "price": {
+    "close": "1.36926",
+    "high": "1.36943",
+    "low": "1.36913",
+    "open": "1.36939",
+    "change": "-0.01",
+    "datetime": "2026-02-20 16:00:00"
+  },
+  "indicators": {
+    "rsi": 51.76662,
+    "macd": 0.0002502126,
+    "macd_signal": 0.00030891482,
+    "sma20": 1.36925
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理，等待突破]",
+      "content": "当前美元/加元（USD/CAD）价格为1.36926，显示出市场的震荡整理态势。24小时价格变动较小，变化幅度仅为-0.01%，表明市场暂时缺乏明显的趋势动力。价格在1.36943和1.36913之间震荡，未能突破关键区间。\n\n技术指标方面，虽然RSI和MACD未能提供具体的超买或超卖信号，但MACD的微小正值表明短期内可能存在一定的买盘动能。SMA(20)与当前价格几乎重合，进一步暗示市场的横盘整理状态。未见明确的趋势形成，需关注未来几小时的价格波动。\n\n支撑位方面，1.36913处为近期低点，可能成为下行的关键支撑。如果价格突破此位置，可能会进一步下探1.36850附近的支撑区域。阻力位则位于1.36943，突破此点可能开启上涨空间，测试1.37000水平。\n\n建议投资者在当前震荡区间内可考虑短线操作，灵活应对价格波动。若突破1.36943上行，可考虑适量做多；若跌破1.36913支撑位，则可考虑做空。但需注意，短期内可能仍会维持震荡，操作需谨慎。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently showing a neutral stance, as indicated by its stable price near 1.36926, with minimal daily movement. The pair is consolidating within a tight range, with the high and low prices reflecting this narrow trading band. With the 24-hour change at a marginal -0.01%, market sentiment is indecisive, suggesting that traders are waiting for a clearer catalyst to drive the pair in either direction. The 20-period simple moving average (SMA) closely aligns with the current market price, reinforcing the lack of a clear trend.\n\nWithout the RSI and MACD signals, there's limited momentum indication, leaving the price action as the main focus for analysis. The MACD value is currently positive at 0.00025021260, but without a signal line for comparison, its significance remains unclear. If the MACD starts to diverge more clearly from its signal in future sessions, it could offer insights into potential trend shifts. Given the absence of strong momentum indicators, short-term traders might be looking for price breakouts or breakdowns from key levels.\n\nSupport for USD/CAD lies near 1.36913, which aligns with the recent low of the day, and should the price dip below this, further support can be found around the 1.36800 mark. On the upside, resistance is observed at 1.36943, the recent high, and any upward movement past this point could push the pair to challenge 1.37000. These levels are crucial for traders, as a break above or below could indicate further directional moves.\n\nGiven the tight range and lack of clear momentum indicators, the pair might be more suited for scalping strategies or trading within the range. Traders could consider buying near support or selling near resistance, with tight stop losses to manage risk. Should the pair break decisively from its current range, larger trend-based strategies could be applied."
+    }
+  }
+}
