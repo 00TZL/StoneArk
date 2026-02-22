@@ -336,7 +336,7 @@ const WelcomeModal = forwardRef<WelcomeModalHandle>((props, ref) => {
                         onSubmit={handleEmailSubmit}
                         className="space-y-4"
                       >
-                        <input type="hidden" name="_next" value={`${siteUrl}/${language}/thank-you`} />
+                        <input type="hidden" name="_next" value="https://jishilianghua.com" />
                         <input
                           type="hidden"
                           name="_subject"
@@ -410,14 +410,12 @@ const WelcomeModal = forwardRef<WelcomeModalHandle>((props, ref) => {
                           />
                         </div>
 
-                        <a
-                          href="https://jishilianghua.com"
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="block w-full px-6 py-3 bg-black dark:bg-white text-white dark:text-black font-bold border-2 border-black dark:border-white hover:bg-white hover:text-black dark:hover:bg-black dark:hover:text-white transition-colors text-center"
+                        <button
+                          type="submit"
+                          className="w-full px-6 py-3 bg-black dark:bg-white text-white dark:text-black font-bold border-2 border-black dark:border-white hover:bg-white hover:text-black dark:hover:bg-black dark:hover:text-white transition-colors"
                         >
                           {isZh ? '立即领取资料' : 'Get Resources Now'}
-                        </a>
+                        </button>
                       </form>
 
                       <p className="text-xs text-gray-600 dark:text-gray-400 text-center mt-4">
