@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-02-09T05:27:44.330Z",
+  "price": {
+    "close": "0.60193825",
+    "high": "0.60204697",
+    "low": "0.60150373",
+    "open": "0.60150373",
+    "change": "0.06",
+    "datetime": "2026-02-09 16:00:00"
+  },
+  "indicators": {
+    "rsi": 59.99105,
+    "macd": 0.00016417948,
+    "macd_signal": 0.0001789831,
+    "sma20": 0.60158647
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理，等待突破]",
+      "content": "当前纽元/美元（NZD/USD）价格位于0.6019附近，24小时波动幅度较小，仅为0.06%。从近期走势来看，汇价处于震荡整理状态，缺乏明显的上行或下行趋势，价格在0.6020与0.6015区间内反复波动。RSI和MACD指标尚未显示出明显的超买或超卖信号，市场情绪偏向中性。\n\n技术面上，20日简单移动平均线（SMA20）当前位于0.6016，汇价略微高于该水平，提示短期内可能保持小幅上涨的动能。然而，MACD的数值接近零轴，未能提供强烈的买卖信号，这表明市场缺乏明确的方向。当前的高点和低点区间也暗示市场暂时处于观望状态。\n\n支撑位位于0.6015附近，而阻力位则集中在0.6020。如果汇价突破上方阻力位，可能会迎来短期的上行测试，目标可看向0.6035附近。反之，若跌破支撑位，可能会进一步下探至0.6000或更低水平。\n\n综合来看，短期内纽元/美元的走势偏震荡，建议交易者关注0.6015和0.6020的突破情况，选择适当时机进行短线操作。在突破前保持谨慎，避免盲目追单。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently exhibiting a relatively stable price action, with a slight uptick of 0.06% over the last 24 hours. The price is hovering just below the recent high of 0.6020, indicating a mild bullish sentiment. Given the proximity to this high, traders may anticipate potential resistance around the 0.6020 level. A break above this could confirm further upward movement, possibly targeting 0.6050. On the downside, support lies near the 0.6015 mark, just above the day's low, with a deeper level at 0.6000 if price action weakens.\n\nThe RSI(14) is unavailable for this analysis, but the MACD value of 0.000164 suggests minimal momentum behind the current trend. With no signal line present to confirm a crossover, this may indicate a neutral stance from momentum traders. The MACD's low value suggests a lack of strong directional force in either direction, emphasizing the possibility of range-bound behavior in the near term. Traders should be cautious of sudden volatility that could cause price spikes or retracements.\n\nThe 20-period Simple Moving Average (SMA) at 0.6016 is slightly above the current market price, implying that the pair is trading in a neutral to bearish zone. If price fails to break through the SMA level and moves lower, it could signal a pullback toward support levels near 0.6000 or 0.5990. However, if the pair manages to cross above the SMA and sustain a move higher, it may confirm a shift toward a bullish trend, with potential targets at 0.6040 and 0.6050.\n\nGiven the current market conditions, trading strategies should remain cautious. For those looking to trade within the range, short-term scalps around the 0.6015-0.6020 range might prove effective, with stops placed just beyond these levels. Alternatively, a breakout above 0.6020 could offer a signal to enter long positions, targeting resistance levels at 0.6040 or higher. For now, volatility remains subdued, making this pair suitable for range trading with a focus on key support and resistance levels."
+    }
+  }
+}

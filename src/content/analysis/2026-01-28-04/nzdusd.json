@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-01-28T04:41:42.557Z",
+  "price": {
+    "close": "0.60152",
+    "high": "0.60171",
+    "low": "0.60135",
+    "open": "0.60171",
+    "change": "-0.03",
+    "datetime": "2026-01-28 15:00:00"
+  },
+  "indicators": {
+    "rsi": 56.22167,
+    "macd": 0.0011139876,
+    "macd_signal": 0.0013259972,
+    "sma20": 0.60119
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理中]",
+      "content": "当前纽元/美元(NZD/USD)的价格在0.60152附近，显示出震荡整理的趋势。近期价格波动较小，24小时内变化仅为-0.03%。从高点0.60171和低点0.60135来看，市场缺乏明显的方向性，投资者可能在等待更明确的市场信号。\n\n在技术指标方面，虽然RSI未提供，但MACD显示出微弱的上涨动能，当前MACD值为0.0011139876。SMA(20)为0.60119，表明短期内价格仍维持在该均线之上，显示出一定的支撑力度。若价格持续维持在这一水平上方，可能会吸引更多买盘入场。\n\n支撑位方面，0.60135是近期的关键支撑位，若下破此位，可能会引发进一步回调；而阻力位则在0.60171，若突破该水平，将可能开启进一步上涨的空间。投资者需密切关注这些关键价格区间，以制定相应的交易策略。\n\n基于当前市场状态，建议投资者采取观望态度，待价格突破支撑或阻力位后再考虑入场。同时，保持对市场消息的关注，以便及时调整交易策略，降低风险。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently trading at 0.60152, reflecting a slight decline of 0.03% over the past 24 hours. The price has shown some consolidation within a tight range, with a high of 0.60171 and a low of 0.60135. This behavior suggests a market indecision, with traders awaiting further catalysts to drive price action. The overall trend appears to be bearish in the short term, as the pair has struggled to maintain upward momentum, indicating potential selling pressure.\n\nFrom a technical standpoint, the absence of a calculated RSI makes it challenging to gauge momentum. However, the MACD shows a positive value of 0.0011139876, which could imply a potential bullish crossover if the trend shifts. The SMA(20) at 0.60119 provides a relevant short-term benchmark; if the price falls below this level, it may trigger further selling, while moving above it could signal a temporary bullish reversal.\n\nKey support levels to watch are positioned around 0.60135, where recent price action has bounced, and further below at 0.60000, a psychological barrier that often attracts traders. On the resistance side, immediate resistance is seen at 0.60200, followed by 0.60300. A breakout above these levels could provide a more robust bullish signal, while a failure to hold above 0.60135 might lead to further declines.\n\nTraders may consider adopting a cautious approach. A short position could be viable if the price breaks below the SMA(20) and tests the support at 0.60135. Conversely, a break above 0.60200 may warrant a long position, with a target towards the next resistance level. It's essential to use tight stop-loss orders to manage risk effectively, given the current market volatility."
+    }
+  }
+}

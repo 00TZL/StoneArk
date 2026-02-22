@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-02-20T05:14:39.994Z",
+  "price": {
+    "close": "0.70345",
+    "high": "0.70355",
+    "low": "0.70321",
+    "open": "0.70321",
+    "change": "0.03",
+    "datetime": "2026-02-20 16:00:00"
+  },
+  "indicators": {
+    "rsi": 42.16585,
+    "macd": -0.00064584077,
+    "macd_signal": -0.00044299453,
+    "sma20": 0.7046375
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：区间震荡，突破待考",
+      "content": "当前，澳元/美元价格徘徊在0.70345附近，全天波动较小，仅有0.03%的涨幅。市场呈现出明显的震荡格局，未出现明确的单边趋势。短期内，价格在0.70321至0.70355的区间内波动，未突破关键支撑或阻力位。\n\n从技术指标来看，当前RSI(14)数据缺失，导致无法判断超买或超卖的强弱情况。MACD指标为负值，显示出短期内卖压略强，但其信号线缺失，也使得这一信号的有效性较弱。SMA(20)位于0.7046附近，价格仍低于这一均线，提示短期内价格可能存在一定的下行风险。\n\n支撑位位于0.70321附近，而阻力位则在0.70355一线。如果价格突破0.70355，可能会进一步上行至0.7050区域，反之跌破0.70321，则可能加剧下行压力，测试更低的支撑。交易者可以考虑在当前区间内进行短期交易，但需谨慎观察突破信号。\n\n建议短期交易者在区间内寻找低买高卖机会，但需要设定严格的止损，避免区间突破后带来的较大波动风险。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently trading at 0.70345, showing minimal 24-hour movement of just +0.03%. The market remains in a consolidation phase, as the price is hovering around the 20-period simple moving average (SMA) of 0.70463750. This suggests a neutral short-term trend with the pair struggling to maintain any significant momentum. The lack of clear directional strength in the market is further evidenced by the RSI and MACD data being either unavailable or showing limited movement, indicating a lack of robust buying or selling pressure.\n\nSupport and resistance levels are critical to gauge the market’s direction. On the lower end, the pair has recently tested the 0.70321 level, which may act as immediate support. A break below this could expose further downside risk toward the 0.70200 mark, which could provide an additional level of support. On the upside, resistance seems to be positioned at the 0.70355 level, with a push above that likely to challenge the SMA at 0.70463750. If the price fails to break above this level, the range-bound consolidation is likely to persist.\n\nWith the current market environment showing limited volatility, traders may look for scalping opportunities within the 0.70321–0.70355 range, capitalizing on small price fluctuations. For those with a more medium-term outlook, it may be prudent to wait for a breakout beyond the identified resistance or support levels before entering any larger positions. Given the lack of momentum, using stop losses around key support or resistance levels would help to mitigate risks if the market turns unexpectedly.\n\nGiven the current lack of strong directional signals from indicators like the MACD and RSI, caution is advised when entering trades. Market participants should monitor for any potential shift in volatility or new developments, which could provide more clarity on the next potential move for the AUD/USD pair. For now, a range-bound strategy seems appropriate, with close attention to key price levels."
+    }
+  }
+}

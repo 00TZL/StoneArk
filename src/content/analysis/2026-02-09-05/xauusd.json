@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-02-09T05:29:27.252Z",
+  "price": {
+    "close": "5036.18813",
+    "high": "5036.18813",
+    "low": "5016.91647",
+    "open": "5019.22435",
+    "change": "0.29",
+    "datetime": "2026-02-09 16:00:00"
+  },
+  "indicators": {
+    "rsi": 59.98951,
+    "macd": 9.36426,
+    "macd_signal": 9.61749,
+    "sma20": 5012.94574
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理，待突破关键水平]",
+      "content": "当前黄金/美元（XAU/USD）价格表现出一定的震荡整理特征。当前价格为5036.18813，全天涨幅仅为0.29%，显示出市场情绪的相对平稳。由于缺乏明确的上涨或下行动力，短期内价格可能会围绕5016.92至5036.19区间震荡，等待突破。\n\n在技术指标方面，RSI（14）暂时无法提供具体分析，缺少明确超买或超卖信号。MACD值为9.36426，但没有信号线的明确对比，表明短期内动能较弱。SMA（20）位于5012.94574，显示出短期均线仍在支撑价格运行，但也反映出市场尚未形成明显的趋势。\n\n从支撑与阻力来看，当前的支撑位为5016.92，若价格突破该水平，则可能进一步下探。阻力位则在5036.19附近，若价格突破此位置，可能会迎来一波上行动力。突破这些关键价位后，市场可能会重新确认方向，进而为短期内的价格走势提供更明确的指引。\n\n建议投资者短期内可关注关键价位的突破，避免在震荡区间内贸然入市。若突破上行，可以考虑多单操作；若下破支撑位，则应留意潜在的下行风险，适时采取空单策略。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD pair is currently showing a slight bullish bias, with a modest 0.29% price increase over the last 24 hours. The recent high of 5036.19 and the low at 5016.92 indicate a relatively narrow trading range. Despite the absence of an RSI reading, the overall market sentiment appears cautiously positive, with the price above the 20-period SMA of 5012.95, which is a sign of mild upward momentum. If this trend persists, we might see the pair attempt to break past recent highs, particularly the 5040-5050 area.\n\nLooking at the MACD, the current value of 9.36 suggests that there is some bullish strength, though the lack of a signal line makes it difficult to establish a definitive trend. If the MACD continues to climb, it could indicate increased buying pressure. Traders should monitor for any potential crossovers or divergence in this indicator for further confirmation. Without significant overbought or oversold conditions, the market remains neutral but leaning slightly toward bullish movement.\n\nKey support for XAU/USD is located at the recent low of 5016.92, which marks an important level to watch for any price pullbacks. A break below this could lead to a deeper correction, with the next major support zone near 5000. On the resistance side, the level around 5036.19, the current high, forms an immediate barrier. A sustained break above this resistance could trigger further bullish action, with potential targets around 5040-5050.\n\nIn terms of trading strategy, a cautious approach is advisable. Traders could look for buying opportunities above 5036, with tight stop-loss orders around the 5016 support level. Conversely, a break below 5016 could present shorting opportunities with targets toward 5000. As always, given the mixed indicators, it’s prudent to remain flexible and reassess market conditions regularly."
+    }
+  }
+}

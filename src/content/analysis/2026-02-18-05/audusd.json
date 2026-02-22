@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-02-18T05:21:37.929Z",
+  "price": {
+    "close": "0.70702",
+    "high": "0.70709",
+    "low": "0.70689",
+    "open": "0.70689",
+    "change": "0.02",
+    "datetime": "2026-02-18 16:00:00"
+  },
+  "indicators": {
+    "rsi": 49.080673,
+    "macd": 0.00012740033,
+    "macd_signal": 0.00016690325,
+    "sma20": 0.7068975
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，短期看多]",
+      "content": "目前澳元/美元处于震荡整理区间内，价格在0.7070附近徘徊，显示出短期内市场缺乏明确的方向性。根据最新价格的波动幅度，澳元/美元可能继续维持这一区间，直到出现突破性行情。\n\n从技术指标来看，MACD处于微弱的正值区域，显示出一定的买盘压力，但由于缺乏明确的信号线数据，无法提供强烈的买入信号。SMA(20)位于0.7069附近，这也成为了价格的短期支撑位。\n\n支撑位位于0.7069附近，而上方的阻力位则在0.7071左右。若价格突破0.7071阻力位，可能会进一步测试0.7090及更高水平，反之，若价格跌破0.7069支撑，则有可能进一步下探至0.7050。\n\n建议交易者在当前区间内进行短期交易，若价格接近支撑位，可考虑低位买入，目标指向0.7090附近。如跌破支撑位，则需谨慎操作，考虑等待更明确的技术信号。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar against the US Dollar (AUD/USD) is currently showing slight bullish momentum, as indicated by the recent 24-hour change of 0.02%. The price is trading close to its high of 0.70709, suggesting a moderate upward trend within this short timeframe. However, the movement remains quite constrained, and the market is struggling to break above significant resistance. In the current price range, the pair is consolidating with limited volatility, reflecting market indecision in the absence of clear directional momentum.\n\nFrom an indicator perspective, the absence of a precise RSI value makes it difficult to assess the overbought or oversold conditions. However, the MACD value of 0.00012740033 signals a very mild bullish sentiment, as the indicator is marginally positive, indicating that buyers still have slight control. This signals potential continuation if the price manages to breach its current range. Despite the positive MACD, the lack of a clear trend in the RSI and other indicators suggests caution, as the market might be poised for further consolidation or a potential pullback.\n\nLooking at key technical levels, the immediate support lies near the low of 0.70689, with the SMA(20) slightly above it at 0.70689750. A break below this support could open up further downside potential, testing deeper levels around 0.70500. Conversely, the current resistance at 0.70709 remains critical. A sustained breakout above this resistance could shift momentum higher, targeting levels near 0.71000 or further, contingent on broader market factors.\n\nIn terms of trading strategy, a conservative approach would be to wait for a clear breakout above 0.70709 for confirmation of a bullish trend. Alternatively, traders could watch for a breakdown below 0.70689 for a potential short opportunity. Given the market's current consolidation, patience is key, and any trade should be accompanied by strict risk management practices to navigate the current low volatility environment effectively."
+    }
+  }
+}

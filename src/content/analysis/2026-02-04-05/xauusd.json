@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-02-04T05:10:22.504Z",
+  "price": {
+    "close": "5078.77088",
+    "high": "5081.08651",
+    "low": "5076.87112",
+    "open": "5080.12584",
+    "change": "-0.03",
+    "datetime": "2026-02-04 16:00:00"
+  },
+  "indicators": {
+    "rsi": 76.1256,
+    "macd": 63.20647,
+    "macd_signal": 54.64996,
+    "sma20": 4968.065598
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：震荡整理，短期偏空",
+      "content": "目前，XAU/USD价格处于5078.77088附近，整体表现出震荡整理的态势。价格在5081.08651的高点和5076.87112的低点之间波动，缺乏明确的趋势指引。若突破此区间，可能会确认新的方向。\n\n技术指标方面，MACD的当前值为63.20647，虽然缺乏信号线的对比，但这一数值表明市场保持一定的多头动能。然而，RSI未能提供足够的信息，短期走势仍不明确。SMA(20)位于4968.065598，显示出长期的上升趋势，但与当前价格相比，偏向下行的可能性较大。\n\n在支撑位方面，5076附近形成了较强的支撑，而上方的5081则是短期阻力位。突破5081有可能推动价格进一步上行至5100以上，但考虑到当前的市场震荡，突破的可能性较小。\n\n综合来看，当前XAU/USD处于整理阶段，短期内建议投资者保持观望，避免在波动区间内频繁交易。如果价格突破支撑或阻力位，则可以考虑适当布局。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD pair is currently trading near 5078.77, reflecting a slight decline of 0.03% over the past 24 hours. Given this minimal movement, the market appears to be consolidating within a narrow range, between the recent high of 5081.09 and low of 5076.87. This range-bound action suggests a lack of strong momentum, with no clear direction in the near term. Traders should observe for a breakout either above the high or below the low to gauge the next potential move.\n\nFrom an indicator perspective, the MACD is at 63.21, indicating bullish momentum, though the absence of the Signal line makes it difficult to assess the full market trend at this moment. Without additional confirmation from the Signal, the MACD reading alone doesn't offer a clear signal for entry or exit. The Relative Strength Index (RSI) data is not available, making it challenging to gauge overbought or oversold conditions, further highlighting the need for additional indicators or confirmation.\n\nThe 20-period Simple Moving Average (SMA) stands at 4968.07, showing that the long-term trend for XAU/USD is bullish. However, the current price remains well above this level, indicating that gold prices are trading far above the recent average, suggesting potential overextension. Traders should be cautious of a potential pullback towards the SMA, which could offer an attractive entry point for those looking to buy on dips or potentially find a long-term support level.\n\nKey support is seen around 5076.87, with resistance at 5081.09. A break below the support could signal a deeper correction towards the SMA or even lower levels. Conversely, if price action pushes past resistance, a continuation of the uptrend may be likely. For short-term trades, waiting for a confirmed breakout could provide a more reliable signal. For longer-term strategies, it might be worth considering buying near support or waiting for further signs of momentum."
+    }
+  }
+}

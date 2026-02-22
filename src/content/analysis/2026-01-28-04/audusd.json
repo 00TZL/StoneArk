@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-01-28T04:40:18.722Z",
+  "price": {
+    "close": "0.69874",
+    "high": "0.69902",
+    "low": "0.69852",
+    "open": "0.69901",
+    "change": "-0.04",
+    "datetime": "2026-01-28 15:00:00"
+  },
+  "indicators": {
+    "rsi": 61.65081,
+    "macd": 0.0017317704,
+    "macd_signal": 0.0018418242,
+    "sma20": 0.6975005
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，等待突破]",
+      "content": "当前澳元/美元的走势呈现出震荡整理的状态。价格在0.69852至0.69902之间波动，未能突破短期阻力位0.6990，这表明市场缺乏明确的方向。投资者需要关注接下来的价格走势，以判断是否会出现进一步的趋势延续。\n\n从技术指标来看，虽然RSI数据缺失，但MACD值为0.0017，显示出多头力量仍在，但未能形成强烈的买入信号。SMA(20)为0.6975，价格在其上方运行，表明短期内价格可能受到支撑，若跌破该水平，则可能转向看空。\n\n支撑位方面，0.6985和0.6975是关键区域，若价格持续跌破这两个水平，可能会引发更多的抛售压力。反之，若价格成功突破0.6990的阻力位，可能会吸引更多买盘，推动价格向上测试0.7000的心理关口。\n\n综合考虑，建议交易者在当前区间内保持谨慎，待价格突破关键阻力或支撑位后再做出决策。短期内可考虑以区间交易为主，而长线投资者可关注基本面变化，以制定相应的交易策略。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD currency pair is currently trading at 0.69874, showing a slight decline of 0.04% over the past 24 hours. This minor decrease indicates a consolidation phase after the pair tested the 0.69902 high. The recent price action suggests a potential struggle for the Australian Dollar to maintain upward momentum against the US Dollar. Traders should monitor this level closely, as a sustained break above 0.6990 could signal a bullish reversal, while a drop below 0.69852 may indicate further downward pressure.\n\nIn terms of technical indicators, the MACD is currently at 0.0017317704, reflecting a neutral stance. This suggests that momentum is lacking in the immediate term. The absence of an RSI reading limits our insight into potential overbought or oversold conditions, but the presence of a 20-period Simple Moving Average (SMA) at 0.69750050 offers a potential support level. If the price dips towards this SMA, it may present a buying opportunity for traders looking for a rebound in the pair.\n\nKey support levels to watch are around 0.6975, where the SMA resides, and further below at 0.6960, a psychological level that could attract buying interest. On the resistance side, the 0.6990 level remains critical, as a break above this could lead to a test of the 0.7000 mark. Traders should consider placing stop-loss orders just below the identified support levels to manage risk effectively.\n\nIn terms of trading strategy, a cautious approach is advisable. A breach of the 0.6990 resistance could trigger a bullish continuation, while a failure to hold above the 0.6975 support may lead to bearish sentiment. Traders should remain vigilant and adjust their positions based on these technical signals, taking advantage of market volatility while managing their risk exposure."
+    }
+  }
+}

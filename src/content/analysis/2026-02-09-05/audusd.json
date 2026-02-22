@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-02-09T05:26:20.445Z",
+  "price": {
+    "close": "0.70298767",
+    "high": "0.70298767",
+    "low": "0.70254320",
+    "open": "0.70254320",
+    "change": "0.05",
+    "datetime": "2026-02-09 16:00:00"
+  },
+  "indicators": {
+    "rsi": 67.94961,
+    "macd": 0.00059129828,
+    "macd_signal": 0.0005259314,
+    "sma20": 0.70172312
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[短期震荡整理，关注支撑位突破]",
+      "content": "当前，澳元/美元（AUD/USD）处于0.7020附近小幅波动，短期内显现震荡整理的态势。从价格走势来看，市场缺乏强势方向性，短期内可能会围绕当前价位波动。近期高点与低点相差不大，显示出市场的观望情绪。\n\n在技术指标方面，RSI(14)暂缺数据，因此无法提供超买超卖的判断；MACD目前呈现微弱正值0.00059，说明市场有轻微的上涨动能，但不足以构成强势反弹信号。SMA(20)为0.7017，当前价格略高于该均线，暗示短期内有支撑，但未形成明确的上涨趋势。\n\n支撑位方面，0.7025附近似乎是一个重要的支撑区间，若价格跌破这一点，可能会进一步下探至0.7015或0.7010。上方的阻力位暂时位于0.7035附近，一旦突破，可能会带来短期反弹至0.7050区域。\n\n基于当前走势，建议短线交易者采取区间震荡策略，在支撑位附近寻找买入机会，阻力位附近则考虑卖出。若突破支撑或阻力位，可重新评估趋势方向。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar (AUD) against the US Dollar (USD) is showing a tight range movement, with the latest price at 0.70298767, slightly above the previous day's low. The market has experienced a modest 24-hour change of 0.05%, indicating a consolidation phase. This suggests a neutral market sentiment with neither currency showing a clear dominant trend. The price action is currently centered near the 0.702 level, which is acting as a key support zone. If the market remains above this level, it could signal a potential continuation of the current range or a slight upward push.\n\nLooking at the technical indicators, the MACD shows a small positive value of 0.00059129828, which indicates a slight bullish momentum, although the absence of the signal line makes it harder to gauge any strong trend shift. Without a full RSI reading or a clear MACD signal line, it's difficult to confirm any overbought or oversold conditions. However, the 20-period Simple Moving Average (SMA) at 0.70172312 remains slightly below the current price, suggesting minor support in the immediate term. If price continues to hold above the SMA, it may indicate a shallow uptrend or an attempt to retest higher levels.\n\nFrom a price action perspective, the immediate support level is near 0.7025, as seen in the low of the current trading range, while resistance could be seen around the 0.7035-0.7040 region. A break above this resistance might open the way for the pair to test the 0.7050 level. Conversely, a drop below the 0.7025 support could signal a deeper pullback, potentially targeting the SMA support at 0.7017 or even the 0.7010 level.\n\nTraders should watch for a potential breakout above the resistance level or a sustained move below 0.7025 to determine the next major move. Given the current consolidation phase, positioning for range-bound trading might be prudent. A conservative approach would involve waiting for clearer signals from indicators like RSI or a confirmed MACD crossover before taking a directional trade."
+    }
+  }
+}

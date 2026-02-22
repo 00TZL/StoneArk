@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-02-11T05:23:48.227Z",
+  "price": {
+    "close": "1.19111",
+    "high": "1.1912",
+    "low": "1.19072",
+    "open": "1.19082",
+    "change": "0.03",
+    "datetime": "2026-02-11 16:00:00"
+  },
+  "indicators": {
+    "rsi": 57.97908,
+    "macd": 0.00028387505,
+    "macd_signal": 0.00022513821,
+    "sma20": 1.19019
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[短期震荡整理，待突破]",
+      "content": "当前欧元/美元在1.19111附近交易，价格波动幅度较小，呈现震荡整理的状态。短期内，市场缺乏明显的趋势信号，波动区间主要在1.19072至1.1912之间。当前价格接近其20日简单移动平均线（SMA20）的水平，表明价格在此区域可能继续整理，等待进一步的突破信号。\n\nMACD指标显示出微弱的正值0.00028387505，尽管信号线数据缺失，但仍然表明当前市场保持一定的上行动能。RSI指数未提供，因此需要关注即将发布的数据来确认是否有超买或超卖现象。此时，技术指标整体中性，没有明确的买入或卖出信号。\n\n在支撑方面，1.19072是短期的关键支撑位，一旦价格跌破该水平，可能会进一步测试1.1900附近的更强支撑。阻力位则位于1.1912，突破此水平可能推动价格向上挑战1.1920甚至更高的区域。\n\n综合来看，建议暂时保持观望，关注价格是否突破当前区间。如果突破1.1912，则可考虑轻仓做多，反之跌破1.19072可考虑短期做空。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently exhibiting a narrow range within the 1.1907 to 1.1912 zone. This suggests a consolidation phase, as the price remains tightly bound with limited movement. The minor 24-hour change of 0.03% reinforces the sentiment of market indecision. The pair’s proximity to the 1.1912 resistance level suggests that the bulls are encountering difficulty in pushing above this point. Conversely, a breakdown below 1.1907 could open the door to lower support levels, potentially targeting the 1.1900 mark.\n\nThe lack of a clear RSI reading means there is no immediate indication of overbought or oversold conditions, leaving traders without strong momentum signals. The MACD value of 0.00028, while positive, is still relatively insignificant, indicating the current momentum is weak. With no marked divergence from the signal line, the pair’s near-term direction remains uncertain. Traders should pay attention to any changes in the MACD that might signal a shift in trend strength or direction.\n\nFrom a moving average perspective, the 20-period SMA at 1.19019 is providing some support, suggesting the pair could bounce if it approaches this level. If the price moves closer to the SMA, it could present a buying opportunity, with the 1.1912 resistance acting as the first target. Should the pair drop below the SMA, further declines toward 1.1900 and potentially 1.1885 would become more likely. The market remains range-bound, and traders should exercise caution in the absence of a strong directional bias.\n\nGiven the current market conditions, a breakout above 1.1912 would likely lead to further upside momentum, opening the door to 1.1930. On the other hand, a break below 1.1907 could trigger a bearish move, with 1.1900 and 1.1885 as key levels to monitor for potential support. A cautious, wait-and-see approach is advisable unless a clear trend materializes."
+    }
+  }
+}

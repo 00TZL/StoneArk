@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-02-11T05:26:53.614Z",
+  "price": {
+    "close": "1.35238",
+    "high": "1.35271",
+    "low": "1.35213",
+    "open": "1.35261",
+    "change": "-0.02",
+    "datetime": "2026-02-11 16:00:00"
+  },
+  "indicators": {
+    "rsi": 34.51776,
+    "macd": -0.001192933,
+    "macd_signal": -0.0011154522,
+    "sma20": 1.35437
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：近期震荡整理，关注突破方向",
+      "content": "当前美元/加元（USD/CAD）在1.35238附近震荡整理。短期内，该货币对呈现横盘走势，价格波动较小，整体缺乏明显的趋势动能。市场情绪可能受到美联储和加拿大央行政策预期的影响，导致交投清淡。\n\n从技术指标上看，RSI和MACD数据暂时无法提供明确的趋势信号。尽管SMA(20)在1.35437附近对价格构成一定压力，但价格未能突破这一水平，显示出短期内市场对该价位的强烈反应。MACD指标的负值表明当前市场略偏空，但尚未形成强烈的下行势头。\n\n支撑位方面，1.35213是近期低点，若价格回调至此水平，有可能获得一定支撑。若突破该支撑位，1.35000关口可能成为下一个支撑区域。至于阻力位，1.35437是近期SMA(20)位置，突破此阻力可能意味着价格重新测试1.35700的高位。\n\n建议交易者关注1.35213和1.35437之间的价格波动。如果价格突破1.35437并站稳，可以考虑看涨；若跌破1.35213，则可能继续看空，目标指向1.35000附近。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently trading at 1.35238, showing a slight 24-hour decline of -0.02%. The market has been relatively stable over the past day, with price movement between 1.35271 (high) and 1.35213 (low). This narrow range suggests a consolidation phase, indicating a lack of strong momentum in either direction. A continuation of this sideways movement could lead to a further range-bound price action, with traders awaiting a breakout from the current levels to gain more clarity on the next direction.\n\nFrom a trend perspective, the market seems to be in a neutral stance. With the price slightly below the 20-period Simple Moving Average (SMA) of 1.35437, a bearish bias could emerge if the price fails to break above the SMA. However, the overall trend is still indecisive, as no clear bullish or bearish momentum is evident from the data. A push above 1.35437 could signal a potential bullish breakout, while a dip below the recent low of 1.35213 could point to further downside.\n\nIn terms of support and resistance levels, immediate support lies at 1.35213, the low of the current session, and a break below this could lead to a test of the next support around 1.35000. On the upside, resistance is found near the SMA at 1.35437, and a strong close above this level could suggest the start of an upward move, targeting 1.35600 as the next resistance zone. Monitoring these levels will be key for traders.\n\nFor trading strategy, traders could look for short opportunities near resistance levels, especially if the price fails to hold above 1.35437. Conversely, a confirmed break above this level could open up potential long trades targeting the higher resistance levels. With the MACD showing a mild negative value and RSI unavailable, caution is advised until clearer signals emerge."
+    }
+  }
+}

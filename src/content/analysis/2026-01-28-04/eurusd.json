@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-01-28T04:37:49.613Z",
+  "price": {
+    "close": "1.19938",
+    "high": "1.19975",
+    "low": "1.19922",
+    "open": "1.19973",
+    "change": "-0.03",
+    "datetime": "2026-01-28 15:00:00"
+  },
+  "indicators": {
+    "rsi": 62.11175,
+    "macd": 0.0030449601,
+    "macd_signal": 0.0033228203,
+    "sma20": 1.19739
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：震荡偏多延续",
+      "content": "从价格结构看，欧元/美元维持在1.199附近窄幅震荡，短期低点逐步抬高，整体仍处于整理中的偏多格局。当前价格稳于关键均线之上，显示多头仍掌握主动，但上行动能略显谨慎。\n\n技术指标方面，价格高于SMA(20)的1.19739，均线对汇价形成动态支撑。MACD数值为0.0030，位于零轴上方，暗示多头趋势尚未破坏，但信号线缺失，动能强弱需结合价格突破确认。\n\n支撑阻力结构清晰，下方首要支撑位于1.1975附近，其次是日内低点1.1992下方区域；上方阻力关注1.1998至1.2000整数关口，若有效突破，有望打开进一步上行空间。\n\n交易策略上，稳健型交易者可等待回踩支撑后的企稳信号再布局多单，激进者可关注突破1.2000后的顺势跟进。若跌破SMA(20)，需警惕短线回调风险，及时控制仓位。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD currency pair is currently trading at 1.19938, showing a slight decline of 0.03% over the last 24 hours. The recent price action has remained relatively stable within a narrow range, with a high of 1.19975 and a low of 1.19922. This indicates a period of consolidation as the market assesses its next direction. The overall trend appears to be bullish in the short term, supported by the price holding above the 20-day Simple Moving Average (SMA) at 1.19739.\n\nIn terms of technical indicators, the absence of the RSI (Relative Strength Index) makes it challenging to assess overbought or oversold conditions. However, the MACD (Moving Average Convergence Divergence) shows a positive value at 0.0030449601, suggesting upward momentum. Traders should look for potential bullish signals if the MACD crosses above its signal line in the coming sessions. This could indicate a strengthening trend, making the EUR/USD more appealing for buyers.\n\nKey support levels to watch are at the SMA(20) of 1.19739 and the psychological level of 1.19700, which could provide a buffer against downward price movements. Resistance is evident at the recent high of 1.19975, with further resistance likely near 1.20000, a critical psychological barrier. A breakout above this level could pave the way for further gains, while failure to maintain above the SMA may prompt a reassessment of long positions.\n\nTraders may consider entering long positions if the price breaks above 1.20000, with a target around 1.20200. Conversely, if the price fails to hold above the SMA, short positions may be warranted, targeting the support levels mentioned. Careful monitoring of the MACD and other indicators will be essential in making informed decisions as the market evolves."
+    }
+  }
+}

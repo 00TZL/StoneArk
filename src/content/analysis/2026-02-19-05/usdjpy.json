@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-02-19T05:19:45.829Z",
+  "price": {
+    "close": "155.15968",
+    "high": "155.20263",
+    "low": "155.11908",
+    "open": "155.11908",
+    "change": "0.02",
+    "datetime": "2026-02-19 16:00:00"
+  },
+  "indicators": {
+    "rsi": 77.69914,
+    "macd": 0.38382055,
+    "macd_signal": 0.36009084,
+    "sma20": 154.58136
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理，短期多头略占优势]",
+      "content": "当前美元/日元的价格在155.16附近，整体呈现震荡整理的状态。从短期来看，价格维持在155.12至155.20区间内波动，暂时缺乏强劲的趋势推动。虽然近期有小幅上涨，但仍需关注是否能突破155.20的阻力位。\n\n技术指标方面，MACD呈现正值0.38，虽然信号线暂缺，但当前柱状图表明短期内存在一定的买盘力量。SMA(20)处于154.58，价格高于此水平，暗示短期内多头力量相对较强。RSI数据缺失，无法进一步确认超买或超卖状态。\n\n支撑位可参考154.12附近，而阻力位则在155.20处。若价格突破155.20，可尝试寻找进一步的上行机会。反之，若跌破154.12支撑，可能会导致进一步的回调。此时，投资者应谨慎操作，避免过度追涨。\n\n交易建议方面，建议短线多头策略，但需密切关注155.20的突破情况。一旦确认上涨趋势，可以逐步入场，目标可看向155.50-155.70区域。如果出现回调至154.12附近，也可考虑逢低买入。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently experiencing a narrow range with a slight bullish bias. At the latest price of 155.15968, it’s hovering near recent highs, suggesting the potential for continuation in the short term. Despite the modest 24-hour change of 0.02%, the overall trend remains upward, supported by the price holding above the 20-period SMA at 154.58136. A break above 155.20263 could see further upside momentum, targeting the next key resistance levels.\n\nIndicator-wise, the MACD reading of 0.3838 suggests that bullish momentum is intact. However, the absence of a signal line or a RSI reading complicates deeper momentum analysis. This setup implies that the current price action is supported by moderate buying pressure, but the market lacks confirmation of strong momentum. Traders should watch for a crossover in the MACD or the emergence of RSI readings for better clarity on market strength.\n\nIn terms of support and resistance, the immediate support level is found at 155.11908. A move below this level could open the door to test the 20-period SMA, which may act as a dynamic support zone. On the upside, 155.20263 serves as the first resistance, followed by 155.50 as a psychological barrier. A break and close above these levels would signal an extended bullish trend, likely pushing the pair towards 156.00.\n\nFor traders, the current setup calls for caution. A breakout above 155.20 could be a signal to enter long positions, with targets around 155.50 or higher. Conversely, if the price fails to maintain above the 155.12 support, it may present an opportunity to sell towards the SMA or deeper levels around 154.50. Close monitoring of indicator signals and price action is crucial for better entry points."
+    }
+  }
+}

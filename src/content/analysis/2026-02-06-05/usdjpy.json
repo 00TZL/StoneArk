@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-02-06T05:13:27.213Z",
+  "price": {
+    "close": "156.62682",
+    "high": "156.66256",
+    "low": "156.61556",
+    "open": "156.65197",
+    "change": "-0.02",
+    "datetime": "2026-02-06 16:00:00"
+  },
+  "indicators": {
+    "rsi": 42.48792,
+    "macd": -0.031872054,
+    "macd_signal": 0.014641307,
+    "sma20": 156.85938
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理，短期偏弱]",
+      "content": "当前美元/日元处于震荡整理状态，价格接近156.60区域，显示出较强的区间震荡特征。市场未见明显的单边趋势，短期内可能继续保持这种横盘整理。突破关键支撑或阻力位后，才可能出现明确的价格方向。\n\n技术指标方面，RSI与MACD未能提供清晰的趋势信号。目前，MACD值为负，显示出略微的空头势头，但由于未见明显的超卖或超买信号，短期内可能会维持在现有区间内。SMA(20)线目前位于156.86，作为近期价格的潜在阻力位。\n\n从支撑和阻力位来看，当前的支撑位在156.60附近，若价格跌破此位，可能进一步回测156.62附近的低点。上方的阻力位则在156.86附近，若价格突破此点，可能会迎来新的上涨机会。市场情绪较为中立，因此关注区间突破是关键。\n\n建议短线交易者可在156.60至156.86区间内进行区间操作，等待价格突破重要技术水平后再做决策。风险控制方面，建议设置止损位于156.50附近，以避免大幅波动带来的风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently showing a slight downtrend, with the price hovering just below its 20-period simple moving average (SMA) at 156.85938. The recent trading range between 156.61556 and 156.66256 indicates limited volatility in the short term, but the current price is trading nearer to the lower end of this range. This suggests that the market may be leaning slightly bearish, although the lack of strong directional momentum points to indecision in the market. A break below the low of 156.61556 could indicate further downward movement, while a reversal above 156.66256 might signal a potential retest of the SMA.\n\nThe MACD indicator is currently showing a value of -0.031872054, indicating that the market sentiment is neutral to slightly bearish. With no signal line value available, the indicator's interpretation is limited, but it’s worth noting that the negative MACD could point to weakening bullish momentum. As the pair struggles to hold above the 156.61556 support level, it will be crucial to watch for any shifts in momentum. A cross above zero on the MACD would indicate a potential bullish reversal, suggesting a possible retest of the 156.85938 SMA and beyond.\n\nSupport is found near the 156.61556 level, which could act as a short-term floor. If this level is broken, the next support zone could be around 156.50. On the resistance side, the recent high of 156.66256 could act as the immediate resistance point. A breakout above this level might push the price higher toward the 156.85 region, where the 20-period SMA is located. Traders should monitor these key levels closely for breakout opportunities.\n\nGiven the current market conditions, a short position near 156.66 with a stop above the SMA could be a conservative approach for bearish traders. Conversely, those with a bullish bias may wait for confirmation of a price rebound above 156.66 or a break above the SMA, setting up a possible entry point toward higher resistance levels. However, caution is advised due to the lack of strong directional signals."
+    }
+  }
+}

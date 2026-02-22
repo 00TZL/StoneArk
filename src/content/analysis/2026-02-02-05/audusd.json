@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-02-02T05:22:52.986Z",
+  "price": {
+    "close": "0.69372",
+    "high": "0.69416",
+    "low": "0.6934",
+    "open": "0.69412",
+    "change": "-0.06",
+    "datetime": "2026-02-02 16:00:00"
+  },
+  "indicators": {
+    "rsi": 37.10196,
+    "macd": -0.00059252267,
+    "macd_signal": -0.00040802333,
+    "sma20": 0.6956505
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短线偏弱震荡下行",
+      "content": "当前价格0.69372略低于20日均线0.69565，显示多头动能不足，短期趋势偏弱，走势以震荡下探为主，需警惕进一步回调风险。\n\nMACD处于负值区域，说明空头力量仍占优势，尽管跌幅不大，但缺乏明确反转信号。RSI暂缺数据，市场超买超卖判断需结合后续走势确认。\n\n支撑位关注0.6934低点附近，若跌破可能下看0.6900整数关口。上方阻力在0.6956均线位置，进一步阻力在0.6980区域。\n\n交易上建议短线以逢高做空为主，止损设于0.6965上方，目标看向0.6900附近。若价格重新站稳均线，可转为区间思路低吸。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar (AUD) has been facing mild bearish pressure against the US Dollar (USD), with the latest price at 0.69372, reflecting a slight 0.06% drop in the past 24 hours. The price has been contained within a tight range between 0.6934 and 0.69416, indicating limited volatility. A continuation of this consolidation phase suggests that the market is awaiting a catalyst to either push higher or break lower. The lack of significant movement highlights the absence of strong directional momentum in the short term.\n\nThe 20-period Simple Moving Average (SMA) currently stands at 0.6956505, slightly above the current price, reinforcing the idea of a bearish short-term bias. If the price continues to trade below this level, the likelihood of further downside remains. Traders should watch for a break below the recent low at 0.6934, which could open the door for further declines towards the next support level at 0.6920. Conversely, a price break above the 20-SMA at 0.6957 could signal a potential reversal or a bullish correction towards 0.6975.\n\nCurrently, the RSI (14) is unavailable, so it's essential to monitor any shifts in momentum. The MACD value of -0.0006, though negative, is relatively flat, indicating that momentum remains neutral. A decisive crossover of the MACD line above the signal line could signal the beginning of a bullish trend, whereas a further decline in the MACD suggests the prevailing bearish sentiment may persist. \n\nFor traders, the key support levels to watch are around 0.6934 and 0.6920, while resistance is marked by the 0.6957-0.6960 range. A break above resistance would likely lead to a bullish retracement, while sustained weakness below 0.6934 may result in further downside testing. Traders should exercise caution and look for a clearer trend confirmation before entering positions."
+    }
+  }
+}

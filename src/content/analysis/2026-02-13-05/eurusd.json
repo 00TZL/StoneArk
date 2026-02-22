@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-02-13T05:17:38.551Z",
+  "price": {
+    "close": "1.18613",
+    "high": "1.18647",
+    "low": "1.18592",
+    "open": "1.18623",
+    "change": "-0.01",
+    "datetime": "2026-02-13 16:00:00"
+  },
+  "indicators": {
+    "rsi": 40.7586,
+    "macd": -0.00041060497,
+    "macd_signal": -0.00035784852,
+    "sma20": 1.18718
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[市场呈现震荡整理]",
+      "content": "当前，欧元/美元（EUR/USD）价格在1.18613附近波动，24小时变化幅度极小，市场情绪较为谨慎。价格在1.18592至1.18647区间内震荡整理，表明短期内缺乏明确方向。价格接近20日简单移动平均线（SMA 20）1.18718，暗示可能出现一定的反弹。\n\n技术指标方面，虽然RSI（相对强弱指数）数据暂缺，但从MACD指标来看，当前值为负（-0.00041060497），表明卖盘略占优势。不过，MACD信号线暂未显示强烈的空头信号，市场的震荡行情仍有可能持续。\n\n支撑位位于1.18592附近，若突破这一价位，可能会进一步回调至更低的支撑区域。上方的阻力位在1.18718附近，即SMA(20)所示的水平，若价格突破这一阻力位，可能会迎来短期的反弹行情。\n\n基于当前的震荡走势，建议在1.18592-1.18718区间内进行区间交易，同时留意MACD变化，若出现趋势性反转信号，可以适时调整策略。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently trading at 1.18613, experiencing a slight 24-hour change of -0.01%. This suggests a relatively stable market, with minimal volatility. The recent price movement has been confined between 1.18592 and 1.18647, showing limited fluctuations. This narrow range could indicate indecision in the market, possibly due to a wait-and-see approach by traders in anticipation of upcoming economic releases or events. The market seems to be in a consolidation phase, holding just below the 20-period simple moving average (SMA) at 1.18718.\n\nFrom a trend perspective, the pair appears to be in a short-term neutral phase, with no clear directional bias. Although the price is slightly below the 20-SMA, the lack of significant momentum in either direction suggests that the market is in a consolidation phase. The RSI(14) is not available at the moment, but the MACD value of -0.00041 is slightly negative, indicating that the bears may have a minor advantage. However, this is not strong enough to signal a significant downtrend, suggesting potential support could hold if tested.\n\nSupport for the pair is seen near the recent low of 1.18592, which may provide a solid base for any potential upward movement. A break below this level could open the door for further downside, with 1.1850 and 1.1830 acting as key support levels. On the resistance side, the 20-period SMA at 1.18718 is the immediate barrier, with a break above this level potentially targeting 1.1890 and 1.1905 as the next resistance zones. Traders should watch for any signs of a breakout or reversal at these levels.\n\nConsidering the current price action, a wait-and-see approach is advisable. If the pair holds above 1.18592, a move back toward the 20-SMA at 1.18718 is likely. Conversely, a break below 1.18592 could signal further downside risk. Traders may consider entering short positions below this support level, while long trades may be more suitable if the price breaks above the resistance levels, particularly around 1.18718."
+    }
+  }
+}

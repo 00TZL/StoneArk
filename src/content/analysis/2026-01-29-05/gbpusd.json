@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-01-29T05:02:07.875Z",
+  "price": {
+    "close": "1.384",
+    "high": "1.384",
+    "low": "1.38397",
+    "open": "1.38397",
+    "change": "0.00",
+    "datetime": "2026-01-29 16:00:00"
+  },
+  "indicators": {
+    "rsi": 64.020241,
+    "macd": 0.0014430398,
+    "macd_signal": 0.0011382919,
+    "sma20": 1.38016
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[震荡整理，关注支撑与阻力]",
+      "content": "当前英镑/美元在1.384附近震荡整理，显示出市场对该价位的关注。近期价格波动较小，显示出买卖双方力量相对平衡。短期内，若价格继续维持在此区间，可能会形成更明确的趋势信号。\n\n从技术指标来看，虽然当前RSI未提供，但结合SMA(20)的1.38016水平，可以推测出短期内的支撑位。若价格下破此支撑，可能会引发进一步的回调，反之则有望向上突破并测试更高的阻力位。\n\n在支撑与阻力的分析中，1.38016为关键支撑位，而1.386则为短期阻力位。若突破1.386，可能为多头提供进一步的入场机会；反之，若跌破1.38016，则需要谨慎操作，考虑调整策略。\n\n建议交易者密切关注价格在支撑和阻力区间的表现，适时进行短线交易。对于风险偏好较低的投资者，可以考虑在支撑位附近寻找买入机会，而在接近阻力位时，则可考虑获利了结或设定止损。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD currency pair is currently trading at 1.384, showing a neutral stance with no significant movement over the past 24 hours. This price action indicates a consolidation phase, as the trading range has been tight, with the high and low only marginally different. In such scenarios, it is essential to keep an eye on broader market trends, as a breakout from this consolidation could lead to a more definitive direction. Traders should monitor for signs of momentum shifts that could indicate potential trading opportunities.\n\nFrom a technical perspective, while the RSI is not available for analysis, the MACD reflects a slightly positive value, suggesting that bullish momentum may be present, albeit weak. The Simple Moving Average (SMA) at 20 periods sits at 1.38016, providing a potential support level. If the price maintains above this SMA, it may suggest a continuation of the current bullish sentiment. Conversely, a drop below this level could signal a shift in momentum, warranting caution among traders.\n\nIn terms of support and resistance, the immediate support is found at the SMA level of 1.38016, while resistance appears to be at the psychological level of 1.385. A breakout above this resistance could open the door for an upward move, potentially targeting higher resistance levels. Conversely, if the price breaks below the support, it may attract sellers, pushing the pair down towards lower support areas.\n\nTraders should consider employing a range trading strategy in the current environment. A buy position could be initiated if the price breaks and holds above 1.385, while a sell position may be warranted if it drops below the SMA at 1.38016. Risk management practices, including stop-loss orders, should be implemented to protect against unforeseen volatility in this consolidating market."
+    }
+  }
+}

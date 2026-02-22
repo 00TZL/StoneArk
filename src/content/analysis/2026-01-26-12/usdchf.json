@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-01-26T13:05:40.518Z",
+  "price": {
+    "close": "0.77916",
+    "high": "0.77918",
+    "low": "0.7785",
+    "open": "0.77854",
+    "change": "0.08",
+    "datetime": "2026-01-27 00:00:00"
+  },
+  "indicators": {
+    "rsi": 52.53572,
+    "macd": -0.00062794965,
+    "macd_signal": -0.00092657118,
+    "sma20": 0.777316
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[震荡整理，短期偏弱]",
+      "content": "当前美元/瑞郎(USD/CHF)价格呈现震荡整理的态势。最新价格为0.77916，价格波动较为平稳，24小时变化仅为0.08%。短期内，价格未能突破0.77918的高点，显示出一定的压制力，暗示价格可能仍处于整理阶段。\n\n技术指标方面，RSI(14)数据缺失，难以做出精准的超买或超卖判断。MACD目前显示负值(-0.00062794965)，这表明短期内卖压略重，市场情绪偏向于承压。SMA(20)位于0.777316，价格目前接近该支撑位，若价格进一步下探，可能会受到支撑。\n\n支撑位方面，0.7785附近可能成为短期内的关键支撑位，一旦突破则可能带来更深的回调。阻力位则位于0.77918附近，若价格突破这一水平，可能会带来反弹动能，开启新的上涨空间。\n\n综合来看，短期内美元/瑞郎可能继续维持震荡走势。若价格未能突破关键支撑或阻力位，建议谨慎操作，等待明确的趋势信号出现。在当前市场情况下，建议采取短期观望或做震荡区间内的交易策略。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently trading near 0.77916, showing a minor 24-hour change of 0.08%. Price movement has been contained within a narrow range, with the high for the day at 0.77918 and the low at 0.7785. This indicates a period of consolidation, suggesting that neither buyers nor sellers are dominating the market at present. The currency pair is currently sitting close to its 20-period simple moving average (SMA) of 0.777316, which can serve as a critical reference point for short-term price action. A break above the current range could push the pair higher toward previous resistance levels.\n\nLooking at the MACD, the value is slightly negative at -0.00063, indicating that bearish momentum is still present in the market. However, without a defined signal line or crossover, it’s difficult to confirm a strong trend in either direction. This suggests the market is still indecisive, with a possible bearish bias if the momentum continues. Traders should look for a stronger MACD crossover or a move into positive territory for clearer directional signals. Until then, caution is recommended in entering trades based solely on this indicator.\n\nSupport is located at the low of the day at 0.7785, with further support near the 20-period SMA. If the price breaks below this level, it could open the door for a retest of deeper support levels. On the resistance side, 0.77918 is the immediate barrier, with the potential for further resistance near the 0.7800 level. A sustained push above 0.7800 would indicate the possibility of more bullish action, particularly if confirmed by stronger technical indicators.\n\nFor traders, a conservative approach might involve waiting for a breakout either above the 0.7800 resistance or below the 0.7785 support before making trades. A move in either direction could offer a more defined trend and improved risk/reward opportunities. Until then, range-bound strategies might be prudent."
+    }
+  }
+}

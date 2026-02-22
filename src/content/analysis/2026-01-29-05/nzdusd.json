@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-01-29T05:04:53.819Z",
+  "price": {
+    "close": "0.6091",
+    "high": "0.6093",
+    "low": "0.60905",
+    "open": "0.60914",
+    "change": "-0.00",
+    "datetime": "2026-01-29 16:00:00"
+  },
+  "indicators": {
+    "rsi": 73.6208,
+    "macd": 0.001661156,
+    "macd_signal": 0.0012962365,
+    "sma20": 0.605013
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理中]",
+      "content": "当前纽元/美元(NZD/USD)的价格在0.6091附近，显示出一定的震荡整理迹象。价格在过去24小时内几乎没有变动，反映出市场参与者对当前水准的谨慎态度。结合高点0.6093和低点0.60905，市场似乎在一个狭窄的区间内徘徊，缺乏明确的方向。\n\n从技术指标来看，虽然RSI(14)数据缺失，但MACD值为0.0016611560，表明短期内动能略微偏向多头。然而，由于缺乏强劲的买入信号，投资者应保持警惕。20日简单移动平均线(SMA)在0.6050附近，为后市提供了一个潜在的支撑位，若价格下破此位，可能会引发进一步的下行压力。\n\n在支撑和阻力位方面，当前支撑位可关注0.6050，而阻力位在0.6100附近。投资者可以在价格接近支撑位时寻找买入机会，或者在突破阻力位后考虑加仓。然而，鉴于市场的震荡特性，建议采取灵活的止损策略，以降低潜在风险。总体而言，当前市场环境适合短线交易者把握波动。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD currency pair is currently trading at 0.6091, having shown minimal volatility with a 24-hour change of -0.00%. The recent high of 0.6093 and low of 0.60905 indicate a tight trading range, suggesting a consolidation phase. This stability could be attributed to market participants awaiting clearer economic signals from both New Zealand and the United States. As such, short-term traders may find opportunities within this narrow band, while longer-term players might be more cautious until a definitive trend emerges.\n\nTechnical indicators provide mixed signals at this juncture. The absence of an RSI reading limits our ability to assess overbought or oversold conditions, while the MACD shows a positive value of 0.0016611560, suggesting a slight bullish momentum. However, the lack of a signal line makes it challenging to establish a definitive trend. Meanwhile, the 20-period Simple Moving Average (SMA) at 0.60501300 serves as a potential support level, with the price currently above it, indicating that bullish sentiment could persist if the pair sustains above this threshold.\n\nLooking at support and resistance levels, the near-term support is found around the 0.6050 mark, which coincides with the SMA. If the price dips below this level, it could trigger further selling pressure, potentially targeting 0.6030. On the upside, resistance appears near the recent high of 0.6093. A breakout above this level could pave the way for a test of 0.6110, where additional resistance may be encountered. \n\nFor traders, the current environment suggests a cautious approach. Day traders might consider scalping within the 0.60905 to 0.6093 range, while swing traders could wait for a confirmed breakout or breakdown before entering positions. Keeping an eye on fundamental developments and economic indicators from both countries will be crucial, as these factors could significantly influence market direction and volatility in the NZD/USD pair."
+    }
+  }
+}

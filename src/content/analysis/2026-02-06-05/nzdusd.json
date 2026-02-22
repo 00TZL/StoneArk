@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-02-06T05:16:08.954Z",
+  "price": {
+    "close": "0.59702",
+    "high": "0.59708",
+    "low": "0.59683",
+    "open": "0.59688",
+    "change": "0.03",
+    "datetime": "2026-02-06 16:00:00"
+  },
+  "indicators": {
+    "rsi": 47.37286,
+    "macd": -0.00094959798,
+    "macd_signal": -0.0011302567,
+    "sma20": 0.597165
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理，短期偏弱]",
+      "content": "目前，纽元/美元价格在0.59683和0.59708之间震荡整理，表明市场缺乏明显的动能。从技术面来看，价格位于20日简单移动平均线(SMA)附近，表明短期内市场维持震荡格局。没有强烈的上涨或下跌信号，价格可能在当前区间内继续震荡。\n\nMACD指标显示负值，表明卖盘压力稍显强劲，尽管信号线数据缺失，但负值已暗示市场情绪偏向空头。RSI未提供数据，但从目前的价格波动来看，市场的超买或超卖状况不明显，可能进一步支撑震荡走势。\n\n在支撑和阻力方面，短期内0.5968附近的支撑位可能有效，若突破此位，价格可能进一步下行至0.5950附近。上方的阻力位则在0.5975附近，若突破此阻力位，可能出现短期反弹。\n\n考虑到当前市场处于震荡整理阶段，建议交易者关注0.5968和0.5975的关键价位。短线交易者可以选择在震荡区间内操作，但应保持谨慎，避免盲目追涨杀跌。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "NZD/USD is trading near 0.5970, showing a muted short-term tone after a very tight daily range. Price is hovering just below the 20-period simple moving average at 0.59717, suggesting mild downside pressure despite the flat 24-hour change. Overall structure points to a short-term consolidation within a broader soft bias, with buyers struggling to regain control above the near-term average.\n\nMomentum indicators lean slightly bearish. The MACD reading remains negative at around -0.00095, which implies downside momentum is still present even if it has not accelerated. The lack of a current RSI reading limits overbought or oversold assessment, so price action and moving averages take more weight. As long as MACD stays below zero, upside attempts may continue to fade rather than develop into a sustained recovery.\n\nOn the downside, immediate support sits near the recent low around 0.5968, followed by a more psychological support zone near 0.5950, where buyers previously showed interest. A clear break below these levels would expose the pair to deeper weakness. On the upside, resistance is clustered around 0.5972–0.5975, aligning with the SMA(20), with a stronger cap near 0.6000 if momentum improves.\n\nFrom a trading perspective, range-based strategies appear more suitable than trend-following ones for now. Short-term traders may look for selling opportunities near resistance while MACD remains negative, using tight risk controls due to low volatility. Alternatively, a confirmed break and hold above the 20-period average could open room for cautious long positions, targeting higher resistance while watching for momentum confirmation."
+    }
+  }
+}

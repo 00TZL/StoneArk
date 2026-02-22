@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-02-19T05:23:19.160Z",
+  "price": {
+    "close": "4989.2688",
+    "high": "4993.8492",
+    "low": "4984.31345",
+    "open": "4984.42111",
+    "change": "0.10",
+    "datetime": "2026-02-19 16:00:00"
+  },
+  "indicators": {
+    "rsi": 62.030937,
+    "macd": 13.30436,
+    "macd_signal": 14.21942,
+    "sma20": 4972.73827
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理，关注支撑与阻力区间]",
+      "content": "目前，黄金/美元在4989.2688附近震荡整理。价格略微回落，未能突破4990的阻力水平。整体走势呈现窄幅震荡，短期内缺乏明显方向。虽然未显示RSI和MACD的完整数据，但从价格行为来看，市场情绪偏向谨慎。\n\n技术指标方面，20日简单移动平均线(SMA)位于4972.74，表明短期内黄金价格可能受到这一均线的支撑。价格未能突破4993的高点，显示短期内上行压力较大。MACD数值13.30显示出市场的轻微上升势头，但信号线未出现明确变化，表明当前趋势并不强劲。\n\n支撑位方面，4984.31的低点为关键支撑区间，一旦突破该水平，可能会进一步下探4970附近的支撑。阻力位则集中在4993.85附近，若突破该区间，可能会试探更高的价格水平。\n\n建议投资者在当前震荡行情中保持观望，暂时不宜追高。若价格回调至4970附近，可考虑逐步建仓。若突破4994，可以寻找短期的突破机会，但需设好止损。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD market is currently in a consolidation phase with a relatively narrow range, as reflected in the latest price of 4989.27. Price action has been oscillating between 4993.85 and 4984.31, which indicates indecision among traders. The market's 24-hour change of 0.10% further supports this view of a range-bound scenario. The lack of a clear upward or downward momentum suggests that a breakout in either direction could determine the next significant movement.\n\nIn terms of technical indicators, the RSI(14) is currently unavailable, which leaves us with the MACD at 13.30. The positive MACD value indicates potential bullish momentum, but without the signal line for comparison, the reliability of this momentum is uncertain. The SMA(20) at 4972.74 provides some support, highlighting the possibility of a bounce from this level if the price tests it. This suggests that any retracement to 4972.74 could be seen as a buying opportunity, depending on other market factors.\n\nLooking at support and resistance levels, the immediate support sits at 4984.31, with the next stronger level being 4972.74 as indicated by the 20-period simple moving average. Resistance remains near the high at 4993.85, which may serve as a barrier for further upside momentum. A break above this level could open up a potential move toward 5000, a psychological level often watched by traders. On the downside, a break below the support at 4984.31 could open the door to further declines toward the 4970 mark.\n\nFor trading strategies, the range-bound nature suggests a scalping or short-term trading approach. A breakout above 4993.85 may trigger bullish positions, targeting 5000 or higher, while a breakdown below 4984.31 could be seen as an opportunity for short positions. Traders should monitor the MACD closely for confirmation of direction and wait for a clear shift in momentum before entering trades."
+    }
+  }
+}

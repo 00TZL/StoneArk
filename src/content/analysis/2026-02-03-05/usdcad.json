@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-02-03T05:14:30.957Z",
+  "price": {
+    "close": "1.36667",
+    "high": "1.36676",
+    "low": "1.36613",
+    "open": "1.36628",
+    "change": "0.03",
+    "datetime": "2026-02-03 16:00:00"
+  },
+  "indicators": {
+    "rsi": 52.56386,
+    "macd": 0.00068591183,
+    "macd_signal": 0.0010185637,
+    "sma20": 1.36679
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理，暂时无明确趋势]",
+      "content": "当前美元/加元价格为1.36667，呈现震荡整理格局。24小时的价格变动仅为0.03%，波动幅度较小。价格在1.36613至1.36676之间震荡，显示市场缺乏强烈的方向性信号。当前市场情绪偏中立，短期内无明显的趋势性变化。\n\n从技术指标来看，RSI(14)缺乏数据，因此无法提供超买或超卖的信号。MACD值为0.00068591183，虽然呈现微弱的正值，但信号线缺失使得该指标尚难以提供明确的买卖信号。SMA(20)为1.36679，表明价格略微偏离均线，显示短期内可能维持在该水平附近波动。\n\n支撑位和阻力位较为接近，1.36613附近为支撑位，而1.36676则构成阻力位。突破这些关键价位将可能带来更强的趋势方向。若价格突破上方阻力，可能会吸引买盘；若跌破支撑位，可能会引发进一步下行。\n\n综合来看，建议交易者保持观望，等待价格突破关键支撑或阻力位再做决策。在当前震荡区间内操作风险较高，耐心等待更明确的技术信号可能是更明智的选择。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently trading near 1.36667, reflecting a minor increase of 0.03% over the last 24 hours. The market's price action shows little volatility, with the pair trading between a high of 1.36676 and a low of 1.36613. This suggests a relatively tight consolidation, indicating indecision in the market. The pair has been in a neutral stance, with the price closely hovering around its 20-period simple moving average (SMA) of 1.36679. The absence of a strong directional trend implies that the market is awaiting new catalysts to determine the next significant move.\n\nLooking at technical indicators, the Relative Strength Index (RSI) is currently unavailable, which limits our ability to assess overbought or oversold conditions. However, the MACD value of 0.00068591183 indicates a minor bullish momentum, though there is no corresponding signal line data to confirm its strength or sustainability. Given these indicators, the current market environment leans towards a wait-and-see approach, where traders might refrain from committing heavily to either the long or short side until a clearer trend emerges.\n\nFrom a support and resistance perspective, the pair is trading close to the upper boundary of its recent range, which could act as resistance at 1.36676. A break above this level might target 1.3700, while failure to sustain above 1.36600 could bring the pair back toward the lower range near 1.36613. The 1.36450 region also appears as a secondary support. Traders should monitor price action closely around these levels to gauge potential breakouts or reversals.\n\nGiven the current market conditions, a cautious approach is advisable. If the pair breaks above 1.36676, a potential buy opportunity could present itself, targeting the 1.3700 level. Conversely, if the price fails to sustain its current levels, shorting towards the 1.36450 support could be considered. Patience and attention to emerging indicators will be key in navigating this range-bound market."
+    }
+  }
+}

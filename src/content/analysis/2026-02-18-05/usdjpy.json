@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-02-18T05:20:57.448Z",
+  "price": {
+    "close": "153.5777",
+    "high": "153.61797",
+    "low": "153.5463",
+    "open": "153.60086",
+    "change": "-0.01",
+    "datetime": "2026-02-18 16:00:00"
+  },
+  "indicators": {
+    "rsi": 59.063885,
+    "macd": 0.080975983,
+    "macd_signal": 0.051286274,
+    "sma20": 153.37168
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理，短期看震荡区间]",
+      "content": "当前美元/日元（USD/JPY）价格在153.5777附近震荡整理。市场表现出较强的横盘走势，未出现明显的上涨或下跌趋势。短期内，价格波动幅度较小，可能会持续在153.55至153.62区间内震荡。\n\n技术指标方面，虽然RSI和MACD数据缺失，但SMA(20)均线略呈上行趋势，指示出短期内市场仍有一定的支撑力。在缺乏强烈趋势的情况下，价格可能会围绕此均线波动，表明市场存在一定的整理模式。\n\n支撑位在153.55附近，若价格跌破该点，可能会进一步下探至153.50水平。阻力位则在153.62附近，突破该点可能会带来进一步的上涨，但短期内突破的概率相对较低，需关注成交量和市场情绪的变化。\n\n建议交易者在当前区间内进行短线操作，适当在支撑位附近寻找买入机会，在阻力位附近寻找卖出机会，保持灵活应对市场波动，避免过度追高或追低。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently trading at 153.5777, showing minimal movement with a 24-hour change of -0.01%. Despite the slight drop, the market remains in a strong uptrend, sustained by the price holding above the 20-period Simple Moving Average (SMA) of 153.37168. The pair is showing resistance near the high of 153.61797, which may limit upward movement in the short term. However, the overall bullish sentiment persists, supported by broader market conditions. \n\nThe MACD value of 0.080975983 suggests that momentum is still bullish, though the lack of a clear signal line means traders should remain cautious about potential reversals. This implies that while the trend is upwards, the absence of a reliable signal for further gains suggests a need for confirmation before entering long positions. A break above the recent high could provide a clear buying signal. \n\nSupport levels are seen near 153.5463, which could act as an anchor should the price pull back. If this support holds, it offers an opportunity for traders to consider buying at a lower price in anticipation of further bullish movement. However, if the price falls below this level, the next significant support would likely be found at the SMA, around 153.37168, reinforcing the likelihood of price recovery in the medium term.\n\nTraders should focus on the potential for range-bound behavior in the near term, given the lack of strong directional indicators. For now, it may be prudent to wait for the market to confirm a breakout above resistance or a rebound from support before making any aggressive moves. Patience will be key to managing risk effectively."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-01-26T08:42:58.565Z",
+  "price": {
+    "close": "153.7402",
+    "high": "154.29955",
+    "low": "153.48115",
+    "open": "154.2395",
+    "change": "-0.33",
+    "datetime": "2026-01-26 19:00:00"
+  },
+  "indicators": {
+    "rsi": 30.29901,
+    "macd": -0.45593723,
+    "macd_signal": -0.39956429,
+    "sma20": 154.77474
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[短期震荡，长期看涨]",
+      "content": "当前美元/日元的价格为153.7402，近期走势表现出一定的震荡特征。在过去24小时内，价格下跌了0.33%，显示出市场对进一步上涨的谨慎态度。短期内，价格在154.29955和153.48115之间震荡，投资者需密切关注这一区间的突破情况。\n\n从技术指标来看，当前的MACD处于负值区域，表明卖方力量较强，短期内可能继续承压。然而，20日简单移动平均线(SMA)显示出价格仍在其下方，这可能意味着短期内存在反弹的机会。RSI指标尚未提供，但若其接近超卖区域，可能会引发买入信号。\n\n在支撑和阻力位方面，153.48115为近期的重要支撑位，有效跌破可能会导致更大幅度的回调。而154.29955则是关键的阻力位，若价格突破该水平，可能会重新吸引多头入场，推动价格上涨。因此，投资者需关注这两个水平的变化。\n\n总体而言，建议投资者在短期内保持观望，等待关键支撑和阻力位的突破信号。在此基础上，可考虑在支撑位附近寻找买入机会，或在阻力位附近设置止损以控制风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently trading at 153.7402, showing a slight negative movement of -0.33% over the last 24 hours. This price action suggests that the market is consolidating after hitting a recent high of 154.29955, just below the SMA(20) level at 154.77474. With price trading below the 20-period simple moving average, the short-term trend appears bearish. The market is struggling to push higher, indicating possible weakness in the bullish momentum.\n\nDespite the absence of the RSI(14) data, the MACD value at -0.45593723 suggests that bearish momentum is dominating. The negative MACD reading indicates that the selling pressure is stronger than buying interest. The MACD histogram could confirm further downside if it widens, signaling more significant bearish moves. However, the absence of the RSI and Signal data leaves some uncertainty, which could limit the accuracy of short-term trade predictions.\n\nSupport levels are seen near the 153.48115 low, which could act as a key area to watch for potential bounce-back. If this level holds, it could signal a reversal or temporary support for a bullish push. A break below this level would open the door for further downside toward the 153.00 zone. On the upside, resistance lies around the SMA(20) at 154.77474, followed by the recent high of 154.29955. Traders may watch these levels closely for possible breakouts or reversals.\n\nConsidering the current market dynamics, a cautious approach is recommended. If price approaches the support level of 153.48115, a potential long position might be considered with a stop loss just below this level. Conversely, if the price tests the resistance zone near 154.77474, a short position could be viable, especially if bearish momentum remains intact."
+    }
+  }
+}

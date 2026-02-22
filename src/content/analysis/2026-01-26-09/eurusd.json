@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-01-26T09:40:28.590Z",
+  "price": {
+    "close": "1.18611",
+    "high": "1.1863",
+    "low": "1.18436",
+    "open": "1.18546",
+    "change": "0.05",
+    "datetime": "2026-01-26 20:00:00"
+  },
+  "indicators": {
+    "rsi": 56.4459,
+    "macd": 0.00079308249,
+    "macd_signal": 0.00095052611,
+    "sma20": 1.18504
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[震荡整理，关注关键支撑与阻力]",
+      "content": "当前欧元/美元（EUR/USD）在1.18611附近震荡整理，显示出市场在高位附近缺乏方向性。近期价格在1.1863和1.18436之间波动，表明买卖双方力量相对均衡。短期内，若价格突破1.1863，则可能会继续上行；反之，跌破1.18436则可能开启下行调整。\n\n从技术指标来看，当前的SMA(20)为1.18504，价格在其上方运行，显示出短期的上升趋势。虽然MACD值略为正值，表明多头略占优势，但由于RSI(14)数据缺失，需谨慎解读市场情绪。整体来看，市场仍需寻找明确的方向。\n\n支撑位方面，1.18436将是关键支撑，一旦价格跌破，可能会引发更多的卖盘。阻力位则看向1.1863，一旦突破，可能会吸引更多的买盘，推动价格向上测试更高水平。交易者应关注这些关键价位，以制定相应的交易策略。\n\n建议短线交易者可以在价格接近支撑位时考虑买入，以1.1863作为止盈目标，防范风险时可设置止损于1.1840。而若价格突破1.1863，则可考虑顺势追多，目标设定在1.1880区间，保持灵活应变的交易心态。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently trading at 1.18611, showing a slight increase of 0.05% over the past 24 hours. This small upward movement suggests a consolidation phase after recent fluctuations. The price is hovering near the recent high of 1.1863, indicating a potential resistance level that traders should monitor closely. A sustained break above this level could signal a continuation of bullish momentum, while a retreat towards the low of 1.18436 may suggest a bearish reversal.\n\nFrom a technical perspective, the absence of the RSI and MACD signal makes it challenging to derive definitive momentum indicators. However, the MACD value of 0.00079308249 implies a very slight bullish sentiment, suggesting that upward momentum may be present but weak. The SMA(20) at 1.18504 serves as a dynamic support level, which could provide buyers with an opportunity to enter the market if prices retrace toward this average. Traders should consider this SMA as a key area for potential long positions.\n\nSupport levels are identified at 1.18436, while resistance is seen at 1.1863. Should the price break below the support, it may trigger further selling pressure and push the pair down towards lower support zones. Conversely, if the price breaks through the resistance level, it could encourage additional buying interest, potentially leading to a price target in the 1.1880–1.1900 range. \n\nIn conclusion, traders should remain vigilant and look for price action around the identified support and resistance levels. A breakout from the current range could provide trading opportunities in either direction. Maintaining a disciplined approach with proper risk management strategies will be crucial, given the mixed signals from the indicators."
+    }
+  }
+}

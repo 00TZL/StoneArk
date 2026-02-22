@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-02-20T05:12:30.518Z",
+  "price": {
+    "close": "1.17516",
+    "high": "1.17546",
+    "low": "1.17514",
+    "open": "1.17534",
+    "change": "-0.02",
+    "datetime": "2026-02-20 16:00:00"
+  },
+  "indicators": {
+    "rsi": 31.82078,
+    "macd": -0.001018137,
+    "macd_signal": -0.0010174912,
+    "sma20": 1.17653
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[市场处于区间震荡，短期走势偏弱]",
+      "content": "当前欧元/美元（EUR/USD）价格为1.17516，全天变化幅度较小，仅为-0.02%，表明市场情绪相对平稳。从高点1.17546到低点1.17514，价格波动范围很小，显示出目前市场处于一个狭窄的区间内震荡。\n\n技术指标方面，MACD呈负值（-0.0010），且没有明确的信号线，这表明短期内卖压较强，但缺乏明确的下行趋势。SMA(20)为1.17653，当前价格略低于该均线，表明短期内市场有轻微的下行压力，尚未形成强烈的趋势。\n\n支撑位方面，近期低点1.17514可作为重要的支撑区域，如果价格突破这一点位，可能会加速下行。阻力位则位于1.17653附近，若突破该点，可能会出现反弹。然而，由于缺乏强势的技术信号，价格突破这些关键水平的可能性较小。\n\n建议短期内采取谨慎操作，若价格接近支撑位可考虑轻仓做多，反之接近阻力位则可考虑短线做空。整体建议保持观望，等待更加明确的突破信号。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently showing a narrow trading range, with the price hovering around 1.17516. This indicates a consolidation phase in the short term. The market has seen a modest 24-hour change of -0.02%, suggesting a lack of strong directional momentum. Given the high of 1.17546 and the low of 1.17514 within the last 24 hours, the pair is clearly contained in a tight range, which is typical for a market awaiting a catalyst for the next move.\n\nLooking at the technical indicators, the MACD is showing a value of -0.0010181370, which is slightly negative, signaling weak bearish momentum. However, since the MACD signal is unavailable, it’s important to wait for further confirmation before drawing any strong conclusions. The absence of RSI data also limits our ability to gauge overbought or oversold conditions. The 20-period simple moving average (SMA) at 1.17653, located just above the current price, suggests a slight bearish bias, with the price trading below the SMA. This could indicate resistance at or near the 1.1765 level.\n\nSupport is found around the 1.17514 to 1.1750 zone, where the recent lows have been established. This area provides a solid foundation for buyers to step in, potentially leading to a bounce back to higher levels. A move below this level could open up the door for a deeper retracement towards the next support around 1.1730. On the resistance side, the price may face a challenge near the 1.1765-1.1770 region, where the SMA and recent highs align. A breakout above this resistance would likely signal further bullish potential.\n\nTraders may consider a range-bound strategy within the 1.1750 to 1.1765 range, waiting for a clear breakout in either direction. A break above 1.1770 could lead to a stronger uptrend, while a dip below 1.1750 might trigger further bearish momentum. It is important to monitor upcoming economic releases and developments for further market direction."
+    }
+  }
+}

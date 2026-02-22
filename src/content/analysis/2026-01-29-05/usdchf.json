@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-01-29T05:05:35.657Z",
+  "price": {
+    "close": "0.76514",
+    "high": "0.76524",
+    "low": "0.76514",
+    "open": "0.76521",
+    "change": "-0.01",
+    "datetime": "2026-01-29 16:00:00"
+  },
+  "indicators": {
+    "rsi": 39.33292,
+    "macd": -0.00071869987,
+    "macd_signal": -0.0004084997,
+    "sma20": 0.767772
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[震荡整理趋势]",
+      "content": "当前美元/瑞郎（USD/CHF）的价格在0.76514附近，显示出震荡整理的趋势。过去24小时内，价格变动仅为-0.01%，表明市场参与者对该货币对的交易兴趣相对平稳，缺乏明显的方向性。高点和低点相对接近，反映出市场处于观望状态，投资者可能在等待更强的市场信号。\n\n技术指标方面，当前的MACD值为-0.00071869987，显示出短期内卖压略微增大，但尚未形成明显的空头信号。相对强弱指数（RSI）尚不可用，但若未来数据出现，需关注其是否接近超买或超卖区域，以判断市场情绪。20日简单移动平均线（SMA）为0.76777200，当前价格低于该水平，可能暗示短期内存在下行压力。\n\n在支撑和阻力位方面，当前水平的支撑位可能在0.76500附近，而阻力位则在0.76700一线。若价格突破0.76700，可能引发进一步上涨；反之，跌破0.76500则可能加剧下行风险。建议投资者谨慎操作，关注市场动态，适时调整仓位，避免在当前震荡期内盲目追单。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF currency pair is currently positioned at 0.76514, reflecting a slight decline of 0.01% over the last 24 hours. This minor adjustment suggests a consolidation phase in the market, as the price remains near its recent high and low range of 0.76524 to 0.76514. The lack of significant movement may indicate indecision among traders, as they assess broader economic factors influencing the US Dollar and Swiss Franc.\n\nFrom a trend analysis perspective, the price is trading below the 20-period simple moving average (SMA) of 0.76777200, which serves as a potential resistance level. This positioning suggests a bearish sentiment in the short term. If the price fails to break above the SMA, it could signal further downward pressure, with traders potentially looking for short positions around this level. Conversely, a sustained move above the SMA may indicate a trend reversal and provide a buying opportunity.\n\nIn terms of technical indicators, the MACD is currently negative at -0.00071869987, which further supports the bearish outlook. The absence of a signal line in this context implies that there may not yet be a clear momentum shift. Traders should monitor for any divergence in the MACD and price action, which could provide early signals of a potential trend change. With the RSI not available, traders may want to rely on price action and other indicators to gauge market strength.\n\nKey support levels to watch include the immediate low of 0.76514, which could act as a psychological barrier for further declines. A breakdown below this level might lead to additional selling pressure, targeting the next support at 0.76400. On the upside, if the price manages to break above the 20 SMA, resistance at 0.76724 could be the next target. Given the current market dynamics, a cautious approach is advisable, with a focus on confirming breakout signals before entering positions."
+    }
+  }
+}

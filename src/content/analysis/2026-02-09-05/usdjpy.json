@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-02-09T05:25:39.575Z",
+  "price": {
+    "close": "156.64200",
+    "high": "156.71001",
+    "low": "156.56700",
+    "open": "156.68201",
+    "change": "-0.03",
+    "datetime": "2026-02-09 16:00:00"
+  },
+  "indicators": {
+    "rsi": 30.16004,
+    "macd": -0.10456851,
+    "macd_signal": -0.045351745,
+    "sma20": 157.051424
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[当前震荡整理，关注关键支撑阻力位]",
+      "content": "美元/日元当前价格在156.64附近，整体呈现震荡整理态势。虽然价格小幅回落，但未见明显趋势变化，市场可能处于等待下一波行情的阶段。此时，价格表现出一定的横盘整理模式，短期内可能会在156.57和156.71之间波动。\n\n从技术指标来看，当前的MACD值为-0.10456851，显示出轻微的卖压，尽管信号线数据缺失，未能提供进一步的趋势确认。SMA(20)处于157.05附近，表明价格略低于近期的20日均线，可能存在一定的下行压力。RSI指标缺失，使得我们无法全面评估超买或超卖的市场状态。\n\n在支撑位方面，156.57一线是短期内的重要支撑区域，若价格跌破该位置，可能会进一步下探156.40附近。阻力位则位于156.71，如果价格突破该水平，可能会再次试探157.00一带的压力区间。综合来看，市场处于震荡模式，短期内可能在区间内震荡整理。\n\n建议交易者关注156.57和156.71这两个关键价格水平，突破这些位置可能会提供交易机会。在当前市场整理状态下，保持灵活的交易策略，建议等待明确突破信号再进行进场。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently showing a slight negative shift in the market, with a 24-hour change of -0.03%. The price is trading near 156.64, reflecting a stable range between the high of 156.71 and the low of 156.57. This range-bound movement suggests a consolidation phase, with neither bulls nor bears taking clear control. Traders will be looking for a breakout above 156.71 or below 156.57 to signal potential directional moves.\n\nThe absence of a clear RSI reading leaves room for subjective interpretation, as momentum indicators are not providing immediate guidance. The MACD shows a negative value of -0.1045, suggesting that bearish pressure is currently exerting influence on the pair, though the lack of a signal line makes this less actionable. The MACD's negative value reinforces the view of short-term weakness, but the overall trend remains neutral until further confirmation. \n\nSupport is seen near 156.57, with the recent low offering a solid level for potential bounce-back opportunities. A break below this could open the door for a deeper decline towards 156.40, with further support at 156.00. On the upside, resistance at 156.71 stands firm. A break above this could trigger a rally, with the next resistance level around 157.05, aligning with the 20-period Simple Moving Average. The market’s direction will likely depend on whether the price can break through these key levels.\n\nTraders should consider a cautious approach with breakout strategies, waiting for confirmation before entering long or short positions. A close above 156.71 could signal a bullish reversal, while a drop below 156.57 would point to further downside. Overall, with the market’s current indecision, tight risk management is essential, particularly when trading in such narrow ranges."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-02-06T05:11:28.476Z",
+  "price": {
+    "close": "1.1797",
+    "high": "1.17976",
+    "low": "1.17949",
+    "open": "1.17951",
+    "change": "0.02",
+    "datetime": "2026-02-06 16:00:00"
+  },
+  "indicators": {
+    "rsi": 53.15616,
+    "macd": -0.00027374861,
+    "macd_signal": -0.00041331296,
+    "sma20": 1.17917
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：当前震荡整理，短期维持区间波动",
+      "content": "当前欧元/美元在1.1797附近波动，全天变化幅度仅为0.02%，显示市场处于震荡整理状态。价格接近其20日简单移动均线(SMA 20)的水平(1.17917)，该均线可能会成为短期支撑位。由于当前缺乏明显的趋势形成，短期内可能会维持区间波动，市场情绪较为平稳。\n\nMACD指标目前为负值(-0.00027)，但信号线缺失，暗示市场缺乏足够的动能支持任何明确的方向性走势。RSI未提供具体数据，但结合当前价格走势看，市场暂时未出现超买或超卖的信号。若RSI出现回升，可能预示着多头力量的增强。\n\n在支撑位方面，1.1795附近可视为短期支撑，一旦价格跌破该位，可能会进一步测试1.1780附近的支撑区域。至于阻力位，1.1800和1.1820可能会限制上行空间，突破这些水平后可能会出现更强的买盘介入。\n\n考虑到当前震荡区间，建议短期内采取区间交易策略。在1.1790-1.1805区间内可尝试进行买入或卖出操作，止损设在1.1780以下，获利目标可设置在1.1820附近。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently consolidating around the 1.1797 level, showing minimal movement over the past 24 hours, with a very slight 0.02% change. The price has remained within a narrow range between the high of 1.17976 and the low of 1.17949. This lack of volatility suggests a phase of market indecision, where neither buyers nor sellers are dominating the market. Traders should be cautious in the short term, as a breakout in either direction could trigger a more significant price move.\n\nThe 20-period Simple Moving Average (SMA) is closely aligned with the current price at 1.17917, indicating that the market is in a state of equilibrium, neither strongly bullish nor bearish. With the absence of a clear RSI reading, there is limited information on potential overbought or oversold conditions. The MACD value of -0.00027374861 further reinforces this neutral sentiment, as the indicator remains close to zero. A more decisive signal will likely come from a stronger move in the MACD or the appearance of any substantial price action.\n\nSupport for EUR/USD can be seen at 1.17949, where the price has recently bounced. If this level is breached, the next significant support could be around 1.1780, which may attract further buyers looking for lower entry points. On the upside, resistance is likely at 1.1800, followed by 1.1815, both of which are critical in determining whether the price can break out of its current range. A sustained move above 1.1815 would suggest a bullish continuation.\n\nTraders should remain cautious in this range-bound environment. A breakout above 1.1815 could be a signal for a long position targeting the next resistance level around 1.1830. Conversely, a dip below 1.1790 might warrant a short position, aiming for support levels near 1.1780. Given the current market conditions, waiting for confirmation from price action or indicators before entering trades would be prudent."
+    }
+  }
+}

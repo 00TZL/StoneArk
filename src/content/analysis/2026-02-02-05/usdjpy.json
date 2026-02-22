@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-02-02T05:22:09.143Z",
+  "price": {
+    "close": "154.8143",
+    "high": "154.94269",
+    "low": "154.75564",
+    "open": "154.87317",
+    "change": "-0.04",
+    "datetime": "2026-02-02 16:00:00"
+  },
+  "indicators": {
+    "rsi": 48.43146,
+    "macd": 0.080534139,
+    "macd_signal": 0.088104693,
+    "sma20": 154.84025
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理，短期可能维持区间波动]",
+      "content": "当前美元/日元的价格接近154.8143，整体表现出震荡整理的趋势。价格在154.75至154.94之间波动，表明市场处于区间内波动的状态，缺乏强劲的趋势动力。RSI和MACD等技术指标未能提供明确的趋势信号，显示市场情绪较为平稳。\n\n从技术指标来看，SMA(20)为154.84025，价格略低于该均线，提示短期可能有一定的下行压力。MACD的正值（0.0805）虽然暗示有轻微的上涨动能，但由于信号线未显示，难以确认趋势是否会持续。RSI值缺失使得我们无法从超买超卖角度判断市场情绪。\n\n支撑位位于154.76附近，而阻力位则在154.94一线。若价格突破154.94，可以预期进一步的上涨至155.20或更高；反之，若跌破154.75，则可能向154.50附近寻求支撑。短期内，价格很可能会维持在这个区间内震荡。\n\n交易策略上，建议采取区间交易策略，在154.75附近寻求做多机会，而在154.94附近则可考虑做空。但要注意风险控制，避免突破区间后造成的较大波动。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently trading at 154.8143, showing a slight 24-hour change of -0.04%. The price is holding within a narrow range between the high of 154.94269 and the low of 154.75564, indicating that the market is consolidating after recent moves. Given the stability of the price within this range, the market sentiment is currently neutral. However, the presence of a slight downtrend could suggest that the pair may continue to face downward pressure, especially if it fails to break above recent highs.\n\nThe SMA(20) at 154.84025 is also reflecting the neutral trend, as the price is trading close to this moving average. If the price manages to break above the SMA level, it could signal a potential shift toward the upside, with 154.94 acting as the first resistance. Conversely, should the price move below 154.75564, it would likely test the next support level, potentially initiating a continuation of the bearish trend.\n\nLooking at the MACD, with the value at 0.080534139, the histogram is indicating a mild bullish sentiment, though the lack of a signal line makes it difficult to fully assess the strength of this move. A more decisive cross in the MACD could provide a clearer directional cue. The RSI is unavailable at this point, which could limit some insight into overbought or oversold conditions for the pair.\n\nFor traders, a cautious approach seems prudent. If the pair breaks 154.94, a buying opportunity might arise with a target toward the next resistance zone. Alternatively, if it falls below 154.75564, traders could consider selling, looking for potential price targets near 154.60, where further support could emerge. Monitoring additional indicators or price action near these levels will be crucial for confirming any breakout or breakdown."
+    }
+  }
+}

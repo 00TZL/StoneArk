@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-02-11T05:29:00.501Z",
+  "price": {
+    "close": "5052.65715",
+    "high": "5052.79947",
+    "low": "5043.86891",
+    "open": "5047.94623",
+    "change": "0.09",
+    "datetime": "2026-02-11 16:00:00"
+  },
+  "indicators": {
+    "rsi": 56.026569,
+    "macd": 3.79574,
+    "macd_signal": 1.32407,
+    "sma20": 5038.30149
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理，短期偏强]",
+      "content": "当前黄金/美元(XAU/USD)价格在5052.65715附近，整体表现为震荡整理状态。价格在5052.79947与5043.86891区间内波动，表明市场缺乏明确的方向。近期的价格波动显示出市场对高位的谨慎态度，短期内可能难以突破上行阻力。\n\n技术指标方面，MACD的值为3.79574，虽然没有明确的信号线，但该数值表明短期内市场存在一定的买盘力量。RSI指标缺失，无法确认是否存在超买或超卖的风险。SMA(20)位于5038.30149，价格略高于该均线，表明价格保持在相对强势的水平，且仍有支撑。\n\n从支撑和阻力来看，价格下方的支撑位在5043.86891附近，这一水平若被突破，可能会导致进一步下探。而上方的阻力位则接近5052.79947，突破该水平则可能引发进一步上涨。短期内，若价格回调至支撑位，可以考虑低位买入，但需警惕突破支撑位后的下行风险。\n\n总体而言，黄金/美元的短期走势呈现震荡整理格局。交易者可以考虑在支撑位附近寻找买入机会，但应关注价格的突破行为，以防止逆势波动带来的损失。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current price of XAU/USD is around 5052.66, which has seen a marginal 0.09% increase in the last 24 hours. The market appears to be in a consolidation phase, moving in a narrow range between 5052.80 and 5043.87. This lack of significant directional movement indicates indecision in the market. However, the price is trading above the 20-period simple moving average (SMA) of 5038.30, which suggests a slight bullish bias in the short term.\n\nGiven the absence of a clear trend reversal signal from the RSI or MACD, it’s essential to pay attention to key support and resistance levels. The immediate support is around the 5043.87 low, which may provide a floor for price action in the near term. A break below this level could lead to further downside testing the next support zone near 5030. Conversely, the resistance at 5052.80 is holding the market back, with any price break above this level potentially signaling a continuation towards 5065.\n\nThe MACD reading at 3.79574 is mildly positive but lacks clarity in its signal as the associated signal line is not available. This creates uncertainty regarding the momentum behind the current price movement. The RSI would typically help in confirming overbought or oversold conditions, but with its data missing, traders should focus more on price action and volume to gauge sentiment.\n\nFor traders looking to position, a breakout above 5052.80 could offer a buying opportunity, with targets near 5065 and 5070. Conversely, a drop below 5043.87 could trigger short positions, targeting the next support level around 5030. Keep a close eye on the price action around these key levels, as they will likely dictate the next directional move in XAU/USD."
+    }
+  }
+}

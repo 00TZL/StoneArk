@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-01-26T10:34:50.114Z",
+  "price": {
+    "close": "1.36717",
+    "high": "1.36767",
+    "low": "1.36678",
+    "open": "1.36702",
+    "change": "0.02",
+    "datetime": "2026-01-26 21:00:00"
+  },
+  "indicators": {
+    "rsi": 58.54817,
+    "macd": 0.00069956134,
+    "macd_signal": 0.00070598545,
+    "sma20": 1.36586
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[震荡整理中的小幅上行趋势]",
+      "content": "当前英镑/美元（GBP/USD）在1.36717附近震荡整理，短期内呈现出小幅上行的趋势。虽然当前价格略微高于20日简单移动平均线（SMA），但整体市场仍需关注更强的上涨动能。若价格突破1.3680一线，可能会吸引进一步买盘，推动价格向上测试更高的阻力位。\n\n从技术指标来看，MACD显示出微弱的上涨动能，尽管信号线未给出明确的买入信号。RSI尚未提供数据，但若后续显示超买，可能会引发短期回调。投资者应密切关注这一动态，以便及时调整策略。\n\n支撑位方面，1.3660和1.3650是关键心理关口，若价格跌破这些区域，可能会引发更大幅度的回调。相对而言，阻力位在1.3680和1.3700，这些水平的突破将确认进一步的上行趋势。\n\n综合来看，建议投资者在当前水平附近谨慎布局，若价格接近支撑位可考虑逢低买入，而在接近阻力位时应考虑获利了结。保持灵活的交易策略将有助于在市场波动中把握机会。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently trading at 1.36717, showing a modest 0.02% change over the past 24 hours. The price has been range-bound between 1.36767 (high) and 1.36678 (low), signaling consolidation within a narrow channel. Given the proximity to the SMA(20) at 1.36586, the market appears to be in a neutral to mildly bullish posture, but further confirmation is needed for a definitive directional move. A break above the 1.36767 level could signal a continuation of the bullish trend.\n\nThe lack of an RSI(14) and a clear MACD signal leaves traders with limited momentum indicators. However, the current MACD reading of 0.0007 suggests a very slight bullish bias. As the market trades near the SMA(20), this indicates a potential for either a breakout to the upside or a pullback to the downside. Should the price dip below 1.36586, the next support zone could be near 1.36450, aligning with previous lows. Traders should watch for any significant changes in momentum indicators, particularly the MACD and RSI.\n\nKey support lies at 1.36678, where the price has shown a strong floor, and a break below this could suggest a move towards 1.36450. Conversely, resistance is seen at 1.36767. A push above this level could open the door for a rally toward 1.37000, which could act as a significant resistance level. Monitoring volume and momentum oscillators is crucial to gauge the strength of any breakout or reversal.\n\nIn terms of strategy, a buy trade could be considered above 1.36767, targeting 1.37000, with a stop loss placed just below 1.36586 to limit risk. Alternatively, a short position might be appropriate if the price breaks below 1.36678, with a target at the next support level. Ensure to follow momentum indicators closely to confirm the strength of any move."
+    }
+  }
+}

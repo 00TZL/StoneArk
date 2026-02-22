@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-01-26T14:37:26.514Z",
+  "price": {
+    "close": "153.84077",
+    "high": "154.12159",
+    "low": "153.84077",
+    "open": "154.07551",
+    "change": "-0.15",
+    "datetime": "2026-01-27 01:00:00"
+  },
+  "indicators": {
+    "rsi": 37.74494,
+    "macd": -0.4051963,
+    "macd_signal": -0.42849516,
+    "sma20": 154.24878
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：短线偏弱震荡整理",
+      "content": "从整体走势看，美元/日元当前处于高位回落后的震荡整理阶段。价格连续承压于154上方，短线动能略显不足，整体趋势由此前的强势上行转为偏弱震荡，多空分歧明显。\n\n技术指标方面，现价低于SMA(20)均线154.24878，显示短期趋势偏空。MACD值为-0.405，位于零轴下方，动能柱偏弱，暗示下行压力仍在，但下跌动能暂未明显放大。\n\n支撑与阻力方面，短线关键支撑位位于153.80一线，若有效跌破，可能测试153.30区域。上方初步阻力在154.20附近，进一步阻力关注前高154.50，该位置决定反弹空间。\n\n交易策略上，偏向短线谨慎操作。激进者可在154.20附近尝试轻仓做空，止损设于154.60上方；稳健者等待153.80支撑确认后再行布局，整体以区间思路对待为宜。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently showing a slight bearish bias, trading at 153.84, with a 24-hour change of -0.15%. The price has recently oscillated between 154.12 and 153.84, suggesting that the pair is facing short-term resistance just below 154. The ongoing price action hints at a potential consolidation or a downward shift if support levels fail to hold. The recent high of 154.12 remains critical, as a break above this level could signal a resumption of bullish momentum. Conversely, the pair is testing the lower range, which suggests potential downside risk in the absence of a clear bullish reversal.\n\nFrom a technical perspective, the absence of a clear RSI reading and the negative MACD value of -0.405 suggests a lack of strong momentum in either direction. This indicates that market participants are cautious, and the overall trend could be neutral-to-bearish. The SMA(20) at 154.25 is acting as dynamic resistance, with the price currently trading below it, reinforcing the bearish outlook. Traders should look for a break below 153.80 to confirm further downside potential, possibly targeting the next support at 153.50.\n\nSupport levels around 153.80 and 153.50 are crucial for the current price action. If the price fails to sustain above 153.80, we could see further declines toward 153.50 or even lower. On the upside, a decisive break above 154.12 would suggest the potential for a rally towards 154.50, where resistance could limit further gains. Given the mixed indicators, a cautious trading approach with tighter stop-loss orders is recommended.\n\nIn the near term, a range-bound market seems likely unless the pair decisively breaks above 154.12 or below 153.80. Traders might consider scalping within these levels or awaiting a breakout confirmation for a clearer directional move. Patience is key as the market consolidates, waiting for clearer momentum signals from indicators like RSI or MACD."
+    }
+  }
+}

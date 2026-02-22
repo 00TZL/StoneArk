@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-02-17T05:20:58.421Z",
+  "price": {
+    "close": "1.36458",
+    "high": "1.36458",
+    "low": "1.36378",
+    "open": "1.36383",
+    "change": "0.05",
+    "datetime": "2026-02-17 16:00:00"
+  },
+  "indicators": {
+    "rsi": 65.23811,
+    "macd": 0.00060140212,
+    "macd_signal": 0.00054559196,
+    "sma20": 1.36346
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[当前震荡整理，维持窄幅波动]",
+      "content": "目前美元/加元（USD/CAD）价格在1.36458附近震荡整理，显示出市场缺乏强烈的趋势方向。从短期来看，价格在1.36458和1.36378区间内波动，维持窄幅波动的格局，表明市场暂时处于整理阶段。\n\n技术指标方面，虽然RSI和MACD指标尚未完全提供明确信号，但20日简单移动平均线（SMA20）处于1.36346，价格略高于该位置，表明短期内有支撑位，市场情绪可能维持相对稳定。\n\n支撑位方面，1.36378是短期内的关键支撑水平，如果价格下破该位置，可能会测试更低的水平。阻力位则在1.36458附近，突破该水平可能会激发更多的上涨动能，进一步挑战更高价位。\n\n建议交易者保持观望，当前市场波动幅度较小，风险较高。如果价格突破1.36458，则可以考虑逢高做空；若跌破1.36378，则可考虑逢低做多，利用市场的震荡波动进行短线操作。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently showing a slight positive movement with a 24-hour change of 0.05%. The price remains close to the recent high of 1.36458, indicating potential resistance around this level. The market has been relatively stable, with the low at 1.36378 suggesting a narrow trading range. The price is holding above the 20-period simple moving average (SMA) at 1.36346, which indicates a mild bullish sentiment. If the price sustains above this moving average, it could suggest a continued upward bias in the short term.\n\nLooking at the technical indicators, the MACD reading of 0.0006 is positive, suggesting that the short-term momentum is slightly in favor of the bulls. However, the absence of a clear signal line for the MACD and the lack of an RSI reading leave the analysis incomplete. Still, the positive MACD value provides a hint that the USD is gaining mild strength against the CAD. Without further signals, traders should monitor for more defined moves to assess the next significant market shift.\n\nKey support for USD/CAD lies at the 1.36378 level, which has held as the lowest point over the past 24 hours. A break below this could suggest a potential move towards further downside support around 1.3600. On the upside, the price faces resistance at 1.36458, a level that has capped recent advances. A breakout above this level could lead to a more substantial rally toward 1.3670, but traders should remain cautious of a range-bound market in the short term.\n\nFor traders, the current market setup offers a cautious approach. A sustained move above 1.36458 would suggest a bullish continuation, while a failure to break this level could lead to a consolidation phase or possible downside. With the lack of definitive signals from RSI or MACD, waiting for a clear breakout or retracement may be prudent to ensure a more favorable risk/reward setup."
+    }
+  }
+}

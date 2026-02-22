@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-01-26T14:36:27.888Z",
+  "price": {
+    "close": "1.36793",
+    "high": "1.36793",
+    "low": "1.36588",
+    "open": "1.36601",
+    "change": "0.14",
+    "datetime": "2026-01-27 01:00:00"
+  },
+  "indicators": {
+    "rsi": 59.79003,
+    "macd": 0.00061477376,
+    "macd_signal": 0.00063371,
+    "sma20": 1.36636
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[上涨整理中的短期震荡走势]",
+      "content": "当前英镑/美元价格在1.36793附近，表现出一定的上涨趋势，但整体波动幅度较小。从短期来看，价格处于震荡整理阶段，缺乏强烈的趋势性突破。技术面上，SMA(20)位于1.36636，提供了支撑作用，这表明短期内价格可能会围绕该均线上下波动。\n\nRSI指标缺失，MACD当前的值为0.0006，显示出市场尚未显著进入超买或超卖区，因此可能继续维持震荡区间。没有强烈的买入或卖出信号，表明市场暂时处于观望状态，可能需要等待更多的价格行动来确认突破的方向。\n\n支撑位在1.36588附近，而阻力位则看向1.36800至1.37000区域。这些关键水平将决定市场的短期走向。如果价格突破1.37000，可能会开启进一步的上涨空间。如果下破1.36588支撑，则可能会导致价格回调。\n\n建议短期内采取观望策略，等待价格突破或回调至支撑位再做决策。若价格突破上行，可考虑跟进多单；若跌破支撑，则应考虑短期做空。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The British Pound against the US Dollar (GBP/USD) is currently showing a modest upward trend, with the price at 1.36793. The pair has seen a 24-hour change of +0.14%, indicating a relatively stable market. The low of 1.36588 during this period suggests that there is minor support around that level. This price action suggests that GBP/USD is in a consolidation phase, with the market testing the upper bound at 1.36793, just under the recent high.\n\nLooking at the 20-period Simple Moving Average (SMA), the pair is trading slightly above this indicator at 1.36636. This indicates a subtle bullish bias, as prices are holding above the short-term moving average, suggesting that buyers may have control in the near term. However, there is no clear momentum signal from the RSI or MACD, making it harder to predict the intensity of the move. The absence of RSI data, combined with the neutral MACD reading of 0.0006, leaves traders with little directional confirmation at this point.\n\nFrom a support/resistance perspective, the key level to watch on the downside is 1.36588, which could act as a support zone if the price retreats. Below this, the pair may test the 1.3600 region, where further support might emerge. On the upside, 1.3700 remains the primary resistance level to monitor. A break above this could signal a continuation of the bullish trend, while failure to do so might see a pullback to the support zone.\n\nGiven the current price action and lack of clear directional momentum from the indicators, traders should remain cautious. A breakout above 1.3700 could provide a buying opportunity, while a dip below 1.36588 would suggest potential downside, warranting a more conservative approach. Until clearer signals emerge, maintaining a range-bound strategy would be prudent."
+    }
+  }
+}

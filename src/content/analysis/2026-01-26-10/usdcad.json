@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-01-26T10:37:13.124Z",
+  "price": {
+    "close": "1.36744",
+    "high": "1.3678",
+    "low": "1.3673",
+    "open": "1.36774",
+    "change": "-0.02",
+    "datetime": "2026-01-26 21:00:00"
+  },
+  "indicators": {
+    "rsi": 35.081104,
+    "macd": -0.00091825551,
+    "macd_signal": -0.00082045795,
+    "sma20": 1.3693
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[短期震荡整理，等待突破]",
+      "content": "当前美元/加元（USD/CAD）价格在1.36744附近震荡，显示出市场缺乏明确的方向。短期内，汇率波动较小，处于1.3673至1.3678区间内。该区间的震荡整理暗示市场可能在等待进一步的市场消息或数据来触发突破。\n\n从技术指标来看，MACD当前显示微弱的负值，表明空头力量略占上风，但没有形成强烈的卖出信号。由于RSI和其他常用指标数据缺失，分析受到一定限制。SMA(20)在1.36930，价格当前略低于这一均线水平，暗示短期内可能存在一定的下行压力。\n\n支撑位方面，1.3673附近是一个关键区域，若价格进一步下跌，可能会测试该位置的支撑效果。若跌破该水平，则有可能进一步下探至1.3650附近的强支撑区域。至于阻力位，1.3680和1.3690区域构成短期阻力，突破后可能会恢复上涨趋势。\n\n基于当前震荡整理的格局，建议投资者保持观望，等待价格突破震荡区间后再决定进场。若突破上行，1.3730将是下一个目标；若突破下行，需关注1.3650的支撑情况。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently trading at 1.36744, showing a minor drop of 0.02% over the last 24 hours. This slight decline suggests that the market is in a consolidating phase. Price has moved within a narrow range between 1.3678 and 1.3673, indicating limited volatility. Given the tight range and absence of any strong directional momentum, the market appears to be seeking a clearer signal before making a more pronounced move. Traders should watch for breakout opportunities, as a strong move beyond these levels could define the next significant trend.\n\nDespite the absence of the RSI and Signal Line data, the MACD at -0.00091825551 suggests weak bearish momentum. The negative MACD reading supports the view of a mild bearish trend, though it is not strong enough to suggest an immediate downward breakout. Without a robust bearish signal, the price could find support near the current level, potentially making the market ripe for a short-term bounce if buying pressure increases. The lack of definitive bullish or bearish momentum implies caution, with traders needing more clarity before committing to a direction.\n\nThe 20-period SMA at 1.36930 indicates that short-term sentiment remains slightly bearish, as the price is trading below this moving average. This moving average acts as a potential resistance zone, with the price needing to break above it for a more convincing bullish case. If the pair continues to struggle beneath the SMA, it might reinforce the bearish sentiment and encourage a further decline toward the support levels near 1.3673. Resistance is anticipated at 1.36930, while support is expected near the lower end of the current range, around 1.3673.\n\nGiven the technical indicators and range-bound price action, a breakout strategy could be effective for trading USD/CAD. Traders may consider going long if the price breaks above the 1.36930 resistance or short if it drops below the 1.3673 support. With the market in a consolidation phase, patience is key—waiting for a confirmed breakout will offer a more favorable risk-reward scenario. As always, keep an eye on global economic data, as it could drive significant volatility in this pair."
+    }
+  }
+}

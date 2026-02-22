@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-02-05T05:17:55.150Z",
+  "price": {
+    "close": "4854.16934",
+    "high": "4876.72288",
+    "low": "4848.81546",
+    "open": "4869.79835",
+    "change": "-0.32",
+    "datetime": "2026-02-05 16:00:00"
+  },
+  "indicators": {
+    "rsi": 38.24345,
+    "macd": -25.77512,
+    "macd_signal": -10.086381,
+    "sma20": 4952.11356
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[短期下行修正，关注支撑位反弹]",
+      "content": "当前XAU/USD的市场走势呈现出一定的下行压力。从最新价格4854.16934来看，黄金价格较昨日有所回落，24小时变化为-0.32%。价格在4876.72288的高点和4848.81546的低点之间波动，短期内处于震荡整理阶段。当前走势显示出一定的下行修正，但尚未脱离整体上行趋势。\n\n从技术指标来看，MACD值为-25.77512，表明短期内黄金市场仍处于空头状态，且没有明显的反转信号。由于RSI(14)数据缺失，无法直接判断超买或超卖状态。SMA(20)位于4952.11356，价格远低于这一水平，显示出短期内价格处于偏弱状态。市场情绪较为谨慎，可能还会继续测试支撑位。\n\n支撑位方面，当前的低点4848.81546可能成为短期内的关键支撑区，若价格跌破该水平，则可能进一步下探。阻力位则在4952附近，突破这一点位可能会带来反弹机会。投资者应关注这些关键价位，保持灵活操作。\n\n综合来看，建议投资者在黄金价格接近支撑位时寻求逢低买入的机会，但需注意控制风险。如果价格持续走低并突破支撑位，应考虑调整策略以应对下行压力。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current price of Gold against the US Dollar (XAU/USD) is hovering at 4854.16934, showing a slight 0.32% decline over the past 24 hours. This suggests that there may be some short-term consolidation or retracement following a previous price action. The market is currently testing its lower range, with the recent low of 4848.81546 potentially acting as short-term support. The price movement within the range of 4848.81546 and 4876.72288 presents an environment where traders may look for a break or bounce.\n\nThe market’s trend is facing some downward pressure, with the SMA(20) currently placed at 4952.11356, indicating a bearish outlook in the short term. The distance from the SMA suggests that there is some downward momentum, as the current price is well below this level. Traders could be looking for price to either retrace closer to the SMA before a continuation lower or break below the 4848.81546 support level, signaling further bearish movement.\n\nIn terms of indicators, the MACD is showing a negative reading of -25.77512, which supports the bearish sentiment. However, the absence of a signal line makes it harder to interpret the exact timing of a potential reversal or cross. Without a signal, it’s important to focus on price action for the next clear direction. A break below the low of 4848.81546 would confirm further downward momentum, while a move above the high at 4876.72288 might signal a short-term reversal.\n\nFor trading, the key focus should be on the levels of 4848.81546 as immediate support and 4876.72288 as resistance. Traders might look for potential short opportunities below 4848.81546, targeting the next support levels further down. Alternatively, a break above 4876.72288 could open the door for a bullish retracement back towards the SMA(20) level of 4952.11356, where sellers could likely re-enter. Risk management is crucial, as the market is showing signs of consolidation."
+    }
+  }
+}

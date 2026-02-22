@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-02-13T05:20:24.648Z",
+  "price": {
+    "close": "0.70778",
+    "high": "0.7091",
+    "low": "0.70778",
+    "open": "0.7082",
+    "change": "-0.06",
+    "datetime": "2026-02-13 16:00:00"
+  },
+  "indicators": {
+    "rsi": 37.29538,
+    "macd": -0.00097308211,
+    "macd_signal": -0.00080179975,
+    "sma20": 0.709973
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，略偏下行]",
+      "content": "当前，澳元/美元（AUD/USD）呈现震荡整理的走势，价格在0.70778附近徘徊，未能突破之前的高点0.7091。这种走势表明市场缺乏强烈的单边趋势，可能是短期内的整理阶段。尽管如此，价格仍保持在较为狭窄的区间内，反映出市场情绪的谨慎。\n\n从技术指标来看，MACD为负值（-0.000973），显示出弱势信号。然而，由于缺少RSI和信号线的数据，短期趋势仍不明确。SMA(20)为0.709973，价格略低于该均线，这也进一步暗示市场短期偏弱。市场可能等待进一步的指引来决定下一步的方向。\n\n支撑位方面，当前低点0.70778提供了一定的支撑，如果跌破该点位，则可能进一步考验0.7050附近的水平。上方的阻力位在0.7091，突破该阻力位可能会开启向0.7120甚至更高的上涨空间。\n\n综合来看，短期内建议保持观望，关注价格是否突破关键支撑或阻力位。若价格下行至0.7050附近，可考虑逢低买入；若突破0.7091，则可考虑逢高卖出。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar (AUD) against the US Dollar (USD) is currently in a slight downtrend, as indicated by the recent price action showing a small 24-hour decline of -0.06%. The latest market price of 0.70778 is near the lower end of the daily range, which suggests that the pair could face some near-term pressure. However, the relatively narrow trading range between the high of 0.7091 and the low of 0.70778 indicates a lack of significant volatility at this moment, pointing to potential consolidation.\n\nFrom an indicator perspective, the MACD is currently negative at -0.00097308211, which points to bearish momentum. However, without the signal line available, it’s difficult to interpret if this momentum is gaining strength. The absence of a RSI(14) reading leaves the momentum profile incomplete, but the negative MACD coupled with the price near its daily low suggests there could be potential for further downside if the bearish trend persists. \n\nThe 20-period simple moving average (SMA) is at 0.70997300, which is slightly above the current market price. This suggests that the 0.7100 area could act as a resistance zone in the short term. A breach of this level may signal a reversal or a more pronounced rally. On the downside, support can be seen at the recent low of 0.70778. If this level holds, it could serve as a base for a potential bounce. A break below this support would open the door for further declines toward the next support level.\n\nTraders might consider short positions if the price fails to break above 0.7100, targeting a retest of the 0.70778 low. On the other hand, if the pair manages to break through the resistance at 0.7100, a move toward the 0.7130 level might be possible. With limited indicator data, caution is advised, and waiting for confirmation of the trend's direction may be prudent."
+    }
+  }
+}

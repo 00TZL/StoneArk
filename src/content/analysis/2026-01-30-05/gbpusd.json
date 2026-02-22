@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-01-30T05:05:09.218Z",
+  "price": {
+    "close": "1.37571",
+    "high": "1.37571",
+    "low": "1.37526",
+    "open": "1.37526",
+    "change": "0.03",
+    "datetime": "2026-01-30 16:00:00"
+  },
+  "indicators": {
+    "rsi": 38.91729,
+    "macd": -0.0011832733,
+    "macd_signal": -0.0006099802,
+    "sma20": 1.37886
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：震荡整理，突破待定",
+      "content": "当前，英镑/美元处于小幅震荡整理状态，价格在1.37571附近波动，未显示出明显的上涨或下跌趋势。日内价格变化幅度极小，表明市场情绪较为谨慎。若短期内未出现突破，预计将继续在当前区间内整理。\n\n技术指标方面，RSI和MACD未提供明显信号，RSI尚未给出超买或超卖的提示，MACD呈现负值，意味着卖盘力量略占优势。SMA(20)的价格接近当前市场水平，表明市场目前在20日均线附近处于相对平衡状态。\n\n支撑位大致位于1.37526，若价格下破该点，可能会进一步下探更低的支撑。阻力位则在1.37886附近，突破该阻力可能会为进一步上涨提供动力。当前价格接近支撑区，若价格反弹至阻力位，则有可能形成短期的交易机会。\n\n基于当前的市场情况，建议短线交易者关注价格在1.37526与1.37886之间的波动，保持灵活应变的态度，逢低买入或逢高卖出。同时，需关注市场的任何突发消息，可能会引发价格的突破。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair currently trades at 1.37571, exhibiting a slight increase of 0.03% over the past 24 hours. This modest movement suggests that the currency pair is in a consolidation phase, hovering near the recent high of 1.37571. The price action indicates a potential struggle for momentum, as it has failed to break above the psychological resistance level at 1.3800. Traders should closely monitor this level, as a decisive breakout could signal a bullish trend continuation, while a failure to do so may lead to further bearish pressure.\n\nIn terms of technical indicators, the MACD is currently negative, indicating a bearish bias. Although the RSI(14) data is unavailable, the overall price position near the 20-period Simple Moving Average (SMA) at 1.37886 suggests that the market is somewhat neutral. The SMA can act as dynamic support or resistance; hence, a break below this level could trigger selling interest, while a rally above it would reinforce bullish sentiment. Traders should consider employing a wait-and-see approach, observing how price interacts with these key indicators.\n\nSupport levels are identified at 1.37526, the recent low, which could act as a floor for the pair in case of a downturn. Should this level be breached, traders might look towards 1.37200 as a more significant support zone. On the upside, if the market manages to reclaim 1.37886, the next target would be the psychological barrier at 1.3800, followed by potential resistance at 1.38300. These levels present opportunities for both short and long positions depending on market dynamics.\n\nFor trading strategies, a cautious approach is advisable. Traders might consider entering long positions on a confirmed breakout above 1.37886, with a stop-loss just below the recent low of 1.37526. Conversely, a short position could be viable if the price fails to hold above the SMA, particularly if it breaks below 1.37526, targeting further support at 1.37200. Overall, maintaining a flexible strategy will be crucial in navigating this current market environment."
+    }
+  }
+}

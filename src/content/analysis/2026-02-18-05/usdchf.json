@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-02-18T05:23:44.557Z",
+  "price": {
+    "close": "0.77093",
+    "high": "0.77111",
+    "low": "0.77084",
+    "open": "0.77108",
+    "change": "-0.02",
+    "datetime": "2026-02-18 16:00:00"
+  },
+  "indicators": {
+    "rsi": 55.073909,
+    "macd": 0.00022649094,
+    "macd_signal": 0.00023976221,
+    "sma20": 0.77082
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：震荡整理中，短期观望为主",
+      "content": "目前美元/瑞郎（USD/CHF）价格处于0.77093附近，呈现横盘震荡走势。从短期来看，价格波动较小，近期高点为0.77111，低点为0.77084，整体走势缺乏明确的方向。当前市场情绪较为平稳，且缺乏强势的动能。\n\n技术面上，RSI（14）暂未提供数据，因此无法通过超买或超卖信号来进一步分析市场情绪。MACD指标显示微弱的正值（0.00022649094），但由于信号线缺失，短期内难以判断是否存在交叉或背离的情况。20日简单移动平均线（SMA(20)）当前值为0.77082，反映了价格近期维持在该水平附近。\n\n支撑位方面，0.77080一线可能会为价格提供支撑，而若价格突破0.77110的阻力位，可能会有进一步的上涨空间。从目前的走势来看，价格的波动幅度较小，因此短期内的操作策略可以倾向于观望，等待更明确的技术信号或突破的出现。\n\n总的来说，美元/瑞郎的当前走势相对平稳，建议交易者保持谨慎观望，避免盲目追单，等待进一步的价格突破或技术指标发出明确信号再做决策。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently experiencing a narrow trading range, with the price hovering around 0.77093. The recent high of 0.77111 and low of 0.77084 indicate a consolidation phase, reflecting a lack of strong momentum in either direction. The market is relatively flat, suggesting indecision between buyers and sellers. This type of price action often precedes a breakout, making the next few sessions crucial for determining the pair's short-term direction.\n\nThe absence of a clear RSI reading limits the ability to gauge overbought or oversold conditions at the moment. However, the MACD value of 0.00022649094 provides a slight bullish tilt, as it remains positive, signaling that momentum could still be in favor of the US Dollar, albeit weakly. With the MACD signal line unavailable, traders should monitor this indicator closely for any shifts that might provide clearer insight into market strength. The current 20-period simple moving average (SMA) of 0.77082 reinforces the idea of a consolidation phase, as the price is trading right around this average.\n\nSupport for the pair is seen at the 0.77084 level, where the price recently tested the lows, while resistance lies near the 0.77111 level. A break below 0.77084 would likely open up further downside potential, possibly toward 0.77000 or lower, while a push above 0.77111 could signal a shift toward bullish momentum, potentially testing 0.77200 or 0.77300. Traders may want to wait for a breakout beyond these boundaries to establish a clearer directional bias.\n\nIn terms of trading strategy, a break above 0.77111 could trigger long positions with targets near the next resistance levels. Conversely, a dip below 0.77084 may prompt short entries, with a focus on support at 0.77000. Given the relatively low volatility, stop-loss levels should be set tightly, and traders should be prepared to adjust as momentum develops in the coming hours."
+    }
+  }
+}

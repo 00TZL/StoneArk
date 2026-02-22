@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-01-26T13:03:52.681Z",
+  "price": {
+    "close": "1.37006",
+    "high": "1.37006",
+    "low": "1.36983",
+    "open": "1.36984",
+    "change": "0.02",
+    "datetime": "2026-01-27 00:00:00"
+  },
+  "indicators": {
+    "rsi": 53.18177,
+    "macd": -0.00052309969,
+    "macd_signal": -0.00073355981,
+    "sma20": 1.36908
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[当前震荡整理，关注突破方向]",
+      "content": "目前美元/加元的价格处于震荡整理状态，价格在1.37006附近波动。24小时内变化较小，仅为0.02%。市场暂无明显的单边趋势，投资者应关注突破的可能性，若价格突破当前区间，则有可能开始新一轮趋势。\n\n技术指标方面，MACD仍然处于负值区间，表明市场短期内可能存在卖压。RSI未给出具体值，意味着市场动能不明确。20日简单移动平均线（SMA）显示1.36908的支撑位，目前价格略高于该水平，显示出短期内的弱势反弹。\n\n支撑位和阻力位的关键水平分别为1.36983和1.37006。若价格下行突破支撑位，可能会进一步回撤至1.36800附近。若突破1.37006，则有可能挑战更高的阻力区间。\n\n建议在震荡区间内灵活操作。若价格突破1.37006，可考虑适度做多，但需关注是否能维持在该水平以上。若下破支撑位1.36983，则可考虑做空，目标看向1.36800。保持谨慎，等待更明确的方向性信号。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently experiencing a relatively stable range-bound movement with the latest price at 1.37006. Over the past 24 hours, the price has only moved by 0.02%, suggesting a period of consolidation. This stability is reflected in the narrow trading range between the daily high of 1.37006 and the low of 1.36983. However, this type of sideways movement often precedes a breakout, and traders should remain alert to potential volatility if price breaks out of the current range.\n\nThe absence of a clear trend at this point makes it essential to focus on key technical indicators. The moving average (SMA 20) sits at 1.36908, slightly below the current price, which could act as a short-term support level. If the pair dips below this level, further downside risk may be seen toward 1.36850, where more significant support could emerge. Conversely, resistance lies near 1.37150, just above the current price, and a break through this level may suggest a potential bullish move in the near term.\n\nThe MACD is showing a negative value at -0.00052309969, indicating slight bearish pressure. While there is no signal line available to compare, this negative value suggests that the market sentiment is leaning toward the downside. If the MACD begins to cross above zero, it could be an early indicator of bullish momentum. Without a significant change in these indicators, the market will likely continue consolidating within its current range.\n\nFor traders, the key strategy involves monitoring price action around the established support and resistance levels. A break above 1.37150 may present an opportunity to enter long, while a drop below 1.36908 could trigger short positions targeting further support around 1.36850. It’s crucial to use tight risk management, especially in a market with such low volatility."
+    }
+  }
+}

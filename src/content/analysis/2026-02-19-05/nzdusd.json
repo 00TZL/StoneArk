@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-02-19T05:21:54.039Z",
+  "price": {
+    "close": "0.59669",
+    "high": "0.59694",
+    "low": "0.59655",
+    "open": "0.59693",
+    "change": "-0.04",
+    "datetime": "2026-02-19 16:00:00"
+  },
+  "indicators": {
+    "rsi": 34.16635,
+    "macd": -0.0011355327,
+    "macd_signal": -0.0012611129,
+    "sma20": 0.5978735
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理，缺乏明确方向]",
+      "content": "当前纽元/美元(NZD/USD)价格保持在0.59669附近，市场在短期内缺乏明确的趋势。虽然价格小幅下跌，但波动幅度较小，显示出市场暂时处于震荡整理状态。短期内，市场缺乏强烈的买盘或卖盘推动，价格未能突破重要的支撑或阻力区。\n\n技术指标方面，当前RSI(14)数据缺失，无法有效判断市场的超买或超卖情况。MACD值为-0.0011，表明当前市场略微偏空，但没有显示出明显的下行动能。SMA(20)位于0.59787，价格低于这一均线，提示短期内可能仍处于弱势区间。\n\n支撑位和阻力位方面，0.59655附近的低点提供了短期支撑，而0.59694的高点则构成了短期的阻力位。如果价格突破0.59694，可能会尝试挑战0.59787附近的SMA(20)水平，进一步上行的空间将会得到确认。反之，跌破0.59655可能会导致价格进一步下探。\n\n交易建议方面，当前市场缺乏明确的趋势信号，建议短期内保持观望，等待价格突破支撑或阻力位后再做决策。若价格突破上方阻力，则可考虑做多；若跌破支撑位，则可考虑做空。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The current price of NZD/USD is at 0.59669, showing a slight 24-hour decline of -0.04%. This reflects a neutral short-term sentiment in the market, with price action constrained between a minor high of 0.59694 and a low of 0.59655. Given the tight range, traders may interpret this as consolidation, with indecisive momentum. A breakout from this range could set the direction for the next move, either continuing to the downside or suggesting a reversal upwards if market sentiment shifts.\n\nThe RSI(14) is unavailable at the moment, limiting insights on potential overbought or oversold conditions. However, the MACD is currently negative at -0.0011, suggesting weak downward momentum. The lack of a clear MACD signal line makes it challenging to predict a strong directional move in the near term. A sustained decline in the MACD would confirm bearish momentum, while a shift to positive territory could indicate a possible reversal. Traders should look for a crossover or divergence for clearer momentum guidance.\n\nThe 20-period Simple Moving Average (SMA) sits at 0.59787, just above the current price, acting as a dynamic resistance level. Price staying below this SMA could point to a continuation of the downtrend, while a break above it might indicate a shift towards bullish sentiment. Support levels are likely near the recent low of 0.59655, and if this level holds, it could prevent further downside. Conversely, a breach of support would bring attention to the next lower psychological level around 0.5950.\n\nFor trading strategies, a break below the 0.59655 support could offer short opportunities, targeting a potential test of 0.5950. Conversely, a breakout above the 0.59787 SMA could trigger a buy signal, with targets near 0.6000. Traders should be cautious of the current lack of a strong trend, with short-term moves likely subject to further consolidation or volatility as market sentiment remains fluid."
+    }
+  }
+}

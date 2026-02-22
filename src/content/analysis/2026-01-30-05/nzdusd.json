@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-01-30T05:08:02.283Z",
+  "price": {
+    "close": "0.60493",
+    "high": "0.60493",
+    "low": "0.6047",
+    "open": "0.60489",
+    "change": "0.01",
+    "datetime": "2026-01-30 16:00:00"
+  },
+  "indicators": {
+    "rsi": 45.14734,
+    "macd": -0.0001373375,
+    "macd_signal": 0.00020886255,
+    "sma20": 0.606158
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理趋势]",
+      "content": "当前纽元/美元（NZD/USD）价格为0.60493，近期走势表现出震荡整理的特征。尽管24小时内变化仅为0.01%，但这种稳定性可能预示着市场在消化近期的波动后，正进入一个更为平稳的阶段。投资者需要关注市场的消息面，以判断未来的突破方向。\n\n在技术指标方面，MACD值为-0.00013733750，显示出短期内动能较弱，未能形成明确的买入或卖出信号。同时，SMA(20)为0.60615800，显示出市场在此均线附近存在一定的阻力。如果价格继续维持在均线下方，可能会进一步测试支撑位。\n\n从支撑和阻力位来看，当前支撑位在0.6047附近，而阻力位则位于0.60615800。若价格突破0.60615800，可能会引发更多买盘，反之则可能测试更低的支撑位。投资者应密切关注这些关键价位，以制定合适的交易策略。\n\n基于目前的市场状况，建议保持观望，等待价格突破关键阻力位后再考虑入场买入。同时，若价格跌破0.6047支撑位，则需要谨慎评估风险，考虑适时止损，以保护资本安全。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently experiencing a narrow range, with the price hovering around 0.60493. This suggests a period of consolidation after the recent price action, as the pair has fluctuated between 0.60493 and 0.6047. The market appears indecisive, with no strong momentum to push the pair significantly higher or lower. Traders should watch for a breakout from this range to gauge the next directional move.\n\nThe absence of a current RSI reading makes it difficult to assess overbought or oversold conditions, but the MACD shows a slight negative value of -0.00013733750, indicating weak bearish pressure. Without a clear MACD crossover or significant change in momentum, the pair remains range-bound. Market participants should consider waiting for a more definitive signal before making larger positions.\n\nKey levels to monitor are 0.6047 on the downside and 0.6062 on the upside. A break below 0.6047 could trigger further selling, potentially targeting lower support around 0.6035. Conversely, a move above 0.6062 could push the pair toward 0.6080. If price breaks through either of these levels, it could signal a shift in market sentiment, providing a clearer direction for traders to follow.\n\nFor traders, a cautious approach is advisable in the current environment. Waiting for confirmation of a breakout or a shift in momentum indicators, such as a more defined MACD signal or RSI reading, will help reduce risk. Those looking for short-term opportunities may consider fading moves toward key support or resistance levels, while long-term positions should wait for a more solid trend to develop."
+    }
+  }
+}

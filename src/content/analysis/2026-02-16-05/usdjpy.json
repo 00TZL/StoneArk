@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-02-16T05:24:25.809Z",
+  "price": {
+    "close": "153.19903",
+    "high": "153.24327",
+    "low": "153.16904",
+    "open": "153.24116",
+    "change": "-0.03",
+    "datetime": "2026-02-16 16:00:00"
+  },
+  "indicators": {
+    "rsi": 66.47918,
+    "macd": 0.095544784,
+    "macd_signal": 0.044645092,
+    "sma20": 152.87274
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理，关注支撑与阻力]",
+      "content": "当前美元/日元价格在153.199附近波动，整体呈现震荡整理格局。价格未能突破153.243的高点，且始终维持在153.169的低点附近，显示市场处于整理阶段。若突破153.243上行，则可能迎来进一步上涨。\n\n从技术指标来看，虽然RSI未提供数据，但MACD值为0.095，表明目前存在轻微的买盘动能，短期内价格可能维持小幅上涨或整理。由于MACD信号线数据缺失，难以确认长期趋势方向，但当前看多的力量较为微弱。\n\n支撑位方面，153.169为关键支撑位，一旦价格回落至此水平并得到支撑，可能再次反弹。若跌破该支撑位，则可能进一步下探152.872的SMA(20)水平，甚至更低。阻力位在153.243附近，如果突破该位置，则有望向更高区域延伸。\n\n建议在当前震荡区间内采取区间交易策略，关注价格在支撑位附近的反弹机会，同时也要防范价格跌破支撑位后可能带来的风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently trading at 153.19903, showing a modest 24-hour decline of -0.03%. The price remains within a narrow range between the daily high of 153.24327 and the low of 153.16904, indicating a phase of consolidation. This suggests the market is in a wait-and-see mode, potentially setting up for a breakout depending on external catalysts. The pair has recently been trending upward, with the latest price holding above the 20-period simple moving average (SMA) of 152.87274, a sign of bullish sentiment in the medium-term.\n\nFrom an indicator perspective, the MACD shows a positive value of 0.0955, suggesting the pair is still in a slight bullish phase. However, the lack of RSI data and an unconfirmed Signal line make it difficult to assess overbought or oversold conditions accurately. Without these additional indicators, traders should be cautious of potential reversal signals. The MACD histogram's positive values indicate upward momentum, but it is prudent to wait for more confirmation before making aggressive trades.\n\nKey support for USD/JPY is near the recent low of 153.16904, followed by stronger support around 152.87274, aligning with the 20-period SMA. If the pair breaks below this level, it may open the door for further downside testing lower support zones. On the resistance side, the daily high of 153.24327 should act as an immediate barrier, with potential for additional resistance in the 153.30-153.40 range, depending on market conditions.\n\nTraders may consider a conservative approach, waiting for a clear breakout either above the recent high or below the low to confirm the direction of the next move. A strong close above 153.24327 could signal the continuation of the bullish trend, while a breakdown below 152.87 might suggest a bearish reversal. Until then, range-bound trading with tight stop-loss orders is advisable."
+    }
+  }
+}

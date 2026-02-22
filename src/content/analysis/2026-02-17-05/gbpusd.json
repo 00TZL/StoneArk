@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-02-17T05:18:52.510Z",
+  "price": {
+    "close": "1.36076",
+    "high": "1.36125",
+    "low": "1.36075",
+    "open": "1.3612",
+    "change": "-0.03",
+    "datetime": "2026-02-17 16:00:00"
+  },
+  "indicators": {
+    "rsi": 20.76608,
+    "macd": -0.00082344378,
+    "macd_signal": -0.00062347845,
+    "sma20": 1.3628
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[震荡整理，短期走势偏弱]",
+      "content": "当前英镑/美元的价格呈现震荡整理的态势，价格波动在1.36075至1.36125区间内，未能突破明显的支撑或阻力位。整体趋势偏弱，近期缺乏强烈的市场动能。SMA(20)显示价格稍微偏低，可能会限制短期内上涨空间。\n\n从技术指标来看，MACD为负值，表明空头力量依然占主导。虽然RSI暂缺数据，但基于价格区间的窄幅波动，可以推测市场情绪相对谨慎。此时，突破1.36280附近的阻力位或许会带来一定的反弹，但难以形成强势趋势。\n\n支撑位方面，1.36075附近的低点可能会提供一定的支撑。如果价格跌破这一水平，则可能加剧下行压力，进一步接近1.35800。若价格能突破1.36280的阻力，短期内可能出现反弹至1.36500左右。\n\n建议交易者在当前区间内保持谨慎，短期内建议采取区间交易策略，关注支撑位和阻力位的突破。一旦突破1.36280或跌破1.36075，可以考虑进行短期的趋势跟随交易。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently showing a slight downward movement, trading at 1.36076, down by 0.03% over the past 24 hours. The pair is experiencing a narrow trading range, with the high and low marking a tight range between 1.36125 and 1.36075. This suggests a consolidation phase, indicating that the market participants are uncertain about the next move. The lack of significant momentum in the price action points to a neutral short-term outlook, with potential for either a breakout or further consolidation.\n\nIn terms of trend analysis, the pair is currently trading slightly below its 20-period simple moving average (SMA), which is at 1.36280. This indicates a mild bearish sentiment in the short term, as prices are trading below the moving average. A sustained break below this level could signal a deeper decline, possibly targeting support levels around 1.3590 and 1.3560. However, if the pair manages to break above the SMA, this could shift the trend bias back toward a bullish momentum, with 1.3640 acting as the first resistance level.\n\nAt present, the lack of RSI and clear MACD signals leaves traders with limited insight into the strength of momentum. The MACD is marginally negative at -0.00082344378, suggesting that there is some selling pressure. However, the absence of a confirmed trend or strong divergence implies that any trade decisions should be approached with caution. Traders should monitor price action for a potential breakout, especially around key levels such as 1.3590 and 1.3640.\n\nGiven the current market conditions, it's advisable to remain cautious in the short term. Traders may consider waiting for a confirmation of price action beyond the current range, especially with a close above 1.36280 or below 1.3590. For those looking to enter trades, managing risk with tight stops around these levels will be crucial to mitigate potential volatility in this narrow range-bound market."
+    }
+  }
+}

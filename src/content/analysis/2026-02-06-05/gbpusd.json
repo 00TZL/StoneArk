@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-02-06T05:12:29.518Z",
+  "price": {
+    "close": "1.35612",
+    "high": "1.35612",
+    "low": "1.35575",
+    "open": "1.3558",
+    "change": "0.03",
+    "datetime": "2026-02-06 16:00:00"
+  },
+  "indicators": {
+    "rsi": 46.6826,
+    "macd": -0.0019038395,
+    "macd_signal": -0.0025422751,
+    "sma20": 1.35517
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[小幅震荡，整理行情]",
+      "content": "当前英镑/美元的价格稳定在1.35612附近，短期内走势显得较为平缓。虽然24小时内变动仅为0.03%，但从价格区间1.35612到1.35575来看，市场处于窄幅震荡整理状态，尚未形成明显的趋势突破。市场情绪相对中性，未出现强烈的买卖信号。\n\n技术指标方面，RSI(14)数据缺失，无法判断超买超卖情况。MACD值为-0.0019，暗示当前市场动能偏弱，但还未确认反转信号。20日简单移动平均线(SMA)位于1.35517，显示价格略微高于短期均线，反映出当前市场的支持力较为强劲，但仍缺乏足够动能来突破上方阻力。\n\n当前的支撑位在1.35575附近，若价格跌破该位置，可能会进一步测试1.35500水平。阻力位则位于1.35650至1.35700区间，一旦价格突破此区域，可能会迎来更大的上涨空间。短期内，交易者可关注价格在这些关键水平附近的波动，灵活调整仓位。\n\n综上所述，建议短期内保持观望，待价格突破支撑或阻力位后再做出更明确的交易决策。对于保守型交易者，建议选择震荡区间内的短线操作，控制风险。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently showing minimal volatility, with the latest price at 1.35612. Over the last 24 hours, the price has moved just 0.03%, indicating a relatively quiet market. The pair has established a narrow trading range, with a high of 1.35612 and a low of 1.35575, suggesting that there is limited momentum in either direction. This consolidation phase could indicate indecision among traders, with both buyers and sellers holding their positions.\n\nIn terms of technical indicators, the absence of a clear RSI value makes it difficult to gauge the pair's overbought or oversold conditions. However, the MACD value of -0.0019 suggests a slight bearish momentum, although it is not significant enough to signal an immediate downward trend. Without the signal line data, it’s hard to establish a cross or divergence for confirmation. The SMA(20) at 1.35517 provides a potential support level, indicating that if the price dips, it might find buyers near this point. This could act as a short-term floor in the market.\n\nResistance levels are likely near the current price of 1.35612, and any break above this level might push the price higher toward 1.35750 or beyond. On the other hand, if the price slips below 1.35517, support at 1.35575 and the SMA may offer the next line of defense for the bulls. Traders should watch for any signs of a breakout above or below these levels, as a clear move in either direction could signal a shift in market sentiment.\n\nGiven the current market environment, cautious trading strategies are advised. A breakout above 1.35650 could signal a buying opportunity, while a dip below the SMA level near 1.35500 could present a chance to sell, especially if bearish momentum starts to develop. With limited momentum, day traders might focus on small, quick moves, while swing traders could wait for a clearer trend to materialize."
+    }
+  }
+}

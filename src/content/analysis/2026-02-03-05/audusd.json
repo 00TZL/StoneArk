@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-02-03T05:13:47.473Z",
+  "price": {
+    "close": "0.70048",
+    "high": "0.70141",
+    "low": "0.70048",
+    "open": "0.70086",
+    "change": "-0.05",
+    "datetime": "2026-02-03 16:00:00"
+  },
+  "indicators": {
+    "rsi": 62.27069,
+    "macd": 0.0012023857,
+    "macd_signal": 0.00051281498,
+    "sma20": 0.696382
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[短期震荡整理，谨慎关注突破]",
+      "content": "当前，澳元/美元（AUD/USD）呈现短期震荡整理的走势，最新价格为0.70048，距离高点0.70141较近，显示出一定的横盘盘整。此时市场情绪相对谨慎，未出现明确的趋势延续信号。\n\n从技术指标来看，RSI（14）的数据未提供，表明短期内缺乏超买或超卖的明显信号。MACD指标值为0.0012023857，但未提供信号线的相关数据，难以形成明显的交叉形态。20日简单移动平均线（SMA）在0.696382附近，对价格形成了轻微支撑。\n\n支撑位方面，0.7000附近可能会成为短期支撑线，若价格跌破此位置，可能会测试SMA（20）在0.6960附近的支撑位。阻力位则位于0.7015附近，若突破该位置，可能会为上涨提供更大的空间。\n\n建议交易者在当前区间内进行谨慎操作，关注价格是否突破0.7015阻力或0.7000支撑。若价格突破上述水平，可考虑顺势交易。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently showing a modest bearish tone, with the price trading just below the 0.70141 resistance level. This suggests that the market is encountering selling pressure around this point, which is aligning with the slight negative 24-hour price change. The pair's recent movement indicates a consolidation phase, as it hovers near its daily low of 0.70048. A potential break below this low could signal further downside, with support likely to come in around 0.696382, corresponding to the 20-period Simple Moving Average.\n\nThe absence of a clear RSI(14) value limits the insight into potential overbought or oversold conditions, making it more challenging to assess the strength of the current move. However, the MACD reading of 0.0012 indicates a weak positive momentum, which suggests a lack of strong bullish conviction. If the MACD continues to decline, this could further support a bearish outlook. Traders should watch for a crossover with the signal line, should it become available, to confirm any shifts in momentum.\n\nIn terms of technical levels, the immediate resistance lies at 0.70141, with the price struggling to surpass it in the short term. A break above this resistance would open up the next resistance level around 0.70500. On the downside, the key support at 0.696382 could offer a solid cushion, as it aligns with the 20-period SMA and recent price action. A breakdown below this level could lead to further declines, possibly targeting 0.69300.\n\nFor trading strategy, a short position could be considered on a confirmed break below 0.70048, targeting the support around 0.696382. A reversal above 0.70141 may present an opportunity to go long, with targets set at 0.70500. However, risk management is crucial, given the tight range and ongoing consolidation. Traders should monitor the MACD for further insights into momentum shifts."
+    }
+  }
+}

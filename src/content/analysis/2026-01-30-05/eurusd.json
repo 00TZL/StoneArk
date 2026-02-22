@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-01-30T05:04:28.731Z",
+  "price": {
+    "close": "1.19279",
+    "high": "1.19279",
+    "low": "1.19245",
+    "open": "1.19247",
+    "change": "0.03",
+    "datetime": "2026-01-30 16:00:00"
+  },
+  "indicators": {
+    "rsi": 41.88648,
+    "macd": -0.00099067446,
+    "macd_signal": -0.000645624,
+    "sma20": 1.19464
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[震荡整理，等待突破]",
+      "content": "当前欧元/美元在1.19279附近震荡整理，短期内趋势偏平。市场未能有效突破1.19464的20日简单移动平均线，显示出买方力量不足，同时也表明市场参与者在此价位附近保持谨慎。考虑到高点和低点的接近，短期内可能会维持窄幅震荡。\n\n从技术指标来看，MACD值为-0.00099，表明当前市场动能偏弱，尚未显示出明显的买入或卖出信号。由于RSI指标暂时缺失，无法提供进一步的超买或超卖信息，因此需密切关注后续数据更新。整体来看，市场情绪仍然不明朗，需耐心等待进一步的信号。\n\n支撑位方面，1.19245是近期低点，若价格跌破此位，可能引发进一步下行至1.1900。而阻力位则在1.19464，若有效突破，可望进一步上涨至1.1960附近。在此背景下，交易者可考虑在支撑位附近设置买入订单，同时在阻力位附近设置止损，以应对潜在的价格波动。保持警惕，关注市场动态。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The current market price for EUR/USD is 1.19279, reflecting a stable consolidation phase. The pair has shown minimal movement over the last 24 hours, with a slight increase of 0.03%. This stability suggests the market may be in wait-and-see mode, potentially influenced by upcoming economic data releases or geopolitical events. The price is currently hovering near the recent high of 1.19279, indicating that bullish momentum could be gathering if it breaks above this level.\n\nFrom a technical standpoint, the absence of significant changes in the RSI or MACD indicates a lack of strong momentum in either direction. The MACD is slightly negative at -0.00099, suggesting a bearish bias, although the proximity to the zero line indicates that momentum could shift quickly. The 20-period Simple Moving Average (SMA) at 1.19464 acts as a critical resistance level, where sellers may re-enter the market. A move above this SMA could trigger further buying interest, while failure to break through could reinforce bearish sentiment.\n\nKey support is found at the recent low of 1.19245, a level that traders should monitor closely. A break below this support could lead to further downside, potentially targeting lower support levels. Conversely, if the price holds above this level, it could present a buying opportunity, especially if coupled with a bullish reversal pattern. Traders might consider setting stop-loss orders just below this support to manage risk effectively.\n\nIn terms of trading strategy, a cautious approach is recommended. Traders could look for opportunities to buy on dips near the support level, while waiting for confirmation of bullish momentum through a break above the SMA. Conversely, if bearish signals become evident, selling near resistance levels may provide profitable opportunities. Maintaining a close watch on economic indicators and overall market sentiment will be crucial for making informed trading decisions in the coming sessions."
+    }
+  }
+}

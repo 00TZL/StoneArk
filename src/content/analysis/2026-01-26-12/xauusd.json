@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-01-26T13:06:29.023Z",
+  "price": {
+    "close": "5070.75278",
+    "high": "5078.94077",
+    "low": "5068.51085",
+    "open": "5078.94077",
+    "change": "-0.16",
+    "datetime": "2026-01-27 00:00:00"
+  },
+  "indicators": {
+    "rsi": 65.14862,
+    "macd": 24.27782,
+    "macd_signal": 24.67696,
+    "sma20": 5051.7518
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：震荡整理中，短期走势偏弱",
+      "content": "当前黄金/美元（XAU/USD）价格处于5070附近，表现出震荡整理的行情。近期价格在5068与5078之间波动，未能突破明显的支撑或阻力位，整体趋势偏弱。技术上，价格接近20日简单移动平均线（SMA 20），这可能表明市场仍处于短期调整期。\n\nMACD指标显示多头略占上风，但由于缺乏信号线数据，暂时无法确认强势趋势。RSI指标缺失，也使得我们无法通过超买或超卖来判断是否有反转的信号。整体来看，市场情绪较为谨慎，缺乏明确的方向。\n\n支撑位位于5068附近，如果价格下破此点位，可能会进一步下探到5040区间。而上方的阻力位在5078附近，若突破该位置，价格可能会试探5100区间。当前市场的波动性较低，建议交易者保持观望，等待更清晰的信号出现。\n\n对于短期交易者来说，建议在5068至5078区间内进行区间交易，注意设置止损，以防止价格意外突破。若价格突破上述关键点位，可考虑相应的方向性交易。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current price of Gold against the US Dollar (XAU/USD) at 5070.75 suggests a slight bearish sentiment, as indicated by a 24-hour change of -0.16%. The recent high of 5078.94 and a low of 5068.51 demonstrate a narrow trading range, reflecting market indecision. This price action could signify a consolidation phase, with traders awaiting a clearer directional signal. Should the price break above the recent high, it may attract buyers, while a drop below the low could trigger further selling pressure.\n\nAnalyzing the technical indicators, the MACD value of 24.28 indicates bullish momentum, though the lack of a signal line limits the interpretation of this momentum. The absence of an RSI reading complicates the assessment of overbought or oversold conditions. However, the SMA(20) at 5051.75 provides a crucial reference point for traders. A price movement above this level could suggest a potential uptrend, while a sustained move below might indicate increased bearish sentiment.\n\nSupport and resistance levels are critical for understanding potential price movements in XAU/USD. The immediate support level is found at 5068.51, while resistance is noted at 5078.94. A close above the resistance level may encourage further bullish activity, targeting the next psychological level around 5100. Conversely, if the price breaks below the support level, it could lead to a test of lower support around 5050, validating bearish sentiments in the market.\n\nTraders should consider implementing a cautious approach in the current market environment. A breakout above 5078.94 could be an opportunity for long positions, while a breakdown below 5068.51 might warrant short positions. Additionally, monitoring macroeconomic factors and market sentiment will be essential, as these elements could significantly impact price dynamics in the Gold market."
+    }
+  }
+}

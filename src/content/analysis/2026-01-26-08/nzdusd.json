@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-01-26T08:45:47.648Z",
+  "price": {
+    "close": "0.59657",
+    "high": "0.59704",
+    "low": "0.59546",
+    "open": "0.59549",
+    "change": "0.18",
+    "datetime": "2026-01-26 19:00:00"
+  },
+  "indicators": {
+    "rsi": 60.57333,
+    "macd": 0.00034074773,
+    "macd_signal": 0.00036493597,
+    "sma20": 0.595698
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理，短期看空]",
+      "content": "当前，纽元/美元（NZD/USD）在0.59546至0.59704区间内震荡整理，价格徘徊在0.59657附近。短期内，市场似乎缺乏明确的方向，整体走势呈现横盘整理态势。由于缺乏明显的上涨动力，技术面显示有一定的下行风险。\n\nRSI指标暂缺，无法提供超买或超卖的参考。MACD当前数值为0.00034，表明短期内价格变动较小，市场动能较弱。20日SMA位于0.5957，作为近期价格的支撑位，若价格跌破此位，可能会进一步测试0.5950的水平。\n\n目前的主要支撑位为0.59546，而阻力位在0.59704附近。如果价格突破0.5970，可能会看到进一步上涨，但需关注是否能持续维持在该区间之上。反之，若价格跌破支撑位，可能会进一步回调至0.5940或更低。\n\n建议短期内关注价格在0.5950至0.5970区间的波动，若出现跌破支撑的信号，可以考虑采取空头策略。若价格突破上方阻力，需谨慎追涨，等待更明确的趋势信号。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently trading near 0.59657, within a narrow range for the day. Despite a slight 0.18% increase in the last 24 hours, the market has shown limited volatility, fluctuating between 0.59546 and 0.59704. The price is hovering close to the 20-period simple moving average (SMA) at 0.59570, suggesting that the market is in a consolidative phase. The short-term trend appears neutral as there isn't a clear directional bias, and price action is largely range-bound.\n\nThe lack of detailed RSI data limits our ability to assess momentum fully. However, the MACD value of 0.00034074773 indicates a very subtle bullish bias. As the MACD is quite close to zero, it reflects a market that has not yet shown strong momentum in either direction. Traders should wait for confirmation from other indicators or price action before making a move. Without significant divergences, it's likely that the market will continue its consolidation near current levels.\n\nSupport can be found at the lower end of the daily range at 0.59546, which is a potential area for buyers to step in if the price retraces. If the market moves lower, the 0.59500 level could act as a secondary support. On the upside, resistance sits just above the current price near 0.59700, with further resistance around 0.6000. A breakout above these levels could signal the start of a bullish move. Conversely, a breakdown below 0.59500 could lead to a deeper correction.\n\nGiven the current conditions, traders should watch for a breakout from the established range. A move above 0.59700 could offer a buying opportunity, while a drop below 0.59500 may suggest a bearish bias. Patience is key, and setting stop-loss orders around these critical levels will help mitigate risk. Overall, the market remains in a tight range, and a decisive move in either direction would provide clearer trading signals."
+    }
+  }
+}

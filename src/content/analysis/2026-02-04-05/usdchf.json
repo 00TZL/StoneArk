@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-02-04T05:09:41.184Z",
+  "price": {
+    "close": "0.77496",
+    "high": "0.77511",
+    "low": "0.77478",
+    "open": "0.77487",
+    "change": "0.01",
+    "datetime": "2026-02-04 16:00:00"
+  },
+  "indicators": {
+    "rsi": 38.99355,
+    "macd": -0.00051239672,
+    "macd_signal": -0.00042967501,
+    "sma20": 0.7760235
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[震荡整理，短期谨慎观望]",
+      "content": "当前美元/瑞郎（USD/CHF）维持在0.77496附近，整体走势呈现震荡整理态势。尽管价格波动较小，昨日的高点与低点差距有限，显示出市场在这个价位的短期区间震荡。这种走势通常表明市场在等待更明确的指引或重大新闻事件。\n\n技术指标方面，RSI（14）数据缺失，但MACD显示出负值（-0.00051239672），暗示短期内市场动能偏弱。目前20日简单移动平均线（SMA）位于0.7760235，价格低于该均线，可能表明短期内有进一步下行的风险。若MACD持续负值并形成死叉，可能加剧空头趋势。\n\n支撑位方面，当前价格接近0.77478，若突破此位置，可能会下探至更低水平。阻力位则位于0.77511附近，突破后可能会测试0.7760以上的区域。若价格在该区域内持续震荡，短期内可能会维持横盘整理状态。\n\n建议投资者在当前市场环境下保持谨慎，避免激进交易。短期内，可待价格突破重要支撑或阻力后再做决策。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently showing a relatively flat trend with a minor 0.01% change in the last 24 hours. At the moment, the price is hovering around 0.77496, with a narrow range between the high of 0.77511 and the low of 0.77478. This suggests a period of consolidation or indecision in the market. With the price close to the 20-period SMA at 0.77602, it indicates that the pair is still moving in a neutral zone, lacking strong momentum either upwards or downwards.\n\nThe absence of the RSI(14) and the MACD reading at -0.00051239672 points to a market with minimal momentum. A negative MACD value suggests that the pair may be slightly biased to the downside, but the lack of a clear crossover or signal makes this potential less reliable. Traders should be cautious, as the market is currently without strong directional indicators. Until clearer momentum indicators emerge, the focus remains on price action around key support and resistance levels.\n\nIn terms of support and resistance, the 0.77478 low and 0.77511 high form the immediate boundaries. A break below 0.77478 could see the price test lower levels, potentially finding support around 0.77400 or 0.77350. On the other hand, a move above 0.77511 could shift the sentiment towards a more bullish outlook, with resistance at 0.77600 and potentially 0.77700. Any movement above these levels would suggest a possible shift to an upward trend.\n\nGiven the lack of strong momentum signals, a range-bound strategy seems appropriate in the short term. Traders should watch for price action at the established support and resistance levels. If the pair breaks either boundary decisively, it may open up opportunities for either a short position on a downside break or a long position should the price close above resistance. Patience is key as the market awaits further indications of directional bias."
+    }
+  }
+}

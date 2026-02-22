@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-02-12T05:23:34.826Z",
+  "price": {
+    "close": "0.71182",
+    "high": "0.71201",
+    "low": "0.71153",
+    "open": "0.71153",
+    "change": "0.04",
+    "datetime": "2026-02-12 16:00:00"
+  },
+  "indicators": {
+    "rsi": 49.68606,
+    "macd": 0.00065659748,
+    "macd_signal": 0.00092867963,
+    "sma20": 0.712543
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，趋于区间波动]",
+      "content": "当前，澳元/美元（AUD/USD）呈现震荡整理走势，价格维持在0.71153至0.71201之间，且近期变化较为平稳。从短期来看，价格未能突破明显的支撑或阻力水平，显示出市场暂时缺乏足够的推动力。\n\n在技术指标方面，RSI（相对强弱指数）缺乏数据，但从MACD来看，当前的MACD值为0.00065659748，虽有小幅正值，但尚未形成明确的买入信号。SMA(20)为0.71254300，表明价格略低于短期移动平均线，暗示市场略显弱势。\n\n支撑位位于0.71153附近，若价格突破该支撑可能会加深下行压力。阻力位则在0.71201附近，若突破该区域，则可能会迎来短期反弹至更高点。当前价格徘徊在两个关键点之间，建议观望或等待突破后再做决策。\n\n建议短期交易者可以考虑在0.71153支撑附近寻找进场机会，若突破0.71201则可考虑逢高卖出。但由于市场震荡，保持仓位灵活性并控制风险非常关键。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD is currently showing a neutral to slightly bullish trend with the latest price at 0.71182. Over the past 24 hours, the pair has seen minimal movement, with a small change of 0.04%. This indicates a relatively stable market, with limited volatility. The high and low range between 0.71201 and 0.71153 suggests that the pair is consolidating within a narrow range, which often precedes a breakout in either direction. In the absence of significant price action, the market sentiment remains cautious, and traders are awaiting more clear directional cues.\n\nThe absence of the RSI(14) and a partially available MACD value (0.00065659748) makes it challenging to assess momentum with precision. However, the current MACD is positive, which may suggest a mild bullish bias in the short term. Without the RSI, it’s harder to determine if the market is overbought or oversold. The SMA(20) at 0.71254300 indicates the short-term trend, with the price currently trading slightly below this level. This can be seen as a potential resistance point, and if the price fails to break above it, there may be a pullback toward the lower end of the current range.\n\nSupport levels for AUD/USD lie near 0.71153, which has held as a recent intraday low. A further dip below this level could open the door to deeper support around 0.71000, where buying interest may increase. On the resistance side, the area around 0.71201 is crucial, as it has acted as a cap for the recent rally. A break above this could lead to further upside potential, targeting the 0.71300 to 0.71500 range, depending on the broader market conditions.\n\nGiven the current market structure, traders should be cautious of potential sideways movement in the near term. A breakout above 0.71201 or a dip below 0.71153 could offer a clearer direction for the next move. Traders may look to enter on either breakout or employ range-bound strategies with stops placed just outside these key levels. Patience and close monitoring of the price action will be key in navigating this consolidation phase."
+    }
+  }
+}

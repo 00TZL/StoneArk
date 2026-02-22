@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-02-16T05:25:50.565Z",
+  "price": {
+    "close": "1.36179",
+    "high": "1.3619",
+    "low": "1.36154",
+    "open": "1.36172",
+    "change": "0.01",
+    "datetime": "2026-02-16 16:00:00"
+  },
+  "indicators": {
+    "rsi": 52.34885,
+    "macd": -0.000080022369,
+    "macd_signal": -0.000084034999,
+    "sma20": 1.36171
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理，暂无明确趋势]",
+      "content": "目前美元/加元的价格呈现震荡整理的走势，当前价格为1.36179，波动较小。24小时内价格变化仅为0.01%，显示出市场缺乏方向性。近期的价格在1.3619和1.36154之间震荡，表明短期内并未出现强烈的上涨或下跌趋势。\n\n从技术指标来看，RSI数据无法提供，MACD指标当前为-0.00008，未显示出明确的买卖信号。这意味着市场情绪较为平稳，尚未有足够的动力突破当前价格区间。SMA(20)位于1.36171附近，与现价相差不大，进一步确认了短期内市场的整理特征。\n\n支撑位方面，1.36154附近可能是近期的支撑点，若跌破该位置，可能会寻求更低水平的支撑。阻力位则在1.3619附近，一旦突破该水平，可能会出现短期的上涨动能。因此，投资者需关注价格在这两个区域的反应，决定后续操作。\n\n建议保持观望，耐心等待价格突破区间或出现其他信号。若价格突破阻力位，可考虑短期买入；若跌破支撑位，则可能是做空的机会。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair currently exhibits a subtle range-bound movement, with the price hovering near 1.36179. The narrow trading range between the high of 1.3619 and the low of 1.36154 suggests a market in consolidation. Without a clear directional bias, this range-bound activity could indicate a period of indecision in the market. Traders should be cautious of breakouts from this tight range, as volatility could increase once a clear trend is established.\n\nThe 20-period Simple Moving Average (SMA) at 1.36171 is closely aligned with the current price, further confirming the lack of a significant trend. SMA acts as a dynamic support/resistance level, providing a potential entry point for trades if the price deviates significantly from this level. However, with the market moving in a narrow range, a more decisive trend may emerge only if the price breaks above 1.3620 or below 1.3615, signaling either a bullish or bearish shift.\n\nCurrently, the RSI is unavailable, making it difficult to assess potential overbought or oversold conditions. However, the MACD value of -0.000080022369 suggests a slightly bearish bias, albeit marginal. This subtle bearishness combined with the lack of clear momentum signals that traders should remain neutral unless there is a significant breakout or a shift in the MACD and RSI readings that indicate stronger directional momentum.\n\nIn terms of support and resistance, 1.3615 appears to be a key short-term support level, while 1.3620 represents immediate resistance. A move above 1.3620 could target 1.3635, while a break below 1.3615 might signal further downside towards 1.3600. Traders may look for short-term opportunities within this range, but they should keep an eye on any developments in the indicators and the broader market sentiment for potential breakout signals."
+    }
+  }
+}

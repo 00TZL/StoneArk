@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-02-02T05:25:21.395Z",
+  "price": {
+    "close": "0.77249",
+    "high": "0.77288",
+    "low": "0.77231",
+    "open": "0.77245",
+    "change": "0.01",
+    "datetime": "2026-02-02 16:00:00"
+  },
+  "indicators": {
+    "rsi": 53.28215,
+    "macd": 0.00034340269,
+    "macd_signal": 0.00027392677,
+    "sma20": 0.7716015
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：短线震荡偏多格局延续",
+      "content": "从价格结构看，USD/CHF最新价位0.77249，整体维持在窄幅区间内运行，日内波动有限，显示市场处于整理阶段。短线趋势略偏多，价格站稳于20日均线之上，说明多头仍具一定控制力，但上行动能暂未充分释放。\n\n技术指标方面，MACD数值为0.00034，仍位于零轴上方，暗示中期趋势尚未转空，但由于Signal值缺失，动能判断需结合价格表现。RSI暂不可用，使超买超卖信号缺乏参考，当前更应侧重均线与结构分析。\n\n支撑与阻力方面，下方关键支撑位关注0.7716一线，对应SMA(20)，若有效跌破，可能回测0.7700整数关口。上方阻力位位于0.7729附近，为日内高点区域，突破后有望打开进一步反弹空间。\n\n交易策略上，偏向区间思路操作。激进者可在靠近0.7716支撑位轻仓做多，止损设于0.7700下方；稳健者等待有效突破0.7729后顺势跟进，多单目标看向0.7750附近，同时注意控制仓位与风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "USD/CHF is trading near 0.77249, showing a very tight consolidation after a mild upward drift. Price remains slightly above the 20-day SMA at 0.77160, suggesting short-term bullish pressure is still present, though momentum is limited. The narrow daily range between 0.77231 and 0.77288 highlights hesitation, with traders awaiting stronger directional cues before committing to a breakout or reversal.\n\nFrom an indicator perspective, the MACD reading at 0.00034 is modestly positive, hinting that upside momentum is building gradually. However, the absence of a signal line and RSI value reduces confirmation strength, meaning this move lacks full technical validation. In such conditions, price action around moving averages becomes more important. Holding above the SMA(20) keeps the bias constructive, while a slip below would weaken the outlook.\n\nKey support is located around 0.77230, aligned with the session low and acting as an immediate floor. A deeper support zone sits near 0.77160, where the SMA(20) could attract buyers. On the upside, resistance is seen at 0.77290, the recent high, and a break above this level may open the path toward the next psychological barrier near 0.77400, where selling interest could re-emerge.\n\nTrading-wise, cautious bulls may look for long entries on a confirmed push above 0.77290, targeting 0.77400 with a stop below 0.77160 for protection. More conservative traders could wait for a pullback toward SMA support before buying. If price breaks below 0.77160, short positions may become favorable, aiming for 0.77050. Risk management is essential given the current low volatility environment."
+    }
+  }
+}

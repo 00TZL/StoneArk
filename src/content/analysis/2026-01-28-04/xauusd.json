@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-01-28T04:43:09.610Z",
+  "price": {
+    "close": "5239.36188",
+    "high": "5240.60842",
+    "low": "5232.88509",
+    "open": "5234.83781",
+    "change": "0.09",
+    "datetime": "2026-01-28 15:00:00"
+  },
+  "indicators": {
+    "rsi": 78.098018,
+    "macd": 42.13599,
+    "macd_signal": 30.40594,
+    "sma20": 5135.98286
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[当前震荡趋势明显]",
+      "content": "当前黄金/美元(XAU/USD)市场表现出震荡整理的趋势，最新价格5239.36，略微上涨0.09%。价格在5240.60附近形成短期阻力，而5232.88则是当前支撑位。市场在高位区域徘徊，显示出多头和空头之间的博弈，后市可能会继续维持这种横盘走势。\n\n从技术指标来看，MACD值为42.14，表明市场仍有一定的上涨动能，但缺乏强烈的买入信号。由于RSI(14)数据缺失，无法判断超买或超卖情况。根据20日简单移动平均线(SMA)的水平走势，短期内市场可能继续围绕该均线波动，投资者需密切关注价格变化。\n\n支撑位在5232.88附近有效，建议投资者在接近该支撑位时考虑适量进场做多。而在接近5240.60阻力位时，需谨慎操作，防止高位回调带来的风险。总体而言，建议采取宽幅震荡的交易策略，耐心等待更明确的趋势信号出现。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current price of Gold against the US Dollar (XAU/USD) is at 5239.36, showing a slight 0.09% increase over the last 24 hours. This stability suggests a consolidation phase following a recent rally. The price has tested key levels, with a high of 5240.61 and a low of 5232.89. The market appears to be in a bullish trend, supported by the recent upward movement. However, caution is warranted as it approaches resistance levels that could inhibit further gains.\n\nDespite the absence of the RSI data, the MACD reading of 42.14 indicates a strong bullish momentum. This positive signal suggests that buyers are in control; however, the lack of a signal line makes it difficult to gauge potential reversals. Traders should monitor this closely, as a potential crossover could indicate a shift in momentum. Additionally, the SMA(20) at 5135.98 provides a solid baseline for identifying the prevailing trend and potential areas of support.\n\nIn terms of support and resistance, the recent low of 5232.89 serves as a critical support level. A break below this level could trigger further selling pressure, while the recent high of 5240.61 marks a significant resistance point. A successful breach of this level could open the door for a rally towards higher targets. Traders should consider placing buy orders above resistance and setting stop-loss levels just below the support to manage risk effectively.\n\nIn summary, XAU/USD is currently navigating a bullish trend with potential upside, but traders should remain vigilant around key levels. Utilizing the MACD for momentum confirmation and the SMA for trend direction can provide valuable insights. A cautious approach, with defined entry and exit strategies, will be crucial for capitalizing on potential price movements in the coming sessions."
+    }
+  }
+}

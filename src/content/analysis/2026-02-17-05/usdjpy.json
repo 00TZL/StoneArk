@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-02-17T05:19:34.071Z",
+  "price": {
+    "close": "153.14071",
+    "high": "153.15332",
+    "low": "153.05673",
+    "open": "153.08555",
+    "change": "0.04",
+    "datetime": "2026-02-17 16:00:00"
+  },
+  "indicators": {
+    "rsi": 43.50756,
+    "macd": 0.0053344231,
+    "macd_signal": 0.069115319,
+    "sma20": 153.37139
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理，短期看空风险]",
+      "content": "当前美元/日元（USD/JPY）价格为153.14071，处于高位震荡整理阶段。短期内，市场呈现一定的横盘走势，价格波动较小。24小时变化仅为0.04%，未能形成明确的趋势。此时若突破153.15332的高点，可能会吸引更多买盘推动价格上行，而若跌破153.05673的低点，则有可能加剧下行压力。\n\n从技术指标来看，RSI(14)未给出明确的超买或超卖信号，显示市场缺乏强烈的超买或超卖情绪。MACD显示为0.0053344231，处于相对较低的水平，表明动能尚不足以支撑大幅上涨。SMA(20)为153.37139，价格尚未突破这一均线，意味着市场可能依旧处于短期震荡区间。\n\n支撑位位于153.05673附近，一旦价格跌破该区域，可能会测试更低的支撑区间。阻力位在153.15332附近，若价格突破该位置，可能会进一步上涨至153.37139附近。短期内，建议投资者保持谨慎，观察价格是否突破关键支撑或阻力位。\n\n考虑到市场震荡整理，短期内存在一定的下行风险。若价格突破下行支撑位，建议适当考虑做空策略，止损位置可设置在153.15332附近。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY currency pair is currently trading around 153.14, showing minimal movement with a 24-hour change of just 0.04%. This slight change indicates a relatively stable market at present, with the price hovering near the 20-period Simple Moving Average (SMA) at 153.37. The SMA suggests that there is a mild bearish trend as the current price is slightly below it. Traders should monitor for any breakout or reversal signals around this level to assess further direction.\n\nWhile the RSI(14) is unavailable, the MACD is showing a positive value of 0.0053, which could indicate that the pair is in a slight bullish phase, though this is not yet confirmed with a full cross of the signal line. A bullish scenario could gain strength if the pair manages to break through the recent high of 153.153, which could pave the way for further upward movement toward the next significant resistance level around 153.50. On the other hand, if the pair fails to hold above 153.10, it could start to reverse back towards recent support.\n\nSupport levels are seen around 153.05 and the psychological level at 153.00. A breakdown below 153.05 would indicate a potential bearish continuation, with the next support seen near 152.80. Traders should consider watching price action around these levels for short-term opportunities, with a cautious approach to buying or selling until clearer trend signals emerge. The market's muted response at these levels suggests that more volatility could be needed for a decisive move.\n\nConsidering the current tight price range, the outlook for USD/JPY appears neutral with a slight bullish bias due to the MACD reading. However, a more solid trend direction will depend on a breakout above resistance or a confirmed rejection at support. Traders might consider waiting for a breakout or a reversal at key levels, using tighter stops to manage risk effectively."
+    }
+  }
+}

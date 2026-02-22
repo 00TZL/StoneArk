@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-02-20T05:13:11.652Z",
+  "price": {
+    "close": "1.34409",
+    "high": "1.34421",
+    "low": "1.34386",
+    "open": "1.34397",
+    "change": "0.01",
+    "datetime": "2026-02-20 16:00:00"
+  },
+  "indicators": {
+    "rsi": 35.0072906,
+    "macd": -0.0014887959,
+    "macd_signal": -0.0015496374,
+    "sma20": 1.34557
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[震荡整理中，缺乏明确方向]",
+      "content": "当前英镑/美元价格略微上涨，处于1.34409附近，24小时变化仅为0.01%。从技术面来看，汇价正在震荡整理，未能突破明显的支撑或阻力区间。短期内缺乏明确的上涨或下跌趋势，市场情绪偏向中性。\n\n根据SMA(20)的表现，1.34557为近期的阻力位，汇价持续未能突破此位置，显示出一定的卖压。同时，MACD指标为负值，进一步确认市场缺乏强势的买入动力。RSI值暂无数据，但若恢复显示，可能进一步揭示市场超买或超卖的状态。\n\n支撑位方面，当前1.34386为较强的支撑，若突破此水平，可能导致汇价进一步下行至1.34300或更低位置。然而，如果价格保持在此区间内整理，可能会形成新的交易区间，等待更明确的突破信号。\n\n综合来看，当前市场呈现震荡整理格局，建议投资者保持观望，除非价格突破1.34557或1.34386，才可以考虑相应的买入或卖出策略。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently trading at 1.34409, showing a minimal change of 0.01% over the past 24 hours. The price has remained relatively stable within a tight range, with a high of 1.34421 and a low of 1.34386. This indicates a period of consolidation, as the market seems undecided about its next move. The lack of significant volatility suggests that traders are waiting for further market catalysts to guide the next directional shift.\n\nThe absence of an RSI reading leaves us with limited information regarding momentum. However, the MACD at -0.0015 indicates a very slight bearish bias. A negative MACD value suggests that the short-term momentum is weaker than the long-term, but the signal is not strong enough to suggest an immediate downward trend. This reinforces the current indecisiveness in the market, with both bulls and bears lacking strong control. It will be important to watch for any potential crossover or divergence that could provide a clearer picture.\n\nLooking at the SMA(20), the price is currently trading just below it at 1.34557. This suggests that the market is slightly in a bearish short-term position. However, the proximity to the 20-period moving average means that a break above this level could signal a short-term bullish reversal. Resistance is near 1.34557, while the immediate support lies around 1.34386. A breakout above resistance could open up further gains towards 1.34700, while a breakdown below support might indicate a move toward 1.34200.\n\nGiven the current market conditions, traders may consider adopting a wait-and-see approach. A breakout above 1.34557 could be seen as a potential buying opportunity, while a failure to hold above 1.34400 might signal further downside potential, especially if the MACD continues to trend negative."
+    }
+  }
+}

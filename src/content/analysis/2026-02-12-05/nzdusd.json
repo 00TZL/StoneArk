@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-02-12T05:24:56.373Z",
+  "price": {
+    "close": "0.60455",
+    "high": "0.60493",
+    "low": "0.60444",
+    "open": "0.60461",
+    "change": "-0.01",
+    "datetime": "2026-02-12 16:00:00"
+  },
+  "indicators": {
+    "rsi": 43.75364,
+    "macd": -0.000077087548,
+    "macd_signal": 0.000025684399,
+    "sma20": 0.6054105
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理，短期偏弱]",
+      "content": "当前，纽元/美元（NZD/USD）处于震荡整理的状态，最新价格0.60455略低于20日简单移动平均线（SMA 20），显示短期可能存在下行压力。价格在0.60493和0.60444区间内波动，市场未能突破此区间，缺乏明确的趋势信号。\n\nMACD指标显示出轻微的负值（-0.000077），表明短期内卖压略占上风，但信号线缺失，意味着缺乏强烈的趋势延续信号。同时，RSI暂时无法获取，无法为超买或超卖提供判断依据。整体来看，市场情绪相对谨慎，未能形成明确的买入或卖出信号。\n\n从支撑与阻力来看，下方支撑位在0.60444附近，若跌破此位置，可能会进一步测试更低支撑。上方阻力位在0.60493，突破该阻力可能会带来反弹的机会，但当前价格距离阻力较近，突破的难度较大。\n\n建议投资者采取观望策略，等待价格突破震荡区间后再做决策。如果价格跌破0.60444，可以考虑轻微做空；若突破0.60493，则可考虑做多。不过，由于市场缺乏足够的强烈信号，短期内避免大规模操作较为谨慎。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The New Zealand Dollar against the US Dollar (NZD/USD) is currently trading at 0.60455, showing minimal movement in the past 24 hours, with a slight decrease of -0.01%. The price has been relatively stable, as indicated by the high and low levels recorded at 0.60493 and 0.60444. At this juncture, the market is oscillating around its current value, suggesting a consolidation phase. There is no clear trend direction, but this range-bound behavior can present opportunities for traders to capitalize on short-term fluctuations.\n\nWithout specific readings for the RSI(14) and MACD signal, the market’s momentum remains unclear. However, the MACD value of -0.000077 indicates that there could be a slight bearish pressure, though it’s not strongly confirmed. The absence of a MACD signal line adds to the uncertainty, meaning that traders should be cautious before committing to any significant position. Typically, the RSI would provide a clearer understanding of overbought or oversold conditions, but its absence in this case implies waiting for more data before making assumptions about the market’s relative strength.\n\nThe 20-period Simple Moving Average (SMA) stands at 0.60541, slightly above the current price, suggesting that the market is currently below the short-term average, which could indicate a bearish bias. If the price fails to break above this level, the bearish momentum might persist. However, if the price reverses and rises above the SMA, a shift in sentiment toward a bullish outlook could be expected. Traders should monitor this level closely as it could serve as a dynamic resistance.\n\nIn terms of support and resistance, key levels to watch are 0.60444 (the recent low) and 0.60493 (the recent high). A break below the support level could signal a deeper bearish move, while a push above resistance may indicate an opportunity for an upward trend. Given the current market indecision, a conservative trading strategy with a focus on intraday moves might be appropriate, watching for price action to confirm clearer trends."
+    }
+  }
+}

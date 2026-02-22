@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-02-09T05:24:57.835Z",
+  "price": {
+    "close": "1.36129",
+    "high": "1.36132",
+    "low": "1.36038",
+    "open": "1.36049",
+    "change": "0.06",
+    "datetime": "2026-02-09 16:00:00"
+  },
+  "indicators": {
+    "rsi": 54.97493,
+    "macd": -0.000017715367,
+    "macd_signal": 0.000066379514,
+    "sma20": 1.36097
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：当前市场横盘整理，波动较小",
+      "content": "目前，英镑/美元汇率维持在1.36129附近，全天波动较为平稳，24小时变化仅为0.06%。价格在1.36132和1.36038之间震荡，显示市场缺乏明显的方向性。短期内，价格走势处于横盘整理状态，缺乏强烈的上涨或下跌动能。\n\n从技术指标来看，RSI和MACD未能提供清晰的超买或超卖信号，市场动能较弱。SMA(20)水平在1.36097附近，价格稍微高于该均线，暗示短期内可能保持小幅上行趋势。然而，由于缺乏明确的信号，市场短期内可能继续保持震荡。\n\n支撑位方面，1.36038和1.36000是较强的支持区域，若价格跌破这些位置，可能会进一步回调至更低的水平。阻力位在1.36132附近，突破该点位后，价格有望上行至1.3620附近。建议投资者在震荡区域内谨慎操作，关注价格突破支撑或阻力后的走势。\n\n总体来看，目前英镑/美元缺乏明确的趋势方向，适合采取区间交易策略。建议投资者密切关注价格在支撑和阻力区间的反应，保持灵活应对。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair has shown minimal movement over the past 24 hours, with a 0.06% change, hovering around 1.36129. This subtle shift suggests that the market is in a consolidative phase, lacking strong directional momentum. The price is currently situated just above the 20-period simple moving average (SMA) of 1.36097, which indicates a mild bullish bias in the short term. However, the lack of significant volatility and clear trend direction suggests that traders are awaiting a catalyst to drive further movement.\n\nOn the technical front, the absence of a clear RSI value and the negative MACD reading of -0.000017715367 points to a neutral or slightly bearish sentiment. The MACD signal line is unavailable, which complicates the assessment of the trend's strength. With the RSI being unavailable, it would be prudent for traders to pay attention to price action for any signs of exhaustion or continuation. Without robust confirmation from indicators, traders should exercise caution when entering new positions, particularly long ones.\n\nSupport for GBP/USD lies near the recent low of 1.36038, which should act as a key level to watch. If the pair fails to hold above this level, a further dip towards 1.3590-1.3580 could be in play. On the upside, resistance at the daily high of 1.36132 is a critical point to monitor. A break above this level may open the door for the pair to test higher levels, such as 1.3630-1.3640, though the move would require confirmation from momentum indicators.\n\nGiven the current market conditions, it’s advisable to trade cautiously and focus on price action. With the market range-bound, short-term scalping opportunities could arise if the price tests support or resistance levels, but traders should be prepared to exit quickly if the market fails to follow through. Consider waiting for a breakout above resistance or a decisive drop below support for a clearer directional move."
+    }
+  }
+}

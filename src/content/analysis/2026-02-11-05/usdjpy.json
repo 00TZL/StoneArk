@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-02-11T05:25:11.265Z",
+  "price": {
+    "close": "153.22815",
+    "high": "153.40236",
+    "low": "153.22815",
+    "open": "153.31853",
+    "change": "-0.06",
+    "datetime": "2026-02-11 16:00:00"
+  },
+  "indicators": {
+    "rsi": 19.13481,
+    "macd": -0.53590362,
+    "macd_signal": -0.46534141,
+    "sma20": 154.29949
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：当前震荡整理，短期承压",
+      "content": "美元/日元近期处于153.2附近震荡整理的区间，价格略有回调。当前市场表现出短期承压的状态，受日内波动影响较大。该货币对处于较高的价格水平，因此需关注是否会出现进一步回落。\n\n技术指标方面，MACD显示负值，表明卖方力量较强，但尚未形成明确的趋势。RSI未提供具体信息，因此需留意未来的变动趋势。20日简单移动平均线(SMA)在154.3附近形成阻力，短期内价格可能难以突破。\n\n支撑位方面，153.2是一个关键支撑区间。如果价格进一步下探，可留意153.0附近的支撑强度，若跌破该区域，可能导致进一步下行。反之，若价格企稳，则可能会挑战154.3的阻力位。\n\n建议交易者保持观望，适时进入市场。若突破154.3可考虑做多，但在下行趋势中，153.0以下可寻找卖空机会。风险控制应放在支撑与阻力水平附近。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair has been trading in a slight downtrend, with the latest price at 153.22815, a small drop of 0.06% over the past 24 hours. The price has remained within a narrow range, reaching a high of 153.40236 and a low of 153.22815. This indicates a lack of strong momentum in either direction, suggesting consolidation before a potential breakout. The market is likely waiting for further catalysts, possibly economic data or geopolitical developments, to determine the next significant move.\n\nLooking at the technical indicators, the pair is currently showing a bearish bias with the MACD at -0.5359. Although the signal line is not provided, the negative MACD value signals that the momentum is currently to the downside. This could suggest a potential continuation of the current bearish trend. The absence of an RSI reading makes it difficult to evaluate overbought or oversold conditions, but the current price action and MACD lean towards a short-term bearish outlook.\n\nThe 20-period Simple Moving Average (SMA) is sitting at 154.29949, which is significantly above the current price, confirming the recent downward trend. If the price were to climb above this level, it could indicate a shift toward bullish momentum. On the downside, immediate support can be found at the recent low of 153.22815. A break below this level would expose the next support zone around 153.00, while resistance is seen near 153.40, which has capped recent highs.\n\nFor traders, a cautious approach is recommended. Short positions could be considered near the current price, targeting support around 153.00. However, traders should remain mindful of any sudden shifts in momentum or external factors that could trigger a breakout. A bullish reversal would require a strong break above the 20-SMA and subsequent resistance levels around 153.40 and 153.50."
+    }
+  }
+}

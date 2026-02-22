@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-02-05T05:15:44.070Z",
+  "price": {
+    "close": "1.36852",
+    "high": "1.36874",
+    "low": "1.36822",
+    "open": "1.36824",
+    "change": "0.02",
+    "datetime": "2026-02-05 16:00:00"
+  },
+  "indicators": {
+    "rsi": 61.21702,
+    "macd": 0.00077711978,
+    "macd_signal": 0.00059911855,
+    "sma20": 1.367
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：当前区间震荡，短期偏多",
+      "content": "目前，美元/加元（USD/CAD）维持在1.36850附近，价格波动较小。整体趋势偏向震荡整理，缺乏明显的单边走势。尽管价格短期内轻微上涨，但波动幅度有限，市场情绪保持谨慎。若未出现更强的买盘推动，预计近期将继续维持此区间震荡。\n\n从技术指标来看，MACD显示出微弱的买盘动能，但由于信号线数据缺失，难以提供明确的方向指引。RSI指标尚未给出具体参考，需等待更多市场数据来确认是否存在超买或超卖的风险。20日简单移动平均线（SMA）在1.36700附近提供一定的支撑，当前价格上方的阻力位则集中在1.36870附近。\n\n支撑位方面，若价格回落至1.36700附近，可能会得到一定的支撑并触发反弹。短期内，如果突破1.36870，则可能会迎来进一步上涨的空间，反之，则可能加剧整理走势。在此区间内的交易者可以选择短线操作，严格控制风险。\n\n综合来看，短期内美元/加元可能继续维持震荡格局，适合谨慎操作。若出现突破信号，可能会迎来短期的上涨机会，但依然需密切关注技术指标的变化。建议交易者保持观望，并在关键支撑和阻力位附近寻找合适的进场机会。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently in a tight range, with the latest price sitting at 1.36852. The price has shown a slight upward change of 0.02% over the past 24 hours, indicating low volatility and minimal market movement. The price has oscillated between 1.36874 and 1.36822, reflecting the lack of significant momentum. With the price hovering just above the 20-period simple moving average (SMA) at 1.36700, the short-term trend appears slightly bullish, but the lack of a clear directional move suggests that traders are awaiting further confirmation.\n\nThe absence of key readings like RSI(14) and Signal for the MACD complicates the ability to interpret momentum fully. However, the MACD value of 0.00077711978 signals that there is some underlying bullish momentum, albeit weak. This suggests that the pair may continue to experience mild upward pressure in the short term, but the lack of stronger bullish indicators means caution is advised. Without further signals, it is important to remain flexible and monitor for any sudden shifts in market sentiment.\n\nIn terms of support and resistance, the immediate support level is likely near the 1.36700 mark, aligning with the SMA(20). A breach below this level would open the door to further declines, potentially targeting the 1.36500 zone. On the upside, resistance appears to be near the high of 1.36874, and a break above this level could see a move towards the next psychological level at 1.37000. A sustained move beyond this point could confirm a bullish reversal, but the current market environment does not suggest a high likelihood of this happening imminently.\n\nGiven the current market conditions, traders might consider short-term scalping within the narrow range, aiming to capitalize on minor fluctuations. A conservative strategy would involve waiting for a breakout above 1.36874 or a breakdown below 1.36700 before taking a position. Until then, it is advisable to stay cautious and observe for any changes in market sentiment or additional technical indicators that could signal a stronger directional move."
+    }
+  }
+}

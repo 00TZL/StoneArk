@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-02-02T05:21:26.177Z",
+  "price": {
+    "close": "1.36817",
+    "high": "1.36828",
+    "low": "1.36788",
+    "open": "1.36819",
+    "change": "-0.00",
+    "datetime": "2026-02-02 16:00:00"
+  },
+  "indicators": {
+    "rsi": 44.44952,
+    "macd": -0.00029634616,
+    "macd_signal": -0.00018056953,
+    "sma20": 1.36924
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：当前震荡整理，短期走势偏弱",
+      "content": "目前英镑/美元(GBP/USD)的价格处于1.36817附近，短期走势呈现震荡整理的态势。价格在1.36828和1.36788之间波动，显示出市场的犹豫与不确定性。考虑到24小时变化基本为零，短期内难以出现显著的价格波动。\n\n从技术指标来看，RSI和MACD数据缺失，无法提供更准确的超买超卖信号或动能分析。SMA(20)的值为1.36924，表明当前价格略低于短期移动平均线，暗示可能存在一定的下行压力。如果价格持续未能突破这一均线，可能会测试更低的支撑位。\n\n当前支撑位位于1.36788附近，而1.36828则是近期的阻力位。若价格突破阻力位并稳定在其上方，可能会迎来短期反弹。相反，若价格下破支撑位，可能会进一步回调至1.36500区域，需关注突破后的量能变化。\n\n综合来看，建议短期内观望为主，避免在震荡行情中进行频繁操作。如价格突破阻力位，可考虑做多；如跌破支撑位，则可考虑做空。不过，建议结合其他技术指标进一步确认趋势。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The current price of GBP/USD stands at 1.36817, showing a flat 24-hour change of 0.00%. This suggests the market is in a state of consolidation, with minimal directional movement in the last 24 hours. The price has tested the high and low range between 1.36828 and 1.36788, reflecting a tight range bound movement. This narrow price action could indicate a lack of significant market catalysts, leading to a cautious market sentiment.\n\nLooking at trend analysis, GBP/USD is trading slightly below the 20-period Simple Moving Average (SMA), which stands at 1.36924. This positioning below the SMA suggests a mild bearish bias in the short term. However, given the lack of a strong trend, the market may be more sensitive to upcoming data or central bank commentary, which could trigger a more defined movement. The absence of a clear RSI reading further supports this lack of momentum, with the market potentially awaiting a catalyst to establish a trend.\n\nIn terms of support and resistance, the current range suggests immediate support near 1.36788 and resistance at 1.36828. If the price breaks below 1.36788, we could see a move towards deeper support levels, potentially targeting 1.36500 or lower. On the upside, a breach of the resistance at 1.36828 could lead to a test of the SMA at 1.36924, with further upside potential if momentum builds. \n\nWith the current market showing limited directional movement, traders may want to consider a wait-and-see approach. A breakout above resistance or below support could provide more clarity on the next significant price move. Until then, cautious trading within the range appears prudent. A close watch on the MACD indicator is recommended as it may provide further clues if the trend accelerates."
+    }
+  }
+}

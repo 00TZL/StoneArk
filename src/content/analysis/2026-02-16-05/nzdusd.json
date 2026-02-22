@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-02-16T05:26:30.898Z",
+  "price": {
+    "close": "0.60341",
+    "high": "0.60342",
+    "low": "0.60307",
+    "open": "0.60323",
+    "change": "0.03",
+    "datetime": "2026-02-16 16:00:00"
+  },
+  "indicators": {
+    "rsi": 46.55516,
+    "macd": -0.0001492954,
+    "macd_signal": -0.00010381406,
+    "sma20": 0.603683
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[短期震荡走势]",
+      "content": "当前，纽元/美元(NZD/USD)在0.60340附近震荡整理，呈现短期内的盘整模式。价格徘徊于日内低点0.60307与高点0.60342之间，市场缺乏显著的趋势力量，短期内可能维持震荡格局。\n\n从技术指标来看，当前缺乏RSI和MACD的有效信号，因此无法通过动量来明确判断市场的超买或超卖状态。SMA(20)均线位于0.603683，略高于当前价格，表明短期内价格可能面临一定的下行压力。\n\n支撑位方面，0.60307附近是近期低点，可能为短期下行的关键支撑区。如果价格跌破此位，可能会进一步回落至0.60200附近。上方阻力位在0.60342，突破该水平则有可能测试0.60400区间。\n\n建议投资者在短期内保持观望，等待价格突破0.60342或跌破0.60307后再进行操作。在区间震荡期间，保持灵活应变的策略，避免在波动较小的市场中盲目追单。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently hovering near 0.60341, showing limited movement with a 24-hour change of just 0.03%. This slight price action suggests consolidation in the short term. The recent high of 0.60342 and low of 0.60307 indicate a narrow trading range, which reflects a period of indecision in the market. The lack of significant volatility suggests that traders are awaiting further catalysts or clearer market direction. This sideways movement is typical in choppy market conditions where neither bulls nor bears dominate.\n\nLooking at the technical indicators, the absence of a clear RSI(14) reading makes it difficult to assess immediate momentum. However, the MACD value of -0.00014929540 indicates a mild bearish sentiment. This suggests that the pair is experiencing slight downward pressure, though the MACD’s small value means it is not yet showing strong bearish signals. It is important to watch for any significant changes in this indicator for potential shifts in momentum. The absence of the Signal line also limits the reliability of the MACD at this point.\n\nThe 20-period Simple Moving Average (SMA) is currently at 0.603683, which is just above the current price. This could act as a minor resistance level in the short term, especially if the price continues to range within its current tight band. If the price breaks above this SMA, it may signal a potential shift to the upside. On the downside, the support level can be seen near the recent low of 0.60307, providing a potential buying opportunity if the price tests this zone and shows signs of a bounce.\n\nFor traders, the current market conditions suggest a wait-and-see approach. Those looking to enter short positions may consider waiting for a break below 0.60307 to confirm further downside potential. Conversely, long positions could be considered if the price breaks above the SMA and holds above it, signaling a potential continuation toward the next resistance level. Risk management strategies will be crucial in this narrow trading range to avoid false breakouts."
+    }
+  }
+}

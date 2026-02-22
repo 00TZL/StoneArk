@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-01-30T05:07:20.834Z",
+  "price": {
+    "close": "1.35158",
+    "high": "1.35193",
+    "low": "1.35158",
+    "open": "1.35187",
+    "change": "-0.02",
+    "datetime": "2026-01-30 16:00:00"
+  },
+  "indicators": {
+    "rsi": 47.011157,
+    "macd": -0.00079887839,
+    "macd_signal": -0.0011873683,
+    "sma20": 1.35163
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：市场偏向横盘整理，波动幅度较小",
+      "content": "目前，美元/加元的价格在1.35158附近，处于横盘整理状态，且短期波动较小。近期价格接近其20日简单移动平均线(SMA 20)，表明市场缺乏强烈的趋势动能。尽管24小时内价格仅微幅下跌0.02%，市场并未出现明显的趋势变化。\n\n技术指标方面，MACD处于负值区间（-0.00079887839），显示市场动能略显疲弱。然而，由于RSI(14)值暂未提供，无法明确判断超买或超卖状态。市场可能处于中性区间，投资者需关注短期走势的突破。\n\n支撑位约在1.35158附近，若价格突破此点位，可能会向1.35193寻求阻力。在当前范围内，若价格未能有效突破这些关键点，预计市场将继续整理。若突破上方阻力，可能会引发短期反弹。\n\n建议交易者在当前区间内保持观望，避免过于激进的交易操作。若价格突破支撑或阻力，可考虑采取顺势操作策略。风险管理仍然至关重要，尤其是在缺乏明确趋势的情况下。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD currency pair is currently trading at 1.35158, reflecting a slight decrease of 0.02% over the last 24 hours. This minor change indicates a period of consolidation as the pair hovers near its recent high of 1.35193. The market sentiment appears somewhat neutral, suggesting that traders are awaiting clearer signals to determine the next significant move. The price action within this tight range highlights a potential balance between buyers and sellers, with the market seeking direction.\n\nFrom a technical perspective, the absence of a clear trend suggests that traders should closely monitor key support and resistance levels. The current price is just above the 20-period Simple Moving Average (SMA) at 1.35163, which may provide a minor support level. Should the pair break below this level, we could see a test of the next support at around 1.3500, a psychological level that often attracts buying interest. Conversely, resistance is observed near the recent high of 1.35193, and a sustained break above this level could signal a potential bullish reversal, opening the path toward higher levels.\n\nThe MACD indicator currently shows a slight bearish momentum with a value of -0.00079887839, suggesting that sellers may have a slight edge in the short term. However, the absence of an RSI value limits our ability to fully gauge overbought or oversold conditions. Traders should watch for a convergence or divergence in the MACD as it could provide additional insights into potential trend reversals or continuations. \n\nFor trading strategies, a cautious approach is advisable. A breakout above 1.35193 could be an opportunity for long positions, targeting the next resistance level while placing stops just below the recent lows. Conversely, if the price fails to hold above the 20 SMA and breaks below 1.3500, a short position might be warranted, with targets aligned with the next support levels. As always, risk management should be a priority in navigating this uncertain market environment."
+    }
+  }
+}

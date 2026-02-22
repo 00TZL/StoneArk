@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-02-13T05:22:14.841Z",
+  "price": {
+    "close": "0.60313",
+    "high": "0.60365",
+    "low": "0.6031",
+    "open": "0.60338",
+    "change": "-0.04",
+    "datetime": "2026-02-13 16:00:00"
+  },
+  "indicators": {
+    "rsi": 40.30565,
+    "macd": -0.00062869092,
+    "macd_signal": -0.00055106649,
+    "sma20": 0.6044395
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：短期震荡整理",
+      "content": "当前纽元/美元（NZD/USD）处于震荡整理区间，价格波动幅度较小，近期维持在0.6031至0.60365之间。考虑到24小时变化率仅为-0.04%，市场情绪相对平稳。虽然价格处于低位，但缺乏强烈的趋势方向。\n\n在技术指标方面，RSI和MACD数据尚不完整，无法进行精准的超买或超卖判断。20日简单移动平均线（SMA）位于0.6044，显示短期内价格接近该水平时可能遇到一定的压力，表现出震荡格局。\n\n支撑位方面，0.6031附近形成短期支撑，若价格跌破该点，可能进一步回落至0.6020区域。上行阻力位则集中在0.6044附近，一旦突破这一水平，可能出现进一步的上行动能。\n\n在当前市场环境下，建议保持观望并等待价格突破震荡区间。若价格突破0.6044，可考虑轻仓做多；反之，跌破0.6031时则可考虑短期做空策略。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently hovering just above the 0.603 level, reflecting a neutral to slightly bearish sentiment in the market. With a 24-hour change of -0.04%, the pair has shown minimal volatility, suggesting a period of consolidation. The current market price is near the lower end of the range, between 0.60365 and 0.6031. This could indicate potential for a breakout or reversal depending on upcoming market momentum, but overall, the pair remains in a narrow range for the time being.\n\nThe lack of a clear RSI(14) value and the negative MACD of -0.00063 suggest some bearish pressure in the short-term. However, the absence of a defined signal line for the MACD leaves uncertainty regarding the strength and sustainability of this trend. The SMA(20) at 0.6044 provides a short-term resistance level, indicating that the price has faced difficulties breaking above this moving average. Traders may watch for price action around this level to determine if further bearish movement is likely or if a retracement could occur.\n\nSupport is likely to be found at 0.6031, which has acted as the lower bound in recent price action. A break below this could open up a test of further support levels, potentially targeting 0.6020 or lower. On the upside, the 0.6044 level serves as immediate resistance, and a break above this could signal a move towards the next resistance zone around 0.6050. For traders, any bounce off support might offer a buying opportunity, while a clear break below support could signal a continuation of the bearish trend.\n\nIn terms of trading strategy, a cautious approach is recommended due to the narrow price action and lack of significant momentum indicators. Traders should monitor the pair closely for either a breakout above 0.6044 or a breakdown below 0.6031 for clearer direction. Intraday moves may provide opportunities for short-term gains, especially if volatility picks up in either direction."
+    }
+  }
+}

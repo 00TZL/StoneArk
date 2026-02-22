@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-02-18T05:23:03.815Z",
+  "price": {
+    "close": "0.59985",
+    "high": "0.60005",
+    "low": "0.59979",
+    "open": "0.59983",
+    "change": "0.00",
+    "datetime": "2026-02-18 16:00:00"
+  },
+  "indicators": {
+    "rsi": 30.61921,
+    "macd": -0.00074811895,
+    "macd_signal": -0.00023752425,
+    "sma20": 0.602943
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[短期震荡整理，等待突破信号]",
+      "content": "当前纽元/美元(NZD/USD)的价格维持在0.59985附近，走势较为平稳。从价格行为来看，汇价正在区间震荡整理，暂未出现明显的单边趋势。短期内，市场缺乏足够的动能来推动价格向上或向下突破，因此可能会继续在当前区间内波动。\n\n技术指标方面，MACD目前显示负值(-0.00074811895)，表明市场偏空，但信号线尚未明确，因此暂时不能断言趋势方向。RSI未提供相关数据，而20日简单移动平均线(SMA)位于0.60294300，意味着价格仍低于这一均线，暗示短期内存在下行压力。\n\n从支撑和阻力来看，当前的支撑位在0.59979，若突破此位置，可能会进一步下行至0.59800附近。上方阻力位则位于0.60005，突破此位置可能会迎来短期反弹，向0.60300迈进。\n\n建议投资者在此震荡区间内保持观望，等待价格突破关键支撑或阻力位后再做决策。如果价格突破0.60005，考虑逢低做多；若跌破0.59979，适合考虑做空。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently consolidating around the 0.59985 mark, showing a neutral stance with no significant price change over the last 24 hours. The price has stayed within a tight range between the daily high of 0.60005 and the low of 0.59979, indicating a lack of strong momentum. With this stability, the pair is in a consolidation phase, which suggests that traders are awaiting clearer signals before making major moves. The current market conditions do not indicate any immediate breakout or breakdown.\n\nLooking at the moving averages, the 20-period simple moving average (SMA) stands at 0.60294, which is above the current market price. This suggests that the pair is trading below its short-term average, pointing to potential bearish pressure. A sustained price movement below the SMA could indicate a continued downward bias, with the next key support level at 0.5990. Conversely, any movement above the 0.6020 level might lead to a test of higher resistance levels near 0.6050.\n\nFor oscillators, the MACD is negative at -0.00074811895, but with the signal line unavailable, it is difficult to discern the exact trend from this indicator. A negative MACD typically suggests downward momentum, reinforcing the notion of a bearish bias. However, the lack of strong momentum or divergence makes it challenging to call for a definitive trend shift. Traders should wait for either a MACD crossover or an RSI reading to better understand market sentiment.\n\nGiven the current price action and technical indicators, the NZD/USD pair is in a consolidation phase, and trading decisions should consider potential breaks of support or resistance levels. A potential sell opportunity might arise if the price falls below 0.5990, while a move above the SMA could signal a reversal towards the upside. Patience is key, as waiting for a more definitive signal will provide a clearer risk-to-reward setup."
+    }
+  }
+}

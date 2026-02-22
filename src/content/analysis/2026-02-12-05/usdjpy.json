@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-02-12T05:22:53.585Z",
+  "price": {
+    "close": "152.92448",
+    "high": "152.97334",
+    "low": "152.84202",
+    "open": "152.84573",
+    "change": "0.05",
+    "datetime": "2026-02-12 16:00:00"
+  },
+  "indicators": {
+    "rsi": 43.22342,
+    "macd": -0.29611802,
+    "macd_signal": -0.32455903,
+    "sma20": 153.128
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理，关注突破信号]",
+      "content": "当前美元/日元(USD/JPY)走势处于震荡整理阶段，价格在152.84至152.97区间内波动。虽然价格在短期内表现出小幅波动，但整体未见显著的趋势形成。投资者需关注价格突破区间的潜在信号，可能会引发更大的波动。\n\n技术指标方面，MACD为负值(-0.296)，显示出一定的卖压，但由于缺乏明确的信号线数据，仍难以确认趋势的强度。SMA(20)为153.13，当前价格位于其下方，暗示短期内可能面临一定的下行压力。RSI数据暂缺，无法提供超买或超卖的参考。\n\n从支撑和阻力位来看，152.84是当前价格的短期支撑位，若价格跌破该水平，可能会进一步下行至152.70附近。上方阻力位则在153.13附近，若突破该区域，可能会重新测试153.50附近的高点。\n\n综合来看，当前市场呈现整理态势，短期内操作建议保持观望，等待价格突破152.97或152.84后再作决策。若突破152.97，则可考虑顺势做多；若跌破152.84，则可适当做空。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently consolidating around 152.92, showing a minor change of 0.05% over the past 24 hours. This indicates a period of relative calm after recent volatility. The price remains in a broader uptrend, with the high of 152.97 indicating a rejection of downward pressure. The market appears to be stabilizing near the SMA(20) of 153.13, suggesting the continuation of the bullish trend if the price can break above the current resistance zone.\n\nFrom an indicator perspective, the MACD value at -0.296 is a notable sign of weakening momentum, but without the signal line, a clear trend reversal is not evident. This negative reading implies that the pair might face downward pressure if it fails to break past the resistance level around 153.13. However, the lack of overbought or oversold conditions (as indicated by the absence of the RSI) makes the outlook less biased in either direction.\n\nLooking at key support and resistance levels, 152.84 provides immediate support. This level could act as a pivot if the price starts retreating, offering a potential entry point for a buy position if it holds. Below this, the next support is at 152.50. On the upside, breaking the 153.13 resistance level would signal further upside potential, potentially targeting the 153.50 to 153.70 zone.\n\nTraders should remain cautious, waiting for a breakout above the 153.13 resistance to confirm the bullish momentum. A move below the support at 152.84 could indicate a short-term reversal. Both scenarios require confirmation through a combination of price action and indicators like the MACD, as the current market shows indecisive momentum. A range-bound strategy might be ideal for now."
+    }
+  }
+}

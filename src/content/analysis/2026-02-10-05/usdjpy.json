@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-02-10T05:25:44.027Z",
+  "price": {
+    "close": "155.1116",
+    "high": "155.2732",
+    "low": "155.08704",
+    "open": "155.22793",
+    "change": "-0.08",
+    "datetime": "2026-02-10 16:00:00"
+  },
+  "indicators": {
+    "rsi": 26.3577,
+    "macd": -0.34729504,
+    "macd_signal": -0.2934224,
+    "sma20": 155.85981
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理，关注短期区间波动]",
+      "content": "当前美元/日元在155.1附近震荡整理，市场情绪较为谨慎。短期内价格处于区间波动，未能突破关键的支撑与阻力水平。市场未显示明显的单边趋势，因此预计在155.0至156.0区间内进行整理。\n\n从技术指标来看，MACD当前处于负值区域，且没有明确的信号线指引，表明市场动能不足，走势较为平淡。RSI指标缺失，未能提供进一步的超买或超卖信号。20日SMA为155.86，形成短期压力位，价格有可能受到该位置的反压。\n\n支撑位方面，155.09附近为短期支撑水平，一旦跌破可能会加剧下行压力。反之，上方155.27为近期阻力位，突破后可能会迎来进一步的反弹。操作上，可以等待价格在这些区间内的反弹或回调机会，制定合适的进场点。\n\n建议投资者在当前震荡行情中保持谨慎，避免追高追低操作。若价格突破155.27可考虑尝试多单，反之突破155.09则考虑做空。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY is currently showing a slight bearish bias as it trades around 155.1116, a small decrease of 0.08% in the last 24 hours. The market remains within a narrow range, with a high of 155.2732 and a low of 155.08704. This price action suggests a consolidation phase, with limited volatility in recent sessions. The pair is currently below its 20-period simple moving average (SMA) of 155.85981, which is acting as a resistance level. A break above this SMA could signal a shift toward a bullish reversal, but the market will need stronger momentum to push beyond this level.\n\nIndicators such as the MACD, which is currently negative at -0.34729504, point to a mild bearish sentiment. The absence of the RSI and signal line data makes it difficult to confirm overbought or oversold conditions. However, the negative MACD value suggests that the selling pressure is slightly dominating at the moment, and a lack of upward momentum indicates that the pair could continue to face challenges breaking higher. A positive cross in the MACD could signal a shift in trend direction, but until then, caution is advised for buyers.\n\nKey support levels for USD/JPY lie near 155.08704, the recent low, followed by 154.8000, a psychological level that has historically provided support. If these levels are broken, it could pave the way for a deeper decline. On the upside, resistance is seen at the 155.2732 high, and a significant breach above the 155.8600 zone would signal stronger upward momentum. Traders should monitor these levels closely for potential breakout or reversal opportunities.\n\nGiven the current technical setup, traders might consider waiting for a clear breakout from the established range before entering positions. A break above 155.8600 could provide a more confident long entry, while a drop below 155.08704 could open up short opportunities. A risk-management strategy should be in place, as market conditions remain indecisive."
+    }
+  }
+}

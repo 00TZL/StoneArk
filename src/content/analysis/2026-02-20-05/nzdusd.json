@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-02-20T05:16:01.178Z",
+  "price": {
+    "close": "0.59477",
+    "high": "0.59483",
+    "low": "0.59451",
+    "open": "0.59451",
+    "change": "0.04",
+    "datetime": "2026-02-20 16:00:00"
+  },
+  "indicators": {
+    "rsi": 37.40228,
+    "macd": -0.00082106041,
+    "macd_signal": -0.00065417097,
+    "sma20": 0.5963
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[短期整理，倾向震荡]",
+      "content": "当前纽元/美元（NZD/USD）在0.59477附近交易，价格变化幅度较小，24小时变动仅为0.04%。从整体趋势来看，市场处于短期整理阶段，价格波动受限，未出现明显的突破。鉴于价格接近0.59450的低点，短期内可能会维持震荡格局。\n\n从技术指标来看，当前未能提供RSI(14)的数据，MACD值为负（-0.00082），表明市场情绪较为消极，但信号线缺失使得分析不足。SMA(20)当前为0.5963，显示价格在短期内稍有偏离均线，可能暗示价格仍有回升至该水平的潜力。\n\n支撑位方面，0.59450为短期关键支撑区域，一旦跌破，可能会加剧下行风险。阻力位则位于0.5963附近的SMA(20)水平，这也是近期价格的上方压力区。若价格突破此点位，可能会迎来上涨动能。\n\n综合考虑，当前市场缺乏明确的趋势，短期内建议采取观望策略，密切关注0.59450的支撑和0.5963的阻力。如突破关键价位，则可以考虑相应的多空交易策略。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The New Zealand Dollar against the US Dollar (NZD/USD) is currently showing a narrow price range, with a slight 24-hour change of 0.04%. The latest price stands at 0.59477, with a high of 0.59483 and a low of 0.59451. This stability indicates that the market is consolidating, with limited volatility and a lack of significant momentum. Given the proximity of the current price to the recent low, the pair seems to be hovering around a short-term equilibrium.\n\nThe absence of RSI data complicates the immediate assessment of overbought or oversold conditions. However, the negative MACD value of -0.00082 suggests that bearish momentum remains present, albeit weak. This could signal a potential continuation of the downtrend if the pair fails to break above key resistance levels. In the absence of a strong bullish signal, traders might look for opportunities to sell on rallies, particularly if the pair approaches resistance near 0.5963 (SMA 20), where selling pressure has historically been seen.\n\nLooking at support and resistance, the pair is testing a relatively tight range. Immediate support is located at the recent low of 0.59451, with a breakdown below this level potentially opening up further downside toward 0.5940. On the upside, resistance is found around 0.5963, aligning with the 20-period SMA. A break above this level could signal a short-term reversal or further consolidation, with the next resistance level seen near 0.5980.\n\nFor trading strategies, the current market environment suggests caution. A selling opportunity could emerge if the price fails to breach the resistance at 0.5963, especially with the ongoing weak MACD. Traders may also consider waiting for a clearer signal, such as a sustained price movement outside the range, to initiate a more definitive position."
+    }
+  }
+}
