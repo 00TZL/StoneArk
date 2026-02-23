@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-02-23T05:22:20.917Z",
+  "price": {
+    "close": "1.35151",
+    "high": "1.35202",
+    "low": "1.35147",
+    "open": "1.35201",
+    "change": "-0.04",
+    "datetime": "2026-02-23 16:00:00"
+  },
+  "indicators": {
+    "rsi": 61.24495,
+    "macd": 0.00094384753,
+    "macd_signal": 0.00071619681,
+    "sma20": 1.3499
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：当前市场震荡整理",
+      "content": "目前英镑/美元的价格处于1.35151附近，呈现出震荡整理的走势。尽管24小时变化较小，仅为-0.04%，但短期内该货币对依然在高点1.35202和低点1.35147之间波动，显示出市场缺乏强烈的方向性。短期内，价格可能继续在这个区间内调整。\n\n技术指标方面，MACD显示为正值0.00094384753，但未显示明确的买入或卖出信号。由于RSI未提供相关数据，因此暂时无法判断市场是否超买或超卖。20日简单移动平均(SMA)位于1.34990附近，为短期支撑水平，若价格跌破此位，可能进一步下探。\n\n支撑位方面，1.34990为重要支撑区，若价格下破该水平，可能会寻找到更低的支撑点。阻力位则位于1.35202附近，若价格突破该阻力，可能会推动其进一步上涨至更高水平。\n\n综合来看，当前英镑/美元走势偏向震荡整理。若价格未能有效突破当前支撑或阻力，建议短线操作时采用区间交易策略，关注市场进一步的技术信号以判断未来走势。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently in a narrow trading range, as indicated by its recent high of 1.35202 and low of 1.35147. The price remains close to its 20-period simple moving average (SMA) at 1.34990, suggesting a period of consolidation. Given the slight 24-hour decline of -0.04%, the pair appears to be trapped within a tight corridor, with neither buyers nor sellers in clear control. This could signal indecision in the market, potentially leading to further sideways action unless a breakout occurs.\n\nRSI and MACD data are unavailable, making it difficult to gauge momentum directly. However, the MACD value of 0.00094 suggests a very muted bullish bias, while the lack of a signal line comparison prevents a clear determination of trend strength. In the absence of these indicators, the focus shifts to price action and moving averages. The 1.3520 resistance level is key, as a breakout above this could trigger a continuation towards 1.3550. On the downside, support at 1.3500 could be a critical floor, with a break below potentially opening the door for a move toward 1.3470.\n\nThe pair’s current price is showing no significant trend, making it suitable for range-bound trading strategies. If the price stabilizes above 1.3520, there could be a moderate buying opportunity, with targets near 1.3550. Conversely, if the market breaks 1.3500 to the downside, short positions could be considered, targeting the 1.3470 support level. Traders should stay alert for any fundamental news or data that could shift momentum decisively in either direction.\n\nIn conclusion, GBP/USD is currently trading in a range, with a slight bearish undertone. Traders should watch for price breaks above 1.3520 for bullish confirmation or below 1.3500 for a possible downside move. Given the lack of clear momentum indicators, a cautious approach is advised, focusing on short-term price fluctuations rather than long-term trends at this moment."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-02-23T05:24:31.749Z",
+  "price": {
+    "close": "1.36735",
+    "high": "1.36739",
+    "low": "1.36705",
+    "open": "1.36705",
+    "change": "0.02",
+    "datetime": "2026-02-23 16:00:00"
+  },
+  "indicators": {
+    "rsi": 47.95412,
+    "macd": -0.00042501733,
+    "macd_signal": -0.00041683832,
+    "sma20": 1.36751
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：短线震荡偏弱整理",
+      "content": "当前价格报1.36735，日内波动区间极窄，高低点差不足40点，显示市场交投清淡。价格略低于SMA20（1.36751），短线运行于均线下方，结构上呈现震荡偏弱格局，多空力量暂未形成有效突破。  \n\nMACD位于零轴下方且为负值，虽未见明显放量，但空头动能仍占微弱优势，暗示上行动力不足。若后续柱体持续扩张，可能强化下行预期；若重新收回均线之上，则有望修复短线弱势结构。  \n\n下方初步支撑关注1.36700整数位，其次为1.36550前低区域；上方阻力位看1.36800及1.37000关口。操作上建议以区间思路为主，靠近支撑轻仓试多，接近阻力短空，严格设置止损，等待放量突破后再顺势跟进。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently showing a slight upward movement, trading at 1.36735 with a minimal 24-hour change of 0.02%. The price has been confined within a tight range between 1.36739 and 1.36705, indicating a period of consolidation. Given this narrow price action, the trend appears neutral in the short term. However, a break above 1.36751, near the SMA(20), could signal a potential move higher, potentially testing recent resistance levels.\n\nFrom a technical standpoint, the absence of an RSI reading limits the ability to gauge overbought or oversold conditions. However, the MACD is negative at -0.000425, suggesting bearish momentum, albeit weak. The negative MACD value indicates that sellers have the upper hand, but the lack of a significant divergence means that the downside potential remains limited without further bearish catalysts. Traders should monitor the price closely for signs of trend confirmation, particularly on a sustained break above or below key levels.\n\nSupport levels for the USD/CAD pair are found around 1.36705 and 1.36650, with a potential stronger level near 1.36500. On the upside, resistance is present at 1.36751 and further at 1.36800, which could provide a barrier to any bullish continuation. Given the current range-bound nature of the market, trading opportunities are likely to emerge upon a breakout, either to the upside or downside, offering a clearer direction.\n\nTraders may consider adopting a breakout strategy, focusing on either a bullish move above 1.36751 or a bearish decline below 1.36600. With low volatility in the current session, patience is key. A wait-and-see approach is prudent until the pair confirms a more decisive move, with any further price expansion potentially offering a better risk-to-reward entry point."
+    }
+  }
+}

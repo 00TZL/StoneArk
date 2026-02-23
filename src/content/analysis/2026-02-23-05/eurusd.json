@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-02-23T05:21:40.028Z",
+  "price": {
+    "close": "1.18175",
+    "high": "1.18212",
+    "low": "1.18167",
+    "open": "1.18211",
+    "change": "-0.03",
+    "datetime": "2026-02-23 16:00:00"
+  },
+  "indicators": {
+    "rsi": 66.40157,
+    "macd": 0.0010696048,
+    "macd_signal": 0.00082835461,
+    "sma20": 1.18003
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：短线震荡偏强格局延续",
+      "content": "当前汇价报1.18175，日内波动区间极窄，高低点差仅数十点，显示多空力量暂时均衡。24小时微跌0.03%，整体仍处于高位整理阶段。从结构看，价格维持在20日均线上方运行，短线趋势偏多，但动能有所放缓，呈现震荡偏强格局。  \n\n技术面上，SMA(20)位于1.18003，现价明显高于均线，说明短期均线仍提供动态支撑。MACD数值为0.0010696，处于零轴上方，代表多头动能尚存，但缺乏信号线配合，需警惕背离风险。RSI暂无数据，短线动能判断需结合价格行为观察。  \n\n关键支撑关注1.18000整数关口及SMA(20)附近，若跌破则可能回测1.17850区域。上方阻力位于1.18220前高附近，一旦有效突破，或进一步测试1.18500心理关口。区间压缩意味着后续或迎来方向选择。  \n\n交易策略上，激进者可依托1.18000一线轻仓做多，止损设于1.17850下方，目标看向1.18250至1.18500区域。稳健者建议等待有效突破1.18220后顺势跟进，或跌破均线后转为空头思路，控制仓位，防范假突破风险。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently experiencing a subtle downward movement, reflected in the recent price of 1.18175. The market has shown minimal change over the past 24 hours, down by just 0.03%. This indicates a consolidation phase, where traders may be waiting for more definitive market signals before committing to larger positions. The price action remains confined between the high of 1.18212 and the low of 1.18167, suggesting a tight trading range. The pair could potentially test the lower bound of this range for further direction.\n\nIn terms of trend, the pair appears to be in a neutral-to-slightly bearish mode. The absence of significant upward momentum, combined with a proximity to the 20-period simple moving average (SMA) at 1.18003, suggests that the price could struggle to break through resistance levels at around 1.18200. A failure to break this level might lead to a continuation of the current range or even a downward move, where the next support could be around 1.18000, aligning with the SMA. Conversely, if the price surpasses 1.18200, there may be room for further upward movement, but this would require more substantial buying pressure.\n\nTechnical indicators such as the MACD and RSI are not providing clear signals at the moment. The MACD reading of 0.0010696048 suggests a very weak bullish bias, though it is not significant enough to indicate a clear trend reversal. With no data on the RSI, it’s challenging to assess whether the market is oversold or overbought. Traders should watch for any divergence in these indicators for clearer signals. Given the market’s current position, any trades should be cautiously approached.\n\nSupport and resistance levels are key here. The immediate support sits at 1.18167, and breaking below this could lead to a test of the 1.18000 zone, with further downside targets near 1.17850. On the upside, resistance is seen at 1.18212. A break above this would suggest a move toward the next resistance around 1.18400. Given the lack of strong momentum, traders may prefer to stay within the range, capitalizing on short-term price fluctuations while keeping an eye on key levels."
+    }
+  }
+}

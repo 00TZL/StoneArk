@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-02-23T05:23:06.091Z",
+  "price": {
+    "close": "154.47127",
+    "high": "154.49855",
+    "low": "154.39272",
+    "open": "154.3963",
+    "change": "0.05",
+    "datetime": "2026-02-23 16:00:00"
+  },
+  "indicators": {
+    "rsi": 36.95939,
+    "macd": -0.18486317,
+    "macd_signal": -0.13738391,
+    "sma20": 154.75231
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：当前走势震荡整理，短期偏空",
+      "content": "当前美元/日元的价格在154.47附近震荡整理，价格波动较小，24小时变化仅为0.05%。从技术面看，价格位于20日简单移动平均线(SMA)下方，显示出一定的短期弱势。虽然MACD指标为负值，但没有明确的交叉信号，表明市场没有明确的趋势方向。\n\n支撑位方面，154.39是一个关键的短期支撑区间，若价格下破该位置，可能会进一步下行至154.00左右。上方的阻力位则集中在154.75附近，突破此位置有可能迎来进一步上涨的机会，挑战更高的水平。\n\n从技术指标来看，RSI(14)数据缺失，无法直接评估市场的超买或超卖状态。MACD的负值提示当前市场偏空，但缺乏足够的动能支持强势下行。因此，投资者应保持谨慎态度，等待更明确的市场信号。\n\n综合来看，短期内美元/日元可能会继续在154.39至154.75区间内震荡整理。建议短线交易者可考虑在接近支撑位时寻找买入机会，若突破上方阻力，则可考虑适度追多。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently trading at 154.47127, indicating a mild positive shift over the past 24 hours, with a 0.05% increase. Despite this slight movement, the price is still hovering near a key resistance level around 154.50. This suggests the market is experiencing a consolidation phase within a range between 154.39272 (support) and 154.49855 (resistance). In the broader context, the pair remains in a neutral trend, as there's no significant indication of a breakout in either direction yet.\n\nWithout the availability of RSI and MACD signals, the price action becomes the primary focus for this analysis. The pair's proximity to the 20-period SMA at 154.75231 points to the possibility of downward pressure if the price fails to hold above this level. A pullback from this resistance could lead to testing lower support levels, with 154.39 being a critical area to watch. A break below this could suggest further downside toward 154.20, increasing bearish sentiment.\n\nThe MACD value at -0.18486317, though negative, does not yet signal a clear reversal or trend acceleration. The market is still awaiting further confirmation. A positive crossover from the MACD, if it occurs, could suggest a bullish correction, pushing the price back toward the upper resistance of 154.50, or potentially even higher. On the flip side, sustained bearish momentum could lead to further price declines, particularly if the support at 154.39 breaks down.\n\nIn terms of strategy, traders should be cautious in these neutral conditions. If the price fails to break above 154.50 and shows signs of reversal, short positions near this level with tight stop losses can be considered. Conversely, a sustained push above the 20-period SMA or a potential MACD crossover could justify long entries targeting 154.75, with the expectation of a bullish extension."
+    }
+  }
+}

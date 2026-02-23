@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-02-23T05:26:36.810Z",
+  "price": {
+    "close": "5154.23505",
+    "high": "5160.95319",
+    "low": "5153.65663",
+    "open": "5160.42202",
+    "change": "-0.12",
+    "datetime": "2026-02-23 16:00:00"
+  },
+  "indicators": {
+    "rsi": 66.97748,
+    "macd": 17.72141,
+    "macd_signal": 12.56905,
+    "sma20": 5120.7011
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理中，观望为主]",
+      "content": "当前黄金/美元(XAU/USD)价格在5154附近，短期内呈现震荡整理格局。价格波动范围狭窄，未出现明显的趋势性变化。短期内市场情绪较为平静，投资者需关注价格突破的方向以确认后续走势。\n\n从技术指标来看，MACD数值为17.72，表明市场仍保持一定的买盘动能，但缺乏明确的信号确认上涨或下跌。RSI未显示超买或超卖信号，整体市场情绪相对平稳。SMA(20)位于5120附近，当前价格略高于该均线，暗示短期内可能存在小幅回调的风险。\n\n支撑位位于5153附近，这是近期价格的低点，一旦跌破该支撑位，可能会测试更低的价格区间。阻力位则在5160附近，若价格突破该阻力位，则有可能出现短期反弹。此时需密切关注市场走势，确认突破的有效性。\n\n在当前震荡市场中，建议投资者保持观望态度，避免追涨杀跌。如果价格突破上方阻力位，短期内可以考虑适度做多；反之，跌破支撑位则可能采取空头策略，逐步减仓以降低风险。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD pair is currently experiencing a slight downward movement, with a 24-hour change of -0.12%. This indicates a generally stable market, but the recent price action suggests consolidation. The current market level is close to the low end of the daily range, hovering around 5154.23. Traders should be cautious, as the market is likely to remain within a tight range until clearer direction emerges. A potential support zone lies at the 5153.66 level, which has held firm throughout the day.\n\nThe absence of an RSI (14) reading makes it difficult to assess the momentum of the market. However, the MACD value of 17.72 suggests that the market is still in a bullish phase, but without a clear signal line, it's harder to draw strong conclusions. The lack of divergence or crossover indicates that while there is some buying pressure, it is not yet strong enough to confirm a decisive upward trend. Market participants may need to wait for further confirmation from additional indicators.\n\nThe Simple Moving Average (SMA) on the 20-period chart is currently at 5120.70, offering support to the price in the short term. A break below this level could signal a shift towards a bearish short-term trend. If the price holds above the SMA, there may be potential for a rebound toward the 5160.95 resistance level. A breach of this resistance could lead to further upside, confirming a continuation of the bullish trend in the medium term.\n\nIn terms of trading strategy, conservative traders might prefer to wait for a breakout either above the resistance level or below the support level before taking action. Aggressive traders could consider entering on pullbacks to the SMA support, setting stop losses just below the 5153.66 support. However, caution is advised, as market conditions remain uncertain with limited indicator readings."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-02-23T05:23:47.271Z",
+  "price": {
+    "close": "0.70696",
+    "high": "0.70707",
+    "low": "0.70682",
+    "open": "0.70706",
+    "change": "-0.02",
+    "datetime": "2026-02-23 16:00:00"
+  },
+  "indicators": {
+    "rsi": 41.57885,
+    "macd": -0.0001640005,
+    "macd_signal": 0.000029763344,
+    "sma20": 0.708086
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，略有下行压力]",
+      "content": "当前澳元/美元的价格为0.70696，短期内维持震荡整理格局。从24小时变化来看，市场几乎没有波动，表明多空力量较为均衡。高点和低点的微小差距也印证了这一点。整体趋势显示出暂时的平稳状态，但仍有下行压力。\n\n从技术指标来看，MACD呈现负值，暗示市场可能处于疲软状态。虽然RSI值暂时无法提供，未能反映超买或超卖状态，但根据SMA(20)线的表现（0.7081），价格目前略低于该水平，显示出市场存在一定的下行空间。若价格持续低于SMA(20)，可能进一步跌破支撑位。\n\n支撑位在0.70682附近，若跌破此位，价格有可能进一步下探至0.7050附近的水平。上方的阻力位位于0.70707，突破该点可能会为价格反弹创造机会，进一步测试0.7080区域的压力。\n\n建议交易者密切关注0.70682的支撑位和0.70707的阻力位。如果价格突破0.70707，可能会出现短期反弹，但若跌破支撑位0.70682，则可考虑做空，目标位看向0.7050附近。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently experiencing a narrow trading range, with the price hovering near 0.7070. Over the past 24 hours, the pair has shown minimal movement, declining by only 0.02%. This range-bound behavior suggests consolidation in the market, where traders are waiting for a catalyst to drive the next significant move. The price is close to the SMA(20) of 0.7081, indicating a neutral bias, as the price has been oscillating around this moving average.\n\nFrom an indicator standpoint, the MACD shows a slight negative value of -0.000164, pointing to a minor bearish pressure. However, the absence of a clear signal line and RSI(14) reading leaves the market in a relatively neutral stance. Without strong momentum indicators, traders may be cautious, as the pair appears to lack clear directional strength. A breakout above or below the 0.7070 range could trigger further moves, but it will require confirmation from momentum indicators for sustained trends.\n\nLooking at the support and resistance levels, the immediate resistance stands at 0.7071, where the market has previously failed to maintain higher levels. The recent low of 0.70682 forms a near-term support, below which further downside risk to 0.7055 may arise. Should the price breach either of these levels with conviction, it could offer a clearer path for traders to follow, either a breakout to the upside or a further decline.\n\nIn terms of trading strategy, a cautious approach is recommended for now. A short position could be considered if the price moves decisively below the 0.7068 support level, with a target towards the next support at 0.7055. Conversely, a move above 0.7071 may indicate a potential rebound, where long positions could be tested with a target near the SMA(20). However, confirmation from the MACD or RSI will be crucial for confirming entry points."
+    }
+  }
+}

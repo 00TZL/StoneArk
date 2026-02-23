@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-02-23T05:25:13.258Z",
+  "price": {
+    "close": "0.59811",
+    "high": "0.59845",
+    "low": "0.59804",
+    "open": "0.59844",
+    "change": "-0.06",
+    "datetime": "2026-02-23 16:00:00"
+  },
+  "indicators": {
+    "rsi": 49.97302,
+    "macd": 0.00025121978,
+    "macd_signal": 0.00025344174,
+    "sma20": 0.5981345
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：震荡整理中，暂时缺乏明显趋势",
+      "content": "当前，纽元/美元（NZD/USD）在0.59811附近震荡整理。昨日价格波动较小，全天变化仅为-0.06%，表明市场缺乏明显的方向性。短期内，价格维持在0.59845和0.59804之间，反映出市场情绪相对平稳，缺少强烈的买入或卖出信号。\n\n从技术指标来看，RSI（相对强弱指数）缺失数据，但从MACD来看，当前MACD值为0.00025121978，表示短期内动能较弱，市场尚未出现明显的趋势性变化。20日简单移动平均线（SMA 20）位于0.59813450附近，价格略微高于这一均线，暗示短期可能存在支撑。\n\n支撑位方面，0.59804为近期的低点，若价格下行突破此位置，可能会测试更低的支撑位。上方阻力位在0.59845附近，一旦突破此阻力位，可能出现一定的反弹行情。当前价格处于支撑和阻力区间内，市场仍需进一步确认突破方向。\n\n交易建议上，短期内建议保持观望，等待价格突破0.59845或0.59804的区间。如果价格突破上行，可能形成短期的买入机会；反之，跌破下行时则需考虑卖出操作。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently experiencing a narrow range, with the latest price at 0.59811, reflecting a slight 24-hour change of -0.06%. This price movement suggests that the market is consolidating, and the pair is in a neutral state. Given the recent high at 0.59845 and low at 0.59804, the market remains relatively stable, with little volatility or momentum to drive significant price changes. The current price is closely aligned with the 20-period simple moving average (SMA), indicating a lack of clear directional bias in the short term.\n\nFrom an indicator perspective, the lack of an RSI and signal data makes it difficult to fully gauge the strength or weakness of the trend. However, the MACD value at 0.00025121978 is marginally positive, which could hint at a minor bullish momentum. This, combined with the flat SMA(20), suggests a potential for sideways movement or a very mild bullish bias in the absence of major catalyst events. Traders should monitor any changes in these indicators for confirmation of trend shifts.\n\nSupport and resistance levels remain key to understanding potential breakout points. Immediate support is found near the low of 0.59804, with a breach below this level potentially leading to further downside toward 0.5975. Resistance is at the high of 0.59845, and a breakout above this could encourage a move toward 0.5990. A confirmation of momentum in either direction would likely trigger further action, but in the current market, range-bound trading seems more probable.\n\nIn terms of trading strategy, a cautious approach is recommended. With the market moving sideways and a lack of strong directional indicators, range-bound strategies might be effective. Traders could look for short-term opportunities near the support and resistance zones, entering long positions near support levels and short positions near resistance levels, with tight stop losses to manage risk. A breakout from this consolidation could shift the focus to a more defined trend, where momentum-based strategies might become more applicable."
+    }
+  }
+}

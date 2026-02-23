@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-02-23T05:25:55.800Z",
+  "price": {
+    "close": "0.77285",
+    "high": "0.77285",
+    "low": "0.77248",
+    "open": "0.77248",
+    "change": "0.05",
+    "datetime": "2026-02-23 16:00:00"
+  },
+  "indicators": {
+    "rsi": 38.0048709,
+    "macd": -0.0008245658,
+    "macd_signal": -0.00064209499,
+    "sma20": 0.7740105
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：震荡整理趋势，等待突破",
+      "content": "当前美元/瑞郎价格处于0.77285附近，市场呈现出较为窄幅的震荡整理。24小时内变化仅为0.05%，显示出市场缺乏较大的波动性。高点和低点分别为0.77285和0.77248，表明价格在该区间内小幅波动，当前没有明确的上涨或下跌动能。\n\n技术指标方面，MACD值为-0.00082456580，仍处于负值区域，显示出市场可能的空头压力。然而，RSI未能提供进一步的超买或超卖信号，未能反映出明显的过热或过冷状态。SMA(20)为0.77401050，当前价格略低于这一均线水平，暗示短期内可能会面临一定的阻力。\n\n支撑位方面，0.77248附近为近期价格低点，如果价格跌破此位，可能会进一步下探0.77100区域。阻力位则位于0.7740附近，这是短期内的主要阻力线，突破该水平可能会推动价格向上测试0.7760。综合来看，市场处于观望状态，等待突破。\n\n交易建议：建议暂时观望，等待价格突破0.77248支撑或0.7740阻力后再做决策。突破支撑可考虑做空，而突破阻力则可考虑做多，具体操作应结合市场情绪和风险管理。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently trading at 0.77285, reflecting a minimal 24-hour change of 0.05%. Despite the low volatility, the market is indicating a potential consolidation phase. The price has been confined within a narrow range, between the high of 0.77285 and the low of 0.77248. This tight price movement suggests a lack of strong directional momentum, possibly due to market indecision or waiting for a more significant economic catalyst. Traders may want to watch for a breakout or breakdown from this range to establish a clearer trend.\n\nThe absence of the RSI (14) and a low MACD value of -0.00082 points to a neutral short-term sentiment. The MACD being negative indicates that bearish momentum is slightly in play, though it is weak. Without a significant divergence or crossing of the signal line, the indicator alone doesn't suggest an immediate trend reversal. As a result, the market remains in a limbo state, and further confirmation from other indicators is needed to make any decisive calls. \n\nThe 20-period simple moving average (SMA) stands at 0.77401, acting as a mild resistance level. If the price moves above this level, it could signal a shift toward bullish sentiment, possibly targeting 0.77600 or higher. However, any failed attempts to break above the SMA could signal further downside pressure, bringing the price back towards the lower boundary of 0.77250. Watch for a break below this support for potential bearish continuation toward 0.77000 or lower.\n\nGiven the current technical landscape, a cautious approach is advisable. Short-term traders could look for breakout opportunities above the SMA for potential long trades or consider short positions if the price fails to sustain above 0.77300. Additionally, risk management is key, as price action is currently range-bound, and sudden volatility spikes could quickly shift market sentiment."
+    }
+  }
+}
