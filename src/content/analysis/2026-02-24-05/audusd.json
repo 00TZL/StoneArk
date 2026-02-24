@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-02-24T05:20:13.706Z",
+  "price": {
+    "close": "0.70593",
+    "high": "0.70632",
+    "low": "0.7058",
+    "open": "0.70598",
+    "change": "-0.01",
+    "datetime": "2026-02-24 16:00:00"
+  },
+  "indicators": {
+    "rsi": 44.28775,
+    "macd": -0.00038495029,
+    "macd_signal": -0.00045393528,
+    "sma20": 0.7062855
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，突破待定]",
+      "content": "当前澳元/美元（AUD/USD）在0.7059附近震荡整理，价格波动较为窄幅，未能形成明显的上涨或下跌趋势。短期内，价格维持在0.7058至0.7063区间内波动，市场观望情绪较浓，缺乏足够的动能推动突破关键价位。\n\n从技术指标来看，MACD目前为负值，暗示市场可能存在卖压，虽然信号线（Signal）暂时无法确认，但短期内可能继续承压。RSI指标目前未提供相关数据，进一步确认市场超买或超卖状态的参考依据不足。20日简单移动平均（SMA）处于0.7063附近，若价格突破该均线，可能会带来进一步上涨的空间。\n\n支撑位方面，0.7058是近期的低点，若价格跌破该水平，可能进一步向下寻找支撑。阻力位则在0.7063附近，突破该水平后可能会测试更高的价位。若价格维持在当前区间内，短期内仍需关注是否会出现突破信号。\n\n建议短线交易者可以密切关注0.7058与0.7063的突破情况。若突破上行，考虑逢低买入；若突破下行，则可考虑卖出，但应注意市场缺乏方向性，需要保持谨慎操作。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD is currently showing a slight negative movement, with a 24-hour change of -0.01% and the price hovering at 0.70593. This suggests a relatively stable market but may indicate a bearish sentiment, as the price is nearing the lower boundary of its recent range. The market is encountering slight resistance near the 0.70632 high, which is keeping upward momentum in check. Should this level hold, further downside movement could be expected. Conversely, the low at 0.7058 is providing some support, which could act as a buffer against further declines in the short term.\n\nFrom a technical standpoint, the market is displaying neutral-to-bearish behavior due to the negative MACD reading of -0.00038495029, implying that momentum is weak and possibly fading. However, the absence of a clear signal line suggests a lack of clear direction, meaning the market is uncertain at the moment. Traders should be cautious about positioning in this range until clearer signals emerge. If the price fails to break above the 0.70632 resistance or slips below the 0.7058 support, we could see a more defined move.\n\nWith the current SMA(20) value at 0.70628550, it highlights a small divergence from the price level, indicating that short-term momentum may be slightly lower than the prevailing trend. This reinforces the bearish outlook in the near term. If price action remains under the moving average or fails to break higher, further declines towards the next support level around 0.7040 could be likely.\n\nFor traders, caution is advised in the current environment. A short position could be considered if the price fails to reclaim the 0.70632 resistance, with a stop loss above this level. Alternatively, a break above 0.70632 may provide an opportunity for a long trade, targeting the next resistance near 0.7075. It's essential to remain flexible, as the market is currently in a consolidation phase."
+    }
+  }
+}

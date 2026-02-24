@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-02-24T05:18:07.067Z",
+  "price": {
+    "close": "1.17715",
+    "high": "1.17723",
+    "low": "1.17694",
+    "open": "1.17697",
+    "change": "0.01",
+    "datetime": "2026-02-24 16:00:00"
+  },
+  "indicators": {
+    "rsi": 36.23361,
+    "macd": -0.00069239583,
+    "macd_signal": -0.0004323942,
+    "sma20": 1.1789
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[当前市场震荡整理，短期内维持区间波动]",
+      "content": "当前欧元/美元在1.17715附近震荡整理，价格变动幅度较小，呈现横盘整理格局。从短期趋势来看，价格在1.1769至1.1772区间内波动，显示出市场尚未找到明确的突破方向。此类整理行情可能持续一段时间，投资者需保持警惕。\n\nMACD指标显示负值，-0.00069的值表明当前市场偏弱，尚未出现明显的反弹信号。由于信号线和RSI未能提供更多的明确数据，趋势分析上较为保守。SMA(20)均线为1.1789，距离现价略有距离，若价格反弹至该均线附近，可能会遇到短期阻力。\n\n支撑位在1.1769附近，突破此位可能会加剧下行压力，目标可能接近1.1760或更低。上方的主要阻力位在1.1789附近，若价格接近该水平，可能会面临回落风险。关注市场是否突破这些关键价格点，决定短期的进一步走势。\n\n建议交易者在当前区间内操作时谨慎，保持灵活的止损和止盈策略，避免过度追高或追低。在无明确趋势的震荡市场中，避免过度仓位和风险敞口。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair currently remains in a narrow consolidation phase, as indicated by the very slight 24-hour change of 0.01%. The market has been oscillating between a minor high of 1.17723 and a low of 1.17694, suggesting a lack of strong momentum in either direction. This low volatility environment could signal indecision among traders, with the price tightly bound within this range. A breakout above 1.17890, the 20-period SMA, could trigger bullish sentiment, while a failure to maintain support at 1.17694 could lead to further bearish pressure.\n\nLooking at the technical indicators, the MACD reading is currently negative, with the value of -0.00069239583 reflecting a subtle bearish bias. Although no signal line value is provided, the absence of bullish crossovers in the MACD further supports the ongoing lack of direction in the market. Without confirmation from momentum oscillators like the RSI, which could provide more insight into potential overbought or oversold conditions, the market remains in a cautious state. The current setup suggests the possibility of a short-term pullback or continuation of the sideways range.\n\nKey support is seen at the lower boundary of the range around 1.17694, while resistance sits near the SMA at 1.17890. A clean break above this level could open the path for a more sustained rally toward 1.18000 or beyond. However, any downward movement breaking the 1.17694 support would likely target the next support level around 1.17500. Traders should watch for breakout or breakdown signals as price action continues to unfold in this relatively tight range.\n\nGiven the lack of strong trends, trading strategies could involve range-bound plays. A bounce off support at 1.17694 could provide buying opportunities, with a target near 1.17890 or higher. Conversely, a failure at support would signal a potential short setup, targeting lower levels like 1.17500. Caution is advised, as the absence of strong trend signals calls for conservative risk management."
+    }
+  }
+}

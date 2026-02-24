@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-02-24T05:19:32.166Z",
+  "price": {
+    "close": "155.24943",
+    "high": "155.25408",
+    "low": "155.20184",
+    "open": "155.2507",
+    "change": "-0.00",
+    "datetime": "2026-02-24 16:00:00"
+  },
+  "indicators": {
+    "rsi": 67.70984,
+    "macd": 0.11995918,
+    "macd_signal": 0.039415187,
+    "sma20": 154.76083
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理，等待突破]",
+      "content": "目前美元/日元价格在155.249附近震荡整理，短期内缺乏明确的趋势方向。从价格走势来看，当前没有出现显著的上涨或下跌动力，市场情绪相对平稳。考虑到价格波动在155.20184至155.25408区间内，整体呈现震荡整理格局。\n\n技术指标方面，RSI和MACD的数值暂时没有给出明确的超买或超卖信号，表明市场缺乏强烈的动能。20日简单移动平均线（SMA）显示价格维持在154.76上方，表明短期内价格维持在此附近的支撑区域。虽然价格暂未突破前期区间，但整体保持平稳走势。\n\n支撑位位于155.20184附近，若价格下破此支撑，可能会进一步回落至154.76附近的SMA水平，形成更强的支撑。阻力位则在155.25408，突破此价位可能会迎来短期上涨的动能，推动价格向更高区域推进。\n\n建议投资者暂时保持观望，等待价格突破区间高低点后再进行操作。如果突破155.25408，可考虑轻仓做多；若跌破155.20184，则可考虑做空，目标看向154.76。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently consolidating near 155.25, hovering just above the 20-period simple moving average at 154.76. The slight downward drift from the intraday high of 155.25 to the low of 155.20 indicates a phase of minor hesitation rather than a clear directional move. The absence of a significant daily price change suggests the market is waiting for fresh catalysts, likely U.S. economic data or BoJ policy signals. Traders should be mindful that this tight range may precede a breakout in either direction.  \n\nMomentum indicators are partially limited due to missing values, but the MACD reading of 0.1199 above zero suggests modest bullish momentum is present. Although the RSI is unavailable, price action near the SMA can act as a proxy for trend strength. The pair’s ability to stay above the SMA supports a near-term bullish bias, while any sustained dip below 154.76 could signal renewed downward pressure. Overall, the market shows mild positive sentiment with cautious positioning.  \n\nImmediate resistance lies at the intraday high of 155.25, a level that has already been tested but not decisively breached. On the downside, key support is around 155.00, with the next significant zone near 154.75 aligning with the 20-period SMA. Breaks beyond these levels could trigger larger moves, with upside targets near 155.50 and downside potential toward 154.50. Price consolidation between these points may continue until a major fundamental driver emerges.  \n\nFor traders, a range-trading approach may be most appropriate in the current environment, buying near support and taking partial profits near resistance. More aggressive traders could consider a breakout strategy, entering long above 155.30 with tight stops, or short below 154.70. Risk management remains essential given the thin intraday volatility. Monitoring upcoming economic releases and market sentiment shifts will be crucial to adjust positions effectively."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-02-24T05:20:54.637Z",
+  "price": {
+    "close": "1.37066",
+    "high": "1.37088",
+    "low": "1.37052",
+    "open": "1.37075",
+    "change": "-0.01",
+    "datetime": "2026-02-24 16:00:00"
+  },
+  "indicators": {
+    "rsi": 62.85198,
+    "macd": 0.00075382299,
+    "macd_signal": 0.00063051755,
+    "sma20": 1.36942
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[短期震荡整理]",
+      "content": "当前，美元/加元处于窄幅震荡整理状态，价格在1.37052和1.37088之间波动。考虑到当前市场缺乏明显的趋势驱动因素，短期内可能继续保持区间震荡走势。市场情绪表现为观望，投资者需谨慎操作。\n\n技术指标方面，RSI未显示出明显的超买或超卖信号，表明市场未有明显的过度买入或卖出情况，市场情绪较为中性。MACD值接近零，且信号线未给出明确方向，显示出当前走势缺乏动能。SMA(20)位于1.36942附近，为支撑区域，若价格下破该位置，可能会加剧下行压力。\n\n支撑位方面，1.37052附近为近期低点，若价格下行突破该水平，可能进一步测试1.36942的支撑区域。阻力位则在1.37088附近，若突破此点，可能会迎来短期的反弹至上方水平。价格维持在此区间震荡时，操作上可考虑高抛低吸。\n\n基于当前市场环境，建议投资者在区间震荡中采取短线操作策略，密切关注支撑位和阻力位的突破。若价格继续维持在区间内，则可等待更清晰的趋势信号再做决定。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently trading at 1.37066, showing a minimal 24-hour change of -0.01%. The price is hovering close to its intraday high of 1.37088 and low of 1.37052, indicating tight price movement within a narrow range. This suggests that the market is in a consolidation phase, with neither bulls nor bears gaining significant momentum. Traders should watch for a breakout above 1.37088 for a potential move higher, or below 1.37052 for a bearish shift.\n\nThe absence of an RSI value leaves a gap in momentum analysis, but the MACD at 0.00075382299 is slightly positive, signaling a potential bullish bias in the near term. However, without the signal line for comparison, it's difficult to confirm the strength of this momentum. The 20-period Simple Moving Average (SMA) is positioned at 1.36942, providing a short-term support level. The pair's price is currently above the SMA, indicating a mild upward bias, but a breakdown below this level could prompt further downside.\n\nKey support levels to watch are 1.37052 and the SMA at 1.36942. A sustained break below 1.36942 could trigger further declines towards lower support zones. On the resistance side, the immediate level of 1.37088 may act as a barrier to upward movement. If the price pushes past this resistance, the next target would be the psychological level of 1.3730, which could draw more buying interest.\n\nFor short-term traders, a wait-and-see approach is recommended until a clear breakout from the range develops. Watching the price's interaction with key support and resistance levels will offer better clarity for potential trades. If the price maintains its position above the SMA and breaks higher, consider looking for long positions, while a drop below the SMA suggests a cautious or short-selling stance."
+    }
+  }
+}
