@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-02-25T05:20:15.315Z",
+  "price": {
+    "close": "1.35208",
+    "high": "1.35215",
+    "low": "1.35165",
+    "open": "1.35173",
+    "change": "0.03",
+    "datetime": "2026-02-25 16:00:00"
+  },
+  "indicators": {
+    "rsi": 59.29772,
+    "macd": 0.00047762439,
+    "macd_signal": 0.00027382556,
+    "sma20": 1.35041
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：震荡整理，短期偏向震荡上行",
+      "content": "当前，英镑/美元（GBP/USD）在1.35208附近震荡整理，价格波动较为平稳。从技术面看，短期内价格仍处于窄幅区间内震荡。SMA(20)位于1.35041，显示出短期内价格可能会回落至此支撑位，但也没有明显的趋势性变化迹象，市场观望情绪较浓。\n\n虽然当前RSI数据未能提供清晰的超买或超卖信号，但MACD数据的微小正值（0.00047762439）显示出短期内有轻微的上涨动能，市场可能在1.35165附近寻找到支撑，并出现反弹。不过，这一动能尚不强烈，预计价格将继续维持在1.35165至1.35215区间内震荡。\n\n支撑位方面，1.35165可能成为短期内的关键支撑。如果价格跌破该水平，可能会向1.3500甚至更低水平回撤。阻力位则在1.35215附近，突破此位置后，价格有可能向上延伸至1.3540附近。交易者可在支撑位附近考虑轻仓买入，而在阻力位附近则可以谨慎卖出，等待进一步信号确认。\n\n总体来看，当前英镑/美元呈震荡整理态势，短期内未见明确的趋势变化，建议采取区间交易策略，密切关注支撑和阻力的突破情况。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently trading near the 1.35208 mark, showing minimal 24-hour movement of 0.03%. Price action is tight within a narrow range, between 1.35165 and 1.35215, which indicates a lack of significant volatility in the short term. The current market structure suggests a period of consolidation as the pair attempts to decide its next directional move. Traders should be cautious in such environments, as breakout potential remains uncertain. A clear breakout above 1.35215 could signal a continuation of bullish momentum, while a dip below 1.35165 could prompt further downside testing.\n\nThe absence of a definitive RSI(14) reading and a signal on the MACD makes it challenging to interpret overbought or oversold conditions. The MACD value at 0.00047762439 suggests a minimal bullish momentum, though its significance is not yet clear without further confirmation. Traders might look for a confirmed trend reversal or continuation once more data points are available. In the current scenario, these indicators are not providing strong signals, so other price action factors should be prioritized.\n\nOn the chart, the 20-period SMA at 1.35041 is a key support level. If GBP/USD moves lower and tests this moving average, it may act as a reliable point for a bounce if the market holds. Conversely, a move below the 1.3500 mark would expose deeper support zones. Resistance is defined at 1.35215, and a sustained break above this level could open the door for a move toward 1.3540-1.3560. A failure to break through resistance could lead to a retest of the lower range.\n\nGiven the current market conditions, it may be prudent to watch for clearer trend direction before entering positions. A breakout above 1.35215 could be a signal for long trades, but risk management should remain a priority due to the potential for tight price movements. Alternatively, short opportunities might arise if the price drops below the 1.35165 level, especially with confirmation from additional indicators or a breakdown in price action."
+    }
+  }
+}

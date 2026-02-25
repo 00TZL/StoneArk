@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-02-25T05:21:38.995Z",
+  "price": {
+    "close": "0.7108",
+    "high": "0.71106",
+    "low": "0.71059",
+    "open": "0.71059",
+    "change": "0.03",
+    "datetime": "2026-02-25 16:00:00"
+  },
+  "indicators": {
+    "rsi": 74.068626,
+    "macd": 0.00101256,
+    "macd_signal": 0.00041097693,
+    "sma20": 0.7066465
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，短期波动有限]",
+      "content": "当前澳元/美元在0.7108附近震荡整理，整体走势偏向区间波动。从技术面来看，价格接近日内高点0.71106，但未能突破，显示出短期上涨动能的不足。结合SMA(20)的0.7066465水平，价格保持在该均线附近震荡，进一步印证了市场的短期整理状态。\n\nRSI(14)和MACD指标的缺失使得动量分析受限，但从目前的价格行为来看，短期内价格可能维持小幅波动。没有明显的超买或超卖信号，也缺乏足够的市场动能来推动价格持续突破。当前的支撑位在0.71059附近，而阻力位则在0.71106附近。\n\n建议投资者短期内关注价格是否突破这些关键价位。若价格突破0.71106，则可能迎来短期上涨趋势，反之则可能重新回到震荡区间。考虑到市场缺乏强劲动能，适合采取观望态度，或者在支撑位附近寻找小幅反弹的交易机会。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar against the US Dollar (AUD/USD) is currently showing a neutral to slightly bullish trend, with the latest price at 0.7108. Over the past 24 hours, the price change has been minimal, indicating a period of consolidation. The price has been fluctuating between the high of 0.71106 and the low of 0.71059, suggesting a narrow range-bound movement. This could imply that the market is awaiting a catalyst to push the pair in a definitive direction, possibly influenced by upcoming economic data or global risk sentiment.\n\nThe absence of a clear RSI(14) reading leaves us without an immediate momentum signal. However, the MACD value of 0.001 indicates that there is some bullish pressure, albeit weak. This could imply that the market is currently in a state of indecision, with the potential for a breakout if momentum picks up. Traders should monitor the MACD closely for any crossovers, which could signal the beginning of a stronger trend. Without an RSI reading, it’s harder to gauge overbought or oversold conditions, making caution advisable.\n\nThe 20-period SMA at 0.7066465 provides a key support level, as the price is currently above this moving average. A pullback towards this level could present a buying opportunity if price action shows signs of holding above it. On the resistance side, the immediate high of 0.71106 could be tested if the market breaks above the current price level. A sustained break above this level could signal a further move towards 0.7150, a key resistance zone.\n\nGiven the current market structure, a wait-and-see approach may be prudent. Short-term traders could look for breakout opportunities above 0.71106, while those with a longer time horizon may want to consider entering on dips near the 0.7066 support level. Proper risk management is critical, as the pair is currently in a tight range, and large price swings could occur once the market picks a direction."
+    }
+  }
+}

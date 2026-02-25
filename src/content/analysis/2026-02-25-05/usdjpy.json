@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-02-25T05:20:57.864Z",
+  "price": {
+    "close": "155.71133",
+    "high": "155.7863",
+    "low": "155.70745",
+    "open": "155.73778",
+    "change": "-0.02",
+    "datetime": "2026-02-25 16:00:00"
+  },
+  "indicators": {
+    "rsi": 52.67005,
+    "macd": 0.11670741,
+    "macd_signal": 0.17091103,
+    "sma20": 155.81566
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：当前震荡整理，关注突破信号",
+      "content": "当前美元/日元价格位于155.71附近，表现出一定的震荡整理格局。市场在155.78的高点和155.71的低点之间反复波动，缺乏明显的单边趋势。从技术面来看，短期内可能会维持这种整理状态，市场尚未显示出强烈的方向性。\n\nMACD指标目前为0.1167，显示出较小的上涨动能，但信号线未给出明确的交叉，表明多头势能相对薄弱。20日简单移动平均线(SMA)目前位于155.81附近，对当前价格构成一定的阻力。如果价格无法突破该水平，可能会继续维持整理状态。\n\n支撑位方面，155.71附近的低点可能成为关键支撑，一旦下破，可能会导致价格进一步下探至155.50附近。阻力位则集中在155.80-155.85区间，突破这一区域可能会为价格提供更多上行空间。\n\n考虑到当前市场缺乏强势信号，建议暂时保持观望，等待价格突破重要技术水平后再作进一步决策。如果价格突破155.80，可以考虑适度做多，反之跌破155.70则可能考虑做空。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently exhibiting a slightly bearish short-term trend, as indicated by its minimal 24-hour price change of -0.02%. The latest price of 155.71133 is near the lower end of the day’s range, with a high of 155.7863 and a low of 155.70745. This range-bound movement suggests a consolidation phase, with no strong momentum driving the price in either direction. The pair is trading close to the 20-period Simple Moving Average (SMA) of 155.81566, indicating neutral sentiment in the immediate market.\n\nIn terms of technical indicators, the absence of an RSI(14) reading makes it difficult to assess overbought or oversold conditions. However, the MACD value of 0.11670741 suggests a slight bullish momentum, but with no clear signal line, the signal is less reliable. Traders should remain cautious and await a more definitive trend direction. The lack of extreme oscillator readings points to market indecisiveness, reinforcing the consolidation scenario.\n\nKey support and resistance levels are crucial for understanding potential price action. Immediate support is seen near the day’s low of 155.70745, which may act as a buffer against further downside movement. On the upside, the recent high of 155.7863 provides initial resistance. A breakout above this level could signal a potential test of higher price zones, while a drop below the support could indicate further bearish movement, potentially targeting 155.70.\n\nConsidering the current indecision in the market, traders might want to look for confirmation before making significant moves. A breakout above resistance or a drop below support could present more defined trading opportunities. Meanwhile, staying on the sidelines or engaging in range-bound strategies may offer the most prudent approach until clearer signals emerge."
+    }
+  }
+}

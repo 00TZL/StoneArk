@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-02-25T05:24:37.120Z",
+  "price": {
+    "close": "5189.03914",
+    "high": "5195.23167",
+    "low": "5182.94485",
+    "open": "5182.94485",
+    "change": "0.11",
+    "datetime": "2026-02-25 16:00:00"
+  },
+  "indicators": {
+    "rsi": 59.10076,
+    "macd": 3.032737,
+    "macd_signal": -1.76028,
+    "sma20": 5159.10314
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理，短期维持横盘]",
+      "content": "当前XAU/USD的价格在5189.04附近，市场呈现出震荡整理的走势。近期价格波动较小，24小时变化仅为0.11%，显示出市场的暂时观望情绪。黄金价格未能突破近期的高点5195.23，短期内可能会继续维持在5182.94和5195.23之间的区间震荡。\n\n技术指标方面，RSI(14)未能提供足够的参考数据，而MACD呈现3.03的值，表明市场缺乏明确的动能方向。SMA(20)位于5159.10附近，黄金价格在这一水平附近保持支撑。如果价格进一步向下回落，可能会测试这一支撑位。若突破这一支撑，短期内可能会进一步走低。\n\n支撑位方面，5182.94附近是较为关键的短期支撑。若价格跌破该水平，则可能会继续下探至5159.10。阻力位在5195.23附近，若突破该阻力，价格有可能测试更高的区间。当前市场缺乏足够的动能，未能形成明确的突破趋势。\n\n建议交易者保持谨慎，短期内可以关注区间震荡交易机会。若价格突破支撑或阻力位，则可能带来更强的趋势行情，届时可适时调整策略。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current price of XAU/USD sits at 5189.03914, showing a slight 0.11% increase over the past 24 hours. This indicates a relatively stable market with minimal fluctuations. The price is holding above the 20-period SMA at 5159.10314, suggesting that the short-term trend is mildly bullish. This moving average can act as dynamic support, with the price finding support near this level. The range between the high of 5195.23167 and the low of 5182.94485 suggests that the market is consolidating within a narrow range.\n\nFrom a trend perspective, the price is showing a slight upward bias but is largely neutral given the tight price action. With the absence of an RSI reading, it’s important to rely on price behavior and moving averages for insights. The MACD value of 3.032737 is a positive signal, indicating momentum is in favor of the bulls. However, the lack of a signal line makes it difficult to determine the strength of this momentum. Traders should watch for a crossover of the MACD and signal line for clearer directional cues.\n\nThe immediate support level is found at 5182.94485, which aligns with the lower end of the recent trading range. A break below this support could open the door to a potential retracement toward lower levels, with 5159.10314 being a key level to watch. On the upside, resistance lies at 5195.23167, which marks the recent high. If the price breaks above this resistance, further gains toward higher levels may be seen. \n\nTraders should approach with caution, given the current consolidation. A break above 5195.23167 would trigger a bullish setup, while a fall below 5182.94485 could signal a bearish shift. It’s advisable to wait for a clear breakout or breakdown before entering any positions, especially considering the lack of significant momentum indicators."
+    }
+  }
+}

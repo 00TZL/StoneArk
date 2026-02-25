@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-02-25T05:19:31.350Z",
+  "price": {
+    "close": "1.1798",
+    "high": "1.1798",
+    "low": "1.17949",
+    "open": "1.17951",
+    "change": "0.02",
+    "datetime": "2026-02-25 16:00:00"
+  },
+  "indicators": {
+    "rsi": 61.67845,
+    "macd": 0.00013889233,
+    "macd_signal": -0.00014513446,
+    "sma20": 1.17816
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[当前震荡整理，关注突破方向]",
+      "content": "当前欧元/美元的价格表现处于震荡整理状态，最新报价1.1798，价格波动幅度较小。虽然市场缺乏强烈趋势，但仍需关注突破可能带来的潜在机会。接下来的关键在于价格能否突破当前区间，若持续维持现有水平，可能进入横盘整理阶段。\n\n从技术指标来看，MACD数值显示市场暂时未出现强烈的趋势，虽然指标值为正，但没有明确的信号出现。RSI数据缺失，无法对超买或超卖进行分析。20日简单移动平均线(SMA)略低于当前价格，表明短期内市场保持一定的上涨动力，但没有强烈的突破信号。\n\n支撑位方面，1.17949附近是较为关键的支撑，若价格跌破此位，可能会进一步回调至1.1780附近的区域。阻力位则集中在1.1800附近，若突破该区域，可能会推动价格向更高的水平上涨。\n\n综合来看，欧元/美元短期内缺乏明确趋势，投资者可以考虑在区间内进行波段操作，突破关键支撑或阻力时，及时调整交易策略。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently hovering around the 1.1798 level, reflecting a modest 0.02% gain over the past 24 hours. This suggests that market participants are showing caution, as price action remains relatively flat. The pair's high and low for the day (1.1798 and 1.17949) indicate a very tight range, suggesting indecision in the market. With the current price near the daily high, there is a possibility of consolidation before a significant breakout or reversal. Traders should monitor for any signs of momentum in either direction.\n\nFrom a technical perspective, the price is currently trading above the 20-period simple moving average (SMA), which stands at 1.17816. This indicates a short-term bullish bias, as prices are consistently closing above this key support level. However, without a clear directional trend, the market could be testing the waters for a more decisive move. The Relative Strength Index (RSI) and Moving Average Convergence Divergence (MACD) indicators are not currently providing clear signals, suggesting that traders may need to wait for more conclusive momentum indicators.\n\nSupport is seen at the 1.17949 level, the lowest point of the current range, which could act as a solid base if prices attempt to pull back. If the pair breaks below this level, 1.1780 becomes the next significant support, where the SMA could also offer additional price stability. On the resistance side, the price may struggle to break past 1.1800, a key psychological level, followed by 1.1820. A breakout above these resistance levels could signal a return to a bullish trend.\n\nIn terms of trading strategy, traders could consider a range-bound approach, buying near the 1.17949 support and targeting the 1.1800 resistance, provided no significant news or volatility disrupts the market. Alternatively, a breakout above 1.1800 could justify entering long positions with a target towards 1.1820. Traders should remain cautious, as the lack of clear momentum indicators suggests that waiting for confirmation is advisable before taking significant positions."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-02-25T05:22:29.297Z",
+  "price": {
+    "close": "1.36801",
+    "high": "1.3686",
+    "low": "1.36793",
+    "open": "1.36852",
+    "change": "-0.04",
+    "datetime": "2026-02-25 16:00:00"
+  },
+  "indicators": {
+    "rsi": 35.4954,
+    "macd": -0.00033440313,
+    "macd_signal": -0.0000088270564,
+    "sma20": 1.37016
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[短期震荡整理，谨慎看空]",
+      "content": "当前美元/加元（USD/CAD）走势表现出短期内的震荡整理，价格维持在1.36793至1.3686区间波动。整体来看，市场缺乏明确的方向，技术指标显示出一定的不确定性。当前价格接近20日简单移动平均线（SMA），暗示可能出现小幅回调。\n\nRSI(14)值缺失，无法提供超买或超卖的具体信号，MACD指标的负值（-0.00033440313）暗示卖方略占上风。尽管如此，MACD信号线未完全确认弱势，短期内可能维持区间震荡。当前的价格缺乏强烈的趋势，支撑位约在1.36793，阻力位在1.3686附近。\n\n考虑到目前缺乏强烈的上行或下行信号，交易者可以关注价格突破区间的可能性。若价格跌破1.36793支撑位，可能会有进一步下行空间，建议谨慎做空；如果突破1.3686阻力位，则可能会见到短期反弹。总体而言，操作上建议保持观望或在关键技术位附近进行突破交易。\n\n总结来看，美元/加元短期内走势较为震荡，建议交易者耐心等待更明确的信号，避免盲目跟风。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "USD/CAD is trading at 1.36801, holding slightly below the 20-period SMA at 1.37016, which suggests short-term downside pressure. The marginal 24-hour decline of -0.04% reflects consolidation rather than aggressive selling, but price action remains capped beneath the moving average. This positioning indicates the pair is attempting to establish a near-term bearish bias unless buyers can reclaim the 1.3700–1.3710 zone with conviction.\n\nMomentum signals are mildly negative. The MACD reading at -0.00033440313 points to modest bearish momentum, though without the signal line value, the strength of the crossover cannot be fully assessed. Still, the negative histogram bias implies fading bullish pressure. With RSI unavailable, momentum confirmation is limited, so price behavior around dynamic resistance becomes more important for directional cues in the short term.\n\nImmediate support is located near today’s low at 1.3679, followed by a broader demand zone around 1.3650. A decisive break below 1.3650 could expose 1.3600 as the next psychological and technical level. On the upside, resistance stands at 1.3700–1.3720, aligned with the 20-period SMA, and stronger resistance is likely near 1.3750, where previous supply pressure may re-emerge.\n\nFrom a trading perspective, short positions may be favored while price remains below 1.3700, targeting 1.3650 initially and potentially 1.3600, with tight risk control above 1.3720. Alternatively, a sustained breakout above 1.3720 would invalidate the short-term bearish structure and could trigger a corrective rebound toward 1.3750. Given the narrow daily range, traders should monitor volatility expansion for clearer directional commitment."
+    }
+  }
+}
