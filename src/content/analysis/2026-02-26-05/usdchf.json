@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-02-26T05:20:37.095Z",
+  "price": {
+    "close": "0.77197",
+    "high": "0.77224",
+    "low": "0.7719",
+    "open": "0.77209",
+    "change": "-0.02",
+    "datetime": "2026-02-26 16:00:00"
+  },
+  "indicators": {
+    "rsi": 41.081483,
+    "macd": -0.00049947851,
+    "macd_signal": -0.00043566052,
+    "sma20": 0.7729705
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[区间震荡走势]",
+      "content": "当前美元/瑞郎（USD/CHF）价格维持在0.772附近，短期内呈现区间震荡走势。从技术面看，价格在0.7719和0.77224之间波动，表明市场暂时缺乏明确的方向。考虑到24小时的微幅波动（-0.02%），市场参与者的情绪较为谨慎。\n\nMACD指标目前处于负值区域（-0.0005），显示出短期内略微的空头倾向，但由于缺乏信号线的配合，表明该空头动能较弱。SMA(20)位于0.77297，价格略低于其移动均线，进一步表明市场处于整理阶段，尚未出现强烈的趋势变化。\n\n支撑位可关注0.7719附近，若价格跌破该水平，可能进一步下探至0.7700。阻力位则在0.77224附近，如果价格突破该阻力，可能会重新测试0.7730附近的区域。考虑到目前的震荡走势，建议投资者在支撑和阻力区间内寻找短期交易机会。\n\n总体来看，美元/瑞郎短期内缺乏明确趋势，建议在区间震荡中灵活操作，关注价格突破支撑或阻力时的交易信号。同时，要密切关注技术指标的变化，避免追高或追低。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently experiencing a range-bound movement, trading near the 0.7720 level. Over the past 24 hours, the pair has displayed minimal change, with a small decline of 0.02%. The high and low for the period were tightly constrained between 0.77224 and 0.7719, indicating a lack of strong directional momentum. This could suggest indecision among traders, as neither the bulls nor bears have been able to break out significantly. For a clear trend, a breakout above 0.77224 or below 0.7719 would be required.\n\nLooking at the technical indicators, the MACD is currently in negative territory, reading -0.0005. This bearish reading indicates that the pair may be in a short-term downtrend, though the lack of a signal line or more advanced confirmation limits the strength of this conclusion. The absence of RSI data makes it difficult to assess overbought or oversold conditions directly. The SMA(20) at 0.77297 is slightly above the current market price, indicating a neutral to mildly bearish short-term outlook, with resistance just above the current price level.\n\nIn terms of support and resistance, the immediate support appears to be around the low of 0.7719, which could act as a base for potential upward movements if held. Below that, the pair might look for support near 0.7700. On the resistance side, the SMA(20) level at 0.77297 offers immediate resistance. A break above this level could signal a potential move towards 0.7740 or higher, depending on broader market conditions. Traders should remain cautious in these tight conditions, waiting for a confirmed breakout.\n\nFor trading strategies, a conservative approach could be to trade the range, buying near 0.7719 and selling near 0.77297. If the price breaks either the support or resistance levels, traders could consider entering with a stop-loss strategy to manage risk. Given the current lack of strong momentum, waiting for more decisive indicators before taking larger positions would be prudent."
+    }
+  }
+}

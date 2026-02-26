@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-02-26T05:21:19.077Z",
+  "price": {
+    "close": "5201.00724",
+    "high": "5202.73559",
+    "low": "5190.46258",
+    "open": "5192.93083",
+    "change": "0.16",
+    "datetime": "2026-02-26 16:00:00"
+  },
+  "indicators": {
+    "rsi": 57.12652,
+    "macd": 3.66927,
+    "macd_signal": 2.76105,
+    "sma20": 5186.81557
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：当前维持震荡整理格局",
+      "content": "目前黄金/美元(XAU/USD)的价格稳定在5201附近，短期内波动幅度较小，整体呈现震荡整理的趋势。24小时变化幅度仅为0.16%，表明市场尚未出现强烈的方向性动能。由于RSI和MACD指标尚未完全提供有效信号，市场情绪较为谨慎。\n\n从技术指标来看，MACD目前为正值3.66927，虽然显示出一定的上涨动能，但由于Signal线缺乏明确的对比，暂时无法确认持续上行的趋势。SMA(20)的支撑位位于5186.82附近，表明短期内价格仍有可能回调至此支撑水平。若价格跌破此水平，则可能进一步下探。\n\n黄金的阻力位位于5202.74附近，这一高点将是价格上涨的关键压力区。在没有显著突破的情况下，价格可能在当前区间内震荡整理。结合市场动能的相对弱势，近期操作上建议保持观望或在支撑位附近适量做多，在阻力位附近适时做空。\n\n总体来看，当前黄金市场缺乏明确的趋势信号，建议交易者密切关注价格在支撑和阻力位的表现，灵活调整策略以应对短期波动。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current price of XAU/USD stands at 5201.00, showing a slight 24-hour change of +0.16%. This indicates a relatively stable market with minor fluctuations. The price has recently reached a high of 5202.74 and a low of 5190.46, suggesting some consolidation within this range. With no clear breakout in either direction, the market appears to be in a neutral phase, awaiting further momentum.\n\nThe 20-period simple moving average (SMA) at 5186.81 is acting as a minor support, while the price remains above it, reinforcing a short-term bullish bias. However, without a definitive trend, the SMA might act as a key level for traders to monitor for potential reversals. The lack of a clear RSI or MACD signal limits the ability to gauge momentum accurately, leaving traders with fewer indicators to confirm whether the current price action will break higher or face resistance.\n\nIn terms of support and resistance, the lower boundary near 5190.46 could act as a strong support level if the market tests this area. On the upside, 5202.74 is the immediate resistance zone, with the price struggling to move beyond it in recent hours. A break above this resistance could trigger further upside potential, targeting levels around 5210.00 or higher, depending on market conditions. However, a failure to hold above support could indicate a potential decline toward the 5180.00 region.\n\nGiven the current market structure, cautious trading is recommended. A breakout above resistance might signal a buying opportunity, while a breakdown below support could trigger short positions. Keep a close watch on any developments in RSI and MACD for additional confirmation. The overall outlook remains neutral with a slightly bullish bias, awaiting clearer signals for more decisive trading strategies."
+    }
+  }
+}

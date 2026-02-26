@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-02-26T05:16:17.022Z",
+  "price": {
+    "close": "1.18183",
+    "high": "1.18192",
+    "low": "1.18168",
+    "open": "1.18183",
+    "change": "-0.00",
+    "datetime": "2026-02-26 16:00:00"
+  },
+  "indicators": {
+    "rsi": 61.29025,
+    "macd": 0.00083569409,
+    "macd_signal": 0.00074871013,
+    "sma20": 1.18045
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[震荡整理，突破方向待定]",
+      "content": "当前欧元/美元价格呈现震荡整理态势，日内价格波动幅度较小，未出现明显的趋势性变化。价格在1.18183附近徘徊，未能突破此前的区间高点或低点，市场情绪较为谨慎。短期内，市场可能维持横盘整理，突破或回撤需密切关注。\n\n从技术指标来看，RSI(14)未提供有效的超买或超卖信号，因此在当前时段无法根据RSI推测市场的动能。MACD指标显示出轻微的正值，暗示市场短期可能存在微弱的上涨动力，但信号较弱，无法完全确认趋势的延续。SMA(20)目前位于1.18045，成为短期支撑位。\n\n在支撑/阻力方面，当前价格接近1.18168和1.18192的区间低高点，形成了一定的价格震荡区间。如果突破1.18192，可能会打开上行空间，测试更高的价格水平。若下行突破1.18045，则可能会加速回落，寻求更低支撑。\n\n建议投资者保持谨慎，短期内可关注区间交易，等待突破信号确认后再做决定。若价格突破上方阻力位，可考虑做多，而下行突破支撑位则可能考虑做空。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently trading at 1.18183, showing minimal movement over the past 24 hours, reflecting market indecision. The price remains tightly confined between its daily high of 1.18192 and low of 1.18168, indicating a consolidation phase. This suggests that the market is in a wait-and-see mode, likely awaiting new catalysts or data that could drive a breakout. Without significant movement, the pair could continue to test the boundaries of this narrow range.\n\nFrom a technical perspective, the lack of notable movement and the absence of an RSI value make it difficult to assess momentum, leaving the price action as the primary driver. The MACD value of 0.00083569409 is neutral, offering no clear signal for buying or selling. With the price hovering near the 20-period SMA of 1.18045, it indicates that the market is still relatively balanced. If the price breaks below the SMA, we could see further weakness towards support levels. Conversely, a break above the recent high could point to a bullish move.\n\nKey support for the pair lies at the 1.18168 level, with resistance near 1.18192. A break below 1.18168 would open the door for a test of deeper support, potentially around 1.1800 or 1.1780, where the market could find a more solid foundation. On the upside, a clear break above 1.18192 might lead to a retest of higher resistance levels. Traders should remain cautious, as the current tight range suggests any breakout could be short-lived without confirmation.\n\nIn terms of trading strategy, it's advisable to adopt a wait-and-see approach. A breakout from the current range could provide an opportunity for a short-term trade. However, without confirmation from momentum indicators like RSI or MACD, it’s wise to be cautious and look for additional signals before committing to larger positions. Conservative traders might consider using tight stop losses to manage risk during this range-bound phase."
+    }
+  }
+}

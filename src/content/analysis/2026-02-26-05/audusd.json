@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-02-26T05:18:24.100Z",
+  "price": {
+    "close": "0.71286",
+    "high": "0.71286",
+    "low": "0.71245",
+    "open": "0.71264",
+    "change": "0.03",
+    "datetime": "2026-02-26 16:00:00"
+  },
+  "indicators": {
+    "rsi": 65.61871,
+    "macd": 0.0011254515,
+    "macd_signal": 0.001164088,
+    "sma20": 0.71135
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[当前震荡整理，关注支撑与阻力]",
+      "content": "目前，澳元/美元（AUD/USD）处于震荡整理状态，价格在0.71286附近小幅波动，显示出市场缺乏明确的方向性。近期高点和低点分别为0.71286和0.71245，表明价格波动较小，可能受到市场等待进一步消息的影响。短期内，澳元/美元可能会继续在当前区间内运行，等待突破关键技术位。\n\n从技术指标来看，SMA(20)位于0.71135，表明短期内价格接近该水平时可能出现支撑。此外，当前缺乏有效的RSI与MACD数据，这使得我们在判断市场超买或超卖情况时存在一定的不确定性。因此，市场情绪和突发新闻可能成为未来波动的驱动因素。\n\n支撑位方面，0.71245附近是当前的短期支撑区，如果价格下破该水平，可能会进一步测试0.71135的SMA(20)支撑。上行阻力则在0.71300附近，突破该位置有望带来上行动力，挑战0.71500区域。投资者应密切关注这些关键技术水平的突破情况。\n\n建议短期交易者采取区间操作策略，待价格接近支撑时寻找买入机会，接近阻力位时则考虑卖出。然而，如果价格突破0.71300，可能需要重新评估市场走势并调整策略。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar (AUD) against the US Dollar (USD) has shown a subtle upward movement, with the latest price at 0.71286. The pair’s 24-hour change of +0.03% indicates limited volatility. However, this stability should not overshadow the fact that AUD/USD is hovering close to its recent highs, suggesting a potential continuation of the bullish trend. Given the tight range between the high of 0.71286 and the low of 0.71245, the market is currently in a consolidation phase, waiting for a clearer direction. A breakout above 0.71300 could signal a potential move higher, while a dip below 0.71245 might lead to a pullback.\n\nThe market indicators suggest that the current conditions might not offer clear entry points yet. With the RSI(14) being unavailable, it’s difficult to gauge overbought or oversold conditions. The MACD, with a reading of 0.0011254515, provides some insight into momentum but lacks sufficient context to confirm a significant bullish or bearish signal. Traders should keep an eye on any shifts in the MACD as well as a potential crossover in the near term, which could provide further confirmation of market direction.\n\nThe 20-period Simple Moving Average (SMA) stands at 0.71135, acting as a potential support level. If the price dips toward this level, it could attract buying interest, suggesting that this SMA may serve as a crucial floor in the short term. On the resistance side, the recent high of 0.71300 will likely serve as the immediate hurdle. A break above this level could open the door for higher targets, potentially moving towards 0.71500 or beyond, provided there is sufficient buying momentum.\n\nTraders should monitor the price action closely for any breakouts above 0.71300 or breakdowns below 0.71245. If the price holds above the SMA support, it may present a favorable buying opportunity. Conversely, any weakness below the support could be an indication to short, with targets near the 0.71000 region. Proper risk management and confirmation from other indicators are advised for a clearer signal in this current market environment."
+    }
+  }
+}

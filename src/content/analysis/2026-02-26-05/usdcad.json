@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-02-26T05:19:13.795Z",
+  "price": {
+    "close": "1.36681",
+    "high": "1.3672",
+    "low": "1.36672",
+    "open": "1.36699",
+    "change": "-0.01",
+    "datetime": "2026-02-26 16:00:00"
+  },
+  "indicators": {
+    "rsi": 39.052232,
+    "macd": -0.00066571517,
+    "macd_signal": -0.0005829259,
+    "sma20": 1.36812
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[短期震荡区间，观望为主]",
+      "content": "当前美元/加元价格处于1.36681附近，短期内整体波动较小，市场呈现震荡整理态势。考虑到当前价格距离20日简单移动平均线(SMA)为1.36812相对较近，可能会在该价位附近产生短期的支撑。若价格突破此点位，可能会迎来进一步的上涨动力。\n\n从技术指标来看，MACD的值为-0.00066571517，处于负值区域，表明短期内卖方仍占主导地位，但信号线数据缺失暂时无法进一步确认市场的趋势强度。RSI数据未提供，但一般情况下RSI位于50附近表示市场处于相对平衡状态，缺乏明确的买入或卖出信号。\n\n支撑位在1.36672，接近当前价格水平，一旦跌破此支撑位，可能会进一步考验1.3650或更低的支撑区域。至于阻力位，1.36812是关键短期阻力位，突破此位置可能会迎来更大的上涨空间。\n\n综上所述，目前市场缺乏明确趋势，建议交易者采取观望策略，等待价格突破关键支撑或阻力位后再做决策。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "USD/CAD is trading at 1.36681, hovering just below the 20-period simple moving average at 1.36812, which suggests short-term downside pressure. The marginal 24-hour decline of -0.01% reflects consolidation rather than aggressive selling, yet price action remains capped beneath near-term dynamic resistance. The tight intraday range between 1.3672 and 1.36672 highlights compression, often a precursor to volatility expansion. Overall, the short-term bias leans mildly bearish while below the 1.3680 zone.\n\nThe negative MACD reading (-0.0006657) indicates fading bullish momentum and a slight shift toward bearish control. Although the signal line value is unavailable, the sub-zero MACD level implies that upside momentum has weakened. With RSI not provided, momentum confirmation is limited, but price positioning under the 20-SMA reinforces a cautious tone. If sellers maintain control below the moving average, downward momentum could gradually build.\n\nImmediate support is seen near 1.3665, aligned closely with the session low of 1.36672. A sustained break below this level may expose 1.3640 as the next technical cushion, followed by 1.3600 as a broader psychological level. On the upside, resistance stands at 1.3680–1.3685, where the 20-SMA converges, and stronger resistance is located near 1.3720, a recent structural barrier.\n\nFrom a trading perspective, short positions may be favored on rallies toward 1.3680 with tight risk management above 1.3720. Alternatively, a confirmed break below 1.3665 could offer momentum-based selling opportunities targeting 1.3640. Bulls would need a decisive close above 1.3685 to invalidate the immediate bearish bias and open room toward 1.3720. Patience is warranted until volatility expands beyond the current narrow range."
+    }
+  }
+}

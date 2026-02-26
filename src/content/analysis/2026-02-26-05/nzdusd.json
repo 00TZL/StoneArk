@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-02-26T05:19:55.412Z",
+  "price": {
+    "close": "0.60063",
+    "high": "0.60066",
+    "low": "0.60017",
+    "open": "0.60029",
+    "change": "0.05",
+    "datetime": "2026-02-26 16:00:00"
+  },
+  "indicators": {
+    "rsi": 64.32838,
+    "macd": 0.00083003104,
+    "macd_signal": 0.00078793049,
+    "sma20": 0.59921
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：震荡整理中",
+      "content": "目前，纽元/美元（NZD/USD）处于震荡整理阶段，最新价格为0.60063，变化幅度较小。价格在0.60066的高点和0.60017的低点之间波动，显示出市场缺乏明显的方向性。由于没有RSI和MACD的完整数据，难以全面判断超买或超卖状态，但从短期走势来看，市场情绪较为平稳。\n\n根据20日简单移动平均线（SMA20）位于0.59921来看，价格稍微偏高，若价格跌破此支撑位，可能会出现进一步的下行压力。当前的阻力位在0.60066附近，突破这一点可能为价格进一步上涨提供空间。由于缺乏强烈的技术信号，短期内仍可能维持震荡走势。\n\n考虑到缺乏强劲的趋势和技术指标，建议短线交易者密切关注支撑和阻力区域。若价格突破0.60066，可能会迎来短期的上涨机会；若跌破0.59921支撑位，则可以考虑短线做空策略。整体而言，市场目前处于低波动区间，适合做区间交易。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently trading at 0.60063, showing a modest 24-hour change of +0.05%. The price is hovering near its high of the day (0.60066), indicating mild bullish momentum in the short term. The current level also lies just above the 20-period simple moving average (SMA) of 0.59921, which suggests a slight upward bias. If the pair maintains above this SMA, it may continue to test higher levels, with the next resistance potentially near 0.6015. However, any move below the 0.5990 mark would indicate a shift toward a neutral to bearish trend.\n\nThe lack of RSI and MACD signal data makes it challenging to gauge momentum fully. However, the MACD value of 0.00083 could be interpreted as a minor bullish indicator, as it is above zero, though not strong enough to confirm a trend reversal. In the absence of these indicators, traders should focus on price action and the proximity to key moving averages to assess further developments. A significant push above the recent high could validate bullish strength, but a breakdown through key support levels may lead to a retracement.\n\nSupport levels are crucial for determining the sustainability of the current range. The primary support is located at 0.60017, with a deeper level around 0.5990. Should the price dip to these levels, buying interest may emerge, but failure to hold these supports may suggest more downside risks. A break below 0.5990 would open up potential for a deeper pullback toward 0.5970 or lower. On the upside, a breakthrough above 0.6015 could see the price heading towards 0.6030, with room for further gains if momentum builds.\n\nGiven the current price action, the pair remains in a relatively tight range. Traders might consider staying neutral until a clearer signal from either support or resistance is established. A break above 0.6015 might be an entry point for a long position, while a failure to hold the current levels could present a short opportunity around the 0.5990 support. Patience and close monitoring of price movements will be key."
+    }
+  }
+}
