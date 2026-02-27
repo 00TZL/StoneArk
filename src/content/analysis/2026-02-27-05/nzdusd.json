@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-02-27T05:14:57.954Z",
+  "price": {
+    "close": "0.59911",
+    "high": "0.59926",
+    "low": "0.59902",
+    "open": "0.59921",
+    "change": "-0.02",
+    "datetime": "2026-02-27 16:00:00"
+  },
+  "indicators": {
+    "rsi": 55.18774,
+    "macd": 0.00001798488,
+    "macd_signal": -0.00014010258,
+    "sma20": 0.59819
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：震荡整理中",
+      "content": "目前纽元/美元的价格在0.59911附近，呈现震荡整理的状态。价格在过去24小时内的波动较小，仅下降了0.02%。从日内走势来看，市场缺乏明显的上涨或下跌动能，价格波动相对较小，反映出市场情绪较为谨慎。\n\n技术指标方面，当前RSI(14)数据缺失，无法提供超买或超卖的明确信号。MACD的值为0.000018，这表示动能较弱，且无法确认趋势的方向。20期简单移动平均线(SMA)位于0.59819，价格略高于该均线，显示出短期内可能存在小幅的上涨压力，但缺乏强劲的支撑。\n\n支撑位方面，0.59902一线为近期的低点，若价格跌破此位，可能进一步回落至0.59800附近。而阻力位则在0.59926处，一旦突破该阻力，可能会迎来短期反弹，挑战更高的价格水平。\n\n综合来看，纽元/美元目前处于横盘整理阶段，短期内缺乏明确的趋势指引。建议交易者在接下来的交易中保持谨慎，等待价格突破关键支撑或阻力后再做决策。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently exhibiting a narrow range, with the price fluctuating between 0.59902 and 0.59926. At the latest price of 0.59911, the pair is maintaining a near-neutral stance, with a slight 24-hour change of -0.02%. This suggests that the market is in a period of consolidation after a series of indecisive moves. The price is situated near the 20-period simple moving average (SMA) of 0.59819, which serves as an immediate support level. Should the price dip below this level, further support is anticipated around 0.59500, where a deeper correction may be in play.\n\nOn the upside, the resistance lies at 0.59926, the current intraday high. A break above this level would signal potential upward momentum, with the next resistance likely near 0.60100. Without clear momentum indicators like RSI or a detailed MACD signal, it’s difficult to anticipate a strong breakout in either direction. If momentum does build, traders may look for a confirmation above the resistance to trigger bullish strategies. \n\nThe MACD reading of 0.000017984880 suggests a near-neutral position, but without the signal line, it's challenging to define the current trend. In addition, the absence of RSI data means there’s no immediate overbought or oversold indication to guide short-term decisions. With this in mind, traders may adopt a cautious approach, focusing on price action and the breakout or breakdown from the established levels. \n\nFor those considering entry points, a short position could be viable below 0.59800, targeting the support level around 0.59500. Conversely, a long position may be considered above 0.59950, where a confirmation of upward momentum might materialize. Until a clearer trend emerges, a wait-and-see approach is advisable for managing risk effectively."
+    }
+  }
+}

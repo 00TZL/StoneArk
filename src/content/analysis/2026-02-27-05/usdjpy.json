@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-02-27T05:12:31.398Z",
+  "price": {
+    "close": "155.69117",
+    "high": "155.69569",
+    "low": "155.58529",
+    "open": "155.5961",
+    "change": "0.06",
+    "datetime": "2026-02-27 16:00:00"
+  },
+  "indicators": {
+    "rsi": 39.69945,
+    "macd": -0.098913082,
+    "macd_signal": -0.04719274,
+    "sma20": 156.011485
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：当前震荡整理，待突破关键区间",
+      "content": "当前美元/日元价格为155.69117，处于短期震荡整理阶段。价格略低于20日SMA（156.011485），显示出一定的下行压力。若价格突破156.00上方，将可能重新走高，反之则可能测试支撑位。\n\nRSI和MACD指标暂未提供明确趋势信号。当前MACD为负值（-0.098913082），意味着短期内卖压较强，但尚未出现强烈的卖出信号。RSI未给出有效数据，因此技术面尚不支持强烈的单边行情。\n\n从支撑和阻力来看，当前155.58附近是关键支撑位，而156.00上方则构成强阻力。突破156.00可能推动价格进一步上涨至156.50，而跌破155.58则可能打开下行空间。\n\n建议交易者保持观望，等待价格突破关键区间（155.58-156.00）后再做进一步操作。若价格突破156.00，可考虑做多，而若跌破155.58，则可考虑做空。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently trading at 155.69117, showing a minor 0.06% increase in the last 24 hours. The market is in a narrow range with a high of 155.69569 and a low of 155.58529, indicating limited volatility for the day. The pair has been trading relatively sideways recently, with price action near the 20-period simple moving average (SMA) of 156.011485. The market remains vulnerable to either a short-term continuation or a reversal, depending on upcoming economic data or central bank policies.\n\nIn terms of trend analysis, the USD/JPY pair is showing signs of consolidation, following a period of upward momentum. The price is currently trading just below the SMA, which may act as a resistance level in the short term. A break above this level could trigger bullish momentum towards the next resistance at 156.50. On the other hand, failure to break higher may indicate a continuation of the sideways movement or even a pullback to the support area around 155.50.\n\nThe MACD indicator is showing a negative value of -0.0989, suggesting bearish momentum. However, without the signal line or additional indicators like RSI, it’s difficult to make definitive conclusions on the overall strength of the trend. The absence of RSI limits the ability to fully assess overbought or oversold conditions. A bearish crossover on the MACD could signal further downside risk if the price breaks below the support zone of 155.50.\n\nTraders should monitor the price action closely for a potential breakout. A move above the SMA at 156.01 could indicate a shift to a more bullish sentiment, while a dip below 155.50 may trigger further downside targets. In either case, risk management remains essential, particularly given the lack of confirmation from other indicators."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-02-27T05:15:43.948Z",
+  "price": {
+    "close": "0.77283",
+    "high": "0.77289",
+    "low": "0.7726",
+    "open": "0.77265",
+    "change": "0.02",
+    "datetime": "2026-02-27 16:00:00"
+  },
+  "indicators": {
+    "rsi": 43.85167,
+    "macd": -0.000090609211,
+    "macd_signal": 0.000081976732,
+    "sma20": 0.773899
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[横盘整理，短期调整风险]",
+      "content": "当前美元/瑞郎价格处于0.77283，波动幅度较小，显示出市场短期内的横盘整理特征。从技术面来看，价格在0.7726和0.77289区间内震荡，缺乏强劲的突破动力，表明市场处于观望状态。日内涨幅仅为0.02%，反映出短期内买卖双方较为平衡。\n\nMACD目前处于负值区间，且未显示出明确的信号，表明卖盘可能占据优势，但缺乏足够的动能推动下行。由于RSI指标尚未提供数据，暂时无法全面判断超买或超卖状况。20日简单移动平均线(SMA)位于0.7739附近，为市场提供了一定的阻力，价格若反弹接近该水平，可能面临回调压力。\n\n支撑位方面，0.7726是当前的重要支撑区间，一旦跌破该水平，可能会加剧下行风险。上行方面，0.7739附近的SMA提供一定的阻力，突破该点位有望进一步测试0.7750一线。短期内，价格保持区间震荡走势的可能性较大。\n\n建议投资者在目前的价格水平上保持谨慎，等待突破关键技术位后再做决策。若价格跌破0.7726支撑，考虑适当的空头机会；若突破0.7739阻力，短期内可以考虑做多。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently trading at 0.77283, showing a relatively stable price movement with a modest 24-hour change of 0.02%. The recent high of 0.77289 and low of 0.7726 suggest a narrow trading range, indicating market indecision or consolidation. This price behavior points towards a neutral or ranging trend in the short term. The market is finding equilibrium around the current price level, with no clear momentum in either direction. \n\nThe lack of RSI data makes it difficult to gauge overbought or oversold conditions, leaving a gap in the short-term momentum analysis. The MACD value at -0.000090609211 indicates that the pair is slightly under pressure, but the absence of the signal line complicates the analysis. However, this negative MACD suggests that bearish sentiment is present, though the market's lack of strong directional movement implies that it is not yet a decisive downtrend. \n\nThe 20-period SMA is sitting at 0.7739, acting as a potential resistance level. If the pair attempts to break above this moving average, it could signal a shift towards a bullish trend. Conversely, if the price fails to move higher, the SMA could continue to cap upward movement. Support appears to be near the recent low of 0.7726, with further support likely at 0.7720. If this level is broken, the pair may test lower levels in the near term, potentially heading towards 0.7710.\n\nTraders should be cautious with entries around the current price as the market is showing limited volatility. A break above the 20-period SMA at 0.7739 could provide a potential long opportunity, while a rejection could indicate a continuation of the range. Conversely, a breakdown below 0.7726 may trigger a short bias towards the lower support zone. The lack of strong trend indicators makes this pair more suited for short-term, range-bound strategies."
+    }
+  }
+}

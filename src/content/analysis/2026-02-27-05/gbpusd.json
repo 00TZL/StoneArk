@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-02-27T05:11:44.132Z",
+  "price": {
+    "close": "1.34891",
+    "high": "1.34965",
+    "low": "1.34886",
+    "open": "1.34956",
+    "change": "-0.05",
+    "datetime": "2026-02-27 16:00:00"
+  },
+  "indicators": {
+    "rsi": 43.83909,
+    "macd": -0.001179336,
+    "macd_signal": -0.0012803392,
+    "sma20": 1.34997
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：短线震荡偏弱运行",
+      "content": "当前汇价报1.34891，日内波动区间极窄，24小时微跌0.05%，整体呈现高位横盘整理格局。从结构上看，价格贴近前期震荡密集区，短线动能不足，走势偏弱但尚未形成明确下行趋势，仍处于整理阶段。  \n\n均线方面，现价低于SMA(20)1.34997，显示短周期均线压制明显，短线空方略占优势。MACD为-0.001179，处于零轴下方，动能柱偏弱，暗示多头动能衰减。RSI暂无数据，但结合动能结构判断，市场偏谨慎。  \n\n关键支撑关注1.34850及1.34500整数关口，若跌破前者，或引发技术性回调。上方阻力位在1.35000及1.35300区域，若有效站稳SMA(20)上方，则有望测试前高区域。区间突破将决定下一阶段方向。  \n\n操作上建议以区间交易为主，靠近阻力位轻仓做空，严格设置止损；若回踩支撑企稳，可短多博弈反弹。当前波动率较低，避免追单，等待放量突破后顺势跟进，更利于提高胜率。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently exhibiting a narrow range, trading at 1.34891, with a slight 24-hour decline of 0.05%. The price action is constrained within a tight boundary, with the high reaching 1.34965 and the low at 1.34886. This suggests a consolidative phase as the market awaits more decisive signals. The trend remains neutral for now, with no strong directional bias in the near term. A breakout above 1.34965 could suggest a bullish reversal, while a break below 1.34886 may indicate further downside potential.\n\nAt present, the market is below the 20-period SMA (1.34997), reinforcing the neutral to slightly bearish outlook for GBP/USD. The MACD is negative at -0.00118, although without a defined signal line, making it challenging to extract clear momentum cues. This suggests that selling pressure may be slightly outweighing buying activity, but without a clear trend or strong momentum. Traders should be cautious of a potential reversal if the price finds support at current levels, particularly near 1.34886.\n\nKey support is located at 1.34886, where the market has recently bounced, and a strong break below this level could target the next support at 1.34750. On the upside, resistance sits around 1.34965, which has held as a cap during the 24-hour trading period. A decisive move past this resistance could open the path to 1.35050, suggesting a short-term bullish reversal. Given the current range-bound nature, both breakout and breakdown strategies may be viable depending on price action near these key levels.\n\nFor traders, a cautious approach is recommended with a focus on price action and range trading. A break above 1.34965 could offer a long opportunity, while a drop below 1.34886 would present a short entry. Given the current market conditions, it may be prudent to wait for a breakout or clear trend confirmation before committing to larger positions."
+    }
+  }
+}

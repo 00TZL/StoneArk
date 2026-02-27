@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-02-27T05:13:13.029Z",
+  "price": {
+    "close": "0.71237",
+    "high": "0.71256",
+    "low": "0.71233",
+    "open": "0.71248",
+    "change": "-0.02",
+    "datetime": "2026-02-27 16:00:00"
+  },
+  "indicators": {
+    "rsi": 58.95248,
+    "macd": 0.0002345576,
+    "macd_signal": -0.0000029643135,
+    "sma20": 0.710716
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，等待突破信号]",
+      "content": "当前澳元/美元（AUD/USD）价格为0.71237，显示出震荡整理的趋势。市场在0.71233到0.71256区间内波动，未能突破任何显著支撑或阻力位。此阶段的价格波动较为狭窄，表明市场情绪较为谨慎，投资者可能在等待更多的技术信号或宏观经济数据来确认趋势的方向。\n\n从技术指标来看，当前缺乏明确的RSI（相对强弱指数）与MACD（指数平滑异同移动平均线）信号，这可能意味着市场处于犹豫阶段，尚未形成明确的买卖动能。SMA（20日简单移动平均线）位于0.710716附近，提供了一定的支撑作用。短期内，若价格回落至此水平附近，可能会看到反弹的机会。\n\n支撑位在0.71233附近，若价格进一步下行，0.7107附近的SMA将可能成为强支撑；若突破0.71256的高点，可能会带动价格向上延续至0.7150附近。对于短期交易者而言，关键关注这两个价位的突破情况。一旦突破其中一个关键点，可以考虑在突破后的方向进行进场。\n\n综上所述，当前的交易策略应为观望，等待价格突破关键技术水平。建议交易者关注0.71256和0.7107区间的价格行动，若突破，则可以考虑顺势操作。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar against the US Dollar (AUD/USD) is currently showing a slight downtrend, with the price at 0.71237 after a 24-hour change of -0.02%. The high and low for the session remain quite tight, ranging from 0.71256 to 0.71233, indicating a lack of significant volatility in the short-term. The market is consolidating within this narrow range, suggesting indecision among traders. A break above 0.71256 could signal a shift towards bullish momentum, while a break below 0.71233 might suggest further downside pressure.\n\nThe Relative Strength Index (RSI) is not available for this analysis, which limits our ability to gauge overbought or oversold conditions. However, the Moving Average Convergence Divergence (MACD) reading of 0.00023455760 is relatively neutral. Without a signal line for the MACD, it is difficult to determine whether there is a strong bullish or bearish momentum. Traders should remain cautious, as the lack of clear momentum indicators leaves the market in a state of indecision.\n\nThe 20-period Simple Moving Average (SMA) is positioned at 0.710716, offering a crucial level of support. Should the price approach this level, it could act as a cushion, providing buying opportunities for those seeking to enter long positions. Conversely, a failure to hold this level could see the pair testing lower support levels near 0.71000. Resistance is initially seen near 0.71256, with any sustained push above this point potentially opening up a move towards 0.71500.\n\nIn terms of trading strategy, a range-bound approach seems appropriate at this stage, with short-term opportunities around key support and resistance levels. Traders may consider buying near 0.71000 or the SMA for a bounce, and selling near the resistance at 0.71256 for a potential reversal. It’s essential to remain alert for any signs of momentum shift or breakout in either direction, as this would provide clearer trading signals."
+    }
+  }
+}

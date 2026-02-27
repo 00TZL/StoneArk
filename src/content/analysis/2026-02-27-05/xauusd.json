@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-02-27T05:16:27.268Z",
+  "price": {
+    "close": "5186.94391",
+    "high": "5187.03265",
+    "low": "5181.40244",
+    "open": "5183.03038",
+    "change": "0.08",
+    "datetime": "2026-02-27 16:00:00"
+  },
+  "indicators": {
+    "rsi": 51.94485,
+    "macd": 1.11677,
+    "macd_signal": 0.62625373,
+    "sma20": 5180.3486
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理，短期偏强]",
+      "content": "当前XAU/USD在5186附近波动，价格较为稳定。鉴于24小时变化较小，市场短期内表现出一定的震荡整理特征。价格轻微波动表明买卖双方力量相对均衡。整体趋势仍未明确，投资者应保持谨慎，观察未来走势。\n\n技术指标方面，当前RSI(14)尚无数据，MACD的数值为1.11677，表明当前市场偏向强势，但尚未确认持续上涨的动能。SMA(20)为5180.35，显示短期内价格维持在该水平附近震荡，未突破明显的支撑或阻力。\n\n从支撑与阻力来看，当前的支撑位可见于5181.40，若价格回落至此，可能会迎来短期反弹。阻力位则在5187.03附近，突破此价位可能会推动价格进一步上行，测试更高的水平。\n\n鉴于当前价格相对稳定且无强烈趋势信号，建议投资者可考虑短期内的区间交易策略。在5181附近建立买入位置，5187附近则可考虑卖出，但应留意任何可能导致突破的市场变动。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD pair is currently showing a neutral to slightly bullish bias, trading near the latest price of 5186.94. Over the past 24 hours, the price has only moved 0.08%, indicating a period of consolidation. This tight range, marked by a high of 5187.03 and a low of 5181.40, suggests limited volatility in the short-term. Traders should be cautious as a breakout in either direction may provide clearer indications of the next price move.\n\nThe lack of a visible RSI reading makes it difficult to gauge overbought or oversold conditions at this moment. However, the MACD at 1.11677 reflects a potential positive momentum, although its signal line is unavailable. Without the signal line, the MACD cannot provide a definitive directional signal, but the positive value suggests that the momentum may favor the upside if price action confirms this trend. It's crucial to watch for a potential MACD crossover for further clarity.\n\nIn terms of support and resistance, the immediate support is around 5181.40, just above the SMA(20) at 5180.35. This area may act as a key level to monitor for potential reversals or continued consolidation. On the upside, resistance is located near the high of 5187.03. A breakout above this level could trigger further bullish momentum, targeting higher price points. Conversely, if the price fails to hold support, there may be further downside testing.\n\nFor traders, the lack of strong trend indicators suggests a cautious approach. Entering long positions above 5187.03 could be considered for a continuation of the current positive momentum, while waiting for a confirmed break below 5181.40 could set up a short trade targeting the lower range. The market is currently in a neutral phase, so clear breakout or breakdown signals should guide the next trading decisions."
+    }
+  }
+}

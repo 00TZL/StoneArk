@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-02-27T05:10:56.821Z",
+  "price": {
+    "close": "1.18091",
+    "high": "1.18117",
+    "low": "1.18089",
+    "open": "1.18109",
+    "change": "-0.02",
+    "datetime": "2026-02-27 16:00:00"
+  },
+  "indicators": {
+    "rsi": 54.70553,
+    "macd": 0.000046208319,
+    "macd_signal": -0.000093555622,
+    "sma20": 1.17994
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[震荡整理，短期可能偏向整理区间]",
+      "content": "当前欧元/美元（EUR/USD）交易价格为1.18091，24小时变化幅度较小，仅为-0.02%。价格保持在高点1.18117与低点1.18089之间，表明市场整体处于震荡整理状态。短期内，价格难以突破这些区间，可能继续在该范围内波动。\n\n技术指标方面，MACD目前值为0.000046208319，虽然该值很小，但在没有明确的信号出现时，仍需关注其变化。由于RSI(14)数据缺失，无法进行有效的超买超卖判断。从SMA(20)来看，当前价格高于20日简单移动平均线（1.17994），显示出短期内的轻微上涨动能。\n\n支撑位方面，当前的低点1.18089构成较强支撑。如果价格回落至该区域，可能会出现一定的反弹。阻力位则主要集中在1.18117附近，若突破该价位，可能会进一步上涨。考虑到市场的震荡格局，操作上建议采取区间交易策略，等待价格在支撑和阻力之间波动。\n\n综合来看，当前市场较为平静，短期内突破大区间的可能性较小。投资者应谨慎操作，利用支撑和阻力区间进行进出场，避免过度追高。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently exhibiting a narrow trading range, with the price moving between the high of 1.18117 and the low of 1.18089. This tight range suggests a period of consolidation, potentially marking a temporary equilibrium between buyers and sellers. Given the absence of significant volatility, traders might expect a breakout in either direction depending on upcoming news or economic data. A break above 1.18117 could signal a bullish continuation, while a move below 1.18089 may point to further downside.\n\nThe Relative Strength Index (RSI) is not available at the moment, making it harder to gauge the current momentum in the market. However, the MACD is showing a slight positive value, indicating that there is some underlying bullish pressure, though it is weak. This minimal reading suggests that momentum is currently subdued, and market participants are waiting for clearer direction. It is essential to monitor the MACD for any significant changes in the near term to confirm whether bullish or bearish momentum is gaining strength.\n\nThe 20-period Simple Moving Average (SMA) stands at 1.17994, providing a potential support level. If the price approaches this level, traders may observe a bounce if the market finds support at the SMA. Conversely, a sustained drop below this level would open up further downside towards more significant support zones, such as 1.17850. On the resistance side, the 1.18117 level could serve as the immediate barrier, with a breakout above that level potentially leading to further upside targeting the 1.18300 region.\n\nIn terms of trading strategy, cautious positioning is advised due to the current market indecision. Traders might look for breakout opportunities, entering long if the price rises above 1.18117 or short if it falls below 1.18089. Tight stop-loss levels should be placed near these key levels to mitigate the risks associated with the range-bound action. As always, monitoring broader economic indicators and any news catalysts is crucial in determining the next market move."
+    }
+  }
+}
