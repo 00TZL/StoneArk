@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-03-02T05:13:32.360Z",
+  "price": {
+    "close": "0.70873",
+    "high": "0.70947",
+    "low": "0.70867",
+    "open": "0.70945",
+    "change": "-0.10",
+    "datetime": "2026-03-02 16:00:00"
+  },
+  "indicators": {
+    "rsi": 44.66273,
+    "macd": -0.0004914082,
+    "macd_signal": -0.00067623495,
+    "sma20": 0.7095375
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[横盘震荡，短期趋势不明]",
+      "content": "当前澳元/美元价格在0.70873附近震荡整理，短期内未见明显的上涨或下跌趋势。价格在0.70947和0.70867之间波动，表现出一定的横盘特征。市场情绪较为谨慎，可能会在此区间内维持一段时间。\n\n技术指标方面，虽然MACD呈现轻微的负值（-0.00049），但没有强烈的信号指示反转。RSI值暂未给出，难以进一步评估超买或超卖状态。SMA(20)略高于当前价格（0.70953），显示出短期内的轻微下行压力。\n\n支撑位在0.70867附近，若突破此点位，可能会进一步测试0.70700区域的支撑。上方的阻力位则位于0.70947，如果突破该阻力，价格可能会重新测试0.71000以上的水平。\n\n交易策略方面，建议采取观望策略。若价格突破0.70947可考虑轻仓做多，但需设置止损以应对下行风险。如果价格跌破0.70867，则可能会有进一步下行空间，可以考虑做空。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently trading at 0.70873, showing a slight decline of -0.10% over the past 24 hours. This modest move lower suggests the pair is encountering resistance near recent highs, with the daily high reaching 0.70947. As of now, the price is hovering close to the low of the day at 0.70867, indicating a potential short-term consolidation phase. This price action reflects a neutral bias in the market, with no clear direction emerging.\n\nThe current technical indicators show a slightly bearish sentiment. The MACD reading of -0.000491 suggests a mild negative momentum, although without a signal line for confirmation, this data remains inconclusive. The absence of a clear RSI value means there is no immediate overbought or oversold signal to guide further price action. With the pair just under the 20-period simple moving average (SMA) at 0.709537, a further decline below the SMA may indicate a weakening of upward momentum.\n\nLooking at key support and resistance levels, the immediate support lies at 0.70867, which aligns with the low for the day. A breach of this level may open the door to further downside towards 0.70700, a historically significant level. On the upside, resistance remains firmly in place at 0.70947. If this resistance holds, it could limit the pair's ability to push higher in the near term. A breakout above this resistance could signal a shift to a more bullish trend.\n\nFor trading, considering the overall neutral-to-bearish sentiment, traders may look for opportunities to sell on rallies near the 0.70950 level, with a stop placed just above 0.71000. Alternatively, a break below 0.70850 may present a short-term selling opportunity, with targets aimed at 0.70700."
+    }
+  }
+}

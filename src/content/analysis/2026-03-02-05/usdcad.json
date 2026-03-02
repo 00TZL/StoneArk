@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-03-02T05:14:13.574Z",
+  "price": {
+    "close": "1.36535",
+    "high": "1.36545",
+    "low": "1.36495",
+    "open": "1.36496",
+    "change": "0.03",
+    "datetime": "2026-03-02 16:00:00"
+  },
+  "indicators": {
+    "rsi": 52.94613,
+    "macd": 0.00013448905,
+    "macd_signal": 0.00015588853,
+    "sma20": 1.36501
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：震荡整理，等待突破信号",
+      "content": "当前美元/加元价格接近1.36535，处于相对平稳的区间内。24小时变化仅为0.03%，表明市场暂时缺乏强烈的波动。价格波动区间在1.36495和1.36545之间，显示出短期内市场处于震荡整理状态。\n\n技术指标方面，RSI和MACD的缺失数据使得我们难以做出更为深入的判断。然而，SMA(20)为1.36501，表明短期内价格接近其20日均线，反映出一定的价格支撑。若价格突破当前区间的上限1.36545，可能会看到短期的上涨压力。\n\n从支撑和阻力角度来看，当前价格的支撑位在1.36495附近，而阻力位则在1.36545。若价格跌破支撑位，可能会进一步测试1.36300左右的支撑区域。反之，突破上行阻力位，可能会推动价格进一步向1.36700靠近。\n\n建议交易者保持观望，耐心等待价格突破关键支撑或阻力位后再进行操作。若短期内持续震荡，则可选择区间交易策略，密切关注进一步的价格动向。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair currently shows a minor upward movement, with the latest price at 1.36535, reflecting a 0.03% change over the past 24 hours. Price action has remained tightly bound between the high of 1.36545 and the low of 1.36495. This range-bound behavior indicates a lack of strong directional momentum, suggesting the market is awaiting new catalysts for a breakout. In the short term, a continuation of consolidation within this range could be expected unless significant news events or economic data push the pair outside of these levels.\n\nFrom a trend perspective, the USD/CAD appears to be in a slight uptrend, as the price is trading above the 20-period simple moving average (SMA) of 1.36501. This positioning indicates a modest bullish sentiment, but without strong momentum, any rallies might face resistance near the recent high of 1.36545. A break above this level could signal further upside potential towards the next key resistance near 1.36700. However, if the price drops back below the 1.36495 low, we could see a test of stronger support around 1.36350.\n\nRegarding indicators, the absence of an RSI value and the lack of a defined MACD signal limit the ability to draw firm conclusions from these metrics. The MACD histogram value of 0.00013448905 suggests a very slight bullish bias, but with no clear trend direction. Traders should be cautious of false signals until more decisive movement or clearer indicator readings emerge. The overall trend is still in favor of the bulls, but with a weakening momentum.\n\nFor traders, this market presents a cautious approach with a focus on range-bound strategies. A breakout above 1.36545 could offer buying opportunities targeting 1.36700, while a breakdown below 1.36495 may open up short positions towards 1.36350. Given the current lack of strong directional momentum, it’s prudent to wait for confirmation of either breakout or breakdown before making significant trades."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-03-02T05:12:50.641Z",
+  "price": {
+    "close": "156.64349",
+    "high": "156.64824",
+    "low": "156.53532",
+    "open": "156.53532",
+    "change": "0.07",
+    "datetime": "2026-03-02 16:00:00"
+  },
+  "indicators": {
+    "rsi": 64.38929,
+    "macd": 0.14128343,
+    "macd_signal": 0.076308251,
+    "sma20": 156.075568
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：震荡整理，短期偏强",
+      "content": "当前美元/日元价格维持在156.64附近，处于震荡整理的局面。考虑到价格接近近期高点156.65，短期内可能继续在此区间波动。若突破此水平，可能会引发进一步的上涨，甚至触及更高区域。\n\n技术指标方面，MACD的正值（0.141）表明市场有一定的上涨动能，但未能提供明确的趋势信号。RSI目前缺失数据，无法对超买或超卖状态进行分析。SMA(20)为156.08，显示出价格仍高于短期均线，进一步支持短期看涨的观点。\n\n支撑位方面，156.54附近为短期支撑，若价格回落至该区域，可能会吸引买盘进入，推动价格上涨。阻力位则集中在156.65至156.70区间，突破后可能会继续上行。若价格未能突破高位，可能会陷入整理区间。\n\n建议短线交易者可以考虑在156.55附近寻求买入机会，目标位可设在156.70附近。若价格跌破156.50，则应谨慎操作并考虑止损。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY is currently in a slight bullish trend, as reflected by the latest price of 156.64349, showing a modest 0.07% increase over the past 24 hours. This price action, while not showing drastic movement, suggests that the pair is hovering near its high for the day, indicating an underlying positive sentiment. The price has recently ranged between 156.64824 (high) and 156.53532 (low), maintaining a tight range, which could indicate consolidation before a potential breakout. In the absence of a clear trend shift, the market might continue to trade sideways in the near term, waiting for a catalyst to push it higher or lower.\n\nThe absence of a significant RSI reading limits the immediate analysis of overbought or oversold conditions, leaving the focus on other technical indicators. The MACD value of 0.14128343 indicates some bullish momentum, but with no accompanying signal line data, caution is advised in placing aggressive trades based on this signal alone. The market's potential for continuation or reversal will depend on external factors such as economic data releases or geopolitical events, but currently, the momentum appears to favor the upside.\n\nLooking at the SMA(20) of 156.075568, the price is significantly above this moving average, which typically indicates a bullish short-term outlook. However, given the narrow price range observed, traders should closely monitor for any breakouts or retracements. Immediate support is seen around 156.53532, with a potential test of the 156.6500 zone acting as resistance. A breakout above this resistance level could see further gains toward 157.00 or higher, while a breakdown below 156.50 might suggest a move toward the next support zone around 156.00.\n\nGiven the current technical setup, traders should consider taking advantage of any pullbacks near the support level of 156.53532 or 156.50 to enter long positions with targets near 156.75-157.00. Short positions could be considered if the price moves decisively below 156.50, targeting 156.00 or lower. However, caution should be maintained due to the tight range and lack of significant momentum indicators."
+    }
+  }
+}

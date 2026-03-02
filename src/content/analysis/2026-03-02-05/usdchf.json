@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-03-02T05:15:41.232Z",
+  "price": {
+    "close": "0.76893",
+    "high": "0.76893",
+    "low": "0.76836",
+    "open": "0.76846",
+    "change": "0.06",
+    "datetime": "2026-03-02 16:00:00"
+  },
+  "indicators": {
+    "rsi": 49.73119,
+    "macd": -0.00028708594,
+    "macd_signal": -0.00030695502,
+    "sma20": 0.769064
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[震荡整理，缺乏明确趋势]",
+      "content": "当前美元/瑞郎(USD/CHF)价格处于0.76893附近，市场表现出较为平稳的状态。24小时变化幅度仅为0.06%，显示出缺乏强烈的买卖压力，价格波动有限。近期的高低点接近，显示出震荡整理的特征，未出现明显的上行或下行突破。\n\n从技术指标来看，MACD显示为负值（-0.00028708594），表明短期内市场略偏空。然而，由于Signal线数据缺失，尚不能确立明确的交易信号。RSI(14)同样缺乏数据，无法得出超买或超卖的判断。SMA(20)为0.769064，当前价格略低于此水平，显示出市场处于轻微的下行趋势。\n\n支撑位和阻力位方面，目前支撑位可见于0.76836附近，若价格突破该水平，则可能出现进一步下行。阻力位在0.76950左右，突破此位有可能带动价格反弹。若价格持续震荡整理，短期内仍以区间交易为主，未出现明显趋势信号。\n\n综合来看，当前市场缺乏方向性，建议投资者暂时观望，避免在震荡区间内贸然进场。如果价格突破关键支撑或阻力位，可以考虑短期交易。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "USD/CHF is trading at 0.76893, hovering just beneath the 20-period simple moving average at 0.769064. Price action remains compressed within a very narrow intraday range between 0.76836 and 0.76893, signaling short-term consolidation. The marginal 0.06% daily gain reflects limited bullish conviction. Overall structure suggests a mild bearish bias in the near term, as price struggles to establish sustained momentum above dynamic resistance.\n\nThe MACD reading at -0.000287 remains in negative territory, indicating subdued downside momentum persists, although the histogram appears relatively shallow. This suggests bearish pressure is present but not accelerating. The absence of a confirmed RSI reading limits overbought or oversold assessment, but given the tight range and positioning below the SMA(20), momentum remains neutral-to-soft rather than decisively bullish.\n\nImmediate resistance is seen at 0.7691, aligned with the 20-period average, followed by psychological and structural resistance near 0.7710. A break above this zone could trigger short-covering toward 0.7740. On the downside, initial support sits at 0.7683, the session low, with stronger support around 0.7665. A decisive breach below 0.7665 would likely open the path toward 0.7640.\n\nFrom a trading perspective, range-based strategies remain appropriate while volatility stays compressed. Short positions may be considered on rejection near 0.7690–0.7710, with tight risk controls above resistance. Alternatively, a confirmed breakout above 0.7710 would favor cautious long positioning. Sellers retain a slight edge unless price sustains movement above the 20-period average with improving momentum signals."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-03-02T05:16:21.684Z",
+  "price": {
+    "close": "5351.49039",
+    "high": "5356.13485",
+    "low": "5347.47341",
+    "open": "5355.96544",
+    "change": "-0.09",
+    "datetime": "2026-03-02 16:00:00"
+  },
+  "indicators": {
+    "rsi": 64.56679,
+    "macd": 21.47088,
+    "macd_signal": 14.95711,
+    "sma20": 5304.88567
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：震荡整理，短期区间波动",
+      "content": "当前XAU/USD价格位于5351附近，整体走势呈现震荡整理格局。黄金在近期高点5356和低点5347区间内波动，表明市场处于短期整理阶段。虽然价格未突破这些关键区间，但也未出现明显的下行压力，市场情绪较为谨慎。\n\n技术指标方面，MACD显示21.47的正值，虽然当前信号线数据缺失，但MACD正值表明短期内黄金存在一定的上涨动能。SMA(20)位于5304附近，作为短期均线支撑，若价格回调至此区域，可能会获得支撑反弹。\n\n从支撑和阻力的角度来看，当前5356为上行阻力位，突破该位置可能会引发进一步上涨至更高水平。下方5347是近期低点，跌破该位置可能会加剧下行风险，形成较强的支撑区间。\n\n在操作建议上，建议投资者密切关注5356和5347这两个关键技术水平。若价格突破5356，可以尝试跟进多单；若价格跌破5347，则需警惕进一步回调风险，适当考虑空单策略。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold (XAU/USD) has been showing a slight downward movement, with the latest price around 5351.49, reflecting a 24-hour change of -0.09%. This minor decline suggests a consolidation phase within a narrow range. The price has bounced between 5356.13 and 5347.47, indicating a somewhat neutral market sentiment. The absence of an RSI reading limits the ability to assess overbought or oversold conditions, but the MACD at 21.47 is suggesting bullish momentum, although without a signal line, further clarity is absent.\n\nThe Simple Moving Average (SMA) for the 20-period is at 5304.89, providing a potential support level for XAU/USD. A break below this level would suggest a bearish outlook, with the next support likely being around 5300. On the resistance side, the 5356.13 high acts as the immediate barrier, and if the price breaks above this, it could signal a continuation of the upward momentum. Traders should watch for confirmation of breakouts in either direction before committing to a position.\n\nGiven the current market conditions, there is no clear direction, and the indicators offer mixed signals. The market could potentially be forming a range-bound structure, with a bias towards support around the 5300-5304 level and resistance at 5356. A breakout above or below these levels would give more definitive signals. In the short term, a cautious approach is recommended, with traders focusing on these key levels for entry or exit points.\n\nConsidering the current setup, a prudent strategy would be to wait for a break in either direction—either a confirmation of bullish movement above 5356 or a bearish trend below 5304. Scalpers and intraday traders may take advantage of these small price fluctuations, while longer-term traders should keep an eye on a breakout for more sustainable trends."
+    }
+  }
+}

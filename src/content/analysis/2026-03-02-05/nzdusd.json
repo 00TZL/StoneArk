@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-03-02T05:14:55.555Z",
+  "price": {
+    "close": "0.59686",
+    "high": "0.5975",
+    "low": "0.59682",
+    "open": "0.59748",
+    "change": "-0.11",
+    "datetime": "2026-03-02 16:00:00"
+  },
+  "indicators": {
+    "rsi": 39.46035,
+    "macd": -0.00050281037,
+    "macd_signal": -0.00058483759,
+    "sma20": 0.5979595
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：震荡整理，缺乏明确方向",
+      "content": "当前纽元/美元（NZD/USD）价格位于0.59686附近，24小时变化幅度较小，呈现出轻微下跌的走势。短期内市场缺乏明显的趋势，价格围绕0.5970水平震荡整理。考虑到此波动幅度有限，短期内可能继续维持这种震荡状态。\n\n从技术指标来看，MACD显示出轻微的负值（-0.00050281037），但缺乏足够的确认信号，未能呈现出明显的买入或卖出信号。RSI（14）未提供足够信息，因此暂时无法通过这一指标做出有效判断。SMA（20）位于0.59795950附近，价格略低于其20日均线，表明短期内可能有下行压力。\n\n支撑位在0.59682附近，而阻力位则在0.5975处。若价格突破阻力位0.5975，可能会有小幅上行；而跌破支撑位0.59682则可能导致更深的回调，进一步考验0.5950附近的支撑区域。\n\n建议交易者在当前震荡市场中采取区间操作策略，关注0.59682和0.5975的关键技术水平，适时在支撑位附近寻找买入机会，而在接近阻力位时考虑卖出。同时，建议关注更为关键的技术指标和市场情绪变化，以便做出更为精准的决策。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The New Zealand Dollar (NZD) against the US Dollar (USD) has recently shown a slight decline, with the latest price standing at 0.59686. This reflects a minor 24-hour drop of -0.11%. The pair has fluctuated between a high of 0.5975 and a low of 0.59682, indicating a relatively tight range during this period. The market appears to be consolidating, and any significant directional moves will depend on how it reacts to key support and resistance levels in the near term.\n\nFrom a trend perspective, the NZD/USD is currently neutral to slightly bearish. The price is below the 20-period simple moving average (SMA) at 0.59796, suggesting a short-term downward bias. However, this does not indicate a strong bearish trend; rather, the market seems to be stuck within a narrow range, lacking momentum for a breakout. A decisive move above the SMA could signal a shift towards a neutral or bullish outlook, whereas a failure to reclaim this level may result in further downside pressure.\n\nSupport levels are identified around the low of 0.59682, which may act as a short-term floor for the pair. If the price breaks below this level, the next support could be found closer to 0.5950. On the resistance side, the recent high of 0.5975 could serve as an immediate barrier, with a break above potentially paving the way for a test of 0.6000. These levels will be crucial in determining the next move for NZD/USD.\n\nGiven the current market dynamics, traders might consider a cautious range-bound approach. With the lack of momentum and mixed signals from the indicators, waiting for a clear breakout or a retest of key support/resistance levels might offer better risk-reward setups. A short-term strategy could involve buying near support or selling near resistance, but attention should be paid to any sudden changes in momentum or fundamental shifts that could influence the currency pair."
+    }
+  }
+}

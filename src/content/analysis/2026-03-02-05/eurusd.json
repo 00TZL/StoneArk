@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-03-02T05:11:24.088Z",
+  "price": {
+    "close": "1.178",
+    "high": "1.17862",
+    "low": "1.17792",
+    "open": "1.17859",
+    "change": "-0.05",
+    "datetime": "2026-03-02 16:00:00"
+  },
+  "indicators": {
+    "rsi": 41.51846,
+    "macd": -0.00076932481,
+    "macd_signal": -0.0007902218,
+    "sma20": 1.17929
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：短线偏弱震荡整理",
+      "content": "当前汇价报1.178，24小时微跌0.05%，整体波动区间收窄，显示多空力量趋于均衡。价格运行在20日均线1.17929下方，短线结构偏空，但跌幅有限，表明空头动能尚未完全释放。  \n\nMACD位于零轴下方且数值为负，动能柱偏弱，暗示下行动能仍在，但未出现明显放量。RSI数据缺失，但结合K线形态判断，市场处于轻度回调阶段，尚未进入超卖区域。  \n\n技术面上，下方初步支撑关注1.1770一线，若失守可能测试1.1745前低区域；上方阻力位于1.1800及1.1820附近，需有效突破20日均线方能扭转短线偏弱格局。  \n\n操作策略上，短线可考虑在1.1800下方逢高轻仓做空，目标看向1.1750区域，止损设于1.1825上方。若汇价重新站稳1.1800并放量突破，则应顺势转为短多思路。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently in a tight range, with a slight downward move in the past 24 hours, indicating a neutral to slightly bearish sentiment. The market price is hovering around 1.178, which is near the recent low of 1.17792. This price action suggests a potential consolidation phase. Without strong momentum, traders may find the market indecisive, which implies a risk of a continuation of sideways movement unless a catalyst emerges to break the current pattern.\n\nOn the technical front, the 20-period Simple Moving Average (SMA) at 1.17929 provides a mild bearish signal, as the price is currently below this level. A breakdown below the recent low could open the door for further downside potential, with support near 1.17792. However, if the price pushes back above the SMA, this could trigger a short-term bullish reversal, with resistance initially seen around the high of 1.17862. Traders should be on the lookout for a clear breakout or breakdown to gauge the next major move.\n\nThe MACD reading at -0.00077 points to bearish pressure, though the lack of a clear signal line makes interpretation uncertain. This absence of confirmation means that traders should be cautious in entering positions based purely on this indicator. A closer look at the RSI, when available, would likely provide further confirmation of overbought or oversold conditions, which could assist in identifying an entry point for short or long positions.\n\nFor now, caution is advised as the market lacks strong directional momentum. Short-term traders may look for a break below 1.17792 as a potential selling opportunity, with targets toward 1.1750. On the flip side, a rebound above 1.17929 could suggest a move back toward resistance around 1.1810. Patience is key until the pair shows a clearer trend direction."
+    }
+  }
+}
