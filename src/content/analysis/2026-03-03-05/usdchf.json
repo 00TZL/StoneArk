@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-03-03T05:14:37.361Z",
+  "price": {
+    "close": "0.78096",
+    "high": "0.78102",
+    "low": "0.78069",
+    "open": "0.781",
+    "change": "-0.01",
+    "datetime": "2026-03-03 16:00:00"
+  },
+  "indicators": {
+    "rsi": 72.062985,
+    "macd": 0.0021615415,
+    "macd_signal": 0.0022411078,
+    "sma20": 0.778776
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[震荡整理中]",
+      "content": "当前美元/瑞郎(USD/CHF)的价格为0.78096，近期表现出震荡整理的趋势。虽然价格较24小时前略有回落，但总体波动幅度有限，显示出市场参与者的谨慎情绪。考虑到高点0.78102和低点0.78069，价格仍在相对狭窄的区间内波动，缺乏明确的方向。\n\n从技术指标来看，MACD值为0.0021615415，表明短期内动能尚待增强，尚未形成明确的买入或卖出信号。而20日简单移动平均线(SMA)为0.77877600，若价格持续维持在该水平之上，可能会构成一定的支撑。相对强弱指数(RSI)数据缺失，导致市场的超买或超卖状态难以判断。\n\n在支撑和阻力方面，当前支撑位看向0.78069，若跌破该水平，可能开启进一步下行空间。阻力位则在0.78102附近，突破后将可能引发较强的买盘。因此，投资者可关注这两个关键水平，以制定相应的交易策略。\n\n建议短线交易者在当前区间内采取观望态度，待价格突破支撑或阻力位后再进行交易。在此过程中，保持风险管理意识，合理设置止损位，以应对市场的潜在波动。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF currency pair is currently exhibiting a slight bearish trend, reflected in its recent price movement at 0.78096, which represents a modest decline of 0.01% over the past 24 hours. The price has oscillated between a high of 0.78102 and a low of 0.78069, indicating a consolidation phase within this tight range. This behavior suggests that traders are cautious, potentially awaiting a catalyst to drive the pair out of its current equilibrium.\n\nIn terms of technical indicators, the MACD reading of 0.0021615415 indicates that the momentum is slightly positive, although insufficient to signal a strong bullish trend. The absence of a defined RSI(14) value limits the ability to ascertain whether the pair is overbought or oversold. However, the presence of the 20-period Simple Moving Average (SMA) at 0.77877600 provides a critical support level, which could act as a foundation for any potential upward movement.\n\nIdentifying key support and resistance levels is crucial for traders. The immediate support level appears to be around 0.78069, where buying interest may increase, while the resistance level is seen at 0.78102. A breakout above this resistance could open the door for a rally towards the next significant resistance level, likely near 0.78250. Conversely, if the price falls below the support level, it may signal further declines, potentially targeting the SMA at 0.77877600.\n\nFor trading strategies, a cautious approach is advisable. Traders may consider entering a long position near the support level of 0.78069 with a tight stop-loss to manage risk. Conversely, a break below this level could warrant short positions, particularly if confirmed by additional bearish indicators. Monitoring the MACD and any emerging RSI readings will be essential for adjusting positions and maximizing potential gains in this fluctuating market."
+    }
+  }
+}

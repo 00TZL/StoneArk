@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-03-03T05:13:17.258Z",
+  "price": {
+    "close": "1.36694",
+    "high": "1.36729",
+    "low": "1.36681",
+    "open": "1.36726",
+    "change": "-0.02",
+    "datetime": "2026-03-03 16:00:00"
+  },
+  "indicators": {
+    "rsi": 49.88305,
+    "macd": 0.00020844519,
+    "macd_signal": 0.00043542782,
+    "sma20": 1.3676
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理中]",
+      "content": "当前美元/加元（USD/CAD）在1.36694附近震荡整理，整体趋势偏向横盘。虽然短期内价格波动不大，但市场情绪依然较为谨慎，可能受到了全球经济数据和油价变动的影响。投资者需密切关注即将公布的经济指标，以便及时调整交易策略。\n\n从技术指标来看，MACD为0.00020844519，表明当前市场动能较弱，且RSI指标尚未提供具体数据，说明买卖力量相对平衡。20日简单移动平均线（SMA）在1.36760，价格略低于该水平，进一步反映出短期内可能面临一定的压力。\n\n支撑位方面，1.36680是一个关键支撑区域，若价格下破此位，可能引发进一步下滑，目标看向1.36500。而在阻力方面，1.36730和1.36800则是需要关注的压力位，突破这些区域可能会引发新的上行趋势。\n\n基于当前市场情况，建议投资者采取观望策略，等待价格突破关键支撑或阻力水平后再做决策。如果价格持续在1.36680之上，可考虑小幅做多；反之，若跌破该支撑，则应密切关注下行风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair currently trades at 1.36694, reflecting a slight decline of 0.02% over the past 24 hours. This price movement suggests a consolidative phase after the pair has been oscillating within a narrow range, evident from the high of 1.36729 and the low of 1.36681. The overall trend appears to be neutral to slightly bearish, indicating a potential for further downside if the current support levels are breached. Traders should monitor this range closely for breakout opportunities.\n\nIn terms of technical indicators, the absence of a reported RSI means we cannot assess overbought or oversold conditions directly. However, the MACD value of 0.0002 indicates a potential bullish momentum, albeit weak. The SMA(20) at 1.36760 suggests that the market is currently below this moving average, reinforcing the notion of a short-term bearish sentiment. A sustained move below the SMA could trigger further selling pressure, while a rebound could indicate a shift back toward bullish territory.\n\nKey support levels for USD/CAD are identified around 1.36680, with the potential for a bounce if the price approaches this level. Conversely, resistance is clustered near the SMA(20) at 1.36760. A break above this level could signal a more bullish outlook and open the door for a retest of higher resistance levels. Traders should watch for price action around these critical levels to gauge the next directional move.\n\nFor trading strategies, a cautious approach is warranted. A short position could be considered if the price drops below 1.36680, with a target near 1.36500. Conversely, if the price breaks above 1.36760, a long position may be prudent, targeting a retest of 1.37000. Managing risk with appropriate stop-loss orders will be essential given the current market volatility and uncertainty."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-03-03T05:10:31.800Z",
+  "price": {
+    "close": "1.16823",
+    "high": "1.16851",
+    "low": "1.16806",
+    "open": "1.16806",
+    "change": "0.01",
+    "datetime": "2026-03-03 16:00:00"
+  },
+  "indicators": {
+    "rsi": 36.3228,
+    "macd": -0.0018361428,
+    "macd_signal": -0.00202053,
+    "sma20": 1.16992
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[当前市场趋于横盘整理]",
+      "content": "当前欧元/美元的价格为1.16823，显示出一定的横盘整理趋势。在过去24小时内，价格变化幅度较小，仅为0.01%。高点与低点分别为1.16851和1.16806，表明市场缺乏明确的方向性，因此短期内可能会继续维持在这个区间内。\n\n从技术指标来看，当前的MACD值为-0.0018361428，显示出价格动能较弱，且RSI指标尚未提供，因此我们无法对超买或超卖状态进行有效评估。20日简单移动平均线（SMA）在1.16992附近形成了一个潜在的阻力位，价格若突破此水平，可能会激发更多买盘反应。\n\n支撑位方面，1.16806附近的低点可视为短期支撑。如果价格跌破该水平，可能会引发更多的卖盘，进一步测试1.16700的关键支撑位。基于当前市场情况，建议交易者可考虑在1.16806附近设置买入点，同时在接近1.16992时观察卖出机会，以把握短期波动。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The Euro vs. US Dollar (EUR/USD) is currently trading at 1.16823, reflecting a slight upward movement of 0.01% over the past 24 hours. The price action has been relatively muted, with a high of 1.16851 and a low of 1.16806. This consolidation within a tight range suggests that the market is currently in a phase of indecision. Traders may be waiting for further economic indicators or geopolitical developments to provide direction.\n\nAnalyzing the trend, the EUR/USD pair appears to be in a short-term downtrend, as indicated by its position below the 20-period simple moving average (SMA) at 1.16992. The inability to maintain prices above this moving average may keep bearish sentiment alive, suggesting potential resistance at this level. A sustained move above the SMA could signal a reversal, while continued trading below could lead to further downside pressure.\n\nIn terms of indicators, the MACD is currently negative, reflecting bearish momentum. Although the RSI is not available, traders should remain cautious as the MACD's negative reading indicates that sellers are currently in control. If the price fails to break above the SMA and the MACD remains negative, it may reinforce a bearish outlook for the near term.\n\nKey support levels to monitor include the recent low of 1.16806, which, if breached, could expose the pair to lower levels. Conversely, resistance at the SMA of 1.16992 remains critical for any bullish reversal. Traders may consider short positions if the price approaches resistance and shows signs of rejection, while long positions could be validated upon a decisive break above the SMA. Close attention to market conditions will be essential for effective trading strategies."
+    }
+  }
+}

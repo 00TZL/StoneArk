@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-03-03T05:13:57.294Z",
+  "price": {
+    "close": "0.59396",
+    "high": "0.59406",
+    "low": "0.59372",
+    "open": "0.59372",
+    "change": "0.04",
+    "datetime": "2026-03-03 16:00:00"
+  },
+  "indicators": {
+    "rsi": 42.92487,
+    "macd": -0.00057819922,
+    "macd_signal": -0.00069085271,
+    "sma20": 0.5943415
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理中]",
+      "content": "当前纽元/美元(NZD/USD)在0.59372至0.59406区间内震荡整理，整体趋势较为平稳。由于未能突破上一交易日高点，短期内可能维持横盘态势。投资者需关注市场情绪及相关经济数据，以判断后续走势。\n\n技术指标方面，目前MACD显示出轻微的负值，表明卖方略占优势，但RSI尚未提供数据。在缺乏强烈趋势信号的情况下，短期内可能出现小幅波动。20日简单移动平均线(SMA)略高于当前价格，可能对价格构成一定的阻力。\n\n支撑位方面，0.59372为关键支撑，若跌破该水平，可能进一步测试0.59200的心理关口。相对的，0.59406则是当前的阻力位，突破后可能迎来上涨动能。投资者应关注这些关键水平，以制定相应的交易策略。\n\n基于当前市场状况，建议投资者采取观望态度，等待价格突破关键支撑或阻力位后再进行进场。如果价格持续在支撑位之上，适度考虑做多；反之，则可考虑做空策略。务必设置止损，以控制风险。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently trading at 0.59396, showing a slight increase of 0.04% over the past 24 hours. This modest price action suggests that the market is in a consolidation phase, with the pair oscillating between the recent high of 0.59406 and low of 0.59372. Given this narrow range, traders should closely monitor these levels, as a breakout above 0.59406 could lead to a bullish momentum, while a drop below 0.59372 may signal a bearish trend.\n\nTechnical indicators present a mixed view. The MACD is currently negative at -0.00057819922, indicating a potential bearish bias in the short term, although the lack of a signal line complicates the interpretation. The absence of an RSI value makes it challenging to assess overbought or oversold conditions. However, the 20-period Simple Moving Average at 0.59434150 acts as a nearby resistance level, suggesting that the pair may struggle to advance significantly beyond this point without strong bullish impetus.\n\nSupport levels appear to be situated around the 0.59372 mark, indicating a potential floor for price action in the short term. If the pair holds above this level, it may provide a buying opportunity for traders looking for a rebound. Conversely, a definitive break below this support could expose further downside risks, potentially targeting the next support level around 0.59150. \n\nTraders should remain vigilant for price action around the key levels mentioned. A breakout above 0.59406 could trigger a short-term long position, while a failure to maintain above 0.59372 might warrant a cautious approach or even short positions if confirmed. As always, risk management strategies should be employed to protect against adverse movements, given the current volatility in the forex market."
+    }
+  }
+}

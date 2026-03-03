@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-03-03T05:15:17.267Z",
+  "price": {
+    "close": "5365.12844",
+    "high": "5366.88683",
+    "low": "5357.85732",
+    "open": "5364.72945",
+    "change": "0.01",
+    "datetime": "2026-03-03 16:00:00"
+  },
+  "indicators": {
+    "rsi": 57.56547,
+    "macd": 7.41878,
+    "macd_signal": 5.3669,
+    "sma20": 5346.78099
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理中]",
+      "content": "当前黄金/美元的价格为5365.12844，近期走势表现出一定的震荡整理特征。在高点5366.88683和低点5357.85732之间，价格未能突破关键区间，显示出市场的谨慎情绪。在此背景下，短期内可能继续维持窄幅波动，投资者需密切关注价格行为。\n\n从技术指标来看，MACD值为7.41878，显示出多头动能，但缺乏信号线的确认使得这一信号的可靠性降低。同时，20日简单移动平均线(SMA)在5346.78099，作为重要支撑位，未来价格若向下调整，有可能在此获得支撑。RSI指标尚未提供，因此需要进一步观察其变化以判断超买或超卖状况。\n\n支撑位方面，5346.78099是较为关键的支撑，如果价格跌破此水平，可能会引发更大幅度的回调。而阻力位则在5366附近，突破该点位可能为进一步上涨打开空间。建议投资者在当前区间内进行短线操作，关注支撑与阻力的突破情况，谨慎把握交易机会。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current price of Gold (XAU/USD) at 5365.13 reflects a market that is consolidating within a narrow range. The 24-hour change of 0.01% indicates minimal volatility, suggesting that traders are waiting for a directional catalyst. The high and low figures for the day, 5366.89 and 5357.86, respectively, highlight a tight trading band. This indecision in the market could mean that investors are evaluating macroeconomic factors that may impact Gold prices in the near term.\n\nFrom a technical perspective, the presence of the 20-day Simple Moving Average (SMA) at 5346.78 provides a crucial support level. If the price dips below this SMA, it could signal further bearish momentum, potentially targeting the lower boundary of the recent range. Conversely, a sustained break above the daily high of 5366.89 may open the door for a bullish retracement, possibly leading to a retest of higher resistance levels. Traders should closely monitor price action around these key levels.\n\nThough the RSI(14) is not available, the MACD value of 7.41878 suggests potential bullish momentum in the market. If this trend continues, it may offer a favorable entry point for long positions. Traders should consider implementing stop-loss orders just below the SMA to manage risk effectively, while targeting potential resistance levels that may emerge around 5380. This strategy can help lock in profits while protecting against sudden market reversals.\n\nIn summary, the XAU/USD pair currently exhibits a range-bound behavior, with the SMA providing critical support. A cautious approach is advisable, focusing on key price levels to inform trading decisions. Given the current indicators, traders may want to look for breakouts or breakdowns, aligning their strategies with market sentiment and broader economic developments."
+    }
+  }
+}
