@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-03-04T05:09:14.358Z",
+  "price": {
+    "close": "5157.14428",
+    "high": "5158.93565",
+    "low": "5151.28362",
+    "open": "5156.62131",
+    "change": "0.01",
+    "datetime": "2026-03-04 16:00:00"
+  },
+  "indicators": {
+    "rsi": 46.22444,
+    "macd": -29.025582,
+    "macd_signal": -41.80768,
+    "sma20": 5135.37027
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：震荡整理，短期偏多",
+      "content": "当前黄金/美元(XAU/USD)在5150附近震荡整理，价格接近近期的支撑区间。短期内市场情绪较为谨慎，未出现明显的趋势方向。由于RSI(14)数据缺失，无法得出过买或过卖的信号，因此MACD指标显示略微负值，可能暗示短期内价格缺乏强势上行动力。\n\n技术指标方面，MACD值为负数，且信号线尚未形成，表明市场仍在等待更明确的方向。20日简单移动平均线(SMA)目前位于5135附近，为当前的支撑线。如果价格跌破此位置，可能会进一步考验5110-5120区域的支撑力度。\n\n支撑位方面，5135一线是短期关键支撑区，如果下行突破，可能会指引市场向更低的支撑位发展。阻力位则位于5158附近，突破此位可能会开启上行趋势，测试5180附近的强阻力区域。\n\n交易建议上，短期内可以在支撑位附近寻找多头机会，但需谨慎操作，避免跌破关键支撑。考虑到市场缺乏明确的趋势，建议保持轻仓操作，等待突破确认信号后再作决定。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current market for XAU/USD reflects a relatively stable short-term trend with a slight upward bias, given the 24-hour change of 0.01%. The price range has been narrow, moving between 5158.94 and 5151.28. The absence of an RSI value complicates momentum assessment, but the MACD at -29.03 suggests weak bearish momentum, potentially signaling limited downside pressure in the near term. However, this level needs further observation to identify a clear trend shift.\n\nFrom a technical perspective, the price is hovering just above the 20-period SMA, which stands at 5135.37. This moving average could act as dynamic support in case of a pullback. If the price breaches below this level, a potential move toward 5130.00 or lower could occur, with 5100.00 as a critical support level. Conversely, if the price maintains its position above the SMA, the next resistance could be at 5160.00, potentially leading to a test of higher levels.\n\nThe MACD signal is currently unavailable, so traders should closely monitor its development for better entry points. A crossover into positive territory would be a bullish signal, particularly if confirmed by price action breaking the immediate resistance zone. However, without a clear bullish or bearish signal, caution is advised when making trade decisions, as price action remains choppy with no major indicators confirming momentum shifts.\n\nGiven the current market conditions, a conservative strategy would involve waiting for price action to break either the SMA or key support/resistance levels to confirm the next move. Short-term traders might consider targeting 5160.00 on the upside and 5130.00 on the downside, adjusting positions based on further developments in MACD or other indicators."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-03-04T05:04:23.206Z",
+  "price": {
+    "close": "1.15942",
+    "high": "1.15945",
+    "low": "1.1593",
+    "open": "1.15942",
+    "change": "-0.00",
+    "datetime": "2026-03-04 16:00:00"
+  },
+  "indicators": {
+    "rsi": 39.16374,
+    "macd": -0.0017279055,
+    "macd_signal": -0.0020887493,
+    "sma20": 1.16002
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：震荡整理，缺乏明确方向",
+      "content": "当前欧元/美元价格为1.15942，短期内呈现出震荡整理的状态。从24小时变化来看，价格几乎没有波动，表明市场在短期内缺乏强烈的买卖动能。\n\n技术指标方面，MACD值为-0.0017，表明市场的卖压略微占优，但由于Signal线未提供，未能给出明确的趋势方向。SMA(20)在1.16002附近，显示出价格仍维持在该均线下方，意味着短期内下行风险较大。\n\n支撑位在1.1593附近，而阻力位则位于1.15945。如果价格突破1.15945并维持在上方，可能会出现小幅反弹，挑战1.1600水平。反之，若价格跌破支撑位1.1593，可能会继续走低。\n\n建议交易者保持观望，等待价格突破支撑或阻力位再做决策，避免在当前区间内盲目进场。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently trading at 1.15942, reflecting a subtle consolidation phase in the market. The price action has been range-bound with a narrow high of 1.15945 and a low of 1.1593, suggesting a lack of strong directional momentum. With no significant volatility in the last 24 hours, the market seems to be in a temporary equilibrium. The price remains near the 20-period Simple Moving Average (SMA) at 1.16002, signaling a neutral trend in the near term.\n\nIn terms of momentum, the lack of RSI data and the MACD’s negative value at -0.0017 point to weak bearish pressure. However, the absence of a strong trend also indicates potential indecision. Traders should be cautious about the current lack of clear direction. If the pair starts trending downward, the next significant support zone appears to be around 1.1590, where buyers might look to step in. A break below this level could open up further downside toward 1.1570.\n\nResistance for the pair remains around the 1.1605 area, near the 20-day SMA. Should the price break above this resistance, it could signal a potential bullish reversal, with targets extending toward the 1.1620-1.1630 range. The market’s indecisiveness suggests that short-term trades should consider tight stop-loss placements to manage risk. A break from the current consolidation zone will likely provide clearer direction for future trades.\n\nFor trading suggestions, watching for a breakout above 1.1605 could offer long opportunities, with caution around 1.1630. Alternatively, if price fails to breach this resistance, short positions around 1.1600 with a stop near 1.1620 might be viable. Conservative traders may prefer waiting for clearer signals before committing to a larger position size."
+    }
+  }
+}

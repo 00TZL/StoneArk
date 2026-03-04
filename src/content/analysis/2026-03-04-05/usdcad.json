@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-03-04T05:07:08.553Z",
+  "price": {
+    "close": "1.36933",
+    "high": "1.36933",
+    "low": "1.36903",
+    "open": "1.36906",
+    "change": "0.02",
+    "datetime": "2026-03-04 16:00:00"
+  },
+  "indicators": {
+    "rsi": 54.58392,
+    "macd": 0.00018199069,
+    "macd_signal": 0.00013076268,
+    "sma20": 1.36876
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[短期震荡，缺乏明显趋势]",
+      "content": "目前美元/加元的价格在1.36933附近，市场呈现震荡整理的格局。从技术面来看，价格在短期内波动较小，24小时内的涨幅仅为0.02%。MACD指标显示微弱的正值，暗示出一定的上涨动能，但信号线尚未形成，表明趋势不够明确。\n\n支撑位方面，SMA(20)的1.36876为重要参考水平，一旦价格跌破此位置，可能会加剧下行压力。当前高点和低点的差距较小，显示出市场缺乏方向性。若价格突破1.36933上方，可能会迎来短期的上涨动能，但整体涨幅有限。\n\n从技术指标来看，RSI(14)数据缺失，无法提供超买超卖的强烈信号。MACD指标微弱的增幅表明市场的多空力量较为平衡，因此短期内可能继续震荡整理。无明显的突破信号，需要密切关注价格变动。\n\n建议交易者在1.36933附近观望，若价格突破此位置可考虑轻仓做多，而若跌破1.36876可考虑做空。整体策略应保持谨慎，等待市场走势明朗化后再做进一步决策。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair has shown minimal movement over the last 24 hours, with the latest price hovering at 1.36933. The 24-hour change is a modest 0.02%, reflecting a consolidative period. The pair is trapped between a tight range, with the high and low for the day marked at 1.36933 and 1.36903, respectively. Despite this lack of volatility, the market seems to be in a neutral zone, lacking clear momentum in either direction.\n\nWith the lack of an available RSI or a more detailed MACD signal, the indicators aren't providing conclusive guidance. However, the MACD value of 0.00018199069 hints at a very slight bullish bias. Combined with the proximity of the price to the 20-period Simple Moving Average (SMA) at 1.36876, the market could be leaning towards maintaining its range-bound behavior. The absence of a strong trending signal suggests caution, as any breakout might need further confirmation before acting on it.\n\nFrom a support and resistance perspective, immediate support is likely near the lower end of the day's range, at 1.36903, while resistance seems to be around the current price level of 1.36933. Traders should watch for a break above or below these levels to signal a potential short-term trend. A sustained move above 1.36933 could push the price higher, testing the next resistance, while a dip below 1.36903 might reveal more downside potential.\n\nGiven the current range-bound structure and the lack of definitive signals from the technical indicators, a neutral to cautious approach is advisable. Traders could look for short-term scalping opportunities if the price breaks out of its current tight range, but waiting for more clarity from the MACD and RSI would help reduce risk and increase the probability of a successful trade."
+    }
+  }
+}

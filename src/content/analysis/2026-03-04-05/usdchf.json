@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-03-04T05:08:33.096Z",
+  "price": {
+    "close": "0.78181",
+    "high": "0.78183",
+    "low": "0.78161",
+    "open": "0.78161",
+    "change": "0.02",
+    "datetime": "2026-03-04 16:00:00"
+  },
+  "indicators": {
+    "rsi": 51.15228,
+    "macd": 0.00029437751,
+    "macd_signal": 0.00071537208,
+    "sma20": 0.783012
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[震荡整理，短期走势待定]",
+      "content": "当前美元/瑞郎（USD/CHF）价格在0.78181附近，整体呈现震荡整理的走势。市场缺乏明确的趋势，价格波动较为平缓。24小时变化仅为0.02%，显示出当前市场参与者较为谨慎。由于RSI（14）和MACD信号的缺失，进一步确认了市场的短期不确定性。\n\n技术面来看，价格目前接近20日简单移动平均线（SMA 20）0.783012，且未突破此点位，显示出较强的阻力。虽然短期内未能突破这一阻力位，但价格也未跌破0.78161的支撑，表明当前区间震荡可能持续。MACD值为0.00029437751，表明当前市场可能处于短期的横盘整理阶段。\n\n支撑位方面，0.78161是短期内的关键支撑，一旦价格跌破此位，可能会导致进一步下行至0.78000附近。上方阻力位则在0.78300附近，突破该点位有望开启短期上涨行情。综合来看，目前市场暂时缺乏明确的方向，短期内交易者应密切关注支撑与阻力的突破情况。\n\n交易建议方面，建议在区间震荡时采取谨慎策略，等待价格突破支撑或阻力位后再做进一步操作。如果价格突破0.78300，可考虑做多，若跌破0.78161，则可考虑做空。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently showing slight price consolidation, with the latest price at 0.78181. Over the past 24 hours, it has shown minimal movement, with only a 0.02% change. This suggests that the market is in a narrow range, and traders are awaiting clearer signals to determine the next significant move. The high and low for the day are very close, indicating that there is a lack of volatility in the market. Given the tight trading range, it's important to monitor for any breakout or breakdown from this zone to gauge the next direction.\n\nFrom a technical perspective, the pair is currently below the 20-period simple moving average (SMA) of 0.783012, which is often seen as a bearish signal in the short term. If the price continues to trade below this level, it may suggest a downward bias in the market. However, the absence of the RSI and MACD signals makes it difficult to confirm a strong trend. Traders should look for price action around the SMA for possible rejection or breakouts, as these could provide clearer entry points.\n\nSupport and resistance levels for USD/CHF can be identified at 0.78161 (low of the day) and 0.78301 (SMA), respectively. If the price fails to break the resistance at 0.78301, there could be a chance of a pullback towards the support level at 0.78161, potentially leading to further declines. A break below 0.78161 would open up the possibility for a deeper retracement, targeting the next significant support levels.\n\nIn terms of trading strategy, traders should adopt a cautious approach in the current market environment. Watch for potential breakouts or bounces at the identified support/resistance levels. A confirmed close above the SMA could suggest a bullish reversal, while failure to hold above 0.78161 may encourage short positions. Given the current low volatility, it's crucial to stay nimble and react to real-time price movements."
+    }
+  }
+}
