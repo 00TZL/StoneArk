@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-03-05T05:10:14.099Z",
+  "price": {
+    "close": "1.33358",
+    "high": "1.3336",
+    "low": "1.33343",
+    "open": "1.33353",
+    "change": "0.00",
+    "datetime": "2026-03-05 16:00:00"
+  },
+  "indicators": {
+    "rsi": 41.97144,
+    "macd": -0.00012163279,
+    "macd_signal": 0.00032122982,
+    "sma20": 1.33635
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[震荡整理，待突破]",
+      "content": "目前，英镑/美元汇率处于震荡整理区间，价格在1.33358附近运行，且24小时变化微弱，显示市场缺乏明显的动能。从技术角度来看，当前价格接近前期高点1.3336，且最低点为1.33343，表明价格在此区间内波动。若突破上方阻力位，可能会触发进一步上涨。\n\nMACD显示当前数值为负值（-0.00012163279），暗示短期内空方占优，市场尚未显现出明确的多头信号。同时，RSI指标未更新，因此暂时无法根据该数据分析超买或超卖的情况。在SMA(20)线的作用下，若价格突破1.33635这一阻力位，可能迎来更多的买盘涌入。\n\n支撑位在1.33343附近，而阻力位则在1.33635。若价格跌破支撑位，可能会测试更低的区域，反之突破阻力位则可能继续上行，朝着1.34关口发起挑战。若价格维持在此区间内震荡整理，建议等待更清晰的突破信号。\n\n综合来看，当前适合观望，等待价格突破关键支撑或阻力位后再采取相应的交易策略。投资者应保持灵活性，结合其他技术指标进行进一步分析。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD market is currently in a tight range, trading at 1.33358 with a negligible 24-hour change. The price has been consolidating within a narrow band, reaching a high of 1.3336 and a low of 1.33343. This suggests a lack of clear momentum, as the market is showing little directional strength. Without a significant break of these boundaries, the pair may continue to fluctuate in this small range. Traders should keep an eye on any breakout above 1.3360 or below 1.3330 for potential opportunities.\n\nOn the technical side, the lack of recent RSI data makes it challenging to assess overbought or oversold conditions. However, the MACD is in negative territory at -0.00012163279, signaling that the bearish pressure is currently dominant, albeit weak. As the MACD is not crossing its signal line, it suggests a continued sideways movement rather than any strong reversal. The absence of a confirmed trend makes long-term predictions difficult, but a short-term focus on range-bound strategies could be appropriate for now.\n\nThe 20-period Simple Moving Average (SMA) stands at 1.33635, providing a slight resistance above the current price. This level may act as a ceiling for the pair, limiting bullish momentum. Should the price breach 1.3365, it could signal a shift toward a stronger uptrend, possibly targeting the next resistance at 1.3400. On the downside, the support near 1.3330 remains crucial, as a breakdown below this level could lead to further bearish pressure toward 1.3300.\n\nGiven the current market dynamics, traders may consider short-term scalping within the defined range or waiting for a breakout to trade with momentum. Conservative traders might prefer to wait for clearer signals, such as a MACD crossover or an RSI reading that confirms overbought or oversold conditions, before committing to a larger position."
+    }
+  }
+}

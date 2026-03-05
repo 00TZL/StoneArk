@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-03-05T05:09:32.189Z",
+  "price": {
+    "close": "1.16098",
+    "high": "1.161",
+    "low": "1.16078",
+    "open": "1.16083",
+    "change": "0.01",
+    "datetime": "2026-03-05 16:00:00"
+  },
+  "indicators": {
+    "rsi": 41.94536,
+    "macd": -0.00020224275,
+    "macd_signal": 0.000076883654,
+    "sma20": 1.16302
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[横盘整理，待突破]",
+      "content": "当前欧元/美元在1.16098附近横盘整理，显示出缺乏明显的趋势方向。价格在1.161的高点与1.16078的低点之间震荡，说明市场在寻找突破口。若价格能有效突破上方1.16302的SMA(20)水平，可能会引发多头回升。\n\n在技术指标方面，MACD指标处于负值区域，表明当前市场情绪偏空。然而，由于RSI尚未提供数据，暂时无法判断超买或超卖状态。投资者需密切关注未来的价格行为，以识别潜在的反转信号。\n\n支撑位方面，1.16078的低点是关键支撑，若跌破此位，可能会进一步下探至1.15950。阻力位则在1.163一线，若突破该阻力，则有望挑战更高的水平。交易者需在这些关键位进行观察，以制定相应策略。\n\n建议短期内保持观望，待价格确认突破信号后再考虑进场。若向上突破，可考虑逢低买入；若向下突破，则应考虑做空风险管理。保持灵活应对市场变化是当前的最佳策略。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently trading at 1.16098, showing a marginal increase of 0.01% over the last 24 hours. The price action remains constrained within a tight range, with the day's high and low recorded at 1.161 and 1.16078, respectively. This consolidation suggests a lack of strong momentum, indicating that traders are waiting for clearer signals. A breakout above the recent high could signal a bullish trend, while a drop below the low may prompt bearish sentiment.\n\nFrom a technical perspective, the absence of a clear RSI reading limits our ability to gauge overbought or oversold conditions. However, the negative MACD value of -0.00020224275 indicates that bearish momentum might be present, even if it is weak. The 20-period Simple Moving Average (SMA) at 1.16302 serves as a critical resistance level that the price must overcome to confirm upward momentum. Traders should monitor this SMA closely; a sustained move above it could lead to a rally towards higher resistance levels.\n\nKey support is identified around 1.160, which has proven to be a psychological barrier for the pair. A breach below this level may trigger further selling pressure, potentially targeting the next support at 1.158. Conversely, if the price can hold above this support and break the 20 SMA, traders may look for long positions, targeting the next resistance at 1.165 or higher. \n\nIn summary, the current market environment for EUR/USD presents a wait-and-see approach. Traders should remain vigilant for price movements that breach significant levels, as these will provide clearer directional signals. Employing stop-loss orders will be crucial to manage risk in this uncertain market landscape."
+    }
+  }
+}

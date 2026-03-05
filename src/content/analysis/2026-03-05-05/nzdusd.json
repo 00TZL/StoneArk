@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-03-05T05:13:07.303Z",
+  "price": {
+    "close": "0.59295",
+    "high": "0.59299",
+    "low": "0.59278",
+    "open": "0.59284",
+    "change": "0.02",
+    "datetime": "2026-03-05 16:00:00"
+  },
+  "indicators": {
+    "rsi": 53.31779,
+    "macd": 0.00066908264,
+    "macd_signal": 0.00080100904,
+    "sma20": 0.5928865
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：短线盘整略偏多",
+      "content": "纽元/美元目前维持在0.59295附近，价格接近20日均线0.59288650，显示短期走势处于均线附近震荡。价格波动幅度有限，高低点仅差0.00021，表明市场短线缺乏明确方向，但略偏多头格局。  \n\nMACD指标为0.00066908264，虽然信号线未提供，但正值表明短期多头动能存在，价格可能在均线附近试探上行空间。结合日内微幅上涨0.02%，短线动能偏向温和上涨，但仍需关注回调风险。  \n\n支撑位方面，可关注0.59278低点及20日均线附近0.59288位置，若跌破可能触发短期空方压力。阻力位则在0.59299高点附近，一旦突破，可打开短期上行空间。技术面显示，当前区间震荡为主，但偏向上行。  \n\n交易上建议短线操作以低多为主，逢低靠近支撑尝试小幅建仓，止损可设置在0.59270下方，目标可锁定在0.59310至0.59320附近。稳健策略为等待突破确认后再加仓，以降低震荡区间风险。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently trading at 0.59295, showing minimal movement over the past 24 hours. Price action is consolidating near the SMA(20) of 0.59288650, suggesting short-term indecision among traders. The narrow daily range between 0.59278 and 0.59299 indicates low volatility, often preceding a breakout. Overall, the immediate trend appears neutral, with the market balancing near a key moving average, which could act as a pivot for short-term direction in the coming sessions.  \n\nThe MACD reading of 0.000669 with the signal line unavailable hints at mild bullish momentum, but without a confirmed signal crossover, the strength remains uncertain. Traders should note that momentum indicators are not yet aligned, making aggressive positions riskier. If the MACD crosses above the signal line, it would suggest increasing upward pressure, whereas a rejection below zero could trigger short-term bearish activity. Monitoring the next few hours of momentum could clarify the likely directional bias.  \n\nKey support is observed near 0.59270, where recent lows have held, providing a potential floor for buyers. Resistance lies close to 0.59310, just above the current high, marking an area where sellers may step in. Breaches of these levels could define short-term swings: a break above resistance may open targets toward 0.59350, while a drop below support could test 0.59250 or lower. These levels are crucial for setting stop-losses or planning entries.  \n\nTrading strategies should emphasize caution in the current tight range. Short-term scalpers might benefit from buying near support and selling near resistance, while swing traders could wait for a decisive breakout with volume confirmation. Risk management is essential given the low volatility, and positions should be sized conservatively. Combining SMA observation with MACD signals can help confirm momentum shifts and avoid false breakouts, ensuring trades align with the evolving market structure."
+    }
+  }
+}

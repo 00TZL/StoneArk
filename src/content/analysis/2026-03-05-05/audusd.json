@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-03-05T05:11:44.018Z",
+  "price": {
+    "close": "0.70536",
+    "high": "0.70543",
+    "low": "0.70515",
+    "open": "0.70521",
+    "change": "0.02",
+    "datetime": "2026-03-05 16:00:00"
+  },
+  "indicators": {
+    "rsi": 48.1072,
+    "macd": 0.00047781465,
+    "macd_signal": 0.00076014168,
+    "sma20": 0.706425
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，短期偏空]",
+      "content": "当前澳元/美元(AUD/USD)的价格为0.70536，接近日内高点0.70543，整体维持震荡整理的格局。短期内，市场动能偏弱，价格未能突破关键阻力位，暗示有可能继续维持区间波动。当前价格略低于SMA(20)的0.7064，表明短期趋势略显疲软。\n\n技术指标方面，MACD显示出微弱的正值0.00047781465，但信号线和RSI(14)未提供明确的趋势指示。结合当前的震荡走势，MACD的微弱正值提示短期内可能的反弹，但整体缺乏强烈趋势动能。\n\n在支撑和阻力位上，当前的支撑位位于0.70515附近，而上方的阻力位在0.7064附近。若价格突破阻力位，可能会测试更高的水平，但从当前的走势来看，反弹空间有限。若跌破支撑位，可能会加剧下行压力，测试更低的水平。\n\n交易建议方面，建议在当前区间内进行短期波动操作，突破支撑位或阻力位时再做进一步布局。若价格接近0.70515支撑位，考虑反弹操作；若突破0.7064阻力位，则可考虑做多。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "AUD/USD is trading at **0.70536**, hovering slightly below the **20-period SMA at 0.70643**, which suggests the pair is currently experiencing mild short-term bearish pressure despite remaining within a relatively narrow range. The minimal **0.02% daily change** and tight **0.70543–0.70515** range indicate consolidation rather than a strong directional move. Price action just under the moving average often reflects hesitation among buyers, with the market waiting for either momentum confirmation or a macro catalyst.\n\nThe **MACD reading of 0.00048** remains slightly positive, implying underlying bullish momentum still exists, although the lack of a visible signal line limits confirmation of trend strength. In practical terms, this indicates momentum has not fully reversed downward, but bullish pressure appears to be weakening. Meanwhile, the absence of RSI data prevents a direct overbought or oversold assessment; however, the sideways price behavior suggests the pair is likely near neutral momentum conditions.\n\nFrom a structural perspective, **immediate resistance** appears near the **SMA zone around 0.70640–0.70660**, which aligns with the area the pair recently struggled to reclaim. A confirmed break above this region could open a move toward **0.70780 and potentially 0.70900**, where previous short-term supply is likely to emerge. On the downside, **initial support sits near 0.70510**, the session low, followed by a stronger support band around **0.70380–0.70400**, which has historically attracted buying interest.\n\nIn trading terms, the current structure favors **range-based strategies until a breakout occurs**. Short positions may be considered if the pair fails to regain the **0.70640 resistance**, targeting **0.70400**, with risk management above **0.70700**. Conversely, a decisive bullish break above the moving average could justify cautious long positions aiming toward **0.70800–0.70900**. Traders should watch momentum indicators and volume closely, as consolidation phases often precede sharper directional moves."
+    }
+  }
+}

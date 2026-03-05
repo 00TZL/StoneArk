@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-03-05T05:14:29.325Z",
+  "price": {
+    "close": "5175.74593",
+    "high": "5176.2787",
+    "low": "5170.98255",
+    "open": "5171.15364",
+    "change": "0.09",
+    "datetime": "2026-03-05 16:00:00"
+  },
+  "indicators": {
+    "rsi": 53.058701,
+    "macd": 0.77899055,
+    "macd_signal": -4.30791,
+    "sma20": 5161.69203
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理中]",
+      "content": "当前黄金/美元(XAU/USD)的价格为5175.74，呈现出震荡整理的趋势。近期价格在5170.98和5176.28之间波动，显示出市场缺乏明确的方向。虽然价格略微上涨0.09%，但整体走势仍然处于窄幅区间内，投资者应保持谨慎。\n\n从技术指标来看，当前未提供RSI和信号线数据，但MACD值为0.77899，显示出一定的上涨动能。20日简单移动平均线(SMA)在5161.69附近形成支撑，若价格回调至此水平，可能会吸引买入兴趣。若突破5176.28的阻力位，可能会引发更多的买盘。\n\n支撑位方面，5161.69为关键水平，一旦跌破，可能会引发进一步下探。而在阻力位方面，5176.28则是短期内的重要关口，突破后可能会加速上涨。综合考虑，建议投资者在支撑位附近寻找买入机会，同时在阻力位附近设置止盈策略，灵活应对市场波动。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current price of XAU/USD at 5175.74 reflects a slight upward movement of 0.09% over the past 24 hours, indicating a stable market environment. In this context, the recent high of 5176.28 suggests a resistance level that traders may watch closely, while the low of 5170.98 indicates a potential support level. Given the proximity of the current price to these levels, the market appears to be in a consolidation phase, leading to potential breakouts in either direction.\n\nThe absence of an RSI(14) value limits the analysis of momentum, though the MACD reading of 0.779 suggests a bullish sentiment in the short term. This positive MACD value could signify that buyers are gaining strength, especially if the price breaks above the resistance level of 5176.28. Additionally, the SMA(20) at 5161.69 indicates a support zone that may help cushion any downward movement, providing traders an opportunity to enter positions should the price retrace toward this average.\n\nTraders may consider a breakout strategy, looking for a confirmed move above the 5176.28 resistance level to initiate long positions, targeting higher levels if bullish momentum continues. Conversely, should the price dip below the support level of 5170.98, it may be prudent to evaluate short positions, especially if confirmed by volume and other indicators. Monitoring the MACD for potential divergences and the overall market sentiment will be crucial in guiding trading decisions.\n\nIn summary, the XAU/USD market is currently navigating a narrow range defined by key support and resistance levels. The bullish MACD and the proximity to the SMA suggest that traders should remain alert for opportunities. By balancing risk management with these technical indicators, traders can position themselves effectively in this evolving market landscape."
+    }
+  }
+}

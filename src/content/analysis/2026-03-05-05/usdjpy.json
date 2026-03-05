@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-03-05T05:10:55.202Z",
+  "price": {
+    "close": "157.1794",
+    "high": "157.18279",
+    "low": "157.10803",
+    "open": "157.12035",
+    "change": "0.03",
+    "datetime": "2026-03-05 16:00:00"
+  },
+  "indicators": {
+    "rsi": 51.32817,
+    "macd": -0.097901146,
+    "macd_signal": -0.12540706,
+    "sma20": 157.071309
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：当前区间震荡，短期偏向整理",
+      "content": "当前美元/日元在157.1794附近波动，近期市场处于震荡整理状态。从价格走势来看，短期内未显示明显的上涨或下跌动力，可能会在当前区间内整理。尽管波动较小，但短期内仍然可能维持在157.10至157.18之间波动。\n\n技术指标方面，RSI未给出有效信号，而MACD显示轻微负值，表明卖方的力量略强。然而，短期均线SMA(20)维持在157.07附近，价格未能显著突破此水平，显示出市场缺乏强烈的趋势动能。\n\n支撑位位于157.10附近，若价格跌破此位，可能会进一步回调至更低区间。阻力位则集中在157.18附近，若突破此阻力，价格可能出现反弹。当前区间内价格波动较小，因此，短期内关注这些关键支撑与阻力水平。\n\n交易建议方面，建议短线交易者在157.10附近寻找买入机会，止损设定在157.00下方。而在157.18附近则可考虑卖出，止损设置在157.25以上。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently exhibiting a neutral to slightly bullish short-term trend, with the latest price at 157.1794, marking a minor 0.03% increase in the last 24 hours. Despite this small movement, the pair remains within a narrow range, with the day’s high and low spanning just a few pips (157.18279 and 157.10803). The market seems indecisive, and the lack of significant price action indicates a potential period of consolidation. Traders should closely monitor whether the pair can break out of this range to establish a clearer trend.\n\nLooking at the technical indicators, the Relative Strength Index (RSI) is not available, which limits the ability to gauge overbought or oversold conditions. The MACD stands at -0.097901146, indicating a bearish momentum, but without the signal line, it’s difficult to determine the strength or potential reversal of this momentum. The absence of a defined crossover in MACD suggests that the market is in a waiting phase, with no strong directional bias. \n\nSupport levels can be identified around 157.10803, the low of the day, which may act as a key zone for potential buying interest if the price moves lower. If the pair manages to test this level and hold, it could provide a solid opportunity for a bullish bounce back toward higher resistance levels. The 20-period Simple Moving Average (SMA) at 157.071309 provides another potential support level, reinforcing the idea of a possible rebound if the price continues to fall. \n\nOn the upside, resistance appears to be near the high of the day at 157.18279. If the price manages to break through this level, it may signal the start of a further bullish move. Traders should remain cautious of market volatility, as the absence of clear bullish momentum makes it a potentially risky environment for aggressive long positions. A break above resistance could lead to further gains, while a sustained drop below support may suggest bearish potential."
+    }
+  }
+}
