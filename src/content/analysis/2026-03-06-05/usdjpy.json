@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-03-06T05:06:56.776Z",
+  "price": {
+    "close": "157.6801",
+    "high": "157.6911",
+    "low": "157.66413",
+    "open": "157.66413",
+    "change": "0.01",
+    "datetime": "2026-03-06 16:00:00"
+  },
+  "indicators": {
+    "rsi": 59.17122,
+    "macd": 0.079782461,
+    "macd_signal": 0.084538165,
+    "sma20": 157.56823
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：震荡偏多，短线有上行动能",
+      "content": "当前美元/日元维持在157.6801附近，日内波动幅度有限，仅0.01%，显示市场短线处于整理阶段。价格略高于20日简单均线(SMA20=157.56823)，表明多头力量仍在，但上行动能尚未完全释放，趋势呈现轻微偏多的震荡格局。  \n\nMACD指标当前为0.07978，虽缺乏完整信号线对比，但正值显示多头占优，市场短线有一定买入情绪。若RSI可用，将更直观反映超买或超卖状态，结合均线和MACD，可判断当前阶段为震荡整理后的轻微上行。  \n\n支撑位初步关注157.564附近，若价格下破该水平，多头动力可能受阻。阻力位在157.691及158.000附近，突破阻力有望形成进一步上涨空间。短线交易者可重点关注阻力和支撑区间的价格反应，以判断入场和止损位置。  \n\n交易策略上，建议偏向顺势操作，逢低可小量布局多单，止损控制在157.560以下；若价格快速突破157.691阻力，可考虑轻仓加码，目标关注158.000附近。但需警惕消息面和突发事件引发的短线波动，保持风险控制。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently trading at 157.6801, showing minimal movement over the past 24 hours. The narrow high-low range of 157.6911 to 157.66413 indicates market indecision, suggesting that buyers and sellers are nearly balanced. From a trend perspective, the pair appears to be consolidating slightly above its 20-period simple moving average of 157.56823, signaling mild bullish bias. Short-term momentum remains uncertain, with the negligible 0.01% daily change reinforcing the lack of strong directional conviction.  \n\nTechnical indicators offer a mixed picture. The MACD reading of 0.0798 suggests mild upward momentum, but the absence of a signal line limits the clarity of a potential crossover. The lack of RSI data restricts overbought or oversold analysis, yet the proximity of price to the SMA(20) implies the market is testing the short-term moving average as a support level. Traders should remain cautious, as a decisive move above recent highs could confirm upward momentum, while a dip below the SMA could trigger short-term selling pressure.  \n\nSupport and resistance levels are currently defined by recent price action. Immediate support sits near 157.564–157.568, closely aligned with the 20-period SMA, which may absorb selling pressure. Resistance is observed around 157.691–157.700, marking a level where previous attempts to break higher were met with supply. Breaching these zones could set the stage for the next short-term trend, with upside likely to extend toward 157.750 if buyers regain control, and downside potentially testing 157.500 if sellers intensify.  \n\nFor trading strategies, short-term participants may consider range-bound tactics while the pair consolidates, buying near support and taking profits near resistance. More aggressive traders could await a breakout above 157.700 for a continuation of bullish momentum or a breakdown below 157.564 for potential downside exposure. Risk management remains crucial given the limited volatility and tight trading range, emphasizing the importance of tight stops and clearly defined entry points in this environment."
+    }
+  }
+}

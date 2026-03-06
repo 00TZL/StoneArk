@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-03-06T05:07:39.395Z",
+  "price": {
+    "close": "0.70295",
+    "high": "0.70297",
+    "low": "0.70283",
+    "open": "0.70295",
+    "change": "-0.00",
+    "datetime": "2026-03-06 16:00:00"
+  },
+  "indicators": {
+    "rsi": 50.81252,
+    "macd": -0.00031122793,
+    "macd_signal": -0.00071882132,
+    "sma20": 0.702032
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：震荡整理，短期偏弱",
+      "content": "当前澳元/美元（AUD/USD）表现出震荡整理的格局，价格波动极小，且未能突破0.7030的阻力区。市场缺乏强烈的上涨或下跌趋势，短期内走势可能维持在0.7028到0.7030之间。若价格进一步下探，可能会看到更多的震荡整理。\n\n从技术指标来看，MACD目前为负值，表明短期内卖盘压力较大，但由于信号线尚未形成，未出现明显的卖出信号。RSI值暂无数据，这使得进一步的超买或超卖分析受到限制。SMA（20）位于0.7020附近，略低于当前价格，提示价格可能面临轻微的回调。\n\n支撑位方面，0.7028和0.7020是关键的短期支撑区域，若价格突破这些支撑位，可能会进一步下探。阻力位则位于0.7030和0.7050区间，一旦价格突破，可能会迎来短期反弹。整体看，当前市场情绪偏弱，缺乏强烈的买盘支持。\n\n建议在当前震荡市场中，适宜采用区间交易策略，关注支撑和阻力位的突破信号。如果价格跌破支撑位，可考虑短期卖出，而若突破阻力位，可能出现反弹机会。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar (AUD) against the US Dollar (USD) is showing signs of consolidation at the current level of 0.70295. The market has maintained a relatively neutral stance over the last 24 hours, with a slight change of 0.00%. The price action is contained within a narrow range, marked by the high of 0.70297 and the low of 0.70283. This suggests a lack of strong directional momentum, indicating market participants are in a wait-and-see mode, likely awaiting new catalysts to drive volatility.\n\nFrom an indicator standpoint, the lack of a clear RSI(14) reading and the absence of a distinct MACD signal suggest limited momentum in either direction. The MACD value of -0.00031 reflects a marginal bearish bias, though its current positioning does not indicate any strong selling pressure. This could imply that, while there is a slight downward bias, traders are hesitant to take strong positions. Without further confirmation from oscillators or other indicators, the trend remains neutral, and caution is advised in executing large trades.\n\nThe recent price action has respected the 0.70203 level, which aligns with the 20-period simple moving average (SMA). This level is acting as a dynamic support, with the market testing this zone multiple times without a significant break. On the upside, 0.70300 could act as the immediate resistance, which, if broken, may open the door to a further retest of 0.70500. Conversely, a sustained move below the SMA at 0.70200 would reinforce the bearish outlook, targeting the lower boundary near 0.70150.\n\nFor traders looking to enter the market, a range-bound strategy could be appropriate for the short term. Given the consolidation, buying near 0.70200 and selling around 0.70300 may offer profitable opportunities. However, caution should be exercised, and a confirmation break above or below the range would likely signal the next significant move. As the market lacks strong momentum, risk management should be emphasized."
+    }
+  }
+}

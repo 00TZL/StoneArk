@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-03-06T05:09:02.352Z",
+  "price": {
+    "close": "0.59056",
+    "high": "0.59068",
+    "low": "0.59038",
+    "open": "0.59045",
+    "change": "0.02",
+    "datetime": "2026-03-06 16:00:00"
+  },
+  "indicators": {
+    "rsi": 49.13515,
+    "macd": -0.00026492278,
+    "macd_signal": -0.00045062547,
+    "sma20": 0.590234
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：短期维持震荡偏多格局",
+      "content": "当前纽元/美元报价0.59056，价格接近20日简单移动平均线SMA(20)0.59023，显示短期均线对价格有支撑作用。整体波动幅度有限，24小时仅上涨0.02%，短线多空力量较为平衡，呈现轻微上行倾向。  \n\nMACD指标为-0.0002649，虽然仍处于零轴下方，但有企稳迹象，暗示短期下行压力有限。RSI数据缺失，但结合价格与SMA位置，可初步判断多头略占优势，市场暂无明显超买或超卖信号，适合关注震荡突破。  \n\n技术面支撑位在0.59020附近，与SMA重合，若价格跌破此水平，可能引发短线回调。阻力位则关注0.59068高点，突破后或带来进一步上行空间。波动幅度有限，交易者应谨防假突破。  \n\n交易策略上，建议短线投资者可在支撑附近尝试小仓位多单，止损设置略低于0.59020；激进交易者可关注高点阻力突破后的跟进机会，但需控制风险。总体来看，纽元/美元维持轻微偏多震荡格局，短期操作宜以稳健为主。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently hovering near 0.59056, showing minimal movement over the past 24 hours with a 0.02% increase. Price action suggests a short-term consolidation around the 0.5905 region, as the pair oscillates within a tight range between the daily high of 0.59068 and low of 0.59038. This sideways pattern indicates that market participants are in a wait-and-see mode, with neither buyers nor sellers asserting clear control. Traders should monitor whether a breakout above 0.5910 or a breakdown below 0.5900 develops, as this could signal the next directional move.  \n\nThe SMA(20) at 0.590234 has acted as a near-term dynamic support, with the latest price slightly above it, implying mild bullish pressure. Meanwhile, the MACD is negative at -0.0002649, which suggests underlying bearish momentum, although the absence of the signal line makes a full interpretation tentative. This divergence between the moving average support and negative MACD may reflect an indecisive market, highlighting potential choppiness in the short term. Traders should exercise caution and avoid aggressive positions until clearer momentum emerges.  \n\nKey support is observed near 0.5900, reinforced by the 20-period SMA, which could provide a floor for the pair in case of minor retracements. On the upside, resistance is found around 0.5910–0.5912, where previous price reactions indicate selling interest. A sustained break above this level could open a path toward 0.5920, while a failure to hold the 0.5900 support could see the pair test 0.5895 or lower. These levels should guide entry and exit points, especially for range-trading strategies.  \n\nGiven the current technical picture, short-term traders may consider limited long positions near support with tight stop losses, while momentum traders should wait for a decisive breakout above 0.5910 to confirm bullish continuation. Conversely, a breakdown below 0.5900 could favor short positions targeting intraday support levels. Overall, the pair is in a neutral consolidation phase with a bias toward cautious trading, emphasizing risk management and monitoring for momentum shifts."
+    }
+  }
+}

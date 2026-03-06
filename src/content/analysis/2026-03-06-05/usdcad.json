@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-03-06T05:08:20.534Z",
+  "price": {
+    "close": "1.36593",
+    "high": "1.3662",
+    "low": "1.36593",
+    "open": "1.36607",
+    "change": "-0.01",
+    "datetime": "2026-03-06 16:00:00"
+  },
+  "indicators": {
+    "rsi": 47.65247,
+    "macd": 0.00004838228,
+    "macd_signal": 0.00023175731,
+    "sma20": 1.3665
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：短线盘整偏弱",
+      "content": "美元/加元当前价格徘徊在1.3659附近，较日内高点1.3662几乎无变动，显示短线多空力量均衡。整体来看，价格低于20日均线1.3665，短期趋势偏弱，但跌幅有限，市场仍处于横盘整理阶段。  \n\n技术指标方面，MACD显示微弱正值0.000048382280，暗示多头略占优势，但缺乏明显趋势信号。RSI数据缺失，但结合价格接近均线的状态，可推测动能有限，多空双方处于观望状态。短期波动可能以区间震荡为主。  \n\n关键支撑位在1.3650附近，若跌破可能触发进一步下探压力；阻力位则在1.3665至1.3670区间，突破后或带来短线反弹机会。交易者应关注突破均线后的动能确认，避免追高杀低。  \n\n建议策略上，可采取区间内高抛低吸，短线关注支撑位附近做多，阻力位附近减仓或止盈，同时严格控制仓位和止损。若价格有效突破阻力或支撑，才考虑顺势跟进趋势操作。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently consolidating near the 1.3660 region after a marginal decline of 0.01% over the past 24 hours. The latest price at 1.36593 sits slightly below the 20-period SMA at 1.36650, suggesting mild short-term bearish pressure. Price action indicates indecision, as the daily high of 1.3662 was barely breached. Traders may interpret this sideways movement as a potential setup for either a continuation of the range or a breakout once volatility picks up.  \n\nFrom a technical perspective, the MACD reading at 0.00004838, though positive, is extremely close to zero, signaling a near-neutral momentum environment. The absence of a signal line value limits definitive crossovers, but the negligible divergence suggests that trend strength is weak. Without a confirmed RSI reading, momentum oscillators cannot provide additional clarity. Overall, the indicators point to a lack of decisive directional bias, reinforcing the view of short-term consolidation around the current price levels.  \n\nKey support is observed near 1.3655, a level where recent intraday candles have found buying interest. Immediate resistance is likely at 1.3665, aligned with the 20-period SMA, and further upside could be capped near 1.3670, a psychologically significant level. Should the price break below 1.3655 with momentum, a test of 1.3645 may occur. Conversely, a sustained push above 1.3665 could open the door toward 1.3675–1.3680, indicating renewed bullish sentiment.  \n\nTraders looking to engage may consider a cautious range-bound approach in the near term, buying near support with tight stops or selling near resistance if momentum confirms. Breakout traders should wait for confirmation above 1.3665 or below 1.3655 before entering positions, ideally coupled with volume or stronger momentum signals. Given the current narrow trading range and muted indicator signals, patience is advisable, as premature positions may face whipsaw risk in this low-volatility environment."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-03-06T05:05:31.289Z",
+  "price": {
+    "close": "1.16134",
+    "high": "1.16143",
+    "low": "1.16129",
+    "open": "1.16139",
+    "change": "-0.01",
+    "datetime": "2026-03-06 16:00:00"
+  },
+  "indicators": {
+    "rsi": 52.1733,
+    "macd": 0.000052415597,
+    "macd_signal": -0.00024071798,
+    "sma20": 1.16038
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[当前震荡行情，短期看震荡整理]",
+      "content": "当前欧元/美元(EUR/USD)的市场走势呈现震荡整理的状态。价格位于1.16134附近，全天变化幅度较小，仅有-0.01%。短期内价格未出现显著突破，可能继续在当前区间内波动。投资者应关注未来几天的走势变化，以确认是否出现明确的趋势。\n\n技术指标方面，RSI(14)未给出相关数值，无法判断超买或超卖状态，MACD值极为接近0，显示市场缺乏明显动能。SMA(20)处于1.16038，价格轻微上方，表明短期内市场依旧保持平稳，缺乏突破的信号。整体来看，市场维持在低波动区间内。\n\n支撑位约在1.16129附近，而阻力位则在1.16143附近，价格波动在这个区间内。若价格跌破1.16129，可能会进一步向下测试1.1600的支撑；若突破1.16143，则可能测试上方的1.1620区域。交易者应密切关注这些关键价格水平。\n\n建议短线交易者可以等待价格突破关键支撑或阻力位后再做决策。在此区间内做多做空风险较高，建议保持观望，直到市场出现明确的趋势信号。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently showing tight consolidation near 1.16134, with only a minor 24-hour change of -0.01%. This price action suggests the market is in a wait-and-see phase, with no clear directional bias at the moment. The recent price range between 1.16143 (high) and 1.16129 (low) confirms a relatively stable market. Traders should remain cautious until further momentum emerges. The proximity to the 20-period simple moving average at 1.16038 may act as an indication of support for the pair, with any close below this level signaling a potential move toward the next support zone.\n\nWithout an available RSI value and with the MACD showing a very slight positive reading, it is challenging to gauge overbought or oversold conditions. However, the MACD line above zero suggests slight bullish pressure in the short term. A rise in the MACD could indicate a potential buying opportunity if other indicators confirm this momentum. On the other hand, a sustained decline in MACD and a fall below the 1.16038 SMA could suggest bearish sentiment, which might lead to further testing of the 1.1590 support.\n\nKey support levels lie around the 1.1600 mark, aligning with the SMA(20), where a bounce could materialize if the pair remains above this level. Should the price dip further, a more substantial support zone could be found closer to 1.1585. Resistance levels are relatively close, with the high of 1.16143 potentially serving as an initial resistance point. A break above this could target the 1.1630 level, where further resistance may emerge.\n\nIn terms of trading strategy, it’s advisable to look for potential breakouts above 1.16143 for bullish momentum or wait for a confirmation of price stability near the 1.1600 mark for possible long trades. However, a failure to hold above 1.1600 could prompt short opportunities targeting 1.1585. Monitoring the MACD and price action near these levels is essential for refining entry and exit points."
+    }
+  }
+}

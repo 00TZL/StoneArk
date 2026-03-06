@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-03-06T05:10:22.681Z",
+  "price": {
+    "close": "5125.8644",
+    "high": "5129.58943",
+    "low": "5124.23799",
+    "open": "5128.54838",
+    "change": "-0.05",
+    "datetime": "2026-03-06 16:00:00"
+  },
+  "indicators": {
+    "rsi": 52.0082006,
+    "macd": -6.25269,
+    "macd_signal": -13.37598,
+    "sma20": 5107.65241
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短期横盘偏弱震荡",
+      "content": "当前黄金价格在 $5125.86$ 附近小幅回落，整体呈现横盘整理态势。日内波动有限，高低点差距约 $5.35$ 美元，显示多空力量暂时均衡，但微弱下行压力存在，短线趋势偏弱，投资者需关注突破信号确认方向。  \n\n技术指标方面，MACD负值显示空头略占优势，但信号线缺失增加判断难度。20日均线 $5107.65$ 稳步支撑价格，短期内可能形成回弹基点。RSI缺失导致超买超卖情况无法明确，交易决策需结合价格形态和均线支撑。  \n\n支撑位方面，可关注 $5107$ 附近的短期均线支撑和 $5100$ 整数关口；阻力位上看 $5130$ 和 $5140$ 区域，如突破则可能触发短期反弹。价格在阻力区未突破时，横盘震荡概率较高，谨慎控制仓位。  \n\n交易建议上，短线可考虑低位轻仓做多，止损设在 $5100$ 下方；高位则可尝试小幅空单，目标在 $5107-5110$ 区间。中线操作建议等待明确趋势信号或突破后再加仓，避免追涨杀跌带来的风险。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold is currently trading at $5125.86, showing minimal movement over the past 24 hours with a slight decline of 0.05%. Price action has remained confined between the intraday high of $5129.59 and low of $5124.24, suggesting a short-term consolidation phase. The proximity of the current price to the 20-period simple moving average at $5107.65 indicates mild bullish support, as the SMA continues to act as a dynamic floor, reflecting the recent upward momentum from prior sessions.  \n\nAlthough the RSI value is unavailable, the negative MACD reading of -6.25 implies underlying bearish momentum, albeit with limited strength. The absence of the signal line prevents a full crossover assessment, but the negative divergence between price and MACD hints at potential pressure on gold in the near term. Traders should monitor for a MACD uptick toward the zero line, which would signal the re-emergence of bullish energy. Until then, caution is advised when considering long positions.  \n\nImmediate support lies near $5124, coinciding with the intraday low, while stronger psychological support can be found around $5100, a level reinforced by the SMA. Resistance is positioned at $5130, with a more significant hurdle at $5150, where prior supply zones and reversal points exist. Breaking above $5150 would open the door for an extension toward $5170, whereas a failure to hold $5100 could see prices drift back to $5075.  \n\nTrading strategies should remain adaptive, favoring short-term scalps or swing trades within the $5124–$5130 range. Conservative traders may wait for confirmation of a breakout above $5130 for long exposure, targeting $5150–$5170, or consider shorting on a confirmed breakdown below $5100 with a stop above $5125. Risk management is crucial, given the tight consolidation and mixed signals from MACD and price positioning relative to the SMA."
+    }
+  }
+}
