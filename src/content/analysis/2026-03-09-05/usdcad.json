@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-03-09T05:19:16.282Z",
+  "price": {
+    "close": "1.3552",
+    "high": "1.3555",
+    "low": "1.35464",
+    "open": "1.35531",
+    "change": "-0.01",
+    "datetime": "2026-03-09 16:00:00"
+  },
+  "indicators": {
+    "rsi": 33.72084,
+    "macd": -0.00023356252,
+    "macd_signal": 0.00016847615,
+    "sma20": 1.35766
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理，短期偏空]",
+      "content": "目前美元/加元（USD/CAD）价格为1.3552，24小时变化接近零，显示出市场的谨慎情绪。价格在1.35464与1.3555之间波动，暗示短期内市场处于震荡整理阶段。该区间未出现明确的突破，可能延续横盘走势。\n\n从技术指标来看，MACD值为-0.00023，尚未显现明显的买卖信号，市场可能缺乏动能。此外，20日简单移动平均线（SMA）位于1.35766，形成轻微的下行压力。价格未能突破这一均线，表明短期内存在下行风险。\n\n支撑位位于1.3546附近，一旦价格跌破该水平，可能会加剧卖压，测试更低的支撑区间。阻力位则在1.3576附近，若价格重新突破该点位，可能会引发反弹走势。因此，交易者可关注价格在支撑和阻力间的波动。\n\n基于当前的震荡走势，建议保持谨慎态度，待价格突破关键技术水平后再作进一步决策。短期内建议偏向看空，寻找卖出机会，但须留意突破时的风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently in a narrow consolidation phase, with the latest price at 1.3552. This range-bound behavior suggests indecision in the market, with neither buyers nor sellers gaining full control. The price is oscillating near the recent low of 1.35464, which may indicate that a support level is holding. A break below this level could lead to further downward movement, testing the next key support at 1.3520. Alternatively, the proximity to the 1.3555 high could suggest potential resistance, indicating that a failure to break above this point might lead to further consolidation or downside pressure.\n\nIn terms of technical indicators, the lack of a clear RSI value and the modest MACD value of -0.00023 suggest that momentum is weak at the moment. The absence of an RSI reading makes it challenging to assess overbought or oversold conditions, but the negative MACD implies a slight bearish bias, signaling that momentum is currently favoring the downside. The market may remain range-bound unless there is a catalyst, such as a break through key support or resistance levels, to trigger a more definitive trend.\n\nThe 20-period Simple Moving Average (SMA) currently sits at 1.35766, slightly above the current price, suggesting that the short-term trend is mildly bearish. If the price continues to trade below the SMA, it may reinforce this bearish sentiment, with the SMA acting as dynamic resistance. A breakout above this level could signal a shift in sentiment, allowing for a potential move toward higher levels, possibly targeting 1.3600.\n\nGiven the current market structure, traders may consider short positions near 1.3555 with a target at the support level around 1.3540. Conversely, if the price breaks above the SMA, long positions could be considered, with stops placed below 1.3540 for risk management. A clear trend would likely emerge with either a break below support or a move past resistance."
+    }
+  }
+}

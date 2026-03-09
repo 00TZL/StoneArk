@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-03-09T05:17:06.285Z",
+  "price": {
+    "close": "1.33063",
+    "high": "1.33104",
+    "low": "1.32974",
+    "open": "1.32979",
+    "change": "0.06",
+    "datetime": "2026-03-09 16:00:00"
+  },
+  "indicators": {
+    "rsi": 27.84471,
+    "macd": -0.0029077024,
+    "macd_signal": -0.0023655455,
+    "sma20": 1.33554
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：短期横盘偏弱",
+      "content": "当前英镑/美元价格维持在1.3306附近，接近日内低点1.3297，显示短期多头动力有限。价格低于20日均线1.3355，表明整体短期偏空，但波动幅度不大，市场仍呈横盘整理特征。  \n\nMACD指标为负值-0.0029，虽未提供信号线，但负值显示下行动能仍存在，短线可能延续震荡偏弱趋势。缺少RSI参考，需关注超买或超卖区域的确认，以防快速反弹或回调。  \n\n关键支撑位在1.3295附近，若跌破则可能触发进一步下探；阻力位在1.3355附近，与20日均线重合，是短线空头回补压力区。盘面震荡明显，价格在支撑和阻力之间震荡概率较高。  \n\n交易上建议以区间操作为主，短线可在支撑附近逢低做多，目标上看阻力区域；若价格突破均线或支撑位，可顺势跟进趋势单。风险控制应关注每日波动和重要经济数据发布，严格设置止损位置。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently in a narrow consolidation phase, trading around the 1.33063 mark. The price has remained relatively stable, with a 24-hour change of just 0.06%. This indicates that there is a lack of strong directional momentum at the moment. The pair is testing its immediate support and resistance levels, which are found near 1.32974 and 1.33104, respectively. The market’s indecision could be attributed to the absence of major economic news or market drivers today.\n\nThe absence of the RSI data makes it difficult to fully gauge the momentum of the current price action. However, the MACD at -0.0029 suggests a slightly bearish sentiment, as the value is below the zero line. While this doesn’t indicate a significant downward trend, the negative MACD could signal weak bullish momentum, potentially leading to a slight decline if the pair fails to break the resistance at 1.33104. For a more pronounced move, the market will need to either breach key resistance or support.\n\nThe 20-period simple moving average (SMA) at 1.33554 has been a significant point of resistance recently. A move above this level could indicate a shift towards a more bullish bias in the medium term. If GBP/USD holds below this level, we may see further attempts to retest the lower support zone around 1.32974. A break below 1.32974 could open the door for further downside, with 1.32700 acting as the next key support level.\n\nTraders should watch for a potential breakout either above 1.33104 to target 1.33554 or below 1.32974 for a bearish continuation. Until then, the market may remain in a sideways range, presenting opportunities for short-term scalping or range-bound trades. Maintaining tight stop losses is essential given the current market indecision."
+    }
+  }
+}

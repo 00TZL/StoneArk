@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-03-09T05:20:01.496Z",
+  "price": {
+    "close": "0.58789",
+    "high": "0.58837",
+    "low": "0.58685",
+    "open": "0.58716",
+    "change": "0.13",
+    "datetime": "2026-03-09 16:00:00"
+  },
+  "indicators": {
+    "rsi": 48.84199,
+    "macd": -0.00072960422,
+    "macd_signal": -0.00077489247,
+    "sma20": 0.5880415
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理中]",
+      "content": "当前纽元/美元(NZD/USD)价格处于0.58789附近，整体呈现震荡整理的走势。从价格表现来看，短期内市场波动较小，波动区间在0.58685至0.58837之间，缺乏明显的突破迹象，表明当前市场情绪较为谨慎。\n\n技术指标方面，MACD处于负值区间，显示出市场的卖压略强，但由于信号线数据缺失，短期内趋势难以确定。SMA(20)位于0.58804，若价格突破这一水平，可能会出现进一步上涨的动能。然而，目前RSI值缺失，无法提供超买或超卖的直接信号。\n\n支撑位方面，0.58685为短期关键支撑水平，一旦跌破，可能加剧下行压力。阻力位则在0.58837附近，若价格突破此处，将迎来更大的上涨潜力。当前，价格保持在这两个关键水平之间，表明市场处于区间震荡整理阶段。\n\n建议投资者在此区间内采取观望策略，等待价格突破支撑或阻力位后再做决策。如果价格突破0.58837，可能会考虑做多，若跌破0.58685则考虑做空。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The New Zealand Dollar (NZD) against the US Dollar (USD) is currently in a tight consolidation phase, with the price hovering around the 0.58789 mark. Over the past 24 hours, the pair has experienced a modest change of +0.13%, indicating a lack of strong directional movement. This neutral behavior suggests the market is uncertain, possibly awaiting a catalyst. The high of 0.58837 and low of 0.58685 provide a narrow range, reinforcing the idea of price stabilization within these levels. However, this sideways price action is not uncommon in markets that are either awaiting economic news or key events.\n\nLooking at the SMA(20) at 0.58804, the market remains slightly below this level, indicating a minor bearish bias. Typically, when prices stay below the SMA, it suggests that sellers have a slight edge in the market. The MACD is in negative territory at -0.00073, confirming the bearish sentiment, but the lack of a clear signal line adds ambiguity. A sustained break below 0.58685 could extend the selling momentum, targeting further support levels, while a move above 0.58837 would suggest a shift in market sentiment.\n\nSupport is currently seen around the 0.58685 level, which has acted as a floor in recent trading. A breakdown below this could open the door to further downside potential, with the next significant support likely near the 0.58500 region. On the resistance side, 0.58837 stands as the immediate hurdle, and any breach of this level would indicate possible strength toward the 0.59000 mark. Traders should look for confirmation of these breaks with volume and price action to gauge the sustainability of any move.\n\nGiven the current indicators, a range-bound trading strategy seems prudent for now. Short-term trades between the support at 0.58685 and resistance at 0.58837 can be profitable, but a breakout above or below these levels would signal stronger momentum. Active monitoring of market developments and key economic data will be essential for refining entry and exit points."
+    }
+  }
+}

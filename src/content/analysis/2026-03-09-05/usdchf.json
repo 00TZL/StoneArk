@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-03-09T05:20:48.742Z",
+  "price": {
+    "close": "0.78031",
+    "high": "0.78081",
+    "low": "0.78001",
+    "open": "0.78074",
+    "change": "-0.06",
+    "datetime": "2026-03-09 16:00:00"
+  },
+  "indicators": {
+    "rsi": 60.57852,
+    "macd": 0.0010868337,
+    "macd_signal": 0.00093447074,
+    "sma20": 0.7790155
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：短线震荡偏多，关注上方突破动能",
+      "content": "当前美元/瑞郎报价0.78031，日内波动区间较窄，整体呈现低位震荡整理格局。从价格结构看，汇价运行在20日均线0.7790上方，说明短期买盘力量仍略占优势。若价格继续稳固于均线之上，短线趋势仍有望维持温和上行节奏。\n\n技术指标方面，MACD数值为0.00108，处于零轴附近偏上区域，显示多头动能尚未明显释放，但市场仍保持一定上行动力。RSI数据暂缺，但从价格动能观察，当前属于整理蓄势阶段，若成交量配合，后续可能出现方向性突破。\n\n关键支撑位首先关注0.7790附近的20日均线，其次为日内低点0.7800关口，一旦跌破该区域，短线可能回测0.7775一线。上方阻力位关注0.7810附近，其次为0.7830区域，若有效突破，则有望进一步测试0.7850附近压力。\n\n交易策略上，短线交易者可关注0.7790—0.7800区间的支撑表现，若价格回踩不破并出现企稳信号，可考虑轻仓顺势做多，目标看向0.7830附近；若跌破0.7790，则短线趋势可能转弱，建议暂时观望或等待更低位置重新布局。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently trading at 0.78031, with a minimal 24-hour change of -0.06%. This slight decline suggests a relatively neutral market sentiment, as the pair remains within a narrow range. The high and low for the day, 0.78081 and 0.78001, demonstrate limited volatility. Despite this, the pair remains close to the recent 20-period simple moving average (SMA) at 0.77901550, indicating a consolidation phase. This implies that price is likely seeking direction, with a balance between buyers and sellers.\n\nWithout the RSI data, the trend momentum is harder to assess, but we can infer a lack of strong upward or downward pressure. The MACD value of 0.0010868337 suggests a slight bullish bias, as it remains above the zero line. However, the absence of a clear signal line complicates the picture. Traders should look for a crossover or a confirmed trend shift in the MACD for more precise entry points. At present, this data points to a relatively sideways market, making it important to watch for any breakouts or reversals.\n\nKey support lies at 0.78001, the low of the day, which is a level to monitor closely. A drop below this level could indicate bearish momentum, with potential for a move towards 0.7790 or lower. Resistance is situated at 0.78081, the high of the day, which could offer short-term resistance. A breakout above this could pave the way for further upside, potentially reaching 0.7815 or higher. Watch for any price action near these levels to gauge the next move in the pair.\n\nGiven the current market conditions, a cautious approach may be advisable. Traders should wait for confirmation of trend direction, such as a solid move above 0.78081 or below 0.78001, supported by key indicators like MACD crossovers. A breakout or breakdown from these levels could provide clearer trading opportunities."
+    }
+  }
+}

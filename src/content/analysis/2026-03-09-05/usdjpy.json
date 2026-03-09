@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-03-09T05:17:48.388Z",
+  "price": {
+    "close": "158.69914",
+    "high": "158.77181",
+    "low": "158.67175",
+    "open": "158.72782",
+    "change": "-0.02",
+    "datetime": "2026-03-09 16:00:00"
+  },
+  "indicators": {
+    "rsi": 78.082653,
+    "macd": 0.25947681,
+    "macd_signal": 0.1875079,
+    "sma20": 158.16303
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：当前震荡走势，等待突破信号",
+      "content": "当前美元/日元在158.70附近震荡整理，整体呈现横盘震荡走势。虽然价格小幅波动，但未出现明显的上行或下行趋势。短期内，市场似乎处于整理状态，投资者需关注是否会有突破动向。\n\n技术指标方面，RSI(14)暂未提供数据，而MACD为正值0.259，表明短期内多头力量略强，但缺乏足够的动能确认趋势反转。SMA(20)位于158.16附近，作为支撑位，若价格回调至此区域，可能会受到支撑，推动反弹。\n\n从支撑与阻力的角度来看，当前的关键支撑位为158.67，而阻力位则位于158.77附近。如果价格突破阻力位，可能会进一步上涨，向159.00区间进发。相反，若跌破支撑位，价格可能会向158.00区间回落。\n\n交易建议方面，建议投资者在短期内保持观望，等待价格突破关键的支撑或阻力位后再进行交易。若价格突破158.77可考虑做多，若跌破158.67则可考虑做空。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently showing a slight negative movement with a 24-hour change of -0.02%, which reflects a relatively neutral sentiment in the market. The price has been trading between a high of 158.77 and a low of 158.67, indicating tight price action within a narrow range. This lack of significant movement suggests that the pair is consolidating after a recent push, with no clear direction in the short term.\n\nIn terms of technical indicators, the RSI(14) is unavailable, but the MACD reading at 0.259 indicates some bullish momentum, though it is not overwhelming. Without the Signal line data, it is difficult to assess if there is a divergence or a potential reversal setup. The absence of the Signal line in the MACD also limits the reliability of this indicator for making precise trading decisions at this moment. Traders may want to wait for further confirmation before relying on this signal.\n\nSupport for USD/JPY lies around 158.67, which marks the lower end of its recent range. A break below this level could see the pair testing deeper support levels, with 158.16—represented by the 20-period SMA—acting as a key point to watch. On the upside, resistance is seen at the 158.77 high, and any break above this level could encourage further upward movement, especially if there is an increase in bullish momentum.\n\nGiven the current market dynamics and the tight range, the best approach might be to wait for a breakout or a more defined trend. A close above 158.77 could signal a potential buy, while a drop below 158.67 might indicate a selling opportunity. Until these levels are breached, trading in this narrow range could be considered."
+    }
+  }
+}

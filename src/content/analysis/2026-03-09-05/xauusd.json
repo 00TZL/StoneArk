@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-03-09T05:21:31.595Z",
+  "price": {
+    "close": "5090.13515",
+    "high": "5101.4844",
+    "low": "5080.36932",
+    "open": "5089.48719",
+    "change": "0.01",
+    "datetime": "2026-03-09 16:00:00"
+  },
+  "indicators": {
+    "rsi": 31.70339,
+    "macd": -22.71354,
+    "macd_signal": -16.29621,
+    "sma20": 5137.29767
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[市场处于震荡整理阶段]",
+      "content": "当前黄金/美元（XAU/USD）价格在5090.13附近，短期内呈现震荡整理的走势。价格在24小时内仅变化0.01%，未显著突破高点5101.48或低点5080.37，显示市场目前缺乏明显的方向性。总体而言，当前市场缺乏足够的动能，可能在这一区间内继续震荡整理。\n\n从技术指标来看，RSI(14)未提供数据，而MACD为负值（-22.71），表明短期内市场可能偏空。MACD的负值通常暗示着市场动能较弱，卖方占优。但需注意，MACD信号线缺失，使得这一信号不够明确。此外，SMA(20)位于5137.30，价格当前远低于此均线，显示出一定的下行压力。\n\n在支撑位方面，5080.37可作为短期支撑，若价格跌破此位，可能进一步测试5050附近的更强支撑。上行阻力则位于5100和5130附近，若价格突破这些阻力位，可能迎来短期反弹。交易者应关注这些关键价格区间，调整止损策略。\n\n建议保持观望，直到价格突破震荡区间的上下限。如果价格突破5100上行，考虑轻仓做多；如果价格跌破5080，则可以考虑做空操作，但需谨慎控制风险。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD pair currently remains range-bound, showing limited volatility with a slight 24-hour change of 0.01%. The price is trading near the low end of the recent range, which has established support at 5080.37. This support level has held firm, indicating some buying interest at these levels. However, the pair remains well below its recent high of 5101.48, signaling the absence of significant bullish momentum. The market is in a consolidation phase, suggesting indecision among traders.\n\nThe MACD indicator at -22.71 suggests bearish pressure, though without a clear signal line, it leaves uncertainty about the continuation of the downside momentum. This negative reading implies that sellers are currently in control, but there isn't strong downward momentum to drive the price lower. Traders may want to watch for a possible crossover or a shift in MACD behavior, which would give a clearer direction on the market's next move. The lack of an RSI reading adds to this ambiguity, making other indicators like price action crucial for decision-making.\n\nThe SMA(20) at 5137.30 presents a key dynamic for traders. The fact that the current price is well below this moving average suggests a bearish short-term outlook. If the price attempts to rally, the SMA(20) could act as resistance, likely pushing the price back down toward the lower levels. Traders should focus on price action near this level, as a breakout or failure to break above the SMA could offer trading signals in either direction.\n\nConsidering the current trend and indicators, traders should be cautious. A short position near resistance or within the range of 5100-5137 could be viable if the price fails to break above the SMA(20). Conversely, if the price rebounds off support at 5080.37, long positions could be considered, with careful monitoring for further bullish signs. Overall, the market remains neutral with a slight bearish bias."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-03-09T05:18:33.223Z",
+  "price": {
+    "close": "0.69994",
+    "high": "0.70045",
+    "low": "0.69892",
+    "open": "0.69931",
+    "change": "0.09",
+    "datetime": "2026-03-09 16:00:00"
+  },
+  "indicators": {
+    "rsi": 46.10311,
+    "macd": -0.0010739525,
+    "macd_signal": -0.0010926517,
+    "sma20": 0.700481
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，短期略偏弱]",
+      "content": "当前澳元/美元在0.69994附近震荡整理，价格波动较小。尽管短期内未见明显趋势形成，但市场处于区间内波动，反映出投资者对未来方向的不确定性。近期价格接近0.7000心理关口，可能继续受到这一水平的支撑或阻力影响。\n\n技术指标方面，MACD呈现负值，显示出市场的疲弱，短期内可能没有强烈的买盘力量。SMA(20)为0.70048，略高于当前价格，显示出价格略微偏离均线，进一步暗示价格在短期内有下行风险。由于RSI数据缺失，无法提供额外的超买或超卖信号。\n\n从支撑和阻力来看，当前价格的支撑位约在0.69892，而阻力位则在0.70045附近。若价格跌破支撑位，可能进一步考验0.6970水平。而突破0.70045，则可能出现短期反弹，但突破后的上行空间有限。\n\n交易建议上，考虑到当前震荡整理的局面，建议观望或采用区间交易策略。短期内可关注0.69892支撑和0.70045阻力的突破情况，适当采取反弹卖出或突破买入的策略。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar (AUD) against the US Dollar (USD) is currently experiencing a sideways movement, with the price hovering near 0.69994. This level shows moderate resistance, as evidenced by the recent high of 0.70045, which has held firm over the past 24 hours. The market appears to be consolidating between 0.69892 and 0.70045, indicating a lack of strong directional momentum. This suggests a neutral market environment, where traders are awaiting further catalysts to drive movement in either direction.\n\nLooking at key technical indicators, the price is trading slightly below the 20-period Simple Moving Average (SMA) of 0.700481, which often suggests a mild bearish bias in the short term. The absence of a clear Relative Strength Index (RSI) reading makes it difficult to assess overbought or oversold conditions. However, the MACD line at -0.00107 is indicative of a weak bearish momentum, but without a signal line for cross-confirmation, it remains inconclusive for immediate trading decisions. \n\nSupport levels are located near the lower boundary of the current range at 0.69892, which could act as a potential buy zone if the market tests this level again. A break below this support could open the door for further downside movement, targeting 0.69750 or even 0.69500. On the resistance side, 0.70045 serves as a crucial barrier. If the price breaks above this level, it could trigger a move towards 0.70200, with a further push potentially testing 0.70500.\n\nFor traders, the best approach would be to wait for a breakout above 0.70045 or a breakdown below 0.69892 for a clearer directional signal. A range-bound strategy can be employed for short-term traders, utilizing these levels for entry and exit points. Long positions near support and short positions near resistance are recommended while monitoring for any significant changes in the broader market sentiment or economic news that may influence AUD/USD."
+    }
+  }
+}

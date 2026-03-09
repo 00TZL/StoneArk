@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-03-09T05:16:21.603Z",
+  "price": {
+    "close": "1.15327",
+    "high": "1.1537",
+    "low": "1.1525",
+    "open": "1.15265",
+    "change": "0.05",
+    "datetime": "2026-03-09 16:00:00"
+  },
+  "indicators": {
+    "rsi": 31.80314,
+    "macd": -0.002499003,
+    "macd_signal": -0.0021281187,
+    "sma20": 1.15689
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：震荡整理，暂无明确方向",
+      "content": "当前欧元/美元价格为1.15327，表现出一定的震荡整理态势。价格接近短期SMA(20)的支撑位1.15689附近，若未能有效突破此点位，可能继续维持震荡区间，且未有强烈的上升或下降信号。市场波动较小，24小时变化仅为0.05%。\n\n从MACD来看，目前处于负值区域（-0.0025），这意味着短期内多头力量较弱，且信号线数据缺失，无法提供明确的买卖信号。RSI数据缺失，无法进一步确认超买或超卖状态，因此对短期走势的判断较为模糊。\n\n支撑位方面，价格在1.1525附近有较强支撑。若跌破此点位，可能进一步测试1.1500关口。而上行阻力位则位于1.15689（SMA 20）附近，突破该位可能会迎来新的上涨动力。\n\n建议短期交易者保持观望，等待价格突破1.15689上行或跌破1.1525下行的明确信号再做决策。在区间内操作时，适宜短线交易并设好止损，避免大幅波动造成的风险。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD is currently hovering around 1.1533, reflecting a period of consolidation within a narrow 24-hour range between 1.1525 and 1.1537. The pair appears to be in a short-term sideways phase, with the latest price slightly below the 20-period simple moving average of 1.1569, suggesting minor bearish pressure. Market momentum seems muted, and without a confirmed RSI reading, it is difficult to gauge overbought or oversold conditions, but the limited price movement indicates equilibrium between buyers and sellers.\n\nThe MACD value at -0.0025, though slightly negative, implies that bearish momentum is present but weak. The absence of a signal line reading prevents a complete crossover analysis; however, the negative MACD suggests that recent selling pressure may still be in play. Traders might monitor for a potential MACD crossover below zero, which could reinforce short-term bearish sentiment. Until a clear divergence or convergence forms, the pair is likely to continue oscillating near its current levels.\n\nKey support can be identified around 1.1520, slightly below the recent low, providing a buffer against further declines. Resistance sits near 1.1569, coinciding with the 20-period SMA, which may act as a ceiling for upward movement. Breaching either level could define the next directional bias: a break below support might accelerate selling, whereas a decisive move above the SMA could signal renewed buying interest and a test of 1.1580–1.1600 in the near term.\n\nFrom a tactical perspective, traders could adopt a range-bound strategy, buying near support with tight stops and considering short positions near the 20-period SMA, provided momentum remains subdued. For breakout-focused participants, confirmation above 1.1570 or below 1.1520 with volume would offer higher-probability entries. Overall, cautious positioning with attention to key technical levels is recommended, as the market currently reflects indecision and low volatility, limiting aggressive directional bets."
+    }
+  }
+}
