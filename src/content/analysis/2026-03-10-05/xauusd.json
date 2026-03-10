@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-03-10T05:11:14.527Z",
+  "price": {
+    "close": "5168.65674",
+    "high": "5169.51426",
+    "low": "5163.66505",
+    "open": "5163.66505",
+    "change": "0.09",
+    "datetime": "2026-03-10 16:00:00"
+  },
+  "indicators": {
+    "rsi": 60.11777,
+    "macd": 12.51688,
+    "macd_signal": 6.34931,
+    "sma20": 5127.35068
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理，待突破确认趋势]",
+      "content": "当前黄金/美元(XAU/USD)价格呈现震荡整理的走势。最新价格维持在5168.66附近，24小时波动幅度较小，仅为0.09%。高低点区间在5169.51至5163.67之间，说明市场暂无明确的趋势方向。若突破当前区间的高点，可能会引发上行动能，反之，跌破低点则有可能开启下行趋势。\n\n从技术指标来看，RSI(14)尚未提供数据，无法进一步分析市场超买或超卖的情况。MACD当前值为12.52，但信号线数据缺失，意味着短期动能没有明确的方向。SMA(20)为5127.35，价格位于均线之上，支撑位大致在5127附近。如果价格跌破此位，可能会考验更低的支撑区间。\n\n在支撑位方面，5127.35是关键支撑，若价格跌破该水平，可能会进一步测试5100附近的支撑。而在阻力位方面，5169.51是近期的压力区，突破此位有望进一步上涨，挑战5200以上的区域。市场目前处于区间震荡整理中，建议投资者关注价格突破支撑或阻力后的动向，择机操作。\n\n交易建议上，建议在价格突破5169.51时考虑顺势做多，而若跌破5127.35，则可以考虑短期做空，止损位设置在相应的反向突破点。保持谨慎并灵活调整仓位。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD market is currently showing a slight bullish bias, as the price has been hovering just above the key $5160 level. With the latest price standing at $5168.65, it reflects a 0.09% increase over the past 24 hours, suggesting some positive sentiment in the market. The price has reached a recent high of $5169.51 and a low of $5163.67, forming a narrow trading range. The market’s current behavior indicates a cautious upward momentum, supported by the SMA(20) at $5127.35, which suggests that the short-term trend remains bullish.\n\nAlthough the Relative Strength Index (RSI) data is unavailable, the Moving Average Convergence Divergence (MACD) at 12.52, combined with the lack of a clear signal line, could indicate a weakening bullish momentum. This presents an opportunity for traders to observe if the price can maintain its support above $5160. A failure to break past the recent highs could signal a potential consolidation phase or a minor pullback. It’s important to keep an eye on volume and broader market conditions, especially if any volatility from USD data or geopolitical events arises.\n\nThe support level around $5160 remains critical, and a bounce from this level could provide buying opportunities. If the price fails to hold above this level, the next support is likely near the $5150 range. On the upside, resistance is observed near the high of $5169.50, with a possible move toward $5180 if bullish momentum strengthens. Traders might consider waiting for a break above $5170 for a more confident long position or a pullback to $5150 for potential support entry.\n\nIn conclusion, with the price near key levels of support and resistance, traders should remain cautious and look for clear breakouts or reversals. If the price breaks above $5170 with strong volume, a bullish strategy could be considered, but any pullback to the $5150-$5160 zone offers favorable risk-reward opportunities for buying. As always, monitoring the broader USD trend and potential changes in gold’s macroeconomic outlook is essential for making informed decisions."
+    }
+  }
+}

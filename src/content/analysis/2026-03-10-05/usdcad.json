@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-03-10T05:09:06.811Z",
+  "price": {
+    "close": "1.3589",
+    "high": "1.35923",
+    "low": "1.3588",
+    "open": "1.35903",
+    "change": "-0.01",
+    "datetime": "2026-03-10 16:00:00"
+  },
+  "indicators": {
+    "rsi": 55.3429,
+    "macd": 0.00061788433,
+    "macd_signal": 0.00047338402,
+    "sma20": 1.35788
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[市场处于窄幅震荡，关注支撑与阻力区间]",
+      "content": "当前美元/加元价格在1.3589附近，表现出窄幅震荡走势。24小时内的变动仅为-0.01%，表明市场缺乏强烈的趋势信号。高点与低点区间紧密，显示出市场在小范围内波动，短期内没有明确的方向。\n\n技术指标方面，RSI和MACD的指标未完全反映出市场的强势或弱势，RSI缺失，而MACD接近零线，表明市场动能相对较弱。SMA(20)处于1.35788附近，略低于当前价格，显示出短期内有轻微的上涨倾向，但整体趋势仍不明朗。\n\n从支撑与阻力角度看，当前价格接近1.3588-1.3592区间，此为近期高低点区域，建议关注该区间的突破情况。如果价格突破上方阻力位1.3592，可能会进一步测试1.3605附近的高位；反之，如果跌破支撑位1.3578，可能会考验1.3565的下行空间。\n\n交易建议上，短期内可考虑在1.3588附近进行区间交易，逢高做空、逢低做多。但若价格突破支撑或阻力位，则应随市场波动调整交易策略。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is showing a subdued intraday movement, with the latest price hovering around 1.3589. Price action remains close to the 20-period simple moving average at 1.35788, indicating a lack of strong directional momentum. The minor 24-hour change of -0.01% further emphasizes market indecision. Traders should note that such tight consolidation near the SMA often precedes a breakout, so monitoring price action around key levels could provide early clues for potential directional shifts.  \n\nFrom an indicator perspective, the MACD value of 0.000618 is slightly positive, hinting at modest bullish pressure, although the absence of a signal line limits confirmation. Without an RSI reading, momentum assessment is incomplete, but the proximity to the SMA suggests the market is neither overbought nor oversold. The combination of a near-flat MACD and price oscillating around the SMA indicates a cautious environment where aggressive positions may carry higher risk.  \n\nSupport appears near 1.3580, a level tested intraday and reinforced by the recent low of 1.3588. Resistance is evident around 1.3592, coinciding with the day’s high. These tight boundaries reflect a narrow trading range, and a decisive break above resistance could target 1.3600, while a drop below support may expose 1.3565. Range-bound traders might focus on scalps between these levels, while breakout traders could await a confirmed move with higher volume.  \n\nShort-term strategies could favor careful entries near support with stops slightly below 1.3580, and profit targets near 1.3592. Conversely, a breakout above resistance could justify long positions with trailing stops to capture momentum, while downside risk remains contained by support. Overall, USD/CAD is currently in a consolidation phase, demanding patience and disciplined risk management as market participants await clearer directional cues.  \n\nWord count: 272"
+    }
+  }
+}

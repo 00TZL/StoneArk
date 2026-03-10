@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-03-10T05:10:29.031Z",
+  "price": {
+    "close": "0.77775",
+    "high": "0.77804",
+    "low": "0.77768",
+    "open": "0.778",
+    "change": "-0.03",
+    "datetime": "2026-03-10 16:00:00"
+  },
+  "indicators": {
+    "rsi": 45.57367,
+    "macd": -0.0003642005,
+    "macd_signal": -0.00029571183,
+    "sma20": 0.7783885
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：短期偏弱整理",
+      "content": "当前美元/瑞郎价格位于0.77775附近，较昨日微幅下跌0.03%，显示短线市场缺乏明显动力。价格徘徊在20日简单移动均线（SMA20）0.77839下方，暗示短期偏弱整理格局，空头略占主动，但整体趋势仍未完全明朗。  \n\n从MACD指标来看，当前值为-0.000364，尚未形成明确的多空交叉信号，短期动能偏弱，价格可能在区间内震荡。RSI数据缺失，但结合价格与SMA位置，短线买方力度有限，需警惕进一步下探风险。  \n\n关键支撑位在0.77750附近，如跌破可能触及0.77700心理关口；阻力位则位于0.77840至0.77850区间，若价格有效突破该区域，多头有望尝试反弹。投资者可关注支撑附近的反弹信号，以及阻力附近的承压回落。  \n\n交易策略上，建议短线以低多高空为主，严格设置止损以控制风险。在震荡区间内，控制仓位，避免追涨杀跌，同时可结合日内成交量和蜡烛形态判断短线进出点，谨慎操作以等待趋势确认。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently trading at 0.77775, slightly below its 20-period Simple Moving Average (SMA) of 0.7783885. This indicates a mild bearish sentiment in the short term. The market has shown a subtle downward movement with a 24-hour change of -0.03%, and the pair's high and low range of 0.77804/0.77768 suggests limited volatility. Given that the price is below the SMA, a further downside risk remains, with the current market structure favoring bearish momentum, pending confirmation from additional indicators.\n\nThe MACD value is -0.00036420050, signaling a bearish crossover as it is negative, suggesting that the downward momentum could persist. However, without the Signal Line data, the MACD's full implications remain unclear. The absence of the RSI (Relative Strength Index) also leaves a gap in understanding overbought or oversold conditions, which would typically guide momentum shifts. Traders should wait for clearer signals from these indicators to better gauge the likelihood of a reversal or continued decline.\n\nKey support is located around the low of the day at 0.77768. A break below this level could open the door to further downside towards the next major support around 0.77500. On the other hand, resistance is found near 0.77804, with any significant move above this level potentially signaling a bullish reversal. A break of this resistance could see the pair testing the SMA at 0.77839, with further upside possible if momentum picks up.\n\nIn conclusion, traders should adopt a cautious approach, monitoring the price action near key levels. If the pair fails to break resistance at 0.77804 and continues to test support at 0.77768, a short position could be considered with a target around 0.77500. Conversely, a bullish breakout above resistance might trigger a long position, but only with confirmation from additional indicators."
+    }
+  }
+}

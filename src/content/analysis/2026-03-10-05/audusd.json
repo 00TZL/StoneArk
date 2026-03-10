@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-03-10T05:08:25.545Z",
+  "price": {
+    "close": "0.70647",
+    "high": "0.7065",
+    "low": "0.70614",
+    "open": "0.70614",
+    "change": "0.04",
+    "datetime": "2026-03-10 16:00:00"
+  },
+  "indicators": {
+    "rsi": 60.47766,
+    "macd": 0.0013196909,
+    "macd_signal": 0.0013760874,
+    "sma20": 0.705126
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短期偏强震荡",
+      "content": "当前澳元/美元在0.7064附近运行，较昨日波动幅度有限，显示市场短期多空力量相对平衡。价格略高于20日均线0.7051，表明短期趋势偏向多头，但缺乏明显突破信号，仍处于震荡格局中。  \n\n从MACD来看，当前值为0.0013，显示多头动能略占优势，但因信号线数据缺失，无法完全确认趋势强弱。技术指标整体提示市场仍处于横盘整合阶段，短线交易需谨慎跟随波动，不宜追涨杀跌。  \n\n支撑位关注0.7051附近的20日均线及0.7060心理关口，而阻力位则在近期高点0.7065及0.7070附近。若价格成功突破阻力，将可能带动短期上行空间，但下破支撑则需警惕回调风险。  \n\n交易策略上，可考虑在支撑位附近轻仓做多，止损设于0.7048下方，同时关注阻力位的承压反应。短线操作应结合震荡区间波动，等待更明确趋势信号再加大仓位，以控制风险并把握潜在回报。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently trading near 0.7065, showing minimal daily movement of 0.04%. Price action remains relatively contained within a tight intraday range of 0.70614 to 0.7065, suggesting consolidation after a recent upward push. The market exhibits short-term bullish tendencies, as the current price sits above the 20-period SMA at 0.7051, indicating buyers have some control. However, the narrow range highlights caution, as momentum is limited, and any decisive move above or below key levels will likely define the next directional bias.  \n\nThe MACD is slightly positive at 0.0013, implying mild bullish momentum, although the absence of the signal line limits the clarity of crossover confirmation. The lack of RSI data constrains overbought or oversold analysis, but price behavior relative to the SMA can serve as a momentum proxy. Overall, the technical setup leans cautiously toward upside, with MACD suggesting buyers are present but not dominant. Traders should watch for acceleration in momentum to confirm a breakout from the current consolidation zone.  \n\nSupport and resistance levels provide practical reference points for entry and exit. Immediate support can be identified around 0.7051, coinciding with the 20-period SMA, which has historically offered a buffer against short-term declines. On the upside, the recent high at 0.7065 functions as the nearest resistance, with a further target near 0.7070 should bullish pressure strengthen. Breaching the support zone near 0.7050 could expose the pair to a retest of lower levels near 0.7040, making these thresholds critical for risk management.  \n\nTrading strategies should balance caution with opportunistic positioning. Short-term traders may consider buying on minor dips toward the 20-SMA with tight stops below 0.7050, while targeting 0.7065–0.7070 for potential profit-taking. Conversely, a break below the SMA could favor short positions, emphasizing a more defensive stance. Overall, AUD/USD shows restrained bullish tendencies, but confirmation through a decisive breakout or breakdown remains key before committing to aggressive trades."
+    }
+  }
+}

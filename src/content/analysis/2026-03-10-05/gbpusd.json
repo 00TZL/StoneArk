@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-03-10T05:07:01.361Z",
+  "price": {
+    "close": "1.34325",
+    "high": "1.34339",
+    "low": "1.34251",
+    "open": "1.34251",
+    "change": "0.05",
+    "datetime": "2026-03-10 16:00:00"
+  },
+  "indicators": {
+    "rsi": 62.5335,
+    "macd": 0.0018698408,
+    "macd_signal": 0.001741105,
+    "sma20": 1.3404
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：震荡整理，短期偏多",
+      "content": "当前英镑/美元价格稳定在1.34325附近，呈现震荡整理的走势。随着价格未突破明显的支撑或阻力位，短期内难以出现强烈的趋势变化。考虑到近期价格波动较小，市场参与者可能在等待新的指引信号。\n\n从技术指标来看，当前未提供RSI和MACD信号的完整信息，但根据SMA(20)来看，价格位于1.34040之上，短期走势偏多。若突破1.34339的高点，可能会进一步测试1.34500的阻力位。反之，如果跌破1.34251的低点，可能会出现回调，目标支撑位为1.34000。\n\n对于交易者而言，在此震荡区间内操作时需保持灵活。若价格突破1.34339，可考虑尝试做多，目标1.34500。如果价格跌破1.34251，则可考虑短线做空，但要警惕1.34000附近的支撑反弹风险。务必设定止损，以降低风险。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently hovering around the 1.34325 level, indicating a neutral to slightly bullish short-term sentiment. The price has experienced minimal movement, with a 24-hour change of just 0.05%. Given this stability, traders may be cautious as the pair trades in a tight range between 1.34339 and 1.34251. With no major breakout in either direction, the market may be awaiting further catalysts to trigger a more substantial move.\n\nFrom a trend perspective, the pair appears to be consolidating in the near term. The 20-period simple moving average (SMA) at 1.34040 suggests that the market is currently trading above a key support level. If the price holds above the SMA, it could signal a continuation of the bullish trend that has been intact for some time. However, if the price dips below this level, it may signal a potential bearish shift, targeting lower support zones such as 1.34000 or 1.33700.\n\nIn terms of momentum, the MACD reading of 0.0018698408 suggests a slight bullish bias. However, with no clear signal line data or RSI available, it is difficult to gauge the strength of the momentum in the absence of these indicators. Traders should monitor the price action closely for any signs of a breakout above 1.34339, which could bring the next resistance level at 1.34500 into focus. A failure to break higher could see the pair retreat back toward support near 1.34200 or 1.34000.\n\nFor traders, the current range-bound price action offers potential scalping opportunities, with careful attention to the support and resistance levels mentioned. A breakout above 1.34339 would likely attract buyers, while a fall below the 20-period SMA could trigger selling pressure. Monitoring the broader market conditions for any shifts in momentum or volatility will be key to determining the next significant move in GBP/USD."
+    }
+  }
+}

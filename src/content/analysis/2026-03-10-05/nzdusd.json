@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-03-10T05:09:47.750Z",
+  "price": {
+    "close": "0.59119",
+    "high": "0.59127",
+    "low": "0.59107",
+    "open": "0.59108",
+    "change": "0.02",
+    "datetime": "2026-03-10 16:00:00"
+  },
+  "indicators": {
+    "rsi": 50.6427,
+    "macd": 0.00055271812,
+    "macd_signal": 0.00081748257,
+    "sma20": 0.591798
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：短期震荡偏弱",
+      "content": "纽元/美元当前价格徘徊在0.59119附近，较SMA(20) 0.591798略低，显示短期承压迹象，整体趋势呈现震荡偏弱。价格在高点0.59127与低点0.59107之间波动，短线方向性不强，市场情绪相对谨慎。  \n\n技术指标方面，MACD为正值0.00055271812，暗示多头尚存一定动能，但缺乏信号线对比确认，短期上涨动力有限。RSI数据不可用，无法评估超买或超卖状态，但结合均线及价格走势，整体偏向区间整理。  \n\n支撑位初步关注0.5910附近，若跌破可能触及0.5905心理关口；阻力位在0.5918附近，与SMA(20)重合，突破则有望挑战0.5922。当前区间震荡明显，操作上宜关注突破或回调信号，避免追涨杀跌。  \n\n交易策略建议：短线可考虑低位做多，高位轻仓获利了结，保持止损在0.5905下方，日内以区间操作为主，等待MACD及价格对SMA形成明确偏离信号，再考虑中线布局，降低盲目追涨风险。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD is currently showing a neutral market sentiment, with the price hovering around 0.59119. The 24-hour change of 0.02% indicates minimal volatility, suggesting a consolidating market. Looking at the high/low range of 0.59127/0.59107, there is limited movement within a narrow band, signaling a lack of strong directional momentum. This kind of behavior often points to indecision among traders, which could result in a breakout or continued sideways action depending on upcoming catalysts or market sentiment shifts.\n\nIn terms of technical indicators, the absence of a definitive RSI(14) or MACD signal complicates the immediate analysis, as both are key momentum indicators. However, the MACD value of 0.00055271812, though positive, is not sufficiently strong to indicate a clear bullish or bearish trend at present. The price’s close proximity to the 20-period Simple Moving Average (SMA) of 0.591798 suggests a neutral bias, with the market unsure of the next significant move. Traders will likely look for a more substantial crossover or a clearer signal from momentum indicators to establish a direction.\n\nSupport and resistance levels are crucial in determining potential price action. A slight dip below the 0.59107 low could signal a test of support at 0.5900, potentially opening the door for a downside correction. On the other hand, a move above 0.59127 could lead to resistance at 0.5920 or 0.5930, where the market may face selling pressure. Given the lack of strong signals from key indicators, traders should consider both support and resistance levels carefully before taking a position.\n\nConsidering the current market conditions, a wait-and-see approach may be wise. A breakout above 0.59127 or a dip below 0.59107 could provide clearer entry points. However, as of now, the lack of momentum suggests the market may remain range-bound in the short term, making short-term scalping or cautious entries a reasonable strategy. Keep an eye on key developments for clearer directional signals."
+    }
+  }
+}
