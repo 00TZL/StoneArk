@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-03-11T05:11:55.135Z",
+  "price": {
+    "close": "0.77686",
+    "high": "0.7771",
+    "low": "0.77683",
+    "open": "0.77705",
+    "change": "-0.03",
+    "datetime": "2026-03-11 16:00:00"
+  },
+  "indicators": {
+    "rsi": 44.49325,
+    "macd": -6.9676462e-7,
+    "macd_signal": 0.000025454317,
+    "sma20": 0.7771915
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：短期横盘偏弱整理",
+      "content": "美元/瑞郎目前价格在0.77686附近波动，较昨日微跌0.03%，短期呈现横盘偏弱的走势。价格略低于20日均线0.77719，显示短期上行动力有限，多头力量受抑，空头尚未明显增强，整体偏向震荡整理。  \n\nMACD指标呈现微弱负值，显示下行动能略占优，但幅度极小，尚未形成明确死叉。由于缺乏RSI数据，难以判断超买超卖状态，但价格连续在均线附近徘徊，表明市场观望情绪浓厚，多空力量接近均衡。  \n\n支撑位上可关注0.7765附近区域，该水平若失守，可能引发进一步下探；阻力位在0.7772至0.7773之间，若价格突破并站稳，将可能激发短线反弹动能。日内区间预计维持在上述支撑与阻力之间波动。  \n\n交易策略上，短线建议以区间操作为主，低位可考虑小幅多单布局，高位可逢高做空，严格设置止损，避免追涨杀跌。中线投资者宜保持观望，等待价格突破关键均线或MACD出现明确信号后再介入，以降低风险暴露。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "USD/CHF is currently trading near 0.77686, showing marginal downward movement over the past 24 hours. The price is slightly below the 20-period simple moving average at 0.77719, suggesting mild bearish pressure in the short term. The daily range remains narrow, with the high at 0.7771 and the low at 0.77683, indicating consolidation and market indecision. Overall, the pair appears to be testing the lower edge of a short-term range, signaling cautious sentiment among traders.  \n\nThe MACD reading of approximately -0.0000007 confirms limited downside momentum, though the absence of a signal line prevents full confirmation of a trend shift. The lack of an RSI value makes it difficult to gauge overbought or oversold conditions, but the proximity to the SMA suggests that the pair is not in extreme territory. Traders should watch for a decisive break above the SMA to confirm bullish momentum or a fall below the recent low to signal further retracement.  \n\nImmediate support lies around the daily low at 0.77683, with a stronger psychological level near 0.7765, where previous consolidation occurred. Resistance is first at the 20-period SMA of 0.77719, followed by a more significant barrier around 0.7780, marking recent highs. A clear breach of these levels could guide intraday traders on potential entry and exit points, with the market likely remaining range-bound until a breakout is confirmed.  \n\nGiven current conditions, short-term traders may consider cautious long positions near support, aiming for the SMA as a target, while stops should be placed just below the 0.7765 level. Conversely, a break below support could warrant short exposure, with profit-taking near 0.7760. Overall, USD/CHF currently reflects mild bearish tendencies within a tight range, making disciplined risk management and confirmation of signals essential before committing to directional trades."
+    }
+  }
+}

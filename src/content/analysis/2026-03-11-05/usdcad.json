@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-03-11T05:10:30.255Z",
+  "price": {
+    "close": "1.35579",
+    "high": "1.35598",
+    "low": "1.35563",
+    "open": "1.35593",
+    "change": "-0.01",
+    "datetime": "2026-03-11 16:00:00"
+  },
+  "indicators": {
+    "rsi": 41.31504,
+    "macd": -0.00035232691,
+    "macd_signal": -0.00015422274,
+    "sma20": 1.35694
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理，短期走势偏弱]",
+      "content": "当前美元/加元价格为1.35579，日内小幅下跌0.01%。整体市场走势较为震荡，未显示出明显的强势方向。最近的价格波动区间为1.35598至1.35563，显示出当前市场缺乏强烈的动能。\n\n从技术指标来看，MACD值为-0.00035232691，表明市场略显弱势，但由于未显示信号线数据，当前指标尚未给出明确的买入或卖出信号。SMA(20)显示当前短期均线略微高于现价1.35694，进一步确认了当前价格的下行压力。\n\n支撑位在1.35563附近，如果价格突破该水平，可能会进一步下探至1.35450附近的支撑区。阻力位则集中在1.35600至1.35700之间，若价格回升至此区间，则有可能面临一定的卖压。综合来看，市场仍然处于横盘整理状态。\n\n建议保持观望，避免过早介入。若价格突破支撑位，可考虑短期卖出，目标看向下方支撑；若价格突破阻力位，则可考虑短期买入，目标可看向1.35800附近。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD currency pair is currently displaying a relatively stable short-term trend, with the latest price recorded at 1.35579. The market has experienced a minimal 24-hour change of -0.01%, indicating a consolidation phase. Despite this, the pair is trading near the low of the day, 1.35563, which may signal potential support levels. A deeper look suggests a neutral bias, as no significant price movement is observed, allowing for the possibility of either a short-term pullback or further consolidation within this range.\n\nIn terms of technical indicators, the absence of a clear RSI(14) reading and the negative MACD value (-0.00035232691) indicate a lack of strong momentum in either direction. The MACD line's proximity to the signal line suggests a neutral-to-bearish sentiment, with no immediate crossover signaling a trend reversal. Traders should watch for any divergence or sudden shifts in momentum that could offer more clarity on the market's next move.\n\nFrom a price action perspective, the 20-period simple moving average (SMA) at 1.35694 acts as a dynamic resistance level. The pair’s failure to break above this level consistently suggests a bearish bias in the near term, especially with the recent daily high failing to surpass it. If the price can break this resistance, the next target would likely be the recent high of 1.35598. On the downside, any further declines below 1.35563 could signal the next support level, potentially opening the door for a test of the 1.35500 mark.\n\nGiven the current market conditions, a cautious approach is recommended. Traders may consider waiting for a clearer breakout either above the SMA resistance or below the support levels before entering positions. Short-term trades with tight stop-loss orders could offer risk-managed opportunities, particularly if the market shows signs of breaking out of the current range. Patience is key in such a low-volatility environment."
+    }
+  }
+}

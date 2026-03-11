@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-03-11T05:08:20.761Z",
+  "price": {
+    "close": "1.34558",
+    "high": "1.3456",
+    "low": "1.34543",
+    "open": "1.3455",
+    "change": "0.00",
+    "datetime": "2026-03-11 16:00:00"
+  },
+  "indicators": {
+    "rsi": 59.7244,
+    "macd": 0.00067906972,
+    "macd_signal": 0.00062388944,
+    "sma20": 1.34421
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：短期震荡整理",
+      "content": "目前英镑/美元(GBP/USD)处于较为平稳的震荡整理阶段。价格保持在1.3455附近波动，未出现明显的涨跌趋势。24小时价格变化为0%，显示出市场的观望情绪。结合当前价格和波动范围，预计短期内价格将继续维持这种整理格局，未能有效突破关键区间。\n\n从技术指标来看，MACD值为0.00068，但没有信号线数据支持，因此难以对短期趋势做出明确判断。RSI和MACD的缺失使得进一步的动能分析受到限制。不过，SMA(20)位于1.34421，反映出价格当前在短期内的平均水平，若价格跌破此均线，则可能出现向下回撤的风险。\n\n支撑位和阻力位方面，1.3454附近的低点为短期支撑位，而1.3456的高点则是主要的阻力区域。若价格突破1.3456，可能会有小幅反弹的机会，反之跌破支撑位则可能会进一步回调。\n\n建议交易者在此区间内保持观望，除非价格突破关键支撑或阻力位。若突破1.3456，则可以考虑适度的多头操作；若跌破1.3442，则可以考虑空头机会，但务必注意市场的波动性，谨慎操作。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The British Pound against the US Dollar (GBP/USD) is currently trading at 1.34558, showing little price movement over the past 24 hours. The lack of significant volatility suggests that the market is in a consolidation phase, with price oscillating within a narrow range between 1.3456 and 1.34543. This suggests a market that is waiting for a catalyst or a breakout to confirm the next major move. Traders may look for signs of either a bullish or bearish breakout from this range to gauge the market's direction.\n\nThe SMA(20) at 1.34421 provides a short-term perspective on the trend, indicating a slight bullish bias as the current price trades above the moving average. However, the market is still in a tight consolidation, and the absence of a clear trend is limiting the effectiveness of the SMA as a strong directional indicator. A move above the high of 1.3456 could signal further upside potential, while a breach below the low of 1.34543 might open the door for a short-term decline.\n\nWith the RSI and MACD data unavailable at the moment, the lack of momentum indicators makes it challenging to determine the strength of the current market. However, the MACD line being above 0.00068 suggests that there could be a bullish momentum if the pair breaks the consolidation zone. For now, traders should remain cautious, looking for a confirmation in the form of price action before entering trades.\n\nIn terms of support and resistance levels, the immediate resistance lies at 1.3456, while the support level is close to 1.34543. A breakout above the resistance could target the next key level at 1.3470, while a breakdown could see the price test lower support at 1.3435. Traders might consider a breakout strategy or a range-bound approach, depending on their risk appetite."
+    }
+  }
+}

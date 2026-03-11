@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-03-11T05:09:02.855Z",
+  "price": {
+    "close": "158.09533",
+    "high": "158.13735",
+    "low": "158.06258",
+    "open": "158.10583",
+    "change": "-0.01",
+    "datetime": "2026-03-11 16:00:00"
+  },
+  "indicators": {
+    "rsi": 53.97636,
+    "macd": 0.086584569,
+    "macd_signal": 0.057190429,
+    "sma20": 157.96301
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[短期震荡整理，维持高位区间波动]",
+      "content": "美元/日元目前处于158.09533附近，短期内出现轻微的跌幅。由于市场缺乏明确的方向性，价格走势呈现震荡整理的格局。尽管价格依然高于20日简单移动平均线（SMA 20为157.96），但多头动能有所减弱，市场关注后续的动向。\n\n从技术指标来看，MACD显示出0.086的正值，但没有信号线提供进一步的确认。RSI数据未能提供支持，意味着当前市场情绪较为中性，没有明显的超买或超卖信号。基于此，美元/日元可能仍处于多头的疲软调整阶段。\n\n支撑位方面，158.06一带提供了一定的支撑作用，而158.13则是近期的阻力位。如果价格突破158.13上方，可能会进一步测试更高的水平。反之，若跌破支撑位158.06，可能会导致价格回调。\n\n综合考虑，建议投资者可保持观望，待价格突破关键支撑或阻力位时，再采取相应的交易策略。保持灵活应对，谨慎操作，避免在震荡行情中过度交易。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently showing a slight negative change of -0.01% in the past 24 hours, with the latest price at 158.09533. This indicates a consolidating market where price action is moving within a narrow range between the high of 158.13735 and the low of 158.06258. The lack of significant price movement suggests that traders are waiting for further signals before committing to a strong directional bias. The market seems to be in a neutral phase, with no immediate signs of strong bullish or bearish pressure.\n\nFrom an indicator perspective, the Relative Strength Index (RSI) is not available at the moment, which limits the ability to assess overbought or oversold conditions. The MACD is at 0.0866, indicating a very slight bullish momentum, though without a signal line to compare, it’s difficult to infer any actionable trend from the MACD alone. The 20-period Simple Moving Average (SMA) is at 157.963, which suggests that the pair has been trending slightly above this level, implying some level of support near the 158.00 region.\n\nKey support for the pair seems to lie just above the recent low of 158.06258, with a break below this level potentially opening up the door for a deeper pullback toward the 157.96 area. On the resistance side, the high of 158.13735 offers the immediate barrier, with a sustained push above this level likely to trigger further upside momentum. A clear breakout above 158.14 could lead to a test of higher levels, potentially reaching toward 158.40.\n\nIn terms of trading strategy, a cautious approach might be warranted for now, given the absence of clear directional signals. Short-term traders might look for potential breakouts above 158.14 for a bullish move, while a break below 158.06 could open opportunities for a short position targeting the 157.96 level. However, more confirmation from the RSI and MACD would be ideal to support any further positions."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-03-11T05:11:13.501Z",
+  "price": {
+    "close": "0.59476",
+    "high": "0.59482",
+    "low": "0.59461",
+    "open": "0.59465",
+    "change": "0.02",
+    "datetime": "2026-03-11 16:00:00"
+  },
+  "indicators": {
+    "rsi": 59.90784,
+    "macd": 0.00044442308,
+    "macd_signal": 0.00043265715,
+    "sma20": 0.5939195
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：短线维持震荡，偏向温和上行",
+      "content": "目前纽元/美元价格在0.5947附近微幅波动，日内涨幅有限，显示短线市场缺乏明显动能。价格略高于20日简单移动平均线(SMA20=0.5939)，表明多头略占优势，但整体趋势仍偏震荡整理。短期走势可能延续小幅上探，但突破动力不足。  \n\nMACD呈现微弱正值(0.00044)，显示多空力量接近平衡，尚未形成明确买入或卖出信号。缺少RSI数据限制了超买超卖判断，但结合价格走势与均线位置，可认为短线多头信号温和，短线反弹空间有限。投资者应关注指标进一步发散以确认趋势强度。  \n\n支撑位关注0.5935附近，该区域近期多次获得买盘支撑；阻力位在0.5955至0.5960区间，若价格有效突破，可能带来小幅上行延伸。价格在支撑与阻力之间维持震荡，短线交易需谨慎控制风险，避免追高或过度加仓。  \n\n交易策略上，可考虑低位轻仓做多，止损设在0.5930下方；若价格触及阻力区且未突破，可择机短线获利了结。中线投资者可等待突破确认再加仓，以防震荡带来的反复回调。整体上，短期多头偏弱，波动区间窄，适合以防守策略应对。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The New Zealand Dollar against the US Dollar (NZD/USD) has been relatively stable over the last 24 hours, with a minor change of 0.02%. Currently trading at 0.59476, the pair remains confined between a high of 0.59482 and a low of 0.59461, showing limited volatility. This stability indicates a lack of significant market momentum, with price action likely to consolidate within this range unless there is a catalyst to push it in either direction. The lack of a definitive trend suggests the pair may be in a period of indecision.\n\nLooking at the indicators, the absence of a clear RSI value and an incomplete MACD setup makes it difficult to draw definitive conclusions from momentum. However, the MACD value of 0.00044442308 suggests that there is a slight bullish bias in the short-term, though it's not strong enough to confirm a trend reversal. Traders may want to monitor the MACD signal and RSI in the coming sessions to gain more insight into the market's strength. Until these indicators give clearer signals, caution is advised.\n\nThe pair's current price is slightly above its 20-period simple moving average (SMA) of 0.59392, indicating that there is mild upward pressure. If this level holds, it could provide a potential support level. On the upside, the recent high of 0.59482 serves as immediate resistance. A breakout above this level may signal further upside towards 0.59550, with 0.59600 as a key target. Conversely, failure to break above resistance could lead to a retest of the support level at the SMA, with a possible move lower towards 0.59350.\n\nGiven the lack of significant momentum, a range-bound strategy could be suitable for traders. Positions could be initiated near support levels with a stop below the recent low of 0.59461. A break above resistance at 0.59482 could signal a potential buy, while a failure to maintain support at the SMA might encourage short positions. In either case, caution is advised as volatility remains muted."
+    }
+  }
+}

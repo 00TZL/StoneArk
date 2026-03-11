@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-03-11T05:12:44.357Z",
+  "price": {
+    "close": "5206.81361",
+    "high": "5209.33025",
+    "low": "5204.33489",
+    "open": "5204.76722",
+    "change": "0.04",
+    "datetime": "2026-03-11 16:00:00"
+  },
+  "indicators": {
+    "rsi": 56.53355,
+    "macd": 11.48964,
+    "macd_signal": 13.826,
+    "sma20": 5203.27948
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[当前震荡整理，短期承压]",
+      "content": "当前黄金/美元（XAU/USD）价格在5206.81附近，全天波动较小，24小时变化仅为0.04%。价格接近高点5209.33和低点5204.33，表明市场缺乏明确的方向。短期内，市场可能继续呈现震荡整理格局，缺乏强烈的趋势驱动。\n\n技术面来看，RSI和MACD信号暂时缺失，但SMA(20)为5203.28，价格略高于此均线，显示出一定的上行支撑。然而，MACD的值为11.49，尽管未达到超买水平，但暗示短期内上涨动能有限。若价格进一步下探，5204.33一线将是支撑位。\n\n从支撑和阻力的角度，5204.33为短期支撑位，若突破该点，可能会进一步测试5200附近的支撑。上方阻力位在5209.33附近，突破此点则有可能恢复上涨趋势，挑战5230区域。\n\n建议投资者在短期内可考虑保持观望，除非价格突破5209.33，若突破后可尝试做多，止损设置在5204附近。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold is trading around **5206.81**, hovering slightly above the **20-period simple moving average at 5203.28**, which suggests the market remains in a mild short-term upward bias. The extremely narrow daily range between **5204.33 and 5209.33** indicates consolidation after a recent upward move. Price holding above the moving average often reflects underlying buying pressure, but the limited volatility implies traders are waiting for a clearer directional catalyst before committing to larger positions.\n\nMomentum indicators offer a cautiously constructive outlook. The **MACD value at 11.49** remains in positive territory, indicating bullish momentum still exists beneath the surface even though signal confirmation is currently unavailable. Without a reported RSI value, overbought or oversold conditions are unclear, but the steady price action near session highs suggests momentum remains stable rather than exhausted. In this environment, continuation patterns are possible if buyers maintain control above the moving average support.\n\nKey technical levels are becoming well-defined due to the tight trading band. Immediate **support sits near 5203.30**, aligning with the 20-period moving average, while a deeper defensive zone forms around **5204.30**, the recent session low. On the upside, **5209.30 acts as near-term resistance**, marking the current daily peak. A sustained break above this level could expose **5215–5220** as the next resistance area, where short-term profit-taking may emerge.\n\nFrom a trading perspective, strategies may favor **buying on dips while price holds above 5203**, as this maintains the short-term bullish structure. Traders might look for confirmation through momentum expansion or a decisive breakout above **5209**, which could trigger continuation toward higher resistance zones. Conversely, a clear move below **5203** would weaken the bullish bias and potentially shift momentum toward **5195–5190**, making downside pullback trades more attractive."
+    }
+  }
+}

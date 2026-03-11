@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-03-11T05:07:39.259Z",
+  "price": {
+    "close": "1.1634",
+    "high": "1.16343",
+    "low": "1.16329",
+    "open": "1.16338",
+    "change": "-0.00",
+    "datetime": "2026-03-11 16:00:00"
+  },
+  "indicators": {
+    "rsi": 55.76415,
+    "macd": 0.00030086798,
+    "macd_signal": 0.00034507371,
+    "sma20": 1.16296
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[震荡整理，短期方向不明]",
+      "content": "当前，欧元/美元在1.1634附近震荡整理，短期内未能突破明显的上行或下行趋势。价格在1.16343和1.16329之间波动，显示出市场处于区间内盘整的状态。没有明显的动能驱动，因此可能继续在窄幅区间内波动，等待更强的市场信号。\n\n从技术指标来看，RSI(14)和MACD的数值目前无法提供明确的超买或超卖信号，表明市场情绪中立。SMA(20)略微向上倾斜，指示出价格可能保持一定的上升压力，但整体趋势缺乏明确性。因此，短期内可能继续呈现震荡行情，方向性不强。\n\n在支撑和阻力方面，当前支撑位位于1.16329附近，若价格突破这一点，可能进一步下探至1.16296附近的支撑水平。而上方的阻力位则在1.16343附近，一旦突破可能会有进一步上行的空间。建议交易者在此区间内操作，耐心等待突破信号。\n\n交易建议上，当前市场没有强烈的趋势信号，建议以区间交易为主，操作时密切关注支撑和阻力位的变化。突破1.16343时可考虑适当做多，跌破1.16329则可适当做空。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD is currently exhibiting a neutral-to-slightly-bullish stance around 1.1634, hovering just above the 20-period simple moving average at 1.16296. Price action in the past 24 hours has been remarkably tight, suggesting low volatility and market indecision. The narrow range between the high and low indicates consolidation near short-term equilibrium. Traders should be cautious of breakouts, as a sustained move above 1.1640 could signal renewed bullish momentum, while a drop below 1.1625 may invite short-term bearish pressure.  \n\nMomentum indicators are offering limited insight, with MACD slightly positive at 0.0003 but lacking a confirmed signal. This marginally bullish reading implies mild upward pressure, yet the absence of a clear RSI value limits a full momentum assessment. Traders should consider confirming momentum with supplementary tools such as stochastic oscillators or watching intraday price behavior near key levels. The near-zero MACD suggests the pair is not strongly trending, reinforcing the notion of consolidation rather than a pronounced directional move.  \n\nKey support is visible near 1.1625, with a secondary layer around 1.1615, where previous intraday lows have held. Resistance is immediately at 1.1640, followed by 1.1655 if buyers gain traction. These levels form the framework for potential range-bound trading strategies, as minor bounces off support or rejections at resistance could offer short-term opportunities. Monitoring volume or news catalysts will be critical to anticipate breakout scenarios.  \n\nTrading strategies should favor cautious, short-term trades until a decisive trend emerges. A breakout above 1.1640 with confirmation could be targeted for long positions with stops just below 1.1630. Conversely, a breach of 1.1625 may warrant short positions with stops around 1.1635. Range-bound traders might consider buying near support and selling near resistance while maintaining tight risk management. Patience is key, given the low volatility and lack of strong directional momentum in the current environment.  \n\nWord count: 271"
+    }
+  }
+}
