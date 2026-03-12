@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-03-12T05:15:40.938Z",
+  "price": {
+    "close": "0.59025",
+    "high": "0.59058",
+    "low": "0.58997",
+    "open": "0.58998",
+    "change": "0.04",
+    "datetime": "2026-03-12 16:00:00"
+  },
+  "indicators": {
+    "rsi": 41.81504,
+    "macd": -0.00069431324,
+    "macd_signal": -0.00063559469,
+    "sma20": 0.5912145
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理，待突破方向]",
+      "content": "当前纽元/美元呈现震荡整理态势，价格在0.59000附近波动。短期内市场缺乏强烈的趋势性表现，价格维持在高点0.59058和低点0.58997之间。考虑到市场缺乏明确的方向性，未来价格可能会依赖于即将出现的技术突破来确定趋势。\n\n技术指标方面，MACD值为负值（-0.00069），显示出市场的卖压略强，但由于信号线数据缺失，难以提供进一步的确认。SMA(20)目前位于0.59121附近，表明短期内均线仍呈下降趋势，且价格略低于此均线水平，可能表明市场整体情绪偏弱。\n\n支撑位目前位于0.58997附近，而0.59058为近期的阻力位。若价格突破0.59058，可能会迎来进一步上行的机会，反之若跌破0.58997，则可能会加剧下行压力，向更低价位寻求支撑。\n\n建议交易者在当前震荡区间内保持观望，待价格突破关键支撑或阻力位后，再依据趋势进行操作。如果价格持续未能突破，短期内可以考虑做空至支撑位附近。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The New Zealand Dollar against the US Dollar is currently showing a slight negative bias. The price has been fluctuating within a narrow range, as evidenced by the 24-hour change of only 0.04%. This tight range, with a high of 0.59058 and a low of 0.58997, indicates that the market is indecisive in the short term. A lack of major momentum is evident, and the price is hovering near the current support level at 0.58997, which is an area to watch for potential bullish reversal.\n\nWith the absence of an RSI value, we turn to other indicators for clarity. The MACD is slightly negative at -0.00069431324, suggesting a mild bearish sentiment, but the signal line is not yet available to confirm a clear trend. This is important to consider, as the MACD’s negative value hints that downward pressure could persist if the market fails to push back above the current resistance level. The overall lack of strong momentum from either direction makes short-term predictions less certain.\n\nThe price remains just under the 20-period Simple Moving Average (SMA), which is currently at 0.59121450. This positioning suggests that the bears have some control in the near term. The SMA could act as resistance in the short term, and a sustained move above this level may indicate a shift in sentiment. Traders should watch for any clear break above 0.5912, as this would suggest a potential bullish scenario towards higher levels.\n\nFor trading strategies, it would be prudent to wait for a break of key levels before making any major moves. If the price holds near the support at 0.58997, it might be an opportunity for a buy with a stop just below this level. Conversely, if the price struggles to break through the SMA, short positions could be considered with the expectation of a retest of the recent low. Patience is critical in this indecisive market."
+    }
+  }
+}

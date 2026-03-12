@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-03-12T05:14:41.865Z",
+  "price": {
+    "close": "1.35891",
+    "high": "1.3593",
+    "low": "1.35877",
+    "open": "1.35919",
+    "change": "-0.02",
+    "datetime": "2026-03-12 16:00:00"
+  },
+  "indicators": {
+    "rsi": 52.62244,
+    "macd": 0.00038713434,
+    "macd_signal": 0.00043394808,
+    "sma20": 1.35879
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：当前横盘整理，短期略显震荡",
+      "content": "目前美元/加元维持在1.3589附近，日内波动极小，整体呈现横盘整理态势。价格紧贴20日均线(SMA20 1.35879)，显示短期趋势不明，市场买卖力量接近平衡，短线缺乏明确方向。高点1.3593和低点1.35877形成小幅震荡区间，暂时支撑与阻力均有限。  \n\nMACD数值微弱正值(0.000387)，虽偏向多头，但幅度有限，表明动能不足，趋势延续性不强。RSI数据暂缺，但结合价格与均线的贴近情况，可推测超买或超卖信号不明显，市场处于整理阶段。短线投资者应关注动能指标变化，以捕捉潜在突破机会。  \n\n关键支撑位可参考1.3587，下方若跌破，可能加速短线下行压力。阻力位在1.3593，上方若有效突破，则可能带来短线多头拉升。价格区间收窄意味着波动性降低，短线突破将更具方向性意义。  \n\n交易策略上，偏向区间操作为主，可在支撑附近轻仓做多，阻力附近减仓或短线做空。若价格突破关键阻力或支撑，结合成交量和动能指标确认，可适度顺势跟进，控制止损以降低风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently consolidating around the 1.3589 level, showing a slight decline over the past 24 hours. The price is holding close to its recent high of 1.3593, indicating a period of indecision in the market. This suggests a neutral to slightly bearish sentiment in the near term. A continuation of this range-bound movement is possible unless a significant catalyst breaks this tight structure.\n\nFrom a technical perspective, the RSI is unavailable, which limits our ability to gauge momentum and overbought/oversold conditions. However, the MACD shows a positive value, indicating that bullish momentum is still present, albeit weak. This could suggest a minor bullish bias, but it lacks the confirmation of other indicators. The price is also hovering near the 20-period Simple Moving Average, which could act as a dynamic support or resistance level, depending on the direction of the break.\n\nKey support for USD/CAD stands at 1.35877, the recent low, with potential for further downside if this level breaks. A clear bearish move could see the pair testing 1.3570 as the next support zone. On the upside, resistance is at 1.3593, and a break above this level could open the door for a push towards 1.3605. Traders should watch for a break in either direction to provide a clearer indication of the next move.\n\nIn terms of trading strategy, a cautious approach is recommended due to the current range-bound conditions. Traders might consider buying near the support level at 1.35877, with a stop just below 1.3570, aiming for a potential breakout to the upside. Alternatively, short positions could be considered if the price fails to break above 1.3593, with a target towards the 1.3570 level."
+    }
+  }
+}

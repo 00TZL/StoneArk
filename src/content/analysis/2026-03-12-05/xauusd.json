@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-03-12T05:17:08.459Z",
+  "price": {
+    "close": "5145.9818",
+    "high": "5148.54404",
+    "low": "5142.63571",
+    "open": "5142.724",
+    "change": "0.06",
+    "datetime": "2026-03-12 16:00:00"
+  },
+  "indicators": {
+    "rsi": 41.17015,
+    "macd": -10.29529,
+    "macd_signal": -8.087076,
+    "sma20": 5165.8804
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短期承压震荡，偏向整理",
+      "content": "当前XAU/USD价格位于5145.98附近，短期呈现横盘整理态势。价格低于20日均线5165.88，显示多头动能不足，市场短线偏向承压。24小时波动幅度有限，仅0.06%，说明市场交投谨慎，多空双方暂未形成明显主导力量。  \n\nMACD指标为-10.29，处于零轴下方，暗示下行动能仍在，但由于缺乏信号线参考，短期趋势存在不确定性。RSI未提供，但结合均线位置和价格波动，可推测超买压力不明显，短线可能在支撑与阻力之间反复震荡。  \n\n支撑位初步关注5140附近，该位置近期多次获得买盘支撑，跌破则可能触发进一步下探；阻力位关注5165-5170区间，若价格突破，则有望回补前期空头缺口。短线交易应重点观察价格对均线的反应及关键水平的承压情况。  \n\n交易策略上，建议逢低短线介入，但控制仓位，止损可设置在5135以下；若价格冲破5165阻力，可考虑顺势做多以捕捉反弹空间。整体来看，短期市场整理为主，耐心等待突破信号，避免追高或过度空仓操作。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold is showing signs of consolidation around the $5145–$5150 region after recent fluctuations. The intraday high of $5148.54 and low of $5142.64 suggest a narrow trading range, indicating indecision among market participants. The current price sits slightly below the 20-period SMA at $5165.88, which could act as dynamic resistance. Traders should monitor whether prices can break above this SMA convincingly, as this may signal a resumption of an uptrend, while failure to do so could reinforce sideways movement.  \n\nThe MACD reading of -10.30 indicates that bearish momentum is present, although the absence of a signal line makes immediate confirmation difficult. Historically, negative MACD levels in conjunction with price below the SMA suggest cautious sentiment. Without an RSI value, momentum interpretation relies heavily on price action and moving averages. Traders may want to observe whether the MACD begins to converge toward the zero line, which could hint at a potential reversal or reduced bearish pressure in the near term.  \n\nImmediate support can be identified near the recent low at $5142.64, with a more robust level around $5135 if selling pressure intensifies. On the upside, resistance is likely at $5165–$5170, anchored by the SMA and previous intraday highs. A clear breakout above this zone could open the path toward $5180, while a sustained drop below support could invite a retest of $5125. These levels provide actionable reference points for tactical entries and exits.  \n\nFor traders, a cautious approach is advised given the narrow range and mixed signals. Short-term traders might consider fading minor swings between support and resistance, while swing traders could wait for a confirmed breakout above the SMA or a breakdown below key support. Position sizing should be conservative due to the limited momentum, and monitoring global macro cues, such as USD strength or geopolitical risk, will remain essential for anticipating directional shifts in XAU/USD."
+    }
+  }
+}

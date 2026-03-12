@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-03-12T05:16:26.793Z",
+  "price": {
+    "close": "0.78172",
+    "high": "0.78226",
+    "low": "0.78149",
+    "open": "0.78223",
+    "change": "-0.07",
+    "datetime": "2026-03-12 16:00:00"
+  },
+  "indicators": {
+    "rsi": 64.13234,
+    "macd": 0.0010112045,
+    "macd_signal": 0.00089409053,
+    "sma20": 0.7804
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：短线震荡偏多",
+      "content": "当前美元/瑞郎价格报0.78172，较前一交易日微跌0.07%，显示市场短期承压但仍维持震荡格局。价格徘徊在0.78149-0.78226区间，表明多空力量暂时均衡，短线趋势偏向温和上涨。日内波动有限，需关注突破区间后的方向确认。  \n\n技术指标显示，SMA(20)位于0.78040，当前价格略高于均线，暗示多头仍占上风。MACD处于正值0.00101，尽管信号线未显示，但趋势略偏向多头动力，市场可能存在温和上行机会。短期RSI数据缺失，但结合价格与均线可推测动能适中。  \n\n支撑位方面，近期低点0.78149构成短线支撑，跌破可能引发回调至0.7800附近。阻力位在0.78226附近，突破则可能延伸至0.7830-0.7840区间。价格在支撑与阻力之间震荡，可利用区间高抛低吸策略。  \n\n交易上建议短线以顺势操作为主，价格回落接近0.7815可考虑低多，目标看向0.7822-0.7830附近。若价格有效突破0.7823上方，可顺势加仓多单，但需设置0.7810下方止损控制风险。同时谨防突发消息导致的快速波动。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently showing a subtle bearish bias, as reflected by the modest 0.07% decline over the past 24 hours. Price action has remained confined within a narrow range between 0.78149 and 0.78226, suggesting consolidation after recent swings. The market is hovering slightly above the 20-period simple moving average at 0.7804, indicating short-term support is holding. Traders should watch whether the pair can maintain above this level, as a decisive break could signal a resumption of downward momentum.\n\nMomentum indicators paint a mixed picture. The MACD value of 0.0010, while positive, is close to the zero line, implying limited bullish momentum and the possibility of a range-bound environment. Absence of a signal line and RSI readings limits clarity, but the proximity of the current price to the SMA(20) suggests equilibrium between buyers and sellers. This neutral momentum environment often precedes directional breakout, so monitoring intraday volatility is key.\n\nFrom a technical levels perspective, immediate support resides at the SMA(20) near 0.7804, reinforced by the recent low at 0.78149. Resistance is seen at the high of 0.78226, followed by 0.7830 as a psychological barrier. Price action respecting these levels would favor short-term range trading, while a break above or below could indicate a stronger directional move. These levels can guide entry and exit points for both conservative and intraday traders.\n\nConsidering the current consolidation and weak momentum, cautious strategies are advisable. Long positions may be considered near the support zone around 0.7804, with tight stop-loss orders below 0.7800 to limit risk. Conversely, short trades could be explored if the price decisively breaks below the SMA support, targeting the next historical lows. For range-bound conditions, scalping between support and resistance could also provide incremental gains while maintaining risk control."
+    }
+  }
+}

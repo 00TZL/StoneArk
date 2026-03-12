@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-03-12T05:13:19.125Z",
+  "price": {
+    "close": "159.01809",
+    "high": "159.13919",
+    "low": "158.98368",
+    "open": "159.13561",
+    "change": "-0.08",
+    "datetime": "2026-03-12 16:00:00"
+  },
+  "indicators": {
+    "rsi": 61.27859,
+    "macd": 0.20986744,
+    "macd_signal": 0.21965434,
+    "sma20": 158.85189
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：短期盘整偏弱震荡",
+      "content": "当前美元/日元价格位于159.018附近，较昨日微跌0.08%，显示短线承压迹象。高低点159.139与158.983形成了短期震荡区间，价格在区间中下沿震荡，整体趋势偏向整理，但并未出现明显单边行情信号。  \n\n技术指标方面，20日简单均线(SMA)位于158.852，价格略高于均线，表明多头仍有一定支撑。MACD为0.2098，虽处于正值，但缺少信号线参考，显示市场动能偏弱，短线多空力量相对均衡，需关注动能是否出现背离或扩张。  \n\n支撑位关注158.98附近，若跌破该位置，可能引发进一步下探至158.70区域。阻力位在159.14和159.30，若价格有效突破，有望延伸至159.50附近。当前区间震荡特征明显，行情短线方向不明。  \n\n交易建议上，宜以区间交易为主，短线可在支撑附近做低多，阻力附近考虑高空。中线投资者建议耐心等待趋势明朗化再介入，避免追高杀跌，同时结合成交量和其他动能指标确认突破信号，以降低操作风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently trading at 159.01809, showing a slight decrease of 0.08% in the last 24 hours. The price is hovering near recent highs, with the daily range between 159.13919 and 158.98368. This indicates a relatively tight consolidation pattern, suggesting market indecision. While the pair maintains an overall bullish bias, it’s important to note that the lack of clear momentum signals from the RSI and MACD suggests a period of uncertainty in the near term.\n\nFrom a trend analysis perspective, USD/JPY remains in an uptrend, primarily supported by the SMA(20) at 158.85189, which has held as a reliable support level. This suggests that the price is still oriented towards the upside, but with limited momentum. The inability to break decisively above recent highs may lead to consolidation before any attempt to move higher. Traders should keep an eye on this key support level as a potential buy trigger should the price test it again.\n\nDespite the neutral MACD, a positive reading of 0.20986744 suggests that the bulls still maintain slight control over the market. The absence of the RSI value does limit further insights into overbought or oversold conditions, but with the pair sitting near the upper boundary of its recent range, the likelihood of a pullback exists. Resistance appears near the 159.13919 level, with a break above signaling a continuation towards the 159.50 region.\n\nFor traders, short-term strategies should focus on monitoring the support at 158.85, with potential buy orders if the price approaches this level. A break and close above 159.14 could signal a continuation to the upside, but be cautious of a potential reversal if the price fails to sustain these levels. A risk management approach is critical given the current market indecision."
+    }
+  }
+}

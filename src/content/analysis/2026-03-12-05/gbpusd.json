@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-03-12T05:12:37.509Z",
+  "price": {
+    "close": "1.33721",
+    "high": "1.33726",
+    "low": "1.33622",
+    "open": "1.33622",
+    "change": "0.07",
+    "datetime": "2026-03-12 16:00:00"
+  },
+  "indicators": {
+    "rsi": 37.40279,
+    "macd": -0.0015357974,
+    "macd_signal": -0.0011629618,
+    "sma20": 1.34008
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：短期偏弱整理",
+      "content": "当前英镑/美元报价1.33721，接近日内低点1.33622，显示价格短线承压。整体来看，汇价在1.3360-1.3400区间内震荡，未形成明确突破趋势，短期仍以横盘整理为主，需关注市场情绪及美元强弱对波动的影响。  \n\n技术指标方面，MACD值为-0.0015且低于零轴，显示空头动能略占优势，但信号线缺失限制了趋势确认。SMA(20)在1.34008上方，当前价格位于均线下方，暗示短期仍有下行压力。若RSI可用，将有助于判断超买或超卖情况。  \n\n关键支撑位位于1.3360附近，若跌破可能加速下行；阻力位在1.3400-1.3410区域，多次触及未能突破，形成明显压制。交易者应关注这些水平的突破或反弹，以捕捉短线机会。  \n\n操作建议上，短线可考虑在接近支撑位附近布局多单，止损控制在1.3355以下；若价格反弹至阻力区域，可尝试短线空单，止盈参考1.3360-1.3370区间。整体建议保持灵活，关注宏观数据及市场流动性变化。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD currency pair is currently trading at 1.33721, showing a minor positive change of 0.07% in the last 24 hours. The pair has traded between 1.33622 and 1.33726 during this period, indicating relatively tight price action. The pair has been in a neutral to slightly bearish trend recently, with a current market price below the 20-period simple moving average (SMA) of 1.34008. This suggests that the medium-term sentiment might lean towards further downside potential unless there's a significant breakout.\n\nThe absence of a detailed RSI(14) reading complicates the ability to determine the overbought or oversold conditions directly. However, the negative MACD value of -0.0015 points to a bearish momentum shift, as the MACD histogram is likely below its signal line, indicating a potential weakening of buying interest. Traders should be cautious of continued downward pressure if the negative momentum persists. A close below the SMA would strengthen the bearish outlook, signaling that sellers might dominate in the short term.\n\nSupport levels are evident around the 1.3360 area, which could act as a short-term floor, providing some buying interest. If the price holds above this level, it may create an opportunity for a potential rebound. On the other hand, resistance is expected around 1.3400, where the SMA and recent highs converge. A break above this level would open the door for a more bullish reversal. However, the current price action suggests that it’s more likely to face challenges breaking through this barrier in the near term.\n\nConsidering the recent price range and technical indicators, a prudent approach might involve waiting for confirmation either at 1.3360 support or 1.3400 resistance levels. Short-term traders might find opportunities on a bounce at support or a break above resistance. However, given the current bearish sentiment indicated by the MACD, caution is advised until there’s a clear trend reversal."
+    }
+  }
+}
