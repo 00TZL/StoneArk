@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-03-13T05:09:01.641Z",
+  "price": {
+    "close": "1.15019",
+    "high": "1.15043",
+    "low": "1.15016",
+    "open": "1.15035",
+    "change": "-0.02",
+    "datetime": "2026-03-13 16:00:00"
+  },
+  "indicators": {
+    "rsi": 29.1076,
+    "macd": -0.0012840762,
+    "macd_signal": -0.0013161824,
+    "sma20": 1.15215
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[短期震荡整理，待突破]",
+      "content": "当前欧元/美元价格位于1.15019，呈现出短期震荡整理的走势。价格接近SMA(20)的水平1.15215，表明市场处于平衡状态，尚未显示出明确的上涨或下跌信号。近期的波动范围较窄，高点为1.15043，低点为1.15016，显示出买卖双方的力量相对均衡。\n\n技术指标方面，MACD目前处于负值区间，表明短期内可能存在一定的下行压力，但由于Signal数据缺失，暂时难以判断是否会形成强烈的卖出信号。RSI数据缺失，也无法提供超买或超卖的具体参考，因此趋势判断仍需结合其他指标进行确认。\n\n支撑位方面，当前1.15016附近可视为短期支撑位，一旦突破该区域，可能会测试更低的价格水平。阻力位则位于1.15215附近，这与SMA(20)重合，若突破该价位，有望恢复上涨动力。市场需关注价格是否会突破这些关键区间，进而决定下一步走势。\n\n交易建议方面，建议投资者暂时观望，待价格突破1.15215或跌破1.15016时再做决策。若突破阻力位，可考虑适度做多；反之，若下破支撑位，可考虑做空。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD market is currently trading at 1.15019, showing a minimal 24-hour change of -0.02%. This suggests that the pair is relatively stable, experiencing low volatility within the daily range of 1.15043 and 1.15016. The overall trend remains neutral, with no significant price movement or breakout in either direction. The pair is consolidating within a tight range, indicating a lack of clear momentum at this point. Traders should remain cautious, as further consolidation or a breakout could dictate the next directional move.\n\nLooking at the SMA(20) at 1.15215, the price is currently trading slightly below this key short-term moving average, suggesting a mild bearish bias in the immediate term. However, the difference is marginal, and a reversal back above the SMA could signal a shift in sentiment towards a more bullish outlook. The absence of a clear RSI reading limits our understanding of the market's overbought or oversold conditions, making it important to wait for additional confirmation from price action or other indicators before taking a position.\n\nIn terms of support and resistance levels, immediate support is found at the recent low of 1.15016, while the resistance zone appears around 1.15200–1.15215. A break below the 1.15016 support could lead to further downside, potentially targeting 1.14850. Conversely, if the price breaks above 1.15215, it could retest higher levels, possibly reaching 1.15500. These key levels should be watched closely as they could define the near-term price action.\n\nTrading strategies in this environment should focus on range-bound tactics, such as buying near the support level and selling near resistance. With low volatility, it's also crucial to set tight stop losses and avoid excessive risk, as sudden price spikes could trigger unexpected moves. Long positions could be considered on a bullish reversal from support, while short positions could be explored if the price fails to break above resistance."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-03-13T05:09:41.830Z",
+  "price": {
+    "close": "1.33291",
+    "high": "1.33326",
+    "low": "1.33285",
+    "open": "1.33317",
+    "change": "-0.02",
+    "datetime": "2026-03-13 16:00:00"
+  },
+  "indicators": {
+    "rsi": 33.21199,
+    "macd": -0.0012841647,
+    "macd_signal": -0.0012455893,
+    "sma20": 1.33557
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：短期横盘偏弱震荡",
+      "content": "当前英镑/美元价格在1.3329附近震荡，较20日均线1.33557略低，显示短期多头动能不足。价格在过去24小时内波动幅度有限，市场缺乏明确方向，呈现横盘整理特征。短线趋势偏弱，但整体仍在关键支撑上方震荡，需关注后续突破信号。  \n\nMACD指标显示负值，暗示空方力量占优，但由于信号线不可用，动能确认尚不完全。RSI缺失使超买超卖状态无法判断，但结合均线位置，价格短期承压于SMA20附近，短线可能维持低位盘整。技术面仍偏谨慎，投资者应注意行情波动的快速反转风险。  \n\n支撑位方面，下方初步支撑在1.3325附近，若跌破可能加速空头回调，进一步支撑在1.3300附近。阻力位在1.3355至1.3360区间，如价格有效突破，则多头有望短线反弹。关键价位附近的成交密集区将决定短期行情节奏。  \n\n交易策略上，建议谨慎操作，短线可考虑高抛低吸策略。在价格未突破SMA20和关键阻力前，保持观望为主，若跌破支撑则可考虑小幅空单。结合风险管理，止损位可设在支撑下方10-15点，控制回撤风险。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently in a slight downtrend, with the latest price at 1.33291 showing minimal movement over the past 24 hours (-0.02%). The price has remained within a narrow range, fluctuating between 1.33285 and 1.33326, suggesting a market in consolidation. With this range-bound price action, traders may be awaiting a breakout for clearer directional bias. At present, the pair remains below the 20-period simple moving average (SMA) of 1.33557, indicating a bearish short-term sentiment.\n\nThe absence of a readily available RSI and MACD signal makes it difficult to assess momentum precisely. However, the negative MACD value of -0.00128 suggests the underlying momentum may still be slightly bearish. Without strong bullish signals or oversold conditions from the RSI, the pair's price action remains hesitant. Traders should closely monitor for either a crossover in the MACD or a significant price move that could lead to more defined trends in the coming sessions.\n\nKey support levels for GBP/USD are near 1.33285, with further support around 1.33000. On the upside, resistance is at the recent high of 1.33326, and a break above this could potentially target the next resistance at 1.33600, aligning closely with the SMA at 1.33557. Given the narrow trading range, any breakouts beyond these levels may signal the next leg of movement for the pair.\n\nFor traders, patience may be key. It would be prudent to wait for a decisive move beyond 1.33326 or a significant reversal at support before entering trades. Conservative traders may prefer to stay sidelined until the market shows more clarity, while more aggressive traders could look for opportunities to trade within the current range, capitalizing on short-term fluctuations."
+    }
+  }
+}

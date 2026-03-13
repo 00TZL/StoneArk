@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-03-13T05:13:14.533Z",
+  "price": {
+    "close": "0.78675",
+    "high": "0.78693",
+    "low": "0.78671",
+    "open": "0.78679",
+    "change": "-0.01",
+    "datetime": "2026-03-13 16:00:00"
+  },
+  "indicators": {
+    "rsi": 74.72449,
+    "macd": 0.0013907817,
+    "macd_signal": 0.0013664191,
+    "sma20": 0.784783
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：震荡整理中",
+      "content": "目前美元/瑞郎(USD/CHF)价格在0.78675附近波动，显示出短期内震荡整理的趋势。价格在0.78693和0.78671之间波动，暗示市场缺乏明确的方向。考虑到24小时变化仅为-0.01%，该货币对暂时处于横盘状态，缺乏强烈的趋势信号。\n\n在技术指标方面，尽管MACD当前值为0.0013907817，但尚未显示出强烈的买入或卖出信号，且RSI值缺失，无法从超买或超卖的角度做进一步分析。SMA(20)支撑位为0.78478，表明若价格跌破该水平，可能会进一步走低。整体来看，当前市场缺乏明确的动能，需要等待更多技术信号确认。\n\n从支撑和阻力层面来看，支撑位位于0.78671附近，而阻力位则接近0.78693。如果价格突破阻力位，可能会尝试进一步上涨，但如果跌破支撑位，则可能会有较大的下行空间。此时，交易者应密切关注这些关键价格区间。\n\n建议保持观望，耐心等待价格突破重要支撑或阻力位再做决定。在缺乏明确趋势的情况下，过早入场可能会面临较高的风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "USD/CHF is exhibiting a relatively neutral intraday profile, trading at 0.78675 with minimal change over the last 24 hours. Price action has been contained within a narrow range of 0.78671 to 0.78693, suggesting a period of consolidation. The slight downward movement indicates the pair may be pausing after recent advances, with buyers and sellers largely balanced. Short-term momentum remains subdued, and traders should be cautious about entering aggressive positions until a clearer directional bias emerges.  \n\nThe SMA(20) at 0.78478 acts as a near-term dynamic support, and with the current price slightly above it, there is room for mild upside continuation. The MACD value of 0.00139, though positive, is minimal, hinting at weak bullish momentum. The absence of the signal line prevents a full crossover analysis, but the small MACD suggests that upward movement may be slow and prone to pullbacks. Momentum indicators imply that USD/CHF could test the SMA support if the current consolidation resolves downward.  \n\nKey support lies at the lower end of today’s range around 0.78670, reinforced by the 20-period SMA. Resistance is immediately above near 0.78695, followed by 0.78720 if bullish pressure intensifies. Breaks beyond these levels could define the next directional move, with a clean break above resistance potentially attracting short-term buyers and a breach below support likely triggering stop-losses and renewed selling interest. Price compression near these points signals potential volatility once a breakout occurs.  \n\nFor trading, cautious range-based strategies are advisable. Short-term traders may consider buying near the SMA support with tight stops below 0.78660, targeting the 0.78695–0.78720 resistance zone. Conversely, short positions could be initiated if the price decisively closes below the SMA, aiming for lower levels near 0.78650. Given the lack of strong momentum, patience is key, and waiting for clear confirmation from candlestick patterns or a MACD signal would improve risk-reward alignment.  \n\nWord count: 278"
+    }
+  }
+}

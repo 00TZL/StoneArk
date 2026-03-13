@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-03-13T05:13:58.945Z",
+  "price": {
+    "close": "5107.16743",
+    "high": "5107.16743",
+    "low": "5103.04644",
+    "open": "5104.18201",
+    "change": "0.06",
+    "datetime": "2026-03-13 16:00:00"
+  },
+  "indicators": {
+    "rsi": 41.90529,
+    "macd": -14.15464,
+    "macd_signal": -16.26298,
+    "sma20": 5119.99248
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理，等待突破信号]",
+      "content": "目前黄金/美元在5100附近震荡整理，价格区间小幅波动，短期走势表现为横盘整理。鉴于当前缺乏明确的趋势，市场参与者仍在等待进一步的突破信号。近期价格较为接近20日简单移动平均线（SMA20）5119.99，未能突破此位置，表明当前市场缺乏明显的上涨或下跌动力。\n\nMACD指标显示为负值（-14.15），但信号线尚未确定，表明当前市场可能处于空头主导的整理阶段。RSI数据缺失，但根据当前走势判断，市场的动能相对较弱。价格短期内可能会继续围绕5110附近区间整理，直到出现突破。\n\n支撑位方面，5100大关可以作为短期的支撑位，若价格下破该水平，可能会进一步测试更低的价格区域。阻力位则位于5119.99，若突破此位，则有可能迎来反弹行情，进一步测试5200附近的更高价位。\n\n建议投资者短期内可以采取观望策略，等待突破性行情的出现。若价格突破5119.99上行，考虑跟进多单；若下行突破5100支撑，则可考虑适量空单操作，利用市场震荡的空间进行交易。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current price of XAU/USD stands at 5107.16743, showing minimal movement over the past 24 hours, with a slight increase of 0.06%. The market remains relatively range-bound, with the high and low being 5107.16743 and 5103.04644, respectively. The price action indicates a potential consolidation phase, as there is no significant breakout or reversal. With a lack of notable directional movement, the trend is neutral at the moment, signaling potential indecision among traders. A clear breakout above or below the established range will be necessary to determine the next major move.\n\nIn terms of indicators, the absence of a visible RSI value leaves a gap in our momentum analysis. However, the MACD stands at -14.15464, suggesting a bearish momentum shift, although no clear signal line is present for a crossover confirmation. This negative MACD reading suggests a slight bearish bias in the short term, but it remains inconclusive until further confirmation emerges. The current positioning implies that the market is neither overbought nor oversold, reinforcing the neutral sentiment.\n\nThe SMA(20) at 5119.99248 provides some context for potential price levels. With the price currently trading below the SMA, it signals that there might be downward pressure in the near term, particularly if the market fails to reclaim this level. A break above the SMA could signal a shift towards a more bullish outlook. Traders should watch for price action around this level for confirmation of any breakout or reversal.\n\nKey support lies at the recent low of 5103.04644, which is a crucial level for maintaining the current range. A break below this level would expose further downside potential, with possible support near 5090. Resistance at 5115-5120 would need to be broken for any bullish continuation. Traders should focus on these key levels and look for confirmation from momentum indicators for actionable trades."
+    }
+  }
+}

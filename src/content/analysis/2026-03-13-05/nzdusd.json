@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-03-13T05:12:33.466Z",
+  "price": {
+    "close": "0.58311",
+    "high": "0.58318",
+    "low": "0.58307",
+    "open": "0.58307",
+    "change": "0.01",
+    "datetime": "2026-03-13 16:00:00"
+  },
+  "indicators": {
+    "rsi": 17.2082,
+    "macd": -0.0016507199,
+    "macd_signal": -0.0015375322,
+    "sma20": 0.586057
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：震荡整理，短期偏空",
+      "content": "目前纽元/美元价格在0.58311附近震荡整理，呈现出短期偏空的走势。尽管24小时变化仅为0.01%，但价格在0.58307和0.58318之间的波动表明市场存在一定的横盘整理迹象，未能有效突破上下轨。\n\n技术指标方面，MACD目前显示为负值（-0.00165），意味着短期内卖盘压力较大，但由于信号线数据缺失，我们需要进一步观察MACD的动向。RSI数据暂缺，无法从该指标上判断是否处于超卖或超买状态。SMA(20)的0.58605仍高于当前价格，可能是近期的短期阻力位。\n\n支撑位方面，0.58307一带可能为近期的关键支撑区域，如果价格跌破该水平，可能会进一步下探至0.58200附近。而0.5860附近则是短期阻力区，突破后有望恢复上涨走势。\n\n综上所述，当前市场形态较为平稳，但短期内偏向下行。建议交易者在价格接近0.5860时考虑做空，若突破支撑位0.58307，可适当调整策略。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently trading in a narrow range near the 0.583 level, with minimal 24-hour price change. Given the lack of significant momentum, the pair appears to be in a consolidation phase. Price is hovering just above its recent low of 0.58307, suggesting that the market is undecided on the direction. The 20-period SMA at 0.58606 provides some resistance, which could limit upside potential if price tests this level again. A breakout above this moving average may signal a shift towards more bullish sentiment.\n\nThe RSI(14) is unavailable, but the MACD value of -0.00165 indicates weak bearish momentum. The negative MACD suggests that the sellers currently have a slight edge, although the absence of a significant trend confirms that this is not a strong downtrend. The lack of a signal line for MACD makes it harder to draw definitive conclusions, but the market is still in a neutral to slightly bearish stance. Traders should be cautious of shorting without confirmation of sustained momentum below key support levels.\n\nKey support lies at 0.58307, with further downside risk if price breaks below this level. A move beneath this support could see the pair testing the 0.5800 region, where additional buying interest may emerge. On the other hand, resistance sits around the 20-period SMA at 0.58606. If the price breaks above this moving average, it could pave the way for a rally towards 0.5900, a potential short-term target for bulls. Watch for a breakout or rejection at these levels.\n\nFor traders, waiting for a confirmed breakout either above 0.58606 or below 0.58307 would be prudent. A move above the SMA could signal a buying opportunity, while a dip below the support might offer a chance to short. Given the current lack of strong indicators, patience is key, as the market needs further clarification on its next directional move."
+    }
+  }
+}

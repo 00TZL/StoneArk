@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-03-13T05:10:23.145Z",
+  "price": {
+    "close": "159.42639",
+    "high": "159.50496",
+    "low": "159.42639",
+    "open": "159.48713",
+    "change": "-0.04",
+    "datetime": "2026-03-13 16:00:00"
+  },
+  "indicators": {
+    "rsi": 62.24811,
+    "macd": 0.14099607,
+    "macd_signal": 0.14159841,
+    "sma20": 159.2105
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[当前市场偏多，短期震荡调整]",
+      "content": "当前美元/日元的市场价格为159.42639，呈现轻微下跌走势。尽管24小时变化仅为-0.04%，但价格接近日内低点，显示出短期震荡的可能性。从整体趋势来看，美元/日元依然维持在上行通道内，长线偏多，但短期内可能会出现一定的调整。\n\nMACD指标显示当前的值为0.14099607，表明市场仍有一定的上行动力，尽管缺少信号线数据帮助进一步确认。RSI指标暂时缺失，但结合SMA(20)的支持位159.21050来看，价格回调至此区间后可能会得到支撑。若价格跌破该支撑位，可能会进一步测试159.00区域的支撑。\n\n考虑到目前的技术面，美元/日元可能会在短期内继续震荡调整，突破159.50后可能会加速上涨。若价格再次接近159.21附近支撑，可考虑做多，止损位可设置在159.00区域。若突破159.50，则可能引发进一步的上涨，目标关注160.00。\n\n整体建议保持谨慎乐观，利用短期震荡提供的交易机会。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently experiencing a minor pullback at the latest price of 159.42639. Despite the small 24-hour decline of -0.04%, the pair has maintained its upward momentum over the recent sessions. The current market price is positioned just slightly below the recent high of 159.50496, suggesting the potential for a continuation of this uptrend if buyers regain control. Given the overall bullish trajectory, any pullbacks could be viewed as buying opportunities, provided they stay above key support levels.\n\nIn terms of technical indicators, the absence of a current RSI reading limits insight into potential overbought or oversold conditions. However, the MACD at 0.14099607 indicates a slight bullish bias, though without a defined signal line crossover, the momentum appears relatively neutral. The absence of RSI and signal data underlines the importance of price action in this analysis, with market participants likely focusing on the support and resistance levels to gauge the next move.\n\nSupport for the USD/JPY is seen at the 159.21050 level, where the 20-period Simple Moving Average (SMA) provides a solid foundation. A decline to this area could prompt buying interest, with traders likely targeting a rebound from this level. Should the price dip further, the next support zone could lie around 159.000, a psychological level that could attract further bids. The 159.50496 high acts as immediate resistance, where the market would need to break convincingly to maintain the bullish outlook.\n\nTraders should watch for a break above the 159.50 resistance for further confirmation of the uptrend. A strong move past this level would suggest more bullish potential, with targets possibly extending to 160.00. On the downside, the area around the 159.21050 SMA should be closely monitored as a potential entry point for long positions if the price consolidates above this level."
+    }
+  }
+}

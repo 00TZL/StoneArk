@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-03-13T05:11:05.924Z",
+  "price": {
+    "close": "0.70626",
+    "high": "0.7064",
+    "low": "0.7062",
+    "open": "0.70637",
+    "change": "-0.02",
+    "datetime": "2026-03-13 16:00:00"
+  },
+  "indicators": {
+    "rsi": 26.98685,
+    "macd": -0.0015787189,
+    "macd_signal": -0.0015166127,
+    "sma20": 0.7088015
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短期震荡偏弱",
+      "content": "从价格走势来看，澳元/美元当前位于0.70626，接近日内低点0.7062，显示短期承压。整体来看，价格低于20日简单移动平均线(SMA20) 0.7088，暗示短期均线趋势偏空，空头力量略占上风。市场缺乏明显突破，可能维持区间震荡。  \n\nMACD指标显示当前值为-0.00158，呈现负值状态，表明下行动能存在，但信号线未明确，意味着趋势尚未完全确立。价格与均线的背离有限，短期可能仍以观望为主，等待更明确的动量确认。RSI未提供，但结合其他指标，超买超卖压力较小，反弹空间有限。  \n\n支撑位关注0.7050-0.7060区间，如跌破可能进一步向0.7040靠拢；阻力位在0.7088附近，即20日均线位置，突破则有机会试探0.7100关口。日内价格波动幅度较小，操作需谨慎，避免追涨杀跌。  \n\n交易策略上，建议短线投资者以震荡为主，可考虑在支撑区间轻仓多单，目标上看SMA20附近，跌破支撑可逐步介入空单，严格控制止损。中长线投资者可等待价格突破均线确认趋势，再进行方向性布局，降低风险暴露。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair currently shows a very tight range, with the latest price hovering around 0.70626. Given the narrow price movement over the last 24 hours, it seems the market is consolidating near the key level of 0.7060. This price action could indicate indecision among traders as they await further cues from global factors or economic data. The inability to break above the 0.7088 SMA suggests a bearish sentiment, but the current trend remains neutral without a clear directional bias. If the pair can break out either way, the trend could gain more clarity.\n\nIn terms of technical indicators, the MACD value of -0.0015787189 shows a slight bearish momentum. While the absence of a signal line complicates the interpretation of the MACD’s potential crossover, the negative value suggests underlying weakness. A further drop below 0.7060 could trigger increased selling pressure, possibly leading to a retest of the support zone. Without the RSI data available, it's important to keep a close watch on other momentum indicators for additional signs of oversold conditions or potential reversal points.\n\nSupport for AUD/USD appears to be at 0.7062, with further levels beneath this zone likely to hold at 0.7050, which has historically acted as a pivot point. Resistance remains at the 0.7088 level, coinciding with the 20-period simple moving average. A break above this level could open the door to higher levels, particularly toward the 0.7100 zone. Short-term traders might look for potential breakouts above 0.7088 for a bullish move or anticipate further downside if the pair fails to hold the 0.7062 support.\n\nGiven the market's lack of clear trend direction, traders should adopt a cautious approach. Those considering short positions should look for a sustained break below 0.7060, while those aiming for long trades might wait for a confirmed move above 0.7088. A neutral stance with tight stop losses could also be beneficial while the pair consolidates in its current range."
+    }
+  }
+}
