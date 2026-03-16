@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-03-16T05:47:46.445Z",
+  "price": {
+    "close": "0.70125",
+    "high": "0.70139",
+    "low": "0.70046",
+    "open": "0.70046",
+    "change": "0.11",
+    "datetime": "2026-03-16 16:00:00"
+  },
+  "indicators": {
+    "rsi": 64.67974,
+    "macd": 0.00072355207,
+    "macd_signal": 0.00050097519,
+    "sma20": 0.6993155
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，略偏多]",
+      "content": "当前，澳元/美元汇率处于0.70125附近，全天变化幅度较小，维持震荡整理的态势。价格接近前期的支撑位0.70046，且未见显著突破，因此暂时无法确认强烈的趋势方向。整体趋势较为平稳，市场情绪偏向于横盘。\n\n从技术指标来看，当前未提供RSI（相对强弱指数）数据，但MACD指标为0.00072355207，表明市场动能相对较弱。短期内，澳元/美元可能保持在0.7000至0.7030区间内震荡，缺乏明显的趋势指引。20日简单移动平均线（SMA20）为0.6993，也暗示着市场未能形成强劲的多头或空头信号。\n\n支撑位方面，0.7000和0.70046附近仍为关键支撑区域，一旦价格跌破这些水平，可能会加剧短期的下行压力。阻力位则在0.70139和0.7030处，若价格突破这些区域，可能会迎来短期反弹。\n\n综合来看，建议保持谨慎的交易策略，适合区间操作。可以在接近支撑位时考虑轻仓做多，而接近阻力位时则可以考虑适度做空。市场情绪偏向震荡，短期内难以看到大幅波动。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently in a consolidation phase, hovering near the 0.70125 mark, reflecting a minor 0.11% upward movement in the past 24 hours. Given its proximity to the recent high of 0.70139, the pair appears to be facing mild resistance. The broader market context suggests that the pair could attempt to test this level once again in the near term, but it will likely require significant momentum to break through. The price action indicates a range-bound environment, where buyers and sellers are in a tug-of-war at these levels.\n\nIn terms of technical indicators, the absence of a clear RSI reading and the undefined MACD signal make it difficult to establish an overbought or oversold condition. However, the MACD value of 0.00072355207 hints at a slight bullish momentum, which aligns with the price's recent increase. The fact that the MACD signal remains absent suggests there isn't yet a strong directional push from the market, implying that caution is required for any trades. The price's movement closely mirrors the 20-period Simple Moving Average (SMA), indicating the market is still largely balanced.\n\nSupport for AUD/USD stands at the 0.70046 level, where the price has previously found buyers, while the resistance zone is just above the 0.70139 mark. A failure to break above this resistance could lead to a pullback toward the lower end of this range. Traders should monitor these levels closely, as a breach of either could signal a stronger directional move. If the pair breaks the support at 0.70046, further downside to 0.6990 or lower could be seen, providing a potential short opportunity.\n\nGiven the current market dynamics and the lack of strong momentum, traders may consider adopting a wait-and-see approach, using price action to confirm a break above or below these key levels. A close above 0.70139 could signal an opportunity to buy, while a sustained drop below 0.70046 could offer a short entry. Risk management will be essential, as the market is not yet showing clear signs of a strong trend."
+    }
+  }
+}

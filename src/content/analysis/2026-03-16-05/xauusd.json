@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-03-16T05:50:33.271Z",
+  "price": {
+    "close": "5016.86422",
+    "high": "5017.11915",
+    "low": "5004.27036",
+    "open": "5012.99635",
+    "change": "0.08",
+    "datetime": "2026-03-16 16:00:00"
+  },
+  "indicators": {
+    "rsi": 49.18602,
+    "macd": -2.2114,
+    "macd_signal": -2.2704,
+    "sma20": 5017.52991
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理，短期横盘]",
+      "content": "当前黄金/美元(XAU/USD)的价格在5016.86附近震荡整理，波动幅度较小。24小时内变化仅为0.08%，显示市场情绪较为平稳。尽管价格轻微上涨，但未能突破明显的阻力区，因此短期内可能继续维持横盘整理的趋势。\n\n从技术指标来看，MACD处于负值区间，显示出市场的卖压较强。由于未给出RSI和Signal线数据，暂时难以明确是否存在超卖或超买的信号。SMA(20)略低于当前价格，表示短期均线支撑依然有效，但如果价格跌破此水平，可能会加剧下行风险。\n\n支撑位方面，5004.27是近期低点，若价格回落至此，将可能找到支撑并反弹。上方的阻力位则在5017.12附近，若突破该区域，则有可能挑战更高的价格区间，接近5025-5030的水平。\n\n考虑到目前价格处于区间震荡，建议在接近支撑位时寻求买入机会，而在接近阻力位时考虑卖出或保持观望。操作策略上，可结合价格的突破或回撤来进行调整，控制好风险。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold is exhibiting a subtle consolidation phase around the $5016-$5017 range after recent sideways movement. The price is slightly below the 20-period SMA at $5017.53, suggesting mild short-term bearish pressure, though the narrow daily range of $5004.27 to $5017.12 indicates limited volatility. The market appears hesitant, reflecting equilibrium between buyers and sellers, with no clear breakout momentum yet. Traders should watch for a decisive move above $5017.50 or below $5004.20 to signal the next directional bias.\n\nThe MACD reading of -2.21 points to weak bearish momentum, although the absence of a signal line prevents a complete crossover analysis. This negative divergence suggests that sellers are modestly dominant but without strong conviction. In combination with price hovering near the SMA, this signals potential sideways drift or minor retracement before any directional expansion. Momentum-based traders should exercise caution and avoid aggressive positions until a clearer trend emerges.\n\nKey support lies near $5004, marking the lower bound of the recent consolidation zone. A breakdown below this level could expose further downside toward $4985-$4990, making it a critical defensive threshold. Resistance is immediately at $5017-$5020, coinciding with the SMA and recent intraday highs. A sustained break above $5020 could open the path toward $5040, presenting potential upside opportunities. Monitoring volume and short-term candlestick patterns will be essential to confirm these levels.\n\nFor trading strategy, conservative traders may consider range-bound strategies, buying near $5004 with tight stops and targeting $5017-$5020. Trend-following traders should wait for a breakout above resistance or a breakdown below support for clearer entries. Given current low volatility and weak momentum, patience is key, as premature entries could result in whipsaw losses. Overall, the market remains cautious, suggesting short-term trades should prioritize risk management and confirmation signals."
+    }
+  }
+}

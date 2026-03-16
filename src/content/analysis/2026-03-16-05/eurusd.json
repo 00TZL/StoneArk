@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-03-16T05:45:41.571Z",
+  "price": {
+    "close": "1.14391",
+    "high": "1.14437",
+    "low": "1.14365",
+    "open": "1.14422",
+    "change": "-0.03",
+    "datetime": "2026-03-16 16:00:00"
+  },
+  "indicators": {
+    "rsi": 48.051526,
+    "macd": -0.00012502543,
+    "macd_signal": -0.00036602759,
+    "sma20": 1.14347
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：震荡整理中，短期关注支撑/阻力",
+      "content": "当前欧元/美元维持在1.14391附近，市场呈现震荡整理态势。价格未能突破前高1.14437，也未下破前低1.14365，表明市场暂时处于观望状态。短期内可能继续在该区间内波动，等待更明确的方向信号。\n\n从技术指标来看，MACD目前处于轻微负值区，显示出短期卖盘力量较为微弱。由于RSI数据缺失，无法判断超买或超卖状态，但结合SMA(20)位于1.14347附近，价格小幅上行或可面临较强的压力。\n\n支撑位位于1.14365一线，若价格跌破此位，可能进一步回调至1.1425附近。上方的阻力位为1.14437，突破该位置将为进一步上涨提供信号，目标可能指向1.1460。\n\n基于当前震荡走势，建议保持短线操作，关注突破关键支撑/阻力位后的信号确认。对于保守型交易者，可以等待价格突破1.14437后做多，而激进型交易者则可在支撑位附近寻找反弹机会。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently in a narrow consolidation phase, with the price trading just above the 20-period simple moving average (SMA) at 1.14347. This indicates that there is some balance between buyers and sellers in the market. Given the slight downward 24-hour change of -0.03%, the trend appears neutral at the moment. The lack of a significant upward or downward movement suggests a lack of strong momentum, which could result in a range-bound market until a clear catalyst emerges.\n\nThe absence of the Relative Strength Index (RSI) and the MACD signal complicates a definitive momentum reading. However, the MACD value of -0.00012502543 hints at mild bearish pressure, though it's not significant enough to suggest an imminent downtrend. Traders will need to closely monitor these indicators for a potential cross or divergence that could signal a shift in market sentiment. The current price action and lack of strong directional signals imply that the market is waiting for further cues, possibly from upcoming economic data or geopolitical events.\n\nFrom a technical perspective, the immediate support for the EUR/USD pair is at 1.14365, just above the daily low. A breach below this level would open the door for further downside movement, with the next support level around 1.14300. On the upside, resistance is seen at 1.14437, the recent daily high. A break above this level could trigger a move toward 1.14500, potentially indicating a more bullish short-term outlook.\n\nGiven the current market conditions, the best approach would be to trade cautiously within this tight range. A break above resistance or below support could offer clearer directional signals. For now, a wait-and-see approach is advisable, with potential for short-term scalping opportunities in either direction, but always mindful of the lack of strong trend momentum."
+    }
+  }
+}

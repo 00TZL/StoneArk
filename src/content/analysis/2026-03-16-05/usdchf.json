@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-03-16T05:49:50.944Z",
+  "price": {
+    "close": "0.79029",
+    "high": "0.79051",
+    "low": "0.79",
+    "open": "0.79023",
+    "change": "0.01",
+    "datetime": "2026-03-16 16:00:00"
+  },
+  "indicators": {
+    "rsi": 38.7703,
+    "macd": -0.0012984725,
+    "macd_signal": -0.0011905932,
+    "sma20": 0.791899
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：短期震荡偏弱",
+      "content": "当前美元/瑞郎报价0.79029，较昨日几乎持平，显示市场缺乏明显方向性。从价格走势看，汇价在0.79至0.7905区间小幅波动，短期呈现震荡格局。20日简单移动平均线（SMA20）位于0.7919之上，暗示上方存在一定压制，但整体偏弱，价格仍低于均线。  \n\n技术指标方面，MACD为-0.0013且尚未形成信号线交叉，显示动能偏弱且多空力量接近平衡。缺少RSI数据限制了超买超卖判断，但结合当前震荡走势，可认为市场短期仍偏向观望，短线波动可能以区间震荡为主。  \n\n支撑位关注0.79整数关口，这是近期低点附近的关键心理支撑。如价格跌破该水平，可能进一步测试0.7895区域。阻力位则在SMA20附近0.7919及高点0.7905，若突破，可带动短线反弹，但突破力度需确认。  \n\n交易策略上，短线可考虑区间操作，低位逢低做多，高位接近阻力可逐步减仓或止盈。风险控制方面，止损可设在0.7895下方，而突破阻力时可适度跟进多头，但应关注市场消息和美元整体强弱的联动影响。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently trading at 0.79029, reflecting minimal movement over the past 24 hours with a change of just 0.01%. The market shows a slightly bearish tone, as evidenced by the recent price hovering near its daily low of 0.79, suggesting a potential retest of lower levels. The 20-period simple moving average (SMA) at 0.7919 continues to serve as a short-term resistance, preventing any immediate bullish breakout. The current price action points to a consolidation phase, with a range between 0.79 and 0.7919, where a breakout in either direction could determine the next significant move.\n\nLooking at the MACD, the current reading of -0.0013 suggests that the momentum remains weak to the downside, although no clear crossovers or strong trend signals have appeared yet. This indecisiveness indicates a neutral market environment for USD/CHF in the immediate term. The absence of a well-defined trend and lack of RSI data further emphasize the need for caution, as neither overbought nor oversold conditions are apparent. The market is currently in a state of balance, and traders should be alert to any signals indicating a shift in momentum.\n\nKey support for USD/CHF lies at 0.79, where the price has found a floor over the past few sessions. If this level holds, it could present an opportunity for a potential bounce. A break below 0.79 would expose the pair to further declines, potentially targeting 0.7880. On the upside, the 20-period SMA at 0.7919 acts as immediate resistance, with a breakout above this level suggesting the potential for a move towards 0.7930 or higher.\n\nFor trading strategies, a wait-and-see approach is advisable, focusing on key levels for breakout confirmation. A break above 0.7919 would signal potential upside momentum, while a break below 0.79 would suggest further downside risk. Traders should remain cautious, watching for volatility or any developments that could shift the market out of its current range."
+    }
+  }
+}

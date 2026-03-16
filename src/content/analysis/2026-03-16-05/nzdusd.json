@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-03-16T05:49:09.257Z",
+  "price": {
+    "close": "0.58074",
+    "high": "0.58078",
+    "low": "0.58029",
+    "open": "0.58058",
+    "change": "0.03",
+    "datetime": "2026-03-16 16:00:00"
+  },
+  "indicators": {
+    "rsi": 70.098625,
+    "macd": 0.00071941501,
+    "macd_signal": 0.00047681438,
+    "sma20": 0.57904
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理，短期偏多]",
+      "content": "当前纽元/美元(NZD/USD)的价格在0.58074附近，处于小幅震荡整理区间内。价格略微接近日内高点0.58078，表现出一定的稳定性。由于目前RSI和MACD信号不完全，尚无法确认明确的趋势方向，但短期内的震荡整理偏向多头力量略占优势。\n\n技术指标方面，SMA(20)均线位于0.57904，当前价格略高于此位置，表明短期支撑位在此处。MACD虽然有正值，但缺乏信号线的确认，因此暂时难以明确判断强势买入或卖出的信号。整体来看，市场情绪保持平稳，等待进一步确认方向。\n\n支撑位方面，0.58029附近是近期低点，若价格回调至此区间，可能会获得一定支撑并反弹。阻力位位于0.58100-0.58150区域，此处为近期的高点，若突破则有可能加速上涨。投资者应关注价格在这些关键区域的表现，以确定未来的交易机会。\n\n交易建议上，建议短期内保持观望，除非价格突破阻力位0.58150以上，则可考虑进场做多。若回测至0.58029附近并反弹，可以尝试低位做多，止损设置在0.57900附近，风险控制是关键。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently exhibiting a modestly bullish stance, trading at 0.58074 after fluctuating between a daily low of 0.58029 and a high of 0.58078. The narrow price range indicates consolidation, suggesting that the market is digesting recent movements before committing to a directional breakout. The short-term SMA(20) at 0.57904 positions below the current price, providing support and confirming the minor upward bias. Traders should monitor whether this consolidation resolves above the recent highs to validate continuation of the uptrend.  \n\nThe MACD reading of 0.000719 indicates marginal bullish momentum; although the signal line is not available, the positive value suggests a potential for further upside. In the absence of an RSI, traders should rely on price action and moving averages for gauging overbought or oversold conditions. Given the limited volatility in the past 24 hours, momentum appears subdued, signaling a cautious environment for aggressive positions. The market may require confirmation through a stronger candlestick pattern or intraday breakout before entering significant trades.  \n\nSupport is anchored around the 0.5790 level, aligned with the SMA(20), which has previously provided a reliable floor during short-term corrections. Resistance sits near 0.5810, representing the upper boundary of the recent trading range. A clear breakout above this level could trigger short-term bullish momentum targeting 0.5825, whereas a failure to hold support at 0.5790 might open the path to retest 0.5780. These levels provide actionable points for traders to define stop-losses and potential entry zones.  \n\nConsidering the current technical picture, cautious long positions may be favored above the SMA, with tight risk management due to the compressed trading range. Traders might wait for a breakout confirmation beyond 0.5810 for a more aggressive bullish entry or consider short-term retracements near 0.5790 as opportunities to add long positions. Overall, the market is in a mild uptrend, with momentum building subtly, and careful monitoring of price action around key support and resistance zones remains crucial for effective trade execution.  \n\nWord count: 272"
+    }
+  }
+}

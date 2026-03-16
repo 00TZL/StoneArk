@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-03-16T05:47:05.350Z",
+  "price": {
+    "close": "159.39688",
+    "high": "159.58716",
+    "low": "159.34915",
+    "open": "159.56711",
+    "change": "-0.11",
+    "datetime": "2026-03-16 16:00:00"
+  },
+  "indicators": {
+    "rsi": 40.96715,
+    "macd": -0.05441179,
+    "macd_signal": -0.037661165,
+    "sma20": 159.60276
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理，短期偏空]",
+      "content": "美元/日元在159.39688附近震荡整理，短期内价格未突破重要的支撑或阻力水平。当前价格接近20日简单移动平均线(SMA)，暗示市场可能维持震荡状态。由于RSI未给出明确信号，短期动能不强，价格可能在159.35到159.59区间波动。\n\n技术指标显示，MACD处于负值区间，表明市场可能缺乏上行动能。虽然MACD信号线尚未形成，市场情绪相对疲软。若价格跌破159.35支撑位，可能进一步向下探寻下一个支撑区间。\n\n从支撑/阻力角度看，159.35为短期支撑位，而159.59则为阻力位。若突破159.59上方，可能会尝试测试更高价格，但在当前环境下突破的可能性较小。市场需关注这些关键价格点的突破情况。\n\n交易建议方面，建议短期内观望，等待价格突破159.35或159.59区间。若价格跌破159.35，可考虑做空，止损设在159.59；若突破159.59，则可考虑短期做多。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently trading at 159.39688, reflecting a minor intraday decline of 0.11%. The pair has recently oscillated between a high of 159.58716 and a low of 159.34915, suggesting a relatively narrow trading range. Short-term momentum appears slightly bearish, as the price is trading below the 20-period simple moving average of 159.60276. This positioning indicates that sellers are exerting moderate pressure, and a consolidation phase could persist unless a decisive break occurs above the SMA.  \n\nAlthough the RSI reading is unavailable, the negative MACD value of -0.054411790 implies mild downward momentum. This signals that the short-term trend favors bears, but the absence of a signal line prevents a full confirmation of a crossover. Traders should watch for potential MACD convergence with the signal line, which could hint at either trend continuation or a reversal. Given the limited volatility, any breakout from the current range may offer the clearest directional cues.  \n\nImmediate resistance is seen near 159.60, slightly above the 20-period SMA, while support is located around 159.35, close to the intraday low. A break above 159.60 could open the path toward 159.80–160.00, whereas a breach of 159.35 might accelerate declines toward 159.10–159.00. These levels provide practical entry and exit zones for short-term traders seeking to capitalize on intraday swings, particularly in a range-bound environment.  \n\nConsidering the present dynamics, cautious traders might favor short-term short positions below the SMA, targeting the 159.35 support level, while monitoring for signs of oversold conditions. Conversely, aggressive traders could explore long positions on a confirmed breakout above 159.60, aiming for the 159.80–160.00 region. Risk management is essential, given the tight range and modest momentum, with stop losses positioned just outside the support or resistance zones to avoid being whipsawed by minor intraday fluctuations."
+    }
+  }
+}
