@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-03-17T05:22:35.530Z",
+  "price": {
+    "close": "0.78824",
+    "high": "0.78838",
+    "low": "0.78812",
+    "open": "0.78814",
+    "change": "0.01",
+    "datetime": "2026-03-17 16:00:00"
+  },
+  "indicators": {
+    "rsi": 44.098756,
+    "macd": -0.00052389872,
+    "macd_signal": -0.00074410534,
+    "sma20": 0.7880645
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[震荡整理，短期走势待定]",
+      "content": "目前，美元/瑞郎在0.78812至0.78838区间内震荡整理，价格波动较为有限。虽然24小时变化仅为0.01%，但价格仍显示出一定的横盘整理趋势。若价格突破此区间的上轨0.78838，可能会带动短期上涨，而跌破下轨0.78812，则有可能进一步下探。\n\n技术指标方面，当前没有RSI数据和MACD信号，显示市场动能较为平淡。20日简单移动平均线(SMA)为0.78806450，价格略微高于此水平，表明短期内有一定支撑。但缺乏明显的趋势信号，交易者需关注接下来的价格变化。\n\n在支撑位方面，0.78812是当前的重要支撑区间，一旦下破，可能会引发进一步下行至0.78750附近。而在阻力位上，0.78838则是近期的关键阻力，突破后可能测试0.78900附近的强阻力。\n\n考虑到当前市场的震荡状态，短期内建议以区间操作为主，等待价格突破关键支撑或阻力后再决定进一步的交易策略。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is showing signs of a cautious upward drift, with the latest price slightly above the 20-period SMA at 0.78806. This suggests that short-term momentum is modestly bullish, although the narrow daily range between 0.78812 and 0.78838 indicates low volatility and limited directional conviction. Traders should note that the market is currently consolidating, and any breakout above the intraday high could provide an early signal for a continuation of the upward movement.  \n\nThe MACD reading at -0.00052, though marginally negative, points to subdued bearish pressure, reflecting a market that is indecisive rather than strongly trending. Without a clear signal from the MACD line or RSI data, momentum indicators are neutral, emphasizing the importance of observing price behavior around key levels. A slight move above the SMA could reinforce bullish sentiment, while a dip below may trigger cautious selling or short-term profit-taking.  \n\nImmediate support is found near 0.78812, the daily low, offering a floor for potential pullbacks. Resistance emerges at 0.78838, with a further barrier around 0.78870 if bullish momentum strengthens. These levels provide clear reference points for risk management, particularly for intraday traders. Breakouts beyond these boundaries could indicate a more decisive move, signaling either a bullish extension or a bearish correction.  \n\nTraders may consider range-bound strategies under current conditions, buying near support and selling near resistance, while keeping stop-loss orders tight due to the compressed price action. Should the price convincingly breach the resistance, a measured long position could be initiated with a target toward 0.7890–0.7892. Conversely, a breakdown below support might favor cautious short entries, anticipating a retest of lower intraday levels. Overall, patience and adherence to risk management remain crucial in this low-volatility environment.  \n\nThe word count is 273."
+    }
+  }
+}

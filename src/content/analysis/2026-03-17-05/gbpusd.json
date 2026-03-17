@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-03-17T05:19:09.979Z",
+  "price": {
+    "close": "1.33141",
+    "high": "1.33143",
+    "low": "1.33091",
+    "open": "1.33119",
+    "change": "0.02",
+    "datetime": "2026-03-17 16:00:00"
+  },
+  "indicators": {
+    "rsi": 61.28189,
+    "macd": 0.0012378722,
+    "macd_signal": 0.0014426199,
+    "sma20": 1.33057
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[震荡整理，等待突破]",
+      "content": "当前英镑/美元（GBP/USD）处于区间震荡整理状态，价格在1.33141附近波动。近期未出现明显的趋势变化，市场保持平稳。短期来看，汇价始终在1.33143和1.33091之间震荡，缺乏强势的上涨或下跌动力。若价格突破这些区间，可能会引发新的波动。\n\n技术指标方面，虽然RSI和MACD的详细数据暂时缺失，但可以从SMA(20)的数值（1.33057）看出，汇价维持在其上方，表明短期内市场倾向于维持看涨势头。然而，MACD信号线缺失，显示出当前动能不足的情况，市场处于观望状态。\n\n支撑位在1.33091附近，而阻力位则在1.33143附近。若价格跌破支撑位，可能会加剧卖压，进一步下探至1.32800区域；若突破阻力位，可能会迎来更多买盘，测试1.33500附近的高点。\n\n建议投资者在当前区间内观望，等待突破发生。如果价格突破上方阻力位，可以考虑做多；若下破支撑位，则可考虑做空。然而，需密切关注市场情绪变化，避免过早进场。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD is currently experiencing a stable price movement with a slight positive 24-hour change of 0.02%. The price is holding near the 1.3314 mark, indicating a range-bound pattern within the 1.33091 to 1.33143 levels. This narrow fluctuation suggests a consolidation phase, with traders awaiting more directional cues. The market's current tone is neutral, as no significant momentum has been observed, and the pair remains largely influenced by external fundamental factors.\n\nFrom a technical standpoint, the Relative Strength Index (RSI) remains unavailable, making it difficult to gauge overbought or oversold conditions. However, the price is close to its 20-period Simple Moving Average (SMA) of 1.33057, which acts as a dynamic support. The fact that the price is oscillating just above the SMA indicates that there is potential for further consolidation or a slight bullish bounce. A break above the recent high of 1.33143 could signal a continuation toward higher resistance levels.\n\nLooking at the support and resistance levels, immediate support can be found at the 1.33091 low, with the next level below at 1.33000. On the upside, resistance is seen near the 1.3320-1.3330 zone, where a breakout could open the door to further upside momentum. Traders should monitor price action closely, as a break above or below these levels could determine the short-term direction of the pair.\n\nGiven the current neutral technical setup, a cautious approach is advisable. If the price holds above 1.3314, consider buying with a target near the resistance levels. Alternatively, if the price breaks below 1.33091, selling could be considered, with the next support at 1.33000 in focus. Ensure tight risk management, as the market lacks clear momentum signals at this point."
+    }
+  }
+}

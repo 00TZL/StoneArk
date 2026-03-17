@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-03-17T05:18:29.375Z",
+  "price": {
+    "close": "1.14988",
+    "high": "1.14988",
+    "low": "1.1495",
+    "open": "1.14975",
+    "change": "0.01",
+    "datetime": "2026-03-17 16:00:00"
+  },
+  "indicators": {
+    "rsi": 59.25568,
+    "macd": 0.0010539531,
+    "macd_signal": 0.0012451176,
+    "sma20": 1.14949
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：震荡整理中，短期看涨",
+      "content": "当前，欧元/美元呈现出震荡整理的走势，价格保持在1.1495到1.14988区间内。短期内，市场缺乏明确的趋势方向，可能受到技术面和市场情绪的影响。尽管如此，价格目前维持在20日简单移动平均线（SMA）之上，这通常表明短期内买方略占优势。\n\n在技术指标方面，虽然相对强弱指数（RSI）和MACD信号暂时不可用，但当前的价格位置仍然表现出一定的支撑。1.1495附近构成短期支撑，若价格未能突破这一水平，可能会再次回升至当前价格附近甚至更高。与此同时，价格的上行阻力位大约在1.1500附近，若突破该位置，进一步上涨的可能性较大。\n\n对于交易者来说，可以考虑在支撑位1.1495附近寻找买入机会，止损设置在1.1490下方。若价格突破1.1500阻力位，可以考虑加仓做多。相反，如果价格未能突破阻力并开始回落，保持谨慎的空头策略，等待更明确的信号。总的来说，当前市场缺乏强烈的趋势，因此短期内以震荡整理为主。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD is currently consolidating near 1.14988, reflecting a period of low volatility after recent sideways movement. The intraday range is narrow, with the low at 1.1495, suggesting that buyers and sellers are in temporary equilibrium. This consolidation phase may precede a breakout, so traders should watch for decisive moves beyond the high or low to gauge short-term momentum. Overall, the current price position just above the 20-period simple moving average indicates mild bullish sentiment, but it remains shallow.  \n\nTechnical indicators provide a mixed outlook. The MACD value of 0.00105, although slightly positive, is too close to zero to signal strong momentum. The absence of a signal line reading limits confirmation of a trend. Meanwhile, the SMA(20) at 1.14949 provides short-term support, with the current price hovering just above it, hinting that buyers are maintaining control for now. RSI data is unavailable, which reduces the ability to gauge overbought or oversold conditions, leaving reliance on price action and moving averages for trend assessment.  \n\nSupport is identified around 1.1495, the recent intraday low and the SMA level, which could act as a floor in case of a pullback. Resistance lies slightly higher, near the 1.1505–1.1510 region, where prior intraday highs could cap gains. Breaching this resistance with momentum could signal a continuation toward 1.1520 in the short term. Conversely, a breakdown below 1.1495 could open the door for further retracement to 1.1480, highlighting the importance of monitoring volume and candlestick patterns for confirmation.  \n\nFor trading strategy, cautious traders may prefer range-bound tactics while price remains between support and resistance, entering long near 1.1495 with tight stops and targeting 1.1510. Momentum traders might wait for a clear breakout beyond these levels before committing, using the MACD cross as a confirmation once the signal line forms. Given the narrow trading range and low volatility, risk management is essential, and scalping strategies could be effective for intraday traders, while swing traders should await more defined trend signals before positioning."
+    }
+  }
+}

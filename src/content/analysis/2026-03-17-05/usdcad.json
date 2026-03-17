@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-03-17T05:21:13.884Z",
+  "price": {
+    "close": "1.36849",
+    "high": "1.36873",
+    "low": "1.36835",
+    "open": "1.36838",
+    "change": "0.01",
+    "datetime": "2026-03-17 16:00:00"
+  },
+  "indicators": {
+    "rsi": 45.38801,
+    "macd": -0.00045250196,
+    "macd_signal": -0.00060980778,
+    "sma20": 1.36827
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：短期横盘震荡偏多",
+      "content": "当前美元/加元汇价在1.36849附近波动，日内涨幅微弱，仅0.01%，显示市场短期缺乏明确方向。从高低点1.36873/1.36835来看，价格区间窄，呈现横盘整理特征，但整体仍略偏多。短线多空力量均衡，需关注突破信号以判断后续趋势延续。  \n\n技术指标显示，MACD为-0.00045，略微在零轴下方徘徊，短期动能偏弱，市场可能延续整理走势。SMA(20)位于1.36827，当前价格略高于均线，暗示短期多头略占优势，但缺乏明确拉升动能。RSI指标缺失，无法确认超买或超卖，但结合价格区间可推测市场处于中性区域。  \n\n支撑位可关注1.36835附近的低点，一旦跌破可能触发短期空头回调；阻力位在1.36873高点附近，若有效突破则可能开启短线上行通道。区间操作仍是当前策略核心，突破信号出现前建议保持观望或小仓位交易，避免追高杀低。  \n\n交易建议上，偏向短线多头布局，可在接近支撑位轻仓买入，止损设置略低于支撑位。若价格突破高点且伴随成交量放大，可考虑加仓顺势操作；反之如跌破支撑，应果断止损或反手做空，保持风险可控。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently trading at 1.36849, showing a modest 24-hour change of +0.01%. The price remains within a narrow range, fluctuating between 1.36873 and 1.36835, indicating limited volatility in the short-term. The market's current sentiment appears neutral, with price action struggling to establish a clear directional trend. This stagnation can often signal indecision in the market, possibly indicating consolidation before a potential breakout.\n\nThe Relative Strength Index (RSI) is unavailable, but the current MACD reading of -0.00045 suggests a slight bearish momentum. The MACD is below its signal line, reinforcing the view of bearish pressure, although the lack of a defined trend indicates that market participants are waiting for clearer signals. As the MACD value is close to zero, any significant move will likely depend on external catalysts such as economic data releases or shifts in broader market sentiment.\n\nFrom a technical standpoint, the support level appears at 1.36835, with resistance slightly higher at 1.36873. These levels provide the immediate boundaries for price movement. A break below 1.36835 would expose the pair to further downside, with the next support potentially at 1.36750. Conversely, a breakout above 1.36873 could signal a shift in momentum, with price targeting the 1.3700 mark as a potential resistance area.\n\nGiven the current market conditions, trading strategies should focus on range-bound activity. A scalping or short-term trading approach could work well, targeting small moves within the established support and resistance levels. However, traders should remain cautious of any external factors that could trigger a breakout in either direction, leading to higher volatility and larger price swings."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-03-17T05:20:31.517Z",
+  "price": {
+    "close": "0.70848",
+    "high": "0.70848",
+    "low": "0.70725",
+    "open": "0.70734",
+    "change": "0.16",
+    "datetime": "2026-03-17 16:00:00"
+  },
+  "indicators": {
+    "rsi": 67.24767,
+    "macd": 0.0015118709,
+    "macd_signal": 0.0016076031,
+    "sma20": 0.706573
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短期震荡偏多趋势",
+      "content": "目前澳元/美元价格在0.70848附近震荡，略高于20日简单移动均线(SMA20) 0.70657，显示短期多头略占优势，但整体上仍呈现横盘整理特征。价格在0.70725至0.70848区间内波动，表明市场缺乏明确突破动力。  \n\n技术指标方面，MACD当前值为0.00151，虽略高于零轴，但信号线未给出，暗示短期上涨动能有限。缺乏RSI数据使得超买超卖判断不明确，但结合价格和SMA，短期多头倾向仍可观察。价格紧贴均线，若收盘持续上行，将进一步确认多头趋势。  \n\n支撑位主要集中在0.7070附近，若跌破则可能回踩0.7050区域。阻力位在近期高点0.7085和心理关口0.7100，突破将为多头打开进一步上行空间。当前区间震荡特征明显，操作需谨慎控制风险。  \n\n交易策略上，可考虑低位轻仓做多，止损放在0.7065下方，目标关注0.7095至0.7100附近。短线投机者可在0.7075-0.7085区间内进行高抛低吸操作，保持灵活应对市场快速波动。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently showing a cautiously bullish tone, trading at 0.70848 after a modest 0.16% gain over the past 24 hours. The pair’s intraday range has been relatively narrow, with a low of 0.70725 and a high coinciding with the current level, indicating that upward momentum is testing resistance but has yet to break decisively. The price remaining above the 20-period simple moving average (SMA20) at 0.70657 suggests short-term buying pressure is present, hinting at a continuation of the mild uptrend in the near term.  \n\nTechnical indicators provide a nuanced view. While the MACD shows a positive reading of 0.00151, the absence of a signal line limits confirmation of strong momentum. This implies that while bullish sentiment is present, it remains tentative, requiring careful observation of upcoming price action. Traders should watch for divergence or convergence between price movements and the MACD to gauge the strength of the trend. Meanwhile, the RSI is not available, making it difficult to assess overbought or oversold conditions, underscoring reliance on price action and moving averages for immediate guidance.  \n\nSupport levels appear around 0.7070, coinciding with recent intraday lows and the psychological 0.7070 mark. A breach below this could expose the pair to a deeper retracement toward 0.7055. Resistance is currently near 0.7090–0.7100, where the market may encounter selling pressure. A decisive break above this zone could pave the way for a test of 0.7120, potentially signaling a stronger upward phase. These levels offer clear reference points for both risk management and entry decisions.  \n\nFor traders, a cautious approach is recommended. Short-term buyers may consider entering on dips near the SMA20 or the 0.7070 support zone, targeting the 0.7090–0.7100 range, while setting tight stop-losses just below 0.7065 to limit downside risk. Conversely, aggressive sellers could await rejection at the upper resistance zone to capitalize on potential pullbacks. Overall, the pair shows mild bullish momentum, but given limited indicator confirmation, monitoring price reactions at these key levels remains essential before committing to significant positions.  \n\nWord count: 274"
+    }
+  }
+}

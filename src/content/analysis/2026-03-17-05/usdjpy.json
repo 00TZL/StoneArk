@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-03-17T05:19:50.476Z",
+  "price": {
+    "close": "159.2391",
+    "high": "159.247",
+    "low": "159.22025",
+    "open": "159.23689",
+    "change": "-0.00",
+    "datetime": "2026-03-17 16:00:00"
+  },
+  "indicators": {
+    "rsi": 47.84037,
+    "macd": -0.031590572,
+    "macd_signal": -0.06253738,
+    "sma20": 159.1881
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理，需关注突破方向]",
+      "content": "目前美元/日元(USD/JPY)的价格在159.2391附近，整体呈现震荡整理的走势。当前的波动区间较窄，高点159.247和低点159.22025反映出市场缺乏明显的趋势性方向。短期内，价格维持在这一区间内震荡，尚未形成强势的上涨或下跌信号。\n\n技术指标方面，MACD指标显示出微弱的负值，表明短期内可能存在一定的下行压力。然而，由于没有明确的信号线与MACD线交叉，暂时不宜过于悲观。SMA(20)位于159.18810，价格略高于该均线，进一步支持了当前震荡整理的趋势。\n\n在支撑与阻力方面，当前支撑位在159.220附近，而阻力位则在159.250附近。若价格突破159.250，则可能会推动价格上涨至更高的区间；反之，若跌破159.220支撑位，则可能面临进一步回调的风险。\n\n基于当前的技术形态和指标，建议短期内采取观望策略，等待突破关键支撑或阻力位后再做进一步决策。对于短线交易者，可以适当利用区间波动进行操作，但需注意风险控制。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently exhibiting a relatively neutral price action with the latest price at 159.2391. Despite the slight intraday price movement between the high of 159.247 and low of 159.22025, there is no significant directional trend emerging at the moment. The market is in a consolidation phase, which can often lead to a potential breakout or continuation once a clear direction is established. Traders should be cautious of potential volatility, especially as the pair remains in a narrow range.\n\nThe absence of a clear RSI(14) reading and the MACD value of -0.031590572 suggest a lack of strong momentum in either direction. The MACD being negative indicates a slight bearish bias, but it is not confirmed by a signal line crossover, which means any significant trend reversal is unlikely at the moment. The price's proximity to the 20-period simple moving average (SMA) at 159.18810 further emphasizes the neutral stance, as the SMA typically acts as a dynamic support or resistance level in range-bound conditions.\n\nFrom a technical standpoint, the immediate support for USD/JPY lies near the 159.220 area, with resistance seen at the recent high of 159.247. These levels create a tight trading range that traders should focus on. A break below the 159.220 support could trigger a test of further downside levels, while a break above 159.247 may indicate a potential short-term bullish rally. However, without confirmation from key indicators like RSI or MACD, such moves should be treated with caution.\n\nFor trading strategies, the best approach is to wait for a clear breakout beyond these established levels. Given the lack of strong momentum, entering trades in the middle of this range could lead to more risk than reward. Scalpers and day traders may consider playing within the range with tight stop losses, while those looking for longer-term moves should wait for confirmation of sustained momentum."
+    }
+  }
+}

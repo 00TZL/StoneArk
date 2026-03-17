@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-03-17T05:23:17.449Z",
+  "price": {
+    "close": "5037.5774",
+    "high": "5042.92294",
+    "low": "5033.43008",
+    "open": "5038.4264",
+    "change": "-0.02",
+    "datetime": "2026-03-17 16:00:00"
+  },
+  "indicators": {
+    "rsi": 60.36032,
+    "macd": 5.7189,
+    "macd_signal": 1.37844,
+    "sma20": 5011.000174
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：当前呈现震荡整理走势",
+      "content": "当前，XAU/USD价格为5037.5774，呈现轻微下跌(-0.02%)，波动区间在5042.92和5033.43之间，显示出市场的震荡整理状态。虽然没有明确的趋势性信号，但整体价格保持在短期均线SMA(20)附近波动，暗示市场尚未做出明确方向性选择。\n\n技术指标方面，MACD值为5.71890，显示出市场略微的看涨动能，然而由于Signal线未提供明确的对比，难以构成强势买入信号。此外，RSI指标未能提供足够的数据支持，因此需谨慎解读目前的市场状态。\n\n支撑位在5033.43附近，若价格下破此水平，则可能进一步回测至5000点附近。而上方阻力位在5042.92，突破此阻力位后，价格有望向5060一线靠近。因此，短期内黄金/美元走势可能维持区间震荡，需关注支撑和阻力的突破情况。\n\n基于当前震荡格局，建议投资者采取观望策略，等待价格突破支撑或阻力位后再做进一步的交易决策。如果下行突破支撑位，可以考虑短期卖出操作；若突破阻力位，则可适当考虑买入。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD pair is currently trading near 5037.5774, showing a slight decline of 0.02% over the past 24 hours. This suggests a relatively stable market environment with minimal volatility. However, the price remains close to its daily low of 5033.43008, which indicates some downward pressure in the short term. The high of 5042.92294 could act as the initial resistance level for any upward moves. A break above this level may open up further upside potential, especially if external factors support bullish sentiment in the global markets.\n\nFrom a technical perspective, the 20-period Simple Moving Average (SMA) at 5011.00017400 is currently serving as an important support level. A dip below this level could signal increased bearish momentum, potentially leading to further declines toward key psychological support levels near 5000. Conversely, if the price holds above the SMA, it could indicate consolidation with a possible re-test of resistance levels around 5040-5050. Monitoring price action around the SMA will be crucial for short-term positioning.\n\nThe MACD value of 5.71890 indicates some positive momentum, though it is important to note that the signal line is currently unavailable. This lack of a signal line makes the MACD interpretation less reliable, but the positive MACD value suggests that bullish momentum could persist in the near term. Traders should watch for any signs of divergence or convergence with the price, which could provide clearer direction. The absence of the RSI indicator leaves us relying on other tools for momentum analysis.\n\nConsidering the current market dynamics, traders should remain cautious but look for potential opportunities around key support at 5011 and resistance at 5042. A breakout above 5042 could signal a bullish trend continuation, while a breakdown below 5011 might lead to further downside testing. Risk management strategies should be employed, and position sizes adjusted accordingly, as market sentiment could shift quickly."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-03-17T05:21:55.234Z",
+  "price": {
+    "close": "0.58368",
+    "high": "0.58427",
+    "low": "0.58358",
+    "open": "0.58426",
+    "change": "-0.10",
+    "datetime": "2026-03-17 16:00:00"
+  },
+  "indicators": {
+    "rsi": 49.81031,
+    "macd": 0.00079073877,
+    "macd_signal": 0.0011801509,
+    "sma20": 0.58491
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：短期承压，震荡偏弱",
+      "content": "当前纽元/美元价格报0.58368，较昨日微跌0.10%，显示短期市场承压。价格低于20日均线SMA(20) 0.58491，短期均线呈下行趋势，表明空方力量略占优势，价格可能延续轻微回落。  \n\nMACD柱状指标为0.00079，虽仍为正值，但接近零轴，显示多空能量趋于平衡，短期动能不足以推动强势反弹。缺少RSI数据限制了超买超卖分析，但结合价格走势，短线仍偏弱震荡。  \n\n支撑位初步关注0.5830附近，若跌破该水平，可能进一步测试0.5820。阻力位则在0.5849附近，与SMA(20)重合，如价格突破该阻力，则短线反弹空间有限，仍需关注均线压制。  \n\n交易策略上，短线可采取震荡思路，建议逢高做空为主，止损设置在0.5855上方以控制风险；若价格稳步突破SMA并收盘站稳，可考虑短线多单介入，目标上看0.5860-0.5870区域。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently in a consolidation phase, trading within a narrow range between 0.58358 and 0.58427. The market has shown a slight bearish tilt with a 24-hour change of -0.10%. The price action appears neutral as it oscillates within this range, indicating indecisiveness among traders. A clear trend has not yet emerged, and price movements are likely to remain constrained until a breakout occurs. \n\nThe 20-period Simple Moving Average (SMA) at 0.58491 is currently providing resistance, as the price remains below this level. This suggests a mild bearish sentiment, with the SMA acting as a cap for any bullish attempts. If the price moves higher and successfully breaks above the 0.5850 level, it could signal a shift toward a more bullish outlook, targeting the next resistance zone around 0.5870. Conversely, a failure to break above the SMA may reinforce the bearish bias, with the next support target at 0.58300.\n\nGiven the absence of key indicators like RSI or MACD signal values, it is difficult to assess momentum and overbought/oversold conditions. However, the overall range-bound price action suggests that traders should be cautious, looking for breakouts rather than choppy sideways trading. A potential buy position could be considered if the pair breaks above the 0.5850 resistance, with targets at 0.5870 or higher. On the flip side, if the support at 0.58300 is breached, a move towards 0.5800 could follow.\n\nFor now, it's advisable to adopt a wait-and-see approach, watching for either a break above 0.5850 for bullish confirmation or a breakdown below 0.5830 for further downside potential. Patience will be key as the pair continues to consolidate and await a clearer directional move."
+    }
+  }
+}
