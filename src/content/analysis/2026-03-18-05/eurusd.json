@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-03-18T05:22:42.822Z",
+  "price": {
+    "close": "1.15425",
+    "high": "1.15444",
+    "low": "1.15408",
+    "open": "1.15409",
+    "change": "0.01",
+    "datetime": "2026-03-18 16:00:00"
+  },
+  "indicators": {
+    "rsi": 64.46771,
+    "macd": 0.0010635487,
+    "macd_signal": 0.0011955587,
+    "sma20": 1.15326
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[震荡整理，短期走势谨慎]",
+      "content": "当前欧元/美元价格表现出轻微的震荡整理趋势。最近价格在1.15408至1.15444区间波动，显示出市场观望情绪较浓。短期内未能形成明确的突破，价格稳定在1.15425附近，显示出市场对未来走势存在不确定性。\n\n技术指标方面，当前缺乏RSI和MACD信号的支持，无法从常规动量指标中获得明确的超买或超卖信息。SMA(20)支撑位在1.15326，价格接近该水平时有一定支撑作用，但距离当前价格仅有较小空间，因此也需警惕可能的回调风险。\n\n从支撑与阻力来看，1.15408和1.15444是短期内的关键支撑与阻力位，突破这些水平可能引发较大的波动。如果价格突破上方阻力位，可能会向1.15500或更高水平推进；若跌破下方支撑位，则可能会测试更低的支撑区域。\n\n在当前市场情况下，建议交易者采取观望策略，等待价格突破关键技术水平后再做决定。如果价格在当前区间震荡，则短线操作需谨慎，以避免被市场波动所误导。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently trading around the 1.15425 mark, showing minimal movement over the past 24 hours, with a change of only 0.01%. The price action has been relatively contained, with the high and low of the day ranging between 1.15444 and 1.15408. This suggests a sideways trend, with the market lacking strong momentum in either direction. Such tight ranges indicate consolidation, where traders may be waiting for a catalyst to trigger a breakout.\n\nFrom a technical perspective, the 20-period simple moving average (SMA) is positioned at 1.15326, slightly below the current price. This could be acting as a dynamic support level, as price tends to gravitate towards the SMA during periods of consolidation. The absence of RSI data makes it difficult to assess overbought or oversold conditions, which leaves us to focus on the price action and other available indicators. The MACD value of 0.00106 suggests a mild bullish bias, but without a signal line, its effectiveness in confirming trend direction is limited.\n\nLooking at key support and resistance levels, the pair seems to be holding support just above 1.15400, with the potential for further downside towards 1.15300 if this level breaks. On the upside, resistance could be found around 1.15450, with 1.15500 acting as the next key barrier. Traders should watch these levels closely for any signs of breakout or reversal. If price breaks above resistance, a move toward 1.15600 could be in play, while a drop below support could push the pair toward 1.15250.\n\nFor trading strategies, given the current lack of strong trends and the narrow range, a cautious approach is recommended. Traders might consider a range-bound strategy, buying near support and selling near resistance. However, waiting for a clear breakout above 1.15500 or below 1.15300 may offer better confirmation before entering a position."
+    }
+  }
+}

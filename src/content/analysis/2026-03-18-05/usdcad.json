@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-03-18T05:25:36.228Z",
+  "price": {
+    "close": "1.36982",
+    "high": "1.37014",
+    "low": "1.36977",
+    "open": "1.37009",
+    "change": "-0.02",
+    "datetime": "2026-03-18 16:00:00"
+  },
+  "indicators": {
+    "rsi": 52.39285,
+    "macd": 0.000091612692,
+    "macd_signal": 0.000045294753,
+    "sma20": 1.36974
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理，等待突破]",
+      "content": "当前美元/加元（USD/CAD）在1.36982附近震荡整理，市场短期波动幅度较小。价格相较昨日略有下降，日内高低点区间较窄，显示出缺乏强烈的方向性趋势。短期内该货币对可能处于盘整状态，等待新的推动因素。\n\n从技术指标来看，RSI和MACD数据不完全，缺乏充分的超买超卖信号或趋势动能。因此，当前价格维持在20日简单移动均线（SMA）1.36974附近，表明市场暂时没有明显的趋势方向。若RSI数据补充之后，或许能提供更多市场情绪的参考。\n\n支撑位方面，当前1.36977附近是短期的关键支撑，突破此水平可能进一步考验1.3680区域的支撑。上行阻力位则在1.37014附近，突破该位有望进一步测试1.3720的阻力区域。\n\n建议交易者可采取观望策略，等待价格突破当前区间。若价格突破上方1.37014，则可考虑做多，反之突破下方支撑时，则可考虑做空。当前市场缺乏明显趋势，建议保持谨慎。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently in a tight consolidation phase, with the latest price at 1.36982. The recent price action is largely flat, reflecting a narrow trading range between 1.36977 and 1.37014. Given the subtle 24-hour change of -0.02%, the market appears indecisive. The proximity of the price to the SMA(20) at 1.36974 suggests that the short-term trend is neutral, with no clear bullish or bearish momentum at this point. Market participants will likely await a catalyst to push the pair in either direction.\n\nThe absence of an RSI reading leaves room for speculation on momentum, as this key indicator could give insights into overbought or oversold conditions. The MACD value of 0.000091612692, though positive, lacks a defined signal line, which hinders any clear directional bias. Traders should monitor for a potential MACD crossover for clearer trend confirmation. Until then, the lack of a strong momentum signal may suggest range-bound price action, with further volatility awaiting breakout from current levels.\n\nSupport for USD/CAD can be found near the low of 1.36977, where the price recently tested and held. A break below this level could expose further downside toward 1.36850, an area of interest for buyers. On the upside, the immediate resistance lies around the high of 1.37014. A decisive move above this resistance would be seen as a bullish signal, with the potential for further gains toward 1.37200. Until a breakout occurs, range-bound trading is likely to persist.\n\nConsidering the current market conditions, short-term traders may find opportunities by entering at the edges of the range, aiming for small profits with tight stop losses. A break of either support or resistance would present a clearer direction for medium-term traders. Patience is key until clearer signals emerge from both indicators and price action."
+    }
+  }
+}

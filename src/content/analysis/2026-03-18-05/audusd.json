@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-03-18T05:24:52.833Z",
+  "price": {
+    "close": "0.71153",
+    "high": "0.71166",
+    "low": "0.71137",
+    "open": "0.71139",
+    "change": "0.02",
+    "datetime": "2026-03-18 16:00:00"
+  },
+  "indicators": {
+    "rsi": 63.62302,
+    "macd": 0.0011036112,
+    "macd_signal": 0.0012090186,
+    "sma20": 0.7104195
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短期震荡偏多",
+      "content": "当前澳元/美元价格在0.71153附近窄幅波动，日内涨幅仅0.02%，显示市场短期多空力量均衡。从趋势来看，价格位于20日简单移动均线(SMA20)上方0.71042，表明短期仍存在一定多头支撑，但突破动能有限，偏向震荡整理。  \n\n技术指标显示，MACD当前值为0.0011，虽缺乏完整信号线，但仍为正值，暗示短期多头略占优势。然而，RSI未提供具体数据，无法确认超买或超卖状况，因此需警惕价格可能的横盘调整。价格若持续受SMA20支撑，可保持温和上行趋势。  \n\n关键支撑位初步锁定在0.7104附近，该位置为近期均线支撑区域；阻力位则关注0.7120-0.7122区间，如突破此区间，将可能引发短线上攻。若价格回落至支撑下方，应警惕短线空头压力加大。  \n\n综合来看，短线交易策略建议以区间操作为主，低位可考虑小幅买入，靠近阻力可适当减仓或短线获利了结。务必关注突破信号及成交量变化，以调整仓位管理，降低潜在波动风险。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently exhibiting a subtle upward bias, trading around 0.71153. The short-term momentum appears modestly bullish as the price remains slightly above the 20-period simple moving average at 0.71042, suggesting that buyers are maintaining control despite low volatility. The narrow 24-hour range between 0.71137 and 0.71166 indicates consolidation, implying that the market may be pausing before a decisive move. Traders should watch for a breakout above recent highs to confirm renewed bullish pressure.  \n\nAlthough the RSI is unavailable, the MACD reading of 0.0011 indicates a mild bullish momentum, though the absence of the signal line limits precise crossover analysis. The positive MACD value reflects slight upward pressure, consistent with price trading above the SMA. This suggests that the pair could extend its gains if momentum builds, but the tight trading range signals that traders should be cautious and avoid overleveraging in the current low-volatility environment.  \n\nKey support is positioned near 0.7100, aligning with the SMA and a previous consolidation zone. Resistance is expected around 0.7120 to 0.7125, where prior highs may cap upside moves. A breach above this level could open the path toward 0.7150. Conversely, a break below 0.7100 could trigger a short-term pullback toward 0.7080. These levels provide practical entry and exit points for tactical trading strategies.  \n\nFor trading strategy, short-term traders might consider entering long positions above 0.7120 with tight stops near 0.7100, targeting the next resistance. Conversely, cautious traders could wait for a clear breakout or retracement to test support before committing. Given the low 24-hour volatility, risk management is crucial, emphasizing modest position sizing and readiness to react quickly to sudden moves, especially amid thin liquidity periods.  \n\nWord count: 274"
+    }
+  }
+}

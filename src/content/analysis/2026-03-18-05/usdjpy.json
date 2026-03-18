@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-03-18T05:24:11.674Z",
+  "price": {
+    "close": "158.6851",
+    "high": "158.82679",
+    "low": "158.67478",
+    "open": "158.8215",
+    "change": "-0.09",
+    "datetime": "2026-03-18 16:00:00"
+  },
+  "indicators": {
+    "rsi": 33.85962,
+    "macd": -0.091821843,
+    "macd_signal": -0.074861782,
+    "sma20": 158.97413
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：当前震荡走势，待突破关键区域",
+      "content": "当前美元/日元的价格在158.6851附近，显示出短期震荡整理的趋势。24小时内价格变化较小，降幅为-0.09%，说明市场情绪较为平稳。结合近期价格波动区间，158.67478至158.82679的高低点区间提供了短期支撑和阻力。\n\n技术指标方面，MACD处于负值区域（-0.0918），表明空头动能较为主导，但信号线尚未明确显示。因此，MACD未显示出强烈的买入或卖出信号。SMA(20)为158.97413，当前价格略低于该均线，表明短期内可能存在一定的下行压力。\n\n支撑位方面，158.67478附近的低点提供了较强的支撑，若跌破此位，则可能会进一步向158.6000测试。而上方阻力位在158.82679，若突破该水平，则可能恢复短期上涨动能。\n\n根据当前市场情况，建议交易者保持观望，等待价格突破关键支撑或阻力区域后再做进一步操作。若价格突破阻力位，考虑短线多头机会；若跌破支撑位，则可能形成空头趋势。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently showing signs of consolidation, with the latest price at 158.6851. The pair has experienced a minor 24-hour change of -0.09%, indicating a relatively stable environment, but volatility remains as it hovers close to the high of 158.82679 and low of 158.67478. This range-bound movement suggests a neutral short-term market outlook, with potential for either upward or downward breakout depending on the next catalyst.\n\nAnalyzing the technical indicators, the RSI(14) is unavailable, limiting our ability to assess potential overbought or oversold conditions. The MACD value of -0.0918 signals bearish momentum, though without a clear signal line, it is hard to assess its strength. The negative MACD might indicate a slight downtrend, but further confirmation is needed from price action. The SMA(20) at 158.97413 shows a potential resistance level near the current price, suggesting that a strong push above this could indicate bullish continuation.\n\nIn terms of support, the lower end of the price range at 158.67478 could provide a floor for the pair, with the price potentially bouncing if it tests this level again. Should the price fall below this mark, 158.6000 could act as a secondary support zone. On the upside, resistance near 158.8000 aligns with the SMA(20) and the recent high, making this an important level to watch for any upward movements. A break above this resistance could trigger further buying interest.\n\nFor traders, considering the current neutral trend and bearish bias suggested by the MACD, it might be prudent to wait for a breakout or a clear trend confirmation. A potential strategy could be to monitor for a price move above 158.8000 for a bullish confirmation or a dip below 158.67478 to open short positions. Proper risk management is key in this uncertain market phase."
+    }
+  }
+}

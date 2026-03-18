@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-03-18T05:26:22.010Z",
+  "price": {
+    "close": "0.58647",
+    "high": "0.58659",
+    "low": "0.58617",
+    "open": "0.58617",
+    "change": "0.05",
+    "datetime": "2026-03-18 16:00:00"
+  },
+  "indicators": {
+    "rsi": 61.19386,
+    "macd": 0.00053649231,
+    "macd_signal": 0.00056201568,
+    "sma20": 0.585659
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理，需关注支撑与阻力突破]",
+      "content": "当前，纽元/美元在0.58647附近维持震荡整理状态，短期内未显示出明显的趋势。由于市场缺乏强烈的买卖信号，价格波动较小，显示出整理型走势。对于日内交易者而言，当前区间内的波动性较低，需留意未来可能的突破。\n\n从技术指标来看，SMA(20)为0.585659，表明价格在短期内维持在均线附近震荡。MACD指标处于微弱的正值，显示出短期内有一定的上行动能，但未能形成明确的趋势信号。RSI指标数据缺失，未能提供进一步的超买超卖参考。\n\n在支撑和阻力方面，当前支撑位约在0.58617附近，若价格跌破此位置，则可能测试更低的支撑位0.58500。阻力位则在0.58659附近，一旦突破该阻力，可能会测试0.58700以上的水平。\n\n建议交易者在当前整理区间内操作时，可采用区间交易策略，等待价格突破支撑或阻力时进行方向性交易。考虑到目前市场波动性较低，建议保持谨慎，避免追涨杀跌。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "NZD/USD is trading in a narrow intraday range, hovering just above the 0.5860 handle, suggesting a mild consolidation phase following recent subdued price action. The marginal 24-hour gain indicates limited directional conviction, though the pair remains slightly supported above short-term averages. Price positioning above the 20-period moving average points to a modest bullish bias in the near term, but the lack of volatility reflects indecision rather than strong trend continuation.\n\nFrom an indicator standpoint, the pair is holding above the 20-period SMA at 0.5857, which is acting as dynamic support. The positive MACD reading, albeit small, signals early-stage bullish momentum, though the absence of a confirmed signal line crossover tempers confidence. RSI data is unavailable, but given the tight range, momentum conditions are likely neutral, reinforcing the view of consolidation rather than an overbought or oversold scenario.\n\nKey technical levels remain tightly clustered. Immediate support is seen at 0.5860, followed by a stronger floor near 0.5855, aligned with the moving average. On the upside, resistance is located at the recent high of 0.5866, with a break above this level potentially opening the path toward 0.5880. The narrow high-low range suggests that a breakout from this compression zone could define the next directional move.\n\nIn terms of strategy, short-term traders may consider range-bound approaches, buying near support and selling near resistance until a clear breakout occurs. A sustained move above 0.5866 could justify cautious long positions, while a drop below 0.5855 may signal bearish continuation. Given the low momentum environment, disciplined risk management and confirmation signals are essential before committing to directional trades."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-03-18T05:23:25.489Z",
+  "price": {
+    "close": "1.33684",
+    "high": "1.33693",
+    "low": "1.33625",
+    "open": "1.33625",
+    "change": "0.04",
+    "datetime": "2026-03-18 16:00:00"
+  },
+  "indicators": {
+    "rsi": 68.34314,
+    "macd": 0.0013310524,
+    "macd_signal": 0.001422571,
+    "sma20": 1.33506
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：短期震荡偏多",
+      "content": "当前英镑/美元报价在1.33684附近，价格微幅上涨，显示市场短期仍有一定买盘支撑。结合20日简单移动平均线(SMA20)位于1.33506，价格略高于均线，表明多头趋势略占优势，但涨幅有限，市场呈现震荡整理格局。  \n\nMACD数值为0.00133，虽缺乏信号线对比，但正值暗示动能偏向多方，价格可能继续维持上行压力。然而，RSI缺失，需要关注若RSI恢复后超买或超卖区域，将提供额外动量确认。短线内价格可能围绕1.3365-1.3370区间波动。  \n\n支撑位可关注1.3350附近SMA支撑，若跌破可能测试1.3340心理关口；阻力位则在1.3370-1.3380区域，多次触及后可能遇到短期卖压。突破阻力或支撑将指引后续行情方向，关注成交量配合。  \n\n交易策略上，可考虑低多高空思路，短线交易者可在接近支撑附近尝试多单，止损设置于1.3345下方；若价格反弹触及阻力区，可轻仓做空，止损置于1.3385上方。保持仓位灵活，关注欧美宏观数据和市场情绪变化对短线波动的影响。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently trading at 1.33684, with minimal change in the past 24 hours. Despite the modest price movement, the overall trend appears to be neutral, as the price has shown limited volatility. The pair's recent price action has been confined between the high of 1.33693 and the low of 1.33625, suggesting a tight trading range. This range-bound movement could indicate indecision in the market, with neither bulls nor bears gaining a clear advantage at this time. Traders should remain cautious and wait for a breakout in either direction to confirm the next trend.\n\nLooking at the technical indicators, the lack of RSI and Signal values means we don’t have clear momentum or trend strength readings. However, the MACD line at 0.00133 suggests that the current market momentum is slightly positive. This could point to a modest bullish bias, although it is not strong enough to provide a decisive signal. With the RSI unavailable, traders must rely on price action and other indicators to determine market direction. The 20-period Simple Moving Average (SMA) at 1.33506 serves as a key level to watch, as the price is trading just above it, which may provide a short-term support level.\n\nIn terms of support and resistance, the immediate support level lies at 1.33625, with the price hovering close to this point. If the pair breaks below this level, the next significant support could be found around 1.33500, aligning with the SMA. On the resistance side, the high of 1.33693 remains a key level to break for any bullish momentum to continue. A breakout above this level could open the door for further gains toward the 1.33800 area. \n\nFor traders, a breakout above 1.33693 could signal a potential long entry with targets toward the next resistance zone. Conversely, a break below 1.33625 may offer short opportunities with targets toward 1.33500. With the market range-bound, it’s advisable to wait for confirmation of a breakout before committing to a position. Risk management is crucial, given the current indecision in the market."
+    }
+  }
+}

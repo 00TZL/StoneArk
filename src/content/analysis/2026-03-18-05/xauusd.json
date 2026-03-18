@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-03-18T05:27:49.818Z",
+  "price": {
+    "close": "4991.39477",
+    "high": "4992.25265",
+    "low": "4984.94481",
+    "open": "4986.30455",
+    "change": "0.10",
+    "datetime": "2026-03-18 16:00:00"
+  },
+  "indicators": {
+    "rsi": 42.44258,
+    "macd": -5.21713,
+    "macd_signal": -3.62905,
+    "sma20": 5001.27817
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：震荡整理，短期关注区间突破",
+      "content": "当前，XAU/USD价格维持在4991附近，呈现震荡整理的局面。市场波动较小，24小时变化仅为0.10%，显示出缺乏强烈的方向性走势。短期内，价格可能在4984至4992区间内震荡，等待突破信号。\n\nMACD指标目前为负值（-5.21713），显示出卖压较重的情况，尽管信号线未更新，市场情绪偏向谨慎。SMA(20)均线位于5001.28，价格若突破该均线，可能会引发短期回升。但目前，价格仍未确认向上突破的迹象，市场仍处于承压状态。\n\n支撑位位于4984附近，若价格跌破此位，可能进一步测试更低区域。阻力位则在5001附近，突破该水平将带来更高的上涨动能。当前的操作策略可以以区间内的反弹为主，等待突破信号明确时再做进一步操作。\n\n综合来看，短期内XAU/USD仍以震荡整理为主，建议交易者关注区间突破的机会。若价格突破支撑或阻力，可以考虑顺势操作，保持灵活应对。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold is currently hovering near the $4991 level, showing limited directional momentum over the past 24 hours with a modest gain of 0.10%. Price action remains contained just below the 20-period simple moving average at $5001, suggesting short-term resistance is holding firm. The recent high at $4992.25 and low at $4984.94 indicate a narrow trading range, reflecting consolidation and a lack of strong buying or selling pressure. Overall, the market appears neutral in the immediate term, with traders waiting for a breakout above the SMA or a move below recent intraday support.  \n\nThe MACD reading of -5.217 signals bearish momentum, albeit with the absence of a signal line, confirming that downside pressure may persist if the price fails to reclaim the SMA. In this context, momentum indicators suggest caution for aggressive long positions, as gold has struggled to sustain levels above $5000. The narrow range suggests that any significant market catalysts, such as economic data or USD movements, could trigger a decisive directional move. Traders should closely monitor the MACD for a crossover to identify potential trend reversals.  \n\nKey support is observed at $4985, the intraday low, while immediate resistance aligns with the SMA at $5001 and a near-term ceiling around $5005. A sustained breach above the SMA could shift the market into a short-term bullish phase, targeting $5010–$5020. Conversely, a break below $4985 could open the path toward $4975, highlighting the importance of maintaining disciplined risk management. These levels provide clear reference points for intraday or swing trading strategies, allowing traders to structure entries and exits with defined stop-loss parameters.  \n\nFor trading strategies, a cautious approach is recommended, favoring short-term range-bound trades until a confirmed breakout occurs. Long positions may be considered above $5001 with tight stops, while short positions could be initiated below $4985 with targets near $4975. Given the current consolidation, scalping opportunities within the $4985–$5001 range may also be viable for active traders. Monitoring USD strength, geopolitical developments, and macroeconomic indicators will be critical in anticipating shifts in XAU/USD sentiment.  \n\nWord count: 276"
+    }
+  }
+}

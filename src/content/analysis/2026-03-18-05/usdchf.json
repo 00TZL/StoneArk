@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-03-18T05:27:04.631Z",
+  "price": {
+    "close": "0.78523",
+    "high": "0.78536",
+    "low": "0.78516",
+    "open": "0.78533",
+    "change": "-0.01",
+    "datetime": "2026-03-18 16:00:00"
+  },
+  "indicators": {
+    "rsi": 38.081716,
+    "macd": -0.00066688002,
+    "macd_signal": -0.00081015492,
+    "sma20": 0.7855575
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[震荡整理，短期偏弱]",
+      "content": "目前美元/瑞郎（USD/CHF）走势表现为震荡整理，当前价格0.78523处于一个窄幅波动区间内。由于24小时变化仅为-0.01%，市场缺乏明确的趋势方向，整体呈现横盘整理格局。从短期来看，价格接近近期低点0.78516，可能暗示着略微的下行压力。\n\n技术指标方面，MACD处于负值区域（-0.00066688002），表明短期内空方力量稍占上风，虽然未显示明显的卖出信号，但持续的负值可能会限制上涨空间。SMA(20)为0.78555750，略高于当前价格，形成了轻微的压力位，进一步印证了当前价格面临的一些上行阻力。\n\n支撑位方面，0.78516附近可视为短期支撑，若价格进一步下探并跌破此位，可能会带来更大的回调空间。另一方面，0.78536是近期的高点，若突破该点位，可能会为短期内的反弹提供动力。考虑到市场当前的震荡状态，建议采取区间交易策略，等待价格突破区间边界时再做进一步操作。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently in a consolidation phase, with a slight bearish momentum observed in the last 24 hours. The price remains tightly range-bound between the high of 0.78536 and the low of 0.78516. The lack of a strong directional trend signals indecision in the market. Traders should remain cautious as the market could either break out or continue ranging, depending on further economic data releases or shifts in risk sentiment.\n\nThe Relative Strength Index (RSI) is unavailable, but the MACD suggests weak bearish momentum, with a value of -0.00067. While the MACD is below zero, its negative value isn’t particularly strong, indicating that the downtrend may lack sufficient strength to drive the price lower aggressively. The absence of a signal line makes it challenging to gauge the full picture of market sentiment, but a continuation of the slight bearish tone cannot be ruled out.\n\nOn the support side, the immediate support level is at 0.78516, which aligns with the recent low. If the price breaks below this level, further support can be expected at 0.78450, a level where price action previously stalled. Conversely, resistance is found near 0.78557, marked by the 20-period Simple Moving Average (SMA). A breakout above this level would open the door for potential upside movement, targeting 0.78600 or higher.\n\nGiven the current market conditions, a neutral approach is suggested, with caution around the key levels of support and resistance. A breakout from the range could offer trading opportunities, but until then, the range-bound market should be approached with patience, watching for any signs of momentum."
+    }
+  }
+}
