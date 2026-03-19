@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-03-19T05:22:31.014Z",
+  "price": {
+    "close": "1.37262",
+    "high": "1.37283",
+    "low": "1.37258",
+    "open": "1.3727",
+    "change": "-0.01",
+    "datetime": "2026-03-19 16:00:00"
+  },
+  "indicators": {
+    "rsi": 57.54451,
+    "macd": 0.00071848303,
+    "macd_signal": 0.00068376864,
+    "sma20": 1.37158
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[短期震荡整理，倾向小幅回升]",
+      "content": "当前美元/加元汇率维持在1.37262附近，价格呈现出震荡整理的走势。尽管24小时变化幅度较小，仅为-0.01%，但高点和低点之间的差距仍显示出一定的区间波动。短期内，价格可能会继续在1.37250至1.37300之间震荡，反映出市场的观望情绪。\n\n技术指标方面，SMA(20)显示出1.37158的支撑作用，表明短期内价格未能突破该水平，形成支撑反弹的可能性较大。MACD值为0.0007，尽管未给出明确的信号线数据，但持续的正值表明多方力量稍强，预计短期内可能会出现小幅回升。\n\n从支撑和阻力的角度来看，当前的支撑位在1.37150附近，若价格进一步下探可在此区域寻找买入机会。上方阻力位在1.37300和1.37500之间，这一水平的突破将可能开启更大的上涨空间。\n\n综合来看，当前的市场状态较为平稳，建议投资者可关注区间内的交易机会。短期内建议关注1.37150的支撑，若价格触及此位置可考虑逢低做多，止损可设在1.37000，目标为1.37400附近。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently trading near 1.37262, displaying a very narrow 24-hour change of -0.01%. This indicates a relatively stable market with limited volatility in the short term. The recent price action has been constrained within a tight range, with the high reaching 1.37283 and the low at 1.37258, reflecting a lack of significant momentum. In the broader picture, this suggests a neutral to mildly bullish sentiment, but without strong directional conviction. A potential breakout above 1.37283 could pave the way for a push towards the next resistance, while a failure to sustain above this level could see a return to consolidation.\n\nLooking at the key indicators, the absence of an RSI and the lack of a clear signal line for MACD make it challenging to derive strong momentum readings. However, the MACD value of 0.000718 suggests slight bullish pressure. The absence of a clear trend in these indicators leaves the market in a consolidation phase, where price action alone becomes the primary focus for traders. Should the MACD and RSI data become available in the future, they would provide more reliable signals to assess whether momentum is building for a breakout or if the market remains range-bound.\n\nThe 20-period Simple Moving Average (SMA) stands at 1.37158, slightly below the current price, suggesting that the pair is still trending mildly upward in the short term. If the price dips towards this level, the SMA could act as a support zone, with potential for a bounce higher. Conversely, if the price breaks below the SMA, a deeper pullback could unfold, targeting the lower boundary of the recent range at 1.37258.\n\nFor traders, the current market presents an opportunity for a range-bound strategy. Consider entering long positions near 1.37258 with a target towards 1.37283, while setting stops just below the SMA at 1.37158. Alternatively, a breakout above 1.37283 could signal a shift to a more bullish trend, potentially opening opportunities for more aggressive long trades."
+    }
+  }
+}

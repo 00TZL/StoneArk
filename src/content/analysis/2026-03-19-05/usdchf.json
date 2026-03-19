@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-03-19T05:23:58.539Z",
+  "price": {
+    "close": "0.79264",
+    "high": "0.79285",
+    "low": "0.79258",
+    "open": "0.79265",
+    "change": "-0.00",
+    "datetime": "2026-03-19 16:00:00"
+  },
+  "indicators": {
+    "rsi": 69.077748,
+    "macd": 0.0014487412,
+    "macd_signal": 0.0014445069,
+    "sma20": 0.7907155
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：短期震荡偏多",
+      "content": "当前美元/瑞郎价格徘徊在0.7926附近，短线波动幅度极小，显示市场多空力量相对均衡。从均线来看，价格略高于20日简单移动平均线SMA(20)=0.7907，表明短期仍有支撑，但涨势有限。MACD值为0.0014，略为正值，暗示多头略占优势，但缺乏明确信号确认趋势。  \n\n价格日内高低点仅在0.79285-0.79258之间波动，显示市场短期缺乏动力突破。关键支撑位关注0.7907附近SMA支撑，以及心理整数位0.7900；阻力位可关注近期高点0.7930以及0.7940区域。若突破阻力，将可能带动短线回升。  \n\n技术指标显示趋势不明朗，短线操作可偏向震荡交易策略，低位吸纳、接近阻力位谨慎减仓。由于RSI未提供，可结合价格行为观察买卖压力，避免追高。MACD虽略偏多，但仍需确认柱状图与信号线形成交叉。  \n\n综合来看，美元/瑞郎短期维持震荡偏多格局，操作上建议在支撑位附近考虑小幅买入，阻力位附近适度止盈。风险管理方面，建议设置0.7900下方止损，控制单笔仓位，等待价格进一步确认突破方向再加仓。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently exhibiting a tight range, with a price of 0.79264 and a very minimal change over the last 24 hours. This consolidation suggests market indecision or a pause in momentum, as reflected by the extremely narrow high/low range between 0.79285 and 0.79258. In the absence of any strong directional movement, the pair appears to be in a neutral phase, which could signal a breakout or reversal once more significant catalysts influence the market.\n\nLooking at the Simple Moving Average (SMA) for the 20-period, which stands at 0.7907155, the price is slightly above it. This could be interpreted as a mild bullish bias, though the price is currently oscillating near the average. Traders might view the SMA as a dynamic support level in the short term. A pullback to test the SMA could provide an opportunity for potential long entries if the price holds above this level. However, failure to maintain above could signal a deeper decline.\n\nThere is no available RSI data to indicate overbought or oversold conditions, and the MACD is showing a small positive value of 0.0014487412. This suggests that, at the moment, there’s a slight bullish momentum. However, with no signal line provided, it's challenging to draw definitive conclusions about strength. A potential MACD crossover or divergence may provide a clearer indication of where momentum could shift, especially if accompanied by other market signals.\n\nFor immediate trading, key support is seen at 0.79258, with resistance near 0.79285. A breakout above 0.79285 could lead to a retest of higher levels, while a break below 0.79258 may suggest a test of the SMA support or even lower levels. Traders may consider range-bound strategies in the short term, waiting for either a breakout or a reversal pattern to materialize."
+    }
+  }
+}

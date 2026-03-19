@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-03-19T05:24:40.825Z",
+  "price": {
+    "close": "4851.10527",
+    "high": "4853.63582",
+    "low": "4846.18603",
+    "open": "4850.12156",
+    "change": "0.02",
+    "datetime": "2026-03-19 16:00:00"
+  },
+  "indicators": {
+    "rsi": 35.45801,
+    "macd": -30.69564,
+    "macd_signal": -35.44571,
+    "sma20": 4863.36944
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短期横盘整理，关注关键支撑与阻力",
+      "content": "当前XAU/USD价格维持在4851附近，较24小时高低点波动有限，整体呈现短期横盘整理格局。市场多空力量相对均衡，多头未能有效突破近期高点，空头也缺乏持续打压动力，显示短线趋势不明朗。投资者应关注关键价格区域的突破情况以判断后市方向。  \n\n从技术指标来看，MACD呈现负值-30.69564，暗示动能偏弱，短线下行压力存在，但缺乏明显背离信号。20日简单移动平均线SMA(20)位于4863上方，当前价格略低于均线，短期仍受均线压制。RSI数据暂缺，但结合价格与均线关系可推测市场处于震荡消化阶段，尚未进入超买或超卖区。  \n\n关键支撑位参考4846-4847附近，若价格跌破此区域，可能加速短线回调；阻力位在4863-4864一线，突破将为短期多头提供机会。操作上，可考虑在支撑附近逢低做多，止损设置略低于支撑位；若价格上破阻力，则可顺势做多，关注回踩确认信号。  \n\n综合来看，XAU/USD短期偏震荡，但技术指标显示稍有下行压力。交易策略宜以短线为主，重点观察支撑与阻力区间的有效性，避免追高杀跌，耐心等待明确趋势信号后再加仓，以控制风险并提高操作效率。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current price of XAU/USD is hovering around 4851.10527, showing a minimal 24-hour change of 0.02%. This price level suggests a relatively neutral market sentiment with a slight bearish bias. The high and low within the last 24 hours were 4853.63582 and 4846.18603, respectively, indicating tight price action within a narrow range. At this moment, the market does not show significant momentum either in an upward or downward direction, and the price is essentially consolidating.\n\nLooking at the Simple Moving Average (SMA) of 20 periods, currently at 4863.36944, XAU/USD remains below this level, which signals a potential short-term bearish trend. If the price remains under the SMA, it suggests that sellers may still have the upper hand. Traders should watch for price action near the 4860 area, as this represents a resistance level. If the price breaks above this zone and sustains, it could indicate a bullish shift, potentially targeting the 4900 psychological level as the next resistance point.\n\nWithout a current RSI value, we can't assess overbought or oversold conditions accurately. However, the MACD value at -30.69564 suggests a weak bearish momentum in the market. This further supports the view of consolidation or mild bearish pressure. If the MACD begins to narrow towards the zero line, it may signal a reversal or a shift towards neutral market conditions, but for now, the momentum is not strong enough to indicate a major directional move.\n\nFor potential trades, intraday traders could look for short opportunities if the price continues to respect the 4860 resistance level. A break below 4846 could trigger further downside towards the 4830 level, acting as the next key support. Conversely, if the price reclaims 4860 and moves above the SMA, a cautious long position may be considered, with targets towards 4880-4900. Proper risk management is crucial, given the lack of strong momentum indicators."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-03-19T05:21:05.251Z",
+  "price": {
+    "close": "159.69646",
+    "high": "159.70213",
+    "low": "159.64987",
+    "open": "159.65681",
+    "change": "0.02",
+    "datetime": "2026-03-19 16:00:00"
+  },
+  "indicators": {
+    "rsi": 60.45827,
+    "macd": 0.14914647,
+    "macd_signal": 0.16357436,
+    "sma20": 159.58119
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：短期震荡偏多",
+      "content": "当前美元/日元价格维持在159.69附近，日内波动幅度较小，仅0.02%，显示市场短期观望情绪较浓。从SMA(20) 159.58119来看，价格略高于均线，表明多头仍占据微弱优势，但上行动能有限。高点159.70213和低点159.64987构成近期的震荡区间。  \n\nMACD数值为0.1491，呈现正值状态，暗示多头力量略强，但缺乏信号线对比，动能确认不足。RSI指标暂不可用，需结合价格形态判断超买或超卖风险。目前短线市场处于横向整理阶段，多空双方势均力敌，突破方向不明。  \n\n支撑位方面，短期可关注159.65附近，该区域承接前低与均线附近支撑。阻力位在159.70-159.71区间，如果价格成功突破该区域，则可能触发进一步上涨。震荡区间内操作应谨慎，避免追高杀低。  \n\n交易策略上，建议区间操作为主：在支撑附近可小幅布局多单，止损控制在159.63下方；在阻力区域可考虑短线获利了结或轻仓做空，止损在159.72上方。若出现强势突破，应顺势跟进，但需关注成交量确认，以降低回调风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair has recently been fluctuating within a narrow range, with the latest price at 159.69646, reflecting a slight increase of 0.02% over the last 24 hours. This limited movement suggests a consolidation phase, with price action hovering just above the 20-period simple moving average (SMA) at 159.58119. The lack of significant price movement could indicate that the market is waiting for a catalyst, either economic data or central bank actions, to set the next directional move.\n\nThe pair's recent high of 159.70213 and low of 159.64987 further suggest range-bound trading. With no clear trend in place, price action seems to be testing the upper boundary of the range, while remaining supported near the lower end. The absence of a definitive RSI reading makes it difficult to gauge overbought or oversold conditions, leaving traders to focus on price action for trend indications. The MACD reading of 0.14914647 is positive, hinting at a slight bullish momentum, though it is not strong enough to signal a major trend shift yet.\n\nIn terms of support and resistance, the immediate support zone can be found around the low of 159.64987, which could act as a key level for buyers to defend. If the price moves below this level, we might see further downside potential towards 159.58119, aligning with the SMA. On the upside, the resistance at 159.70213 could limit any immediate bullish moves. A break above this level may signal a potential rally, targeting the next resistance zone higher up.\n\nFor traders, the current market environment calls for cautious approach due to the lack of clear directional signals. A breakout above 159.70213 could present a long opportunity, while a break below 159.64987 may suggest shorting potential. With market volatility subdued, it’s essential to monitor key price levels closely, as any breakout may lead to sharper moves."
+    }
+  }
+}

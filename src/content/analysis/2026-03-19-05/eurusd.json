@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-03-19T05:19:36.346Z",
+  "price": {
+    "close": "1.14687",
+    "high": "1.14703",
+    "low": "1.14684",
+    "open": "1.14692",
+    "change": "-0.01",
+    "datetime": "2026-03-19 16:00:00"
+  },
+  "indicators": {
+    "rsi": 39.15194,
+    "macd": -0.0013574924,
+    "macd_signal": -0.0012860414,
+    "sma20": 1.149
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：震荡整理中，短期走势偏弱",
+      "content": "当前欧元/美元的价格为1.14687，24小时内变化幅度较小，显示出市场的震荡整理特征。由于价格接近近期低点，短期走势呈现出一定的弱势，未能有效突破1.15上方区域，说明市场仍处于较为谨慎的观望期。\n\n技术指标方面，MACD当前为负值，表明卖压较重，且缺乏明显的买盘动能。虽然RSI(14)未提供数据，但考虑到目前的价格波动幅度，短期内市场可能处于超卖区域，因此仍需关注价格的反弹风险。SMA(20)仍位于1.14900附近，反映出价格依然未能恢复到该均线水平。\n\n在支撑位和阻力位的分析上，当前1.14680附近为短期支撑位，一旦跌破可能会进一步向下试探1.14500和1.14300区域。阻力位则集中在1.14900附近，突破该点位可能会带来更强的反弹行情。短期内建议保持谨慎，等待价格突破关键支撑或阻力位后再做决策。\n\n综合来看，欧元/美元在短期内呈现震荡整理行情，建议交易者可在接近支撑位时考虑做多，但切勿盲目追高，应设定合理的止损点，待市场明确方向后再做布局。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently exhibiting a muted consolidation around the 1.1468–1.1470 region, reflecting minimal volatility in the last 24 hours. The latest price sits slightly below the 20-period SMA at 1.1490, suggesting that short-term momentum remains mildly bearish. Price action appears constrained, forming a narrow range between 1.14684 and 1.14703, indicating market indecision as traders await fresh catalysts. The small intraday drop of 0.01% further reinforces the lack of directional conviction.  \n\nTechnical indicators provide a mixed picture. The MACD reading at -0.00136 indicates a slight bearish bias, though the absence of a signal line limits the strength of the confirmation. The SMA currently acts as immediate resistance, while a breach above it could ignite short-term bullish interest. Without RSI data, overbought or oversold conditions remain uncertain, so traders should monitor price reaction near key technical levels rather than rely solely on momentum indicators.  \n\nKey support appears near the recent low of 1.1468, which has been tested multiple times within the narrow range. Breaking below this level could open a path toward 1.1455–1.1450, aligning with prior consolidation lows. On the upside, resistance at the 1.1490 SMA and the intraday high of 1.1470 may cap gains, and a decisive move above 1.1500 would be needed to shift market sentiment toward a more sustained uptrend.  \n\nFor trading strategy, a cautious approach is advised given the range-bound environment. Short-term traders could look for scalps near the support-resistance boundaries, while maintaining tight stops to manage risk. Longer-term positions should await confirmation of a breakout from the current consolidation. Monitoring economic releases from both the Eurozone and the U.S., particularly inflation and employment data, will be crucial in determining the next significant directional move for EUR/USD.  \n\nWord count: 268"
+    }
+  }
+}

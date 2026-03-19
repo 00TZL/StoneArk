@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-03-19T05:20:20.382Z",
+  "price": {
+    "close": "1.32715",
+    "high": "1.32735",
+    "low": "1.32702",
+    "open": "1.32727",
+    "change": "-0.01",
+    "datetime": "2026-03-19 16:00:00"
+  },
+  "indicators": {
+    "rsi": 37.42148,
+    "macd": -0.0016806143,
+    "macd_signal": -0.0015601913,
+    "sma20": 1.3299
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：短线偏弱震荡整理格局",
+      "content": "当前汇价维持在1.327一线窄幅波动，整体动能不足。从价格运行来看，已跌破SMA(20)均线1.32990，显示短线趋势转弱，市场进入震荡偏空结构，短期多头动能明显减弱。\n\n动能指标方面，MACD处于负值区域，虽缺乏信号线参考，但空头动能占优已较为明确，暗示价格仍有下探压力。RSI数据缺失，但结合价格贴近区间低位判断，市场处于弱势整理阶段。\n\n关键支撑位关注1.32650附近，若跌破则可能测试1.32400区域；上方阻力位在1.33000及1.33200，尤其是SMA(20)附近构成动态压制，短期反弹空间受限。\n\n交易策略上，建议以逢高做空为主，反弹至1.3290-1.3300区间可考虑布局空单，止损设于1.3320上方；若价格有效跌破1.3265，则可顺势跟进空单，注意控制仓位与风险。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently exhibiting a muted trading range, hovering near 1.32715 with a minimal 24-hour change. The market appears indecisive, as reflected by the narrow high and low spread between 1.32735 and 1.32702. Short-term momentum seems slightly bearish, with the price trading below the 20-period simple moving average of 1.32990, suggesting that sellers have a modest edge. While the overall trend is not sharply defined, the market leans toward consolidation, with no strong directional conviction at this stage.  \n\nThe MACD reading of -0.00168, although negative, indicates only mild bearish momentum. With the signal line unavailable, caution is warranted before making directional bets, as the indicator alone does not confirm a strong trend. The lack of a current RSI further complicates the assessment of overbought or oversold conditions, reinforcing the notion that short-term price movements may remain range-bound. Traders should watch for clear divergences or a decisive MACD crossover before committing to longer-term positions.  \n\nImmediate support is likely around 1.32700, a psychologically and technically relevant level that has contained recent downside pressure. Resistance is situated near 1.33000, corresponding closely with the 20-period SMA and prior swing highs. A sustained break above this level could open room for bullish momentum toward 1.33200, whereas a breach of support could invite a test of 1.32450. These zones provide potential entry and exit points for tactical trading strategies focused on short-term swings rather than extended trends.  \n\nFor traders, a cautious approach is advised. Range-bound strategies such as buying near support and selling near resistance may be most effective under current conditions. Risk management is critical, with stop-loss orders placed just beyond these key levels to mitigate adverse moves. Longer-term positions should be avoided until the pair shows a clear directional breakout. Monitoring global economic data and GBP/USD-specific news events will also be essential to anticipate sudden shifts in volatility and trend strength.  \n\nWord count: 274"
+    }
+  }
+}
