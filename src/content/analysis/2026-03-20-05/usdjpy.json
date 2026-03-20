@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-03-20T05:14:07.253Z",
+  "price": {
+    "close": "158.39519",
+    "high": "158.40437",
+    "low": "158.36169",
+    "open": "158.39839",
+    "change": "-0.00",
+    "datetime": "2026-03-20 16:00:00"
+  },
+  "indicators": {
+    "rsi": 47.45414,
+    "macd": -0.21793376,
+    "macd_signal": -0.30711843,
+    "sma20": 158.23292
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：震荡整理，趋势暂时不明",
+      "content": "当前美元/日元（USD/JPY）价格维持在158.39519附近，呈现横盘震荡走势。日内价格波动非常小，未出现明显的涨跌，显示出市场缺乏方向性。考虑到价格处于近期区间内震荡整理，短期内可能维持这种格局。\n\n技术指标方面，MACD目前为负值（-0.21793376），表明市场短期内可能仍有下行压力。然而，RSI未提供明确的信号，未能为判断趋势提供更多参考。SMA（20）位于158.23292，价格稍微高于该均线，可能预示着短期内支撑位在该区域。\n\n从支撑和阻力角度来看，当前的支撑位在158.36169附近，若价格跌破这一点位，可能会进一步下探到158.23附近的更强支撑。而阻力则位于158.40一线，如果价格突破此水平，可能会重新测试更高的区域。\n\n综合来看，当前市场缺乏明确的趋势，建议投资者在没有突破性信号的情况下保持谨慎操作。可考虑在支撑位附近寻找短线买入机会，而在阻力位附近则考虑卖出策略。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "Price action is holding just above the 20-period moving average, suggesting a mildly bullish intraday structure despite the nearly flat 24-hour change. The narrow range between 158.36 and 158.40 reflects consolidation rather than directional conviction. Short-term bias remains slightly upward as long as price sustains above the moving average, but the lack of volatility signals hesitation and potential for a breakout-driven move rather than gradual trending.\n\nMomentum indicators are mixed and somewhat inconclusive. The MACD reading remains negative, indicating lingering bearish pressure in the background, though the absence of a signal line limits confirmation. RSI is unavailable, but given the tight range, momentum is likely neutral. This combination suggests a market in transition, where neither buyers nor sellers have established clear dominance, increasing the importance of key levels for directional cues.\n\nImmediate support is located near 158.23, aligned with the 20-period SMA, followed by stronger downside protection around 158.00. On the upside, resistance is evident near 158.40, with a break above this level potentially opening the path toward 158.70. The tight clustering of recent highs indicates this zone is being tested repeatedly, which can precede either a breakout or a rejection with increased volatility.\n\nFrom a trading perspective, range-bound strategies remain viable until a decisive breakout occurs. Buying near support around 158.20 with tight risk controls may offer favorable setups, while short positions near 158.40 could be considered if rejection signals appear. A confirmed break above resistance would shift bias toward continuation longs, whereas a drop below 158.20 would favor short-term bearish positioning."
+    }
+  }
+}

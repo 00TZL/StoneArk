@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-03-20T05:17:00.320Z",
+  "price": {
+    "close": "0.78912",
+    "high": "0.7894",
+    "low": "0.78909",
+    "open": "0.78936",
+    "change": "-0.03",
+    "datetime": "2026-03-20 16:00:00"
+  },
+  "indicators": {
+    "rsi": 42.038126,
+    "macd": -0.00062919313,
+    "macd_signal": -0.00047034814,
+    "sma20": 0.7905635
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：震荡整理，短期偏弱",
+      "content": "当前美元/瑞郎（USD/CHF）价格处于0.78912附近，近期市场波动较小，呈现出震荡整理的状态。当前价格接近其短期支撑位0.78909，若跌破该位置，可能会进一步下探至0.7880附近。整体来看，市场缺乏明显的趋势方向，短期内可能维持横盘整理格局。\n\n从技术指标来看，MACD目前处于负值区域，显示出空头市场的迹象，但由于信号线尚未明确，因此需要更多确认信号。20日简单移动平均线（SMA）为0.7905635，价格略低于该位置，表明短期内有可能承压。RSI指标未提供，可能导致难以精准判断超买或超卖情况。\n\n支撑位方面，0.78909是当前的重要支撑区域，若该位置失守，可能会导致价格进一步下探。阻力位则位于0.7905附近，突破该位置有望为短期多头趋势提供信号。投资者可以关注价格在这些关键区域的表现，等待更清晰的突破。\n\n综合来看，当前建议保持观望，等待价格突破关键支撑或阻力位时再做决定。若价格反弹至0.7905附近，可以考虑做空，但需要留意下行风险，防止反弹。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently displaying a narrow trading range, with the price hovering around 0.78912. The recent 24-hour change of -0.03% suggests a relatively neutral market sentiment, as the pair remains within a confined range between 0.78909 and 0.7894. The price is positioned just below the 20-period SMA of 0.7905635, which could be interpreted as a slight bearish sign in the short-term. A sustained move below the SMA would reinforce this sentiment, potentially triggering a further dip toward support levels.\n\nAnalyzing the broader trend, the market appears to be in consolidation, with no clear upward or downward momentum. The absence of a strong directional bias could indicate indecision among traders, and the price action may continue to oscillate within its current range. The MACD is currently negative, which suggests some bearish pressure in the market, although the lack of a signal line makes it difficult to draw definitive conclusions. Traders should stay alert for any potential crossover or momentum shift that could provide clearer entry signals.\n\nIn terms of support and resistance, the immediate support is near the recent low of 0.78909. A break below this level could trigger a deeper move toward the next support at 0.7885. On the upside, resistance is located around 0.7900 and 0.7905. If the price manages to break above these levels, a rally toward the SMA and beyond could occur. A confirmed breakout could provide a better entry point for bullish positions, especially if supported by an improving technical outlook.\n\nFor traders looking to capitalize on short-term price movements, it may be wise to adopt a cautious approach, waiting for a clearer trend confirmation. A break of either support or resistance would provide more reliable trade signals. In the absence of strong momentum, scalping within the range could offer smaller, consistent profits, while staying cautious of potential reversals or sudden volatility spikes."
+    }
+  }
+}

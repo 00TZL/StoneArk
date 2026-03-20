@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-03-20T05:13:21.702Z",
+  "price": {
+    "close": "1.34055",
+    "high": "1.34075",
+    "low": "1.34026",
+    "open": "1.34026",
+    "change": "0.02",
+    "datetime": "2026-03-20 16:00:00"
+  },
+  "indicators": {
+    "rsi": 64.41302,
+    "macd": 0.002670907,
+    "macd_signal": 0.0028123855,
+    "sma20": 1.33833
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：短期震荡偏多",
+      "content": "目前英镑/美元价格在1.34055附近小幅波动，短期趋势显示轻微多头倾向。价格略高于20日均线SMA(20) 1.33833，表明中短期内多头仍有支撑，但整体涨幅有限，市场仍处于盘整状态，需关注波动范围的突破。  \n\nMACD指标显示多头动能略微增强，当前值0.00267，但缺乏信号线参考，意味着趋势确认度有限。若后续MACD上穿信号线，可进一步确认上涨动力；反之，若出现回落，可能引发短线修正。缺失RSI数据，需结合价格与均线走势观察超买超卖情况。  \n\n关键支撑位位于SMA(20)附近1.3380，跌破可能引发短线回调。阻力位在近期高点1.34075，若价格突破该区域并稳住，则可能开启进一步上行空间。交易者应关注这些关键价位的压力测试和突破信号。  \n\n短线操作建议偏向低位做多，止损可设在1.3380下方，以控制风险。若价格有效突破1.34075阻力，可考虑加仓多单；若未能突破且出现回落，则宜保持观望，等待更明确的趋势信号再行入场。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "GBP/USD is currently trading around 1.34055, showing a marginal 24-hour increase of 0.02%. Price action over the past day has been relatively narrow, oscillating between 1.34026 and 1.34075, which indicates a period of consolidation. The pair is holding slightly above its 20-period simple moving average at 1.33833, suggesting that short-term momentum is cautiously bullish. Overall, the market exhibits a sideways trend with minor upward bias, awaiting clearer directional cues.  \n\nFrom a technical indicator perspective, the MACD value of 0.00267 points to mild bullish pressure, although the absence of a signal line reading limits confirmation of momentum strength. Without the RSI available, overbought or oversold conditions cannot be definitively assessed, but the proximity of price to the SMA suggests the market is not significantly stretched in either direction. Traders should monitor for divergence between price action and MACD for early signs of a breakout or reversal.  \n\nKey support lies near the 1.3380–1.3385 zone, which aligns closely with the 20-period SMA. A break below this level could signal a short-term correction toward 1.3360. On the upside, resistance is evident around 1.3410–1.3420, where previous intraday highs have stalled. Breaching this zone with volume could open the path toward 1.3450, reinforcing bullish momentum. The current range suggests limited volatility, but traders should be prepared for movement if macroeconomic news impacts the pound or dollar.  \n\nFor trading considerations, cautious long positions above 1.3400 may be warranted, with tight stops below the SMA to limit downside risk. Short-term scalping could focus on support and resistance levels within the current narrow range, while longer-term traders may prefer to await confirmation from MACD crossover or a decisive break of consolidation boundaries. Overall, the market favors measured bullish positioning but requires vigilance for potential retracements.  \n\nWord count: 268 ✅"
+    }
+  }
+}

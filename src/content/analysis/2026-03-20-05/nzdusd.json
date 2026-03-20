@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-03-20T05:16:17.762Z",
+  "price": {
+    "close": "0.58826",
+    "high": "0.58838",
+    "low": "0.58809",
+    "open": "0.58811",
+    "change": "0.02",
+    "datetime": "2026-03-20 16:00:00"
+  },
+  "indicators": {
+    "rsi": 66.62075,
+    "macd": 0.0015420848,
+    "macd_signal": 0.0012875172,
+    "sma20": 0.585561
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：短期盘整偏多",
+      "content": "纽元/美元当前报价0.58826，较昨日微涨0.02%，显示市场短期波动有限。日内高低点0.58838/0.58809表明价格在极窄区间震荡，整体缺乏明确突破动力。短期来看，汇价呈现轻微上行倾向，但多空力量仍较均衡。  \n\n技术指标方面，MACD为0.0015，虽然信号线未提供，但正值暗示多头略占优势。20日均线SMA(20)位于0.58556，价格运行在均线上方，通常被视为支撑确认，短期多头力量仍在积累。RSI未提供，需关注未来动能变化以判断超买或超卖风险。  \n\n支撑位初步位于0.5855附近，若跌破该水平，可能引发短线回调；阻力位在近期高点0.5884附近，突破可带动进一步上行。若价格在区间内持续震荡，则短线交易应注意快速反转信号，避免盲目追高或抄底。  \n\n交易策略上，短线偏多可考虑低吸高抛，重点关注0.5855支撑的守稳情况；若价格站稳阻力0.5884，可顺势开多单，止损建议放在支撑下方以控制风险。中线投资者则宜观望突破确认再介入，等待趋势明确。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently trading at 0.58826, showing marginal upward movement over the past 24 hours. The price is slightly above the 20-period simple moving average at 0.58556, suggesting short-term bullish momentum. The pair’s recent consolidation within a narrow 0.58809–0.58838 range indicates market indecision, reflecting hesitation among traders to push prices significantly higher or lower. Overall, the short-term trend appears cautiously bullish, though the lack of strong directional movement implies that momentum may remain subdued without fresh market catalysts.\n\nThe MACD reading of 0.00154, though lacking a complete signal line for full confirmation, hints at mild bullish pressure. In the absence of an RSI value, it is difficult to gauge overbought or oversold conditions, but the steady price action around the SMA implies that the market is not yet overstretched. Traders should monitor any divergence between price and MACD, as this could signal a potential shift in momentum, particularly if accompanied by increased volatility or broader market developments impacting the New Zealand dollar or US dollar.\n\nKey support is currently positioned near the 0.58550 level, aligning closely with the SMA, which could act as a short-term floor should the pair experience a pullback. Resistance is observed around 0.58840, marking the recent intraday high. Breach of either level may trigger more pronounced moves; a break above resistance could open the way toward 0.59000, while a drop below support might target 0.58350. Monitoring price behavior around these levels is critical for anticipating the next directional phase.\n\nFor trading considerations, a cautious approach is recommended given the low volatility and indecisive price structure. Short-term traders might explore scalping strategies near support and resistance, while longer-term positions may benefit from waiting for a clearer breakout above resistance or a confirmed pullback to support. Risk management is essential, with tight stops suggested around the 0.58550 support and 0.58840 resistance to guard against sudden market swings."
+    }
+  }
+}

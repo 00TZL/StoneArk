@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-03-20T05:14:48.944Z",
+  "price": {
+    "close": "0.70894",
+    "high": "0.70907",
+    "low": "0.70866",
+    "open": "0.70879",
+    "change": "0.02",
+    "datetime": "2026-03-20 16:00:00"
+  },
+  "indicators": {
+    "rsi": 60.55295,
+    "macd": 0.00095306361,
+    "macd_signal": 0.00066670212,
+    "sma20": 0.706543
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短期盘整，潜在上行压力逐步显现",
+      "content": "当前澳元/美元价格在0.7089附近波动，日内涨幅有限，仅0.02%，显示市场短期趋于平稳。结合20日简单移动平均线(SMA)0.7065，价格略高于均线，表明短期多头仍占据一定优势，但动能尚未充分释放，趋势延续性需谨慎观察。  \n\nMACD指标显示数值为0.00095，虽略为正值，但缺乏信号线数据参考，表明短线买卖动能较弱。市场未出现明显超买或超卖情况，趋势尚未确认，需关注后续价格突破均线的表现，以判断潜在方向。  \n\n支撑位初步设在0.7080附近，如跌破可能测试0.7065均线，进一步支撑可关注0.7050水平；阻力位在0.7091附近，若突破将打开短期上涨空间至0.7100-0.7110区域。支撑与阻力位置较为紧密，表明市场在小幅区间震荡。  \n\n交易策略上，可采取低多高空策略，短线交易者可在靠近支撑区域尝试轻仓买入，同时设置合理止损防止回撤；若价格突破阻力，可考虑跟随上行趋势加仓，但需注意整体市场消息面和风险事件对澳元的潜在影响。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently hovering around 0.7089, showing minimal movement over the past 24 hours. Price action indicates a slightly bullish undertone, as the current rate sits above the 20-period simple moving average at 0.7065. This suggests that the short-term momentum favors buyers, albeit modestly. The daily high and low, 0.70907 and 0.70866 respectively, reveal a tight trading range, implying market indecision and potential consolidation before a decisive move.\n\nThe MACD reading of 0.00095, although lacking a corresponding signal line for cross verification, suggests a mild bullish bias. The positive value indicates that the short-term momentum is slightly stronger than the longer-term trend. Despite the absence of RSI data, the proximity to the recent high implies neither extreme overbought nor oversold conditions, suggesting that the pair has room for measured upward movement without immediate reversal pressure.\n\nKey support appears near 0.7070, providing a floor where buyers have previously stepped in. Resistance is seen around 0.7095, which aligns closely with the intraday high and marks a psychological barrier. A break above this level could trigger further buying momentum, whereas a drop below support could open the door for short-term retracements. Monitoring price reactions at these levels will be crucial for intraday traders seeking favorable entry points.\n\nFor trading considerations, conservative strategies could involve waiting for confirmation of a breakout above resistance for long positions, or a breakdown below support for short positions. Scalpers may focus on the tight range for short-term trades, capitalizing on minor oscillations. Risk management remains essential, with stop-losses set slightly beyond support and resistance zones to guard against sudden volatility spikes. Overall, AUD/USD shows a cautiously bullish bias, with limited immediate momentum but potential for directional clarity once the range is breached."
+    }
+  }
+}

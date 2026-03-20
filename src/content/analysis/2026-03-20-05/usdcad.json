@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-03-20T05:15:33.442Z",
+  "price": {
+    "close": "1.37321",
+    "high": "1.37329",
+    "low": "1.37298",
+    "open": "1.37321",
+    "change": "-0.00",
+    "datetime": "2026-03-20 16:00:00"
+  },
+  "indicators": {
+    "rsi": 51.8448,
+    "macd": 0.00025303138,
+    "macd_signal": 0.00036424255,
+    "sma20": 1.37324
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：短期横盘整理，市场观望情绪浓厚",
+      "content": "美元/加元当前价格在1.37321附近震荡，日内波动幅度极小，显示出市场短期缺乏明确方向。从价格与20日简单移动平均线（SMA20）接近重合来看，短期趋势偏中性，价格在均线附近徘徊，既没有明显上行动能，也缺乏下跌压力。  \n\nMACD微弱为正值0.000253，但缺乏信号线参考，显示多空双方仍在试探阶段，多头略占优势但动能有限。日内高点1.37329和低点1.37298形成窄幅区间，市场短线波动受阻，短线交易者可关注突破或反弹信号。  \n\n支撑位在1.3729附近，若跌破可能触发短线回调；阻力位在1.3733上方，突破则可能带来小幅拉升。技术指标显示趋势不明，交易者应保持谨慎，避免追涨杀跌，建议以区间操作为主，低位轻仓买入，高位逐步减仓。  \n\n综合来看，美元/加元短期横盘整理为主，波动幅度有限，短线交易机会以突破区间为参考。关注MACD动能变化及均线支撑压力，结合日内关键价位进行精细化操作，可降低交易风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently exhibiting a neutral to slightly bearish sentiment, hovering around 1.3732 with minimal 24-hour movement. Price action is confined within a very narrow range, suggesting indecision among market participants. Short-term trend indicators, including the 20-period simple moving average at 1.37324, show the pair closely tracking this average, implying consolidation rather than directional momentum. Traders should monitor whether price breaks decisively above the SMA, which could signal a potential upside continuation.  \n\nMomentum analysis, although limited by unavailable RSI and MACD signal data, hints at mild bullish pressure given the positive MACD reading of 0.000253. This small divergence between the MACD line and the price suggests the potential for a short-term uptick if buying interest strengthens. Conversely, the lack of a clear signal line makes it prudent to wait for further confirmation. Market participants should remain cautious, as low volatility and tight ranges often precede sharper directional moves.  \n\nKey support lies near the recent low of 1.37298, which has acted as a short-term floor, preventing deeper declines. On the upside, resistance is visible around 1.37329, marking the intraday high where sellers have consistently stepped in. A break below support could open the door for a test of the 1.3725 region, while a decisive move above resistance may target 1.3740–1.3742 levels. Watching these pivot points is essential for managing risk and identifying entry opportunities.  \n\nFor trading, range-bound strategies such as short-term scalping between support and resistance could be effective under current conditions. Conservative traders may prefer waiting for a breakout with higher volume before committing to longer positions. Given the market’s tight consolidation, maintaining tight stop-loss levels and focusing on precise entry points will be critical. Overall, USD/CAD shows potential for short bursts of volatility, but sustained trends remain unconfirmed until a clearer directional breakout emerges.  \n\nWord count: 268"
+    }
+  }
+}
