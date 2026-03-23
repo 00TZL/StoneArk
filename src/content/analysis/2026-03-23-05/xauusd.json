@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-03-23T05:31:54.175Z",
+  "price": {
+    "close": "4356.96836",
+    "high": "4382.12082",
+    "low": "4353.4965",
+    "open": "4362.65562",
+    "change": "-0.15",
+    "datetime": "2026-03-23 16:00:00"
+  },
+  "indicators": {
+    "rsi": 17.81505,
+    "macd": -38.83973,
+    "macd_signal": -24.062271,
+    "sma20": 4454.81396
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短期偏弱震荡调整",
+      "content": "近期黄金价格在4350附近震荡，日内波动幅度有限，短期趋势呈现偏弱整理。价格低于20日均线4454.81，显示多头动能受抑制，短线空方力量略占优势，但整体跌幅仍有限，市场缺乏明确方向性突破信号。  \n\nMACD指标显示-38.84，位于零轴下方，短期动能偏空，但信号线数据不完整，需关注潜在背离情况。价格接近日内低点4353.50附近，可视为短线支撑区域，而日内高点4382.12则构成近期阻力位，短线波动可能在此区间内盘整。  \n\n操作上，建议投资者保持谨慎，短线可在支撑区尝试轻仓多单，止损控制在4350下方，若突破阻力4382，可关注回抽确认后再加仓。对于偏空策略，可在价格未突破均线且形成短线反弹承压时考虑空单布局，严格止盈止损管理。  \n\n综合来看，黄金短期仍处于弱势整理阶段，多空博弈明显，市场缺乏强烈趋势信号。建议关注关键均线及支撑阻力位的破位情况，顺势操作为主，避免追高杀跌。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold is showing subtle bearish tendencies against the US Dollar as the price hovers around $4356.97, slightly down by 0.15% over the past 24 hours. The intraday high of $4382.12 and low of $4353.50 suggest a relatively narrow trading range, indicating indecision in the market. The SMA(20) at $4454.81 is well above the current price, confirming that the short-term trend remains below the moving average and signaling potential downward pressure in the near term.  \n\nThe MACD reading of -38.84 points to persistent bearish momentum. Although the signal line is unavailable, the negative MACD value alone suggests that sellers currently dominate the market. Without a valid RSI, overbought or oversold conditions cannot be precisely gauged, but the price action below the SMA hints at cautious selling pressure. Traders should remain attentive to momentum shifts and watch for potential MACD crossovers for early trend reversal signals.  \n\nImmediate support is found near $4353.50, marking the intraday low, and a slightly stronger psychological floor lies at $4340, where previous consolidation occurred. Resistance is first encountered at $4382.12, with a more significant barrier at $4450, aligning closely with the SMA(20). Breaks below support could trigger further downside, while a rally toward SMA(20) may face selling pressure unless accompanied by a stronger bullish catalyst.  \n\nShort-term traders could consider cautious sell positions while respecting the support zone, with tight stop losses just above the intraday high to mitigate risk. Longer-term traders may wait for confirmation of a break above $4382 or a decisive dip below $4340 before committing. Overall, Gold appears slightly bearish in the near term, but volatility and market news could quickly alter the technical landscape, making risk management essential for any position."
+    }
+  }
+}

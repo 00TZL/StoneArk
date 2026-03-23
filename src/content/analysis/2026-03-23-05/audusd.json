@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-03-23T05:28:59.673Z",
+  "price": {
+    "close": "0.69683",
+    "high": "0.69816",
+    "low": "0.6968",
+    "open": "0.6979",
+    "change": "-0.15",
+    "datetime": "2026-03-23 16:00:00"
+  },
+  "indicators": {
+    "rsi": 23.41259,
+    "macd": -0.0013401615,
+    "macd_signal": -0.00091319519,
+    "sma20": 0.700916
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短线偏弱震荡下行",
+      "content": "当前汇价位于0.6968附近，整体运行在20日均线下方，显示短线趋势偏空。价格连续受压于0.7000上方阻力区域，表明多头动能不足，市场情绪略偏谨慎，短期或维持震荡偏弱格局。\n\n从技术指标看，SMA(20)位于0.7009，对价格形成明显压制；MACD处于零轴下方且为负值，暗示动能仍偏空，但未出现明显放大，说明下行动力有限。RSI虽未给出，但结合价格表现，预计处于中性偏弱区间。\n\n关键支撑位关注0.6960及0.6940，一旦跌破可能打开进一步下行空间；上方阻力位则集中在0.6990及0.7010附近，若有效突破，短线有望修复性反弹。当前区间收窄，警惕突破行情出现。\n\n操作上建议以区间交易为主，靠近阻力轻仓做空，止损放于0.7015上方；若回踩支撑企稳，可短多参与但需严格风控。整体思路偏空为主，等待明确方向突破后再加大仓位。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently exhibiting a subtle bearish bias, trading slightly below the 20-period SMA at 0.7009. This suggests that short-term momentum is under pressure, as price struggles to reclaim the moving average. The recent high of 0.69816 and low of 0.6968 indicate a narrow intraday range, reflecting cautious market sentiment. Overall, the pair appears to be consolidating after previous gains, with sellers gradually gaining control, hinting at a continuation of the short-term downward trend if resistance holds.  \n\nThe MACD reading of -0.00134, while modest, reinforces the weak bearish momentum. The negative value suggests that the short-term trend is underperforming relative to its longer-term average, even though a signal line is not available for precise confirmation. Traders should be aware that this level of divergence is mild, and a reversal could occur if buying pressure intensifies near support zones. This subtle momentum weakness aligns with the inability of the price to breach the SMA convincingly.  \n\nKey technical levels to monitor include immediate support around 0.6960, which aligns with recent intraday lows. A break below this could accelerate selling toward the 0.6930–0.6940 area, representing a secondary support zone. On the upside, resistance is clear near 0.7009, where the 20-period SMA may act as a barrier, and the psychological level at 0.7020 may further constrain bullish attempts. Traders should watch these levels closely for potential breakout or reversal signals.  \n\nFor trading strategy, cautious short positions could be considered below the SMA, targeting the immediate support, while stop-loss orders just above 0.7010 can manage risk. Conversely, a decisive move above the SMA could open opportunities for a short-term long trade, aiming for 0.7020–0.7040. Intraday traders may benefit from range-bound strategies given the current consolidation, while swing traders might wait for a confirmed trend break to establish more decisive positions."
+    }
+  }
+}

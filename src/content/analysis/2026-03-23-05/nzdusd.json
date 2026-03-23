@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-03-23T05:30:27.928Z",
+  "price": {
+    "close": "0.58048",
+    "high": "0.58132",
+    "low": "0.58048",
+    "open": "0.58119",
+    "change": "-0.12",
+    "datetime": "2026-03-23 16:00:00"
+  },
+  "indicators": {
+    "rsi": 29.33632,
+    "macd": -0.00067624421,
+    "macd_signal": -0.00047647257,
+    "sma20": 0.58262
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理，谨慎操作]",
+      "content": "当前纽元/美元（NZD/USD）价格为0.58048，24小时内变化幅度较小，约-0.12%。从价格走势来看，近期维持震荡整理状态，未出现明显的单边趋势。价格在0.58048至0.58132之间波动，显示市场情绪相对谨慎。若价格突破该区间，将可能给出进一步的走势信号。\n\n从技术指标来看，RSI(14)未能提供有效的数据参考，因此暂时无法对超买或超卖状态进行解读。MACD显示出轻微的负值（-0.00067624421），表明当前市场呈现弱势，可能面临一定的回调压力。SMA(20)均线位于0.58262，若价格进一步下行突破此均线，可能形成新的阻力位，价格有回升的潜力。\n\n支撑位方面，0.58048的价格点显然对市场形成了一定的支撑。若价格继续维持在此价位上方，可能会触发反弹。若下破此支撑位，可能会进一步测试更低的支撑水平，特别是在0.5790附近。上方阻力位为0.58132，若突破该价位，有可能打开进一步上涨的空间。\n\n基于当前市场情况，建议交易者保持谨慎，避免激进操作。若价格突破支撑或阻力区间，可以考虑顺势交易，但仍需密切关注技术指标的变化，灵活调整策略。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently exhibiting a cautious bearish sentiment, trading just below the short-term 20-period SMA at 0.58262. This suggests that recent momentum favors sellers, as the price has struggled to break above this moving average. The daily range between 0.58048 and 0.58132 indicates limited volatility, hinting at consolidation after a slight downtrend. Traders should observe whether the pair can reclaim the SMA, which would signal potential bullish retracement, or continue to decline toward key support levels.  \n\nMomentum indicators, though partially incomplete, signal mild selling pressure. The MACD reading of -0.000676 suggests that downward momentum is present but not yet aggressive. Absence of an RSI reading prevents full assessment of overbought or oversold conditions, but the proximity of price to recent lows points to cautious positioning. Market participants should be mindful of possible range-bound trading until momentum indicators provide clearer signals for directional bias.  \n\nKey technical levels to monitor include immediate support at 0.5800, which has acted as a floor in recent sessions. Breaching this level could expose further downside toward 0.5785, a minor psychological support. Resistance lies at 0.5830, just above the SMA, and a stronger barrier near 0.5850, where sellers previously reasserted control. These levels will likely guide short-term trade setups, allowing disciplined traders to define entry, stop-loss, and take-profit points effectively.  \n\nFrom a tactical perspective, short-term traders might consider cautious short positions on rallies toward 0.5825–0.5830, with stops slightly above the SMA. Conversely, buyers could look for oversold conditions near 0.5800 to capture rebounds, targeting the mid-range near 0.582. Risk management is crucial, as low volatility may result in false breakouts. Overall, NZD/USD is showing consolidation within a mild bearish bias, with traders advised to wait for clear confirmation before committing to directional trades.  \n\nWord count: 272"
+    }
+  }
+}

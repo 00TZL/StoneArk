@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-03-23T05:28:15.283Z",
+  "price": {
+    "close": "159.50319",
+    "high": "159.51193",
+    "low": "159.37218",
+    "open": "159.40984",
+    "change": "0.06",
+    "datetime": "2026-03-23 16:00:00"
+  },
+  "indicators": {
+    "rsi": 61.46673,
+    "macd": 0.070179236,
+    "macd_signal": 0.051854831,
+    "sma20": 159.31296
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：当前区间震荡，谨慎操作",
+      "content": "当前，美元/日元（USD/JPY）在159.5附近徘徊，价格呈现震荡整理态势。虽然价格在短期内小幅波动，但缺乏明显的趋势信号，市场情绪较为谨慎。短期内未见明显突破，可能仍将在159.37至159.51区间内震荡。\n\n从技术指标来看，RSI和MACD的缺失使得短期动能的判断变得较为困难。SMA(20)的支持在159.31附近，表明若价格下行接近该点位，可能会得到一定支撑。MACD目前的正值（0.0702）显示出一些上行动能，但信号线尚未显示明确的交叉，意味着趋势并未彻底确认。\n\n支撑位方面，159.37是近期低点，若价格回落至该水平，可能会受到支撑并出现反弹。阻力位则在159.51附近，突破该水平可能会为上行提供进一步空间。若突破阻力位，短期内可能挑战更高水平。\n\n建议投资者在当前市场环境下保持谨慎，建议等待价格突破支撑或阻力位后再做进一步决策。若价格在支撑位附近得到确认，可以考虑做多；若突破阻力位，则可考虑跟随多头趋势。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently exhibiting a relatively stable trend, with the price hovering around 159.50. The market has seen a slight upward movement of 0.06% in the last 24 hours, indicating a period of consolidation. Price action shows that the pair is contained within a tight range, with the high of 159.51 and low of 159.37 over the last day. This suggests a lack of strong directional momentum, but also an opportunity for scalpers or short-term traders who prefer tight price movements.\n\nWhen considering indicators, the absence of a clearly defined RSI(14) makes it harder to gauge potential overbought or oversold conditions at this moment. The MACD reading of 0.070179236 indicates a weak bullish momentum but doesn't provide strong confirmation for a sustained uptrend. A closer examination of the MACD histogram could provide a better understanding of the momentum shift, especially when the signal line becomes available. \n\nThe 20-period Simple Moving Average (SMA) stands at 159.31, offering an important dynamic support level. This SMA suggests that the pair is trading above it, showing a slight bullish bias in the short term. However, if the price dips below this moving average, it could signal potential weakness and an opportunity to test lower support levels. A key support zone lies near 159.37, and a break below this would put 159.00 in focus as the next significant support.\n\nFor trading strategies, a short-term buy position could be considered if the price maintains above the SMA, with a target toward the recent highs around 159.51. Conversely, should the price break below the SMA and find resistance near 159.37, short positions may offer a viable setup, targeting lower support levels. Traders should remain cautious of larger moves and watch for volatility in broader market conditions."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-03-23T05:26:49.177Z",
+  "price": {
+    "close": "1.15414",
+    "high": "1.15528",
+    "low": "1.15405",
+    "open": "1.15499",
+    "change": "-0.08",
+    "datetime": "2026-03-23 16:00:00"
+  },
+  "indicators": {
+    "rsi": 34.45853,
+    "macd": -0.0010077634,
+    "macd_signal": -0.00090715668,
+    "sma20": 1.15624
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：短期承压整理，偏向震荡下行",
+      "content": "当前EUR/USD价格位于1.15414，接近20日均线1.15624下方，显示短期多头动能受限。价格在昨日高低点1.15528-1.15405之间波动，整体呈现轻微承压整理态势，短线多空力量接近平衡，趋势方向不明朗。  \n\nMACD指标处于负值区间（-0.0010），暗示空方动能略占上风，但信号线未提供，需结合价格行为观察进一步走势。缺少RSI数据限制了超买超卖判断，但从当前价格偏离均线情况来看，短线仍可能面临轻微下行压力。  \n\n支撑位初步关注1.1540附近，如失守可能下探1.1525区域；阻力位则位于1.1562及1.1575，短线上行受限。价格若稳定突破阻力，可重新激活多头动力，但需确认伴随成交量上升。  \n\n交易策略上，短线可采取震荡操作为主，低位尝试轻仓做多，止损置于支撑下方0.0010~0.0015；若价格未能守住1.1540，可考虑顺势轻仓做空，目标关注近期低点与均线附近压力位，控制风险为关键。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently showing signs of a slight bearish bias, trading at 1.15414, which is just above the daily low of 1.15405. The price has been consolidating within a narrow range, reflecting market indecision. The recent 24-hour change of -0.08% suggests minimal volatility, but the price remains vulnerable to short-term pullbacks. Given the proximity to the 1.15528 high, there may be resistance at this level, and a break above could signal a potential retest of the 1.15624 SMA(20) for further upside momentum.\n\nIn terms of indicators, the MACD value of -0.0010 shows a mild bearish momentum, indicating that the sellers are slightly in control. However, without a clear signal value for MACD, the trend remains unclear and requires further confirmation from price action. The absence of an RSI reading limits our ability to assess overbought or oversold conditions accurately. If momentum weakens further, the pair may test key support at the 1.15300 mark, a level that has historically provided some resilience.\n\nLooking at potential support and resistance levels, a failure to hold above the current price could lead to a deeper decline towards the 1.15300 support. A break below this zone would expose the pair to the 1.15000 psychological level, which could act as another key area of interest. On the upside, if EUR/USD manages to break above 1.15528 and sustain momentum, the next significant resistance would likely be near 1.15700, where further bullish attempts might face obstacles.\n\nFor trading strategies, a cautious approach is recommended given the current range-bound price action. Traders should look for a breakout above 1.15528 for potential long positions, targeting the 1.15700 area. Conversely, short positions can be considered if the price fails to breach the 1.15528 resistance, especially if the pair approaches 1.15300 or lower. Traders should also monitor the MACD and RSI for any divergence or confirmation of the prevailing trend."
+    }
+  }
+}
