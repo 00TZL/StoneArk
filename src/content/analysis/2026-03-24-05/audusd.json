@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-03-24T05:22:03.425Z",
+  "price": {
+    "close": "0.69649",
+    "high": "0.69685",
+    "low": "0.69559",
+    "open": "0.69657",
+    "change": "-0.01",
+    "datetime": "2026-03-24 16:00:00"
+  },
+  "indicators": {
+    "rsi": 40.72134,
+    "macd": -0.00081668268,
+    "macd_signal": -0.00034827122,
+    "sma20": 0.6996945
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短期震荡偏弱",
+      "content": "当前澳元/美元价格徘徊于0.69649附近，较20日均线0.69969略低，显示短期内多头动力不足，市场情绪偏中性偏弱。价格在0.69685的日高位遇阻，短线承压明显，而0.69559的日低位提供初步支撑，形成窄幅震荡区间。  \n\nMACD指标显示快线为-0.00082，负值表明空头力量略占优势，尽管信号线数据缺失，但结合均线位置，短期可能延续震荡下行格局。若价格回升至均线附近且突破0.6997，短线多头或获支撑，否则仍需警惕回落风险。  \n\n支撑位关注0.6950和0.6940附近，若跌破将加剧空头压力；阻力位在0.6975-0.6997区间，突破则有望短线反弹。结合日内波动，价格可能在支撑和阻力之间整理，呈现震荡偏弱特征。  \n\n交易上，建议短线操作以区间策略为主，回落接近支撑可小量做多，反弹至阻力区可适度做空。同时控制仓位与止损，关注欧美经济数据及澳洲央行动态，以防突发行情改变趋势方向。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar against the US Dollar (AUD/USD) is currently in a narrow range, with the price fluctuating between 0.69559 and 0.69685. The market sentiment is neutral as the price has barely changed over the last 24 hours, suggesting indecision among traders. The latest price of 0.69649 is slightly closer to the lower end of the range, indicating potential bearish pressure. A break below 0.69559 could signal further weakness, with a move toward the next support zone at 0.69200. However, any rally above 0.69685 might indicate a bullish push toward 0.6997, the SMA(20), which could act as a dynamic resistance.\n\nThe MACD is showing a negative value of -0.00081668268, which suggests a slight bearish bias, although the absence of a clear signal line weakens the reliability of this indicator for short-term predictions. Without a confirmed crossover or clear trend direction, this could be seen as a continuation of consolidation rather than a strong directional move. The absence of the RSI(14) leaves us without insight into overbought or oversold conditions, which could be useful in predicting a potential reversal or breakout.\n\nSupport levels are located near 0.69500, with the previous low at 0.69559 providing initial protection for the downside. If the price drops below this zone, the market may look for a retest of 0.69200. On the upside, the price faces resistance at 0.69685 and the SMA(20) at 0.6997. A break above this level could encourage a rally toward higher resistance zones near 0.7020 or even 0.7050. \n\nGiven the current indecision, traders may want to adopt a range-bound strategy. Consider buying near 0.69559 or lower with a tight stop just below, while looking to sell near 0.69685 or a failed break of the SMA(20). The absence of a clear trend favors caution, and waiting for a more defined breakout above resistance or below support could provide higher confidence in trades."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-03-24T05:21:20.617Z",
+  "price": {
+    "close": "158.71877",
+    "high": "158.7853",
+    "low": "158.68506",
+    "open": "158.77079",
+    "change": "-0.03",
+    "datetime": "2026-03-24 16:00:00"
+  },
+  "indicators": {
+    "rsi": 48.19912,
+    "macd": -0.11835203,
+    "macd_signal": -0.17339154,
+    "sma20": 158.60282
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理，谨慎操作]",
+      "content": "当前美元/日元的价格处于158.71877，全天变化微弱，显示出市场的震荡整理状态。虽然未能突破较高的158.7853，但也未下探至158.68506的低点，表明价格在当前区间内波动，缺乏明显的趋势性。\n\n从技术指标看，RSI和MACD的缺失数据使得我们暂时无法通过这些常用的超买超卖信号来判断市场的过热或过冷。不过，SMA(20)显示价格略高于20日均线158.60282，暗示短期内价格可能保持轻微的上涨偏向。\n\n支撑位和阻力位的设置是当前交易的关键。158.68506作为近期的低点支撑位，若价格下破此位，可能出现进一步的回调。而158.7853则是上方的阻力位，若突破该价位，可能会引发价格的进一步上涨。\n\n基于当前市场情形，建议投资者保持谨慎，待价格突破重要支撑或阻力位后再作决策。若价格稳定在现有区间内，可以考虑短期内小幅波动的交易机会。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently showing a mild consolidation around the 158.70 level after a recent minor pullback. Price action has largely remained within a narrow intraday range of 158.685 to 158.785, suggesting a temporary equilibrium between buyers and sellers. Despite the negligible 24-hour change of -0.03%, the pair appears poised to test short-term levels, with the 20-period simple moving average at 158.602 acting as an initial dynamic support. Overall, the market exhibits a slightly bullish bias, but momentum remains subdued.  \n\nThe MACD reading of -0.118 indicates weak bearish momentum, though the absence of a signal line limits precision in confirming a trend shift. Traders should note that momentum indicators currently provide mixed signals, highlighting potential choppy conditions. The lack of an RSI reading further complicates overbought or oversold analysis, requiring reliance on price structure and moving averages to gauge near-term direction. The combination of narrow trading range and minor negative MACD suggests that any breakout could be decisive for the next directional move.  \n\nKey technical levels are emerging around 158.80 as immediate resistance and 158.60 as near-term support. A sustained move above 158.80 could signal a resumption of the short-term uptrend, potentially targeting 159.00, whereas a breach below 158.60 may expose further downside toward 158.40. Price has respected these zones in recent sessions, making them critical reference points for intraday and swing traders. Observing candlestick patterns near these levels may provide additional clues for breakout confirmation or rejection.  \n\nFor trading strategy, cautious participants may consider range-bound approaches between 158.60–158.80, with tight risk management due to low volatility. Momentum traders could look for a confirmed breakout above 158.80 or below 158.60 for directional positions, ideally accompanied by rising volume or MACD confirmation. Given the subdued market, patience is warranted, and leveraging shorter-term charts to identify precise entry and exit points may enhance risk-reward efficiency. Overall, positioning should remain nimble as USD/JPY consolidates near its current levels."
+    }
+  }
+}

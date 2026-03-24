@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-03-24T05:22:44.234Z",
+  "price": {
+    "close": "1.37565",
+    "high": "1.37603",
+    "low": "1.37555",
+    "open": "1.37569",
+    "change": "-0.00",
+    "datetime": "2026-03-24 16:00:00"
+  },
+  "indicators": {
+    "rsi": 62.62563,
+    "macd": 0.00084218933,
+    "macd_signal": 0.00046038861,
+    "sma20": 1.37306
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理，短期区间波动]",
+      "content": "当前美元/加元(USD/CAD)价格维持在1.37565附近，整体呈现震荡整理格局。从24小时变化来看，价格几乎没有变化，表明市场情绪较为谨慎，缺乏强烈的趋势动能。\n\n技术指标方面，RSI和MACD的数值尚不完整，无法提供明确的超买或超卖信号。但根据目前的SMA(20)在1.37306附近的支撑位，短期内若价格回落，可能会受到此水平支撑。若突破1.37603的高点，可能会开启新的上涨动能。\n\n在支撑位方面，1.37306是关键支撑，若价格跌破该位，可能会进一步测试1.37000附近的更强支撑。上行阻力则集中在1.37603一线，突破该位可能引发进一步上涨。\n\n建议在当前区间内采取区间交易策略。若价格接近1.37306附近，可考虑做多；若接近1.37603，则可考虑做空。同时，等待MACD和RSI等指标信号的确认，以便进行更精确的操作。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently showing a stable market, with minimal change observed in the last 24 hours. The latest price of 1.37565 reflects a neutral stance, as the currency pair oscillates within a narrow range between the high of 1.37603 and the low of 1.37555. Despite the lack of major volatility, the recent price action suggests a slight bullish bias, as the pair is holding above its 20-period Simple Moving Average (SMA) of 1.37306. This indicates a potential for continuation in an upward direction, but any significant moves will depend on further market catalysts.\n\nLooking at the MACD, we see a modest positive value of 0.00084218933, indicating slight upward momentum. However, without a defined signal line or further context, it’s difficult to establish a strong trend reversal. Traders should be cautious of any potential divergence in the MACD, which could signal a weakening in the current price action. The absence of an RSI reading leaves us with a gap in momentum analysis, but the price’s current proximity to its recent high could suggest that the pair may soon face resistance at higher levels.\n\nIn terms of key levels, immediate support can be found around the 1.37306 mark, in line with the 20-period SMA. A drop below this level would open up a test of the lower bounds, potentially heading towards the 1.3700 region. On the upside, resistance is likely to appear near the 1.37600 area, where the market has struggled to break through in recent hours. A breakout above this level could lead to further upside potential, with the next resistance target being around 1.3800.\n\nFor trading strategies, a conservative approach would involve waiting for confirmation of a breakout above the 1.37603 resistance or a breakdown below 1.37306 to capitalize on potential moves in either direction. A range-bound strategy could be employed for scalpers, looking to trade between the key support and resistance levels. However, caution is advised due to the current lack of clear momentum signals, such as the absent RSI and undefined MACD signal."
+    }
+  }
+}

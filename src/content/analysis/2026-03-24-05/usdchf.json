@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-03-24T05:24:09.297Z",
+  "price": {
+    "close": "0.7884",
+    "high": "0.78885",
+    "low": "0.78822",
+    "open": "0.78883",
+    "change": "-0.05",
+    "datetime": "2026-03-24 16:00:00"
+  },
+  "indicators": {
+    "rsi": 52.28392,
+    "macd": -0.000016946492,
+    "macd_signal": -0.00026448426,
+    "sma20": 0.787529
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：震荡整理，等待突破",
+      "content": "当前美元/瑞郎(USD/CHF)价格在0.7884附近，全天变化幅度较小，处于震荡整理区间。短期内该货币对的走势较为平稳，未出现明显的趋势性变化。尽管价格波动有限，但市场依然需要关注突破的潜力，可能会影响后续走势。\n\n从技术指标来看，目前MACD值为负，显示出微弱的下行压力。然而，由于没有提供RSI数据，难以做出全面的超买超卖判断。20日简单移动平均线(SMA)目前为0.7875，略低于当前价格，表明价格有轻微支撑，但整体走势偏向横盘整理。\n\n支撑位方面，当前价格接近0.7882的低点区域，这一水平可能成为短期的支撑。如果跌破该位置，可能会进一步考验0.7860附近的支撑。而阻力位则位于0.7890和0.7900附近，这些位置可能限制价格的上行空间，若突破则可能迎来新的上涨机会。\n\n交易建议：建议观望，等待价格突破支撑或阻力区间后再进行交易。如果价格突破0.7900上方，考虑做多，反之若跌破0.7882下方，可以考虑做空。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently showing a subtle bearish bias, with the latest price at 0.7884, slightly below the 20-day SMA of 0.7875. The limited intraday movement between 0.78822 and 0.78885 indicates a period of consolidation, suggesting that the market is waiting for a directional trigger. The minor 24-hour decline of -0.05% reinforces this indecisiveness, as neither buyers nor sellers have established clear control. Overall, the short-term trend appears neutral to mildly bearish, with caution advised for aggressive entries.  \n\nDespite the absence of a fully calculated RSI and MACD signal, the negative MACD value of -0.0000169 hints at mild downward momentum. This suggests sellers are marginally dominant, though the lack of a confirmed signal line crossover reduces conviction. Traders may interpret this as a “wait-and-see” environment until momentum indicators provide clearer direction. Close monitoring of MACD convergence with the signal line and potential RSI readings above 70 or below 30 would offer stronger cues for trend continuation or reversal.  \n\nKey technical levels remain critical for guiding trade decisions. Immediate support is likely around 0.7870, coinciding with the 20-day SMA, while short-term resistance sits near 0.7890, corresponding to the recent intraday high. A sustained breakout above this resistance could signal a shift toward bullish momentum, whereas a decisive drop below support may confirm bearish continuation. Pivot points around 0.7865 and 0.7900 can serve as additional reference zones for intraday traders seeking entry or exit points.  \n\nGiven the current technical backdrop, cautious short positions near resistance with tight stop-losses around 0.7895 could be appropriate, targeting support near 0.7870. Conversely, traders may consider long positions on a confirmed rebound above the SMA or a breakout past 0.7890, with stops just below the SMA. Overall, the market favors patient, technically disciplined trading, emphasizing momentum confirmation and respect for key support and resistance zones to manage risk effectively.  \n\nWord count: 271"
+    }
+  }
+}

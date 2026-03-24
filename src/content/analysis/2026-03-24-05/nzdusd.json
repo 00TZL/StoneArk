@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-03-24T05:23:26.439Z",
+  "price": {
+    "close": "0.58269",
+    "high": "0.58302",
+    "low": "0.58225",
+    "open": "0.58294",
+    "change": "-0.04",
+    "datetime": "2026-03-24 16:00:00"
+  },
+  "indicators": {
+    "rsi": 45.14622,
+    "macd": 0.00014700104,
+    "macd_signal": 0.00053768693,
+    "sma20": 0.5845495
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理，关注短期突破]",
+      "content": "当前纽元/美元(NZD/USD)的价格在0.58269附近，整体波动较小，近期表现出震荡整理的态势。从市场走势来看，价格在0.58225和0.58302区间内反复波动，未能突破显著的支撑或阻力，表明市场缺乏明确的方向性。短期内可能会继续在这一区间内震荡，直到出现更强的动能。\n\n从技术指标来看，当前RSI(14)和MACD指标无法提供有效的趋势信号。虽然MACD值为0.000147，但由于缺少信号线的比较，无法确认趋势的强弱。而SMA(20)均线在0.5845附近形成了一定的阻力，若价格无法突破该位置，短期内可能维持震荡走势。\n\n支撑位方面，0.58225一线是近期价格的最低点，若跌破该支撑，可能会进一步下探至0.5815附近。上行阻力则位于0.5845附近，突破该水平可能带来进一步上涨动能，挑战0.5860一线。\n\n交易策略上，建议在当前区间内进行区间交易，若价格回撤至支撑位附近，可以考虑轻仓做多；反之，若价格接近阻力位，可考虑做空。保持灵活，应对市场的短期波动。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently showing a slight downward movement, with the latest price standing at 0.58269, down by 0.04% over the past 24 hours. The price is trading within a narrow range, reflecting a period of consolidation. A closer look at the price action reveals that the pair is struggling to hold above the recent high of 0.58302, which may indicate weakening bullish momentum. However, the recent low of 0.58225 offers short-term support, and any move below this level could trigger further downward pressure.\n\nFrom an indicator perspective, the absence of a clear RSI(14) reading and MACD signal presents a mixed outlook. The MACD value of 0.000147 is marginally positive, suggesting a lack of significant momentum in either direction. Traders should be cautious as the MACD does not indicate any strong trend confirmation. The SMA(20) at 0.58454950 suggests that the price is trading slightly below the short-term moving average, reinforcing the current neutral to bearish sentiment in the market. The lack of substantial momentum makes it difficult to predict a sharp directional move without further market catalysts.\n\nSupport levels are located around the recent low of 0.58225, which could provide a short-term bounce if tested again. A deeper break below this zone could open up additional downside targets, with the next significant level near 0.58000. On the upside, resistance is found around the recent high of 0.58302, followed by the SMA(20) level at 0.58455. A sustained break above the SMA could signal a potential reversal towards higher levels, but the pair would first need to overcome the resistance at 0.58302.\n\nIn terms of trading strategy, a cautious approach is advised. A break below 0.58225 may offer a short opportunity with a target near 0.58000, while a rebound from this support could lead to a test of the 0.58302 resistance. Given the current market conditions, traders should remain vigilant for signs of increased volatility or external catalysts, as the current indicators offer little guidance for a clear trend."
+    }
+  }
+}

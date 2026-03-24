@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-03-24T05:19:51.411Z",
+  "price": {
+    "close": "1.15804",
+    "high": "1.15811",
+    "low": "1.15766",
+    "open": "1.15797",
+    "change": "0.00",
+    "datetime": "2026-03-24 16:00:00"
+  },
+  "indicators": {
+    "rsi": 48.56225,
+    "macd": 0.00049644436,
+    "macd_signal": 0.00086849582,
+    "sma20": 1.1593
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：震荡整理中，等待突破",
+      "content": "当前欧元/美元（EUR/USD）价格稳定在1.15804附近，显示出震荡整理的特征。价格在1.15766到1.15811区间内波动，缺乏明确的上行或下行趋势。短期内，市场情绪保持平稳，尚未出现强烈的买卖信号。\n\n技术指标方面，MACD线为0.0005，尽管有微弱的正值，但由于缺乏信号线数据，暂时难以从MACD中判断明确的趋势。SMA(20)目前位于1.15930，价格略低于其水平，暗示短期可能偏向下行。RSI指标目前不可用，限制了我们对市场动能的进一步解读。\n\n从支撑/阻力位来看，当前价格接近1.1580附近，若突破该水平并站稳，则可能挑战1.1600的关键阻力位。反之，若下破1.1570附近的支撑位，可能会迎来更大的下行空间。\n\n综合来看，当前市场缺乏强劲的趋势，建议短期交易者关注突破性行情。若价格突破1.1585并稳固，可能会进入反弹阶段，适宜短期买入。否则，若跌破支撑位1.1570，可能会考虑空头策略。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD is currently consolidating around the 1.1580 area, showing little directional momentum over the past 24 hours. The narrow daily range between 1.15766 and 1.15811 suggests a phase of indecision, with buyers and sellers essentially in balance. Price is slightly below the 20-period simple moving average at 1.15930, indicating mild short-term bearish bias, but the lack of significant price movement implies that the market is waiting for new fundamental triggers, such as economic data or central bank commentary.\n\nThe MACD reading is positive at 0.000496, hinting at marginal upward momentum, although the absence of a signal line prevents a full confirmation of a bullish crossover. In combination with the minor SMA deviation, this suggests that any upward push may be limited in scope and susceptible to rapid reversals. Traders should consider the MACD as a tentative gauge rather than a decisive signal in this context, as momentum remains muted and volatility is subdued.\n\nImmediate support is seen near 1.1575, marking the low of the recent session and a level where short-term buyers may re-enter. Resistance is established around 1.1593–1.1595, closely aligned with the SMA, which could act as a cap for intraday advances. A break above this zone could open the door for a test of 1.1610, while a breach below support may expose 1.1560. Monitoring these levels is crucial for timing entries and exits in such a quiet market environment.\n\nFor traders, a cautious approach is advisable. Range-bound strategies such as scalping between support and resistance may be effective while the pair remains sideways. For more directional positions, confirmation via a MACD crossover or a sustained move above the SMA would provide greater conviction. Risk management remains essential, with tight stop-losses around key support and resistance points to protect against sudden spikes or news-driven volatility."
+    }
+  }
+}

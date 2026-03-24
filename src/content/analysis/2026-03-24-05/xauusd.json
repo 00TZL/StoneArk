@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-03-24T05:24:54.099Z",
+  "price": {
+    "close": "4343.39272",
+    "high": "4346.302",
+    "low": "4318.79209",
+    "open": "4333.79427",
+    "change": "0.21",
+    "datetime": "2026-03-24 16:00:00"
+  },
+  "indicators": {
+    "rsi": 44.49745,
+    "macd": -14.88029,
+    "macd_signal": -9.83215,
+    "sma20": 4391.22531
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理，短期区间调整]",
+      "content": "当前黄金/美元（XAU/USD）价格处于震荡整理阶段，价格在4340附近波动，未能突破近期的关键支撑与阻力区间。市场情绪较为谨慎，投资者等待进一步的市场指引。近期价格波动幅度较小，显示出市场的不确定性。\n\n在技术指标方面，MACD指标为负值，表明市场仍然处于弱势状态，虽然当前缺少RSI和Signal的具体数据，但从价格走势来看，短期内难以出现强劲的反弹。SMA(20)处于4391附近，当前价格低于该水平，进一步确认了短期内卖压较重。\n\n从支撑和阻力水平来看，4346附近为短期阻力位，而4318则为关键支撑位。一旦价格跌破4318支撑位，可能会进一步下探。反之，突破4346阻力位可能带来新的上行空间，但突破力度仍需观察。\n\n建议投资者在当前市场环境下保持谨慎，适当关注价格在4318-4346区间内的震荡走势。若价格接近支撑位4318，可以考虑适量做多；若突破4346阻力位，可能会出现短期反弹机会。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD pair is currently trading at 4343.39, showing a modest 0.21% change over the past 24 hours. This slight movement suggests consolidation near the mid-range of its recent price action. The market has been testing the support and resistance levels at 4318.79 and 4346.30, respectively. As the price continues to hover near the 4343.39 mark, it indicates indecision, with neither bulls nor bears asserting clear dominance. Investors should keep a close eye on whether the pair can break either of these levels for directional clarity.\n\nWithout the RSI reading available, the technical analysis leans heavily on the MACD, which stands at -14.88. This negative value indicates that the bears currently have a slight advantage, though the lack of a corresponding signal line makes it difficult to predict any imminent change in momentum. The MACD's position below zero suggests that sellers are in control in the short term, but further confirmation will be necessary to identify a sustained trend. Traders might want to wait for a more defined signal to act.\n\nThe 20-period simple moving average (SMA) at 4391.23 is another key level to consider. This SMA is currently above the market price, which suggests a bearish short-term outlook. If the price fails to rally above this SMA, it may signal continued downside pressure towards the 4318.79 support. On the other hand, if the price breaks through the SMA, it could signal a potential reversal or upward momentum towards higher resistance levels.\n\nGiven the current data, a cautious approach seems prudent. Traders may look for opportunities to enter short positions if the price tests the 4346.30 resistance and fails to break through. A break below 4318.79 could further confirm bearish momentum, while a move above the SMA may offer an opportunity for long positions targeting higher levels."
+    }
+  }
+}
