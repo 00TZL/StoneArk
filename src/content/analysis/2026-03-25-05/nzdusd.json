@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-03-25T05:23:23.093Z",
+  "price": {
+    "close": "0.58118",
+    "high": "0.58173",
+    "low": "0.58112",
+    "open": "0.58166",
+    "change": "-0.08",
+    "datetime": "2026-03-25 16:00:00"
+  },
+  "indicators": {
+    "rsi": 41.093628,
+    "macd": -0.00032066039,
+    "macd_signal": -0.00019792664,
+    "sma20": 0.5825965
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：短线偏弱整理",
+      "content": "纽元/美元当前价格报0.58118，短期走势呈现轻微回落，低于20日均线0.5826，显示短线承压迹象。整体趋势尚未形成明确突破，价格在0.5811至0.5817区间波动，市场情绪偏谨慎，多空力量相对均衡。  \n\nMACD指标显示当前为负值，虽然信号线未提供，但负值暗示下行动能存在，但幅度有限。价格接近前低0.58112构成支撑位，而上方0.5826均线及近期高点0.58173形成阻力，短线存在震荡整理特征。  \n\n技术面来看，若价格有效跌破0.5811支撑，则可能延伸下行至0.5805附近；若能守住支撑并突破0.5826阻力，则短线反弹动能将增强。交易者应关注关键均线及波动区间，避免追涨杀跌。  \n\n建议短线交易可采取区间操作策略，低位可适量布局多单，止损放在0.5808以下；高位遇阻可考虑轻仓空单，目标在0.5810至0.5812附近。整体保持谨慎，等待趋势确认后再增加仓位。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently trading slightly below the 20-day simple moving average, indicating short-term bearish pressure. Price action has been relatively flat within a tight range of 0.58112 to 0.58173 over the past 24 hours, suggesting indecision among traders. The slight decline of -0.08% reflects cautious market sentiment, possibly due to mixed economic data from both New Zealand and the U.S., keeping the pair in a consolidation phase rather than a strong directional trend.\n\nMomentum indicators show mild bearish tendencies. The negative MACD value of -0.00032, though small, hints at weakening buying momentum. Without the signal line or RSI available, the picture remains incomplete, but the current price sitting under the 20-day SMA strengthens the short-term bearish bias. Traders should watch for a crossover below the SMA, which could reinforce selling pressure and increase the likelihood of a downward move toward key support levels.\n\nSupport and resistance levels are tightly clustered around recent price activity. Immediate support is near 0.58110, representing the lower end of the daily range, while resistance is around 0.58260, aligned with the 20-day SMA. A break below support may open the door to further downside toward 0.58050, while a sustained move above the SMA could signal a recovery attempt toward 0.58400. These levels will be critical for intraday and swing traders in managing entries and exits.\n\nFor trading strategies, a cautious approach is advised. Short-term traders may consider light sell positions if the price closes consistently below the SMA, using the immediate support as a target. Conversely, buyers could enter on a confirmed rebound above the 0.58260 resistance, aiming for the next higher resistance. Risk management should be prioritized, given the low volatility environment, with tight stop-losses to protect against sudden market reversals, especially amid macroeconomic data releases.  \n\nWord count: 270"
+    }
+  }
+}

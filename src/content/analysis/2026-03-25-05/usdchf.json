@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-03-25T05:24:06.497Z",
+  "price": {
+    "close": "0.78974",
+    "high": "0.78974",
+    "low": "0.78945",
+    "open": "0.78946",
+    "change": "0.03",
+    "datetime": "2026-03-25 16:00:00"
+  },
+  "indicators": {
+    "rsi": 55.3363,
+    "macd": 0.0002014269,
+    "macd_signal": 0.00020404953,
+    "sma20": 0.7893225
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：窄幅震荡偏多运行",
+      "content": "当前美元/瑞郎维持在0.7897附近，日内波动极为有限，显示市场处于低波动整理阶段。价格运行略高于短期均线，整体结构呈现轻微上倾，短线多头略占优势，但趋势尚不明朗。\n\n从技术指标来看，价格站稳SMA(20)均线0.7893上方，表明短期支撑有效。MACD虽处于零轴上方但动能较弱，显示多头动能有限，RSI缺失使超买超卖判断受限，整体偏中性略多。\n\n关键支撑位关注0.7893及下方0.7890区域，若跌破可能引发短线回调；上方阻力位位于0.7900及0.7920附近，若有效突破将打开进一步上行空间，推动趋势转强。\n\n交易策略上，建议短线以区间思路操作，在支撑附近轻仓做多，止损设于0.7890下方；若突破0.7900可考虑顺势跟进多单。同时需警惕低波动环境下的假突破风险，严格控制仓位。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently trading at 0.78974, showing minimal movement with a 24-hour change of just 0.03%. This suggests a generally neutral market sentiment in the short term. Looking at the price action, the pair is testing the recent low of 0.78945 and appears to be consolidating within a narrow range. This consolidation may be signaling indecision in the market, with neither buyers nor sellers taking control decisively at this point.\n\nThe lack of clear RSI data leaves the momentum perspective uncertain, but the MACD value of 0.00020142690 provides a slight bullish signal, indicating that momentum is marginally positive. However, without a defined signal line, it’s difficult to gauge the strength of this momentum. Traders should be cautious, as the absence of the Signal line means potential reversals could happen with little warning. In this scenario, confirming indicators or additional market events may help clarify the trend.\n\nThe current SMA(20) at 0.78932250 is offering minor support, and the price is holding just above it, suggesting that short-term support exists at this level. If the pair dips below 0.78945, the next strong support level could be around 0.78900, based on previous lows. On the upside, resistance is likely to form around the 0.79000 level, where the price action has struggled to break higher in recent days. A breach of 0.79000 could open the door to further upside movement.\n\nGiven the current range-bound action and marginal bullish momentum, traders might consider entering long positions near support levels, with tight stop losses around 0.78945. On the other hand, if the price fails to hold above the SMA(20) or shows signs of rejection at resistance levels, short positions may be appropriate, especially if the broader trend turns more bearish."
+    }
+  }
+}

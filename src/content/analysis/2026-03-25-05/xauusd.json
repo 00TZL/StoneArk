@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-03-25T05:24:49.929Z",
+  "price": {
+    "close": "4562.07434",
+    "high": "4573.96469",
+    "low": "4561.28715",
+    "open": "4572.52847",
+    "change": "-0.23",
+    "datetime": "2026-03-25 16:00:00"
+  },
+  "indicators": {
+    "rsi": 64.72771,
+    "macd": 47.69314,
+    "macd_signal": 35.79335,
+    "sma20": 4473.76136
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：震荡整理，维持区间波动",
+      "content": "当前黄金/美元(XAU/USD)价格处于震荡整理状态，近期价格在4560附近波动，未能突破4575的关键阻力位。考虑到当前市场缺乏明显的趋势信号，短期内可能继续在区间内波动。若价格突破4575上方，可能会迎来进一步的上涨空间。\n\n从技术指标来看，MACD处于正值区域，但由于缺少明确的信号线交叉，暂时无法确认强势买入信号。RSI指标尚未提供有效数据，但根据目前的价格走势，可以推测市场情绪较为平稳，没有出现过度买入或卖出的情况。\n\n支撑位方面，近期黄金价格的下行支撑在4560一线，若价格跌破此位，可能会进一步测试4530附近的支撑区域。上方阻力则在4575及4600水平，突破后有望加速上涨。若价格持续在此区间内波动，交易者应关注区间的突破方向。\n\n综合来看，建议在区间内进行短线交易，利用价格波动获取利润。在突破关键阻力位前，避免过于激进的多单操作。维持谨慎观望，等待更多的技术信号确认。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD pair is currently experiencing slight bearish pressure, with a small decline of 0.23% over the last 24 hours. The price is hovering just above the low of 4561.28, showing a limited range between 4561.28 and 4573.96, indicating consolidation. The market's inability to break above the recent highs suggests a continuation of sideways movement in the short term. However, a potential break below 4561.28 could signal further downside, with the next significant support level at 4540.\n\nThe current MACD reading of 47.69 implies bullish momentum, but the lack of a clear signal line complicates the analysis. Without the signal line's direction, it's difficult to gauge the exact timing of any reversal or continuation. This could imply that while there is bullish potential, a confirmation trigger is needed for any major trend shift. RSI, if available, would provide additional clarity on whether the pair is nearing overbought or oversold conditions, potentially signaling an impending price retracement.\n\nFrom a technical perspective, the price is currently above the 20-period SMA, suggesting an underlying bullish bias in the medium term. This moving average is a key support zone, and if the price continues to respect it, we might see further upward momentum towards the 4600-4620 region. However, if the price fails to hold above the 20-period SMA, it may test lower levels, with the 4540 and 4500 levels becoming key support zones.\n\nTraders should remain cautious in the current market environment. Given the absence of a strong directional trend, short-term traders could look for opportunities in the range between 4561.28 and 4573.96. A break above 4573.96 may open the door for a retest of 4600, while a breach below 4561.28 could lead to further declines, making support levels at 4540 and 4500 crucial for potential buy opportunities."
+    }
+  }
+}

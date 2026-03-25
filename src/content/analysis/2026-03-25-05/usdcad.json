@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-03-25T05:22:40.439Z",
+  "price": {
+    "close": "1.37749",
+    "high": "1.37757",
+    "low": "1.37727",
+    "open": "1.37729",
+    "change": "0.01",
+    "datetime": "2026-03-25 16:00:00"
+  },
+  "indicators": {
+    "rsi": 61.37512,
+    "macd": 0.00078849365,
+    "macd_signal": 0.00075734292,
+    "sma20": 1.37609
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理，短期偏多]",
+      "content": "目前美元/加元在1.37749附近震荡整理，价格处于短期高位附近。根据现有的市场数据，汇价在高低点之间窄幅波动，显示出市场的观望情绪。短期内，价格走势可能会继续维持震荡，但偏向于多头方向。\n\n技术指标方面，SMA(20)显示出1.37609的支撑位，而MACD则处于轻微的正值区，表明市场存在一些买盘动能，但尚未完全确认强烈的上涨趋势。RSI和Signal缺失，因此无法通过这些指标确认是否出现超买或超卖的信号。\n\n支撑位方面，1.3760附近的SMA(20)可视为关键支撑区域，一旦价格跌破这一点，可能会测试更低的价格水平。阻力位则在1.37757附近，若突破此点，可能会加速上涨至1.38附近。价格若维持在当前区间震荡整理，可观察其突破的方向。\n\n建议短期内采取轻仓多单策略，若价格回调至1.3760附近可考虑进场。若价格突破1.37757阻力位，可以逐步加仓。需密切关注市场波动，避免盲目追单。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is showing subtle signs of short-term consolidation around the 1.3775 level. Price action has remained narrow, with the intraday range barely moving beyond 30 pips. The 20-period SMA at 1.3761 is positioned slightly below the current price, suggesting mild bullish pressure. While the lack of a recent RSI reading limits momentum analysis, the steady pace indicates neither strong overbought nor oversold conditions, favoring range-bound trading in the near term.\n\nThe MACD value of 0.000788 indicates marginal bullish momentum, although the absence of a signal line prevents a definitive crossover interpretation. Traders should note that small divergences may be forming if price attempts higher levels without a corresponding increase in momentum. Resistance appears near 1.3780–1.3782, a level that has capped advances over the past sessions, while support lies near 1.3760, reinforced by the SMA and recent lows.\n\nFrom a technical standpoint, the pair could continue oscillating between 1.3760 and 1.3780 unless a strong catalyst emerges. Breakouts above resistance could open room for a move toward 1.3800, whereas a dip below support may target 1.3745–1.3750. Trend-following traders may look for confirmation through MACD crossovers or candlestick patterns near these key zones, while scalpers might exploit the tight range with short-term entries and exits.\n\nTrading strategies should remain cautious due to muted volatility and unclear momentum signals. Short-term buyers might consider entering near 1.3760 with stops just below the SMA, while sellers could look for rejections near 1.3780. Overall, the USD/CAD remains in a neutral-to-slightly-bullish posture, and traders should prioritize confirmation from momentum or breakout signals before committing to directional positions.  \n\nWord count: 268"
+    }
+  }
+}

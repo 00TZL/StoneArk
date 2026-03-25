@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-03-25T05:19:49.079Z",
+  "price": {
+    "close": "1.15957",
+    "high": "1.15986",
+    "low": "1.15951",
+    "open": "1.15984",
+    "change": "-0.02",
+    "datetime": "2026-03-25 16:00:00"
+  },
+  "indicators": {
+    "rsi": 49.18531,
+    "macd": 0.00044681683,
+    "macd_signal": 0.00052585334,
+    "sma20": 1.15971
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：短线震荡偏弱",
+      "content": "欧元/美元当前价格位于1.15957，较日内高低点波动有限，显示短期市场多空力量相对均衡。价格略低于20日简单移动均线(SMA20)1.15971，暗示短线趋势偏弱，但整体跌幅有限，未形成明确下行突破信号。  \n\nMACD数值为0.0004468，显示多头动能尚存，但未出现明显发散或交叉信号，短期趋势可能延续震荡整理。缺乏RSI数据限制了超买超卖判断，但结合价格与均线关系，可推测市场仍处于轻微下行压力中。  \n\n关键支撑位参考日内低点1.15951，如跌破则可能引发短线加速下行；阻力位在SMA20附近1.15971，如上破则可能出现反弹机会。震荡区间狭窄，短线操作需注意风险控制，避免追高杀低。  \n\n建议交易者采取观望为主，若市场稳定在支撑附近，可小幅做多以捕捉反弹机会；若跌破支撑，应考虑短线止损或轻仓空单策略。整体策略偏向低风险、顺势操作，关注关键价格位的突破信号。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently in a narrow range, hovering around 1.15957 with a minimal 24-hour change of -0.02%. The market remains largely neutral, suggesting indecision between buyers and sellers. The price is constrained within a tight range, marked by the day’s high at 1.15986 and low at 1.15951. This indicates a possible consolidation phase, with neither side gaining significant momentum. In such conditions, traders may focus on waiting for a breakout in either direction before taking substantial positions.\n\nOn the technical front, the Simple Moving Average (SMA) of 20 periods is 1.15971, reinforcing the near-neutral stance. With the price trading closely to this level, there’s no strong directional signal. In addition, the absence of an RSI reading and an incomplete MACD signal suggests a lack of clear momentum. This could indicate that the market is in a phase of indecisiveness or awaiting more market-moving catalysts. The lack of strong trend indicators keeps trading within this range cautious.\n\nSupport and resistance levels are key to determining potential breakout points. The immediate support lies around 1.15951, with the recent low acting as a baseline. A break below this level could open the door for further declines towards the next major support zone. On the upside, resistance is seen near the high of 1.15986. A sustained break above this could signal a potential move higher, with the next resistance area possibly approaching 1.16050. \n\nFor traders, this market calls for caution. Given the tight range and absence of strong directional indicators, short-term range trading could be appropriate, targeting support and resistance levels. A breakout above 1.15986 or below 1.15951 would provide clearer trading opportunities. Until then, waiting for more definitive signals may be wise to avoid false breakouts."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-03-25T05:21:57.411Z",
+  "price": {
+    "close": "0.69728",
+    "high": "0.69774",
+    "low": "0.6972",
+    "open": "0.69748",
+    "change": "-0.03",
+    "datetime": "2026-03-25 16:00:00"
+  },
+  "indicators": {
+    "rsi": 46.24787,
+    "macd": -0.00011872975,
+    "macd_signal": -0.00011160169,
+    "sma20": 0.697654
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短期震荡偏弱",
+      "content": "当前澳元/美元报价0.69728，价格接近20日均线0.69765，显示市场短期多空力量相对均衡，但略偏向下行压力。近期高低点波动有限，暗示短线缺乏明确趋势，行情可能在0.6970-0.6980区间震荡整理。  \n\nMACD指标当前为-0.0001187，虽未显示信号线数据，但负值暗示空方动能占优，短线承压风险增加。结合价格徘徊均线下方，市场短期回调概率较高，需要关注动能是否持续弱化或形成背离。  \n\n支撑位方面，可关注0.6970心理关口以及前期低点0.6965；阻力位在0.6977附近的高点以及20日均线0.69765。若价格稳守支撑，可能形成短线反弹，但突破阻力则需警惕行情反转。  \n\n交易上建议短线交易者可考虑低位逢低轻仓多，严格设置止损0.6965以下，同时关注价格上破0.6977后的动能变化；偏向趋势交易者应耐心观望，等待明确突破或回调信号确认后再入场，以降低波动风险。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "AUD/USD is trading slightly below the 20-period simple moving average at 0.69728, suggesting mild short-term bearish pressure. The narrow daily range and marginal 24-hour decline indicate a consolidative phase rather than a decisive trend. Price action hovering just under the SMA(20) points to a tentative downside bias, though the lack of strong momentum implies the market is waiting for a clearer directional catalyst.\n\nMomentum indicators provide a subdued outlook. The MACD remains in negative territory, albeit only slightly, hinting at weak bearish momentum rather than an aggressive sell-off. With the RSI unavailable, momentum confirmation is limited, but the flat price behavior suggests neither overbought nor oversold conditions. This reinforces the idea of a range-bound environment where short-term traders may dominate.\n\nKey support appears near the session low at 0.69720, with a potential extension toward 0.69650 if downside pressure builds. On the upside, immediate resistance is aligned with the SMA(20) at 0.69765, followed by the recent high at 0.69774. A sustained break above this zone could open the door toward 0.69900, while failure to hold support may trigger a gradual move lower.\n\nFrom a trading perspective, range strategies may be more appropriate in the current environment. Buying near support with tight stops below 0.69650 or selling near resistance around 0.69770 could offer short-term opportunities. A breakout beyond either boundary should be treated cautiously but may signal the start of a more directional move, particularly if accompanied by increasing momentum."
+    }
+  }
+}
