@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-03-26T05:30:56.261Z",
+  "price": {
+    "close": "0.69493",
+    "high": "0.69546",
+    "low": "0.69492",
+    "open": "0.69541",
+    "change": "-0.07",
+    "datetime": "2026-03-26 16:00:00"
+  },
+  "indicators": {
+    "rsi": 46.099963,
+    "macd": -0.00067631431,
+    "macd_signal": -0.00076935361,
+    "sma20": 0.6952575
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短期震荡偏弱",
+      "content": "当前澳元/美元价格维持在0.6949附近，略低于20日简单移动平均线(SMA20) 0.6953，显示短期走势承压。价格连续受高点0.6955压制，短期多头动力不足，市场呈现轻微下行压力，但整体趋势仍未形成明确单边方向。  \n\nMACD指标为-0.000676，处于零轴下方，表明短期动能偏空，但幅度较小，暗示空头力量有限。缺乏RSI数据限制了超买超卖分析，但结合价格与SMA的关系，可判断市场处于震荡整理阶段，多空力量暂时均衡。  \n\n关键支撑位关注0.6940附近，若跌破可能触发进一步下行测试0.6925。阻力位仍在0.6955~0.6960区间，短线突破将打开上行空间至0.6970。价格若在支撑附近反弹，可形成短期做多机会，但需谨慎控制仓位。  \n\n交易策略上，短线建议关注低位支撑的买入机会，止损可置于0.6935以下；激进交易者可在突破阻力后尝试做多，但需密切留意回撤风险。整体操作以低多高空、顺势震荡为主，避免追高追跌。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar (AUD) against the US Dollar (USD) is currently showing a slight bearish bias as the price is hovering around 0.69493, with a minor 24-hour change of -0.07%. This suggests that the market is currently in a consolidation phase, moving within a narrow range between the daily high of 0.69546 and low of 0.69492. The price action is showing signs of indecision, and a break above or below these levels could provide direction for the next move.\n\nDespite the lack of a clear trend, the 20-period Simple Moving Average (SMA) at 0.69526 is acting as a potential dynamic resistance, as the price is slightly below it. This SMA can often provide a guide for short-term traders to anticipate whether the market is trending up or down. A move above this level could indicate a shift to bullish sentiment, while further tests of the 0.69492 low might signal a deeper pullback or bearish continuation, depending on the broader market context.\n\nLooking at the lack of available RSI and MACD signal values, it becomes more important to rely on price action and levels of support and resistance. The immediate support is near the 0.69492 low, with further support at the 0.6940 region, which may come into play if selling pressure increases. On the upside, resistance sits around the 0.69546 high, and a break above this could expose the next resistance at 0.6960, reinforcing a bullish outlook.\n\nIn terms of trading, a breakout either above 0.69546 or below 0.69492 could offer solid trading opportunities. A bullish breakout above resistance may target 0.6960 or higher, while a bearish break below support could lead to a test of 0.6940 or even lower. Traders should be cautious of potential reversals and look for confirmation before entering new positions."
+    }
+  }
+}

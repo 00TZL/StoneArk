@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-03-26T05:33:08.696Z",
+  "price": {
+    "close": "0.79164",
+    "high": "0.79175",
+    "low": "0.79146",
+    "open": "0.79162",
+    "change": "0.00",
+    "datetime": "2026-03-26 16:00:00"
+  },
+  "indicators": {
+    "rsi": 56.17004,
+    "macd": 0.00059635167,
+    "macd_signal": 0.00065897936,
+    "sma20": 0.7912855
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：震荡整理，短期无明显趋势",
+      "content": "当前美元/瑞郎(USD/CHF)的价格处于0.79164，全天波动微小，基本保持平稳。从技术面来看，价格正处于一个震荡整理区间内，未显示出明显的上涨或下跌趋势。24小时内的高点和低点分别为0.79175和0.79146，波动幅度较小，反映出市场缺乏明确的方向。\n\n技术指标方面，RSI(14)未提供数据，MACD目前值为0.0006，显示出价格缺乏显著的动能。SMA(20)位于0.79128附近，说明短期内价格处于均线附近，未出现明显的突破或反转信号。从目前的MACD数据来看，市场暂时处于平衡状态。\n\n支撑位方面，可以关注0.79146附近的低点，该位置可能会对价格形成支撑。而阻力位则在0.79175附近，突破此位置可能会开启新的上涨动力。然而，若价格继续徘徊在此区间内，交易者可能需要耐心等待更为明确的信号。\n\n综合来看，由于当前市场震荡整理，建议短期内采取观望策略，避免在波动范围较小的市场中进行高风险操作。若价格突破支撑或阻力，才可考虑进场。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently showing a relatively neutral stance around 0.79164, with limited movement in the past 24 hours. The price is hovering slightly above the 20-period simple moving average (SMA) of 0.79129, suggesting that short-term momentum may be mildly bullish. However, the minimal difference between the latest price and the SMA indicates a lack of strong directional conviction. Traders should monitor whether the pair can sustain levels above the SMA to confirm an upward bias.\n\nThe MACD reading of 0.000596 suggests a slight bullish momentum, but the absence of a signal line restricts a clear interpretation of potential trend strength. The tight high/low range of 0.79175/0.79146 over the past 24 hours reinforces the idea of consolidation. This sideways behavior indicates that market participants are likely awaiting key economic data or central bank guidance before committing to larger positions.\n\nImmediate resistance can be identified near 0.7920, where previous intraday highs converge. A break above this level could open the door to further gains toward 0.7930. Support appears near 0.7910, with more substantial support at 0.7905. These levels may act as critical zones for traders, offering potential entry or exit points. Intraday buyers might consider entering near support with tight stops, while sellers could look for short-term weakness near resistance.\n\nTrading strategies should prioritize patience due to the current consolidation phase. Range-bound tactics could be effective, capitalizing on small oscillations between support and resistance. For trend-following approaches, a decisive breakout above 0.7920 or below 0.7905 would provide a clearer directional signal. Risk management remains crucial, as USD/CHF can react sharply to geopolitical news or Swiss National Bank commentary, which could instantly alter the current neutral technical setup."
+    }
+  }
+}

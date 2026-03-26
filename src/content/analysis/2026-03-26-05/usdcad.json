@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-03-26T05:31:40.089Z",
+  "price": {
+    "close": "1.38227",
+    "high": "1.38235",
+    "low": "1.38196",
+    "open": "1.38196",
+    "change": "0.02",
+    "datetime": "2026-03-26 16:00:00"
+  },
+  "indicators": {
+    "rsi": 67.84237,
+    "macd": 0.0012674706,
+    "macd_signal": 0.0013163077,
+    "sma20": 1.38097
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：短期盘整偏多",
+      "content": "当前美元/加元维持在1.38227附近，价格接近20日均线SMA(20)1.38097，显示市场短期多空力量相对均衡，偏向轻微上涨。盘中波动幅度有限，高低点仅在1.38235至1.38196之间，反映市场暂时缺乏明确方向。  \n\nMACD数值为0.00127，处于零轴上方，但缺乏信号线确认，意味着动能略偏多，但强度不足。若后续出现MACD金叉，则可能强化多头趋势。RSI指标未提供，但结合价格和均线位置，可推测超买超卖压力暂时不大，市场处于健康整理阶段。  \n\n支撑位初步设在1.3800，若跌破该水平，可能触发短线回调；阻力位在1.3835-1.3840区间，如突破则有望向1.3860测试。短期交易者可关注价格在支撑附近的反弹机会，同时留意阻力区域的承压表现。  \n\n综合来看，美元/加元短期偏多，但行情波动有限。建议保持观望或低风险多单操作，严格设置止损以防突发回落，关注关键技术位突破情况，以捕捉潜在趋势延续。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair has been showing minor fluctuations in the 24-hour range, with a slight uptick of 0.02%. The current price at 1.38227 is hovering just above the 20-period Simple Moving Average (SMA), which sits at 1.38097. This suggests a neutral short-term trend but may indicate a potential bullish bias if the price sustains above this level. A break below the SMA could signal a reversal toward lower support levels, particularly 1.3800.\n\nGiven the absence of RSI data, the market sentiment can only be inferred from the price action and MACD. The MACD value at 0.0012674706 remains positive, although without the signal line for reference, it’s difficult to gauge the strength of the momentum. This suggests that the market may be in a mild upward movement, but further confirmation is required before drawing definitive conclusions. The lack of a strong trend provides an opportunity for short-term scalping, with traders looking to take advantage of intraday price swings.\n\nSupport and resistance levels are critical in the current market structure. The immediate support is seen near 1.38196, which aligns with the low of the past 24 hours. A breakdown below this level could expose further support at 1.3800. On the upside, resistance is likely around 1.3835, which is just beyond the recent high. A successful breach of this resistance could open the door for a move towards 1.3850, strengthening the bullish outlook for the pair.\n\nTraders should maintain a cautious approach due to the lack of strong technical indicators. A break above the resistance at 1.3835 could trigger a buy signal, while a failure to hold above the SMA or a drop below 1.38196 may suggest bearish prospects. Keep an eye on the MACD for potential trend confirmation in the near term."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-03-26T05:29:28.408Z",
+  "price": {
+    "close": "1.33593",
+    "high": "1.33663",
+    "low": "1.33589",
+    "open": "1.33655",
+    "change": "-0.05",
+    "datetime": "2026-03-26 16:00:00"
+  },
+  "indicators": {
+    "rsi": 42.3708,
+    "macd": -0.0008966888,
+    "macd_signal": -0.00086355565,
+    "sma20": 1.33732
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：短期偏弱震荡整理",
+      "content": "当前英镑/美元价格在1.3359附近震荡，较昨日高低点波动幅度有限，显示市场短线交投谨慎。价格略低于20日均线1.3373，暗示短期多头动能不足，市场可能延续弱势整理格局，趋势偏向横盘下探。\n\nMACD指标显示为负值-0.0008967，虽然信号线数据缺失，但负值暗示空头略占上风，动能尚未明显反转。结合价格未突破近期高点，可判断多头力量有限，市场可能在1.3360附近受阻回落，形成短线压力区。\n\n支撑位关注1.3350心理关口及近期低点1.33589，若价格跌破该区域，则可能进一步测试1.3345附近。阻力位则在1.3373均线及1.3380前高，突破需确认成交量放大，否则上行动力可能不足。\n\n综合来看，短线交易建议以低位逢低尝试小额多单为主，同时关注关键支撑位的守住情况。激进交易者可在价格突破1.3375阻力后顺势追多，保守者则可观望整理结束信号，严格控制止损以应对波动风险。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently showing a very narrow range of movement, with a slight dip of 0.05% in the past 24 hours. At the latest price of 1.33593, the market is in a consolidation phase, moving between a high of 1.33663 and a low of 1.33589. The recent price action suggests a neutral sentiment, as traders are cautious and awaiting further directional signals. The market is not displaying strong momentum, which could imply a continuation of the current sideways movement unless there is a significant catalyst.\n\nFrom an indicator standpoint, the MACD currently stands at -0.00089668880, indicating a slight bearish bias. This suggests that, while the downward momentum is weak, the pair may be poised for further declines if the bearish momentum strengthens. Without a clear signal for the MACD, caution is advised. The absence of an RSI reading at this moment also means that no overbought or oversold conditions are present to provide a clearer directional bias. As a result, traders may want to refrain from making aggressive moves until additional confirmation arises.\n\nSupport levels for the GBP/USD can be found around 1.33589, which corresponds to the recent low. If this level breaks, further downside movement may occur, targeting the 1.33400 area. On the resistance side, the SMA(20) at 1.33732 presents a near-term ceiling. A break above this level could signal a bullish reversal, pushing the pair back toward 1.34000. However, with the current lack of strong momentum, these levels are unlikely to be breached quickly without a significant shift in market sentiment.\n\nGiven the current market conditions, a cautious approach is recommended. For short-term traders, waiting for a clearer breakout or reversal signal would be prudent. A break below 1.33589 may provide a selling opportunity, while a move above 1.33732 could warrant a buy entry. In either case, careful monitoring of MACD and future RSI readings will be crucial for confirming potential trades."
+    }
+  }
+}

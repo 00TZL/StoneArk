@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-03-26T05:32:23.769Z",
+  "price": {
+    "close": "0.58037",
+    "high": "0.58077",
+    "low": "0.58025",
+    "open": "0.58071",
+    "change": "-0.06",
+    "datetime": "2026-03-26 16:00:00"
+  },
+  "indicators": {
+    "rsi": 43.56082,
+    "macd": -0.00052391779,
+    "macd_signal": -0.00053449539,
+    "sma20": 0.5810015
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：短期盘整，偏向弱势调整",
+      "content": "当前纽元/美元报价在0.58037附近小幅下跌，短期走势呈现窄幅震荡。价格低于20日简单移动平均线(SMA20=0.5810)，显示短期压力存在，但跌幅有限，市场多空力量相对均衡，整体趋势偏弱。  \n\nMACD指标为-0.00052，尚未形成明确的多空交叉信号，暗示下行动能有限。RSI数据缺失，但从价格波动来看，市场尚未进入超买或超卖状态，短期仍以盘整为主。投资者需关注指标回归情况，以判断后续突破方向。  \n\n支撑位在0.5800附近，若价格跌破该水平，可能触发进一步下行；阻力位在0.5810-0.5820区间，多次受阻可能形成短线反弹。关注关键价位的成交量变化，有助于判断多空力量的强弱。  \n\n交易策略上，可采取区间交易为主，逢低小幅多，遇阻轻仓卖出，控制止损在支撑下方约10点。若价格突破阻力并站稳，可考虑顺势加仓，但需谨防假突破，保持风险管理为核心原则。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently in a narrow range, with the price hovering at 0.58037, showing a slight decline of 0.06% over the last 24 hours. The market's current price action indicates a consolidation phase, as the pair is trading within a tight range of 0.58077 and 0.58025. Given the lack of significant movement, traders may need to look for further confirmation from technical indicators before taking positions. If the pair fails to break out of this range, it could continue sideways in the near term.\n\nThe absence of an RSI reading and MACD signal makes it difficult to gauge the momentum. However, the MACD value of -0.00052391779 suggests that there is a slight bearish bias in the market. If the pair starts to approach the 0.58077 high, the price may face resistance around this level. A move above this point could indicate the potential for further upside, while a failure to break it might suggest a continuation of the current downtrend.\n\nThe 20-period SMA at 0.58100150 acts as a dynamic resistance level. A breach above this level could trigger a shift toward a bullish outlook, with 0.58300 and 0.58500 as potential targets. On the downside, the support at 0.58025 remains critical. A break below this support level would suggest a more bearish outlook, potentially aiming for 0.57800 as the next support zone. \n\nIn terms of trading suggestions, traders should monitor for a breakout from the current range. A move above 0.58077 or below 0.58025 could signal the start of a directional move. Caution is advised as the indicators currently lack strong directional signals, indicating that the market is in a wait-and-see phase."
+    }
+  }
+}
