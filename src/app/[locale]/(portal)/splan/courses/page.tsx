@@ -119,7 +119,7 @@ export default function CoursesPage() {
                 <p className="text-sm font-semibold text-gray-900 dark:text-white mb-2">资金配置：</p>
                 <ul className="text-sm text-gray-600 dark:text-gray-400 space-y-1 mb-3">
                   <li>• 20美金仓位，配资100美金</li>
-                  <li>• 小额实盘依旧保持盈利考核要求，1-3品种，不错单，不漏单，不亏损</li>
+                  <li>• 小额实盘依旧保持盈利考核要求：不错单，不亏损</li>
                 </ul>
                 <p className="text-sm font-semibold text-gray-900 dark:text-white mb-2">风控要求：</p>
                 <ul className="text-sm text-gray-600 dark:text-gray-400 space-y-1">
