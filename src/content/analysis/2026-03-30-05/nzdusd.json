@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-03-30T05:58:19.608Z",
+  "price": {
+    "close": "0.57432",
+    "high": "0.57448",
+    "low": "0.57356",
+    "open": "0.57367",
+    "change": "0.12",
+    "datetime": "2026-03-30 16:00:00"
+  },
+  "indicators": {
+    "rsi": 48.81616,
+    "macd": -0.00049175118,
+    "macd_signal": -0.00041846455,
+    "sma20": 0.5746625
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：短期盘整偏空",
+      "content": "纽元/美元目前价格在0.57432附近，较日内高点0.57448略低，显示多头动力有限。结合SMA(20)0.57466，价格略低于均线，短期趋势呈现轻微下行压力，市场存在盘整整理特征，未出现明确突破信号。  \n\nMACD指标为-0.00049，显示空头动能略微占优，但幅度较小，表明下行动力不足且可能随时出现反弹。由于RSI数据缺失，超买超卖状态暂无法确认，但结合价格与均线关系，可判断短期仍以震荡为主。  \n\n支撑位关注0.5735附近，若跌破该水平可能触发短线下行；阻力位在0.5747-0.5750区间，多次测试未能有效突破，短期上行动能有限。交易者应重点留意价格对均线和关键支撑的反应。  \n\n综合来看，短线建议偏谨慎操作，可在支撑位附近考虑小幅多单，止损设于0.5733下方；若价格反弹至阻力区间，可择机减仓或短线做空，严格控制仓位以应对震荡行情，避免追高风险。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is showing a subtle bullish bias in the short term, hovering around 0.5743. Price remains slightly below the 20-period SMA at 0.57466, suggesting that while upward momentum exists, the pair faces minor resistance near this moving average. The daily high of 0.57448 and low of 0.57356 indicate a narrow range, reflecting consolidation and indecision among traders. The modest 0.12% daily gain highlights limited volatility, hinting that breakout opportunities may emerge only with stronger market catalysts.  \n\nFrom an indicator perspective, the MACD is negative at -0.00049, suggesting underlying bearish pressure, although the absence of a signal line reading limits precision. Traders should interpret this as a warning that bullish rallies might lack strong momentum, making confirmation crucial before entering long positions. In this context, momentum oscillators like RSI or stochastic could provide better insight into overbought or oversold conditions once data becomes available, helping to time entries and exits more effectively.  \n\nSupport lies near the recent low at 0.5735, which has acted as a short-term floor for buyers. Immediate resistance is the 20-SMA around 0.57466, followed by psychological levels at 0.5750 and 0.5760. Breaches above these levels could signal the resumption of bullish trends, whereas a failure to hold support may open the path toward 0.5725 or 0.5715. Traders should monitor price reaction around these pivot points, as consolidation in this zone can precede more decisive directional moves.  \n\nShort-term trading suggestions favor cautious approaches. For conservative traders, waiting for a clear break above 0.5747 before entering long positions may reduce risk, while aggressive traders could consider scalping within the 0.5735–0.5747 range. Protective stop-loss placement just below support is advisable. Conversely, a confirmed breakdown below 0.5735 could present shorting opportunities, targeting 0.5725 or lower, emphasizing risk management in a narrow-range market with mixed momentum signals.  \n\nWord count: 267"
+    }
+  }
+}

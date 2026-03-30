@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-03-30T05:59:00.464Z",
+  "price": {
+    "close": "0.79853",
+    "high": "0.79898",
+    "low": "0.79845",
+    "open": "0.79863",
+    "change": "-0.01",
+    "datetime": "2026-03-30 16:00:00"
+  },
+  "indicators": {
+    "rsi": 52.79731,
+    "macd": 0.00033872215,
+    "macd_signal": 0.00024061934,
+    "sma20": 0.7976655
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[当前走势震荡整理]",
+      "content": "当前美元/瑞郎价格接近0.79850附近，显示出短期内市场处于震荡整理阶段。价格在0.79898的高点与0.79845的低点之间波动，表明市场缺乏明确的方向。随着价格波动幅度的收窄，可能预示着即将进入新的趋势区间。\n\n从技术指标上看，MACD目前为0.00034，显示出市场动力略显疲软，且RSI指标暂无数据，这限制了对超买或超卖的进一步分析。SMA(20)为0.79767，价格轻微高于此均线，可能暗示市场短期内偏向看涨，但仍需观察是否能突破当前的震荡区间。\n\n支撑位方面，0.79845为近期低点，若价格下行突破此支撑，可能会进一步下探至0.79800附近。而上方阻力位则在0.79898，突破该阻力位或将为市场提供向0.79950的上涨机会。\n\n建议在当前震荡区间内采取观望策略，避免过早进场。若价格突破0.79898，可考虑小幅做多；若跌破0.79845，可考虑做空，但止损需设置在0.79800附近，以防止波动过大带来的风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently experiencing a subtle range-bound trend, with the latest price at 0.79853, reflecting a minimal 24-hour change of -0.01%. The market has shown limited volatility within the last 24 hours, fluctuating between a high of 0.79898 and a low of 0.79845. This price action suggests that the market is in a consolidation phase, and traders may be awaiting new momentum or a catalyst to drive a breakout. \n\nThe RSI (14) data is unavailable, which leaves us with an incomplete view of potential overbought or oversold conditions. However, the MACD at 0.00033872215 is indicating slight bullish momentum, but with no signal line provided, it's difficult to establish a strong trend confirmation. Despite this, the current MACD suggests the possibility of short-term upward movement, though further confirmation is needed for a solid trading decision.\n\nThe 20-period Simple Moving Average (SMA) is currently at 0.79766550, providing a reference point for short-term support. This SMA level has historically acted as a dynamic support zone during recent price action. If the price tests and holds above this level, there could be further upside potential. Traders should also watch the immediate support level at 0.79845 and resistance at 0.79898. A breach of these levels could indicate potential movement outside the current range, offering trading opportunities.\n\nGiven the current technical setup, it would be prudent for traders to adopt a wait-and-see approach, closely monitoring for any breakout or breakdown. A confirmed move above the 0.79898 resistance could suggest a continuation of upward momentum, while a failure to hold above the SMA at 0.79766550 could indicate a pullback towards lower levels. As always, prudent risk management strategies should be employed in these uncertain conditions."
+    }
+  }
+}

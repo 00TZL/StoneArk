@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-03-30T05:54:36.862Z",
+  "price": {
+    "close": "1.15158",
+    "high": "1.15161",
+    "low": "1.15101",
+    "open": "1.15142",
+    "change": "0.01",
+    "datetime": "2026-03-30 16:00:00"
+  },
+  "indicators": {
+    "rsi": 50.76628,
+    "macd": -0.00043200018,
+    "macd_signal": -0.0006366547,
+    "sma20": 1.15106
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：当前市场走势偏空",
+      "content": "目前欧元/美元(EUR/USD)的最新价格为1.15158，24小时变化幅度仅为0.01%，说明市场呈现出较为平稳的状态。从价格波动来看，高点为1.15161，低点为1.15101，幅度较小，市场暂时处于震荡整理阶段。\n\n技术指标方面，MACD值为-0.000432，呈现负值，显示出卖盘占据优势，短期内可能会继续承压。尽管RSI未提供数据，但从价格及MACD表现来看，当前市场未处于超卖或超买状态，走势仍然缺乏明确的方向。\n\nSMA(20)位于1.15106附近，价格略高于此水平，表明短期内价格保持在均线之上，可能会形成一定的支撑。若跌破1.15106支撑位，价格有可能进一步下行，测试1.15000附近的强支撑。\n\n综上所述，当前欧元/美元市场走势偏空，建议投资者关注下行压力，尤其是在接近1.15000时可能出现的支撑反弹。若价格持续下破当前支撑位，可以考虑做空，但止损应设在1.15200上方以避免过度风险。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD is currently exhibiting a subtle consolidation around the 1.1515 level, reflecting a market that lacks strong directional momentum. Price action has remained tight between 1.15101 and 1.15161 over the past 24 hours, suggesting indecision among traders. The short-term trend appears neutral, with the market hovering slightly above the 20-period simple moving average at 1.15106, indicating a minor bullish bias but without strong conviction. Traders should watch for a breakout beyond this narrow range to confirm any directional move.\n\nThe MACD reading of -0.000432 indicates a marginal bearish pressure, though the absence of the signal line limits a full crossover interpretation. This weak negative momentum aligns with the sideways price action, hinting that selling pressure is currently subdued. RSI data is unavailable, but the small 24-hour change of 0.01% confirms that neither buyers nor sellers are dominant, and volatility is minimal. The combination of these indicators supports a cautious approach, as the pair may continue oscillating in a narrow channel.\n\nKey support levels can be identified near 1.15100, a psychological barrier coinciding with recent intraday lows, while resistance appears around 1.15161, marking the recent high. A breach of either level could trigger a short-term directional move, with potential targets near 1.1520 on the upside or 1.1505 on the downside. Traders should closely monitor volume and momentum cues, as a clear break could offer a higher-probability trade setup after a period of stagnation.\n\nFor trading strategies, short-term traders may consider range-bound tactics, entering near support with stops slightly below 1.1509 and taking profits near 1.1516. Conversely, breakout traders might wait for a decisive move above 1.1516 or below 1.1510, using the SMA as a dynamic support/resistance confirmation. Overall, the pair remains in a delicate balance, and careful risk management is essential to avoid whipsaws in this low-volatility environment."
+    }
+  }
+}

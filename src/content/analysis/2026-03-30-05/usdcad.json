@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-03-30T05:57:34.095Z",
+  "price": {
+    "close": "1.38867",
+    "high": "1.38946",
+    "low": "1.38867",
+    "open": "1.38932",
+    "change": "-0.05",
+    "datetime": "2026-03-30 16:00:00"
+  },
+  "indicators": {
+    "rsi": 49.90543,
+    "macd": 0.00023170611,
+    "macd_signal": 0.00018219034,
+    "sma20": 1.38852
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：短线偏震荡，关注均线支撑",
+      "content": "当前美元/加元最新价格位于1.38867，较24小时微跌0.05%，整体波动幅度有限，显示市场短期偏震荡整理。价格紧贴20日简单移动均线(SMA20)1.38852，说明近期多空力量较为均衡，多头略占优势，但未形成明确突破信号。  \n\nMACD显示为0.0002317，虽略高于零轴，但信号线未提供明确方向，短期动能偏弱，暗示行情可能继续在区间内波动。缺少RSI数据限制了超买超卖判断，但结合当前价格与均线位置，可推测市场暂未出现明显压力或支撑突破。  \n\n技术上，近期阻力位关注1.3895区域，如价格能稳破该水平，多头可能获得短线机会；支撑位在1.3880附近，跌破则可能引发短线回调。成交量若伴随突破，将增强趋势可靠性，否则可能仅为假突破。  \n\n交易策略上，建议区间交易为主，多单可在接近均线支撑1.3885附近布局，止损放在1.3880下方；空单可关注阻力1.3895附近承压，止损设在1.3900上方。短线操作应控制仓位，避免追高杀低，等待明确突破信号确认趋势延续。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently trading at 1.38867, experiencing a slight decrease of -0.05% over the last 24 hours. This indicates a relatively stable market, with limited movement. The pair is trading near its daily low of 1.38867, which suggests some bearish sentiment, but the price has not moved far enough from the recent high of 1.38946 to confirm a strong trend. In the short term, the market appears to be consolidating, indicating a lack of decisive momentum in either direction.\n\nThe Relative Strength Index (RSI) is unavailable at the moment, making it difficult to determine the overbought or oversold conditions. However, the MACD value of 0.00023 indicates that momentum is positive, though not strongly bullish. Without the signal line for MACD, it's challenging to assess the strength of the trend. The 20-period Simple Moving Average (SMA) at 1.38852 provides a slight bullish bias, as the price is currently trading slightly above this level. The SMA could act as a dynamic support level if the market revisits lower levels.\n\nLooking at support and resistance, the immediate support appears to be at the 1.38867 mark, which aligns with the daily low. If the pair breaks below this level, the next potential support zone could be at 1.38600. On the upside, the resistance is found around the 1.38946 high, and a breakout above this could lead to further gains toward 1.39100. Traders should closely watch these levels for potential breakouts or reversals.\n\nGiven the lack of significant trend movement and the proximity to key levels, it might be wise to approach this pair with caution. A breakout above 1.38946 could signal a bullish move, while a dip below 1.38867 could suggest further downside potential. A range-bound strategy could also be considered, trading between the support and resistance levels until more clear momentum emerges."
+    }
+  }
+}

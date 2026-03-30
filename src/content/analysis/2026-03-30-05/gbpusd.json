@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-03-30T05:55:17.855Z",
+  "price": {
+    "close": "1.32748",
+    "high": "1.32756",
+    "low": "1.32679",
+    "open": "1.32694",
+    "change": "0.04",
+    "datetime": "2026-03-30 16:00:00"
+  },
+  "indicators": {
+    "rsi": 51.42496,
+    "macd": -0.00043099436,
+    "macd_signal": -0.000461507,
+    "sma20": 1.32747
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[震荡整理，短期偏多]",
+      "content": "当前英镑/美元(GBP/USD)走势表现出震荡整理的特征，价格在1.32679至1.32756之间波动，且未出现明显突破。近期的价格稳定在20日简单移动平均(SMA)附近，表明市场缺乏明确的方向性。市场可能处于短期整理阶段，等待进一步的动能释放。\n\n从技术指标来看，MACD指标显示轻微负值（-0.00043），但由于信号线尚未提供足够的方向性指示，短期内的动能仍偏弱。RSI数据缺失，无法进一步分析超买或超卖情况。不过，价格接近1.32747的SMA支撑水平，可能提供一些支撑力量，进一步下行的空间有限。\n\n支撑位位于1.32679附近，若价格跌破该水平，可能会试探更低的支撑位1.32500。然而，1.32747的SMA和当前高点1.32756附近的区域提供了强烈的阻力。若价格突破该阻力，短期内可能出现进一步的上行趋势，挑战1.33000水平。\n\n建议短线交易者可在1.32679支撑位附近寻找买入机会，设定止损位于1.32600以下，而在1.32756附近可考虑卖出或平仓，等待价格突破或进一步确认趋势。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently showing a relatively neutral market stance with a minor 24-hour change of 0.04%. This suggests that market participants are holding a wait-and-see approach, likely due to a lack of significant news events influencing the pair. The price is hovering near its recent high of 1.32756, which could indicate that the pair is in a consolidation phase. This flat movement suggests a balance between buying and selling pressure, which is commonly seen when the market is unsure of the next big move.\n\nFrom a trend perspective, the pair remains stable around the 1.32747 region, near its 20-period simple moving average. This alignment indicates that the market does not currently favor either bulls or bears, making the trend neutral. The lack of a significant upward or downward momentum suggests that traders are cautious, and the current market environment is characterized by short-term consolidation. Traders may be awaiting clearer market signals or developments from key economic data or geopolitical events.\n\nRegarding support and resistance levels, the low for the day stands at 1.32679, providing immediate support, while the high of 1.32756 offers resistance. A breakout above 1.32756 could signal a move towards the next resistance levels around 1.3300 or higher, while a decline below 1.32679 might open the door for further downside towards 1.3250. These levels should be monitored closely, as a break in either direction could signal a change in market sentiment and offer trading opportunities.\n\nGiven the lack of strong momentum and the neutral indicators, it is recommended to approach the GBP/USD pair with caution. Traders should look for a breakout from the current consolidation range to take a more definitive position. A breakout above resistance may present buying opportunities, while a break below support could open the door to short positions. It's essential to remain flexible and wait for more conclusive price action signals before committing significant trades."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-03-30T05:59:45.300Z",
+  "price": {
+    "close": "4526.02888",
+    "high": "4527.85832",
+    "low": "4497.11912",
+    "open": "4497.2793",
+    "change": "0.64",
+    "datetime": "2026-03-30 16:00:00"
+  },
+  "indicators": {
+    "rsi": 62.54387,
+    "macd": -2.90793,
+    "macd_signal": -5.48773,
+    "sma20": 4495.71523
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短线震荡偏多，关注阻力承压",
+      "content": "当前XAU/USD在4526美元附近小幅回升，整体呈现短线震荡偏多格局。价格突破近期均线支撑SMA(20)4495美元后，显示多头存在一定支撑力度，但上方4528美元附近高点构成近期阻力，行情可能在此承压。  \n\nMACD指标当前为-2.91，虽仍在零轴下方，但负值逐渐收窄，暗示下行动能减弱，多空分歧存在，短线可关注多头反弹力度。缺乏RSI数据，需配合均线及价格行为判断超买超卖状态，以控制风险。  \n\n支撑位主要集中在4495-4500美元区间，如跌破该位置则可能引发短线回调；阻力位在4528-4530美元，若价格突破并稳守该区域，多头信号将进一步确认。日内关注价格能否有效站稳阻力以决定交易节奏。  \n\n交易策略上，偏向短线逢低做多，止损可设在4490美元下方，目标初步放在4528-4530美元区域；若价格出现阻力承压回落，则可考虑短线减仓或择机做空，保持仓位灵活应对震荡。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold (XAU/USD) is showing signs of short-term strength, currently trading near $4,526. The intraday range between $4,497 and $4,527 indicates a modest upward bias. The price is above the 20-period simple moving average at $4,495, suggesting that buyers are gradually gaining control. Momentum appears cautiously bullish, although the MACD reading of -2.91 points to lingering bearish pressure that could limit immediate upside, requiring confirmation from further price action.  \n\nThe lack of a current RSI value prevents a precise measure of overbought or oversold conditions, but the modest 0.64% gain in the past 24 hours hints at steady accumulation. Traders should monitor the MACD closely for a potential crossover above the signal line, which would signal a more decisive bullish trend. The recent consolidation near the high suggests that upward momentum could accelerate if the $4,527 resistance is breached.  \n\nKey support levels lie near the 20-SMA at $4,495 and the intraday low of $4,497, forming a base for potential pullbacks. On the upside, immediate resistance is around $4,527, followed by psychological resistance near $4,550. A break above these levels could trigger further buying interest, while a drop below the SMA could expose the market to deeper corrections toward $4,470-$4,480. These levels are crucial for managing risk and defining entry and exit points.  \n\nFor traders, a cautious approach is recommended. Long positions could be considered on dips toward the SMA, with tight stop-loss orders below $4,495 to manage risk. Short-term traders might watch for a MACD bullish crossover as confirmation for momentum continuation. Conservative traders could wait for a clear break above $4,527 before entering long positions, while those with higher risk tolerance may consider shorting near resistance if momentum stalls, using $4,495 as a protective stop."
+    }
+  }
+}

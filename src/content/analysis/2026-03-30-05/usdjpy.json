@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-03-30T05:56:01.834Z",
+  "price": {
+    "close": "159.68971",
+    "high": "159.80774",
+    "low": "159.68533",
+    "open": "159.79174",
+    "change": "-0.07",
+    "datetime": "2026-03-30 16:00:00"
+  },
+  "indicators": {
+    "rsi": 38.62848,
+    "macd": -0.080269643,
+    "macd_signal": -0.041530479,
+    "sma20": 159.98477
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理中，等待突破信号]",
+      "content": "当前美元/日元价格在159.68971附近震荡整理。最近的价格走势显示出较强的横盘趋势，高点和低点紧密相连，且缺乏明显的趋势方向。这种横盘整理可能是市场等待关键数据发布或其他驱动因素的结果。\n\n从技术指标来看，MACD显示出轻微的负值（-0.080269643），但由于缺乏信号线数据，难以进行深入分析。SMA(20)目前为159.98477，表明短期均线支持价格略微上行。RSI数据暂未提供，因此无法评估超买超卖的情况，建议关注未来的更新。\n\n支撑位方面，159.68533附近可能是短期支撑，而阻力位则在159.80774附近，突破这一水平可能会带来上涨的动能。价格若突破上方阻力位，可能会迎来新的上涨动能；如果跌破支撑位，可能会出现回调。\n\n建议交易者在当前震荡区间内采取谨慎操作，等待价格突破关键支撑或阻力位后再作出决策。可以考虑突破时跟进趋势，但应设置止损来应对可能的回调风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is showing signs of consolidation near the 159.69 region, following a minor decline of 0.07% over the last 24 hours. Price action has been confined between a high of 159.81 and a low of 159.68, suggesting short-term indecision in the market. While the broader trend over the past few sessions remains bullish, the inability to sustain above the 160.00 psychological level indicates that momentum is weakening, and traders should watch for potential retracements toward nearby support.\n\nTechnically, the MACD reading at -0.0803 points to a modest bearish momentum, although the lack of a corresponding signal line limits the precision of this interpretation. The 20-period simple moving average, currently at 159.98, is acting as immediate resistance, placing the current price slightly below it. This positioning indicates that the pair may struggle to break higher without a renewed surge in buying interest, while short-term pullbacks could be expected as the market digests recent gains.\n\nKey support levels to monitor are 159.60 and 159.40, with the lower threshold offering a potential entry point for traders looking to capitalize on rebounds. On the upside, resistance is concentrated around 159.98, coinciding with the SMA, and the psychological 160.00 mark, which could trigger stop orders or additional selling pressure if touched. Price reactions at these levels will likely dictate the pair’s direction in the next few sessions, providing clear reference points for risk management.\n\nTrading strategies should emphasize patience and precision, favoring range-bound trades while the pair hovers near current levels. Buyers may consider accumulating on dips toward 159.60 with tight stops below 159.40, aiming for a retest of the 159.98–160.00 zone. Conversely, more aggressive traders could explore short positions if price fails to breach the SMA convincingly, targeting the lower support levels. Overall, caution is warranted, as the market exhibits mixed signals with potential for either a minor pullback or continuation of the bullish trend."
+    }
+  }
+}
