@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-03-31T05:42:41.957Z",
+  "price": {
+    "close": "159.59555",
+    "high": "159.63855",
+    "low": "159.52143",
+    "open": "159.62196",
+    "change": "-0.02",
+    "datetime": "2026-03-31 16:00:00"
+  },
+  "indicators": {
+    "rsi": 43.18488,
+    "macd": -0.038548146,
+    "macd_signal": -0.047504715,
+    "sma20": 159.63865
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：短期横盘整理，关注关键阻力与支撑",
+      "content": "目前美元/日元报价159.59555，较昨日微幅下跌0.02%，整体价格在159.52143至159.63855区间波动，显示短期内多空力量均衡，市场缺乏明显趋势。价格紧贴20日简单移动平均线(SMA20)159.63865，暗示当前处于整理震荡阶段，趋势方向尚未明朗。  \n\nMACD指标显示当前值为-0.0385，虽略呈空头信号，但未出现明确背离或金叉/死叉，说明卖压存在但力度有限。RSI缺失，短期动能无法完全确认，需结合价格形态观察支撑与阻力位置，以防突发波动。  \n\n技术面上，近期支撑位位于159.520附近，若跌破可能打开短线下行空间；阻力位在159.640至159.650区间，多次测试未能有效突破，显示短线多头动力有限。成交量若随价格接近这些关键点位增加，将强化突破或回落的信号。  \n\n交易策略上，建议短线投资者保持观望或轻仓操作，低位可考虑小幅多单，止损放在159.515下方；高位或接近阻力区间可尝试短线空单，止盈设在159.550附近。中长期投资者可等待趋势明确后再布局，以降低震荡整理阶段的操作风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently trading at 159.59555, hovering just below the 20-period Simple Moving Average (SMA) at 159.63865. This suggests a near-term neutral sentiment, with price action maintaining a range between 159.52143 and 159.63855 over the past 24 hours. The slight negative change of -0.02% signals minimal volatility and indicates a market awaiting clearer direction. Without a definitive RSI value, it's challenging to assess overbought or oversold conditions, which could influence potential reversals or breakouts.\n\nThe MACD reading at -0.0385 signals a subtle bearish momentum, though the absence of a signal line makes it hard to interpret the strength of this signal. If the MACD continues to hover in negative territory without showing a sharp divergence, the selling pressure might remain subdued. However, any crossover into positive territory would offer a potential bullish indication, suggesting market shifts. Given the current range-bound action, traders should watch for a decisive break above 159.63855 for bullish continuation or a move below 159.52143 to confirm further bearish pressure.\n\nKey support is located at 159.52143, where the price could find some stabilization if a downturn occurs. A break below this level would open the way for deeper retracements towards 159.40 and potentially 159.20. On the resistance side, 159.63855 stands out as the immediate ceiling, and a breakout above this level could lead to a further push towards 159.80 or higher. Traders should remain cautious in the current neutral environment, watching for a decisive move beyond these key levels to initiate a more confident trade.\n\nIn terms of trading strategy, a break above 159.63855 could present an opportunity for long positions, targeting the next resistance zone at 159.80. Conversely, a breakdown below 159.52143 would suggest a potential short opportunity, with targets at 159.40 and lower. Given the current lack of strong momentum, traders should employ tight risk management strategies to navigate potential volatility, especially if the pair continues its sideways consolidation."
+    }
+  }
+}

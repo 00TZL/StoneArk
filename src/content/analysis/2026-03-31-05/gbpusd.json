@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-03-31T05:42:00.098Z",
+  "price": {
+    "close": "1.32048",
+    "high": "1.32062",
+    "low": "1.31928",
+    "open": "1.31978",
+    "change": "0.05",
+    "datetime": "2026-03-31 16:00:00"
+  },
+  "indicators": {
+    "rsi": 46.67786,
+    "macd": -0.0011521502,
+    "macd_signal": -0.0015945679,
+    "sma20": 1.31976
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：震荡整理中",
+      "content": "目前英镑/美元（GBP/USD）价格呈现震荡整理走势，最新价格1.32048接近近期的区间高点。短期内市场缺乏明确的趋势方向，价格波动较小，只有0.05%的24小时变化。当前，市场情绪较为谨慎，可能会继续保持横盘整理。\n\n在技术指标方面，MACD值为-0.00115，表明短期内可能存在略微的卖压，但由于信号线数据缺失，无法准确判断市场的转折点。20期简单移动平均线（SMA）目前在1.31976附近，显示出市场在该水平附近的支撑作用，进一步确认震荡整理的特点。\n\n考虑到支撑位和阻力位，当前的支撑位位于1.31928，若价格跌破此位置，可能会进一步走弱。阻力位则在1.32062附近，若突破此水平，有可能会引发短期反弹。总体来看，市场处于区间波动中，短期内较难出现较大幅度的突破。\n\n建议短线交易者可以在支撑位附近寻找买入机会，目标指向阻力位，反之则在接近阻力位时寻找卖出机会。不过，由于技术指标较为平淡，操作需谨慎，并且注意设置止损，以防止价格波动带来的风险。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is showing a subtle upward bias, trading slightly above its 20-period simple moving average at 1.31976. Price action has been relatively stable within a tight 24-hour range of 1.31928 to 1.32062, indicating limited volatility. While momentum remains muted, the pair’s ability to hold above the short-term moving average suggests cautious bullish sentiment. Traders should monitor intraday swings closely, as any breach of this support could quickly shift the market toward a neutral or bearish tone.  \n\nThe MACD currently registers a slightly negative value of -0.00115, implying that short-term bearish momentum still lingers. Although the signal line is unavailable, the minor MACD deficit points to a market in consolidation rather than strong directional movement. Without a clear divergence or crossover, the technical picture remains mixed, favoring a wait-and-see approach. Traders might consider smaller position sizes or range-bound strategies until a more decisive signal emerges.  \n\nKey support lies near 1.31900, just below the current SMA, providing a potential floor for buyers. On the upside, immediate resistance is observed around 1.32100, with a stronger barrier near 1.32250 if upward momentum accelerates. Breaks above or below these levels could define the next directional move, with a close above resistance potentially signaling renewed bullish momentum and a failure at support opening the door to further retracement.  \n\nGiven the current environment, short-term traders may favor scalping or range-trading strategies between the 1.31900–1.32100 zone. Longer-term positions should be approached with caution until a clearer trend emerges. Monitoring the SMA for dynamic support, alongside potential MACD shifts, will help confirm directional bias. Overall, the market suggests subdued bullishness, tempered by limited momentum and narrow trading ranges, emphasizing disciplined entry and exit points for effective risk management."
+    }
+  }
+}

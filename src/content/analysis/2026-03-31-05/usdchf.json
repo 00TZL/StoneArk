@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-03-31T05:45:41.030Z",
+  "price": {
+    "close": "0.79882",
+    "high": "0.79892",
+    "low": "0.79854",
+    "open": "0.79869",
+    "change": "0.02",
+    "datetime": "2026-03-31 16:00:00"
+  },
+  "indicators": {
+    "rsi": 46.67598,
+    "macd": -0.000057930494,
+    "macd_signal": 0.00013597761,
+    "sma20": 0.799533
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：短期震荡偏空",
+      "content": "当前美元/瑞郎价格维持在0.7988附近，较20日均线0.7995略低，显示短期价格略偏弱。价格波动在日内高低0.79892/0.79854之间，幅度有限，表明市场缺乏明确方向，呈现震荡整理态势。  \n\nMACD为负值且小幅下行，虽然信号线未提供，但可初步判断空头动能略占优势。缺少RSI数据，无法进一步判断超买超卖状态，但价格低于SMA20支撑其短线偏弱的格局。整体技术指标提示短线卖压存在，但幅度不大。  \n\n支撑位可关注0.7985附近，若跌破则可能触发进一步回调至0.7980；阻力位在0.7995-0.8000区间，若突破则短期有反弹可能。结合价格整理格局，市场在支撑与阻力之间横盘整理。  \n\n交易上，建议短线操作以高抛低吸为主，关注阻力位0.7995附近的轻仓卖出机会，同时在0.7985附近可适度尝试低吸。中长线投资者可等待价格突破均线或关键支撑位后再布局，控制仓位并注意风险管理。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "USD/CHF is currently trading just below the 0.8000 psychological level, showing mild bearish pressure after failing to sustain upward momentum. Price action remains compressed within a tight intraday range, suggesting low volatility and indecision. The pair is trading slightly below the 20-period SMA at 0.7995, indicating a short-term downward bias. However, the minimal 24-hour change reflects a consolidative phase rather than a strong directional trend.\n\nMomentum indicators lean modestly negative. The MACD remains below zero, hinting at lingering bearish momentum, though the histogram appears shallow, suggesting weakening downside pressure. The absence of RSI data limits overbought/oversold assessment, but given the narrow range and proximity to recent lows, the market does not appear stretched. Overall, indicators point toward a soft bearish tone without strong conviction.\n\nImmediate support is located near 0.7985, aligning with the recent session low. A break below this level could expose further downside toward 0.7965. On the upside, resistance sits around 0.7995–0.8000, where the SMA and psychological barrier converge. A sustained move above 0.8000 would likely shift short-term sentiment and open the door toward 0.8020.\n\nFrom a trading perspective, range-bound strategies may be more appropriate in the current environment. Selling near resistance around 0.7995–0.8000 with tight stops above 0.8010 could be considered, while buying near support at 0.7985 may offer short-term opportunities. Breakout traders should wait for a decisive move beyond either boundary, as current conditions favor consolidation over trending behavior."
+    }
+  }
+}

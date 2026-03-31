@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-03-31T05:41:14.776Z",
+  "price": {
+    "close": "1.1469",
+    "high": "1.14721",
+    "low": "1.14623",
+    "open": "1.147",
+    "change": "-0.01",
+    "datetime": "2026-03-31 16:00:00"
+  },
+  "indicators": {
+    "rsi": 42.63734,
+    "macd": -0.00071807152,
+    "macd_signal": -0.00097711248,
+    "sma20": 1.14681
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：震荡整理，短期看跌",
+      "content": "当前欧元/美元(EUR/USD)价格为1.1469，市场表现略显震荡。尽管24小时的价格变化较小（-0.01%），但价格未能突破1.14721的高点和1.14623的低点，显示出短期内缺乏明确的方向性。技术上，欧元/美元处于整理区间内，短期内可能继续维持震荡走势。\n\n从技术指标来看，MACD值为-0.000718，虽然未能显示明显的卖出信号，但负值表明市场当前处于弱势状态。SMA(20)位于1.14681附近，进一步确认了短期内价格维持震荡的可能性。RSI(14)数据缺失，使得暂时无法全面判断市场的超买或超卖情况。\n\n支撑位方面，1.14623附近为近期低点，可能提供一定的支撑。若价格突破该水平，可能会进一步下探至1.1450附近的更强支撑。阻力位在1.14721，若价格突破此位，则可能迎来短期的反弹走势，测试更高的1.1480区域。\n\n综上所述，建议交易者在当前价格附近采取谨慎态度，短期内可考虑在1.14623附近寻找做空机会，目标价位在1.1450附近。然而，若价格突破1.14721，短期内反弹的可能性较大。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD is currently hovering around 1.1469, showing minimal movement over the last 24 hours. The price remains close to the 20-period SMA at 1.14681, suggesting a neutral short-term trend with no clear directional bias. The narrow daily range between 1.14623 and 1.14721 further indicates market indecision, with neither buyers nor sellers dominating. Traders should watch for a decisive break above the recent high or below the low to confirm the next short-term trend direction.  \n\nThe MACD currently registers at -0.000718, signaling slight bearish momentum, though without the signal line for confirmation, the strength of this bearishness remains uncertain. In the absence of an RSI reading, reliance on price action and moving averages becomes more critical. The market appears to be consolidating, reflecting a potential pause before the next significant move. Cautious traders may consider waiting for stronger indicator alignment before entering new positions.  \n\nSupport is likely found near 1.1462, the recent intraday low, where buyers may step in to prevent further declines. On the upside, resistance sits around 1.1472, the recent high, which could cap upward moves unless there is a breakout. A breach of either level could trigger momentum trading, with the next potential support and resistance levels extending to 1.1455 and 1.1480, respectively. Monitoring these key zones will be crucial for short-term trading strategies.  \n\nGiven the current consolidation and weak momentum, range-bound strategies could be appropriate, favoring scalps between support and resistance. For breakout traders, a confirmed move above 1.1472 may present a long opportunity targeting 1.1480 or higher, while a break below 1.1462 could favor short positions toward 1.1455. Risk management should remain tight, with stop-loss orders just outside these levels to limit exposure in case of sudden volatility."
+    }
+  }
+}

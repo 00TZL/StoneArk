@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-03-31T05:46:23.151Z",
+  "price": {
+    "close": "4576.657",
+    "high": "4578.48187",
+    "low": "4552.27511",
+    "open": "4566.30527",
+    "change": "0.23",
+    "datetime": "2026-03-31 16:00:00"
+  },
+  "indicators": {
+    "rsi": 60.027071,
+    "macd": 14.52085,
+    "macd_signal": 10.0064612,
+    "sma20": 4540.35683
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理，等待突破信号]",
+      "content": "当前XAU/USD在4576附近运行，呈现震荡整理走势。价格波动较小，全天变化幅度仅为0.23%。市场似乎在等待进一步的推动因素，目前处于一个区间整理的状态。\n\n从技术指标来看，SMA(20)在4540附近，暗示价格短期内有一定支撑。在未见到RSI和MACD的完整数据前，我们无法全面评估市场的超买或超卖情况，但目前的MACD数值14.52仍显示出较强的多头动能。\n\n关键的支撑位在4552附近，一旦跌破可能会进一步走低。而上行阻力位则在4578附近，突破后可能引发更大的上涨。若价格继续维持在此区间内，短期内或将继续震荡整理。\n\n建议交易者保持观望，若价格突破4578，考虑顺势做多；而若价格跌破4552，则可考虑做空。关键在于等待价格突破重要技术水平，进入明确的趋势阶段。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold (XAU/USD) has been displaying a modest upward trajectory, trading slightly above the 20-period SMA at 4540.36, indicating short-term bullish sentiment. The price currently hovers near 4576.66, reflecting resilience after testing the recent low at 4552.28. The market shows consolidation within a tight range, suggesting that buyers are gradually gaining confidence, though volatility remains relatively low. Traders should monitor for a decisive break above the 4578.48 high, which could signal a continuation of the bullish trend.\n\nMomentum indicators provide mixed signals. The MACD is positive at 14.52, implying that upward momentum exists, but the lack of a signal line reading makes the strength unclear. While the RSI is unavailable, the current price position relative to the SMA suggests that the market is neither overbought nor oversold, leaving room for further upside. This cautious bullish bias warrants attention to key levels for confirmation before committing to aggressive positions.\n\nSupport and resistance levels are clear reference points for potential entries and exits. Immediate support is established near 4552, where buyers previously stepped in, while resistance is noted at 4578, marking the recent swing high. A decisive breach of either level could dictate the next directional move. Traders may consider long positions if the price closes convincingly above resistance, with stop-losses below the support level to manage risk effectively.\n\nShort-term trading opportunities favor measured bullish strategies, with risk management emphasized. Breakout traders might target the next psychological level around 4600 if momentum sustains, while range traders could exploit minor retracements toward 4555–4560. Conservative traders might wait for clearer MACD confirmation or additional indicator signals. Overall, XAU/USD remains in a cautiously bullish stance, with key technical levels guiding potential trade decisions."
+    }
+  }
+}

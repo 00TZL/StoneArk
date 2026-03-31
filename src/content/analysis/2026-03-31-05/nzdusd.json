@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-03-31T05:44:51.230Z",
+  "price": {
+    "close": "0.57103",
+    "high": "0.57114",
+    "low": "0.5705",
+    "open": "0.57089",
+    "change": "0.02",
+    "datetime": "2026-03-31 16:00:00"
+  },
+  "indicators": {
+    "rsi": 38.63071,
+    "macd": -0.00049460591,
+    "macd_signal": -0.00051375615,
+    "sma20": 0.5718065
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：近期震荡整理，短期偏弱",
+      "content": "目前，纽元/美元（NZD/USD）维持在0.57103附近，呈现出窄幅震荡的走势。价格在过去24小时内变化较小，波动幅度仅为0.02%。虽然整体走势没有明确方向，但短期内市场的价格震荡区间较为清晰，显示出整理状态。\n\n从技术指标来看，MACD值为-0.00049460591，虽然暂时没有明确的信号，但负值显示市场短期内可能存在一定的卖压。20日简单移动平均线（SMA）在0.5718065附近，价格处于其下方，进一步支持短期看空的预期。由于缺乏其他有力的技术信号，市场情绪仍偏谨慎。\n\n在支撑和阻力方面，当前的支撑位在0.5705附近，这一水平已多次测试且未被突破。如果价格跌破该支撑，可能进一步测试更低的水平。上方的阻力位则位于0.57114附近，突破此位可能会恢复短期上涨趋势。\n\n鉴于当前市场缺乏强烈的趋势信号，建议保持观望，除非价格突破上方阻力或下方支撑。对于短期交易者，可以考虑在震荡区间内进行区间交易，但需注意风险控制。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently showing a slight bullish bias with its latest price at 0.57103, reflecting a modest 24-hour change of 0.02%. The price has been confined to a narrow range between 0.5705 and 0.57114, indicating consolidation within a tight band. With no significant momentum seen, the trend remains neutral for the time being. However, the pair is trading just below its 20-period simple moving average (SMA) of 0.5718065, which could act as a key resistance level. A breakout above this SMA could signal a short-term bullish move, potentially targeting the upper boundary of the range at 0.57114 or further toward 0.5725.\n\nThe lack of RSI and MACD data makes it challenging to assess the underlying momentum in this market. The MACD's negative value of -0.00049460591 suggests that bearish pressure is present, but without a signal line to gauge potential crossovers or reversals, it’s difficult to make a definitive conclusion. Traders should watch for any shift in momentum that could offer clearer direction. A bullish MACD crossover would be a strong signal for upward movement, while a continued bearish MACD might reinforce the lack of immediate upside potential.\n\nSupport levels lie around 0.5705, the lowest point reached in the past 24 hours. If the price falls below this level, we could see further downside, targeting 0.5700 or even 0.5690. On the upside, resistance around the 20-period SMA at 0.5718 is crucial. A breakout above this level could open up a move toward 0.5730, though significant resistance exists at higher levels. Short-term traders should keep an eye on these levels for breakout or reversal opportunities.\n\nFor trading, the current market presents a range-bound environment. Traders may consider trading within the range between 0.5705 and 0.57114, with stop-loss orders placed just outside these levels. If the price breaks above the SMA or below support, a more aggressive trend-following strategy could be employed. Caution is advised given the lack of clear momentum indicators."
+    }
+  }
+}
