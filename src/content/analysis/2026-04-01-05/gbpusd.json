@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-04-01T05:51:42.953Z",
+  "price": {
+    "close": "1.32635",
+    "high": "1.32635",
+    "low": "1.32419",
+    "open": "1.32427",
+    "change": "0.16",
+    "datetime": "2026-04-01 16:00:00"
+  },
+  "indicators": {
+    "rsi": 61.39563,
+    "macd": 0.00087476869,
+    "macd_signal": 0.00058905646,
+    "sma20": 1.32301
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[震荡整理，短期看涨潜力]",
+      "content": "当前英镑/美元的价格为1.32635，呈现震荡整理的状态。市场在24小时内小幅上涨0.16%，表现出一定的多头动能。当前价格接近日内高点，可能表明市场处于短期看涨的趋势中。\n\n技术指标方面，虽然RSI(14)数据缺失，但MACD值为0.00087476869，表明多头略占优势，尽管信号线未给出明确指示。从SMA(20)来看，1.32301的均线为当前短期支撑位，若价格回调至此，可能会受到支撑而反弹。\n\n考虑到支撑位在1.32301附近，阻力位则位于1.32800附近，若突破该阻力位，可能会迎来更强的上涨动能。当前市场缺乏强烈的趋势信号，建议在价格接近支撑位时寻找低位买入机会，注意防范风险。\n\n交易建议方面，短期内可以关注1.32300-1.32800区间的波动，利用震荡行情进行高低点操作。若价格突破上行阻力位，可考虑持有多头仓位直至下一关键阻力位。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The British Pound against the US Dollar is currently trading at 1.32635, experiencing a modest 24-hour gain of 0.16%. This small movement suggests a consolidation phase after the pair recently bounced off a lower support level. The price remains within a narrow range, indicating that market participants are waiting for clearer signals to determine the next directional move. The overall trend appears neutral to slightly bullish in the short term, as the price is maintaining above the 20-period simple moving average (SMA) at 1.32301.\n\nFrom a technical standpoint, the absence of the Relative Strength Index (RSI) and the unavailability of the signal line for the MACD make it difficult to gauge overbought or oversold conditions with precision. However, the MACD histogram's current value of 0.00087476869 suggests a very mild bullish momentum. The lack of significant momentum and RSI data means traders should be cautious, as price action may remain volatile or range-bound without strong directional cues.\n\nIn terms of support and resistance, the immediate support lies at 1.32419, the low for the day. A breach below this could open up further downside potential, targeting the next major support zone near 1.3200. On the upside, resistance is seen around 1.3280, with a breakthrough potentially targeting the 1.3300 psychological level. A sustained move above this resistance would indicate a bullish trend continuation, while failure to break through could lead to a retest of lower levels.\n\nGiven the current market conditions, a wait-and-see approach is advisable. Traders should look for clearer momentum signals or a break of key support/resistance levels before committing to positions. A confirmed bullish breakout above 1.3280 or a breakdown below 1.3240 could provide more reliable trading opportunities."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-04-01T05:56:06.728Z",
+  "price": {
+    "close": "4695.95349",
+    "high": "4703.93961",
+    "low": "4675.26216",
+    "open": "4675.81717",
+    "change": "0.43",
+    "datetime": "2026-04-01 16:00:00"
+  },
+  "indicators": {
+    "rsi": 66.72387,
+    "macd": 33.97534,
+    "macd_signal": 35.033719,
+    "sma20": 4651.60462
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理，短期趋于震荡区间]",
+      "content": "当前黄金/美元（XAU/USD）价格在4695.95附近，呈现震荡整理的走势。从24小时变化来看，涨幅仅为0.43%，显示市场情绪较为平稳。价格在4675.26和4703.94之间波动，未能突破重要技术水平。此种走势可能表明市场处于调整阶段，等待进一步的指引。\n\n技术指标方面，RSI(14)缺失数据，无法判断市场的超买或超卖状况。MACD的值为33.98，虽然显示有一定的买盘动能，但由于信号线数据缺失，无法确认是否存在持续的上行趋势。SMA(20)位于4651.60，表明短期内价格仍在均线之上，维持小幅上涨的潜力。\n\n在支撑方面，价格目前维持在4675附近，若跌破该点位，可能会寻找更强支撑位于4650附近。上方则面临4700点整数关口的阻力，突破后有可能进一步挑战4740附近的高点。此区间内的震荡可能会持续一段时间。\n\n短期建议：保持谨慎观望，建议在价格回撤至4650附近寻找低位买入机会，若突破4700点可考虑短期做多，但需注意整体震荡格局，避免追高。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold is showing a mildly bullish bias as it trades near $4696, slightly above its 20-period simple moving average at $4651. The upward momentum over the past 24 hours, reflected in a 0.43% gain, suggests that buyers are cautiously active. The intraday high at $4703.94 indicates resistance in the short term, while the low at $4675.26 sets an immediate support zone. Price hovering above the SMA implies a potential continuation of the modest uptrend, provided it holds above key moving average levels.  \n\nThe MACD reading of 33.97534, despite the absence of a signal line value, suggests positive momentum building. In practice, a rising MACD generally signals that the bullish trend could extend further if supported by volume. Although the RSI is not currently available, traders should watch for overbought conditions near the resistance zone. A break above $4705 could trigger additional buying, whereas failure to breach this level may result in sideways consolidation or minor pullbacks toward $4675.  \n\nImmediate support is anchored around $4675, reinforced by the SMA at $4651, which acts as a dynamic floor for buyers. Resistance levels are clearly defined by the intraday high near $4704 and psychological levels around $4720. These zones serve as potential entry or exit points for traders. Short-term positions could be adjusted with tight stops below the SMA, whereas breakout traders may consider waiting for confirmation above $4705 to initiate long positions.  \n\nFor trading strategy, conservative traders might look for buying opportunities on dips near support, while aggressive participants could target breakouts beyond $4705 for momentum plays. Risk management remains crucial, particularly with gold’s sensitivity to macroeconomic data and USD fluctuations. Monitoring central bank announcements, inflation data, and geopolitical factors alongside technical levels will enhance decision-making and reduce exposure to sudden volatility spikes."
+    }
+  }
+}

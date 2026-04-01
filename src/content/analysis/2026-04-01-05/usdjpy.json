@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-04-01T05:52:25.624Z",
+  "price": {
+    "close": "158.64721",
+    "high": "158.90459",
+    "low": "158.64721",
+    "open": "158.79752",
+    "change": "-0.09",
+    "datetime": "2026-04-01 16:00:00"
+  },
+  "indicators": {
+    "rsi": 33.081823,
+    "macd": -0.21714312,
+    "macd_signal": -0.22842533,
+    "sma20": 158.93436
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：短期盘整偏弱",
+      "content": "当前美元/日元维持在158.64721附近，24小时微幅下跌0.09%，显示短线承压迹象。价格低于20日均线SMA(20)158.93436，表明多头动能不足，市场可能延续短期盘整或轻微回落。  \n\nMACD为-0.2171且低于零轴，显示空头力量占优，但信号线数据缺失，需关注后续交叉变化以判断趋势强弱。缺少RSI信息，无法直接判断超买超卖，但结合价格走势，市场情绪偏谨慎。  \n\n支撑位初步可参考158.60附近，若失守可能下探158.40；阻力位在SMA(20)158.93及近期高点158.90，突破阻力需关注成交量配合。短线震荡区间明显，多空双方仍在试探方向。  \n\n交易策略上，可考虑高位轻仓做空，低位关注支撑反弹做短线多单，严格设置止损。若价格突破158.93并企稳，可短线追多，反之下破158.60需谨防进一步回落。风险控制和资金管理仍为关键。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently showing a neutral to slightly bearish trend, with the latest price at 158.64721. Over the past 24 hours, there has been a minor decline of -0.09%. The price has remained relatively stable, bouncing between the high of 158.90459 and the low of 158.64721. This lack of significant movement suggests a consolidation phase, where the market is waiting for a catalyst to establish a clearer direction. For traders, the immediate range between 158.90 and 158.65 may provide short-term opportunities, depending on future price action.\n\nFrom an indicator perspective, the MACD stands at -0.217, which is a negative reading but without a clear signal. This suggests that bearish momentum is present, but there isn't enough confirmation for a strong downward move. The absence of an RSI reading makes it difficult to assess overbought or oversold conditions. The SMA(20) at 158.93436 is slightly above the current price, indicating that the short-term trend is leaning slightly bearish. If the price crosses below this moving average, further downside could be expected, but if it reverses and climbs above this level, a potential bullish shift could occur.\n\nSupport and resistance levels are crucial in this environment. Immediate support can be seen around 158.65, which coincides with the recent low. A break below this could lead to further declines towards the next significant support around 158.40. On the upside, resistance lies near 158.90, and a breakout above this level could target 159.00, potentially triggering more buying interest. Traders should be cautious of market volatility and await a break above or below these levels for clearer trade signals.\n\nConsidering the current market conditions, traders may consider short-term trades with a focus on the 158.65-158.90 range. A move below 158.65 could provide short opportunities with a target toward 158.40, while a rise above 158.90 could open the door for long positions, targeting the 159.00 area. However, risk management is essential due to the current consolidation phase."
+    }
+  }
+}

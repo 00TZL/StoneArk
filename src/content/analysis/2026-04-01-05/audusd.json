@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-04-01T05:53:11.195Z",
+  "price": {
+    "close": "0.6913",
+    "high": "0.69156",
+    "low": "0.69022",
+    "open": "0.69038",
+    "change": "0.13",
+    "datetime": "2026-04-01 16:00:00"
+  },
+  "indicators": {
+    "rsi": 60.98075,
+    "macd": 0.0013158233,
+    "macd_signal": 0.0012490962,
+    "sma20": 0.689279
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短线震荡偏多，关注关键支撑与阻力",
+      "content": "当前澳元/美元维持在0.6913附近小幅上行，短线呈震荡偏多格局。价格略高于20日简单移动平均线(SMA20=0.6893)，显示短期多头仍占主导，但整体波动幅度有限，趋势延续性需观察成交量配合情况。  \n\nMACD指标显示当前值为0.0013，虽缺少信号线数据，但正值表明短期多头动能存在。结合价格高点0.69156与低点0.69022，市场短线偏向试探上行压力，但仍需警惕假突破可能。RSI缺失使超买超卖状态难以判断，可参考均线与价格结构作为参考。  \n\n支撑位在0.6890附近，为SMA20位置及近期低点附近，若回踩保持稳固，多头有望继续尝试反弹。阻力位关注0.6920–0.6930区域，突破则可能打开上行空间，否则容易在此区间承压。短线交易者可在支撑附近寻求低吸机会，同时设置止损以防回落破位。  \n\n交易策略上，可保持轻仓多头思路，重点关注支撑确认与阻力反应。若价格稳步突破0.6920，可考虑加仓追涨；若回落跌破0.6890，则需及时减仓或观望，以控制风险。整体偏向短线操作，顺势而为为宜。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently trading at 0.6913, experiencing a modest 24-hour change of +0.13%. The price action has been confined within a narrow range, with a high of 0.69156 and a low of 0.69022. This limited movement suggests a period of consolidation as the market waits for further direction. The current price is positioned above the 20-period simple moving average (SMA) at 0.689279, indicating a short-term bullish bias. However, without clear momentum signals from the RSI or MACD, the market remains in a delicate balance.\n\nGiven the tight trading range and lack of significant momentum, the short-term trend for AUD/USD appears neutral to slightly bullish. If price continues to hold above the 20-SMA, it could suggest potential for further upward movement towards resistance near 0.6920. A break above this level could pave the way for a move toward 0.6950, where more substantial resistance lies. On the downside, support is seen at 0.6900, with further support around 0.6880. A break below the 0.6900 level could shift the bias towards a bearish short-term outlook.\n\nAs of now, key indicators like the MACD and RSI are either missing or not providing clear guidance, making it challenging to assess the momentum of the market fully. However, the close proximity to the 20-SMA suggests that price could experience a reaction at either support or resistance levels, depending on the next catalyst. The lack of a defined trend means the market might be setting up for a breakout or a continuation of consolidation in the coming sessions.\n\nTraders should focus on monitoring price action around the support at 0.6900 and resistance at 0.6920. A break above resistance could trigger a buy signal, while a drop below 0.6900 may suggest a bearish reversal. Until a decisive move is made, caution is advised, and traders should avoid overextending positions."
+    }
+  }
+}

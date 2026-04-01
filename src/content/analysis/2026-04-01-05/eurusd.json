@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-04-01T05:50:57.316Z",
+  "price": {
+    "close": "1.15758",
+    "high": "1.15776",
+    "low": "1.15653",
+    "open": "1.15653",
+    "change": "0.09",
+    "datetime": "2026-04-01 16:00:00"
+  },
+  "indicators": {
+    "rsi": 68.83595,
+    "macd": 0.0021637923,
+    "macd_signal": 0.0020736045,
+    "sma20": 1.15431
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：短期震荡偏多",
+      "content": "当前欧元/美元价格维持在1.1575附近，略高于20日简单移动平均线(SMA20) 1.1543，显示短期仍有温和支撑。价格在高低点1.15776/1.15653之间波动，市场呈现小幅震荡格局，短线多空力量相对均衡。  \n\nMACD显示0.0021的正值，表明多头动能略占优势，但信号线未明确，意味着趋势尚不强烈。若RSI指标进一步确认超卖或超买区域，可提供更精准的入场信号。整体来看，多头潜力存在，但缺乏明确突破迹象。  \n\n支撑位主要关注SMA20附近1.1540-1.1550区域，以及近期低点1.1565；阻力位则在1.1580-1.1590区间，若价格突破该区域，可能引发新一轮上行。投资者应密切关注关键水平的突破或回调信号。  \n\n交易建议上，短线可考虑低多高空策略，注意控制仓位和止损，若价格跌破1.1540，可暂时观望以避免假突破风险。中线投资者可等待明显突破阻力位后再加仓，以降低震荡期的不确定性。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The Euro to US Dollar (EUR/USD) has recently shown a subtle upward movement, with the latest price at 1.15758, reflecting a modest 24-hour change of 0.09%. This suggests the pair is in a consolidating phase, trading within a narrow range between 1.15653 and 1.15776. While the market has not demonstrated a strong directional bias, it appears to be in a phase of neutral to slightly bullish sentiment, which could be indicative of a wait-and-see approach from traders. \n\nIn terms of trend analysis, EUR/USD is currently trading just above its 20-period simple moving average (SMA), which stands at 1.15431. This positions the market in a mildly bullish short-term bias, as prices are staying above the moving average, suggesting potential support around the SMA level. A break below this SMA could trigger a bearish sentiment, but for now, the overall trend remains stable, with the market closely hugging the key support zone. \n\nFrom an indicator standpoint, the MACD value of 0.0021637923 indicates a mild positive momentum but lacks sufficient strength to signal a clear bullish reversal or continuation. Since the RSI(14) is unavailable, other momentum signals become essential to confirm potential overbought or oversold conditions. In this context, traders should watch for any significant divergence or a shift in momentum to provide more clarity regarding the direction.\n\nKey support and resistance levels are now identified at 1.15653 and 1.15776, respectively. A breakout above 1.15776 could lead to further bullish continuation, targeting the next resistance zone. Conversely, a break below the 1.15653 support could push the market towards lower levels, with the 1.15431 SMA acting as the first line of defense. Traders should consider employing range-bound strategies, with stop losses and take profits set around these levels."
+    }
+  }
+}

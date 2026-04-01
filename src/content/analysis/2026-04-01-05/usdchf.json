@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-04-01T05:55:23.249Z",
+  "price": {
+    "close": "0.7967",
+    "high": "0.79772",
+    "low": "0.79661",
+    "open": "0.7977",
+    "change": "-0.13",
+    "datetime": "2026-04-01 16:00:00"
+  },
+  "indicators": {
+    "rsi": 37.18605,
+    "macd": -0.00067247502,
+    "macd_signal": -0.00033864591,
+    "sma20": 0.7994995
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：短期偏空整理",
+      "content": "美元/瑞郎近期在0.7967附近震荡，价格低于20日简单移动均线SMA(20)0.7995，显示短期承压迹象。尽管24小时跌幅仅为0.13%，但高低点接近，说明市场波动有限，多空力量暂时均衡。  \n\nMACD为-0.00067，显示空头动能略强，但信号线数据缺失，趋势尚不明朗。结合价格位于SMA下方，可判定短期内卖压略占优，但缺乏突破确认，需警惕反弹可能。  \n\n技术面支撑位初步看0.7960，如跌破可能进一步下探0.7945；阻力位在SMA附近0.7995，若上破则可能试探0.8010。价格在支撑与阻力之间呈区间整理格局，短线操作需灵活应对。  \n\n交易建议上，偏向短线逢高做空，止损可设在0.8000上方，目标下看0.7960及0.7945。如价格有效上破0.7995，则可考虑短线反手多单，操作需结合实时市场情绪与风险管理。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently exhibiting subtle bearish tendencies, with the latest price at 0.7967, slightly below the 20-period SMA at 0.7995. The downward drift over the past 24 hours, reflected in a modest -0.13% change, suggests a market testing lower levels after a brief consolidation near the 0.7977 intraday high. Price action appears hesitant above the 0.7965 intraday low, indicating a potential short-term support zone around this level. Overall, the short-term trend hints at mild selling pressure.\n\nMomentum indicators, though partially unavailable, suggest caution. The MACD is negative at -0.00067, indicating that the pair may be under bearish influence, even without a confirmed signal line crossover. This aligns with the price remaining below the SMA(20), implying that recent momentum favors sellers. Traders should watch for any further divergence between price and MACD, which could signal either a continuation of the downtrend or a potential corrective bounce toward resistance.\n\nKey levels are crucial in guiding potential trades. Immediate support lies around 0.7965, reinforced by recent lows, while the nearest resistance is near 0.7995, coinciding with the SMA(20) and previous intraday highs. A break below support could open the path toward 0.7950, a psychological and technical level, whereas a sustained push above 0.7995 may indicate a shift toward bullish momentum, potentially targeting 0.8020. Price behavior near these levels will determine the next directional bias.\n\nFor trading strategy, short-term traders could consider cautious short positions near resistance, with tight stop-loss orders slightly above 0.8000 to manage risk. Conversely, buyers may wait for confirmation of support holding around 0.7965 before entering long trades, targeting the 0.7995–0.8000 range. Given the subdued volatility and narrow price range, scalping or range-bound strategies could be suitable, while longer-term positions may require more decisive signals from momentum indicators and SMA alignment."
+    }
+  }
+}
