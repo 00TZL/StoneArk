@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-04-02T05:30:16.060Z",
+  "price": {
+    "close": "0.68796",
+    "high": "0.68806",
+    "low": "0.68775",
+    "open": "0.68786",
+    "change": "0.01",
+    "datetime": "2026-04-02 16:00:00"
+  },
+  "indicators": {
+    "rsi": 35.514,
+    "macd": -0.00075559326,
+    "macd_signal": 0.000048605954,
+    "sma20": 0.692237
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[短期震荡整理，关注关键支撑与阻力位]",
+      "content": "当前澳元/美元维持在0.68796附近，整体呈现震荡整理走势。从价格波动来看，价格在0.68775至0.68806区间内波动，表明市场短期内缺乏明确方向。MACD指标的负值显示出一定的卖压，但信号线数据缺失，未能提供明确的趋势信号。\n\n技术面上，20日简单移动平均线(SMA)为0.69223700，价格低于该水平，暗示短期内价格可能面临下行压力。RSI指标缺失，导致我们无法评估超买或超卖情况，建议后续关注该指标是否出现明显的极端值，进一步确认市场情绪。\n\n支撑位方面，0.68775是近期的低点，若价格进一步跌破该点位，可能会加剧下行风险。上方阻力位位于0.6922附近，这一水平与20日SMA接近，可能成为价格上行的关键阻力位。突破此位可能会改变当前的震荡走势。\n\n交易建议方面，短期内建议保持观望，直到价格突破上下关键区间（0.68775-0.6922）。若价格回撤至0.68775附近，可考虑做多，但需注意风险控制；若突破0.6922，则可以考虑做多，目标可设在0.6950附近。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar (AUD) against the US Dollar (USD) is currently trading at 0.68796, showing a slight 0.01% change over the past 24 hours. The market appears to be in a narrow range, as evidenced by the day's price fluctuations between 0.68775 and 0.68806. This tight price movement suggests a period of consolidation, with no clear direction forming at this stage. Traders should watch for a breakout from this range to provide a clearer indication of the next significant move.\n\nThe absence of a clear RSI reading makes it difficult to gauge overbought or oversold conditions directly. However, the MACD shows a negative value at -0.00075559326, which indicates a slight bearish sentiment in the short-term. Without a signal line for confirmation, the current MACD alone does not provide a strong enough signal to confirm trend reversals or continuation. Therefore, this pair may continue to trade within the range unless further data confirms a change in momentum.\n\nSupport and resistance levels are crucial for understanding potential price action. On the downside, 0.68775 is a key support level to monitor. If the pair breaks below this level, a further decline toward 0.68600 may be in play. On the upside, resistance is seen around the 0.6922 level, marked by the 20-period SMA. A break above this resistance could signal a shift toward higher prices, with potential targets around 0.6950 and beyond.\n\nGiven the current market conditions, a range-bound trading strategy is recommended for short-term traders. Those who prefer to take positions within the consolidation range might consider entering near the support level of 0.68775 and targeting the resistance near 0.6922. However, it's essential to stay alert for any breakout or breakdown that may shift the market's trend decisively."
+    }
+  }
+}

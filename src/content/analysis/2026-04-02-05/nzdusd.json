@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-04-02T05:31:42.628Z",
+  "price": {
+    "close": "0.57071",
+    "high": "0.57107",
+    "low": "0.57065",
+    "open": "0.57098",
+    "change": "-0.05",
+    "datetime": "2026-04-02 16:00:00"
+  },
+  "indicators": {
+    "rsi": 31.65872,
+    "macd": -0.00088746152,
+    "macd_signal": -0.00022467329,
+    "sma20": 0.5748475
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[短期下行压力显现，谨慎关注支撑位]",
+      "content": "当前纽元/美元的价格接近0.5707，近期24小时波动幅度小，显示市场情绪相对平稳。从技术图形来看，价格在0.57065和0.57107区间内窄幅震荡，形成一定的横盘整理。这表明短期内市场尚未显著倾向于某一方向，但下行压力有所增加。\n\n技术指标方面，MACD目前显示负值，且信号线缺失，暗示短期内可能继续承压。SMA(20)位于0.5748附近，价格远低于该均线，进一步验证了价格可能面临回调。RSI数据未能提供，因此无法确认超买或超卖状态，但市场走势偏弱的可能性较大。\n\n支撑位方面，0.57065附近为近期低点，若跌破此位置，可能会加速下行，测试更强支撑区间0.5690-0.5680。而上方的阻力位在0.5740-0.5750区域，若价格突破此区域，短期内可能会迎来反弹。\n\n交易建议：考虑到目前的技术面状况，建议在价格接近0.57065附近时谨慎观察，若下破该支撑位，可考虑适当空头操作，目标看向0.5690-0.5680。反之，如果价格突破上方阻力位，则可考虑短期多头操作，但需注意止损策略，防范价格反转风险。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently showing a subtle bearish bias, trading just below the 20-day simple moving average at 0.57485. The market has struggled to break above this short-term average, indicating that recent upward momentum lacks conviction. Price action in the last 24 hours has been relatively tight, confined between 0.57065 and 0.57107, suggesting market indecision. Traders may watch for a decisive break below the daily low to confirm continuation of the minor downtrend.  \n\nThe MACD is negative at -0.000887, signaling that short-term momentum is tilted toward sellers, although the absence of a signal line reading limits the strength of this signal. With the RSI unavailable, traders might rely on price structure and moving averages to gauge momentum. A rebound toward the SMA could face resistance around 0.5748–0.5750, while immediate support lies near the 0.5705–0.5710 zone. Monitoring these levels can provide insight into whether bearish sentiment will sustain or if a corrective bounce is likely.  \n\nSupport at 0.5705 represents a critical short-term floor, having contained several recent intraday declines. On the upside, the previous swing highs near 0.5748 act as resistance, marking the threshold where sellers may re-enter the market. A break above this level could shift the short-term trend to bullish, while a breach of support might accelerate losses toward psychological levels around 0.5680–0.5690. Volume confirmation would further validate such moves.  \n\nFor trading, a cautious approach is recommended. Short-term traders could consider selling near resistance with tight stops above 0.5750, targeting the 0.5705–0.5690 support region. Conversely, aggressive buyers might wait for a clear break above the SMA to confirm momentum reversal. Overall, the pair appears range-bound in the immediate term, with decisive moves beyond these technical levels likely to dictate the next directional bias."
+    }
+  }
+}

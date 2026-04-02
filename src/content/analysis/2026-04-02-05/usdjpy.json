@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-04-02T05:29:28.495Z",
+  "price": {
+    "close": "159.36251",
+    "high": "159.39952",
+    "low": "159.34056",
+    "open": "159.34154",
+    "change": "0.01",
+    "datetime": "2026-04-02 16:00:00"
+  },
+  "indicators": {
+    "rsi": 62.59306,
+    "macd": 0.12647878,
+    "macd_signal": 0.026547886,
+    "sma20": 158.81758
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：短期震荡偏强趋势",
+      "content": "目前美元/日元价格维持在159.36附近，较20日均线158.82略高，显示短期多头仍具支撑，但整体涨幅有限。价格24小时仅微幅波动0.01%，表明市场观望情绪浓厚，短期趋势偏向震荡上行。  \n\nMACD当前为0.126，显示多头动能存在，但信号线数据缺失，需谨慎判断。均线位置仍处于价格下方，提供一定支撑，而日内高点159.40可能形成初步阻力。价格若突破此位，可能引发进一步上攻，但若受阻回落，则短线可能在159.34~159.40区间盘整。  \n\n支撑位关注20日均线158.82及近期低点159.34，若跌破则可能触发短线空头压力；阻力位关注159.40及心理整数160.00关口，突破后趋势或进一步强化。交易者应结合震荡特征，注意止盈止损位置，避免追高或盲目抄底。  \n\n建议短线以区间交易为主，逢低小幅多单，逢高减仓或观望；若价格有效突破159.40，考虑顺势跟进多单，但应严格控制风险，关注行情动能变化与突破后的回抽确认，以防假突破诱发止损。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USD/JPY is maintaining a clear bullish bias, with price trading above the 20-period simple moving average at 158.81. The pair is hovering near 159.36, close to the upper bound of the recent intraday range, suggesting continued upward pressure. The marginal 24-hour change indicates consolidation rather than reversal, often seen before continuation. Overall structure favors buyers unless price decisively breaks below short-term dynamic support levels.\n\nMomentum indicators provide a cautiously supportive outlook. While RSI data is unavailable, the positive MACD reading around 0.126 suggests underlying bullish momentum remains intact. However, the absence of a signal line makes it harder to confirm crossover strength. The relatively flat price action combined with positive MACD hints at slowing momentum, so traders should watch for either expansion in volatility or weakening momentum divergence.\n\nKey support is located around 158.80–159.00, aligning with the SMA(20) and recent consolidation base. A deeper pullback could test 158.30, which would be a more critical structural support. On the upside, immediate resistance sits near 159.40, the recent high. A break above this level could open the path toward the psychological 160.00 handle, which historically attracts strong market interest.\n\nFrom a trading perspective, a buy-on-dips approach remains favorable while price holds above 158.80. Short-term traders may look for continuation setups on a confirmed breakout above 159.40, targeting higher psychological levels. However, if price falls below 158.80 with increasing volume, it could signal a shift toward short-term bearish correction, offering opportunities for countertrend shorts with tight risk controls."
+    }
+  }
+}

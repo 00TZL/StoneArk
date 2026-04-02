@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-04-02T05:28:00.364Z",
+  "price": {
+    "close": "1.15328",
+    "high": "1.15391",
+    "low": "1.15318",
+    "open": "1.15365",
+    "change": "-0.03",
+    "datetime": "2026-04-02 16:00:00"
+  },
+  "indicators": {
+    "rsi": 33.70725,
+    "macd": -0.00061186266,
+    "macd_signal": 0.00040656417,
+    "sma20": 1.15857
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：震荡整理，短期偏弱",
+      "content": "当前，欧元/美元在1.15328附近震荡整理，24小时内变动幅度较小，仅下降了0.03%。价格位于短期SMA(20) 1.15857下方，显示出一定的短期弱势。市场缺乏强劲的上涨动能，预计短期内仍会维持窄幅波动，可能逐步向下寻找支撑。\n\n从技术指标来看，当前MACD为负值（-0.00061186266），且未出现明显的交叉信号，表明市场仍然处于下行压力中。RSI(14)暂时缺失，无法提供更多超买或超卖的信号，因此，需关注后续指标变化来确认趋势反转的可能性。\n\n支撑位方面，价格接近1.15318，若跌破该位置，可能会进一步回调至1.15000附近。上方阻力位在1.15857附近，这一水平为SMA(20)的价位，若突破则可能恢复短期上涨势头。投资者需密切关注这些关键价位的突破情况。\n\n基于当前市场状况，短期内欧元/美元仍有一定的下行风险，建议在接近支撑位时谨慎做多，若价格突破上方阻力位，则可考虑追涨。建议保持灵活的交易策略，关注技术指标的进一步变化。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently experiencing a narrow trading range, with the latest price standing at 1.15328, just above its daily low of 1.15318. This suggests a lack of significant volatility, indicating consolidation. The 24-hour change is minimal at -0.03%, reflecting a balance between buyers and sellers. With the market seemingly undecided, the pair could be preparing for either a breakout or a reversal. Traders should watch for a shift in momentum to gauge the next move.\n\nThe absence of an RSI reading and a MACD value close to zero (-0.00061186266) suggests weak momentum. The MACD's negative value implies bearish pressure, though it is not strong enough to signal a clear downtrend. This also points to market indecision, and the pair is likely waiting for a catalyst that could push it either toward support or resistance. The 20-period SMA at 1.15857 acts as a near-term resistance level, with price action currently trading well below it, indicating potential resistance should the pair attempt an upward move.\n\nSupport levels are tight, with the most recent low at 1.15318. A breach of this level could signal further downside, possibly testing 1.1500. On the upside, the 1.15857 SMA stands as a key resistance, and a break above this level could open the door for a retest of the recent highs around 1.1600. Given the current market conditions, traders should be cautious, watching for a decisive move either above or below these key levels.\n\nIn terms of trading suggestions, consider taking a wait-and-see approach until the price either breaks through resistance at 1.15857 or falls below 1.15318. A break above 1.15857 could suggest a buying opportunity toward 1.1600, while a drop below 1.15318 might warrant short positions targeting 1.1500. Given the current lack of strong momentum, any positions should be tightly managed to avoid unnecessary risk."
+    }
+  }
+}

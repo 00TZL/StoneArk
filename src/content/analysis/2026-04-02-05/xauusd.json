@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-04-02T05:33:15.744Z",
+  "price": {
+    "close": "4673.46718",
+    "high": "4681.03886",
+    "low": "4668.03429",
+    "open": "4671.94677",
+    "change": "0.04",
+    "datetime": "2026-04-02 16:00:00"
+  },
+  "indicators": {
+    "rsi": 38.45503,
+    "macd": -0.80066123,
+    "macd_signal": 16.19542,
+    "sma20": 4742.63762
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[短期震荡，关注支撑与阻力区间]",
+      "content": "当前XAU/USD价格维持在4673.47附近，整体波动较小，且24小时变化幅度仅为0.04%。市场处于一种震荡整理状态，价格未能突破近期的高低区间。短期来看，黄金的走势缺乏强烈的趋势信号，可能会继续在现有区间内波动。\n\nMACD指标显示-0.80的负值，表明短期内卖压较为明显，但由于信号线尚未出现，未能形成明确的交叉信号。SMA(20)处于4742.64附近，价格远离这一均线，表明黄金当前偏离了短期的平均价格，可能面临回调压力。\n\n在支撑与阻力方面，当前支撑位位于4668附近，若价格进一步下探，可能会受到支撑并反弹。而上方的阻力位在4681附近，突破这一点位可能会迎来短期的上涨机会。交易者可关注此区间的突破情况，以决定进场时机。\n\n建议在短期内，交易者可以选择在支撑位附近进行低位买入，在遇到阻力位时适时卖出。然而，由于市场当前缺乏明显的趋势，交易者应保持谨慎，设置合理的止损，以应对可能的价格反向波动。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current market conditions for XAU/USD reflect a relatively stable environment with a slight upward bias in the 24-hour change. With the latest price at 4673.46718, gold has recently tested a low at 4668.03429, holding well above this level, suggesting that support is present in the short term. The resistance level, marked by the recent high of 4681.03886, offers a key point for potential upward movement. The market appears to be consolidating within this range, making it critical to observe these levels for breakout signals.\n\nIn terms of trend analysis, the market is currently moving sideways, with no clear trend direction. The absence of a detailed RSI or MACD signal makes it difficult to gauge overbought or oversold conditions. However, the negative MACD reading of -0.80066123 suggests that bearish momentum may be present, potentially leading to further downward pressure. A close below the support at 4668.03429 could reinforce this bearish outlook, targeting the next support at a lower price range.\n\nThe 20-period simple moving average (SMA) at 4742.63762 is a strong resistance zone, signaling that if the price pushes higher, it may face significant selling pressure. A breakthrough above the SMA could signal a shift in sentiment, favoring the bulls. Traders should monitor the price's reaction at the SMA for confirmation of either a continuation of the bearish trend or a reversal. \n\nFor trading strategies, consider buying near support levels, such as 4668.03429, with a stop-loss just below it, and targeting the resistance zone around 4681.03886. Alternatively, a breakout above the 4742.63762 SMA could suggest a buy signal for a medium-term target. However, caution is advised as the broader trend remains uncertain without stronger momentum indicators."
+    }
+  }
+}

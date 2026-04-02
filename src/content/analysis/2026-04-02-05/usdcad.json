@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-04-02T05:31:00.307Z",
+  "price": {
+    "close": "1.39127",
+    "high": "1.39142",
+    "low": "1.391",
+    "open": "1.39123",
+    "change": "0.00",
+    "datetime": "2026-04-02 16:00:00"
+  },
+  "indicators": {
+    "rsi": 59.83652,
+    "macd": 0.000019504168,
+    "macd_signal": -0.00049400471,
+    "sma20": 1.38894
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理，走势平稳]",
+      "content": "当前美元/加元（USD/CAD）市场呈现震荡整理走势，价格在1.391附近波动。由于缺乏明显的上涨或下跌动能，市场尚未表现出明确的趋势。价格在1.391附近徘徊，呈现出高点1.39142与低点1.391之间的小幅波动，显示出市场缺乏足够的市场情绪推动。\n\n技术指标方面，虽然RSI和MACD的部分数据无法提供清晰的买卖信号，但SMA(20)的支持位1.38894暗示短期内价格可能会维持在此区间附近，暂时难以突破。此水平在技术面上作为短期支撑位，可能会引发反弹，但也面临较大的下行风险。\n\n从支撑和阻力来看，当前的支撑位位于1.391，下方突破可能会引导价格试探更低的区间，预计下一个支撑位在1.388。阻力位则在1.39142附近，如果价格突破此位置，可能会带动进一步上涨。操作时需密切关注价格在该区间的反应。\n\n建议投资者在没有明确的趋势确认之前，可采取观望策略，避免贸然进场。若价格突破1.39142可考虑短期多单，而若跌破1.391则可考虑适当做空。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "USD/CAD is currently showing signs of mild consolidation around the 1.391 level, with minimal intraday movement. The price is slightly above its 20-period simple moving average at 1.38894, suggesting short-term bullish pressure, albeit limited. The narrow trading range between 1.3910 and 1.39142 indicates market indecision, likely reflecting balanced supply and demand amid a quiet session. Traders may watch for a decisive breakout above the recent high or a drop below the SMA to gauge the next directional move.  \n\nThe MACD reading of 0.0000195, although very close to zero, hints at weak upward momentum. With no signal line available, the indicator is less conclusive but suggests that bullish pressure is marginal rather than strong. The absence of an RSI reading limits overbought or oversold analysis, so traders should rely on price action and moving average alignment. This setup favors cautious positioning, with entries based on breakout confirmation rather than momentum-driven trades.  \n\nImmediate support appears near 1.3889, coinciding with the 20-period SMA, offering a potential floor for short-term buyers. Resistance is evident at 1.3914, representing the recent intraday high where sellers may emerge. Breaching this level with volume could trigger a test of 1.3940–1.3950, while a breakdown below 1.3889 may open the path toward 1.3860. Monitoring these zones is essential for risk management and for identifying entry or exit points.  \n\nGiven the current environment, range-bound trading with tight stops could be prudent. Traders might consider buying near the SMA with stops just below 1.3885, targeting 1.3915–1.3920 for conservative gains. Alternatively, short positions could be contemplated if the pair fails to sustain above resistance, aiming for support near 1.3889. Overall, patience and confirmation remain key, as momentum signals are weak and price action shows limited directional conviction.  \n\nWord count: 266"
+    }
+  }
+}
