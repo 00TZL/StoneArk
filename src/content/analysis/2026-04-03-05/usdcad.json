@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-04-03T05:32:04.745Z",
+  "price": {
+    "close": "1.39266",
+    "high": "1.39268",
+    "low": "1.39243",
+    "open": "1.39245",
+    "change": "0.01",
+    "datetime": "2026-04-03 16:00:00"
+  },
+  "indicators": {
+    "rsi": 61.40617,
+    "macd": 0.00047973614,
+    "macd_signal": 0.00047977022,
+    "sma20": 1.39207
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：震荡偏强走势延续",
+      "content": "当前价格维持在1.3926附近，整体运行于短期均线上方，显示多头仍占主导，但波动区间极窄，短线呈现高位整理格局。价格接近阶段高点，动能虽有延续，但上涨节奏明显放缓，需警惕冲高后的回调压力。  \n\n从技术指标看，SMA(20)位于1.39207，价格略高于均线，表明趋势偏多但优势有限。MACD柱值微幅为正，说明多头动能尚存但力度较弱。RSI数据缺失，但从价格行为推测，市场处于轻度超买边缘，动能趋于钝化。  \n\n关键支撑位关注1.3920与1.3900区域，若跌破则可能引发短线回调。上方阻力位集中在1.3930及1.3950，当前价格已接近短期阻力，若无法有效突破，可能进入区间震荡或回落整理。  \n\n交易策略上，短线建议以区间操作为主，靠近1.3920附近可轻仓做多，上破1.3930可顺势跟进。若跌破1.3920，则考虑短空至1.3900区域。整体需控制仓位，等待方向明确后再加大参与力度。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently showing a slight bullish bias, trading at 1.39266, reflecting a modest increase of 0.01% over the past 24 hours. This suggests that market sentiment remains neutral to positive, but with limited momentum. The price is hovering near the 20-period SMA at 1.39207, indicating a consolidating trend. If this level holds, it could act as short-term support. However, if the pair breaks below this moving average, further downside testing may occur.\n\nOn the indicators side, the MACD is at 0.00047973614, showing a positive value, but it lacks a clear signal or divergence. This suggests the absence of strong momentum, and without further confirmation from other indicators, it’s hard to make a decisive call. The RSI(14) is missing, which leaves the assessment of overbought or oversold conditions incomplete. Traders should watch for confirmation from other technical signals to determine the strength of any breakout or reversal.\n\nIn terms of key levels, immediate support is at 1.39243, the recent low, which could offer a potential bounce zone. A failure to hold this level may open up further downside toward 1.3910 or 1.3895, where additional support might be found. On the upside, resistance is near 1.39268, the high of the day. A breakout above this level could target 1.3940 and potentially higher, depending on broader market sentiment.\n\nFor traders, a cautious approach is advisable until clearer momentum emerges. If the price remains above the 20-period SMA, consider trading within the range, targeting 1.39268 on the upside and 1.39243 on the downside. A breakout above 1.39268 could signal a continuation of the bullish trend, whereas a drop below 1.39243 may indicate a bearish reversal."
+    }
+  }
+}

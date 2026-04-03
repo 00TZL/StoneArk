@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-04-03T05:30:38.599Z",
+  "price": {
+    "close": "159.64301",
+    "high": "159.64301",
+    "low": "159.59302",
+    "open": "159.62384",
+    "change": "0.01",
+    "datetime": "2026-04-03 16:00:00"
+  },
+  "indicators": {
+    "rsi": 58.66752,
+    "macd": 0.10742745,
+    "macd_signal": 0.12494742,
+    "sma20": 159.57553
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：短期震荡偏强",
+      "content": "目前美元/日元价格在159.64301附近小幅波动，24小时仅微涨0.01%，显示市场短期缺乏明确方向。从均线角度看，价格略高于SMA(20)的159.57553，暗示短期趋势偏向多头，但上涨动力有限，需要关注价格对均线的支撑作用。  \n\nMACD当前值为0.10742745，虽缺少Signal线参考，但正值表明多头动能略占优势。由于RSI数据缺失，超买超卖状态无法确认，因此需结合价格行为和成交量变化判断市场节奏。整体来看，多头力量存在，但节奏缓慢。  \n\n支撑位在SMA(20)附近159.575区域，若价格跌破可能引发短线回调；阻力位关注近期高点159.643至159.650区间，突破则可能延续短线上涨。震荡格局下，区间操作更为稳妥。  \n\n交易上建议短线交易者在支撑位附近尝试低多，止损可设置于159.560以下；若价格上破阻力位并稳住，可考虑顺势加仓。长期投资者建议保持观望，等待动能确认后再建仓，以降低非趋势行情的风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently in a narrow trading range, hovering around the 159.64 level, reflecting minimal movement with a 24-hour change of just 0.01%. This suggests a period of consolidation after recent fluctuations. The lack of significant volatility is evident as the pair remains close to its daily low of 159.59 and high of 159.64, indicating market indecision. Traders should remain cautious in such environments, as breakouts or reversals could be triggered by external factors or news releases.\n\nLooking at the technical indicators, the absence of an RSI and incomplete MACD data make it difficult to draw definitive conclusions. However, the MACD value of 0.107 suggests a slightly bullish momentum in the short term. The absence of a confirmed signal line crossing further supports this idea. With the 20-period SMA at 159.58 acting as a mild support, price could struggle to break below this level unless there’s a more significant fundamental shift. The current trend seems to be maintaining its upward bias, but it lacks strong confirmation from momentum indicators.\n\nIn terms of support and resistance, the pair has shown some strength at the lower boundary of the recent range (159.59), which may act as support in the near term. A break below this level could target the 159.50 area, where further support could emerge. On the upside, a move above 159.65 could indicate the potential for a continuation towards the 159.80 mark. Traders should be attentive to these levels and adjust strategies accordingly.\n\nFor now, the market's quiet behavior suggests a waiting game. Traders may consider buying on dips near the 159.60 area with a stop just below 159.55, while looking for short-term resistance near 159.65. However, a stronger trend confirmation will likely require further data, such as a more pronounced MACD signal or RSI value."
+    }
+  }
+}

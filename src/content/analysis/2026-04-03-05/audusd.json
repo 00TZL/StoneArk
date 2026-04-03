@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-04-03T05:31:20.110Z",
+  "price": {
+    "close": "0.69049",
+    "high": "0.69073",
+    "low": "0.69034",
+    "open": "0.69069",
+    "change": "-0.03",
+    "datetime": "2026-04-03 16:00:00"
+  },
+  "indicators": {
+    "rsi": 50.3748,
+    "macd": 0.00019023564,
+    "macd_signal": 0.00014095996,
+    "sma20": 0.6902395
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短期震荡偏弱",
+      "content": "当前澳元/美元维持在0.6905附近，价格徘徊在20日均线0.6902上方，显示短期仍有支撑，但涨势有限。日内波动幅度较小，整体呈现震荡整理态势，短线方向尚不明朗，需要关注突破信号。  \n\nMACD指标显示0.00019的正值，但缺乏信号线参考，提示动能略偏多，但力度不足。若价格继续稳固在均线之上，可能形成温和反弹；反之若跌破0.6902支撑，则短线偏空风险加大。RSI暂缺，无法判断超买超卖，但结合近期盘整，可视为中性偏弱格局。  \n\n支撑位方面，可关注0.6902及0.6898附近，若有效守住，有利于短线反弹；阻力位则在0.6910-0.6915区域，若突破并站稳，可能带动进一步上行空间。整体价格仍处于震荡区间，突破方向将决定接下来走势。  \n\n交易上，建议以区间操作为主，短线可在支撑附近尝试低多，止损控制在支撑下方；若价格突破阻力，则可考虑顺势做多。同时，保持谨慎，避免在窄幅整理区盲目追涨杀跌，等待明确趋势信号再加仓。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is exhibiting a cautiously neutral stance around 0.69049, with only a minor 0.03% decline over the past 24 hours. The price remains closely aligned with the 20-period simple moving average at 0.69024, suggesting a short-term equilibrium between buyers and sellers. The intraday range of 0.69034–0.69073 indicates low volatility, implying that market participants are awaiting stronger economic cues or technical confirmation before committing to directional trades. Trend-wise, the pair appears range-bound, with no decisive breakout signals visible at this stage.\n\nThe MACD reading of 0.00019 suggests a slight bullish bias, although the absence of a signal line prevents confirmation of momentum strength. Traders should treat this as tentative, leaning toward mild upward pressure rather than a definitive uptrend. The lack of RSI data limits overbought or oversold assessment, reinforcing the importance of monitoring price action relative to moving averages and key horizontal levels. Short-term momentum remains subdued, and any meaningful directional move may require a catalyst, such as economic releases from Australia or the US.\n\nSupport for AUD/USD is likely near 0.69030, a level reinforced by the lower end of today’s range and the proximity of the SMA(20). Immediate resistance resides around 0.69075, which corresponds to the recent high and represents a potential cap on upward movement unless buying interest intensifies. Breaches of these levels could define the next short-term directional move, with a break above resistance favoring bullish continuation, while a drop below support may signal renewed downside pressure.\n\nFor traders, cautious range-trading strategies may be prudent in the current environment. Buying near support with tight stops below 0.69030 could capture limited upside, while selling near resistance may be appropriate for short-term scalps. Confirmation from MACD crossovers, trendline breaks, or a return of higher volatility could enhance trade confidence. Overall, the AUD/USD is in a consolidation phase, requiring patience and disciplined risk management until a clearer trend emerges."
+    }
+  }
+}

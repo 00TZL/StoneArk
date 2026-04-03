@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-04-03T05:29:12.554Z",
+  "price": {
+    "close": "1.15307",
+    "high": "1.15349",
+    "low": "1.15294",
+    "open": "1.15347",
+    "change": "-0.03",
+    "datetime": "2026-04-03 16:00:00"
+  },
+  "indicators": {
+    "rsi": 40.99589,
+    "macd": -0.00045786487,
+    "macd_signal": -0.00052542522,
+    "sma20": 1.15356
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[震荡整理，短期持稳]",
+      "content": "当前欧元/美元（EUR/USD）维持震荡整理态势。价格接近1.1530，未能突破明显的支撑或阻力位，显示市场情绪较为谨慎。短期内可能继续在当前区间内波动，尚未出现强烈的上升或下降趋势。\n\n技术面来看，当前没有RSI和MACD的有效信号，短期价格走势不明朗。20日简单移动平均（SMA）显示价格略低于其水平，表明卖方力量略强，但整体趋势仍未偏离震荡区间。MACD接近零轴，反映出市场未有明显的买卖力量。\n\n支撑位可观察在1.1529附近，若下破则可能进一步下探至1.1510。阻力位则在1.1535一线，突破此位置可能迎来进一步上涨，测试更高的1.1550水平。总体而言，当前价格维持相对平稳，突破任一方向都需关注成交量的配合。\n\n交易建议方面，建议采取区间交易策略，低位靠近1.1529附近可以考虑做多，而接近1.1535时则可考虑短期做空。切勿盲目追涨杀跌，应保持谨慎操作。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently in a tight consolidation phase, with the price oscillating around 1.15307. The absence of a clear directional trend in the last 24 hours, with a minor change of -0.03%, signals indecision in the market. The pair is trading just above the 20-period simple moving average (SMA) at 1.15356, indicating a slight bullish bias, but the narrow price range between 1.15349 and 1.15294 suggests a lack of significant momentum. Traders should observe whether the pair breaks above the recent high or falls below the low for clearer signals.\n\nLooking at the indicators, the MACD value of -0.00045786487 is negative but very close to neutral, reflecting a balance between bullish and bearish pressure. The lack of an RSI reading makes it difficult to assess the overbought or oversold conditions, leaving price action as the main guide for the next move. If the MACD crosses into positive territory, a shift to bullish sentiment could be expected, while a deeper negative MACD reading could point to further bearish pressure. \n\nIn terms of support and resistance, the recent low of 1.15294 holds significant importance. A break below this level could lead to further downside, potentially targeting 1.15200 or lower. On the other hand, the immediate resistance lies just above at 1.15349, with a break above this level indicating a possible push towards 1.15450 or higher. Traders should be cautious, waiting for a confirmed breakout from this range for a better risk-to-reward setup.\n\nGiven the current market conditions, it's recommended to trade with caution until a clear trend emerges. A break below 1.15294 could provide a shorting opportunity, while a move above 1.15349 could set up for potential long positions. However, both scenarios require confirmation through stronger momentum or supportive indicator crossovers for higher reliability."
+    }
+  }
+}

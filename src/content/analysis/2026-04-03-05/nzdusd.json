@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-04-03T05:32:46.214Z",
+  "price": {
+    "close": "0.57062",
+    "high": "0.57088",
+    "low": "0.57055",
+    "open": "0.57081",
+    "change": "-0.03",
+    "datetime": "2026-04-03 16:00:00"
+  },
+  "indicators": {
+    "rsi": 36.51414,
+    "macd": -0.00053819482,
+    "macd_signal": -0.00052006564,
+    "sma20": 0.571519
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：短期偏弱震荡",
+      "content": "纽元/美元目前价格维持在0.5706附近，短期走势呈现轻微下行压力。虽然价格波动幅度有限，但结合SMA(20)在0.5715之上，表明多头动能略显减弱，市场短线仍偏向整理。若价格持续低于SMA，空头可能获得进一步支撑。  \n\nMACD指标显示红色柱体为负，表明短期卖压存在，但缺乏信号线参考，需关注后续交叉情况确认趋势延续性。尽管日内跌幅有限，技术面仍显示短线承压迹象，投资者应关注潜在回调风险。  \n\n从支撑与阻力角度，近期支撑位集中在0.5705和0.5698附近，若跌破支撑，可能引发进一步下探。阻力位则在0.5715和0.5723附近，突破后可能短线反弹。支撑与阻力区间狭窄，提示市场短线波动受限。  \n\n综合来看，建议短线投资者谨慎操作，可考虑逢高轻仓做空，或在支撑位附近尝试短线多单，但需严格控制风险。中长期投资者可观察价格是否稳定回升至SMA上方，以确认多头延续信号再布局。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently trading near the 0.5706 level, with a slight 24-hour decrease of -0.03%. The pair has shown limited volatility, as evidenced by its daily range between 0.57088 and 0.57055. The market is presently in a consolidating phase, with price movement remaining within a narrow band. The lack of significant directional momentum points to a market awaiting further catalysts. A cautious outlook is advised unless a breakout occurs from this current range.\n\nLooking at the technical indicators, the absence of a current RSI reading limits our ability to gauge overbought or oversold conditions, which could have offered more insight into potential price reversals. The MACD is slightly negative at -0.00053819482, but without a signal line for context, it's challenging to derive clear momentum signals. The absence of significant bullish or bearish pressure indicates that the market is neither trending strongly upward nor downward at this stage, leaving the pair vulnerable to sudden shifts should new information or sentiment emerge.\n\nThe 20-period simple moving average (SMA) stands at 0.571519, offering a dynamic resistance level in the near term. This level could act as a ceiling for the pair, especially if the market struggles to break above it. On the downside, support may be found around the 0.5705 area, which marks the low for the session. A break below this support could trigger further declines, with the next support target potentially near 0.5690, where the price could find additional buying interest.\n\nFor traders, a breakout strategy may be effective. A move above the 0.5715 resistance could signal a potential rally, with initial targets around 0.5730. Conversely, a drop below 0.5705 could invite further downside, and a conservative approach would be to wait for confirmation of either a breakout or breakdown before entering positions."
+    }
+  }
+}
