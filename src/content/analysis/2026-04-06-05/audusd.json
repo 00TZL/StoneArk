@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-04-06T05:57:15.088Z",
+  "price": {
+    "close": "0.69101",
+    "high": "0.69129",
+    "low": "0.69089",
+    "open": "0.69092",
+    "change": "0.01",
+    "datetime": "2026-04-06 15:00:00"
+  },
+  "indicators": {
+    "rsi": 69.67596,
+    "macd": 0.000354349,
+    "macd_signal": 0.00012867934,
+    "sma20": 0.689446
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短线震荡偏强走势",
+      "content": "当前价格运行于0.6910附近，略高于SMA(20)均线0.6894，显示短线多头仍占一定优势，但整体波动区间较窄，呈现震荡整理格局。24小时涨幅极小，表明市场动能不足，趋势尚未形成明确方向。\n\nMACD指标处于正值区间，暗示多头动能仍在，但由于信号线缺失，需谨慎判断其延续性。若后续柱状图持续放大，则有望强化上行动能。RSI暂无数据，短线超买超卖状态暂无法确认，需结合价格行为判断。\n\n关键支撑位关注0.6890一线（接近20日均线），若跌破可能回测0.6870区域；上方阻力位在0.6920-0.6930区间，突破后有望打开上行空间。当前价格贴近区间上沿，存在一定阻力压制。\n\n操作上建议以区间交易思路为主，短线可在0.6890附近轻仓做多，目标看向0.6920上方；若有效突破阻力则可顺势跟多。若跌破均线支撑，则应及时止损并考虑转为空头思路。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently exhibiting a mildly bullish stance, trading just above the short-term 20-period SMA at 0.68945. Price action remains confined within a narrow intraday range of 0.69089–0.69129, suggesting a period of consolidation. The slight upward bias is reinforced by the positive MACD value of 0.000354, indicating that short-term momentum favors buyers, although the lack of a signal line reading makes the trend confirmation incomplete. Traders should watch for a breakout beyond the recent high to confirm bullish continuation.  \n\nImmediate resistance is observed around 0.69130, coinciding with the intraday peak and a psychological round level. Should this level be breached with conviction, the next target could lie near 0.69250, where prior swing highs offer additional supply. On the downside, support aligns closely with the SMA at 0.68945 and extends to 0.68880, which has historically provided a floor during short-term pullbacks. Maintaining these levels is crucial; a decisive drop below 0.68880 could open the path to 0.68750, exposing the pair to a deeper correction.  \n\nMomentum indicators, though partially limited in this snapshot, hint at restrained bullish pressure. The positive MACD suggests buyers are gradually gaining influence, but the narrow price range and minimal 24-hour change indicate low volatility. This environment favors range-bound strategies, with traders potentially targeting short-term oscillations between identified support and resistance levels. A conservative approach would involve waiting for either a breakout or a clear retest of the SMA for a higher-probability entry.  \n\nFor trading strategy, cautious long positions above 0.6895 could be considered, with initial targets near 0.6913–0.6925 and stop-loss placement below 0.6885 to manage risk. Conversely, short-term traders might explore short entries near resistance, anticipating minor pullbacks toward the SMA. Monitoring macroeconomic news from Australia and the US, particularly interest rate cues, could provide additional context to strengthen trading decisions, as these factors often amplify directional moves in AUD/USD."
+    }
+  }
+}

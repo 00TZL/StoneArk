@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-04-06T05:54:57.947Z",
+  "price": {
+    "close": "1.15269",
+    "high": "1.15297",
+    "low": "1.15237",
+    "open": "1.15246",
+    "change": "0.02",
+    "datetime": "2026-04-06 15:00:00"
+  },
+  "indicators": {
+    "rsi": 56.67262,
+    "macd": 0.000012037254,
+    "macd_signal": -0.000066683556,
+    "sma20": 1.15197
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：短期震荡偏多，关注关键支撑与阻力",
+      "content": "当前欧元/美元价格在1.15269附近运行，整体呈现轻微上行趋势，但24小时波动幅度极小，仅0.02%，显示市场暂时缺乏明确方向。从价格与20日简单移动平均线(SMA20)比较来看，最新价格略高于1.15197的SMA20，暗示短线多头力量略占优势，但上涨动力有限。  \n\n技术指标方面，MACD值为0.000012037254，接近零轴，表明市场多空能量基本平衡，尚未形成明显的趋势信号。RSI数据暂不可用，但结合价格在日内高低点1.15297与1.15237的区间震荡，可以推测短期买卖双方情绪较为谨慎，短线操作需要严格控制风险。  \n\n支撑位关注1.15237日内低点以及SMA20附近支撑，如价格跌破则可能触发进一步回调；阻力位短期在1.15297日内高点，若突破此位置，可短线寻求更高目标至1.1540附近。交易者应关注关键价位的反应，避免盲目追涨杀跌。  \n\n综合来看，短线交易可偏向震荡偏多策略，低位可尝试轻仓买入，高位或接近阻力区域可考虑部分获利了结。风险管理依然重要，建议设置合理止损在1.1515下方，以应对突发波动带来的潜在损失。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD currency pair is currently trading at 1.15269, showing a slight 24-hour change of +0.02%. The price action remains within a narrow range, between the high of 1.15297 and the low of 1.15237. This suggests a consolidation phase with limited volatility. The pair is testing the 1.1530 level, which could act as a resistance, while the low near 1.1520 appears to be a short-term support. A breakout in either direction could provide more clarity on the next major move.\n\nWithout an available RSI value, other indicators must be assessed. The MACD shows a very small positive reading of 0.000012037254, signaling minimal momentum at present. Although the MACD is not yet confirming a strong trend, its positive value suggests the potential for further bullish movement if the pair can break past the 1.1530 resistance. This could open the door for a move toward 1.1550. However, if the price fails to breach the resistance, a return to the 1.1520 support is possible.\n\nThe 20-period simple moving average (SMA) sits at 1.15197, which could provide dynamic support if the market experiences a pullback. If the price falls below this level, there may be an increased risk of further downside toward the 1.1500 region. In contrast, a break above 1.1530 would likely target 1.1550 or higher, confirming bullish continuation. Traders should remain cautious due to the low momentum, opting for short-term trades with careful monitoring of the breakout direction.\n\nConsidering the current market structure and indicators, the EUR/USD remains range-bound with a slight bullish bias. Traders could look to buy near support around 1.1520, with a stop loss slightly below this level, targeting the 1.1530 resistance. A breakout above that resistance might trigger additional bullish momentum. Conversely, a rejection from 1.1530 could offer short opportunities with targets toward 1.1515 or 1.1500, depending on price action."
+    }
+  }
+}

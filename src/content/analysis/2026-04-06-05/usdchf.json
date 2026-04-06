@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-04-06T05:59:24.084Z",
+  "price": {
+    "close": "0.80031",
+    "high": "0.80059",
+    "low": "0.80008",
+    "open": "0.80056",
+    "change": "-0.03",
+    "datetime": "2026-04-06 15:00:00"
+  },
+  "indicators": {
+    "rsi": 50.9368,
+    "macd": 0.00028070217,
+    "macd_signal": 0.00023863442,
+    "sma20": 0.8000945
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：震荡整理中",
+      "content": "目前美元/瑞郎（USD/CHF）处于区间震荡整理阶段，价格在0.80008至0.80059之间波动。市场缺乏强势的趋势信号，短期内可能继续维持小幅波动。当前价格为0.80031，处于中位位置，暗示多空力量较为均衡。\n\n技术指标方面，MACD显示出微弱的上涨动能，但缺乏明显的信号确认，短期内仍可能在狭窄区间内波动。RSI未提供有效参考，因此无法准确判断市场是否进入超买或超卖区域。SMA(20)略高于当前价格，显示出短期内轻微的上行压力，但未形成明确的突破。\n\n支撑位在0.80008附近，若价格跌破此水平，可能会继续向下测试0.79950。阻力位则位于0.80059附近，突破此水平可能会迎来进一步上行。市场目前缺乏明确趋势，交易者应谨慎操作。\n\n建议交易者在当前区间内采取短线操作策略，关注价格在支撑和阻力位附近的反应，避免追高杀跌。建议在支撑位附近考虑买入，在阻力位附近考虑卖出，做好止损保护。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "USD/CHF is showing signs of a subtle consolidation near the 0.8000 psychological level after a relatively tight 24-hour range between 0.80008 and 0.80059. The latest price of 0.80031 is marginally above the 20-period simple moving average at 0.80009, suggesting a tentative bullish bias in the very short term. However, the lack of a significant breakout indicates that market participants are likely awaiting fresh drivers, such as U.S. economic data or Swiss National Bank policy signals, before committing to larger positions.  \n\nThe MACD reading of 0.00028, while positive, offers limited directional clarity due to the missing signal line. This indicates that momentum is present but not strongly confirmed. The RSI is currently unavailable, which makes it difficult to gauge overbought or oversold conditions, but price hovering just above the SMA hints at a neutral-to-slightly bullish environment. Traders may interpret this as a period of low volatility, suitable for monitoring potential breakout points rather than aggressive directional trades.  \n\nSupport can be observed around the 0.8000 round number, which has historically acted as a psychological anchor for USD/CHF. Immediate resistance lies near 0.8006, marking the recent high within the narrow trading window. Breaching these levels with conviction could trigger short-term directional moves: a sustained break above resistance might attract buyers targeting 0.8020, while a drop below 0.8000 could see a pullback toward 0.7985–0.7990. These levels provide a clear framework for risk management and trade planning.  \n\nGiven the current technical setup, cautious range-bound strategies appear appropriate. Short-term traders might consider entering near support with tight stop-loss placement, aiming for the upper boundary of the range, while breakouts should be validated by increased volume or confirming momentum indicators. Swing traders may prefer to wait for either a decisive breakout above 0.8010 or a breakdown below 0.7990, ensuring alignment with broader market sentiment. Overall, USD/CHF remains in a low-volatility phase, with potential for short bursts of directional movement."
+    }
+  }
+}

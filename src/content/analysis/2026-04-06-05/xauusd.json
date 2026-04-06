@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-04-06T06:00:06.850Z",
+  "price": {
+    "close": "4658.29966",
+    "high": "4677.68143",
+    "low": "4658.29966",
+    "open": "4659.03433",
+    "change": "-0.02",
+    "datetime": "2026-04-06 15:00:00"
+  },
+  "indicators": {
+    "rsi": 47.88086,
+    "macd": -8.12185,
+    "macd_signal": -7.62738,
+    "sma20": 4661.43505
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理，短期偏空]",
+      "content": "当前黄金/美元(XAU/USD)价格在4658.30附近，24小时微跌0.02%。市场呈现震荡整理的走势，价格未能突破前期高点4677.68，显示出短期内买盘动能不足。考虑到目前的价格接近SMA(20)的4661.44，可能继续维持在此区间内波动。\n\n技术指标方面，MACD显示-8.12的负值，表明卖盘较为强势，但由于信号线尚未形成，市场方向性仍不明朗。RSI(14)未提供有效的超买超卖信号，因此当前的技术面更多反映出短期的整理状态。\n\n支撑位方面，价格接近4658.30，若突破该点，可能会寻找更强支撑于4600附近。上方阻力位位于4677.68，一旦突破则可能重新测试4700关口。短期内，若价格无法有效突破高点，可能继续维持震荡整理的格局。\n\n交易建议上，若价格回落至4650附近，可考虑做多，但止损应设置在4650下方，以防止进一步下跌。若价格反弹接近4670区域，则可以考虑短期做空，目标看向4650支撑区间。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD pair is currently showing a slight negative movement, with a minimal 24-hour change of -0.02%. The price is holding just above the low of the session at 4658.29966, suggesting a potential consolidation phase. The lack of significant volatility indicates that market participants may be waiting for further direction. Without a clear trend, the market appears to be in a neutral zone, with traders closely watching for a breakout or reversal.\n\nThe MACD value at -8.12185 signals bearish momentum, though the absence of a Signal Line makes it harder to confirm the strength of this trend. This negative reading implies that downward pressure remains, but the lack of a corresponding RSI reading leaves uncertainty about whether the momentum is oversold or overstretched. The market could experience a deeper pullback or could stabilize if the MACD begins to approach zero, indicating potential for a reversal or ranging market.\n\nOn the technical front, the 20-period SMA at 4661.43505 is close to the current price, suggesting a tight trading range. This moving average is likely to act as an immediate resistance point if prices attempt to rise. The lower boundary of the session, 4658.29966, is forming a key support level. A move below this level could expose the pair to further downside risk, with the next significant support potentially lying near 4650 or 4635, where price action has historically found buyers.\n\nFor traders, a cautious approach is recommended in the current market. If the price fails to break above the SMA and stalls near the current resistance, short positions might be considered, targeting the next support zones. Conversely, a close above the SMA could signal a bullish move, and traders should wait for confirmation before entering long positions. In either case, volatility could pick up soon as the market searches for a new direction."
+    }
+  }
+}

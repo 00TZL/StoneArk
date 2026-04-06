@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-04-06T05:58:42.143Z",
+  "price": {
+    "close": "0.57043",
+    "high": "0.57068",
+    "low": "0.57033",
+    "open": "0.57033",
+    "change": "0.02",
+    "datetime": "2026-04-06 15:00:00"
+  },
+  "indicators": {
+    "rsi": 61.23275,
+    "macd": 0.00028913907,
+    "macd_signal": 0.00012075666,
+    "sma20": 0.56922
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理]",
+      "content": "当前纽元/美元(NZD/USD)在0.57043附近维持震荡整理格局。价格在高点0.57068与低点0.57033之间波动，显示出市场缺乏明显的方向性。在这种情况下，短期内很难看出明显的上涨或下跌趋势。\n\n从技术指标来看，当前RSI（相对强弱指数）和MACD的信号都不明确，RSI数据未提供，而MACD则显示出微弱的正值0.00029，表明市场存在一定的买盘力量，但不足以形成强烈的上涨趋势。20日简单移动平均线（SMA20）为0.56922，暗示价格略偏上行。\n\n在支撑和阻力方面，近期价格的支撑位大约在0.57033附近，而阻力位则位于0.57068，市场在这一区间内波动较为频繁。若突破0.57068，可能会看到进一步上涨的机会，反之若跌破0.57033，则可能出现下行风险。\n\n综合来看，短期内建议观望，耐心等待价格突破重要支撑或阻力位后再做进一步操作。若突破上方阻力，可考虑小幅做多，反之则可考虑做空，但需要保持谨慎。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "NZD/USD is trading slightly above its short-term average, with price at 0.57043 versus the 20-period SMA at 0.56922. This positioning suggests a mild bullish bias in the near term, though the narrow daily range reflects low volatility and indecision. The pair appears to be consolidating after a modest recovery, with buyers maintaining control but lacking strong momentum to push decisively higher.\n\nMomentum indicators provide a cautiously supportive backdrop. The positive MACD reading indicates underlying bullish pressure, even though the signal line is unavailable for confirmation. The absence of RSI data limits overbought or oversold assessment, but price behavior near the session high hints at modest upward strength. Still, the subdued price action suggests momentum remains fragile and vulnerable to shifts in sentiment.\n\nImmediate support is seen near the SMA at 0.56920, followed by a stronger floor around 0.56850, where recent consolidation occurred. On the upside, resistance is forming near 0.57070, aligning closely with the session high. A sustained break above this level could open the door toward 0.57200, while failure to hold above the moving average may invite a pullback toward lower support zones.\n\nShort-term trading strategies may favor buying on dips toward 0.56920 with tight risk controls below 0.56850. Alternatively, a breakout approach could be considered if price closes convincingly above 0.57070, targeting incremental gains. Given the low volatility and lack of strong confirmation signals, maintaining disciplined position sizing and waiting for clearer directional cues would be prudent."
+    }
+  }
+}

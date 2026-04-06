@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-04-06T05:57:57.050Z",
+  "price": {
+    "close": "1.39385",
+    "high": "1.39394",
+    "low": "1.39354",
+    "open": "1.3938",
+    "change": "0.00",
+    "datetime": "2026-04-06 15:00:00"
+  },
+  "indicators": {
+    "rsi": 43.4453,
+    "macd": -0.00010573335,
+    "macd_signal": -0.000038671823,
+    "sma20": 1.39431
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[短期震荡整理，未显现明确趋势]",
+      "content": "当前美元/加元（USD/CAD）市场显示出震荡整理的走势。价格在1.39354至1.39394区间内波动，未能突破明显的支撑或阻力位。从短期来看，缺乏强烈的买入或卖出动能，市场保持横盘整理状态。\n\n技术指标方面，RSI和MACD的数据尚不完整，无法提供有效的超买或超卖信号。SMA（20）为1.39431，略高于当前价格，显示出短期内可能存在一定的卖压，但并未显现出明显的反转信号。\n\n支撑位位于1.39354附近，而阻力位则在1.39394区域。如果价格突破1.39431附近的阻力位，可能会出现小幅上涨，反之，跌破1.39354支撑位可能引发进一步下行。\n\n鉴于市场缺乏明显的方向性，建议交易者在震荡区间内采取区间交易策略，谨慎操作，等待突破信号的确认。如果突破支撑或阻力位，可适时考虑调整仓位。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD market is currently holding a narrow range, as the latest price sits at 1.39385, with little movement observed in the last 24 hours. This indicates market indecision or consolidation, especially considering the high and low have barely deviated between 1.39394 and 1.39354. The absence of a significant trend suggests a wait-and-see approach, with potential volatility depending on upcoming market catalysts. Without a clear upward or downward momentum, traders may focus on short-term price fluctuations within this confined range.\n\nLooking at the SMA(20) value of 1.39431, we observe that the current price is slightly below this short-term moving average, which may hint at a potential bearish sentiment, albeit without strong confirmation from other indicators. The market’s hesitation is further evident as the RSI is unavailable, and the MACD remains negative, albeit with a very minor value, suggesting a mild downward pressure. However, with no clear directional momentum from the MACD or RSI, it is difficult to draw definitive conclusions based on these indicators alone at this point.\n\nKey support and resistance levels are crucial for identifying breakout opportunities. The support appears to be just below the low at 1.39354, while resistance can be seen at the SMA(20) around 1.39431. Traders should monitor these levels closely for any breakouts or reversals. A break above the SMA could indicate a possible bullish move, while a dip below the support level may signal further downside. However, both levels are relatively tight, implying that any break could be short-lived unless accompanied by stronger signals.\n\nGiven the current market environment, a cautious approach is advised. Traders should watch for a decisive move either above resistance or below support to set a clear trading direction. A confirmed break of 1.39431 could suggest buying pressure, while a push below 1.39354 would likely trigger selling interest. However, with no clear trend established, using tight stop-losses is recommended to manage potential risk in this range-bound market."
+    }
+  }
+}

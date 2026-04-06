@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-04-06T05:56:24.281Z",
+  "price": {
+    "close": "159.56815",
+    "high": "159.58389",
+    "low": "159.55638",
+    "open": "159.5765",
+    "change": "-0.01",
+    "datetime": "2026-04-06 15:00:00"
+  },
+  "indicators": {
+    "rsi": 44.23386,
+    "macd": -0.0022292906,
+    "macd_signal": 0.0086008077,
+    "sma20": 159.63355
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：短期盘整偏空",
+      "content": "当前美元/日元维持在159.56附近，日内波动幅度有限，价格略低于20日均线SMA(20)159.63，显示短期多头动力减弱。整体趋势呈现横盘整理，市场情绪谨慎，价格缺乏明显突破信号。短期均线压制仍在，需关注是否出现回踩或反弹。  \n\nMACD当前为-0.0022，虽为负值但接近零，表明空头动能不强，市场尚处于观望状态。RSI数据缺失，但结合价格与均线位置，可判断短期超买或超卖信号不明显，市场处于整理区间，趋势偏弱但尚未形成强烈下行。  \n\n支撑位可关注近期低点159.556和159.50附近，如价格跌破此区域，可能触发进一步下行压力。阻力位则在20日均线159.63以及日内高点159.583，若价格突破并稳住，则短线多头有反弹机会。结合盘面，短线操作以低吸高抛为主，避免追涨杀跌。  \n\n交易建议方面，投资者可在接近支撑位159.55-159.56区域尝试小幅买入，止损控制在159.50以下；反之，如价格回升至159.63-159.58阻力区，可考虑短线获利了结或轻仓做空，保持仓位灵活，以应对整理行情的不确定性。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USD/JPY has been hovering near 159.57, showing very little movement over the past 24 hours. The slight downward change of -0.01% indicates indecision in the market, suggesting that traders are waiting for clearer catalysts. Short-term momentum appears muted, with the pair trading just below its 20-period simple moving average at 159.63355. This suggests a mild bearish bias in the near term, but the lack of strong directional movement points to consolidation rather than an immediate trend reversal.  \n\nMomentum indicators reinforce this neutral-to-slightly-bearish outlook. The MACD sits at -0.0022, indicating that selling pressure is modestly stronger than buying pressure. Although the MACD signal line is not available, the negative reading hints at limited downside momentum. The absence of an RSI value makes it harder to gauge overbought or oversold conditions, but the tight trading range between 159.556 and 159.584 points to equilibrium, where neither bulls nor bears currently dominate.  \n\nKey technical levels should guide any short-term trading approach. Immediate support lies at the day’s low of 159.556, with a stronger floor expected near 159.500, a level that previously contained declines. On the upside, resistance is observed at the 20-period SMA around 159.634, with further hurdles at 159.650–159.670. A decisive break above these levels could attract buyers seeking a continuation, while a breach below support may prompt short-term selling pressure.  \n\nTraders might consider a cautious approach, favoring range-bound strategies or small-scale entries. For those looking to buy, waiting for a confirmed bounce from support near 159.556 with volume confirmation may reduce risk. Conversely, short positions could be explored if price decisively closes below the immediate support zone. Risk management remains essential in this low-volatility environment, with tight stop-loss orders advised to avoid whipsaw movements."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-04-06T05:55:40.517Z",
+  "price": {
+    "close": "1.32179",
+    "high": "1.32206",
+    "low": "1.32125",
+    "open": "1.32129",
+    "change": "0.04",
+    "datetime": "2026-04-06 15:00:00"
+  },
+  "indicators": {
+    "rsi": 63.59598,
+    "macd": 0.00023542129,
+    "macd_signal": -0.000021874085,
+    "sma20": 1.32001
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：短期震荡偏多",
+      "content": "当前英镑/美元报价1.32179，较日内低点1.32125略有上行，整体呈现小幅震荡格局。短线价格位于20日简单移动平均线SMA(20) 1.32001之上，显示多头存在一定支撑，但缺乏明显突破动力，行情可能在窄幅区间波动。  \n\nMACD指标显示0.000235的正值，表明多头动能略占优势，但信号线缺失使得趋势确认仍不充分。若RSI可用，将有助于判断超买或超卖状态，当前需依靠价格行为与均线支撑判断短期走势。  \n\n支撑位关注1.3210附近，该区域若有效守住，可提供短线买入机会；阻力位在日内高点1.3220附近，如价格未能有效突破，可能引发回调。短期行情偏震荡，多空双方仍在试探平衡点。  \n\n交易建议上，短线交易者可考虑在支撑位附近低吸，止损设置略低于1.3210，目标可锁定1.3220附近；激进交易者可等待突破确认后顺势跟进。整体策略以谨慎多头为主，避免追涨杀跌，控制风险为核心。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently showing a neutral to slightly bullish trend, trading around 1.32179. The price has remained relatively stable with a modest 24-hour change of just 0.04%. This range-bound movement suggests that the market lacks a strong directional bias at the moment. The high and low of 1.32206 and 1.32125 respectively further emphasize the tight price action, indicating indecision among traders. For a clearer direction, the price must break out of this range, with a focus on key support and resistance levels to provide a clearer picture.\n\nLooking at the indicators, the lack of a definitive RSI reading makes it challenging to gauge market momentum. However, the current MACD value of 0.00023542129 is neutral, suggesting that there is no significant trend at play at this moment. The absence of a clear signal line only reinforces this indecision. This suggests that traders may want to wait for more defined signals before committing to a trade. A cross of the MACD line could indicate a shift in momentum.\n\nThe key support level for the pair is found around 1.32125, while resistance lies just above at 1.32206. If the price breaks below 1.32125, it could signal further bearish movement toward the 1.32000 area, where the SMA(20) is currently positioned. Conversely, a move above 1.32206 could open up the path toward higher levels, potentially targeting 1.32350 or even 1.32500. These levels will act as pivotal points for traders to watch.\n\nGiven the current market conditions, traders may consider waiting for a breakout either above resistance or below support. A confirmation of direction through an increase in volume or momentum would provide a more reliable entry point. Until then, range-bound strategies might be appropriate, with careful monitoring of any MACD or SMA crossovers for additional insights."
+    }
+  }
+}
