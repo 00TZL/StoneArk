@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-04-07T05:43:55.180Z",
+  "price": {
+    "close": "1.32289",
+    "high": "1.32339",
+    "low": "1.32264",
+    "open": "1.3233",
+    "change": "-0.03",
+    "datetime": "2026-04-07 15:00:00"
+  },
+  "indicators": {
+    "rsi": 48.37317,
+    "macd": 0.00015548777,
+    "macd_signal": 0.00040065422,
+    "sma20": 1.32347
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：震荡整理，走势偏弱",
+      "content": "当前英镑/美元价格维持在1.32289附近，处于小幅震荡整理区间内。从短期来看，价格波动幅度较小，显示出市场缺乏明确的方向。考虑到24小时变化较为平稳，整体走势偏向整理。\n\n技术指标方面，RSI和MACD的信号暂时无法确认，意味着市场暂时未出现过度买入或卖出的强烈信号。SMA(20)在1.32347附近略微向下偏移，表明短期内价格处于下行压力中，未能突破该均线，继续承压。\n\n支撑位方面，1.32264为短期的低点，若跌破此位，可能会进一步下探至1.32000附近的更强支撑区域。上行阻力位则在1.32339附近，突破此位置可能会迎来进一步的反弹空间。\n\n交易建议上，当前市场处于震荡区间，建议保持观望，避免在无明显趋势的情况下贸然进场。如果价格突破1.32339，则可考虑做多，目标看向1.32500。如果下破1.32264，则可尝试做空，目标为1.32000。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently exhibiting a subtle bearish bias as it trades at 1.32289. Over the past 24 hours, the currency has shown a minimal decline of 0.03%, indicating limited volatility. The price remains within a narrow range, with the high and low levels at 1.32339 and 1.32264, respectively. This suggests that traders are waiting for a more decisive movement, likely driven by upcoming economic data or market sentiment shifts. \n\nThe lack of a specific RSI value and an unclear MACD signal complicates short-term predictions, making it difficult to assess momentum. However, with the price just slightly below the 20-period Simple Moving Average (SMA) of 1.32347, we can infer a slight bearish pressure. The SMA serves as a dynamic resistance level, which may cap any upward movement. For now, the market seems to be consolidating just below this level, leaving the door open for a potential breakdown or a recovery depending on the next directional shift.\n\nKey support lies at 1.32264, the low of the day, which could act as a short-term floor for the pair. A break below this level would suggest a deeper decline, with 1.32000 and 1.31850 coming into focus as possible targets. On the resistance side, the 1.32339 level has proved significant, and any attempt to break this zone might signal a reversal in sentiment. If the price holds above 1.32347 (SMA), there could be an opportunity for buyers to push toward 1.32500 and higher.\n\nGiven the current market indecision, traders should be cautious of range-bound price action. For conservative strategies, waiting for a breakout above 1.32347 or a breakdown below 1.32264 before taking a position might be prudent. A clear shift in momentum would provide better clarity for entering a more confident trade."
+    }
+  }
+}

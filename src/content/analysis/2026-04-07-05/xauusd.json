@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-04-07T05:48:12.819Z",
+  "price": {
+    "close": "4635.96274",
+    "high": "4660.87568",
+    "low": "4626.72351",
+    "open": "4660.58305",
+    "change": "-0.53",
+    "datetime": "2026-04-07 15:00:00"
+  },
+  "indicators": {
+    "rsi": 41.36189,
+    "macd": -5.94195,
+    "macd_signal": -4.4699,
+    "sma20": 4659.96129
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：近期震荡整理，偏向下行",
+      "content": "当前黄金/美元（XAU/USD）处于震荡整理状态。最新价格为4635.96，较前24小时下跌0.53%。价格在高点4660.88与低点4626.72之间波动，显示出短期内市场缺乏明确的方向。若突破这些区间，可能引发新的价格波动。\n\n技术指标方面，当前未提供RSI(14)的值，但MACD显示-5.94，表明当前市场处于下行压力中，且缺乏强烈的买盘动力。SMA(20)为4659.96，价格略低于该水平，进一步验证了近期的下行倾向。\n\n从支撑与阻力的角度看，当前价格接近4626.72的低点，若下破此水平，支撑位可能下探至4600附近。而4660.88为短期阻力位，若突破该水平，可能会见到更高的价格区间。\n\n在当前震荡行情中，建议交易者保持观望，除非出现明确突破，否则不宜盲目入场。若价格突破上行阻力，可以考虑适度做多；若下行破位，则可以尝试做空。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold is currently experiencing a mild bearish pressure, trading around 4635.96, slightly below the 20-period simple moving average at 4659.96. The price action over the last 24 hours shows a modest decline of 0.53%, signaling short-term downside momentum. The high of 4660.88 and low of 4626.72 suggest that volatility remains contained within this range, highlighting the market's cautious tone. Overall, the trend appears to favor sellers in the short term, though the slope of the SMA indicates only a gentle downward bias rather than aggressive selling pressure.  \n\nThe MACD reading at -5.94 reinforces the current bearish sentiment, suggesting that momentum favors further downside. Although the signal line is not provided, the negative MACD value indicates potential for continued consolidation or minor declines before any recovery. Traders should watch for a crossover below the zero line for confirmation of stronger downward momentum. With the RSI unavailable, reliance on price action and MACD is crucial to gauge potential entry points and identify shifts in momentum.  \n\nImmediate support can be identified near the 4625–4630 zone, which aligns with the recent intraday low. A break below this level could open the path toward the 4600 psychological level, where buyers may step in more decisively. Resistance sits around 4660–4670, slightly above the recent high, representing the short-term ceiling for upward attempts. Price retesting the SMA from below may act as a dynamic resistance, suggesting caution for aggressive long positions.  \n\nFor trading, short-term strategies could focus on selling near resistance with tight stops above 4670, targeting the lower support levels around 4625–4600. Conversely, a sustained breakout above 4670 with volume confirmation may signal a shift to bullish momentum, presenting opportunities for trend-following long positions. Given the subdued volatility, careful risk management and attention to price reaction around key support and resistance zones are essential to navigate this market effectively."
+    }
+  }
+}

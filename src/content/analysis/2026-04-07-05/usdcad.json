@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-04-07T05:46:00.186Z",
+  "price": {
+    "close": "1.39218",
+    "high": "1.39228",
+    "low": "1.39167",
+    "open": "1.39173",
+    "change": "0.03",
+    "datetime": "2026-04-07 15:00:00"
+  },
+  "indicators": {
+    "rsi": 49.34932,
+    "macd": -0.00027969197,
+    "macd_signal": -0.00044842809,
+    "sma20": 1.3917
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理]",
+      "content": "当前美元/加元的价格表现出震荡整理的走势，最新价格为1.39218。根据24小时变化幅度仅为0.03%，市场并未出现明显的方向性突破。虽然价格波动较小，但这种状态可能预示着即将迎来价格的突破或持续整理。\n\n从技术指标来看，RSI和MACD的数据暂时缺失，难以进行详细的超买超卖状态分析。然而，SMA(20)位于1.39170，显示出当前的短期支撑位。若价格向下突破该水平，可能会寻求更低的支撑位，但如果价格上破该均线，则可能会进一步测试更高的阻力位。\n\n在支撑和阻力方面，当前的支撑位位于1.39167附近，而阻力位则接近1.39228。短期内，若价格持续在这两个关键水平之间波动，建议关注可能的突破信号。一旦价格突破上方阻力位，可能会迎来上涨势头，反之，下破支撑位则可能会出现回调。\n\n基于当前震荡整理的市场状态，建议在当前价格区间内操作，短线交易者可考虑在支撑位附近寻找买入机会，而在接近阻力位时则考虑卖出。但需要注意，市场可能随时出现突破，操作时要保持灵活性，及时调整策略。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair has been moving in a relatively narrow range over the past 24 hours, with the latest price at 1.39218. The slight 0.03% change suggests a market in consolidation, with no strong directional bias. The price remains near the 20-period Simple Moving Average (SMA) at 1.39170, signaling equilibrium between buyers and sellers. However, the recent high of 1.39228 and low of 1.39167 indicate that the pair is in a tight trading band, making it susceptible to breakout volatility.\n\nOn the technical indicators front, the MACD value of -0.00027969197, while slightly negative, suggests that downward momentum is weak. With the absence of a defined Signal line or RSI data, the analysis becomes more dependent on price action. The lack of clear momentum may point to a market awaiting more decisive inputs, potentially from macroeconomic news or a shift in sentiment towards either the USD or CAD. Traders should be cautious in positioning until further confirmation emerges.\n\nSupport levels are being formed around the 1.39167 mark, with the immediate resistance near 1.39228. If the price breaks above the resistance level, it could open up further upside potential, possibly towards the next resistance at 1.3950. Conversely, if it fails to maintain above 1.39167 and dips further, the next support level lies at 1.3880. These levels provide traders with a clear structure for risk management.\n\nConsidering the current market context, traders may look for opportunities around these key levels, awaiting a breakout or rejection near support or resistance. As there is no strong trend currently, any trades should consider tight stop losses and the possibility of volatility spikes in either direction. A cautious approach may be advisable until a clearer directional bias emerges."
+    }
+  }
+}

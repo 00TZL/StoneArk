@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-04-07T05:45:19.111Z",
+  "price": {
+    "close": "0.69117",
+    "high": "0.69178",
+    "low": "0.69117",
+    "open": "0.69173",
+    "change": "-0.08",
+    "datetime": "2026-04-07 15:00:00"
+  },
+  "indicators": {
+    "rsi": 48.82504,
+    "macd": 0.000076449149,
+    "macd_signal": 0.00023399816,
+    "sma20": 0.691799
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，突破或将来临]",
+      "content": "当前澳元/美元（AUD/USD）的价格在0.69117附近震荡整理，近期的24小时变化较为平稳，只有-0.08%的微幅下跌。市场似乎处于短期震荡格局内，价格波动范围有限。若继续维持此水平，可能预示着短期内的整理模式。\n\n技术指标方面，MACD指标数值为0.000076449149，虽然数值较小，但仍然表现出一定的上涨动能。由于RSI数据缺失，无法确认市场是否存在超买或超卖的风险，但结合当前的价格走势来看，市场情绪较为平稳。SMA(20)显示支撑位在0.6918，表明短期内这一水平可能会起到一定的支撑作用。\n\n从支撑与阻力来看，当前价格略低于0.6918，意味着短期支撑位附近。若价格突破0.6918并维持稳定，可能会迎来进一步上涨至0.6950附近的阻力位。反之，如果跌破当前支撑位0.6910，可能会出现下行回调。\n\n综合来看，考虑到当前市场的震荡整理状态，建议保持观望。若突破关键支撑或阻力位，可以适时进入市场。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar against the US Dollar (AUD/USD) is currently displaying a relatively neutral trend with the latest price at 0.69117. The price has shown a minimal 24-hour change of -0.08%, indicating consolidation within a narrow range. The pair briefly peaked at 0.69178 before retracing to its current level. This range-bound movement suggests indecision in the market, possibly awaiting further economic data or external catalysts. \n\nLooking at the technical indicators, the absence of a defined RSI (14) leaves us with fewer insights on potential overbought or oversold conditions. The MACD value is 0.000076449149, but without the signal line, it is challenging to draw conclusions about momentum shifts. The short-term trend appears to be neutral, as the price is holding near its 20-period Simple Moving Average (SMA) at 0.69179900. This indicates a lack of clear bullish or bearish bias, with price staying close to the moving average.\n\nKey support and resistance levels are vital in understanding the current price action. The nearest support lies around the lower range of 0.69117, where the market has recently tested and bounced. Should the price break below this level, further downside could target the 0.69000 psychological level. On the upside, resistance is seen at 0.69178, with potential for a further push towards 0.69200 if momentum strengthens. Watch for any breakout above or below these levels to confirm the next directional move.\n\nGiven the neutral outlook, it might be wise to wait for confirmation of price action at key support or resistance levels before making a trade. If a breakout occurs, traders could consider entering positions in the direction of the breakout with a defined stop loss to manage risk. Until then, range-bound strategies might be appropriate, looking for small price movements within established boundaries."
+    }
+  }
+}

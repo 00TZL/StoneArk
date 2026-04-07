@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-04-07T05:44:37.178Z",
+  "price": {
+    "close": "159.80541",
+    "high": "159.82467",
+    "low": "159.72976",
+    "open": "159.74019",
+    "change": "0.04",
+    "datetime": "2026-04-07 15:00:00"
+  },
+  "indicators": {
+    "rsi": 56.83976,
+    "macd": 0.057910411,
+    "macd_signal": 0.045760549,
+    "sma20": 159.69603
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：短期震荡偏强",
+      "content": "近期美元/日元在159.70-159.82区间震荡，价格略高于20日均线159.696，显示短期内多头略占优势，但整体动能有限。价格未能突破上方159.825阻力，短线仍存在回落压力。  \n\nMACD数值为0.0579，虽显示多头动能存在，但信号线数据缺失使动能确认不足，需要关注后续柱状图变化。RSI指标暂不可用，难以通过超买超卖判断超短期反转，但价格贴近均线，说明震荡格局明显。  \n\n关键支撑位在159.73附近，若跌破该位置，可能引发短线回调至159.70或更低区域；阻力位则在159.825及160.00整数关口，突破后或打开上行空间。短线交易可围绕支撑进行低吸，阻力附近适当减仓。  \n\n操作建议上，短线偏向震荡交易策略，关注价格对SMA20支撑的反应，若稳住可尝试小仓位多单；若跌破支撑，需谨慎控制风险。中线则建议等待明确突破信号后再考虑趋势性跟随。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USD/JPY is currently exhibiting a cautiously bullish posture, hovering around 159.805. Price action has remained confined within a narrow intraday range, suggesting consolidation after recent gains. The market's reaction near the 159.824 intraday high indicates a potential resistance zone, while the intraday low of 159.729 provides immediate support. Short-term momentum appears stable, with the 20-period SMA at 159.696 acting as a dynamic support level, helping to sustain price above recent lows.  \n\nThe MACD shows a modest positive reading of 0.0579, implying a mild bullish bias, although the absence of a signal line limits precise trend confirmation. Traders should note that the small 24-hour change of 0.04% points to low volatility, meaning breakout opportunities may require patience. This environment favors a wait-and-see approach, with an emphasis on identifying strong momentum triggers before entering new positions.  \n\nKey technical levels to monitor include resistance near 159.825–159.840, where repeated attempts to breach could confirm further upside. On the downside, support zones at 159.730–159.700 may hold if short-term selling pressure intensifies. A decisive break above resistance could see the pair testing 160.00, whereas failure to sustain above SMA support might trigger a retracement toward 159.500. These levels can guide both intraday scalps and short-term swing trades.  \n\nTrading strategies should be adaptive, favoring entries aligned with confirmed momentum. For bullish scenarios, buying on dips near SMA support could provide favorable risk/reward, with stops just below 159.690. Conversely, traders seeking short exposure may consider resistance rejections, particularly if accompanied by accelerating bearish MACD momentum. Overall, the market remains balanced, suggesting measured positions and disciplined risk management are essential while waiting for a clear directional signal."
+    }
+  }
+}

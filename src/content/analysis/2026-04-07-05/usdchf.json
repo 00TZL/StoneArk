@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-04-07T05:47:31.552Z",
+  "price": {
+    "close": "0.7991",
+    "high": "0.79916",
+    "low": "0.79846",
+    "open": "0.79867",
+    "change": "0.05",
+    "datetime": "2026-04-07 15:00:00"
+  },
+  "indicators": {
+    "rsi": 52.72212,
+    "macd": 0.000023548077,
+    "macd_signal": -0.00015497014,
+    "sma20": 0.7983095
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[短期震荡，等待突破]",
+      "content": "当前美元/瑞郎（USD/CHF）在0.7991附近震荡整理，价格较为稳定。近期价格波动较小，24小时内仅变化0.05%。这一走势表明市场缺乏明确的方向，投资者情绪趋于谨慎。\n\n技术指标方面，MACD指标显示微弱的正值，暗示短期内可能存在上行压力。然而，RSI(14)数据缺失，无法提供进一步的超买或超卖信号。20日简单移动平均线（SMA）位于0.7983附近，价格略高于这一水平，表明短期内可能会有支撑。\n\n从支撑与阻力来看，当前的支撑位大致在0.7985附近，而阻力位则在0.7995到0.8000区间。如果价格突破上行阻力，可能会引发进一步的上涨趋势。反之，若价格跌破支撑位，可能会测试更低的水平。\n\n交易建议方面，建议保持观望，等待价格突破关键的支撑或阻力位。如果突破0.8000上行，可以考虑适度做多；而跌破0.7985则可考虑做空。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently trading at 0.7991, reflecting a modest 24-hour change of 0.05%. The price has been relatively stable within a tight range between 0.79846 and 0.79916, showing limited volatility. From a trend perspective, the pair appears to be consolidating in a narrow range, with no clear upward or downward momentum. This lack of directional movement suggests that market participants are awaiting more significant catalysts, such as economic data or central bank statements, to dictate future price action.\n\nIn terms of technical indicators, the absence of a well-defined RSI (14) and the lack of clear signal on the MACD suggest a neutral market bias. The MACD value is extremely small, which points to a lack of momentum, confirming the consolidation phase. Similarly, the SMA (20) at 0.7983 indicates a slight bearish tilt in the near-term, but it is not strong enough to suggest a major trend reversal. This implies that the market may continue to trade sideways unless there is a significant shift in underlying fundamentals.\n\nSupport for the USD/CHF pair is seen around 0.79846, which has been tested recently. Should the price break below this level, the next strong support could be found at 0.7950. On the other hand, resistance is positioned just above the current price near the 0.7992 level, with further resistance at 0.8020. These levels will be crucial to watch, as a breakout above or below these thresholds could signal the next directional move for the pair.\n\nTraders should remain cautious given the current lack of momentum. A break above 0.7992 could open the door for a short-term bullish move towards 0.8020. Conversely, a drop below 0.79846 may trigger a bearish sentiment, leading the price towards the 0.7950 support. Given the neutral indicators, a range-bound strategy with tight stop-loss orders would be prudent in this environment."
+    }
+  }
+}
