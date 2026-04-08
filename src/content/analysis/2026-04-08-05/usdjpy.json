@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-04-08T05:45:00.438Z",
+  "price": {
+    "close": "158.34339",
+    "high": "158.40511",
+    "low": "158.32791",
+    "open": "158.36707",
+    "change": "-0.01",
+    "datetime": "2026-04-08 15:00:00"
+  },
+  "indicators": {
+    "rsi": 20.2464,
+    "macd": -0.36452021,
+    "macd_signal": -0.23816369,
+    "sma20": 159.28877
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：震荡整理，短期承压",
+      "content": "美元/日元目前处于震荡整理的状态，价格在158.32791和158.40511之间波动，未显示明显的单边走势。当前的价格略低于20日简单移动平均线（SMA20），这可能意味着短期内存在一定的卖压，暗示空头可能稍占优势。\n\nRSI和MACD未提供明确的方向性信号。虽然MACD为负值，但没有形成明确的下行趋势，且RSI数据缺失，这使得趋势的确认较为困难。交易者应关注价格是否突破近期区间并寻求趋势延续的信号。\n\n支撑位位于158.32791附近，一旦价格下破该位，可能会进一步向下探寻158.00区域。阻力位则在158.40511处，如果突破这一位置，可能会迎来更大的反弹空间，短期内有望回升至159.00上方。\n\n建议交易者保持观望，尤其是在震荡行情中，避免过早进场。可关注支撑和阻力区间的突破，待价格确认突破后再考虑操作。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently experiencing mild downward pressure, with the latest price at 158.34339, reflecting a subtle negative change of -0.01% over the past 24 hours. The market is trading near the lower range of the day, as evidenced by the high/low range of 158.40511 to 158.32791. This suggests a consolidation phase, with limited momentum in either direction. Given the proximity to the lower bound of the recent price range, there may be a potential for a short-term reversal if buyers step in near 158.33, a key support level.\n\nLooking at the technical indicators, the absence of RSI and the MACD reading at -0.36452021 indicate weak bearish momentum, though the lack of a signal line makes the interpretation somewhat unclear. The negative MACD value suggests a possible bearish bias, but the absence of a confirmed cross of the signal line leaves traders with limited guidance. Without a strong momentum shift, the current price level suggests that the pair is in a neutral to mildly bearish trend, awaiting further confirmation through price action or a change in momentum indicators.\n\nThe 20-period simple moving average (SMA) at 159.28877 is a significant resistance level for the pair. If the price manages to reclaim this level, it could signal a shift toward a more bullish stance. The SMA is often seen as a key dynamic resistance in shorter-term timeframes, and the price has been consistently below it, reinforcing the bearish tone. Traders should keep an eye on price action near the SMA for potential breakout opportunities.\n\nIn terms of trading strategy, for those with a bearish outlook, selling near resistance levels (around 158.40) could be a viable option, targeting 158.33 for a potential support test. Alternatively, a strong break above the SMA may prompt traders to flip to a bullish stance, looking for a move back toward 159.00 or higher. Risk management is essential, given the low volatility and uncertainty surrounding the momentum indicators."
+    }
+  }
+}

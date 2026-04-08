@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-04-08T05:47:11.131Z",
+  "price": {
+    "close": "0.58406",
+    "high": "0.58413",
+    "low": "0.58307",
+    "open": "0.5833",
+    "change": "0.13",
+    "datetime": "2026-04-08 15:00:00"
+  },
+  "indicators": {
+    "rsi": 79.76712,
+    "macd": 0.0031939589,
+    "macd_signal": 0.0021295858,
+    "sma20": 0.575065
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：短期震荡整理，突破待定",
+      "content": "当前纽元/美元（NZD/USD）处于震荡整理区间内，价格波动相对较小，显示出市场在关键水平附近的犹豫状态。近期价格保持在0.5830至0.5841之间波动，未能明确突破上下边界，这提示市场缺乏明确的趋势动能。\n\n技术指标方面，当前MACD为0.0031939589，说明短期内有一定的买盘力量，但由于信号线数据缺失，难以确认强势反转。RSI（14）数据无法获取，因此我们暂时无法依据此指标评估超买或超卖的情况。不过，SMA(20)位于0.5751，表明短期内该价位为较强支撑位。\n\n在支撑/阻力方面，0.5830和0.5841形成了短期阻力区，若价格突破上行，可能会测试0.5850附近的下一阻力位。下方支撑位则位于0.5830附近，突破该支撑可能会导致价格回调至0.5800区域。\n\n综合来看，当前市场趋势较为平淡，建议短期内可以关注0.5830至0.5841区间的价格波动，耐心等待突破信号。若突破上行，可考虑逢低买入，反之则可逢高卖出。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently showing signs of a consolidating trend, with the latest price at 0.58406. The slight 24-hour price change of 0.13% suggests a period of indecision in the market. This indicates that traders are awaiting clearer signals for a more decisive move. The pair has been oscillating between a high of 0.58413 and a low of 0.58307, which points to a narrow trading range in the short term. This is typical of a market that is consolidating before a potential breakout.\n\nFrom a technical standpoint, the Relative Strength Index (RSI) is currently unavailable, which limits the ability to assess overbought or oversold conditions. However, the Moving Average Convergence Divergence (MACD) value at 0.0032 suggests minimal momentum in either direction. A signal line is not available, which makes it difficult to pinpoint a clear buy or sell signal from the MACD alone. This suggests that the market is in a neutral phase, with price action being the primary indicator for potential trades.\n\nThe 20-period Simple Moving Average (SMA) at 0.57507 has been a crucial level of support, indicating that any downward moves could face resistance at this level. If the price maintains its current position above this support, there may be potential for a continuation of the upward movement towards the resistance levels around 0.58500. Conversely, a break below this support could signal a bearish shift in sentiment, with possible moves towards lower levels such as 0.57300.\n\nTraders should consider a cautious approach at this stage, awaiting further clarity from market signals. A breakout above 0.58500 could present a buying opportunity, especially if accompanied by stronger momentum indicators. Conversely, a sustained dip below the 0.58300 level would suggest a bearish trend, with opportunities to sell the pair. Both short-term and long-term traders should be mindful of the narrow range and remain patient for more decisive technical signals."
+    }
+  }
+}

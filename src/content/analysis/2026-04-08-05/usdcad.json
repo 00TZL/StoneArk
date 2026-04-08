@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-04-08T05:46:27.483Z",
+  "price": {
+    "close": "1.38312",
+    "high": "1.38373",
+    "low": "1.38301",
+    "open": "1.3835",
+    "change": "-0.03",
+    "datetime": "2026-04-08 15:00:00"
+  },
+  "indicators": {
+    "rsi": 18.59869,
+    "macd": -0.0022012921,
+    "macd_signal": -0.0016923129,
+    "sma20": 1.388
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：短期偏弱震荡",
+      "content": "当前美元/加元维持在1.38312附近波动，较24小时前微幅下跌0.03%，显示短期多空力量相对均衡，但整体略偏弱。价格徘徊在当天高低点1.38373与1.38301之间，短线波动幅度有限，暗示市场缺乏明显突破动力。  \n\nMACD为-0.0022，处于零轴下方，表明短期空头力量略占优势，但信号线未提供明确交叉，需警惕反弹压力。SMA(20)在1.38800上方运行，当前价格低于均线，暗示短期可能延续弱势震荡。缺少RSI数据，短线超买超卖判断需结合价格行为和成交量辅助判断。  \n\n支撑位上看，1.38300是近期低点区域，下破可能引发进一步下探；阻力位则在1.38800附近，与20日均线重合，是短期回升的关键阻力。若价格未能有效突破该水平，多头可能面临承压回落。  \n\n交易策略上，短线可关注逢高做空机会，止损可设在1.38850上方；激进交易者可在支撑位1.38300附近试探短多，但需谨防假突破。总体而言，当前市场偏弱震荡为主，建议以顺势操作为主，谨慎追涨杀跌。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently hovering near 1.38312, showing a slight 24-hour decline of -0.03%. This minor pullback suggests a consolidation phase after a recent period of fluctuation. Price action remains within a narrow range, trading between the high of 1.38373 and the low of 1.38301. The market is not showing any immediate signs of a strong directional move, suggesting that traders may be waiting for more definitive momentum or news to drive further movement. \n\nLooking at the technical indicators, the RSI is unavailable, leaving a gap in momentum analysis. The MACD reading at -0.0022 indicates a subtle bearish sentiment, but the lack of a Signal line makes it difficult to gauge the momentum shift precisely. This hints at an indecisive market, where sellers may have a slight edge, but any sustained move lower seems unlikely without further confirmation. The absence of major crossovers or extreme readings suggests limited trading opportunities based purely on momentum indicators.\n\nThe current support level appears to be around 1.38301, and a break below this could open the door to testing lower levels, potentially targeting the SMA(20) near 1.38800. The resistance zone is capped at 1.38373, which if breached, could trigger a push toward higher levels. Given that the market is currently trading close to these levels, a break in either direction could provide a clearer picture of the next trend. Traders should monitor price action closely for any breakout above or below these levels.\n\nFor trading, consider a breakout strategy around these key levels. A break below 1.38301 may present a selling opportunity with targets around 1.38100, while a breakout above 1.38373 could suggest buying with a potential target near 1.38800. Traders should keep a close watch on any changes in the MACD or a shift in momentum for further confirmation. Patience and careful observation are advised in such a tight range-bound market."
+    }
+  }
+}

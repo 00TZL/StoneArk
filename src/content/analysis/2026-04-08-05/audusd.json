@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-04-08T05:45:45.507Z",
+  "price": {
+    "close": "0.70743",
+    "high": "0.70754",
+    "low": "0.70648",
+    "open": "0.7067",
+    "change": "0.10",
+    "datetime": "2026-04-08 15:00:00"
+  },
+  "indicators": {
+    "rsi": 75.93409,
+    "macd": 0.0038290689,
+    "macd_signal": 0.0030627357,
+    "sma20": 0.6993705
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，短期看涨]",
+      "content": "当前澳元/美元（AUD/USD）价格为0.70743，处于震荡整理的区间内。价格已触及日内高点0.70754，接近短期阻力位0.70800附近，表明市场尚未完全突破上行压力。短期内，走势可能维持在0.70650至0.70800区间震荡，等待更明确的技术信号。\n\n从技术指标来看，MACD当前值为0.0038，虽然未提供信号线数据，但这一值显示出市场略微偏向多头。由于RSI数据缺失，无法准确判断超买或超卖状态，然而结合现有的SMA(20)为0.69937，显示出价格在均线附近有一定的支撑。整体而言，当前市场呈现出轻微的看涨趋势。\n\n在支撑和阻力方面，0.70650和0.70800分别是关键的支撑和阻力位。若价格突破0.70800，可能进一步测试0.71000的上行空间；若跌破0.70650，可能会回撤至更低的支撑区间。需要关注价格突破这些关键水平的反应。\n\n建议投资者关注短期内的震荡行情，操作时可以考虑在支撑位附近进行低买，在阻力位附近适当卖出，若突破上方阻力可适量持有多头仓位。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently displaying a neutral to slightly bullish trend, with a price of 0.70743, showing a modest 0.10% increase in the last 24 hours. The pair’s recent movement has been confined within a tight range, with a high of 0.70754 and a low of 0.70648. This price action suggests a period of consolidation as traders wait for further cues from economic data or market sentiment to trigger a more significant move. The recent price behavior indicates that a potential breakout could occur depending on external factors such as global risk sentiment or domestic economic announcements.\n\nFrom a technical standpoint, the current price is comfortably above the 20-period simple moving average (SMA), which stands at 0.69937. This implies that the pair has been in a mild uptrend, as prices are holding above this key moving average. However, without a clear RSI reading, we lack momentum confirmation. The MACD is positive at 0.0038, but its signal line is not provided, making it difficult to assess the strength of the trend. If the MACD continues to rise or a signal line is provided, it could suggest strengthening bullish momentum.\n\nKey support for the AUD/USD pair lies at the 0.70648 level, which aligns with the recent low. If this level holds, the price could potentially bounce higher. On the resistance side, the immediate zone to watch is near the 0.70754 high. A break above this level may target higher levels, possibly around the 0.7100 mark. Traders should monitor these levels closely for any significant moves, especially given the lack of momentum indicators.\n\nFor trading, a cautious approach is advisable, as the pair is currently consolidating. Traders could look for potential buy signals above the 0.70754 resistance or consider shorting if the price fails to hold the support at 0.70648. A break below this level would suggest a bearish outlook, with the next support level potentially around 0.70500. It’s important to stay alert to broader market trends, as they could drive sudden price action."
+    }
+  }
+}

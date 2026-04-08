@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-04-08T05:43:35.395Z",
+  "price": {
+    "close": "1.16891",
+    "high": "1.16892",
+    "low": "1.16751",
+    "open": "1.16757",
+    "change": "0.11",
+    "datetime": "2026-04-08 15:00:00"
+  },
+  "indicators": {
+    "rsi": 80.4459,
+    "macd": 0.0035236684,
+    "macd_signal": 0.0028599402,
+    "sma20": 1.16155
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：震荡整理，短期可能偏向上行",
+      "content": "当前欧元/美元的价格呈现震荡整理的走势。价格保持在1.1675至1.1689区间内，短期内缺乏强劲的方向性突破。从当前市场结构来看，价格可能会继续在这个区间内波动，若突破上方1.1690附近的阻力位，有可能带来进一步的上行空间。\n\n虽然RSI(14)目前未能提供明确的超买或超卖信号，但MACD显示出微弱的多头动能，暗示当前市场上行的潜力。20日简单移动平均线（SMA(20)）也为1.16155，显示出潜在的支撑力度，若价格下行突破1.1675支撑位，可能会向该均线回调。\n\n在技术面上，1.1675是关键支撑位，若跌破则可能进一步回探1.1615附近的支撑。而上方的1.1690则是短期的重要阻力位，若突破该位，价格有可能进一步走高至1.1720或更高。\n\n建议短期内维持震荡区间操作，关注价格突破1.1690的可能性。若突破，考虑适当的多头布局；若跌破1.1675支撑，则建议谨慎观望或考虑空头策略。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently experiencing a mild upward movement, with the latest price sitting at 1.16891, up by 0.11% in the last 24 hours. This slight increase suggests that the market remains in a neutral to slightly bullish stance. Over the past 24 hours, the pair has traded within a tight range, from 1.16751 to 1.16892. This tight price action indicates a lack of significant momentum in either direction, with price potentially consolidating or preparing for a breakout.\n\nLooking at the technical indicators, we can observe that the pair is still in a relatively stable position. The MACD is positive at 0.0035, indicating that there is more buying pressure than selling pressure, but the absence of a signal line makes it harder to draw any immediate conclusions from this data alone. The Relative Strength Index (RSI) is unavailable for this analysis, but the absence of overbought or oversold readings suggests that the market is not yet in an extreme condition, making it prone to further consolidation or gradual movement.\n\nThe 20-period simple moving average (SMA) is currently at 1.16155, and it acts as a key support level. A retracement back towards this level would present a buying opportunity if the price remains above it. On the other hand, if the EUR/USD pair falls below 1.16155, it could signal a bearish trend, with a potential move towards the next major support around 1.16000. Resistance is seen near the high of 1.16892, and a break above this level could push the price further towards 1.17000.\n\nTraders should focus on watching for a breakout either above 1.16892 or below the 20-SMA support at 1.16155 to make informed decisions. A confirmed move above 1.16892 could trigger further upside momentum, while a breach below 1.16155 would likely prompt a shift towards a bearish short-term outlook."
+    }
+  }
+}

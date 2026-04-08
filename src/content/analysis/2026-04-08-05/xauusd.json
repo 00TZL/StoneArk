@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-04-08T05:48:34.444Z",
+  "price": {
+    "close": "4824.95304",
+    "high": "4825.93488",
+    "low": "4801.974",
+    "open": "4803.10798",
+    "change": "0.45",
+    "datetime": "2026-04-08 15:00:00"
+  },
+  "indicators": {
+    "rsi": 72.20315,
+    "macd": 42.12252,
+    "macd_signal": 32.1106,
+    "sma20": 4725.83042
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短期震荡整理，略有上涨趋势",
+      "content": "目前，黄金/美元（XAU/USD）呈现出短期震荡整理的格局。价格稳定在4800附近，未出现明显的突破。由于市场处于高位震荡，当前的上涨趋势较为温和，但整体来看，黄金价格仍偏向于小幅上行。\n\n技术指标方面，MACD显示42.12的正值，表明市场存在一定的买盘力量。虽然RSI数据缺失，但结合SMA(20)位于4725.83附近，黄金价格仍有一定的支撑力度。短期内，若价格突破前高4825.93，可能会进一步上涨，挑战更高的价格区间。\n\n支撑位方面，4801.97提供了初步的支撑，若价格回落至此位置，可能会再次受到支撑。阻力位则位于高点4825.93附近，一旦突破，黄金有望突破当前的震荡区间，进一步走强。若价格突破此阻力，可能会带来更大的上涨空间。\n\n综合来看，黄金/美元的短期走势偏向震荡整理，但若突破阻力位，建议可以考虑适量的买入操作。止损设置在4800附近，以应对可能的回撤风险。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current price of XAU/USD stands at 4824.95, reflecting a slight 0.45% increase over the last 24 hours. The market shows a subtle bullish movement as it remains close to the recent high of 4825.93, suggesting ongoing upward momentum. The price has bounced off the low of 4801.97, indicating that support at this level is holding firm. If the upward trend continues, the next resistance level could be near 4850, with further potential towards 4900.\n\nWithout a current RSI value, the analysis of overbought or oversold conditions remains unclear. However, the MACD at 42.12 suggests the presence of positive momentum, which could signal a continuation of the bullish trend. As the MACD does not show any crossover, the trend is likely to persist unless we see a significant pullback or shift in market sentiment. If the market sustains above the SMA(20) of 4725.83, the upward trend would be supported.\n\nThe 20-period simple moving average (SMA) at 4725.83 is a key indicator, and its position below the current price suggests an uptrend. If the price holds above this level, it will provide a solid support area for potential pullbacks. Any move back towards the SMA could present an opportunity for buying if the overall trend remains bullish. A break below the SMA might signal a potential trend reversal or consolidation phase.\n\nGiven the current bullish sentiment and solid support levels around 4801, traders might consider entering long positions near these levels, with a stop loss just below 4800 to manage risk. The primary targets would be the resistance around 4850 and potentially 4900, but traders should remain vigilant for any signs of bearish reversal or significant shifts in momentum."
+    }
+  }
+}
