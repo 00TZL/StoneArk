@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-04-09T05:47:33.808Z",
+  "price": {
+    "close": "1.38489",
+    "high": "1.38494",
+    "low": "1.3846",
+    "open": "1.38486",
+    "change": "0.00",
+    "datetime": "2026-04-09 15:00:00"
+  },
+  "indicators": {
+    "rsi": 45.75663,
+    "macd": -0.00048835675,
+    "macd_signal": -0.00067399657,
+    "sma20": 1.385
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：震荡偏弱整理格局",
+      "content": "目前美元/加元维持在1.3848附近，短线呈现窄幅震荡，价格略低于20日均线1.3850，显示市场多空力量暂时平衡，但整体略偏弱。高低点几乎持平，短期趋势缺乏明确方向，适合观望为主。  \n\nMACD指标显示红柱转弱，负值逐渐扩大，表明下行动能略增强，但缺乏配套信号线确认，短期价格可能继续在1.3846-1.3850区间震荡。RSI未提供具体数值，但从价格行为来看，超买超卖压力不明显，多空双方仍在试探。  \n\n支撑位关注1.3846，若跌破可能引发进一步下探压力；阻力位位于1.3850附近，突破需伴随成交量增加方可确认。均线附近短线交错，提示多空力量暂时僵持，行情偏向区间整理。  \n\n交易策略上，建议短线交易者保持谨慎，逢高可考虑轻仓空单，逢低可关注试探支撑的反弹机会；中线投资者可等待突破确认后再介入，以降低震荡风险。整体操作需结合价格行为与成交量动态，严格控制止损，避免追涨杀跌。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently trading at 1.38489, showing minimal change in the past 24 hours, indicating a relatively quiet market. Despite this, the price is consolidating near a key level, with the high and low for the day ranging between 1.38494 and 1.3846. This range-bound price action suggests a lack of momentum, and the market is likely waiting for a catalyst to drive the next significant move. The lack of a clear directional trend makes it important for traders to stay cautious.\n\nThe absence of a current RSI reading complicates the evaluation of overbought or oversold conditions. However, the negative MACD value of -0.00048835675 signals slight bearish pressure. The MACD histogram's lack of significant divergence with the price action further confirms a neutral outlook, with potential for either a short-term pullback or consolidation before a trend resumes. Traders should monitor for any change in MACD behavior as it could provide hints for an upcoming shift in market sentiment.\n\nThe price is also sitting just above the 20-period Simple Moving Average (SMA) at 1.38500. The SMA can act as dynamic support or resistance, and a failure to break significantly above this level may signal further stagnation or downside pressure. A close below the SMA could prompt a test of the 1.3846 support level, where price has already shown some intraday support. A break below this would expose lower levels, possibly targeting 1.3830 or beyond.\n\nGiven the current market conditions, a cautious approach is recommended. If the price fails to rise above the 1.38500 level, it could signal a bearish continuation, particularly if the MACD remains negative. Conversely, a break above this resistance could shift the short-term bias to a bullish continuation. Tight stop-loss strategies around 1.3846 and 1.38550 should be employed for risk management."
+    }
+  }
+}

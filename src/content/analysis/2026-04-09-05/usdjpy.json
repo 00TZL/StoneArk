@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-04-09T05:46:07.236Z",
+  "price": {
+    "close": "158.81554",
+    "high": "158.82578",
+    "low": "158.73343",
+    "open": "158.73758",
+    "change": "0.05",
+    "datetime": "2026-04-09 15:00:00"
+  },
+  "indicators": {
+    "rsi": 54.7468,
+    "macd": -0.0037754245,
+    "macd_signal": -0.06956805,
+    "sma20": 158.54438
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：短期震荡偏强",
+      "content": "目前美元/日元报价158.81554，较24小时前小幅上涨0.05%，整体维持高位震荡态势。价格仍高于20日简单移动均线(SMA20)158.54438，显示多头略占上风，但涨幅有限，短期可能延续横盘整理格局。  \n\nMACD显示负值-0.0037754245，尽管略偏空，但未形成明显死叉，表明短线动能偏弱且缺乏明确方向。若RSI补充后显示超买或超卖，将更利于判断短期回调压力或反弹空间。当前价格靠近日内高点158.82578，需警惕潜在阻力。  \n\n技术上，支撑位可关注158.73343低点及SMA20附近区域，若跌破则可能引发短线回调；阻力位则在158.82578及159整数关口附近，多头若突破将打开进一步上行空间。价格在高位盘整，需留意突破信号以确认趋势延续。  \n\n交易策略上，可采取短线区间操作，低位轻仓多、接近阻力轻仓空为主，严格设置止损。若价格稳定突破159关口，可考虑跟随趋势加仓多单，同时关注日内波动幅度，避免过度追涨。整体短期偏强，谨防回调风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USD/JPY is currently consolidating near the 158.815 mark after showing modest upward momentum over the past 24 hours. The pair remains above its 20-period simple moving average at 158.544, suggesting a short-term bullish bias. Price action is relatively tight between the recent high of 158.825 and low of 158.733, indicating a period of indecision among market participants. This lateral movement could precede a stronger directional move once a breakout occurs.  \n\nDespite the absence of a complete MACD signal, the negative MACD reading at -0.0038 hints at slight underlying bearish momentum. Traders should exercise caution until a clear crossover or divergence confirms the next directional trend. The lack of RSI data limits overbought or oversold insights, but the price’s proximity to the moving average suggests equilibrium between buyers and sellers in the short term. Monitoring MACD behavior alongside price action is key for anticipating momentum shifts.  \n\nKey support is identified around 158.544, coinciding with the SMA(20), while immediate resistance is located near the 158.825 high. A decisive break above resistance could open a path toward 159.000, attracting momentum-driven buyers. Conversely, a breach below support may expose the 158.400–158.450 zone, inviting short-term sellers. These levels provide actionable reference points for intraday traders aiming to capture breakout or reversal opportunities.  \n\nGiven current conditions, range-bound strategies are advisable in the short term, focusing on buying near support and selling near resistance. Swing traders may prefer waiting for a confirmed breakout with volume confirmation to reduce risk exposure. Proper risk management, including tight stop-loss placement below support or above resistance, is essential. Overall, USD/JPY shows cautious optimism, but market participants should remain alert to sudden volatility shifts driven by global economic data or geopolitical developments."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-04-09T05:44:38.934Z",
+  "price": {
+    "close": "1.16634",
+    "high": "1.16673",
+    "low": "1.16619",
+    "open": "1.16672",
+    "change": "-0.03",
+    "datetime": "2026-04-09 15:00:00"
+  },
+  "indicators": {
+    "rsi": 51.09323,
+    "macd": 0.00039767037,
+    "macd_signal": 0.00080768701,
+    "sma20": 1.16745
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：短线震荡偏弱",
+      "content": "当前欧元/美元处于1.1663附近，价格紧贴20日简单移动均线(SMA20)下方，显示短期均线压力略强，整体短线偏弱。昨日高低波动极窄，市场缺乏明确方向，多空交织，短线趋势以震荡整理为主。  \n\nMACD指标显示主线略高于零轴，暗示多头动能有限，但信号线数据缺失，需要关注后续动能变化。如果后续MACD向上发散，则可能出现短线反弹，但当前看空头压力占优。RSI数据未提供，但价格维持均线下方，可推测短期仍在弱势区间运行。  \n\n支撑位方面，近期低点1.1662为首要支撑，跌破可能进一步下探至1.1655区域；阻力位在SMA20附近1.1674，如能有效突破，则短线反弹空间可拓展至1.1680一线。价格区间收窄，交易机会以突破和回踩策略为主。  \n\n交易建议上，短线投资者可关注低位承接的多单机会，但须严格设置止损在1.1660下方；激进者可等待价格突破1.1675上方，捕捉反弹动能。总体来看，欧元/美元短线仍偏弱，操作上宜控制仓位，避免追高。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently navigating a narrow range, with the latest price at 1.16634, slightly below the 20-period simple moving average of 1.16745. This positioning suggests a mild bearish undertone in the short term, as the price struggles to maintain momentum above the SMA. The minor 24-hour decline of 0.03% reflects market indecision, with buyers and sellers balancing near the mid-range of recent daily highs and lows. Trendwise, the pair remains in a consolidative phase rather than a decisive directional move.  \n\nMomentum indicators offer subtle insights. The MACD shows a positive reading of 0.000398, indicating that short-term momentum slightly favors the bulls, though the absence of a signal line limits confirmation of a crossover. With RSI data unavailable, reliance on SMA and MACD becomes more critical. The juxtaposition of price below the SMA with a modestly positive MACD hints at potential short-term pullbacks, though sustained strength above the moving average would be necessary to confirm a bullish shift.  \n\nKey levels to monitor include immediate support around 1.16600, where recent intraday lows have held, and resistance near 1.16770, close to the daily high and SMA. A decisive break below support could open the door for a retest of the 1.16550 zone, while a firm move above 1.16770 could signal a short-term bullish breakout. These levels offer clear reference points for traders seeking intraday opportunities or swing positions.  \n\nFor trading strategy, cautious approaches are advised due to the current lack of strong directional confirmation. Short-term traders might consider scalping near support and resistance zones, with tight stop-loss orders to manage risk. Medium-term traders could await a break and close above 1.16770 to confirm bullish momentum or below 1.16600 for bearish continuation. Overall, EUR/USD remains range-bound, and patience for confirmed directional signals is recommended before committing to significant positions."
+    }
+  }
+}

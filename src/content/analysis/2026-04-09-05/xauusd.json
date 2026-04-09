@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-04-09T05:49:48.695Z",
+  "price": {
+    "close": "4720.85827",
+    "high": "4726.52588",
+    "low": "4712.21915",
+    "open": "4721.92193",
+    "change": "-0.02",
+    "datetime": "2026-04-09 15:00:00"
+  },
+  "indicators": {
+    "rsi": 45.76832,
+    "macd": -8.87063,
+    "macd_signal": -5.45917,
+    "sma20": 4739.28776
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短期震荡偏弱趋势",
+      "content": "目前黄金/美元价格在4720附近徘徊，短期呈现轻微下行压力。日内波动区间在4712-4726之间，价格接近20日均线SMA(20)4739下方，显示多头动力不足，整体短线偏弱，但未形成明显下跌趋势。  \n\nMACD指标显示当前快线为-8.87，未形成金叉或死叉，暗示市场动能偏空且缺乏趋势延续性。虽然RSI暂不可用，但结合价格与均线位置，可判断短期多空双方力量接近平衡，短线可能延续震荡整理。  \n\n支撑位在4712附近，如有效守住，则仍有回弹机会；阻力位位于SMA(20)4739和4726高点区域，突破难度较大。若价格跌破支撑位，则短线下行风险增加，需要关注下一个关键支撑4680-4700区域。  \n\n交易上建议短线操作谨慎，可考虑逢低轻仓买入以控制风险，同时设置止损在支撑下方以防突发下行。激进者可在反弹至阻力位附近择机减仓或短线做空，但需严格控制仓位和风险。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD pair is currently in a neutral to slightly bearish phase. The price is hovering just below the recent high of 4726.52588, indicating a potential struggle to sustain upward momentum. Given the current range between the high and low of 4726.52588 and 4712.21915, traders should monitor the 4720 level as a pivotal zone. A break below 4712 could signal further downside toward the next support at 4700. However, if the price manages to hold above 4720, a retest of the 4739 resistance level could be on the cards.\n\nThe MACD reading of -8.87063 is currently negative, indicating bearish momentum. The absence of a signal line and a definitive RSI value makes it challenging to assess market overbought or oversold conditions. However, the negative MACD suggests there is potential for further downside pressure unless the price starts to rise decisively. Traders should remain cautious of sudden price drops, with the MACD providing hints of continued bearish bias unless the price shows substantial upward movement.\n\nFrom a technical standpoint, the 20-period Simple Moving Average (SMA) at 4739.28776 is acting as dynamic resistance. The price trading below this level further supports a short-term bearish outlook. For traders looking to engage in short positions, a break below 4712 could provide an entry with targets set around 4700 or even 4680. On the other hand, a break above 4739 could signal a reversal and open opportunities for long trades, particularly if supported by additional indicators.\n\nIn terms of support and resistance, the immediate support level is 4712, followed by 4700, which could provide strong buying interest if tested. Resistance lies at 4739, and a break above this level would indicate a potential trend reversal. Traders should watch for price action around these levels to gauge the next move."
+    }
+  }
+}

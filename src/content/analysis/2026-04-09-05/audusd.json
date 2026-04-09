@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-04-09T05:46:50.962Z",
+  "price": {
+    "close": "0.70408",
+    "high": "0.70441",
+    "low": "0.70392",
+    "open": "0.70409",
+    "change": "0.00",
+    "datetime": "2026-04-09 15:00:00"
+  },
+  "indicators": {
+    "rsi": 52.38327,
+    "macd": 0.00049638202,
+    "macd_signal": 0.00090564988,
+    "sma20": 0.7047385
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，谨慎操作]",
+      "content": "当前澳元/美元价格位于0.70408附近，24小时变化较小，呈现出震荡整理的走势。从短期来看，价格在0.70392至0.70441之间波动，未显著突破这一区间，显示出市场缺乏明确的方向性。当前缺少明确的上涨或下跌动能，市场情绪偏向谨慎。\n\n技术指标方面，MACD值为0.0005，虽然呈现出微弱的正值，但由于信号线未给出明确提示，短期内走势较难判断。SMA(20)指标当前为0.7047385，显示价格略低于该均线，暗示市场处于轻微的空头趋势中。RSI值未提供，因此不能确认是否存在超买或超卖的信号。\n\n支撑位方面，0.70392附近的低点是关键支撑，若价格跌破此水平，可能会加速下行。而阻力位则位于0.70441，突破该位置可能会迎来短期反弹。总体来看，当前价格在这两个关键点之间震荡整理，市场尚未出现强烈趋势。\n\n交易建议方面，建议保持谨慎态度，短期内可关注区间交易策略，若价格突破支撑或阻力位，可考虑适时跟进，但避免过度激进的操作，建议设立止损以控制风险。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently hovering around 0.70408, showing minimal movement over the past 24 hours. Price action indicates a consolidation phase, with the daily high at 0.70441 and low at 0.70392, suggesting limited volatility. This sideways pattern reflects a temporary equilibrium between buying and selling pressure. Traders should note that such narrow ranges often precede a breakout, making it crucial to monitor upcoming economic data or central bank commentary that could trigger directional movement.  \n\nFrom a technical standpoint, the MACD reading of 0.000496 suggests very mild bullish momentum, though the absence of the signal line limits a full crossover interpretation. The 20-period SMA at 0.704738 acts as a dynamic resistance, slightly above the current price. Without a confirmed RSI, gauging overbought or oversold conditions is challenging, but the flat price trajectory reinforces the consolidation scenario. Short-term traders may benefit from observing price interaction around the SMA for potential momentum shifts.  \n\nKey levels of support and resistance are clearly defined in the current range. Immediate support lies near 0.70390, where previous lows have stabilized buying interest. Resistance sits close to the 0.70474 SMA, with the intraday high at 0.70441 serving as an initial barrier. A decisive break above 0.70474 could signal a bullish resumption, while a drop below 0.70390 may open the path toward 0.70350. Monitoring these levels is essential for both breakout traders and range-bound strategies.  \n\nFor trading suggestions, conservative approaches might favor waiting for confirmation above resistance or below support before entering positions. Momentum traders could look for a breakout accompanied by increased volume for higher probability trades. Risk management remains critical, with stop-losses just beyond support or resistance points to limit exposure. Given the current consolidation, the market is primed for a breakout, but patience and precision are key to capturing profitable moves while avoiding false signals."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-04-09T05:45:24.498Z",
+  "price": {
+    "close": "1.33952",
+    "high": "1.34005",
+    "low": "1.33945",
+    "open": "1.34003",
+    "change": "-0.04",
+    "datetime": "2026-04-09 15:00:00"
+  },
+  "indicators": {
+    "rsi": 50.55355,
+    "macd": 0.00056707059,
+    "macd_signal": 0.0012396167,
+    "sma20": 1.3416
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：市场呈现震荡整理走势",
+      "content": "当前英镑/美元的价格为1.33952，24小时变化仅为-0.04%，表明市场暂时缺乏强烈的方向性。短期内，价格在1.33945至1.34005区间波动，整体处于整理阶段。当前价格接近近期的支撑位1.33945，表明可能会维持震荡格局。\n\n从技术指标来看，虽然没有完整的RSI数据，MACD目前值为0.00056707059，反映出市场处于轻微的多头压力中。20日简单移动平均线（SMA）显示为1.34160，当前价格低于该均线，可能会对价格产生一定的抑制作用，进一步确认市场的整理态势。\n\n在支撑和阻力方面，1.33945为短期支撑位，若跌破该水平，可能会试探1.33700附近的更低支撑；上方的1.34160是当前的短期阻力位，突破后有可能进一步向1.34300或更高的水平攀升。若价格未能突破这些关键水平，市场可能会继续震荡。\n\n建议交易者关注突破1.34160和跌破1.33945的信号。若价格突破上方阻力位，可考虑做多，反之则可尝试做空。同时，维持耐心，等待市场给出更明确的趋势信号。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently trading at 1.33952, showing a slight 24-hour change of -0.04%. The pair has been moving within a narrow range between 1.34005 and 1.33945, reflecting a period of consolidation with no significant directional movement. The market is stuck in a tight range, with no clear trend emerging at this point. This could signal indecision among traders or a wait-and-see approach until more substantial economic data or catalysts push the market in either direction.\n\nFrom a technical perspective, the 20-period simple moving average (SMA) stands at 1.34160, suggesting a mild bearish bias as the price is currently below the moving average. This indicates that sellers are slightly in control in the short term, and unless the pair can break above this level, further downside could be expected. The absence of an RSI and a clear MACD signal leaves the analysis reliant on price action and moving averages for now, so traders should remain cautious until more concrete indicators are available.\n\nSupport for GBP/USD is seen at the lower range of 1.33945, which could act as a base if the market attempts to break lower. If this level holds, it could provide an opportunity for a minor rebound toward the SMA at 1.34160. On the other hand, if the pair breaks below 1.33945, the next level of support to watch would be around 1.33800. Resistance lies at the recent high of 1.34005, which will likely be the key level for bulls to overcome for any upward momentum.\n\nGiven the current indecisive market conditions and lack of strong indicators, a cautious trading strategy is advised. Short-term traders may look for a bounce off the support near 1.33945, while others might wait for a breakout above 1.34005 to confirm a more substantial move. A break below 1.33945 could signal further downside risk, making it critical to monitor price action closely."
+    }
+  }
+}
