@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-04-10T05:55:02.509Z",
+  "price": {
+    "close": "159.23341",
+    "high": "159.27675",
+    "low": "159.18705",
+    "open": "159.18834",
+    "change": "0.03",
+    "datetime": "2026-04-10 15:00:00"
+  },
+  "indicators": {
+    "rsi": 60.18661,
+    "macd": 0.096586,
+    "macd_signal": 0.084280444,
+    "sma20": 159.049286
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：短期震荡偏多",
+      "content": "当前美元/日元价格在159.23附近震荡，较昨日几乎持平，显示市场短线多空力量均衡。从均线来看，价格略高于SMA(20)的159.049，暗示短期内仍存在温和上行压力，但突破力度有限，趋势偏向震荡整理。  \n\nMACD处于0.0966的正值，虽然未提供Signal线，但正值区间表明多头动能略占优势，短线可能延续温和反弹。然而，由于RSI缺失，需要谨慎观察是否存在超买风险，以防突然回调。整体指标显示短期上涨空间受限。  \n\n支撑位上关注159.05附近SMA支撑，如果跌破可能触发下方159.00心理关口；阻力位则在159.28附近高点，突破该位置才能确认进一步上行趋势。价格震荡频繁，投资者应关注关键支撑与阻力位置的变化。  \n\n交易策略上，建议短线以高抛低吸为主，价格靠近支撑可考虑小幅多单，靠近阻力或出现明显回调信号则减仓或短空操作。保持仓位灵活，注意美元和日元宏观数据对波动的潜在影响，以控制风险为先。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is exhibiting a moderately bullish sentiment, hovering slightly above the 20-period simple moving average at 159.049, indicating that short-term momentum favors buyers. The latest price of 159.233 suggests a consolidation phase after a recent uptick, with intraday volatility confined between 159.187 support and 159.276 resistance. Traders should note that the pair is testing a psychological barrier near 159.25, and any sustained break above this level could attract further buying interest.  \n\nMomentum indicators provide a mixed but cautiously positive outlook. The MACD value of 0.0965 suggests bullish momentum, although the absence of a signal line reading limits the clarity of crossovers. Without an RSI value, overbought or oversold conditions remain uncertain, making price action around key levels even more important for decision-making. The SMA(20) support reinforces the bullish bias, serving as a potential floor in case of minor retracements.  \n\nSupport levels to watch include 159.187 and the SMA(20) at 159.049. These areas may offer tactical entries for buyers during short-term pullbacks. Resistance is concentrated around 159.276, followed by the psychological 159.400 level, where selling pressure could emerge. Traders might consider scaling positions near support with tight stops, while a breakout above 159.276 could signal a continuation of the uptrend, favoring momentum-based entries.  \n\nShort-term trading strategies should focus on cautious optimism. Trend-following traders could look for buying opportunities on dips to the SMA or near intraday support, while more conservative participants might wait for confirmation above the current resistance to avoid false breakouts. Overall, the technical picture points to measured bullishness with careful attention to key levels, balancing risk with potential upside in a slightly overextended but orderly market."
+    }
+  }
+}

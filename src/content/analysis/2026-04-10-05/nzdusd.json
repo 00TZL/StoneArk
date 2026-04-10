@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-04-10T05:57:17.377Z",
+  "price": {
+    "close": "0.58463",
+    "high": "0.58477",
+    "low": "0.58446",
+    "open": "0.5847",
+    "change": "-0.01",
+    "datetime": "2026-04-10 15:00:00"
+  },
+  "indicators": {
+    "rsi": 50.96711,
+    "macd": 0.00048490031,
+    "macd_signal": 0.00076493416,
+    "sma20": 0.5852025
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理，偏空走势]",
+      "content": "当前纽元/美元（NZD/USD）的市场价格位于0.5846附近，近期价格波动较小，呈现出震荡整理的格局。从技术角度来看，该货币对短期内没有明确的上涨或下跌趋势，市场情绪较为谨慎，投资者可能在等待进一步的市场信号。\n\n在技术指标方面，MACD显示出微弱的正值0.00048490031，但由于信号线缺失，无法提供明确的趋势方向。RSI指标未能提供足够的信息，导致当前的动能判断缺乏支持。20日简单移动平均线（SMA）处于0.5852位置，价格略微低于该均线，暗示短期内可能会面临下行压力。\n\n在支撑和阻力方面，当前的支撑位位于0.58446，若突破此点，可能会进一步测试0.5830附近的区域。上方的阻力位则为0.5850，若突破此位，则可能会出现反弹回升至0.5860水平。由于市场缺乏强劲的上涨动力，预计短期内价格维持在震荡区间内。\n\n综合来看，鉴于市场缺乏明确的上行动能，建议交易者在当前价格附近采取谨慎的态度。如果价格下行突破支撑区间，考虑轻仓做空；若价格回升至0.5850附近，可尝试做多，但仍需保持灵活应变。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is exhibiting a narrow range movement around 0.5846, reflecting short-term consolidation after recent volatility. Price action is slightly below the 20-period SMA at 0.5852, suggesting mild bearish pressure. The intraday high of 0.58477 and low of 0.58446 indicate a lack of decisive directional momentum, with traders potentially waiting for economic data or global risk cues to dictate the next move. Overall, the market is in a cautious equilibrium phase, leaning slightly toward sellers.  \n\nAlthough the MACD currently sits at 0.00048, the absence of a signal line limits its immediate interpretive power. However, the positive value indicates that short-term momentum may still favor mild upward corrections. Without the RSI, assessing overbought or oversold conditions is challenging, so caution is advised when entering directional trades. Price hovering near the SMA suggests that a breakout above 0.5852 could trigger a short-term bullish scenario, whereas failure to sustain above this level could reinforce bearish consolidation.  \n\nKey intraday support emerges at 0.5844, the low of the past 24 hours, which aligns with prior short-term price tests. Resistance is observed at 0.5852, coinciding with the SMA and the recent high. A breach of support could open a path toward 0.5838 or lower, while a clear break above resistance may encourage buyers targeting 0.5860. Traders should watch these levels closely, as the tight range increases the probability of short-term swing trades rather than sustained trends.  \n\nFor trading strategies, short-term traders might consider a cautious long above 0.5852 with tight stop-loss below 0.5844, capturing momentum while limiting risk. Conversely, a break below 0.5844 could favor short positions targeting lower intraday support. Given the muted price movement, range-bound strategies like scalping between 0.5844 and 0.5852 may also be effective. Patience and confirmation from breakout signals are essential before committing to larger positions in this low-volatility environment."
+    }
+  }
+}

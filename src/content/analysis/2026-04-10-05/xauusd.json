@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-04-10T05:58:58.969Z",
+  "price": {
+    "close": "4766.60691",
+    "high": "4768.85311",
+    "low": "4758.38746",
+    "open": "4758.64119",
+    "change": "0.17",
+    "datetime": "2026-04-10 15:00:00"
+  },
+  "indicators": {
+    "rsi": 53.82592,
+    "macd": 4.72487,
+    "macd_signal": 6.30414,
+    "sma20": 4766.42959
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：震荡偏强整理",
+      "content": "当前黄金/美元处于高位震荡整理结构，价格围绕4766一线运行，多空力量相对均衡，但短线略偏强势，整体仍维持在上升趋势后的盘整阶段。\n\nSMA(20)贴近现价，说明均线支撑有效，短期价格缺乏明显偏离；MACD动能柱温和扩张，显示多头动能仍在，但未形成趋势性加速信号。\n\n下方初步支撑位于4758附近，若跌破可能回测4750区域；上方阻力集中在4768至4772区间，突破需放量确认信号加强。\n\n建议短线以区间交易为主，在4758上方偏多思路，接近4768-4772区域逐步止盈；若跌破支撑则转为观望等待控制风险。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current price of XAU/USD stands at 4766.60, reflecting a slight 24-hour change of 0.17%. Gold is hovering around a critical level, showing a somewhat neutral to bullish trend. Recent highs at 4768.85 and lows at 4758.39 suggest limited volatility. This lack of significant movement indicates market indecision, with no strong directional bias. However, the price holding above the 20-period simple moving average (SMA) points to a mild upward momentum, maintaining support at the 4766 level.  \n\nWith the RSI(14) unavailable, we cannot fully gauge overbought or oversold conditions, making other indicators more crucial. The MACD at 4.72 suggests the potential for continued bullish momentum, yet the absence of the signal line leaves uncertainty. The MACD histogram, however, remains above zero, indicating that the current market condition supports a positive outlook for XAU/USD. Traders should monitor the MACD closely for further divergence or convergence with price to confirm the strength of this trend.\n\nKey support for XAU/USD lies near the recent low at 4758.39, a level that has held as a floor in the past 24 hours. If the price tests and rebounds from this area, it could suggest a continuation of the bullish bias. On the upside, resistance is observed around the recent high of 4768.85. A break above this level could confirm further price gains, targeting the next psychological level around 4780. Traders should consider entering long positions near the 4758-4760 support zone with tight stops just below the recent low.\n\nIn summary, while the market currently shows consolidation, XAU/USD appears to have a slight bullish bias. Maintaining positions above the 20-period SMA and the recent support zone gives traders a favorable environment for longs. A breakout above resistance would further solidify this trend, while failure to maintain support might lead to a bearish reversal. Monitoring price action closely is crucial to determining the next directional move."
+    }
+  }
+}

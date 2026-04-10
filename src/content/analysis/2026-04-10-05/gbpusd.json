@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-04-10T05:54:18.191Z",
+  "price": {
+    "close": "1.34192",
+    "high": "1.34229",
+    "low": "1.3415",
+    "open": "1.34219",
+    "change": "-0.02",
+    "datetime": "2026-04-10 15:00:00"
+  },
+  "indicators": {
+    "rsi": 49.23483,
+    "macd": 0.00045401969,
+    "macd_signal": 0.00073627966,
+    "sma20": 1.3428
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：近期震荡整理",
+      "content": "当前英镑/美元价格稳定在1.34192附近，表现出较为平稳的震荡整理走势。过去24小时波动仅为-0.02%，显示市场缺乏明显的方向性。价格在1.3415至1.34229区间内波动，呈现窄幅整理的格局。考虑到近期没有显著的趋势变化，当前市场情绪偏向观望。\n\n技术指标方面，MACD线接近零轴（0.000454），显示市场缺乏强烈的动能。RSI未提供数据，但SMA(20)显示价格略低于其均值1.34280，这表明短期内价格有可能受制于阻力位1.34280附近，短线趋势仍偏向震荡。由于没有强烈的上涨或下跌信号，建议投资者保持谨慎。\n\n从支撑和阻力的角度来看，1.3415和1.34229分别是短期内的关键支撑与阻力位。若价格突破1.34280水平，可能会出现短期反弹至1.3450附近的空间。而若下破1.3415，则可能引发更大幅度的下行调整。\n\n基于目前的市场表现，建议采取短线震荡交易策略，关注支撑与阻力的突破情况。对于风险偏好较低的投资者，建议等待市场出现明确的趋势信号后再做入场决策。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair currently hovers around 1.3419, reflecting a near-flat 24-hour performance. Price action over the short term indicates a mild bearish bias as the pair trades just below its 20-period SMA of 1.3428. The slight downward drift suggests sellers are attempting to test support levels near 1.3415, which aligns with the recent intraday low. While momentum remains subdued, market indecision is apparent, hinting at a potential consolidation phase before any decisive directional move.\n\nFrom a momentum perspective, the MACD shows a small positive value of 0.00045, though the absence of a signal line reading limits a full trend confirmation. This suggests the pair may be in an early stage of a bullish crossover or simply reflecting minor oscillations around a neutral midpoint. Traders should watch for any MACD divergence or crossover, which could offer early clues about strengthening bullish momentum. Without RSI data, overbought or oversold conditions cannot be assessed, reinforcing the need for cautious position sizing.\n\nKey support resides at 1.3415, representing a short-term floor, while immediate resistance is near 1.3428, coinciding with the SMA(20). Breach of these levels could dictate the next directional move. A sustained break above 1.3428 may open the path toward 1.3440, whereas a decisive drop below 1.3415 could signal a retest of 1.3400. Traders may consider range-bound strategies between these levels in the near term, with tighter stops to mitigate sudden volatility spikes.\n\nFor trading execution, short-term traders might favor cautious long positions only above the SMA, with targets near the upper resistance, while aggressive traders could explore short entries on failed retests of resistance. Longer-term positions should account for macroeconomic drivers, such as UK inflation data or USD interest rate shifts, which can override technical signals. Overall, GBP/USD is showing a tentative consolidation with subtle bearish undertones, necessitating disciplined entries and careful risk management."
+    }
+  }
+}

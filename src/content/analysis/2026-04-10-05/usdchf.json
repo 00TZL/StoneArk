@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-04-10T05:57:59.984Z",
+  "price": {
+    "close": "0.79038",
+    "high": "0.79064",
+    "low": "0.79032",
+    "open": "0.79036",
+    "change": "0.00",
+    "datetime": "2026-04-10 15:00:00"
+  },
+  "indicators": {
+    "rsi": 48.19021,
+    "macd": -0.0001047439,
+    "macd_signal": -0.00017705354,
+    "sma20": 0.790286
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：当前震荡走势，短期区间整理",
+      "content": "当前，美元/瑞郎（USD/CHF）价格稳定在0.79038附近，整体走势呈现震荡整理模式。从日内高点0.79064和低点0.79032来看，市场缺乏明确的方向性。近期价格波动较小，且未突破重要技术水平，显示市场处于短期区间整理阶段。\n\n在技术指标方面，RSI（14）未提供具体数据，因此无法给出超买或超卖信号。MACD显示负值，且差距较小，暗示空头动能较弱，但短期内未见反弹迹象。20期简单移动平均线（SMA）处于0.790286附近，价格接近这一水平，表明市场尚未形成明显趋势，更多表现为整理形态。\n\n支撑位方面，0.79032为近期低点，可能成为下行的关键支撑位。若突破该点位，可能会测试更低的价格区间。阻力位则位于0.79064附近，若价格突破此区域，则可能迎来短期的上涨动能。\n\n综合来看，当前建议交易者保持观望，避免追高或追空。若价格突破区间支撑或阻力，适时跟进相应的突破交易策略。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently showing a neutral market stance, trading at 0.79038. This range-bound price action suggests that the pair is consolidating between recent support and resistance levels, with no significant upward or downward momentum. Given the lack of major price change in the past 24 hours, traders may anticipate more volatility once the price either breaks through the upper resistance at 0.79064 or tests the lower support at 0.79032. \n\nThe technical indicators indicate a lack of clear direction. The MACD is showing a slight negative value of -0.00010474390, which may suggest a bearish bias in the short term. However, the absence of a clear signal line or RSI(14) reading complicates the interpretation. The neutral stance of the market, along with this weak negative MACD reading, suggests traders should be cautious in initiating large positions until more clarity emerges from the indicators.\n\nAt the current price of 0.79038, the nearest support level appears to be 0.79032, which is the daily low, followed by 0.78990, a potential key level below. If the price breaks through the current resistance at 0.79064, the next level to watch will be 0.79100. These support and resistance zones will likely guide price movements in the near term. Monitoring these levels for breakout or breakdown scenarios will be essential in gauging the next direction.\n\nTraders should remain cautious in this consolidation phase, as the market is not showing clear trends at the moment. If a breakout occurs above resistance or below support, consider setting tight stop-loss orders to mitigate risk. Given the neutral price action and lack of strong indicators, this may be a wait-and-see scenario, with a focus on future breakouts or reversals."
+    }
+  }
+}

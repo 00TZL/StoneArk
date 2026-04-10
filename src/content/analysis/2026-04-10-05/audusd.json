@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-04-10T05:55:46.237Z",
+  "price": {
+    "close": "0.70698",
+    "high": "0.70702",
+    "low": "0.70648",
+    "open": "0.70671",
+    "change": "0.04",
+    "datetime": "2026-04-10 15:00:00"
+  },
+  "indicators": {
+    "rsi": 54.49806,
+    "macd": 0.00069464,
+    "macd_signal": 0.00093131292,
+    "sma20": 0.7070175
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短期震荡偏弱整理",
+      "content": "当前澳元/美元价格徘徊在0.70698附近，接近20日均线0.70702，显示短期多空力量相对均衡，但略有下行压力。价格在0.70702高点和0.70648低点之间波动，短期呈现震荡整理格局，趋势尚未明确突破。  \n\nMACD指标目前为正值0.00069464，但信号线尚不可用，表明市场多头动能存在，但强度有限，缺乏明确买入或卖出信号。若未来MACD线突破信号线，可视为短线买入机会，否则可能维持横盘震荡。  \n\n支撑位关注0.70648附近的短期低点，若下破可能带动进一步回调；阻力位在0.70702附近，如价格有效站稳则可能尝试上攻0.7080一线。均线和震荡区间提示短期操作应以防守为主，避免追涨杀跌。  \n\n交易策略上，建议短线交易者在支撑区域尝试低位接多，止损设在0.7060下方；若价格接近阻力位可适度减仓或观望。中长线投资者可等待价格确认突破趋势再建仓，确保顺势操作并控制风险。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar (AUD) against the US Dollar (USD) is currently trading around 0.70698, showing minimal movement in the past 24 hours with a 0.04% change. The market is consolidating within a narrow range, as the pair has experienced a high of 0.70702 and a low of 0.70648. This price action suggests a period of indecision, where neither buyers nor sellers have gained strong momentum. A break above the recent high could signal a bullish continuation, while a failure to hold above the low might indicate a bearish trend.\n\nThe absence of a clearly defined RSI value makes it difficult to gauge the strength of the current trend. However, looking at the MACD value of 0.00069464, the market is showing slight bullish momentum, though it remains neutral due to the lack of a definitive signal. Traders should watch for any potential crossovers or divergence to confirm directional strength. The slow pace of price movement indicates a potential range-bound environment, with traders focusing on breakouts or reversals around key levels.\n\nThe 20-period simple moving average (SMA) at 0.70701750 is acting as a dynamic resistance in the current market. Price action is closely aligning with this level, indicating the market is testing this area repeatedly. If the pair manages to break and hold above the SMA, it may gain momentum towards the next resistance at 0.70850. On the downside, immediate support is located near the 0.70648 level, and a breach below this could lead to further declines towards 0.70500.\n\nFor traders, the current market conditions suggest caution. A breakout above 0.70702 may present an opportunity for long positions, targeting 0.70850. Conversely, a breakdown below 0.70648 could signal a potential short entry, with 0.70500 as a target. Given the lack of strong momentum indicators, it is advisable to monitor price action closely for confirmation of any significant moves."
+    }
+  }
+}
