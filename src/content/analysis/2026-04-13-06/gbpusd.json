@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-04-13T06:09:38.029Z",
+  "price": {
+    "close": "1.34107",
+    "high": "1.3413",
+    "low": "1.34057",
+    "open": "1.34059",
+    "change": "0.04",
+    "datetime": "2026-04-13 16:00:00"
+  },
+  "indicators": {
+    "rsi": 34.93576,
+    "macd": -0.0013339986,
+    "macd_signal": -0.0012449378,
+    "sma20": 1.34264
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：短期震荡偏弱整理",
+      "content": "当前英镑/美元维持在1.34107附近，较24小时波动幅度有限，显示市场短期缺乏明确方向。价格低于20日简单移动平均线(SMA20)1.34264，暗示近期多头动能略显不足，短线可能延续震荡整理格局。  \n\nMACD指标显示主线为-0.00133，处于零轴下方，虽未形成明确交叉信号，但仍提示空头压力存在，投资者需警惕反弹力度有限。缺少RSI数据，短期超买超卖状态难以判断，需结合价格行为观察支撑位和阻力位反应。  \n\n技术上，近期支撑位关注1.3405附近的短期低点，如果失守可能引发进一步下探；阻力位在SMA20附近1.3426至1.3430区域，突破该区间则可能短线多头回温。价格反复震荡，行情偏弱但不具备急跌特征。  \n\n操作策略上，可考虑高抛低吸策略，短线交易者可在接近支撑位1.3405附近布局多单，止损控制在1.3400下方；若价格上破阻力1.3430，可尝试顺势追多，目标看向1.3450附近。稳健投资者宜保持观望，等待趋势明朗再入场。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently trading at 1.34107, showing minimal 24-hour change, indicating a range-bound market. The price has hovered close to its recent highs and lows, with 1.3413 acting as a near-term resistance level and 1.34057 as support. This narrow trading range suggests that the market is in a consolidation phase, and without a clear directional break, further sideways movement is likely. Traders should watch for any significant shifts above 1.3413 or below 1.34057 for potential breakout opportunities.\n\nThe absence of a clear RSI reading and MACD signal complicates immediate momentum analysis. However, the MACD value of -0.00133 suggests a slight bearish bias, though it is still relatively neutral. Traders should remain cautious as the lack of a definitive trend could lead to false signals. Once the market breaks either the resistance at 1.3413 or the support at 1.34057, more precise momentum indicators may emerge, giving a clearer direction.\n\nThe SMA(20) at 1.34264 serves as a dynamic resistance level. With the price trading below this level, the overall trend is more neutral-to-bearish in the short term. Should the price rise towards the SMA and fail to break it, a re-test of lower levels near the support zone is possible. On the flip side, a decisive close above the SMA would open up potential for a move toward higher resistance levels.\n\nFor trading strategies, consider a breakout approach once either support or resistance levels are breached. A short position could be considered if the price fails to break above the SMA or resistance, targeting a return to lower levels. Conversely, a successful breakout above resistance could signal a shift towards upward momentum, especially if supported by clearer technical indicators."
+    }
+  }
+}

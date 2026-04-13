@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-04-13T06:14:01.120Z",
+  "price": {
+    "close": "4728.23524",
+    "high": "4730.15478",
+    "low": "4725.42596",
+    "open": "4729.24551",
+    "change": "-0.03",
+    "datetime": "2026-04-13 16:00:00"
+  },
+  "indicators": {
+    "rsi": 47.74465,
+    "macd": -7.76113,
+    "macd_signal": -8.77066,
+    "sma20": 4730.95606
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短期盘整偏弱",
+      "content": "当前黄金/美元价格在4728.24附近波动，较昨日微跌0.03%，显示短期市场缺乏明显方向性。价格仍在20日均线4730.96下方徘徊，表明整体偏弱压力存在，但波动幅度有限，属于盘整整理阶段。高低点区间窄，市场短线情绪谨慎。  \n\nMACD指标为-7.76，显示空头动能仍存在，但信号线缺失限制了趋势确认能力。缺乏RSI数据，无法准确评估超买或超卖状态，但价格未明显偏离均线，暗示市场仍处于震荡调整。投资者应关注指标交叉信号，以捕捉潜在趋势转换。  \n\n支撑位初步在4725.43附近，如跌破该位置可能加剧下行压力；阻力位约在4730.15，若突破则短线或回升至4735附近。均线压制和区间震荡提示短线操作需谨慎，避免过度追高或追低。  \n\n交易建议上，短线可考虑区间内低吸高抛策略，关注支撑反弹与阻力回落信号。中长线投资者建议等待价格明确突破20日均线或关键阻力位确认趋势后再建仓，以降低波动风险并提高胜率。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current market for Gold against the US Dollar (XAU/USD) is showing slight bearish behavior, with a minimal 24-hour price change of -0.03%. At a price of 4728.23, Gold remains near its daily low of 4725.42, indicating limited volatility. The lack of a strong upward or downward momentum suggests a consolidation phase, potentially preparing for a breakout. A close look at the SMA(20) at 4730.96 shows that the market is below this level, reinforcing a short-term bearish sentiment, while also signaling potential resistance if price attempts to rise above.\n\nRegarding indicators, the MACD stands at -7.76113, further confirming the bearish pressure in the market. While the absence of an RSI(14) reading complicates the assessment of momentum, the negative MACD reading suggests that bearish momentum is currently prevailing. The absence of a clear trend reversal signal further supports caution for long positions. Traders should watch for a potential crossover in the MACD, as this could indicate a shift toward a more neutral or bullish outlook.\n\nSupport levels are likely at 4725.42, where the price has tested the lower boundary of the current trading range. If this level holds, it could provide an opportunity for a bounce to the upside. However, should the price break below this support, further declines toward 4720 could materialize. On the upside, 4730.96, represented by the SMA(20), is the immediate resistance, and any attempt to break above this level could suggest a short-term bullish correction, though confirmation is needed through volume and other indicators.\n\nGiven the overall lack of clear trend direction, traders should adopt a cautious approach. A break below the support at 4725.42 could open up shorting opportunities, while a push above 4730.96 may provide a chance to trade the upside. As the market remains volatile, focusing on confirmation signals and maintaining tight risk management strategies will be essential for navigating this period of uncertainty."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-04-13T06:11:04.186Z",
+  "price": {
+    "close": "0.70437",
+    "high": "0.70439",
+    "low": "0.70396",
+    "open": "0.70397",
+    "change": "0.06",
+    "datetime": "2026-04-13 16:00:00"
+  },
+  "indicators": {
+    "rsi": 46.6231,
+    "macd": -0.00074300952,
+    "macd_signal": -0.00083833038,
+    "sma20": 0.7046115
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短期震荡偏弱，关注关键支撑位",
+      "content": "从日内走势来看，澳元/美元在0.7043附近徘徊，价格略低于20日均线0.70461，显示短期多头动能有限。价格波动幅度收窄，市场呈现震荡整理格局，短期趋势偏弱，但尚未形成明确下行突破信号。  \n\n技术指标方面，MACD目前为-0.000743，处于零轴下方，表明空方力量略占优势，但信号线未提供明确交叉，RSI数据缺失，短线动能指标尚不完整。均线接近现价，暗示多空分歧，价格可能在均线附近反复震荡。  \n\n支撑位初步关注0.7039和0.7035区域，如跌破有可能加速下行压力；阻力位则在0.7046-0.7050附近，多头若突破此区间，短线或出现反弹机会。价格走势仍以区间波动为主，需留意突破信号确认趋势方向。  \n\n交易上，短线可采取震荡区间操作策略，在支撑附近尝试小幅做多，止损放在0.7035下方；阻力附近可考虑轻仓做空，止损设置在0.7050上方。投资者应谨慎控制仓位，关注欧美市场风险事件对澳元波动的影响。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional forex analyst. Provide technical analysis for Australian Dollar vs US Dollar (AUD/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 0.70437\\n- 24h Change: 0.06%\\n- High/Low: 0.70439 / 0.70396\\n- RSI(14): N/A\\n- MACD: -0.00074300952, Signal: N/A\\n- SMA(20): 0.70461150\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nThe AUD/USD pair is currently showing **neutral-to-cautious price behavior** around the 0.7040–0.7050 area. With the latest quote around 0.70437 and price slightly below the 20‑period simple moving average at ~0.70461, the short‑term trend is tepid and lacking strong directional conviction. Technical studies from broader markets suggest AUD/USD has been consolidating in a **range rather than trending sharply**, with near‑term swings defined by support zones (e.g., around 0.7020–0.7025 based on recent intraday stabilizations) and upside resistance near recent highs. \n\nThe **MACD reading is negative** at about -0.00074 and, without a clear signal line crossover available for confirmation, momentum leans slightly bearish. A negative MACD typically reflectsACD reading is negative** at about -0.00074 and, without a clear signal line crossover available for confirmation, momentum leans slightly bearish. A negative MACD typically reflects that shorter‑term momentum is under pressure relative to longer averages. Given the proximity to the SMA(20) and the lack of a compelling breakout, expect momentum oscillations around current levels unless a catalyst drives a clean directional move. Although RSI(14) isn’t available, the lack of strong MACD support suggests buyers aren’t in full control at the moment.\n\nKey levels to watch define the **support and resistance battleground**: immediate support looks to be around recent intraday lows just under 0.7039, with a deeper support band near ~0.7020 that has previously helped contain downside. On the upside, reclaiming and holding above the SMA(20) near 0.7045 would put 0.7075 and 0.7100 in focus as resistance targets, where sellers have been active in prior sessions. A close above those could attract short‑covering and spurt upside momentum.\n\nFor traders, **range strategies remain pragmatic** in this environment: fade moves near strong resistance when momentum wanes, and accumulate on organized pullbacks around support with tight risk management. If price convincingly breaks above the SMA and key resistance (e.g., a sustained close above ~0.7075), a conservative long bias could be considered. Conversely, a break below the lower support region near 0.7020 with follow‑through would suggest selling opportunities toward lower intraday extensions."
+    }
+  }
+}

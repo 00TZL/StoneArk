@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-04-13T06:10:20.255Z",
+  "price": {
+    "close": "159.60403",
+    "high": "159.69078",
+    "low": "159.60403",
+    "open": "159.68726",
+    "change": "-0.05",
+    "datetime": "2026-04-13 16:00:00"
+  },
+  "indicators": {
+    "rsi": 58.99779,
+    "macd": 0.11806413,
+    "macd_signal": 0.11101193,
+    "sma20": 159.49339
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[短期震荡，持稳整理]",
+      "content": "当前美元/日元的价格为159.60，整体处于横盘整理状态。虽然24小时的变化幅度较小，仅为-0.05%，但价格持续在159.60附近波动，表明市场情绪相对平稳，缺乏明确的趋势。\n\n技术指标方面，MACD值为0.118，显示出一定的买盘动能，但由于信号线数据缺失，无法准确判断是否有持续性上涨的信号。SMA(20)的值为159.49，表明当前价格略高于短期均线，表明市场处于略微偏多的状态。\n\n从支撑和阻力角度来看，当前的支撑位大约在159.49附近，而上方的阻力位则在159.69附近。如果价格突破159.69，则有可能继续上涨，但若价格回落至159.49下方，可能会进入调整阶段。\n\n考虑到当前市场的横盘整理状态，建议交易者保持观望，等待价格突破关键支撑或阻力位后再做进一步决策。短期内建议采取区间交易策略，抓住价格波动的机会。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently trading around 159.60, showing slight bearish pressure with a 24-hour change of -0.05%. The price has recently tested the lower end of the range at 159.60, with the high for the period reaching 159.69. This price action suggests a consolidative environment, as it fluctuates within a narrow range. Given the proximity to the 159.49 SMA, this moving average is likely to act as a support level, and a sustained break below this could suggest a deeper pullback towards the 159.20 area. On the other hand, if price action holds above this SMA, it may indicate a continuation of the current uptrend.\n\nWithout detailed readings from RSI and MACD, a clearer assessment of momentum is lacking. However, the MACD at 0.118 points to a mildly bullish bias. If the price action holds above the SMA(20) level and the MACD crosses its signal line to the upside, we could see further bullish momentum. The absence of an RSI value prevents a complete picture of overbought or oversold conditions, but further monitoring of these indicators would be necessary to refine any trade decisions.\n\nFrom a technical standpoint, the immediate resistance level stands at 159.69, which has been recently tested. A break above this could open the door for a move toward the 160.00 mark. Conversely, support remains at the 159.49 level, and any breach below this could trigger a decline toward 159.20, where additional buying interest may emerge. Traders may look for confirmation of the price action and breakouts to take trades in either direction, focusing on price stability around the current levels.\n\nIn terms of trade execution, a break above resistance at 159.69 could warrant a long position targeting the 160.00 level, while a short trade below the 159.49 support might be appropriate if confirmed by momentum indicators. For risk management, stop-loss orders could be placed around 159.20 in the event of a deeper pullback, limiting exposure while allowing for a larger move."
+    }
+  }
+}

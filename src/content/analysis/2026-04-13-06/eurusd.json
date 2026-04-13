@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-04-13T06:08:51.044Z",
+  "price": {
+    "close": "1.16894",
+    "high": "1.16904",
+    "low": "1.16879",
+    "open": "1.16881",
+    "change": "0.01",
+    "datetime": "2026-04-13 16:00:00"
+  },
+  "indicators": {
+    "rsi": 37.31186,
+    "macd": -0.0009176147,
+    "macd_signal": -0.00092529614,
+    "sma20": 1.17004
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：短期盘整偏弱",
+      "content": "目前欧元/美元在1.1689附近窄幅震荡，短期走势呈现盘整偏弱格局。价格连续受到1.1700附近SMA(20)的压制，未能有效突破，表明多头动力不足，市场存在观望情绪。整体趋势仍偏向空头，但缺乏明显加速下行信号。  \n\n技术指标显示，MACD为负值且略低于零轴，暗示下行压力存在，但因Signal线数据缺失，趋势确认力度有限。RSI数据暂不可用，但结合价格与均线关系，可推测短期相对强弱处于中性偏弱状态。短线波动可能在均线附近反复试探，趋势尚未形成明确突破。  \n\n支撑位上看，近期低点1.1688及心理关口1.1680构成短线支撑，若跌破可能加速回调。阻力位集中在SMA(20)1.1700附近及1.1710前高区域，多头若无法有效收复该位置，反弹空间受限。交易者应关注关键支撑的守稳情况，谨慎控制风险。  \n\n综合来看，短线建议以观望为主，偏向低多高空策略。若价格突破1.1700上方，可考虑短期顺势做多，止损设置在近期支撑下方；若跌破1.1680支撑，可考虑短线跟随空单，但需警惕快速反弹的回调压力。整体操作宜小仓位、分批进出，保持灵活应变。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently trading in a narrow range near 1.1689, reflecting a period of consolidation after recent volatility. The minor 24-hour change of 0.01% and the tight high/low band suggest indecision among traders. Price is slightly below the 20-period simple moving average at 1.1700, indicating a mild short-term bearish bias. This near-flat movement hints that market participants may be awaiting fresh economic data or central bank cues before committing to directional trades.  \n\nMomentum indicators present a mixed picture. The MACD shows a negative value of -0.0009176, which can imply that bearish momentum is subtly dominant, although the absence of a signal line prevents a clear crossover interpretation. With the RSI unavailable, traders should monitor for potential divergence or overbought/oversold conditions in the near term. The close proximity of price to the SMA suggests the market is poised for a potential breakout, but current momentum remains muted.  \n\nSupport levels appear around 1.1685 and 1.1680, where previous consolidation and minor intraday bounces have occurred. Resistance is seen at 1.1705 and 1.1710, aligned with the SMA and prior short-term highs. These zones will likely serve as key decision points for traders, with strong moves above or below potentially triggering short-term trend acceleration. Monitoring volume and news flow is critical to anticipate which level might be tested first.  \n\nFor trading strategy, cautious approaches are advisable in the current environment. Short-term traders may consider scalps near support with tight stops, targeting minor retracements toward the SMA. Longer positions could be contemplated if a confirmed break above 1.1710 occurs, suggesting a reversal or continuation of bullish momentum. Conversely, a break below 1.1680 would open the door to deeper corrective moves. Overall, patience and discipline are essential until a clearer directional signal emerges."
+    }
+  }
+}

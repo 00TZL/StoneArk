@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-04-13T06:11:48.317Z",
+  "price": {
+    "close": "1.38569",
+    "high": "1.38619",
+    "low": "1.38569",
+    "open": "1.38617",
+    "change": "-0.03",
+    "datetime": "2026-04-13 16:00:00"
+  },
+  "indicators": {
+    "rsi": 54.27866,
+    "macd": 0.00054029664,
+    "macd_signal": 0.00052888015,
+    "sma20": 1.38516
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理，谨慎观望]",
+      "content": "当前美元/加元（USD/CAD）价格在1.38569附近，波动较为有限，且处于较小的震荡区间内。结合24小时变化数据（-0.03%）来看，市场情绪较为谨慎，短期内缺乏明显的突破动能，可能继续在该区间内震荡整理。\n\n从技术指标来看，虽然RSI（14）数据未给出，但MACD指标显示微弱的正值（0.00054029664），表明短期内多头力量尚存，但不足以支撑大幅上涨。同时，SMA（20）显示价格接近其20日简单移动均线1.38516，提示市场可能面临短期支撑。\n\n对于支撑位和阻力位的判断，目前支撑位在1.38569附近，而上方阻力位则接近1.38619。如果价格突破1.38619，将可能进一步上涨，反之则可能回落至支撑区域。建议交易者可以观察这一震荡区间的突破信号，避免在不确定区间内进行过度交易。\n\n综合来看，美元/加元目前处于较为平稳的震荡整理期，建议保持谨慎观望，等待更明确的趋势信号出现后再进行交易操作，尤其要注意突破关键价位后的进场时机。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is showing a relatively stable market at the moment, with a slight downtrend observed in the past 24 hours. The latest price of 1.38569 is close to the daily low, indicating some consolidation in the market. The pair has not demonstrated strong volatility, and with the high and low of 1.38619 and 1.38569, the range is relatively tight. This suggests a period of indecision or lack of momentum, which may result in a continuation of this sideways trend unless a catalyst emerges.\n\nWithout the RSI and with an incomplete MACD reading, we are left to focus on the simple moving average (SMA) as a key technical tool. The SMA(20) at 1.38516 is a crucial level to watch, as price action near this level often acts as support. A break below this level would likely open the door to further downside movement, potentially testing lower levels such as 1.38450 or even 1.38300. On the other hand, any bullish reversal would require the price to move above the recent high of 1.38619, possibly signaling a shift towards 1.38750 as the next resistance level.\n\nThe absence of clear momentum indicators requires a more cautious approach. Traders should focus on the critical support around the SMA(20) and monitor price action closely for any signs of a breakout. If the price holds above 1.38516, a continuation of the range-bound price action is likely. Conversely, a move below this level could be an indication of weakness and potential bearish pressure, suggesting that short positions could become favorable.\n\nIn terms of trading strategy, maintaining a wait-and-see approach may be wise for now. If the price establishes a clear break above 1.38619, traders could look for long opportunities targeting 1.38750. However, a sustained move below the SMA(20) should prompt traders to consider short positions, targeting the next significant support around 1.38450."
+    }
+  }
+}

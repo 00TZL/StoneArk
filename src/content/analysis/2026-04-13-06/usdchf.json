@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-04-13T06:13:15.499Z",
+  "price": {
+    "close": "0.79176",
+    "high": "0.7921",
+    "low": "0.79155",
+    "open": "0.79204",
+    "change": "-0.04",
+    "datetime": "2026-04-13 16:00:00"
+  },
+  "indicators": {
+    "rsi": 62.18342,
+    "macd": 0.00068823228,
+    "macd_signal": 0.0006257551,
+    "sma20": 0.790869
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：短线震荡偏多",
+      "content": "当前美元/瑞郎价格在0.79176附近波动，短期内维持轻微下跌趋势，但整体仍在20日均线0.79087之上，显示多头略占优势。价格高低点接近，说明市场短线缺乏明确方向，存在震荡整理特征。  \n\nMACD呈现正值0.000688，暗示多头动能存在，但信号线未提供参考，需要关注动能是否能持续放大。缺少RSI数据限制了超买超卖判断，但结合均线和价格形态可视为中性偏多。价格站稳均线上方，有利于多头延续。  \n\n支撑位初步设在0.7905，若跌破可能引发短线回调至0.7895附近；阻力位在0.7922至0.7930区域，突破后或迎来进一步上涨空间。震荡格局下，操作应谨慎控制风险，关注价格是否形成突破信号。  \n\n建议短线交易者可在支撑附近低吸，止损设在0.7895以下，目标瞄准0.7925-0.7930区间；若价格突破阻力并收稳，可考虑跟进多单；反之如跌破支撑则应及时减仓或观望，避免追高承压。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently trading at 0.79176, showing minimal movement in the past 24 hours with a slight decrease of 0.04%. This subtle dip reflects the pair's neutral stance, with the price fluctuating within a tight range between 0.79155 and 0.7921. The market appears to be consolidating near this level, indicating indecision or a lack of strong directional momentum. For now, traders should be cautious of large price moves, as no clear trend has yet emerged in the short term.\n\nIn terms of trend analysis, the pair's movement has been relatively stable around its 20-period simple moving average (SMA) of 0.79087. This SMA serves as a key support level, with price consistently hovering near it. A break below this level could open up further downside towards the 0.79155 low. Conversely, the resistance is found at the 0.7921 level, which has been acting as a ceiling for the price in recent hours. A sustained move above this resistance could suggest a possible bullish retracement, potentially targeting the 0.7930 range.\n\nThe lack of a definitive RSI reading and the absence of a clear signal from the MACD makes it difficult to draw any immediate conclusions regarding momentum. However, the MACD histogram value of 0.000688 indicates a very slight bullish sentiment, but this remains neutral until further indicators confirm a trend. With such mixed signals, it's best to wait for a clear breakout from the 0.79155-0.7921 range before making any strong directional bets.\n\nFor trading strategies, given the current tight price action, traders may consider adopting a range-bound strategy, buying near 0.79155 support and selling close to 0.7921 resistance. Tight stop-loss orders should be placed just outside these levels to manage risk. Alternatively, a break above 0.7921 or below 0.79155 could lead to stronger directional moves, allowing for more aggressive entries with wider stop losses."
+    }
+  }
+}
