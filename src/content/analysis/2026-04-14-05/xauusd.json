@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-04-14T06:01:14.160Z",
+  "price": {
+    "close": "4761.82413",
+    "high": "4774.33389",
+    "low": "4758.3606",
+    "open": "4774.26035",
+    "change": "-0.26",
+    "datetime": "2026-04-14 15:00:00"
+  },
+  "indicators": {
+    "rsi": 56.8768,
+    "macd": 10.8935,
+    "macd_signal": 7.7114,
+    "sma20": 4743.5878
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短期震荡偏弱，关注关键支撑位",
+      "content": "当前XAU/USD价格围绕4761.82美元徘徊，日内波动幅度有限，整体呈现震荡偏弱格局。价格虽略低于20日均线4743.59美元，但未形成明显下破，短期趋势仍需观察进一步确认。高低点区间4774.33/4758.36美元显示市场承压，但多空力量尚未完全分化。  \n\nMACD指标显示多头动能仍存，当前值10.89美元，虽略有回落，但未形成明显死叉，暗示短期调整可能有限。RSI数据缺失，但结合价格走势及均线，可推测市场处于中性偏弱区域，短线交易需谨慎操作，避免追高。  \n\n支撑位方面，关注4758.36美元附近的短期底部支撑，如跌破则可能引发进一步下探；阻力位则在4774-4780美元区间，多头需突破此区域方能延续上行。均线及日内高低点均提示多空拉锯，短线操作应以顺势为主，设好止损以控制风险。  \n\n交易建议上，当前可考虑低位逢低轻仓多单，止损设在4755美元附近，目标上看4774-4780美元阻力；若价格跌破支撑，短线可考虑空单布局，注意严格控制仓位。总体上，黄金仍处于震荡区间，操作上需耐心等待趋势明朗化。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold is currently trading slightly lower at $4761.82, showing minor bearish sentiment after a 0.26% decline over the last 24 hours. The intraday range between $4758.36 and $4774.33 suggests consolidation, with the market testing both short-term support and resistance levels. The recent price action indicates that while the overall trend remains bullish on higher timeframes, immediate momentum is softening, possibly due to profit-taking near key psychological levels around $4775. Traders should watch for a decisive break above or below this range to confirm direction.  \n\nThe 20-period SMA at $4743.59 offers a solid support zone, which aligns with recent swing lows, suggesting buyers may step in if prices approach this area. The MACD, currently at 10.89, remains positive, indicating underlying bullish pressure, although the absence of a signal line reading tempers the clarity of crossover signals. Without a functioning RSI, momentum analysis is limited, but the MACD reading alone hints that upward energy may still be present, albeit constrained in the short term.  \n\nResistance is clearly seen near the recent high of $4774.33, with a secondary psychological barrier around $4780. Should prices push through these levels with conviction, the next targets could reach $4800, reinforcing the medium-term bullish case. Conversely, if selling pressure intensifies and the SMA at $4743.59 is breached, gold could retrace toward $4725, making cautious risk management crucial. Monitoring intraday candlestick patterns can provide early signals of reversal or continuation.  \n\nFor traders, short-term strategies could include buying near $4745-$4750 with tight stops below the SMA, aiming for the $4775-$4780 range as a conservative target. More aggressive positions could focus on breakout trades above $4775, capitalizing on momentum toward $4800. On the downside, risk-conscious traders may consider small-scale sell positions if the SMA fails, targeting $4725, while keeping a close eye on global macro factors such as USD strength and inflation expectations, which remain key drivers for gold price movements."
+    }
+  }
+}

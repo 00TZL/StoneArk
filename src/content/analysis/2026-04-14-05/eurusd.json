@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-04-14T05:55:30.380Z",
+  "price": {
+    "close": "1.17641",
+    "high": "1.17702",
+    "low": "1.17606",
+    "open": "1.17679",
+    "change": "-0.03",
+    "datetime": "2026-04-14 15:00:00"
+  },
+  "indicators": {
+    "rsi": 68.14377,
+    "macd": 0.0016636152,
+    "macd_signal": 0.0015125704,
+    "sma20": 1.17408
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[市场震荡，短期无明确趋势]",
+      "content": "当前欧元/美元（EUR/USD）价格在1.17641附近，市场走势相对平稳。近期价格波动较小，呈现震荡整理模式，未出现强烈的趋势性发展。24小时内变化幅度仅为-0.03%，反映出市场的观望情绪。\n\n从技术指标来看，RSI和MACD的数值尚未提供清晰的买卖信号，尤其是RSI值缺失，可能是由于市场缺乏强烈动能。MACD的当前数值为0.0017，显示出市场处于零轴附近，暗示短期内多空力量接近平衡。\n\n在支撑和阻力方面，当前价格接近1.17606的短期支撑位，而上方的阻力位则位于1.17702附近。如果价格突破1.17702，可能会短暂测试更高水平，但若跌破1.17606，则可能进一步回落。\n\n鉴于当前市场缺乏明确方向，短期内建议采取观望态度，除非价格突破关键支撑或阻力位。投资者可以考虑在短期区间内进行低买高卖操作，但应注意控制风险。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD is currently hovering around 1.17641, showing minimal movement over the past 24 hours with a slight decline of 0.03%. The pair’s short-term trend appears neutral, as recent price action oscillates narrowly between the intraday high of 1.17702 and low of 1.17606. While the 20-period simple moving average at 1.17408 lies just below the current price, it suggests mild upward support. Traders should note that the market is consolidating, and clear directional momentum has yet to establish itself.  \n\nFrom a technical standpoint, the MACD reading of 0.00166 indicates modest bullish momentum, although the absence of the signal line makes crossover confirmation unavailable. Without the RSI, overbought or oversold conditions remain uncertain, but the narrow intraday range implies equilibrium between buyers and sellers. Price action hugging the SMA suggests that short-term momentum is mildly supportive of higher levels, though any breakout above recent highs will be crucial for trend validation.  \n\nKey support is located around the 1.1740 area, coinciding with the SMA(20), providing a buffer against further downside. Immediate resistance lies near 1.1770, reflecting the intraday peak and a psychological level for short-term traders. A decisive move above 1.1775 could open space toward 1.1790, whereas a breakdown below 1.1740 might trigger a test of 1.1725. Monitoring these levels will be critical for identifying potential entry and exit points in a market currently lacking strong directional cues.  \n\nTrading strategies should emphasize patience, with range-bound approaches preferred until momentum indicators provide clearer signals. Short-term traders might consider buying near 1.1740 with tight stop-losses, targeting 1.1770-1.1780, while cautious sellers could look for rejection around 1.1770-1.1780. Overall, the pair is in a consolidation phase, suggesting low volatility conditions, making breakout trades or swing setups more appropriate than aggressive directional bets for now."
+    }
+  }
+}

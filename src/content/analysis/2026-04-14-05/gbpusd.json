@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-04-14T05:56:11.651Z",
+  "price": {
+    "close": "1.35152",
+    "high": "1.35215",
+    "low": "1.35115",
+    "open": "1.35202",
+    "change": "-0.04",
+    "datetime": "2026-04-14 15:00:00"
+  },
+  "indicators": {
+    "rsi": 69.94972,
+    "macd": 0.0020920984,
+    "macd_signal": 0.0019512267,
+    "sma20": 1.34877
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[震荡整理，短期震荡区间内波动]",
+      "content": "当前英镑/美元（GBP/USD）呈现震荡整理的走势，价格在1.35115至1.35215区间内波动，暂时没有明显的单边趋势。从技术面来看，市场情绪较为谨慎，缺乏明确的买卖信号。\n\nRSI指标尚未给出明确的超买或超卖信号，意味着市场暂时没有过度买入或卖出现象。MACD线和信号线之间的差距较小，表明短期内动能偏弱，趋势不明显。SMA(20)的支撑位为1.34877，显示出短期内可能有支撑的迹象。\n\n从支撑和阻力来看，当前的支撑位在1.35115，若价格下破此位置，可能会进一步测试1.34877的支撑位。上方的阻力位在1.35215，若突破此阻力，则有可能向更高价位（如1.3550）发起攻势。考虑到市场的震荡性质，短期内价格可能维持在这些区间内波动。\n\n交易建议上，建议采取区间交易策略，逢低买入、逢高卖出。止损位可设在1.34800以下，目标价位为1.3550。如果价格突破区间边界，考虑根据突破方向调整交易策略。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD is currently trading at 1.35152, with a slight 24-hour change of -0.04%. The price action remains within a narrow range, indicating a market in consolidation. Over the past 24 hours, the pair has seen a high of 1.35215 and a low of 1.35115, suggesting limited volatility. In this range, price has held steady, reflecting indecision among traders. The lack of significant movement signals that market participants are waiting for stronger directional cues, possibly from upcoming economic data or central bank announcements.\n\nThe absence of RSI and the signal line for the MACD makes it difficult to interpret momentum with these indicators. However, the MACD value of 0.0020920984 suggests a slight bullish momentum, albeit not strong enough to trigger a clear directional signal. Without a confirmed crossover or divergence, the technical indicators don't offer a solid basis for a major move. Meanwhile, the 20-period SMA at 1.34877 is providing a potential support zone. If price tests this level and holds above it, it may reinforce a bullish short-term bias.\n\nLooking at key support and resistance levels, the immediate support for GBP/USD lies at the 1.35115 low, which is being tested in the current market. A break below this level could see the pair dip toward the 1.34800 zone, where the 20-period SMA is located. On the upside, resistance is found near the 1.35215 high, with a potential to reach toward the 1.35500 level if momentum turns more bullish. However, traders should be cautious of potential range-bound conditions unless a breakout occurs.\n\nFor traders, a breakout above 1.35215 could trigger buying opportunities, targeting higher resistance near 1.35500. Conversely, a breakdown below the current low of 1.35115 could offer short positions with targets around 1.34800. With the current lack of strong momentum signals, a wait-and-see approach with tight risk management is advisable."
+    }
+  }
+}

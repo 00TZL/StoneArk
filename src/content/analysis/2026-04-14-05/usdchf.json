@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-04-14T06:00:29.921Z",
+  "price": {
+    "close": "0.78335",
+    "high": "0.78367",
+    "low": "0.78293",
+    "open": "0.7831",
+    "change": "0.03",
+    "datetime": "2026-04-14 15:00:00"
+  },
+  "indicators": {
+    "rsi": 28.61215,
+    "macd": -0.0017643911,
+    "macd_signal": -0.0017221785,
+    "sma20": 0.7853835
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[震荡整理，短期偏空]",
+      "content": "目前美元/瑞郎（USD/CHF）在0.78335附近交易，价格变化不大，呈现震荡整理态势。短期内，价格维持在0.78293至0.78367之间波动，表明市场情绪较为谨慎，缺乏明显方向。\n\n从技术指标来看，RSI和MACD指标尚未提供明确的买入或卖出信号。当前的MACD值为负值，暗示空头力量稍微占优，但由于Signal线未显示，趋势方向仍不明确。SMA(20)在0.7854附近，短期内形成一定的阻力位，若突破此水平，则可能会有反弹。\n\n支撑位位于0.78293，若价格跌破此点位，可能会进一步下探至0.78100附近。若价格突破上方的0.78367，则可能会测试更高的价格区域。当前市场缺乏强烈趋势，建议投资者保持观望，等待价格突破重要支撑或阻力位后再做决策。\n\n综上所述，美元/瑞郎目前的走势较为震荡，短期内偏空，建议投资者密切关注支撑和阻力的突破信号，以便在价格出现明显方向时进行相应操作。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair has been relatively stable, trading just below the 0.7850 mark, suggesting a neutral to slightly bearish bias in the short term. Price is currently sitting near its 20-period simple moving average (SMA), which could act as a dynamic resistance level. The small 24-hour price change indicates a lack of strong momentum, and a potential consolidation phase may be underway. A break above 0.7854, the SMA, could signal a shift to a more bullish sentiment, targeting 0.7875 as the next key resistance.\n\nFrom a technical perspective, the MACD is showing a negative value of -0.00176, implying bearish momentum, though without a signal line to compare against, it's difficult to confirm a strong trend reversal. Given the current conditions, traders should be cautious, as the absence of clear bullish or bearish signals calls for a wait-and-see approach. If the MACD turns positive, confirming upward momentum, the pair could test higher resistance levels.\n\nIn terms of support, the pair’s recent low of 0.78293 presents an important level to watch. A break below this could open the door to further downside, with 0.7800 being a key psychological support level. However, if prices hold above this support and show a price action reversal, a move towards the 0.7854 SMA could trigger bullish sentiment. In the current market, range-bound trading could be favored unless clear momentum emerges.\n\nFor trading strategies, a conservative approach would be to wait for a clear break above 0.7854 or below 0.7829 to confirm the direction. A break above 0.7854 could offer a buying opportunity targeting the next resistance, while a move below 0.7829 could signal a short position with a target near 0.7800."
+    }
+  }
+}

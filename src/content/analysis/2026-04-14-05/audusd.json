@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-04-14T05:57:58.984Z",
+  "price": {
+    "close": "0.70811",
+    "high": "0.70887",
+    "low": "0.70789",
+    "open": "0.70874",
+    "change": "-0.09",
+    "datetime": "2026-04-14 15:00:00"
+  },
+  "indicators": {
+    "rsi": 54.20136,
+    "macd": 0.00083717142,
+    "macd_signal": 0.00096044844,
+    "sma20": 0.707892
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理，缺乏明确方向]",
+      "content": "当前，澳元/美元(AUD/USD)呈现震荡整理走势，价格在0.70789至0.70887区间波动。近期价格略微下行，但整体波动幅度较小，市场缺乏明确的方向性。虽然RSI和MACD指标尚未提供足够的信号，但价格保持在短期20日简单移动平均线(SMA)附近，表明市场处于平衡状态。\n\n从技术指标来看，MACD的正值0.000837表明短期内存在买盘动能，但由于信号线数据缺失，未能确认进一步的上涨动力。SMA(20)位于0.707892，已成为短期支撑水平。如果价格继续维持在此区间内震荡整理，未来的突破可能会决定价格的下一步走向。\n\n支撑位方面，0.70789为短期重要支撑线，若价格下破此位置，可能会进一步测试0.70500的支撑水平。阻力位则位于0.70887附近，突破此点可能带动价格进一步上涨至0.71000的关键阻力。\n\n基于当前走势，建议保持观望，等待价格突破关键支撑或阻力位后再做进一步操作。如果突破上行，可以考虑做多；若下行破位，建议寻找卖出机会。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar (AUD) against the US Dollar (USD) is currently showing a modest negative change of -0.09% in the past 24 hours, with the latest price standing at 0.70811. This slight decline suggests a consolidation phase after the recent price fluctuations, with the pair trading within a narrow range between the daily high of 0.70887 and low of 0.70789. This range-bound movement could be indicative of indecision in the market, as traders await further economic signals that might dictate the next move.\n\nIn terms of trend analysis, the price remains above the 20-period simple moving average (SMA) at 0.707892, suggesting a mild bullish bias in the near term. However, without a clear directional break above recent highs, the pair could face resistance at 0.7090. A failure to maintain the price above this level may lead to a retest of lower support levels, particularly the 0.7070 area, which is likely to act as a strong level of support, given the current tight range and recent lows.\n\nLooking at the indicators, while the RSI (14) is not available, the MACD shows a positive value of 0.00083717142, hinting at some bullish momentum. However, with the signal line unavailable, this indicator lacks confirmation of a sustained trend. If the MACD continues to rise or if the price breaks above the 0.7090 resistance, it would reinforce the bullish outlook. Conversely, any price drop below 0.7070 could signal a shift to a bearish momentum, increasing the risk of further downside towards the 0.7050 support.\n\nFor trading, a breakout above 0.7090 could offer a buying opportunity, targeting the 0.7100 level as the next resistance. Alternatively, a dip below 0.7070 might present a short entry, with the potential to target lower support at 0.7050. Traders should monitor any changes in broader market sentiment, especially with economic news from both Australia and the US, which could drive the pair's movement in either direction."
+    }
+  }
+}

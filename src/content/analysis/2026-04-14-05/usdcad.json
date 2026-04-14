@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-04-14T05:58:43.003Z",
+  "price": {
+    "close": "1.37868",
+    "high": "1.37893",
+    "low": "1.37826",
+    "open": "1.37828",
+    "change": "0.03",
+    "datetime": "2026-04-14 15:00:00"
+  },
+  "indicators": {
+    "rsi": 29.81465,
+    "macd": -0.0014925544,
+    "macd_signal": -0.0014792448,
+    "sma20": 1.3802
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：短期震荡偏弱",
+      "content": "目前美元/加元价格徘徊在1.37868附近，日内波动幅度有限，仅0.03%，显示市场短期缺乏明确方向。从整体趋势看，价格低于20日简单移动平均线(SMA20=1.38020)，短期呈现轻微下行压力，但跌幅不大，说明多空力量暂时平衡。  \n\nMACD指标显示为-0.00149，虽接近零轴，但仍处于负值区域，暗示空头略占优势，动能偏弱。由于信号线数据缺失，无法确认趋势反转，但短线空头动能有限，投资者应关注价格对均线的反应，防止盲目追空。  \n\n支撑位上，近期低点1.37826构成短线支撑，如跌破可能引发进一步调整。阻力位则在1.37893附近，短期多头若突破此价位，有望测试SMA20附近压力。结合价格区间波动，当前震荡特征明显，多空双方势均力敌。  \n\n交易建议上，偏向区间操作，低位可考虑小额做多，高位或接近阻力位可短线减仓或做空，严格控制止损。短线交易者应关注价格对均线和关键支撑阻力的反应，谨慎跟随趋势，同时留意市场消息面对加元和美元的影响。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently showing a relatively neutral stance, hovering around 1.37868, with a minimal 24-hour change of 0.03%. This slight fluctuation indicates a market in consolidation. Despite this, the pair has not breached any significant support or resistance levels, which suggests a continuation of the sideways movement in the short term. As the market approaches the daily high of 1.37893 and low of 1.37826, traders may look for a potential breakout above or below these levels to determine the next directional move.\n\nThe 20-period simple moving average (SMA) at 1.38020 offers some perspective on the medium-term trend. Although the price is currently slightly below the SMA, which may suggest a mild bearish bias, this position is not extreme enough to confirm a strong downward trend. The lack of significant movement away from the SMA highlights the market's indecision. Traders will likely need additional confirmation through momentum indicators like RSI or MACD to gauge the strength of any potential trend reversal.\n\nFrom a technical perspective, the lack of a significant RSI reading or MACD signal further supports the idea of market indecision. The negative MACD value of -0.00149 indicates a slight bearish bias, but the absence of a defined trend and the lack of a clear RSI reading make it difficult to predict a strong move in either direction. Traders should keep an eye on any sharp moves that may occur in the upcoming hours to identify whether the market will gain momentum or continue its range-bound behavior.\n\nIn terms of trading strategies, the USD/CAD pair presents a favorable opportunity for range trading, especially considering the narrow daily high/low range. A conservative approach could involve waiting for a breakout beyond the high or low levels to trigger a move. Alternatively, a tighter entry strategy could be employed, where trades are executed on short-term bounces near support or resistance levels. Patience will be key, as the market needs to show clearer signs of direction before committing to larger positions."
+    }
+  }
+}
