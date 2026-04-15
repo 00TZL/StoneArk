@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-04-15T05:55:04.928Z",
+  "price": {
+    "close": "1.17905",
+    "high": "1.17978",
+    "low": "1.17888",
+    "open": "1.17889",
+    "change": "0.01",
+    "datetime": "2026-04-15 15:00:00"
+  },
+  "indicators": {
+    "rsi": 55.98337,
+    "macd": 0.00066070034,
+    "macd_signal": 0.00099947038,
+    "sma20": 1.1795
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[当前震荡整理，短期维持区间波动]",
+      "content": "当前欧元/美元(EUR/USD)价格在1.17905附近，市场表现较为震荡，24小时变化仅为0.01%。从价格波动来看，欧元/美元在1.17978和1.17888之间震荡整理，未出现显著的突破或反转。短期内，市场可能继续维持这一区间的波动，暂时没有明确的趋势方向。\n\n在技术指标方面，虽然RSI(14)未提供，但从MACD指标来看，当前值为0.00066070034，暗示着市场处于轻微的多头状态。然而，由于缺乏强劲的动能，MACD未能显示出明显的买盘压力，因此仍需保持谨慎。SMA(20)均线略微支撑当前价格，反映出市场的短期均衡状态。\n\n支撑位方面，1.17888是关键的短期支撑，若跌破该水平，可能会加剧卖压，测试更低的区域。1.17978则是当前的短期阻力位，若突破该位置，可能会触发进一步的上涨。不过，整体走势仍然是震荡格局，突破的概率较小。\n\n建议交易者在当前区间内操作，若价格接近支撑位可考虑轻仓做多，而接近阻力位时可考虑卖出。整体策略是等待突破信号或确认趋势反转的迹象。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently trading at 1.17905, exhibiting a relatively narrow range with a modest 24-hour change of 0.01%. The price has seen minor fluctuations between the day’s high of 1.17978 and the low of 1.17888. This suggests a consolidation phase, where the market lacks strong momentum in either direction. The trend remains neutral in the short term, with price action hovering near the 20-period SMA of 1.17950. Traders may want to wait for a decisive breakout before making significant moves.\n\nIn the absence of a clear RSI or MACD signal, analyzing the price structure becomes crucial. The MACD value of 0.00066070034 suggests that the bullish momentum is weak, as the pair has not yet crossed the signal line. Without additional confirmation from other indicators, the market may remain in a sideways movement, offering limited opportunities for trend-following strategies. Should the price break above 1.17978, this could indicate a short-term bullish shift, while a drop below 1.17888 could signal further downside potential.\n\nKey support and resistance levels for the EUR/USD pair are located at 1.17888 on the downside and 1.17978 on the upside. These levels are likely to act as immediate barriers, with the 1.17950 SMA serving as a key pivot point. A breakout above the resistance level at 1.17978 could open the path to 1.18100, while a decline below 1.17888 could target the next support near 1.17750. Monitoring these levels for potential price action will be critical in shaping a trade strategy.\n\nFor traders looking for short-term opportunities, a breakout strategy could be viable. A move above 1.17978 could prompt long positions with a target near 1.18100, while a drop below 1.17888 could justify a short position towards 1.17750. As the market remains in a consolidation phase, risk management should be emphasized, with tight stops around the support and resistance boundaries to mitigate potential whipsaws."
+    }
+  }
+}

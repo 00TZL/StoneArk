@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-04-15T05:57:17.466Z",
+  "price": {
+    "close": "0.71369",
+    "high": "0.71435",
+    "low": "0.71329",
+    "open": "0.71331",
+    "change": "0.06",
+    "datetime": "2026-04-15 15:00:00"
+  },
+  "indicators": {
+    "rsi": 67.80854,
+    "macd": 0.00092611362,
+    "macd_signal": 0.0010760615,
+    "sma20": 0.7130325
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：震荡整理，短期维持偏多",
+      "content": "目前，澳元/美元在0.71369附近波动，显示出短期内的震荡整理走势。价格接近20日简单移动平均线(SMA 20)的0.71303水平，反映出市场暂时缺乏明确的趋势方向。当前价格在0.71435的日内高点附近遇到一定压力，而下方0.71329的低点提供了支撑。\n\n技术指标方面，MACD处于0.0009附近，显示出市场的动能略有上升，但尚未形成强烈的买入或卖出信号。由于RSI未提供足够数据，无法确认是否进入超买或超卖区域，但价格在当前区间内波动较为稳定，意味着市场多空力量仍在博弈。\n\n支撑位方面，0.71329附近是一个重要的支撑区域，一旦跌破，可能会向更低的区域测试。上方阻力位在0.71435，突破该水平可能会推动价格向0.71500或更高水平发展。短期内，若价格继续维持在0.71330至0.71435区间内震荡，交易者可以考虑采用区间交易策略。\n\n综合来看，建议短期内保持观望，等待突破或回调时进行操作。如果价格突破上行阻力位，可以考虑建立多头仓位；若跌破支撑位，则应考虑适度做空。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar (AUD) against the US Dollar (USD) shows a relatively stable trading range with a minor 24-hour change of 0.06%. Currently, the price stands at 0.71369, showing limited volatility. The market appears to be consolidating, with the latest high at 0.71435 and the low at 0.71329. These levels provide a clear indication of tight range-bound movement. The absence of extreme price swings suggests a lack of significant momentum in either direction at present.\n\nFrom a technical standpoint, the Simple Moving Average (SMA) for the 20-period is at 0.7130325, indicating that the price is trading just above the average. This could suggest a slight bullish bias in the short term, as the price remains above the SMA, but the market still lacks a definitive directional trend. The RSI and MACD values are not available for further clarity on momentum and overbought/oversold conditions, which are often key for more detailed analysis.\n\nSupport levels are evident at the 0.71329 low, which could act as a floor if the price tests lower ranges. If the price dips further below this, we may see additional selling pressure, with the next key support lying around 0.7120. On the resistance side, the 0.71435 high offers an immediate barrier. A break above this resistance level could open the door for further upside towards 0.7155 and beyond, though the market would need to show stronger momentum for such a move.\n\nFor traders, this market may present opportunities for range trading. A break of the 0.71329 support could signal a short position, while a break above 0.71435 might present a buying opportunity. However, the lack of strong indicators calls for cautious positioning until more momentum or clearer signals emerge."
+    }
+  }
+}

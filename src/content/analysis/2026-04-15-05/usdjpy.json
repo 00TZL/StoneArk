@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-04-15T05:56:32.348Z",
+  "price": {
+    "close": "158.94047",
+    "high": "158.99951",
+    "low": "158.91288",
+    "open": "158.99042",
+    "change": "-0.03",
+    "datetime": "2026-04-15 15:00:00"
+  },
+  "indicators": {
+    "rsi": 48.08016,
+    "macd": -0.04760681,
+    "macd_signal": -0.087880627,
+    "sma20": 158.85363
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：短期横盘整理，等待突破信号",
+      "content": "目前美元/日元报158.940附近，价格接近20日均线158.853，显示市场仍维持轻微多头倾向，但24小时波动极小，表明短线多空力量均衡，趋势尚未明确。价格在158.912至158.999区间波动，属于典型的横盘整理形态。  \n\nMACD处于负值区间，提示动能偏弱，短期内多头缺乏推进力，但尚未出现明显空头信号。RSI数据缺失，但从价格震荡和均线接近情况来看，市场短线可能处于震荡区间，投资者需等待更明确的指标确认方向。  \n\n支撑位可关注158.913附近的日内低点，一旦跌破，短期可能测试158.850附近均线支撑；阻力位则在158.999至159.000区域，若突破该区间，多头有望重新发力。整体技术面显示多空力量接近平衡，突破关键水平将决定后续方向。  \n\n交易上，短线操作建议以区间交易为主，可在支撑区域布局多单、阻力区域考虑减仓或空单，严格设置止损控制风险。中长线投资者可等待价格突破159关口确认趋势，再考虑顺势跟进。谨慎关注消息面和美元日元波动性变化，以防突发行情影响。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USD/JPY is currently navigating a narrow consolidation zone around 158.94, reflecting a temporary equilibrium between buying and selling pressures. The pair has slightly retraced from its intraday high of 158.999, indicating a mild resistance in the upper 159.00 area. The short-term trend leans slightly bullish, supported by the 20-period SMA at 158.853, which is holding as a dynamic support. Price action near this level suggests the market respects this moving average as a base for potential upward moves.  \n\nMomentum indicators show mixed signals. The MACD is slightly negative at -0.0476, hinting at subdued bearish momentum, although the lack of a corresponding signal line prevents a clear crossover confirmation. This suggests indecision, where neither bulls nor bears are dominant, often leading to sideways trading. Traders should monitor for a MACD shift above zero or a clear cross over a newly calculated signal line to confirm directional strength. The absence of a valid RSI reading leaves short-term overbought or oversold conditions uncertain, so relying on price structure becomes more important.  \n\nKey levels to watch include immediate support near 158.85, slightly below the 20-period SMA, which has held in previous sessions. A break below 158.85 could open a path toward 158.70, a secondary support level. Resistance remains firm at the 159.00 psychological mark; a decisive close above this area may trigger a bullish extension toward 159.20–159.30. The market’s tight range indicates that traders should anticipate smaller, technical moves unless a breakout occurs.  \n\nFor trading strategies, short-term traders might consider buying near 158.85 with tight stops, targeting the 159.00 resistance for a quick scalp. Conversely, a break below SMA support could offer shorting opportunities with targets around 158.70. Medium-term positions should wait for a confirmed trend breakout above resistance or below support. Risk management remains critical due to the pair’s low intraday volatility, with careful attention to any macroeconomic catalysts that could accelerate directional moves."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-04-15T06:00:37.256Z",
+  "price": {
+    "close": "4820.92761",
+    "high": "4829.67706",
+    "low": "4813.49872",
+    "open": "4825.7136",
+    "change": "-0.10",
+    "datetime": "2026-04-15 15:00:00"
+  },
+  "indicators": {
+    "rsi": 56.1752,
+    "macd": 15.64256,
+    "macd_signal": 19.29685,
+    "sma20": 4819.36811
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理，偏弱回调]",
+      "content": "当前黄金/美元（XAU/USD）价格处于4820.93附近，最近24小时内微幅下跌0.10%。市场价格在4813.50和4829.68之间震荡整理，显示出短期内缺乏明显的趋势推动力。当前价格接近20日简单移动平均线（SMA 20）4819.37，暗示市场正处于整理阶段。\n\n在技术指标方面，MACD指标显示15.64的正值，表明短期内有轻微的买盘动能。然而，由于缺乏RSI和信号线数据，短期内市场可能继续呈现震荡走势，未显示出明确的超买或超卖信号。此时，交易者应关注进一步的价格变化。\n\n支撑位方面，XAU/USD的主要支撑位在4813.50附近，若突破该点位，可能导致进一步回调。阻力位则在4829.68附近，突破此处可能会引发上行趋势。在当前价格区间内，市场呈现出较为清晰的震荡整理格局。\n\n建议交易者采取观望策略，等待价格突破支撑或阻力位后再进行交易。若突破下行支撑，可能适宜轻仓做空，而突破上行阻力时，则可考虑做多。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current price of XAU/USD is 4820.93, experiencing a minor dip of -0.10% in the last 24 hours. The market has been trading within a narrow range, with a high of 4829.68 and a low of 4813.50. This stability hints at a consolidation phase, potentially forming a base for the next directional move. The lack of strong upward or downward momentum suggests market indecisiveness, with key levels to watch for a breakout. \n\nWith the RSI(14) unavailable, analyzing momentum becomes more reliant on price action and moving averages. The 20-period Simple Moving Average (SMA) sits at 4819.37, which is acting as a dynamic support zone. If the price remains above this level, it might indicate a continuation of the recent sideways movement or the possibility of a bullish reversal. However, any breach below this level could open up a deeper retracement towards 4813.50, the lower boundary of the recent range.\n\nThe MACD is currently reading 15.64, which indicates that momentum is marginally bullish. However, with no available signal line, it’s difficult to assess the strength of this bullish trend. The MACD value alone doesn’t provide enough confirmation for a long position. Traders should wait for a cross above the zero line or confirmation from another indicator, such as RSI, before committing to any long trades. \n\nSupport is seen around the 4813.50 level, with resistance at the high of 4829.68. Traders should closely monitor these levels for a potential breakout or reversal. A break above 4829.68 could signal further upside, potentially targeting the 4840-4850 zone, while a break below 4813.50 could signal a move towards the 4800 mark. In this current range-bound market, tight stop losses and cautious trade management are essential."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-04-15T05:55:47.557Z",
+  "price": {
+    "close": "1.35655",
+    "high": "1.35776",
+    "low": "1.35648",
+    "open": "1.35674",
+    "change": "-0.01",
+    "datetime": "2026-04-15 15:00:00"
+  },
+  "indicators": {
+    "rsi": 59.12143,
+    "macd": 0.0012665433,
+    "macd_signal": 0.0016883316,
+    "sma20": 1.357
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[震荡整理，等待突破信号]",
+      "content": "目前，英镑/美元的价格处于1.35655，全天波动较小，表现出震荡整理的局面。短期内市场缺乏明确的趋势，价格在1.35700附近徘徊，未能突破较强的阻力位。这表明市场情绪谨慎，投资者观望情绪浓厚。\n\n从技术指标来看，RSI(14)未提供数据，而MACD的当前值为0.00127，表明短期内价格变动较为平稳。SMA(20)为1.35700，进一步支持了市场震荡整理的判断。缺乏显著的多头或空头动能，市场可能会继续维持在窄幅区间内波动。\n\n支撑位方面，1.35648附近为当前的短期支撑，而阻力位则集中在1.35776附近。若价格突破1.35776，可能会出现短期上涨的动能，但目前尚缺乏足够的信号来确认突破。投资者可密切关注这些价位的突破情况，作为进场的依据。\n\n建议交易者在当前震荡区间内进行区间交易，等待突破信号后再决定是否跟进。若价格持续在当前区间内波动，建议采取观望策略，避免因短期波动过度操作。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently trading near 1.35655, showing marginal downward movement within a narrow 24-hour range. Price action suggests short-term consolidation, hovering just below the 20-period SMA at 1.35700. This proximity indicates slight bearish pressure, as the pair has failed to decisively break above the SMA. The intraday high at 1.35776 and low at 1.35648 highlight limited volatility, signaling that traders are waiting for a catalyst before committing to significant positions.  \n\nThe MACD value of 0.00127, although small, implies that bullish momentum is weak. With no signal line available for confirmation, the reading alone suggests the potential for a short-term pullback if momentum diminishes further. The absence of an RSI complicates momentum analysis, but the flat movement around the SMA reinforces the idea of range-bound conditions. Traders should be cautious of false breakouts given the current indecisive trend.  \n\nImmediate resistance lies at 1.35775, where recent highs have been rejected, while support is observed near 1.35640, reflecting the low of the 24-hour range. A firm break above resistance could target 1.35850–1.35900, whereas a drop below support may open the door to 1.35550. Given the tight range, intraday traders could focus on scalping around these levels, emphasizing disciplined stop-loss placement to manage risk effectively.  \n\nFor strategy, short-term traders might favor fading the edges of the range, selling near resistance and buying near support, while awaiting a clear breakout for trend-following positions. Longer-term participants should monitor macroeconomic developments, including UK-US rate expectations and economic releases, as these will likely determine the direction beyond the current consolidation. Patience is key, as momentum indicators and price action both point to limited directional conviction at this stage."
+    }
+  }
+}

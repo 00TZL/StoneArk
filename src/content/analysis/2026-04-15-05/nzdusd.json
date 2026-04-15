@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-04-15T05:59:06.977Z",
+  "price": {
+    "close": "0.5903",
+    "high": "0.59092",
+    "low": "0.59008",
+    "open": "0.5901",
+    "change": "0.04",
+    "datetime": "2026-04-15 15:00:00"
+  },
+  "indicators": {
+    "rsi": 61.52556,
+    "macd": 0.00066185084,
+    "macd_signal": 0.00089217485,
+    "sma20": 0.59035
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[当前震荡整理，等待突破]",
+      "content": "目前纽元/美元呈现震荡整理走势，最新价格为0.5903，24小时变化较小，仅为0.04%。价格在0.59008和0.59092之间波动，表明市场缺乏方向性，投资者的观望情绪较浓。从短期来看，市场仍未显示出明显的上行或下行动力。\n\n技术指标方面，RSI(14)数据暂缺，MACD指标显示为0.00066，表明短期内市场走势较为平缓，未出现强烈的买入或卖出信号。SMA(20)则处于0.59035附近，表明当前价格与20日简单移动均线接近，支持价格在该位置附近震荡。价格未突破该均线，暗示市场仍未进入明显趋势。\n\n支撑位和阻力位分别位于0.59008和0.59092之间。若价格突破上方阻力位0.59092，可能会出现短期反弹，进一步挑战0.5920或更高位置。若跌破下方支撑位0.59008，则可能进一步下探0.5880附近的支撑区间，确认下行风险。\n\n建议在目前的震荡区间内，采取观望策略，待市场突破支撑或阻力位后再考虑进场。对于短线交易者，可选择等待更明确的价格突破信号，避免在震荡整理期内进行过度交易。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently experiencing a period of consolidation with price movement confined between a narrow range. At the latest price of 0.5903, the pair is hovering just above the 20-period Simple Moving Average (SMA), suggesting a neutral short-term bias. The current market shows limited volatility, with a 24-hour change of just 0.04%. This indicates indecision in the market, where neither buyers nor sellers are able to gain significant traction, leading to sideways price action.\n\nThe Relative Strength Index (RSI) is unavailable at the moment, making it difficult to determine if the pair is in overbought or oversold territory. However, the MACD line at 0.00066185084 indicates a slight bullish momentum, but with no available signal line, the momentum lacks confirmation. Traders should be cautious, as the lack of clarity in both RSI and MACD makes this a less reliable signal for making definitive decisions. Further price action or indicator updates are required to establish a stronger trend.\n\nIn terms of support and resistance, the pair is currently testing the lower end of its recent range, with a low of 0.59008. A break below this level could lead to further declines, possibly testing the next key support around 0.5880. Conversely, the price is also near the daily high of 0.59092, which acts as immediate resistance. A break above this level could signal a return to upward momentum, possibly aiming for the 0.5920 zone as the next resistance.\n\nGiven the current market conditions, traders should consider waiting for a clear breakout above 0.59092 or a breakdown below 0.59008 before taking significant positions. If either level is breached with strong volume, a more decisive trend could form, providing clearer opportunities for entering trades. In the meantime, a neutral stance might be appropriate while monitoring key price levels for further clues."
+    }
+  }
+}
