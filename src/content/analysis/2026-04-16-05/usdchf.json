@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-04-16T06:00:29.005Z",
+  "price": {
+    "close": "0.78119",
+    "high": "0.7813",
+    "low": "0.78072",
+    "open": "0.7808",
+    "change": "0.05",
+    "datetime": "2026-04-16 15:00:00"
+  },
+  "indicators": {
+    "rsi": 46.77599,
+    "macd": -0.00025823964,
+    "macd_signal": -0.00018414959,
+    "sma20": 0.781611
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[震荡整理]",
+      "content": "当前美元/瑞郎的走势表现为震荡整理。价格在0.7813和0.78072之间波动，未显示出明确的上涨或下跌趋势。市场维持在该区间内，缺乏强势突破，价格波动幅度较小。\n\n技术指标上，RSI(14)未显示数据，无法提供超买或超卖的判断。MACD值为-0.00025823964，处于负值区间，表明短期内市场情绪偏弱。SMA(20)为0.781611，价格接近该水平，表明短期内市场在均线附近震荡。\n\n支撑位位于0.78072，若价格跌破此位，可能会进一步测试更低的支撑区间。阻力位则在0.7813，突破该价位可能会引发短期上涨。当前市场缺乏强烈的动能，难以预期大幅波动。\n\n基于现有走势，建议采取观望策略，除非价格突破区间支撑或阻力位后再考虑进场。如果突破0.7813，短期内可考虑做多，若跌破0.78072，则可考虑做空。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently trading near 0.78119, showing marginal upward movement of 0.05% over the past 24 hours. Price action has been relatively tight between 0.78072 and 0.7813, indicating low intraday volatility. The pair appears to be in a short-term consolidation phase, with no decisive breakout observed. This sideways behavior suggests the market is waiting for fresh catalysts, either from U.S. economic releases or Swiss economic indicators, to determine the next directional bias.  \n\nTechnical momentum indicators show mixed signals. While the RSI value is unavailable, the MACD is slightly negative at -0.000258, implying minor bearish momentum. The 20-period SMA at 0.781611 is slightly above the current price, which can act as a dynamic resistance level. The combination of price hovering just below the SMA and a negative MACD hints at potential short-term weakness, though the narrow daily range tempers the bearish conviction. Traders should watch for price interactions with the SMA for confirmation of trend continuation or reversal.  \n\nKey horizontal support lies near 0.7807, coinciding with the daily low, while immediate resistance is positioned at 0.7813, representing the high of the last 24 hours. A decisive breach above 0.7813 could open the door toward 0.7820–0.7825, whereas a drop below 0.7807 may expose 0.7800 as a psychological support. These levels serve as critical checkpoints for intraday strategies, particularly for scalpers and short-term swing traders looking to capitalize on small price oscillations.  \n\nFor trading considerations, cautious positioning is recommended. Breakout traders might wait for clear confirmation above the SMA or below the support zone to establish directional trades. Short-term range traders can exploit the tight consolidation using small buy positions near support and sell positions near resistance, with tight stop-losses to manage risk. Overall, the pair is in a delicate equilibrium, with the next few sessions likely to define a more decisive trend direction."
+    }
+  }
+}

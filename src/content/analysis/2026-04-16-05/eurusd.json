@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-04-16T05:56:09.443Z",
+  "price": {
+    "close": "1.18078",
+    "high": "1.18102",
+    "low": "1.18034",
+    "open": "1.181",
+    "change": "-0.02",
+    "datetime": "2026-04-16 15:00:00"
+  },
+  "indicators": {
+    "rsi": 57.76224,
+    "macd": 0.00062753965,
+    "macd_signal": 0.00058320163,
+    "sma20": 1.18002
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[当前趋于横盘整理，价格区间窄幅震荡]",
+      "content": "目前，欧元/美元在1.18078附近徘徊，全天仅小幅波动。价格接近20日简单移动平均线(SMA 20)，表明短期内走势相对平稳，未出现明显的上涨或下跌动力。短期内该货币对有可能继续处于区间震荡状态。\n\n从技术指标来看，MACD仍处于零轴附近，显示出市场动能较弱。RSI指标缺失，但从价格波动来看，欧元/美元处于中性区域，未显示出超买或超卖的明显迹象。当前的价位表明，市场参与者在短期内缺乏明确方向，可能仍在等待更多的基本面信号。\n\n在支撑和阻力方面，1.18034附近形成短期支撑位，而1.18102则是上方阻力区间。如果价格突破上方阻力，可能出现短期反弹，反之若跌破支撑，可能进一步下探。\n\n综合来看，当前市场处于较为僵持的局面，建议投资者可选择短线交易，保持观望，待价格突破关键支撑或阻力位后再作决策。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD is currently hovering around 1.18078, showing minimal movement over the past 24 hours. The pair appears to be in a short-term consolidation phase, confined between yesterday’s high of 1.18102 and low of 1.18034. This narrow range indicates that market participants are cautious, possibly waiting for fresh macroeconomic data or central bank commentary. Price action near the 20-period simple moving average, currently at 1.18002, suggests that the pair is testing its immediate equilibrium without a clear directional bias.  \n\nThe MACD reading of 0.00062753965 points to a slightly bullish momentum, but the lack of a signal line prevents a definitive crossover interpretation. Traders should note that this minor positive divergence may be insufficient to sustain a strong uptrend without confirmation from other indicators. The absence of the RSI value leaves a gap in momentum assessment, but price oscillating around the SMA(20) generally implies indecision in the short-term trend. A break above or below the SMA could provide clearer directional cues.  \n\nImmediate resistance is likely near the recent intraday high of 1.18102, with a secondary resistance zone around 1.1820, where previous consolidation occurred. On the downside, support levels are observed at 1.1800, a psychologically significant round number, and further down at 1.1795. These levels can act as key decision points for both intraday traders and swing traders looking to manage risk or identify entry points for potential reversals or continuation moves.  \n\nFor trading strategies, cautious participants might wait for a confirmed breakout above resistance or a breakdown below support before committing to directional trades. Momentum-based traders could monitor the MACD and SMA for early signals, while range traders might exploit the current tight band by entering near support and targeting resistance. Risk management remains crucial, given the limited volatility and potential for false breakouts within this tight consolidation range."
+    }
+  }
+}

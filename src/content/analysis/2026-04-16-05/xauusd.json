@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-04-16T06:01:11.905Z",
+  "price": {
+    "close": "4822.60882",
+    "high": "4838.06143",
+    "low": "4822.60882",
+    "open": "4833.21673",
+    "change": "-0.22",
+    "datetime": "2026-04-16 15:00:00"
+  },
+  "indicators": {
+    "rsi": 54.1899,
+    "macd": 4.64059,
+    "macd_signal": 2.63181,
+    "sma20": 4811.69326
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理，短期偏弱]",
+      "content": "当前黄金/美元（XAU/USD）在4822.60附近震荡整理，短期内呈现出轻微的下行压力。从最新价格走势来看，虽然价格略有下跌，但整体波动幅度较小，未见明显的趋势突破。当前市场处于横盘整理阶段，缺乏强劲的上涨或下跌动力。\n\n在技术指标方面，MACD当前为4.64，显示出价格有轻微的买盘动能，但由于信号线缺失，未能提供进一步的趋势确认。同时，SMA(20)在4811.69位置，当前价格略高于此均线，表明短期内仍有一定的支撑力。RSI数据缺失，导致缺乏过买过卖的进一步判断依据。\n\n支撑位方面，市场低点4838.06和4822.60形成了短期支撑区间。若价格突破此支撑，可能会进一步下行至4800附近。阻力位则位于4850以上，若价格突破该位置，则可能会重新测试更高的水平。整体来看，短期内黄金/美元可能维持震荡整理状态。\n\n建议投资者保持谨慎，暂时可考虑在支撑位附近寻找买入机会，待价格突破或回调时再做进一步的操作。同时，关注宏观经济因素以及美联储的货币政策动向，可能会对市场情绪产生重要影响。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD market is currently showing a subtle bearish sentiment, with a slight 24-hour decrease of 0.22%. The price action remains confined between the high of 4838.06143 and the low of 4822.60882, suggesting limited volatility in the short term. This stagnation hints at a market pause after recent fluctuations, and traders should be cautious of potential consolidation around these levels. However, the price is positioned above the 20-period simple moving average (SMA) at 4811.69326, which may provide support and encourage buyers to push for higher targets if the market stabilizes.\n\nThe absence of the Relative Strength Index (RSI) and the incomplete MACD data creates some uncertainty in the short-term analysis. The MACD reading of 4.64059 indicates a mild upward bias, but without the signal line or RSI confirmation, it’s hard to gauge the strength of this momentum. Traders should remain alert for any crossing of the MACD above the signal line, which would signal increased buying pressure. Until such confirmation, the market may exhibit choppy movement or limited directional progress, requiring traders to watch for clear breakouts or reversals.\n\nIn terms of support and resistance, the immediate support level lies near 4822.60, where the market has recently found a floor. If the price dips below this level, the next support could be at 4810, near the SMA. Conversely, resistance is expected at the previous high of 4838.06, and a breakout above this level could expose further upside toward the 4850 region. These levels will be crucial for determining the next potential move in the market.\n\nTraders might look for short-term opportunities based on intraday price action. A break below 4822.60 could indicate a bearish move toward lower support levels. However, a solid close above 4838.06 would suggest a bullish continuation, with higher targets in play. For now, the market is relatively neutral, and a breakout or breakdown will likely provide clearer direction."
+    }
+  }
+}

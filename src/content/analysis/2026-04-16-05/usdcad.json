@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-04-16T05:59:01.487Z",
+  "price": {
+    "close": "1.37228",
+    "high": "1.37245",
+    "low": "1.3718",
+    "open": "1.3718",
+    "change": "0.04",
+    "datetime": "2026-04-16 15:00:00"
+  },
+  "indicators": {
+    "rsi": 34.63972,
+    "macd": -0.0012604999,
+    "macd_signal": -0.0011456127,
+    "sma20": 1.374
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：短期盘整偏弱",
+      "content": "当前美元/加元维持在1.3722附近，日内波动幅度有限，整体呈现横盘整理趋势。价格低于20日均线1.3740，显示短线多头动能偏弱，多空力量相对均衡，暂未形成明显突破信号。  \n\nMACD显示为-0.00126，位于零轴下方，说明短期空头力量略占优势，但信号线尚未提供明确交叉提示，市场仍处观望状态。RSI数据缺失，但结合价格与均线关系，可判断市场偏向整理调整，需关注关键支撑和阻力。  \n\n技术支撑位主要集中在1.3718一线，若失守此位置，下行空间可能扩展至1.3705附近；阻力位则在20日均线1.3740及近期高点1.37245附近，短期突破则可能打开上行空间。价格在支撑与阻力之间反复震荡，操作需谨慎。  \n\n交易策略上，可采取区间操作为主，逢低做多、接近阻力适当减仓或观望。若价格突破均线或关键阻力，应及时调整仓位以顺应趋势，控制风险为先。整体来看，短线偏弱整理，需耐心等待趋势明朗。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is showing a cautious, sideways sentiment around the 1.3720–1.3725 zone, reflecting market indecision after recent consolidation. Prices are trading slightly below the 20-period simple moving average at 1.3740, indicating short-term bearish pressure, although the narrow 24-hour range suggests that momentum remains subdued. Traders should monitor whether the pair sustains below the SMA, as a clear break above could signal a resumption of bullish attempts.  \n\nThe MACD reading of -0.00126 points to mild bearish momentum, but without a signal line reference, its directional conviction is limited. The absence of the RSI also restricts insight into overbought or oversold conditions, making it important to cross-check with price action and volume patterns. Nevertheless, the current MACD value indicates that the market lacks strong upward impetus, reinforcing a wait-and-see approach until either support or resistance zones are tested decisively.  \n\nImmediate support can be seen near 1.3718, aligning with the day’s low, which provides a potential short-term floor for buyers. On the upside, resistance is likely to emerge around 1.3740, corresponding with the 20-period SMA, and a minor extension could face another barrier at 1.3755. Breakouts above or below these levels could define the next directional phase, while continued range-bound trading may favor scalping strategies.  \n\nFor trading strategies, a cautious approach is advised. Aggressive buyers might consider entering on a confirmed break above 1.3745 with tight stops, whereas sellers could look for short positions if the price slips below 1.3715. Range traders could exploit intraday oscillations between the support and resistance levels, but low volatility implies limited profit potential. Overall, patience and confirmation are key, as the pair currently lacks a strong directional bias."
+    }
+  }
+}
