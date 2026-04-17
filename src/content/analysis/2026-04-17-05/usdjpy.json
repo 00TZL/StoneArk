@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-04-17T06:00:36.208Z",
+  "price": {
+    "close": "159.48406",
+    "high": "159.52353",
+    "low": "159.45724",
+    "open": "159.46886",
+    "change": "0.01",
+    "datetime": "2026-04-17 15:00:00"
+  },
+  "indicators": {
+    "rsi": 68.37398,
+    "macd": 0.12106639,
+    "macd_signal": 0.095921902,
+    "sma20": 159.23195
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理，待突破关键价位]",
+      "content": "当前美元/日元（USD/JPY）处于震荡整理状态，价格在159.45至159.52之间波动。由于缺乏明显的趋势信号，市场似乎在等待一个明确的突破。若价格突破159.52，将有可能引发上行动能，进一步接近160.00的关键心理关口。\n\n在技术指标方面，虽然RSI(14)和MACD信号尚不可用，但20日简单移动平均线(SMA)在159.23附近为市场提供了支撑。当前价格稍高于SMA，表明短期内维持轻微的上涨动能，但缺乏强势的趋势确认。\n\n支撑位位于159.45附近，而159.52则构成当前的阻力位。突破159.52后，短期内可能会迎来更多的买盘推动，目标可能指向160.00附近。若价格回调至159.45以下，则有可能重新考验159.23的支撑区域。\n\n建议交易者观望当前价格区间的突破，一旦价格突破159.52并确认持续上涨，可以考虑做多。相反，如果价格未能突破而下行，则可在159.45附近寻找做空机会，止损设置在159.52上方。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is exhibiting a modest bullish tone around the 159.48 level, holding slightly above its 20-period SMA at 159.23. The recent consolidation between 159.45 and 159.52 suggests the market is digesting prior gains, with short-term momentum lacking a decisive push. Price action near the intraday high indicates that buyers are cautiously maintaining control, but the narrow trading range highlights uncertainty, leaving the pair vulnerable to sudden volatility if key macro catalysts emerge.  \n\nThe MACD reading of 0.121 indicates underlying bullish momentum, though without the signal line, the strength of this trend remains tentative. Traders should note that the absence of an RSI reading limits overbought or oversold assessment, making it essential to monitor candlestick patterns and intraday swings for additional clues. The slight uptick above the SMA reinforces a mild upward bias, suggesting that trend-following strategies may benefit from careful entries near support zones.  \n\nSupport is evident near 159.46, coinciding with the intraday low and SMA buffer, providing a potential entry area for buyers targeting range-bound rebounds. Resistance is expected around 159.52–159.53, the recent high, where sellers may emerge to test short-term strength. Breaching this zone with conviction could open a pathway toward 159.70, while a breakdown below support would risk a deeper pullback toward 159.30–159.25, highlighting the importance of disciplined risk management.  \n\nTrading suggestions favor cautious long positions near support with tight stops below 159.45, aiming for intraday resistance targets around 159.52. For more aggressive traders, a breakout above 159.53 may allow momentum trades targeting 159.65–159.70, while a confirmed dip below SMA support could signal short-term retracements. Overall, the market shows a mild bullish bias, but limited volatility and mixed indicator clarity warrant a conservative approach, focusing on defined levels and measured position sizing."
+    }
+  }
+}

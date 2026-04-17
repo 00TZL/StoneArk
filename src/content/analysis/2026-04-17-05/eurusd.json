@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-04-17T05:59:02.677Z",
+  "price": {
+    "close": "1.17825",
+    "high": "1.17849",
+    "low": "1.17809",
+    "open": "1.1783",
+    "change": "-0.00",
+    "datetime": "2026-04-17 15:00:00"
+  },
+  "indicators": {
+    "rsi": 48.34839,
+    "macd": -0.00024052682,
+    "macd_signal": -0.00031989791,
+    "sma20": 1.17798
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：短期横盘整理偏弱",
+      "content": "当前欧元/美元价格围绕1.17825震荡，短期趋势呈现横盘整理，价格接近20日简单移动平均线(SMA20) 1.17798，显示市场短线缺乏明确方向，多空力量相对平衡。成交量数据虽不明，但价格维持在均线附近，暗示波动可能有限。  \n\nMACD指标显示负值-0.00024052682，说明短期空头略占优势，但幅度不大，未出现明显背离或加速趋势，暗示趋势尚未完全形成。RSI指标未提供，但价格在均线附近震荡，通常伴随观望情绪，短线可能在小区间内波动。  \n\n支撑位关注1.17809，若跌破可能引发进一步下探压力；阻力位在1.17849附近，多头若突破可短线吸引买盘关注。均线作为动态支撑，若收盘持续低于SMA20，空头信号可能增强。  \n\n交易策略上，建议短线谨慎观望为主，逢高可考虑小幅空单，止损紧贴阻力位；若价格突破阻力且伴随成交放量，可考虑顺势做多，但需控制仓位和风险，避免追高操作。整体短期仍偏弱整理，操作应以稳健为主。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The Euro vs US Dollar (EUR/USD) is currently experiencing a narrow range with limited movement, as indicated by the price remaining near 1.17825, showing almost no 24-hour change. The recent high of 1.17849 and low of 1.17809 suggest a consolidation phase, with the pair trapped within a tight range. This sideways movement may indicate indecision in the market, with both buyers and sellers reluctant to push the price further in either direction. Without strong momentum or a catalyst for movement, traders should anticipate more ranging price action unless a breakout occurs.\n\nOn the technical front, the Simple Moving Average (SMA) on the 20-period chart stands at 1.17798, just below the current price, offering slight support. If the price falls below this level, further downward pressure could drive it toward the next key support at 1.17650. The absence of a significant RSI reading and a negative MACD value point toward a neutral-to-bearish sentiment in the short term, signaling that sellers may have the upper hand. However, without confirmation from more robust indicators, this remains speculative.\n\nFor resistance, the immediate area around 1.17850 could act as a minor barrier, with the next significant resistance level at 1.18000. A break above this level would be necessary for a potential bullish scenario, targeting 1.18200. Given the current range-bound price action, it is recommended to trade cautiously, looking for an opportunity around 1.17750 or 1.18050, depending on the direction of the breakout. Tight stop losses are advisable given the lack of clear trends.\n\nIn conclusion, traders should watch for a breakout either above 1.18000 or below 1.17700 for a clearer directional bias. Until such a breakout occurs, the market may continue to fluctuate within this tight range. Risk management remains crucial, especially with the mixed technical indicators currently in play."
+    }
+  }
+}

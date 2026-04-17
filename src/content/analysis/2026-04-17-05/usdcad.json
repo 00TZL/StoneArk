@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-04-17T06:02:08.738Z",
+  "price": {
+    "close": "1.36821",
+    "high": "1.3689",
+    "low": "1.36809",
+    "open": "1.36877",
+    "change": "-0.04",
+    "datetime": "2026-04-17 15:00:00"
+  },
+  "indicators": {
+    "rsi": 23.42808,
+    "macd": -0.0011311823,
+    "macd_signal": -0.0010454823,
+    "sma20": 1.37028
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：短线偏弱震荡整理",
+      "content": "当前汇价运行于1.3682附近，略低于20日均线1.3703，显示短期趋势偏弱。价格在窄幅区间内波动，高低点差距有限，表明市场动能不足，整体处于震荡整理格局，短线方向尚未明确。\n\n从技术指标看，MACD处于零轴下方且为负值，暗示空头动能占优，但缺乏明显扩散，说明下行动力有限。RSI暂缺，但结合价格表现推测动能偏中性略弱，市场缺乏强趋势驱动，易出现反复。\n\n关键支撑位关注1.3680一线，若跌破可能测试1.3650区域；上方阻力位在1.3700及1.3720附近，与均线形成压制。当前价格贴近支撑区域，短线存在技术性反弹可能，但需关注突破确认。\n\n操作上建议以区间交易思路为主，靠近支撑轻仓试多，目标看向阻力区；若有效跌破支撑，则顺势跟空。严格控制仓位，等待价格突破区间后再进行趋势跟随更为稳健。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently trading at 1.36821, reflecting a slight negative change of 0.04% over the past 24 hours. The price action is confined within a narrow range, between a high of 1.3689 and a low of 1.36809, indicating a lack of strong momentum. The current market sentiment appears neutral, with no significant push from either the bulls or bears. This suggests a consolidation phase in the near term, with the potential for a breakout depending on upcoming data or events.\n\nThe lack of available RSI and MACD signal values leaves a gap in understanding the underlying momentum, but the MACD line at -0.0011311823 points to mild bearish pressure. The absence of a significant signal from the MACD suggests that any downside could be limited for now, while the flat trend may encourage a wait-and-see approach. The SMA(20) at 1.37028 suggests the price is slightly below the short-term moving average, reinforcing the bearish bias. If the pair fails to reclaim the SMA level, the downside momentum could gain traction.\n\nIn terms of support and resistance, the recent low near 1.36809 may act as a key support level, with a further dip below this point exposing the pair to possible testing of the 1.3650 region. On the upside, the resistance near 1.3700 and 1.3720 should be closely watched. A break above these levels could trigger a more sustained bullish rally. Traders should keep an eye on broader market sentiment, including oil prices and U.S. economic data, as they often correlate with the CAD's performance.\n\nFor traders, the current range-bound market suggests caution. A break below 1.36809 could open the door for further downside toward 1.3650, while a move above 1.3700 may indicate a shift in momentum toward the upside. The next few hours of price action will likely provide clarity on the short-term direction. In the meantime, scalpers or range traders could look to capitalize on minor fluctuations within the established boundaries."
+    }
+  }
+}

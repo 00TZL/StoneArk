@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-04-17T06:01:22.884Z",
+  "price": {
+    "close": "0.71689",
+    "high": "0.71709",
+    "low": "0.71667",
+    "open": "0.71689",
+    "change": "0.00",
+    "datetime": "2026-04-17 15:00:00"
+  },
+  "indicators": {
+    "rsi": 55.25117,
+    "macd": 0.0000030774965,
+    "macd_signal": -0.000022958463,
+    "sma20": 0.7164305
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短线震荡偏多格局延续",
+      "content": "当前汇价围绕0.7168一线窄幅波动，整体呈现横盘整理态势。价格略高于SMA(20)，显示短期趋势偏多，但动能不足，未形成明确突破。区间波动收敛，市场观望情绪较浓。  \n\n从技术指标看，MACD柱值接近零轴，表明多空力量基本均衡，趋势信号不明显。RSI数据缺失，但结合价格表现，动能偏中性，短线缺乏方向性驱动，需等待放量确认。  \n\n关键支撑位位于0.7165附近，对应日内低点区域；下破则可能测试0.7150一线。上方阻力集中在0.7175至0.7180区间，若有效突破，有望打开进一步上行空间。  \n\n操作上建议以区间交易思路为主，接近支撑位可轻仓尝试多单，止损设于0.7160下方；若突破0.7180并站稳，可顺势跟进多头。短线避免追单，重点关注突破信号确认。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is exhibiting a relatively stable profile near 0.7169, trading within a tight intraday range between 0.71667 and 0.71709. This consolidation reflects a lack of directional conviction, suggesting market participants are awaiting fresh economic data or central bank cues. The short-term price action shows minor bullish undertones as the current price hovers just above the 20-period simple moving average at 0.71643, indicating mild upward pressure, though momentum remains muted. Traders should remain attentive to any breakout from this narrow range for clearer signals.  \n\nThe MACD reading at 0.000003 suggests near-zero momentum, reinforcing the view of a sideways market. The absence of a MACD signal line makes it difficult to interpret crossover signals, while the unavailability of RSI prevents a straightforward assessment of overbought or oversold conditions. However, the proximity of price to the 20-period SMA implies mild support around current levels, which could provide a short-term floor. Any sustained move above the SMA could trigger further intraday buying, while a drop below may see sellers test lower support levels.  \n\nKey support is likely around 0.7165, aligned with the lower bound of the current trading range, offering a potential entry point for buyers if the pair stabilizes. Resistance resides near 0.7171, the recent intraday high, which may cap upward attempts unless buying pressure intensifies. A decisive breach of either boundary could set the stage for a sharper move, with stops placed just beyond these levels for risk management. Monitoring reactions at these zones is crucial to identify whether the range will hold or give way to a breakout.  \n\nGiven the current market conditions, short-term traders may consider range-bound strategies, entering near support and targeting resistance, while keeping positions light due to limited momentum. Breakout traders should watch for clear moves beyond 0.7171 or below 0.7165, confirming momentum with volume or additional technical indicators. Conservative positions could rely on the SMA as a dynamic guide for trend bias, but patience is essential in this low-volatility environment to avoid being whipsawed by minor fluctuations."
+    }
+  }
+}

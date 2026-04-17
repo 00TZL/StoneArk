@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-04-17T06:04:20.941Z",
+  "price": {
+    "close": "4791.85892",
+    "high": "4795.01593",
+    "low": "4791.28529",
+    "open": "4795.01593",
+    "change": "-0.06",
+    "datetime": "2026-04-17 16:00:00"
+  },
+  "indicators": {
+    "rsi": 45.91953,
+    "macd": -4.13947,
+    "macd_signal": -4.80253,
+    "sma20": 4795.63357
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短期震荡偏弱整理",
+      "content": "近期黄金/美元价格维持在4791附近，短线波动幅度有限，显示出市场暂时缺乏明确方向。价格位于20日均线下方，表明短期多头动能略显不足，但整体仍处于高位震荡格局。短线走势可能延续窄幅整理，等待突破信号。  \n\nMACD处于负值区间，提示空方压力存在，但缺少明确的信号线交叉确认。RSI数据缺失，难以判断超买超卖状态，但从价格高低点区间来看，市场短期偏中性。投资者应关注指标回升或加速下跌的变化，以捕捉潜在交易机会。  \n\n关键支撑位关注4790一线，若跌破可能触发短线空头加速；阻力位在4795-4800附近，突破则有望带动上行测试更高关口。均线与前期高点共同构成短线压力区域，需警惕反复震荡带来的假突破。  \n\n交易上建议短线可采取区间操作策略，接近支撑低点可小量尝试做多，接近阻力高点可考虑减仓或轻仓做空。风险控制上，建议设置止损点位于支撑/阻力稍外，以应对突发行情波动，同时关注美联储政策及美元指数变化对金价的潜在影响。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold is currently showing a slight bearish bias, hovering just below the 20-period simple moving average at $4795.63. The latest price of $4791.86 indicates that short-term momentum is struggling to gain upward traction, as reflected in the minimal 24-hour decline of 0.06%. The high of $4795.02 and low of $4791.29 suggest a very narrow intraday range, highlighting market indecision and a lack of strong directional pressure. Traders may want to watch for a decisive move above the SMA for confirmation of renewed bullish momentum.  \n\nAlthough the RSI is currently unavailable, the MACD reading at -4.14 hints at mild bearish momentum. The negative value suggests that selling pressure is slightly stronger than buying pressure, but without the signal line, the strength and timing of potential reversals remain uncertain. In such scenarios, waiting for corroboration from price action or additional indicators like the RSI or stochastic oscillator may help reduce exposure to false signals. Short-term traders should remain cautious and avoid aggressive positioning until more clarity emerges.  \n\nSupport appears near $4791, representing the recent intraday low, while resistance is anchored at $4795, closely aligned with the 20-period SMA. A breach of support could open the door for further downside, possibly targeting $4785 or the next psychological level around $4780. Conversely, a sustained move above $4795 would likely attract buyers aiming for $4800 and beyond. Monitoring these zones can help in structuring entries and exits with a tighter risk management framework.  \n\nGiven the current consolidation, a range-bound strategy could be effective, focusing on buying near support and selling near resistance. Traders with a more aggressive stance might wait for a confirmed breakout above $4795 or breakdown below $4791 before committing to longer positions. Risk should be carefully controlled due to the narrow trading range, and stops could be placed slightly beyond the support and resistance levels to mitigate potential whipsaws. Overall, cautious observation combined with selective entries seems prudent in the current environment."
+    }
+  }
+}

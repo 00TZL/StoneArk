@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-04-17T05:59:44.363Z",
+  "price": {
+    "close": "1.35205",
+    "high": "1.3523",
+    "low": "1.35168",
+    "open": "1.35228",
+    "change": "-0.02",
+    "datetime": "2026-04-17 15:00:00"
+  },
+  "indicators": {
+    "rsi": 39.23273,
+    "macd": -0.00089459496,
+    "macd_signal": -0.00091296945,
+    "sma20": 1.35297
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[震荡整理，观望为主]",
+      "content": "当前，英镑/美元价格徘徊在1.35205附近，表现出震荡整理的走势。从短期来看，价格维持在1.3523的高点和1.35168的低点区间内，未出现明显突破，市场情绪较为平稳。\n\n技术指标方面，虽然RSI(14)暂无数据，但MACD值为-0.00089，显示出短期内存在轻微的卖压，表明市场动能相对疲弱。SMA(20)位于1.35297，价格略低于该均线，可能显示短期内上涨动能不足，维持整理态势。\n\n在支撑和阻力方面，当前的支撑位约在1.35168，若价格跌破此位置，可能进一步考验1.3500的心理关口；阻力位则位于1.3523附近，突破此点可能会尝试测试1.3550的上方区域。\n\n综合来看，由于缺乏强劲的动能，建议短期内采取观望策略，等待价格突破当前区间或出现更明确的技术信号再做决定。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently in a neutral short-term range, with the latest price at 1.35205, showing a marginal decline of 0.02% in the last 24 hours. The price has been oscillating around the recent high of 1.3523 and low of 1.35168, indicating a lack of clear direction. This suggests that market participants are in a wait-and-see mode, possibly awaiting more significant economic data or catalysts. With this lack of momentum, the pair is likely to remain within the current range unless a breakout occurs.\n\nThe absence of an RSI reading limits insight into the pair's overbought or oversold conditions, making it difficult to gauge market sentiment fully. However, the MACD is negative at -0.00089, signaling a mild bearish bias in the short-term, though it is not overly significant without a clear signal line for confirmation. The SMA(20) at 1.35297 shows a slight downward bias, which aligns with the minor negative MACD. This further suggests the market is more likely to be in a consolidation phase rather than trending strongly in either direction.\n\nThe immediate support for GBP/USD stands at 1.35168, just above the low of the past 24 hours. If the price falls below this level, the next support might be found near 1.3500. On the upside, resistance is located at 1.3523, with the SMA(20) at 1.35297 acting as an additional near-term barrier. A break above 1.3530 could lead to a retest of higher levels, potentially pushing towards 1.3550, but such a move would require further bullish momentum.\n\nGiven the current price action and indicators, a cautious approach is recommended. Traders should look for a breakout above 1.3530 for a potential buy, while a break below 1.35168 could provide a selling opportunity. In either case, tight risk management and monitoring of external fundamentals will be key to navigating this range-bound market."
+    }
+  }
+}

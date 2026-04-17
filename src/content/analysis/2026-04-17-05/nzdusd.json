@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-04-17T06:02:52.592Z",
+  "price": {
+    "close": "0.58881",
+    "high": "0.58886",
+    "low": "0.58881",
+    "open": "0.58884",
+    "change": "-0.01",
+    "datetime": "2026-04-17 16:00:00"
+  },
+  "indicators": {
+    "rsi": 44.529,
+    "macd": -0.0003549326,
+    "macd_signal": -0.00040679962,
+    "sma20": 0.5888515
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：当前市场震荡整理",
+      "content": "当前纽元/美元在0.58881附近震荡整理，显示出短期内缺乏明显的趋势方向。虽然价格小幅回调，但整体波动较小，市场呈现出观望情绪。结合近期价格区间，短期内可能维持横盘震荡，等待市场的突破信号。\n\n从技术指标来看，MACD值为负，且接近零轴，显示出空头动能较弱。RSI数据未能提供完整参考，但在当前价格附近，市场情绪较为谨慎，未能给出明显的超买或超卖信号。20日简单移动平均线（SMA）在0.58885附近，形成了短期支撑位，限制了价格的下行空间。\n\n在支撑和阻力方面，0.58880一线是当前的支撑位，若价格跌破此水平，可能会测试更低的价格区间。上方的初步阻力位在0.58900附近，若突破此水平，有可能恢复小幅上涨的趋势。考虑到当前市场震荡走势，建议保持观望，等待突破确认后再做决策。\n\n交易建议方面，若价格突破0.58900，可能是短期多头信号，建议寻找进场机会。反之，若价格跌破0.58880支撑，则可以考虑短期做空。但在此阶段，风险相对较大，建议采取谨慎的交易策略。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently showing a neutral to slightly bearish short-term trend, trading around 0.58881, just below the 20-period simple moving average at 0.58885. Price consolidation within the narrow high-low range of 0.58881–0.58886 suggests indecision among traders. This sideways movement following a minor pullback indicates that the market may be awaiting fresh catalysts, such as economic releases or Fed and RBNZ commentary, before committing to a clear directional move.  \n\nThe MACD reading of -0.0003549, though slightly negative, points to subdued bearish momentum, but the absence of a corresponding signal line makes the indicator less definitive. With the RSI currently unavailable, traders should watch for additional momentum confirmation through either oscillators or candlestick patterns. The minor deviation below the SMA(20) suggests potential short-term resistance at this level, which could limit upside attempts unless momentum picks up strongly.  \n\nKey support is visible near the daily low of 0.58881, which has been defended over the last 24 hours. A sustained breach of this level could open the door toward lower targets around 0.5885, aligning with previous intraday congestion zones. On the upside, resistance is clearly defined by the SMA(20) at 0.58885 and slightly above at 0.5890, where sellers may re-enter if bullish momentum fails to accelerate. These levels provide clear reference points for intraday traders seeking short-term entries or exits.  \n\nGiven the current conditions, cautious traders might consider range-based strategies until a decisive breakout occurs. Short-term selling opportunities could emerge on failed attempts to reclaim the SMA(20), while aggressive buyers may wait for a close above 0.5890 for confirmation of an upward continuation. Overall, the pair appears balanced, with small bearish bias, and careful monitoring of momentum and volume is essential before committing to larger positions."
+    }
+  }
+}

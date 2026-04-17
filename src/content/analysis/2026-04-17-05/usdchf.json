@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-04-17T06:03:36.585Z",
+  "price": {
+    "close": "0.78341",
+    "high": "0.78354",
+    "low": "0.78337",
+    "open": "0.78342",
+    "change": "0.00",
+    "datetime": "2026-04-17 16:00:00"
+  },
+  "indicators": {
+    "rsi": 54.54263,
+    "macd": 0.00026084468,
+    "macd_signal": 0.00034398303,
+    "sma20": 0.783508
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：震荡整理，短期偏弱",
+      "content": "当前美元/瑞郎汇价徘徊在0.7834附近，日内波动极小，显示市场处于短期震荡整理阶段。价格紧贴20日均线0.7835，说明多空力量基本平衡，趋势尚未明确形成。近期高低点0.78354/0.78337进一步印证市场缺乏明显方向。  \n\n技术指标方面，MACD微幅正值0.00026，短期动能偏弱，但尚未形成明确的买卖信号。缺少RSI数据限制了超买超卖判断，但从价格与SMA的关系看，短期可能略偏空，投资者需关注动能变化和价格突破情况。  \n\n支撑位方面，0.7833为短期关键支撑，如跌破可能引发进一步回落；阻力位位于0.7836附近，多次未能突破显示上行动能受限。价格在支撑阻力之间反复震荡，短线交易需谨慎控制风险，避免追涨杀跌。  \n\n交易建议上，建议短线可采取区间操作策略，在支撑附近考虑低位买入，阻力附近适度减仓或止盈。若价格突破0.7836并站稳，可能形成反弹机会；反之跌破0.7833，则需警惕进一步下行压力，止损设置应严格。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently trading at 0.78341, hovering near its short-term SMA(20) of 0.78351, suggesting a neutral bias in the immediate timeframe. The lack of significant price movement in the last 24 hours indicates consolidation after recent swings, and the narrow high/low range of 0.78354/0.78337 points to market indecision. Traders should watch for a decisive breakout above the SMA or below the lower end of the range to signal the next directional bias.  \n\nAlthough the RSI data is unavailable, the MACD reading of 0.00026 points to very mild bullish momentum. With the signal line missing, it’s difficult to confirm crossovers, but the positive MACD value suggests that buyers have a slight edge. Given this, short-term momentum appears balanced, with neither buyers nor sellers firmly in control. Market participants might focus on trend confirmation through candlestick patterns or volume spikes before committing to trades.  \n\nImmediate support lies near 0.78330, a level reinforced by recent lows, while resistance is observed at 0.78355, coinciding with the daily high. A breach of support could expose 0.78300 as the next level of interest, whereas a sustained move above resistance could test 0.78400 in the near term. These levels provide a framework for setting stop-loss and take-profit orders, offering structure to both intraday and swing strategies.  \n\nTraders could adopt a cautious approach, favoring range-bound tactics until clear directional signals emerge. Breakout strategies may work if price decisively closes beyond the SMA or intraday extremes. For those seeking short-term trades, buying near support with tight stops and targeting minor resistance is reasonable, while short positions could be considered near resistance if bearish confirmation appears. Overall, patience and adherence to levels will help manage risk in the current consolidative environment."
+    }
+  }
+}
