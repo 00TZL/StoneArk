@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-04-20T06:12:27.494Z",
+  "price": {
+    "close": "1.36983",
+    "high": "1.37007",
+    "low": "1.36961",
+    "open": "1.37",
+    "change": "-0.01",
+    "datetime": "2026-04-20 16:00:00"
+  },
+  "indicators": {
+    "rsi": 43.42225,
+    "macd": -0.00093144446,
+    "macd_signal": -0.00080978948,
+    "sma20": 1.37122
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：震荡整理，短期走势偏弱",
+      "content": "当前美元/加元（USD/CAD）价格处于1.36983，整体呈现震荡整理的走势。从技术面来看，汇价处于小幅区间内波动，近期并未出现强烈的上升或下降趋势。\n\nRSI（14）尚未提供数据，无法确认超买或超卖情况，但从MACD来看，当前为负值（-0.00093），表明卖压稍微占优，市场情绪偏向看空。SMA(20)为1.37122，当前价格略低于此水平，可能意味着短期内会面临一定的下行压力。\n\n在支撑位方面，1.36961一线是短期关键支撑，若跌破该水平，可能进一步测试1.36700附近的支撑。阻力位在1.37007附近，如果汇价反弹突破此位置，可能会挑战1.37300的较强阻力。\n\n建议短期内交易者关注汇价在1.36961至1.37007区间内的震荡走势，若下破支撑可考虑空头布局，反弹至阻力位则可尝试做空。但鉴于波动较小，建议保持灵活操作，避免过度激进的交易策略。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair currently hovers around 1.3698, showing minimal movement over the last 24 hours. Price action suggests a short-term consolidation near the lower end of yesterday’s range, with the high at 1.37007 and low at 1.36961. The slight dip below the 20-period SMA of 1.3712 indicates mild bearish pressure. Overall, the trend remains largely neutral, but the inability to hold above the short-term moving average hints at potential weakness if sellers gain momentum.  \n\nFrom a technical indicator perspective, the MACD is negative at -0.00093, signaling that downward momentum may be present, albeit modest. The absence of a signal line and RSI value limits a full oscillator analysis, but the current MACD reading implies that bearish sentiment is slightly dominant. Traders should be cautious, as momentum is not yet decisive, and reversals could occur if the USD strengthens against the CAD due to macroeconomic catalysts.  \n\nKey support for USD/CAD lies near 1.3695, corresponding to recent intraday lows, while resistance is positioned around 1.3712, aligning with the 20-period SMA. A sustained break below support could open the door for further downside toward 1.3680, whereas a move above resistance may reestablish short-term bullish sentiment. These levels are crucial for planning entries and exits, as volatility remains muted but capable of sharp spikes in reaction to economic news.  \n\nTrading strategies should prioritize precision and risk management. Short-term traders may consider range-based strategies, selling near resistance and targeting support, or waiting for confirmation of a breakout above 1.3715 to join bullish momentum. Stop-loss orders should be tight due to the limited intraday range, ideally a few pips beyond key support or resistance. Longer-term participants should monitor broader USD fundamentals, including U.S. inflation and Bank of Canada policy signals, which could decisively sway the pair."
+    }
+  }
+}

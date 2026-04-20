@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-04-20T06:14:44.421Z",
+  "price": {
+    "close": "4792.31644",
+    "high": "4793.02636",
+    "low": "4787.3855",
+    "open": "4790.80071",
+    "change": "0.02",
+    "datetime": "2026-04-20 16:00:00"
+  },
+  "indicators": {
+    "rsi": 40.17649,
+    "macd": -11.72548,
+    "macd_signal": -9.87472,
+    "sma20": 4812.39379
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理，短期偏弱]",
+      "content": "当前黄金/美元（XAU/USD）的价格为4792.31644，整体表现出震荡整理的趋势。尽管24小时变化仅为0.02%，市场波动仍显著。价格未能突破近期的高点4793.02636，且接近低点4787.3855，显示出短期内的横盘震荡走势。\n\n从技术指标来看，MACD目前处于负值区域（-11.72548），说明市场仍然处于空头控制下，缺乏上涨动能。同时，SMA(20)为4812.39379，价格低于这一移动平均线，表明短期内市场可能继续面临下行压力。RSI(14)数据缺失，但可以推测市场可能存在一定的超卖或整理状态。\n\n支撑位方面，4787.3855是关键的短期支撑点，一旦跌破此水平，价格可能进一步向4770附近延伸。上方的阻力位在4800-4810区间，若价格突破这一水平，可能会引发一定的反弹，但目前的市场情绪仍偏向谨慎。\n\n综合来看，建议短期内采取观望策略，等待价格确认突破支撑或阻力后再做决策。如果市场继续整理，可以考虑短线空头策略，但需注意控制风险，特别是在接近支撑位时。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current price of Gold vs US Dollar (XAU/USD) stands at 4792.31644, maintaining a slight upward shift of 0.02% over the last 24 hours. This suggests a very neutral market sentiment, with price action confined between a high of 4793.02636 and a low of 4787.3855. This narrow range indicates a lack of strong momentum, leaving the market in a consolidation phase. Such periods often precede a breakout in either direction once a significant catalyst enters the market.\n\nIn terms of trend analysis, the market is still predominantly within a sideways channel, with the latest price slightly below the 20-period Simple Moving Average (SMA) of 4812.39379. This suggests the potential for a continuation of the current range-bound movement unless a clear breakout above the SMA occurs. The negative MACD value at -11.72548, while not extreme, indicates a slight bearish bias. However, since the signal line data is unavailable, it is difficult to gauge any immediate momentum shift.\n\nFor support and resistance levels, the immediate support is located near 4787.3855, which corresponds with the recent intraday low. A break below this could open up further downside towards 4760, a historically tested level. On the other hand, resistance appears near the current SMA level at 4812, with further resistance at 4830. A break above this range could signal a shift toward a bullish phase, allowing a push higher toward 4850 and beyond.\n\nGiven the neutral technical setup, traders might consider a cautious approach. If the price remains within the established range, short-term scalping strategies could prove profitable, focusing on small moves between support and resistance. However, a breakout above 4812 or below 4787 could signal a more significant move, prompting traders to reassess positions based on the direction of the breakout."
+    }
+  }
+}

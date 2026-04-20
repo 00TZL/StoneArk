@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-04-20T06:13:13.105Z",
+  "price": {
+    "close": "0.58665",
+    "high": "0.58694",
+    "low": "0.58665",
+    "open": "0.58693",
+    "change": "-0.05",
+    "datetime": "2026-04-20 16:00:00"
+  },
+  "indicators": {
+    "rsi": 40.82233,
+    "macd": -0.00023422043,
+    "macd_signal": -0.00025185456,
+    "sma20": 0.5874275
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：短期偏弱震荡整理",
+      "content": "当前纽元/美元处于轻微下跌状态，价格低于20日均线0.5874，显示短期空头略占优势。尽管24小时跌幅仅0.05%，但价格未能有效突破均线，表明多空力量仍在拉锯中，短线可能延续震荡整理格局。  \n\nMACD指标为-0.000234，处于零轴下方，显示下行动能略强，但信号线数据缺失，意味着趋势尚未完全确认。RSI暂无数据，但结合价格与均线位置，市场仍有回调压力，需谨防假突破诱发的短线波动。  \n\n支撑位初步关注0.5860附近，该位置在近期低点附近形成短期承压点。阻力位则在20日均线0.5874及0.5880附近，如价格突破该区间，将可能引发反弹行情。整体区间震荡特征明显，适合短线灵活操作。  \n\n交易策略上，建议短线关注低位买入0.5860附近的反弹机会，止损控制在0.5855下方；若价格回升并稳破0.5874，可考虑跟进多单，目标位0.5885附近。保持谨慎，控制仓位，顺应市场震荡趋势操作最为稳健。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The New Zealand Dollar against the US Dollar (NZD/USD) is currently trading at 0.58665, showing a slight decline of 0.05% over the past 24 hours. The market is relatively stable, with a narrow price range between the high of 0.58694 and the low of 0.58665. The price remains near the recent lows, indicating potential consolidation within a tight range. The current market action suggests that traders are waiting for a breakout in either direction.\n\nLooking at the indicators, the absence of an RSI reading and the negative MACD value at -0.00023422043 suggest a weak bearish momentum. The MACD is not showing any significant divergence, but its negative value indicates that the market is under some selling pressure. The SMA(20) at 0.58742750 is slightly above the current price, reinforcing a bearish short-term trend. However, the price remains close to this moving average, indicating a potential area of support around the 0.5865 to 0.5870 region.\n\nIn terms of key support and resistance levels, the immediate support lies at 0.58665, with potential to test lower levels if this area breaks. If the price moves below this point, the next support could be around 0.5850. On the upside, the resistance level is marked at the SMA(20) around 0.5874. A break above this level could lead to a stronger bullish move toward 0.5890 or higher. However, for now, the price is stuck within a narrow range, suggesting caution.\n\nTraders should consider a range-bound strategy, watching for a potential breakout from the current range. A move above the 0.5874 resistance may signal a buy opportunity, while a failure to hold above the support at 0.58665 could provide a short position. The current market conditions indicate a wait-and-see approach is prudent, with a focus on price action around key levels."
+    }
+  }
+}

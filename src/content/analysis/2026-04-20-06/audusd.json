@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-04-20T06:11:42.305Z",
+  "price": {
+    "close": "0.71454",
+    "high": "0.71492",
+    "low": "0.71444",
+    "open": "0.71485",
+    "change": "-0.04",
+    "datetime": "2026-04-20 16:00:00"
+  },
+  "indicators": {
+    "rsi": 43.84499,
+    "macd": -0.00047877106,
+    "macd_signal": -0.00055576322,
+    "sma20": 0.7152785
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短期承压震荡整理",
+      "content": "目前澳元/美元维持在0.7145附近盘整，短线呈现轻微下行压力。价格已低于20日均线0.7153，表明多头动能不足，市场短期偏向谨慎观望。日内波幅有限，高低点接近，显示市场缺乏明确方向。  \n\nMACD当前为负值-0.00048，虽然未提供信号线，但负值提示空头略占优势，动能尚未出现明显反转。RSI缺失，但结合价格与均线关系，短期可能延续整理或轻微下跌。技术面显示多头需等待更强支撑确认。  \n\n支撑位方面，初步关注0.7140附近，若跌破可能测试0.7125区域；阻力位则在20日均线0.7153及近期高点0.7149，突破这些位置才可能开启新一轮上涨。当前价格在阻力下方，反弹空间有限。  \n\n交易上建议短线以区间操作为主，激进者可在接近支撑0.7140附近考虑轻仓做多，止损放在0.7135以下；稳健者等待价格突破均线确认上行后再建仓，避免在震荡区间盲目追涨杀跌。整体偏向观望与低风险布局。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "AUD/USD is currently hovering around 0.71454, showing marginal downward pressure after testing a recent high of 0.71492. The short-term trend appears slightly bearish, as the pair struggles to sustain momentum above the 20-period simple moving average at 0.71528. Price action within a narrow range suggests consolidation, hinting that the market may be awaiting fresh economic data or central bank guidance before committing to a clearer direction. Overall, the pair is in a delicate balance between short-term support and resistance zones.  \n\nThe MACD reading of -0.00047877, despite the absence of a signal line, points to a mild bearish momentum. This aligns with the price trading just below the SMA(20), reinforcing a short-term downside bias. Traders should observe whether MACD continues to decline, which could confirm increasing downward pressure. Conversely, any recovery above the SMA could signal a temporary bullish reversal, making monitoring momentum oscillators essential for timing entries and exits.  \n\nKey technical levels to watch are immediate support at 0.71440, representing the lower bound of today’s intraday range, and resistance at 0.71530, close to the 20-period SMA. Breaching support could open the door to 0.71380, while a breakout above resistance may shift short-term sentiment in favor of buyers. Range-bound movements suggest that cautious scalping or limited position trading may be more appropriate than aggressive directional bets at this stage.  \n\nFor trading strategies, short-term traders might consider entering positions on confirmed breakouts of support or resistance, with tight stop-losses to manage risk due to low volatility. Long-term investors may remain on the sidelines until momentum indicators, particularly MACD and RSI, provide clearer directional confirmation. Maintaining awareness of macroeconomic events, such as Reserve Bank of Australia statements or U.S. economic releases, remains crucial, as these could trigger sudden volatility shifts in AUD/USD."
+    }
+  }
+}

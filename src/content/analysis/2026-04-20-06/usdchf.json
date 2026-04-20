@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-04-20T06:14:01.432Z",
+  "price": {
+    "close": "0.78331",
+    "high": "0.78336",
+    "low": "0.78299",
+    "open": "0.78309",
+    "change": "0.03",
+    "datetime": "2026-04-20 16:00:00"
+  },
+  "indicators": {
+    "rsi": 63.44061,
+    "macd": 0.00040435132,
+    "macd_signal": 0.00033489458,
+    "sma20": 0.7822095
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[价格震荡，短期可能偏弱]",
+      "content": "当前美元/瑞郎（USD/CHF）的价格波动较为狭窄，最新价格0.78331处于短期震荡区间内。价格在0.78336的高点和0.78299的低点之间小幅波动，显示出市场缺乏明确的方向。短期内，若未突破当前区间，可能继续维持震荡整理格局。\n\n从技术指标来看，MACD的值为0.00040435132，虽然当前缺乏完整的信号线数据，但这一数值表明短期内买盘力量稍显不足。SMA(20)的值为0.78220950，价格略高于此均线，表明短期内略微偏向上行，但缺乏强势上涨的动力。\n\n在支撑位方面，0.78299附近可能会成为关键支撑，若价格跌破此位，则有可能下探更低水平。阻力位则位于0.78336，若价格突破此水平，可能会迎来短期反弹。然而，整体来看，市场动能有限，短期内难以形成强烈的趋势。\n\n综合来看，建议投资者保持观望，等待价格突破支撑或阻力位后再考虑进场。若价格接近支撑位，可以考虑做多，而接近阻力位时则可以考虑做空，操作时需要设置止损以应对突发的市场波动。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair currently shows a subtle bullish bias, with the price hovering around 0.78331, slightly above the 20-period simple moving average at 0.78221. This indicates that short-term momentum favors the dollar, though the narrow daily range between 0.78299 and 0.78336 suggests low volatility and indecision among traders. The lack of a complete RSI reading limits overbought or oversold insight, but the steady price above the SMA points to moderate upward pressure.  \n\nThe MACD, sitting at 0.000404, signals a nascent bullish momentum, albeit weak due to the absence of a signal line comparison. Traders may interpret this as a tentative buy signal, but the small magnitude suggests caution, as any reversal could be swift. The price is close to the upper end of its recent trading range, implying that buyers are testing resistance near 0.78336, while support lies at the SMA level and just below at 0.78299.  \n\nShort-term traders should watch for a confirmed breakout above 0.78336, which could open the path toward 0.78400, reinforcing bullish sentiment. Conversely, a failure to maintain above the SMA may trigger a pullback toward 0.78250–0.78200. Positioning could be adjusted with tight stops, given the limited momentum and narrow price range, favoring conservative entries until volatility increases or trend confirmation emerges.  \n\nFor swing traders, consolidations near the SMA offer potential accumulation zones, especially if broader risk-on sentiment supports USD strength against the safe-haven CHF. Risk management remains critical, as sudden shifts in market sentiment or news events could swiftly negate small bullish advantages. Monitoring macroeconomic indicators, particularly U.S. economic releases and Swiss economic data, can provide additional guidance for entries and exits in this quiet yet poised market."
+    }
+  }
+}

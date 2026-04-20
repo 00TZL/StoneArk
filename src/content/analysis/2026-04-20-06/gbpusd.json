@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-04-20T06:10:00.350Z",
+  "price": {
+    "close": "1.34902",
+    "high": "1.34931",
+    "low": "1.34902",
+    "open": "1.3492",
+    "change": "-0.01",
+    "datetime": "2026-04-20 16:00:00"
+  },
+  "indicators": {
+    "rsi": 37.97222,
+    "macd": -0.00067584256,
+    "macd_signal": -0.0006636245,
+    "sma20": 1.35045
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[震荡整理，等待突破信号]",
+      "content": "当前英镑/美元价格保持在1.34902附近，呈现出窄幅震荡整理的走势。价格在高点1.34931与低点1.34902之间波动，表明市场缺乏强势的方向性。短期内，价格未突破关键支撑或阻力水平，可能会维持在这个区间内震荡。\n\n技术指标方面，MACD处于负值区域（-0.00067584256），但信号线数据暂缺，显示出短期内缺乏强烈的趋势动能。SMA(20)位于1.35045，显示出价格稍微倾向于下行，但未能突破明显的趋势方向。RSI数据缺失，无法进一步确认超买或超卖情况。\n\n从支撑/阻力角度来看，当前的价格区间内没有明显的突破信号。1.34902附近可视为短期支撑位，若跌破该水平，可能会测试更低的支撑位。上方的1.35045则构成了初步阻力区，若突破该水平，可能会重新测试1.3520区域。\n\n交易建议方面，若价格突破1.35045并保持在其上方，可以考虑多头入场；反之，若价格跌破1.34902，可以考虑寻找空头机会。但在突破明确之前，建议观望，避免在震荡区间内轻易操作。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The British Pound against the US Dollar (GBP/USD) is currently trading at 1.34902, showing minimal movement with a slight decline of 0.01% in the last 24 hours. The price is closely hovering around the daily low of 1.34902, suggesting limited volatility at this level. The pair’s recent high at 1.34931 highlights a narrow trading range, indicating a consolidation phase in the market. This suggests potential for a breakout if either the support or resistance levels are tested more decisively.\n\nGiven the absence of significant indicators like the RSI and SMA(20) at this stage, the trend appears neutral with no clear bullish or bearish momentum. The market is largely reflecting indecision, but the proximity to the 20-period simple moving average at 1.35045 hints at a mild bearish tone in the short term. If the price fails to break above the SMA, we may see a continuation of the current downtrend or further consolidation. Traders should watch for confirmation through price action around these levels to gain clearer directional bias.\n\nIn terms of support and resistance, the immediate support lies at 1.34902, which is the current market price. If this level holds, the price may attempt to re-test the resistance at 1.34931, signaling the potential for a slight rebound. However, if the support level is broken, there could be further downside risk, possibly pushing towards 1.34700 or lower. To the upside, any break above 1.35045 could trigger a push higher, but this would require stronger bullish confirmation.\n\nFor traders, this pair is currently in a tight range, suggesting that a breakout or breakdown is imminent. Caution is advised unless the price shows clear movement beyond current support or resistance zones. Watching for shifts in momentum indicators or a more definitive break could provide more reliable entry points for both short and long positions."
+    }
+  }
+}
