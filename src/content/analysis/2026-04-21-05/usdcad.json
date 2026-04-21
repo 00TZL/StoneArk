@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-04-21T06:00:52.125Z",
+  "price": {
+    "close": "1.36488",
+    "high": "1.36494",
+    "low": "1.36436",
+    "open": "1.36479",
+    "change": "0.01",
+    "datetime": "2026-04-21 15:00:00"
+  },
+  "indicators": {
+    "rsi": 37.14427,
+    "macd": -0.001317423,
+    "macd_signal": -0.0015317476,
+    "sma20": 1.36552
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理中]",
+      "content": "当前美元/加元（USD/CAD）在1.36488附近波动，显示出震荡整理的趋势。虽然价格在短期内略微上升，但缺乏强劲的动能，市场可能在等待更为明确的方向信号。投资者需关注即将公布的经济数据，以判断后市走势。\n\n从技术指标来看，MACD处于负值区域，表明短期内卖方力量较强。尽管RSI未提供数据，但一般而言，RSI值接近30时可能出现超卖，而接近70时则可能超买。当前市场情绪偏谨慎，需密切关注技术指标的变化。\n\n支撑位方面，1.36436是近期低点，若跌破该水平，则可能进一步下探至1.36300。阻力位则在1.36552附近，若突破此点位，可能会引发进一步的上涨。投资者应在此区间内灵活操作，设定止损以降低风险。\n\n建议短线交易者关注1.36436和1.36552之间的价格波动。在未出现明显突破前，可以考虑短期内反弹做多，或在接近阻力位时做空。同时，保持对市场消息的敏感，以便及时调整交易策略。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently trading at 1.36488, showing a slight 24-hour change of 0.01%. The price action remains range-bound, with a daily high of 1.36494 and a low of 1.36436. Analyzing the recent trend, it appears that the pair is consolidating after a minor upward movement. This consolidation phase suggests a potential buildup of momentum, which could lead to a breakout in either direction depending on forthcoming economic data or geopolitical events.\n\nThe absence of the RSI value makes it challenging to gauge overbought or oversold conditions accurately. However, the MACD is slightly negative at -0.0013, indicating that bearish momentum may be present. Traders should closely monitor this indicator for potential crossovers, which can signal shifts in momentum. The SMA(20) at 1.36552 serves as a key resistance level, and a sustained rally above this point could indicate a stronger bullish trend. Conversely, if the price fails to break above this level, it could reaffirm the bearish sentiment.\n\nIn terms of support and resistance levels, immediate support can be observed around the recent low of 1.36436. A break below this level could invite further selling pressure, potentially targeting the next support at 1.36300. On the upside, if the pair manages to breach the SMA(20) at 1.36552, traders may look for a retest of the psychological level of 1.3700 as a potential target. \n\nFor trading strategies, a cautious approach is advisable at this juncture. Traders may consider placing buy orders near the support level of 1.36436 with a tight stop-loss below it, looking for a rebound. Alternatively, if the price breaks below this support, a short position could be warranted, targeting further downside potential. As always, risk management and keeping an eye on economic indicators from both the U.S. and Canada will be vital for successful trading in this currency pair."
+    }
+  }
+}

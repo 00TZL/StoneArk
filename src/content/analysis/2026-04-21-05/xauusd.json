@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-04-21T06:03:23.913Z",
+  "price": {
+    "close": "4781.58538",
+    "high": "4785.49833",
+    "low": "4780.84237",
+    "open": "4784.82063",
+    "change": "-0.08",
+    "datetime": "2026-04-21 16:00:00"
+  },
+  "indicators": {
+    "rsi": 35.48369,
+    "macd": -4.56542,
+    "macd_signal": -1.13169,
+    "sma20": 4808.081446
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[当前价格震荡整理，短期承压]",
+      "content": "当前黄金/美元（XAU/USD）价格在4781.58附近震荡整理，整体呈现出短期向下的趋势。尽管24小时内变化不大，但高点和低点的接近表明市场缺乏强烈的方向性，投资者可能在等待更明确信号。此外，黄金价格仍然受到宏观经济因素的影响，尤其是美国经济数据的发布。\n\n从技术指标来看，当前MACD值为-4.56542，显示出短期内的卖压。由于RSI指标尚不可用，因此无法评估超买或超卖的情况。20日简单移动平均线（SMA）位于4808.08，进一步确认了市场的下行压力，若价格未能突破这一水平，短期内可能继续承压。\n\n支撑位方面，4780.84是短期关键支撑，若跌破该位，可能进一步测试4770附近的支撑。而在阻力位方面，4800是一个重要的心理关口，若突破该水平，可能会引发一波反弹行情。因此，投资者应密切关注这些关键价位的表现。\n\n建议投资者在当前市场环境中采取谨慎态度，考虑在支撑位附近寻找买入机会，或在反弹至阻力位时考虑卖出。同时，保持警惕，及时调整策略，以应对市场的波动。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD pair has recently shown a slight bearish tone, with a 24-hour change of -0.08%. The current price of 4781.58 is close to the daily low of 4780.84, reflecting a relatively tight range between the day’s high and low. This suggests market indecisiveness, with the price hovering near the lower end of the range. A break below 4780.84 could open the door for further downside towards 4770, a potential support level where buyers might emerge.\n\nCurrently, the absence of a visible RSI(14) and MACD signal makes it difficult to draw strong conclusions from momentum indicators. The negative MACD value of -4.56542 suggests that the momentum is currently to the downside, but without the signal line, the strength of this trend remains unclear. Traders should closely monitor the MACD for any crossover signals that may offer more clarity in terms of directional strength. A shift back into positive territory could indicate bullish sentiment, but caution is warranted in the absence of confirmed signals.\n\nThe SMA(20) stands at 4808.08, which lies above the current price and suggests a bearish short-term bias. If the price fails to reclaim this moving average, further downside could unfold, particularly if the market struggles to break above resistance at 4785.50. The 4800 level remains a key psychological resistance zone, where traders may look for selling opportunities. A sustained break above this level would suggest a potential shift toward a neutral or slightly bullish outlook.\n\nFor now, trading the range between 4780 and 4800 might be the most prudent approach. A short position near 4790, with a target around 4770, could offer favorable risk-to-reward ratios, while waiting for a break above 4808 might signal a more bullish setup. Keep an eye on the MACD and any changes in momentum as they may indicate entry points for more decisive moves."
+    }
+  }
+}

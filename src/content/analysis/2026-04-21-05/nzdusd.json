@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-04-21T06:01:35.753Z",
+  "price": {
+    "close": "0.5909",
+    "high": "0.59145",
+    "low": "0.59054",
+    "open": "0.59055",
+    "change": "0.06",
+    "datetime": "2026-04-21 15:00:00"
+  },
+  "indicators": {
+    "rsi": 60.40161,
+    "macd": 0.00082359529,
+    "macd_signal": 0.00072524193,
+    "sma20": 0.5897865
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理，短期偏多]",
+      "content": "目前纽元/美元(NZD/USD)的价格表现处于震荡整理状态，最新价格为0.5909，且24小时变化幅度较小，仅为0.06%。目前价格稍微偏向于上涨，但缺乏强烈的趋势动能，整体维持在窄幅区间内波动。随着市场情绪的变化，可能会出现短期反弹。\n\n从技术指标来看，RSI(14)数据暂时缺失，无法提供明确的超买超卖信号。MACD指标为0.00082359529，说明当前动能较弱，处于零轴附近，缺乏明确的方向。SMA(20)处于0.5897865，价格稍微高于此水平，暗示短期趋势有小幅上涨的倾向。\n\n支撑位位于0.59054附近，若价格回撤至该水平，可能会得到支撑并反弹。阻力位则出现在0.59145附近，一旦突破该点位，可能会打开进一步上涨空间。考虑到当前震荡整理的情况，短期内的交易策略可以关注支撑和阻力区间的突破。\n\n建议在价格接近支撑位时，考虑逢低买入，止损设置在更低的支撑水平附近。若价格突破阻力位，可以尝试做多，预期短期内会有反弹机会。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently trading at 0.5909, exhibiting a slight 24-hour change of 0.06%. This pricing action suggests a period of consolidation since the pair has remained within a tight range, with a high of 0.59145 and a low of 0.59054. The overall trend appears neutral in the short term, as the price hovers around the key SMA(20) level of 0.5897865. Traders should monitor this range closely as a breakout could indicate the next directional move.\n\nIn the absence of RSI data, we can look to the MACD, which currently stands at 0.00082359529, indicating a slight bullish momentum. However, without a signal line to compare, the MACD's effectiveness in providing clear direction is limited. Given the current market dynamics, traders may want to incorporate additional indicators or market analysis to confirm potential entry or exit points. The absence of strong momentum signals suggests a cautious approach may be prudent.\n\nKey support is identified at the lower end of the recent range near 0.59054, while resistance can be found at 0.59145. A sustained push above the resistance level could provide a bullish signal, potentially targeting the next psychological level around 0.5930. Conversely, if the price breaks below the support level, it may signal a shift towards bearish sentiment, with potential targets near 0.5880 or even lower.\n\nIn terms of trading strategy, a conservative approach may involve waiting for a confirmed breakout above 0.59145 before considering long positions, while a drop below 0.59054 could prompt short entries. Utilizing stop-loss orders just beyond these levels would help manage risk effectively. Moreover, keeping an eye on broader market sentiment and economic indicators will be essential in refining trading decisions in this evolving landscape."
+    }
+  }
+}

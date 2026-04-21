@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-04-21T05:57:45.611Z",
+  "price": {
+    "close": "1.17801",
+    "high": "1.17827",
+    "low": "1.17756",
+    "open": "1.17758",
+    "change": "0.04",
+    "datetime": "2026-04-21 15:00:00"
+  },
+  "indicators": {
+    "rsi": 54.39453,
+    "macd": 0.00037226135,
+    "macd_signal": 0.00050360001,
+    "sma20": 1.17797
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：震荡偏强的短线整理结构",
+      "content": "当前EUR/USD维持窄幅震荡偏强结构，价格围绕1.178附近运行并站上20日均线1.17797，多空力量均衡但略偏多，短线以整理上行为主。\n\nMACD指标维持小幅正值，动能柱虽不强但仍偏向多头延续，RSI暂缺但从价格结构看未出现超买迹象，整体动能呈温和上行状态。\n\n下方支撑关注1.17756日内低点，其次1.1765区域；上方阻力位于1.17827近期高点，突破后有望测试1.1790及更高阻力区域。\n\n交易策略上建议短线以回调低多为主，在1.1775附近企稳可轻仓做多，若跌破1.1765则需谨慎转向震荡或观望，等待方向确认。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD is currently in a tight consolidation phase with a mild upward bias, trading around 1.17801 after a very narrow 24-hour range between 1.17756 and 1.17827. Price action suggests a low-volatility environment where momentum is gradually building rather than trending decisively. The overall structure remains slightly constructive as the pair holds above short-term equilibrium, with buyers consistently defending dips near the lower boundary of the recent range.\n\nFrom an indicator standpoint, the 20-period SMA at 1.17797 is effectively acting as a dynamic pivot, with price hovering just above it, reinforcing short-term bullish stability. The MACD reading of 0.000372 shows weak but positive momentum, indicating early-stage bullish pressure without strong conviction yet. With RSI unavailable, price behavior and moving average alignment become more important, and they currently point to neutral-to-slightly bullish conditions rather than an overextended move.\n\nKey support is established near 1.1775, which aligns closely with the recent session low and serves as the first defensive zone for buyers. A break below this level could expose 1.1768 as the next intraday support. On the upside, immediate resistance sits at 1.17827, the recent high, followed by a potential extension toward 1.1790 if momentum strengthens. The tight clustering of price levels highlights a compression phase that often precedes a directional breakout.\n\nFor trading considerations, a range-bound strategy remains suitable in the short term, with potential long entries near 1.1775–1.1780 targeting a retest of 1.1783–1.1790, provided support holds. Conversely, a clean break below 1.1775 with volume could shift bias toward short positions targeting lower support zones. Until a decisive breakout occurs, disciplined range trading with tight risk control is preferred given the compressed volatility environment."
+    }
+  }
+}

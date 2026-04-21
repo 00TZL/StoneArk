@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-04-21T06:00:02.785Z",
+  "price": {
+    "close": "0.71671",
+    "high": "0.71725",
+    "low": "0.71667",
+    "open": "0.71669",
+    "change": "0.00",
+    "datetime": "2026-04-21 15:00:00"
+  },
+  "indicators": {
+    "rsi": 49.44623,
+    "macd": 0.0002710439,
+    "macd_signal": 0.00039842746,
+    "sma20": 0.7170835
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：横盘整理偏弱震荡",
+      "content": "当前澳元/美元整体呈现窄幅横盘整理格局，价格围绕0.717附近反复震荡，波动区间极为收敛，市场方向选择尚未明朗，短线动能略显不足，整体偏向弱势整理结构。\n\n从技术指标来看，汇价略低于20日均线0.71708附近，显示短线仍受均线压制，但MACD维持微弱正值运行，说明多头动能尚未完全衰竭，当前处于多空拉锯的临界状态。\n\n支撑与阻力方面，下方关键支撑位在0.71660日内低点，一旦失守可能打开进一步回落空间；上方阻力集中于0.71725及0.71750区域，需要有效突破并站稳才能确认反弹延续。\n\n操作策略上建议以区间思路对待，未突破前高前可考虑在阻力附近轻仓试空，在支撑区域尝试短线反弹做多，同时严格设置止损，防止区间破位后的单边风险放大。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "AUD/USD is trading in a narrow consolidation around 0.7167, reflecting a lack of directional conviction. Price action remains marginally below the 20-period SMA at 0.7171, suggesting a subtle bearish bias within a broader sideways structure. The market is compressing after recent volatility, indicating potential buildup for a breakout. However, without strong momentum confirmation, traders should treat current movement as range-bound rather than trending.\n\nMACD shows a small positive reading of 0.00027, hinting at mild bullish momentum, but the absence of a signal line and RSI data limits confirmation. The weak histogram suggests momentum is fading rather than accelerating. With price hovering near equilibrium levels, technical signals collectively point to indecision. This often precedes either a volatility expansion or continuation of sideways drift until stronger catalysts emerge.\n\nImmediate support is located at 0.71667, with deeper downside protection near 0.7160, a level likely to attract dip buyers. On the upside, resistance sits at 0.71725, closely aligned with the recent high, followed by stronger resistance at the 20-SMA around 0.7171–0.7173. A sustained break above this band would be needed to shift bias toward a short-term bullish continuation. Failure to break higher keeps price vulnerable to rotation back toward support.\n\nTrading conditions favor range strategies, with potential buy entries near support and sell opportunities near resistance. Tight risk management is essential given the compressed volatility. A breakout above 0.7173 could open room toward 0.7185, while a breakdown below 0.7160 may expose 0.7145. Until then, patience and confirmation-based entries remain the most effective approach. Market participants should wait for directional confirmation before committing to larger positions."
+    }
+  }
+}

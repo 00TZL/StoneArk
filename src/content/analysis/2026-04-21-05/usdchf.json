@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-04-21T06:02:39.333Z",
+  "price": {
+    "close": "0.77881",
+    "high": "0.77883",
+    "low": "0.77876",
+    "open": "0.77877",
+    "change": "0.01",
+    "datetime": "2026-04-21 16:00:00"
+  },
+  "indicators": {
+    "rsi": 40.36061,
+    "macd": -0.00057460779,
+    "macd_signal": -0.00070539658,
+    "sma20": 0.7789615
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：短期震荡偏空",
+      "content": "当前美元/瑞郎处于0.7788附近，价格徘徊于20日均线下方，显示短期多头力量有限。昨日高低点接近，表明市场缺乏明确方向，短线可能延续震荡整理格局，需关注均线支撑作用。  \n\nMACD处于负值区间，虽未形成明显金叉或死叉，但显示空方动能略占上风。RSI未提供参考，但结合价格与均线关系，可判断市场短期仍有回落压力。技术面提示多头谨慎介入，空头可关注突破机会。  \n\n关键支撑位在0.7786附近，若跌破可能加速下行，短期目标可看向0.7780。阻力位在0.7790至0.7792区间，价格若企稳并突破，可能触发多头回补，短线震荡或有反弹空间。  \n\n交易策略上，建议短线交易者以高抛低吸为主，关注支撑位的反弹机会，同时警惕价格破位形成新趋势。中线投资者可等待MACD及均线明确方向后再建仓，以降低震荡风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "USDCHF is currently exhibiting a very tight consolidation phase around 0.7788, with price action compressed near intraday lows and highs. The broader structure leans slightly bearish as price trades just below the 20-period SMA. However momentum remains weak in both directions, suggesting lack of conviction. Overall the pair appears range-bound with a mild downside bias unless a decisive breakout emerges above nearby resistance levels or above the moving average zone.\n\nThe MACD reading at -0.00057 confirms subdued bearish momentum, indicating sellers retain a marginal edge, though the signal lacks strong divergence or acceleration. With RSI unavailable, price behavior must be inferred from structure and moving averages. The 20-period SMA at 0.77896 acts as a dynamic resistance level, with price consistently failing to sustain moves above it, reinforcing the current neutral-to-bearish technical sentiment in the short term.\n\nImmediate resistance is found at 0.77883, followed closely by the SMA resistance at 0.77896, which represents the key short-term pivot. A break above this area could expose 0.77920 and higher intraday liquidity zones. On the downside, initial support lies at 0.77876, with stronger backing near 0.77870 and potentially 0.77850 if selling pressure intensifies. The extremely narrow range highlights compression before a potential volatility expansion phase.\n\nTrading strategy favors range-bound approaches until a breakout confirms direction. Short positions may be considered near resistance between 0.77883 and 0.77896 with tight stops above the SMA. Alternatively breakout traders should wait for a sustained close above 0.77896 for bullish continuation signals. On the downside, a break below 0.77870 could trigger momentum selling. Given low volatility, risk management remains critical and position sizing should stay conservative."
+    }
+  }
+}

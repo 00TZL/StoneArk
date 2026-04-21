@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-04-21T05:59:14.507Z",
+  "price": {
+    "close": "158.90977",
+    "high": "158.95957",
+    "low": "158.8582",
+    "open": "158.95899",
+    "change": "-0.03",
+    "datetime": "2026-04-21 15:00:00"
+  },
+  "indicators": {
+    "rsi": 53.21941,
+    "macd": 0.03911795,
+    "macd_signal": 0.028636209,
+    "sma20": 158.84269
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理中]",
+      "content": "当前美元/日元（USD/JPY）在158.90附近震荡整理，显示出市场在当前价格区间内缺乏明确的方向性。虽然近期价格有所回落，但整体趋势仍然偏向强势。若能突破159.00的心理关口，可能会引发进一步的上涨动能。\n\n从技术指标来看，20日简单移动平均线（SMA）在158.84附近提供了一定的支撑，表明短期内价格有可能在此附近企稳。虽然相对强弱指数（RSI）和MACD的值尚不明确，但可以预期市场情绪仍然较为乐观，只要价格维持在该支撑位之上，仍有反弹的可能。\n\n在支撑和阻力位方面，158.85构成短期支撑，而159.00则是关键阻力位。若价格突破159.00，可能会进一步挑战159.50的水平。反之，若跌破158.85，则需警惕价格向下测试更低支撑位的风险。\n\n基于当前的市场表现，建议投资者可在158.85附近寻找做多机会，目标设定在159.00及以上。同时，严格设定止损，以应对潜在的回调风险。务必关注市场动态及相关经济数据，以便及时调整交易策略。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently trading at 158.90977, showing a slight decrease of 0.03% over the past 24 hours. This minor fluctuation reflects the ongoing volatility in the forex market. The recent price action indicates a consolidation phase, as the pair has remained within the established range of 158.8582 to 158.95957. A breakout from this range could lead to a more decisive movement, with bullish sentiment likely if the price exceeds the recent high.\n\nIn terms of technical indicators, the absence of a current RSI value limits our interpretation of overbought or oversold conditions. However, the MACD reading of 0.039117950 suggests a slight bullish momentum, albeit weak. Traders should monitor for crossovers in the MACD, which could provide further insights into potential trend reversals or continuations. The SMA(20) at 158.84269 serves as a short-term support level, indicating that prices above this point could maintain upward pressure.\n\nSupport levels are crucial for traders considering entry points, with the immediate support identified at 158.8582. A drop below this level may open the door for a more significant bearish move, targeting the next support around 158.70. Conversely, resistance can be established at the recent high of 158.95957, where sellers may emerge. A confirmed break above this resistance could attract bullish traders, targeting higher levels.\n\nFor trading strategies, a cautious approach is advised due to the current consolidation. Traders may consider waiting for a breakout above the 158.95957 resistance or a drop below the support at 158.8582 before initiating positions. A bullish strategy could target a move towards 159.20, while a bearish strategy may aim for levels around 158.70. Risk management will be essential in navigating this uncertain market environment."
+    }
+  }
+}
