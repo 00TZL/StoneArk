@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-04-22T05:57:22.778Z",
+  "price": {
+    "close": "159.20394",
+    "high": "159.35322",
+    "low": "159.12569",
+    "open": "159.34925",
+    "change": "-0.09",
+    "datetime": "2026-04-22 15:00:00"
+  },
+  "indicators": {
+    "rsi": 48.1944,
+    "macd": 0.074492329,
+    "macd_signal": 0.10563663,
+    "sma20": 159.33201
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理中]",
+      "content": "当前美元/日元的价格为159.20394，近期呈现出震荡整理的趋势。在过去24小时内，价格小幅下跌0.09%，显示出市场对当前水平的犹豫。虽然未能突破159.35的高点，但短期内价格在159.12的低点附近找到了一定支撑，暗示市场可能在此区间内继续波动。\n\n从技术指标来看，MACD显示出0.074的正值，表明市场仍有一定的买盘力量，但未能形成强烈的上涨动能。由于RSI未提供，无法对超买或超卖状态进行判断，但结合SMA(20)的159.33201，可以看出短期均线仍高于当前价格，可能对价格形成一定的压力。\n\n支撑位方面，159.12为关键支撑，若价格回落至此水平并得到支撑，则有可能再次反弹。阻力位则在159.35，突破此位可能引发进一步上涨。投资者应关注价格在这些关键水平的表现，以判断市场的后续走势。\n\n基于当前的市场情况，建议采取观望策略，待价格突破阻力位或支撑位后再进行交易。如果价格突破159.35，可以考虑做多；若向下跌破159.12，则建议做空。保持灵活应对，避免在市场不确定时贸然入场。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY currency pair is currently trading at 159.20394, reflecting a slight decline of 0.09% over the past 24 hours. The recent price action has shown a range between 159.12569 and 159.35322, indicating a consolidation phase. This behavior suggests that traders are weighing their positions as they await further market catalysts. Given the overall bullish trend in USD/JPY, any sustained movement below the recent low may indicate a potential reversal or correction.\n\nThe absence of an RSI reading makes it challenging to assess overbought or oversold conditions directly. However, the MACD shows a positive value of 0.074492329, indicating that bullish momentum remains intact, albeit weakening. Traders should monitor the MACD closely for potential crossovers that could signal a shift in momentum. The 20-period Simple Moving Average (SMA) at 159.33201 acts as a dynamic resistance level, suggesting that the price may struggle to maintain upward momentum unless it decisively breaks above this level.\n\nKey support can be identified around the recent low of 159.12569, which, if breached, may trigger further selling pressure. Conversely, resistance is established at 159.35322, and a breakout above this point could signal a continuation of the bullish trend. Traders should also be mindful of broader economic indicators and central bank policies, particularly from the Bank of Japan, which can significantly impact the USD/JPY exchange rate.\n\nFor trading strategies, a cautious approach is advisable. A buy position could be considered on a confirmed breakout above the 20-day SMA or the recent high, while a sell position may be warranted if the price falls below the 159.12569 support level. Setting stop-loss orders around these key levels will help manage risk effectively in this volatile market environment. Overall, maintaining a close watch on technical indicators and price action will be crucial for making informed trading decisions in the USD/JPY pair."
+    }
+  }
+}

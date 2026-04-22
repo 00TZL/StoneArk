@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-04-22T05:55:38.336Z",
+  "price": {
+    "close": "1.17535",
+    "high": "1.17603",
+    "low": "1.17395",
+    "open": "1.17397",
+    "change": "0.12",
+    "datetime": "2026-04-22 15:00:00"
+  },
+  "indicators": {
+    "rsi": 51.6141,
+    "macd": -0.00060138632,
+    "macd_signal": -0.00072740274,
+    "sma20": 1.1747
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[当前震荡走势]",
+      "content": "当前EUR/USD的价格为1.17535，显示出在短期内的震荡趋势。价格在1.17603的高点和1.17395的低点之间波动，表明市场尚未形成明确的方向。交易者需关注此阶段的整理走势，可能为后续的突破奠定基础。\n\n从技术指标来看，RSI未提供，但MACD显示出负值，表明卖方力量仍在市场中占主导地位。SMA(20)为1.17470，作为短期支撑位，若价格突破这一水平，可能会引发进一步下行压力。然而，若价格能够重新站稳在此水平之上，可能会预示着反弹的机会。\n\n支撑位方面，1.17395是关键支撑位，若跌破可能会导致进一步的下行趋势。而1.17603则是重要的阻力位，若突破则有可能引发上涨。交易者应密切关注这两个关键价位，以便及时把握市场动态。\n\n交易建议方面，建议在1.17395附近寻找买入机会，并设置止损以控制风险。同时，若价格接近1.17603阻力位，则应考虑锁定利润或采取观望态度，待市场进一步确认方向后再做决策。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD currency pair is currently trading at 1.17535, showing a modest 24-hour change of 0.12%. The price movement has remained relatively stable, with a high of 1.17603 and a low of 1.17395 during this period. Analyzing the trend, the pair appears to be consolidating within a narrow range, suggesting indecision among traders. This sideways movement may precede a breakout, either upward or downward, depending on forthcoming economic data or geopolitical developments.\n\nThe absence of an RSI reading limits our ability to assess overbought or oversold conditions. However, the MACD shows a slight negative value at -0.00060138632, indicating a bearish momentum. This could suggest that sellers are gaining traction, though the overall momentum remains weak. The 20-period Simple Moving Average (SMA) at 1.17470 is acting as a potential support level, and its proximity to the current price indicates a critical juncture for traders to watch closely.\n\nIn terms of support and resistance levels, immediate support is identified at the recent low of 1.17395, while resistance can be found at the high of 1.17603. A break below the support level could lead to further downside, possibly targeting 1.17200. Conversely, a move above the resistance may open the door to retest higher levels, potentially targeting 1.17800. Traders should monitor these levels closely for breakout opportunities.\n\nFor trading suggestions, it may be prudent to adopt a wait-and-see approach until clearer signals emerge. A buy position could be considered on a confirmed breakout above 1.17603, with a stop-loss just below the support level. Conversely, a sell position may be warranted if the price breaks below 1.17395, with a tight stop-loss to manage risk. Leveraging the current market data with disciplined risk management will be key in navigating this pair's next moves."
+    }
+  }
+}

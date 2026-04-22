@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-04-22T05:56:30.302Z",
+  "price": {
+    "close": "1.35261",
+    "high": "1.3532",
+    "low": "1.35074",
+    "open": "1.35076",
+    "change": "0.14",
+    "datetime": "2026-04-22 15:00:00"
+  },
+  "indicators": {
+    "rsi": 58.50613,
+    "macd": -0.000072601844,
+    "macd_signal": -0.00027499478,
+    "sma20": 1.35085
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[震荡整理，关注支撑与阻力]",
+      "content": "当前英镑/美元（GBP/USD）价格为1.35261，整体走势表现出震荡整理的特征。在24小时内，价格波动较小，仅变化0.14%。从高点1.3532和低点1.35074来看，市场仍在较窄的区间内交易，投资者需密切关注即将出现的突破信号。\n\n在技术指标方面，虽然RSI和MACD的具体值尚未提供，但从现有数据来看，SMA(20)为1.35085，表明短期均线略高于当前价格，可能形成一定的支撑。若价格能够稳住在此水平上方，将有助于恢复多头情绪，反之则需警惕进一步下行的风险。\n\n支撑位方面，1.35074是近期低点，若跌破可能引发更大的抛售压力。阻力位则在1.3532一线，若突破此价位，可能会引发新一轮的买盘，推动价格向上挑战更高的水平。投资者应关注这些关键价位，制定相应的交易策略。\n\n建议短期内采取观望态度，待市场出现明确的突破信号后再进行操作。若价格突破阻力位，可考虑做多；若跌破支撑位，则应谨慎应对，控制风险，避免重大损失。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "GBP/USD is trading in a mild short-term bullish consolidation. Price remains above the 20-period SMA at 1.35085, indicating buyers retain control. However, momentum is not strongly directional, with tight ranges forming near intraday highs. The pair is stabilizing above recent breakout levels, but upside follow-through is limited by nearby resistance and cautious market participation, suggesting the market is still digesting recent gains rather than extending aggressively.\n\nMACD slightly negative (-0.00007) suggests flattening momentum and weakening bullish strength despite higher prices. Absence of RSI limits overbought or oversold context, but trading above the SMA20 still supports a short-term constructive bias. Overall indicators reflect a neutral-to-slightly bullish structure, where subtle momentum divergence hints at potential exhaustion. Lack of MACD expansion reduces breakout confidence unless buying pressure increases meaningfully in the next sessions.\n\nImmediate resistance sits at 1.3532, the recent 24-hour high. A break above this level could open the way toward 1.3550 and 1.3580. On the downside, support is located at 1.3507, closely aligned with the SMA20 at 1.35085, forming a key intraday pivot zone. A breakdown below this area would weaken the bullish structure and expose 1.3485 as the next support, increasing the risk of deeper consolidation.\n\nShort-term traders may consider buying dips near 1.3505–1.3510 with protective stops below 1.3485, targeting a retest of 1.3532 and possible breakout extension. Alternatively, rejection at resistance could provide short opportunities toward mid-range support levels. Given the weak MACD momentum, disciplined risk management is essential, as price action may remain range-bound rather than trend decisively without stronger directional confirmation."
+    }
+  }
+}

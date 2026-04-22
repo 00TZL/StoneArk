@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-04-22T05:58:14.092Z",
+  "price": {
+    "close": "0.71698",
+    "high": "0.71745",
+    "low": "0.71565",
+    "open": "0.71567",
+    "change": "0.19",
+    "datetime": "2026-04-22 15:00:00"
+  },
+  "indicators": {
+    "rsi": 57.65691,
+    "macd": -0.000072637987,
+    "macd_signal": -0.00021647529,
+    "sma20": 0.715751
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理中]",
+      "content": "当前AUD/USD的走势呈现震荡整理的状态，最新价格为0.71698，24小时内微幅上涨0.19%。在近期的高点0.71745和低点0.71565之间，价格未能有效突破，显示出市场参与者在该区间内缺乏明确方向。这种横盘整理可能为后续的趋势发展奠定基础。\n\n从技术指标来看，RSI目前不详，但MACD值为-0.000072637987，显示出短期内的下行动能相对较弱。SMA(20)为0.71575100，价格在其上方运行，表明短期内仍有一定的支撑力度。若RSI回升至中性区间，可能会为价格反弹提供支持。\n\n在支撑位方面，0.71565是重要的支撑区域，若价格下破此位，可能会引发进一步的下行空间。阻力位则位于0.71745，一旦突破该位置，可能会吸引更多买盘进入市场。投资者应密切关注这些关键价位的变化，以便及时调整交易策略。\n\n基于当前市场情况，建议短期内采取观望策略，待价格突破重要支撑或阻力位后再做决定。如果价格继续在当前区间内震荡，可考虑短线交易，利用价格波动获取利润。同时，需注意风险管理，以防突发市场变化带来的损失。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently trading at 0.71698, reflecting a minor increase of 0.19% over the last 24 hours. The price action has demonstrated a narrow trading range between a high of 0.71745 and a low of 0.71565, indicating a period of consolidation. This price behavior suggests a potential build-up of momentum, as the market awaits clearer directional cues. If the pair can break above the recent high, it may signal a bullish trend continuation, while failure to maintain above 0.71565 could lead to renewed bearish pressure.\n\nAnalyzing key technical indicators, the MACD is currently negative at -0.000072637987, signaling a lack of momentum in the bullish direction. While the RSI(14) is not available, traders should remain cautious as a low RSI could indicate bearish territory. The Simple Moving Average (SMA) at 20 periods is positioned at 0.71575100, acting as a dynamic support level. A close below this SMA could trigger further selling, while a bounce off this level may provide a buying opportunity.\n\nIn terms of support and resistance, the immediate support level can be identified at 0.71565, which aligns with the recent low. Should the price drop below this level, the next significant support is likely at 0.71400. Conversely, resistance is expected at 0.71745, with a break above this point potentially opening the door to the next resistance zone around 0.7200. Traders should closely monitor these levels for signs of reversal or continuation.\n\nGiven the current market conditions, a cautious trading approach is advisable. Traders might consider buying near the support level of 0.71565, with a stop-loss just below this mark. Alternatively, a breakout above 0.71745 could present a more aggressive buying opportunity, targeting a return toward the 0.7200 resistance. However, due to the mixed signals from the indicators, maintaining a balanced risk-reward profile will be essential for optimal trade management."
+    }
+  }
+}
