@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-04-24T06:03:49.943Z",
+  "price": {
+    "close": "1.34663",
+    "high": "1.34682",
+    "low": "1.34656",
+    "open": "1.34666",
+    "change": "-0.00",
+    "datetime": "2026-04-24 16:00:00"
+  },
+  "indicators": {
+    "rsi": 41.50725,
+    "macd": -0.000894364,
+    "macd_signal": -0.00088384541,
+    "sma20": 1.3477
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[震荡整理，关注支撑与阻力]",
+      "content": "当前英镑/美元（GBP/USD）在1.34663附近震荡整理，市场暂时缺乏明确方向。近期高点1.34682和低点1.34656的交易区间显示出价格波动较小，投资者情绪相对谨慎。此时，市场可能在等待更明确的经济数据或事件来推动价格走势。\n\n从技术指标来看，RSI尚未提供信号，而MACD处于负值区域，表明短期内卖压仍然存在。20日简单移动平均线（SMA）在1.34770附近形成阻力位，若价格持续在此水平下方，则可能进一步走低。投资者需关注技术指标的变化，以便把握入市时机。\n\n在支撑方面，1.34650一线将是关键支撑位，若价格跌破此位，可能引发更多抛售。然而，若英镑能够突破1.34770的阻力位，可能会重新测试更高的价位。此时，投资者应密切关注价格动作及成交量变化，以判断后市走势。\n\n综合来看，当前英镑/美元的交易策略建议保持谨慎，观望为主。短线交易者可在支撑位附近寻找买入机会，而突破阻力位后则可考虑短期做多。投资者需做好风险管理，确保在不确定的市场环境中保护资本。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently trading at 1.34663, showing a slight decline in the last 24 hours. This stability within a narrow range suggests a consolidation phase following recent volatility. The recent high of 1.34682 and low of 1.34656 indicate a lack of strong directional momentum. A close examination of price action reveals that the pair is hovering near the 20-day Simple Moving Average (SMA) of 1.34770, which could act as a dynamic resistance level. A sustained move above this SMA may open the door for a retest of higher resistance levels.\n\nIn terms of momentum indicators, the MACD reading of -0.00089436400 suggests a bearish bias, although the absence of a signal line makes interpretation somewhat challenging. This negative MACD value indicates that recent price action may lack the strength required for a bullish reversal in the short term. Traders should keep an eye on forthcoming data releases that could impact the GBP, as they may provide clarity on the direction of momentum and influence trading decisions.\n\nSupport levels are identified at 1.34656, which aligns with the recent low, while a break below this level could expose the pair to further declines toward the next support around 1.34400. Conversely, if the price breaks above the SMA, it could challenge the resistance at 1.35000. Traders should consider these levels when planning their entry and exit points, as they could serve as critical decision-making junctures.\n\nGiven the current market conditions, it may be prudent for traders to adopt a cautious approach. A wait-and-see strategy could be effective, particularly as the market consolidates. If bullish momentum develops and the price breaks above the 20-day SMA, a long position could be considered, targeting higher resistance. Conversely, if price action continues to languish below 1.34656, short positions may offer better risk-reward opportunities."
+    }
+  }
+}

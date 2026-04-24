@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-04-24T06:08:54.235Z",
+  "price": {
+    "close": "4684.01203",
+    "high": "4686.5708",
+    "low": "4683.45157",
+    "open": "4686.5708",
+    "change": "-0.05",
+    "datetime": "2026-04-24 16:00:00"
+  },
+  "indicators": {
+    "rsi": 41.28085,
+    "macd": -11.49413,
+    "macd_signal": -10.34016,
+    "sma20": 4702.80032
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：震荡偏弱整理格局",
+      "content": "短线黄金/美元整体呈现震荡偏弱格局，价格运行于4700下方，反弹动能有限，空头略占优势，但波动收窄显示市场观望情绪加重。\n\n均线方面，价格跌破SMA20均线4702，形成短期压制。MACD为负值，动能柱走弱，说明下行动能仍在释放，但尚未出现加速下跌信号。\n\n支撑位关注4683附近日内低点，其下方若失守将测试4680整数关口。上方阻力位在4700及4702均线区域，突破后才有望缓解空头压力。\n\n交易建议以区间思路为主，短线可在4683附近尝试轻仓低吸，反弹至4700上方分批止盈；若跌破4680则需顺势跟空，控制仓位并严格止损。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD pair currently trades at 4684.01, reflecting a slight decline of 0.05% over the past 24 hours. This stable price action suggests a consolidation phase, with the market struggling to maintain momentum. The recent high of 4686.57 indicates a resistance level that traders are closely watching, while the low of 4683.45 provides an immediate support level. A break below this support could trigger further selling pressure, while a move above the resistance could signal a potential bullish reversal.\n\nIn terms of technical indicators, the SMA(20) at 4702.80 suggests a prevailing downtrend, as the price remains below this moving average. The negative MACD value of -11.49 further confirms bearish momentum, indicating that sellers are currently in control. Traders should monitor these indicators closely, as any shifts could signal potential trading opportunities. A crossover in the MACD would be particularly significant, as it could suggest a change in momentum.\n\nSupport levels are critical for traders to consider, with the primary support zone situated around 4683.45. A decisive break below this level may open the door for a deeper retracement towards the next key support level. Conversely, if the price manages to reclaim the SMA(20), it could signal a bullish sentiment shift, potentially leading to a test of the resistance at 4686.57. Traders should be prepared for volatility and consider placing stop-loss orders to manage risk effectively.\n\nIn conclusion, the current market dynamics indicate a cautious approach for XAU/USD. Traders should look for confirmation through price action around the identified support and resistance levels. Monitoring the MACD and SMA for potential signals will be key in developing a robust trading strategy. A wait-and-see approach may be prudent until clearer directional cues emerge from the market."
+    }
+  }
+}

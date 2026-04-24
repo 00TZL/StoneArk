@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-04-24T06:05:24.958Z",
+  "price": {
+    "close": "0.71291",
+    "high": "0.71302",
+    "low": "0.71266",
+    "open": "0.71268",
+    "change": "0.03",
+    "datetime": "2026-04-24 16:00:00"
+  },
+  "indicators": {
+    "rsi": 42.72218,
+    "macd": -0.00071643231,
+    "macd_signal": -0.000674969,
+    "sma20": 0.7136975
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理趋势]",
+      "content": "当前澳元/美元(AUD/USD)在0.71291附近震荡整理，受限于高点0.71302和低点0.71266的区间。尽管价格波动幅度较小，但市场情绪依然谨慎，投资者需密切关注即将发布的经济数据及全球市场动向，以判断未来趋势的可能变化。\n\n在技术指标方面，当前的MACD为-0.0007，显示出短期内弱势信号，且RSI尚未提供明确的超买或超卖信号。这表明市场仍在观望，短期内可能会继续保持震荡走势。20日简单移动平均线(SMA)为0.7137，进一步确认了当前的横盘整理格局。\n\n支撑位方面，0.71266附近是重要的支撑区域，若跌破则可能引发更大幅度的回调；而阻力位则在0.71302附近，若突破该水平，有望重新测试0.7150-0.7160的区域。投资者应关注这些关键价位，以便把握交易机会。\n\n综合考虑，建议交易者在0.7126-0.7130区间内进行短线交易，利用波动性进行进出场操作。同时，保持警惕，关注市场消息面变化，必要时调整策略以应对潜在的价格波动。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently trading at 0.71291, reflecting a slight increase of 0.03% over the past 24 hours. This stability suggests a consolidation phase, with the price oscillating between the high of 0.71302 and the low of 0.71266. Analyzing the recent price action, the pair appears to be trapped within a narrow range, indicating indecision among traders. A break above the recent high may suggest a bullish momentum, while a move below the low could signal a bearish reversal.\n\nIn terms of technical indicators, the absence of a current Relative Strength Index (RSI) makes it challenging to gauge overbought or oversold conditions. However, the MACD reading of -0.000716 indicates a slight bearish momentum, though the lack of a signal line complicates the interpretation. Meanwhile, the 20-period Simple Moving Average (SMA) of 0.71369750 suggests that the price is currently below this average, reinforcing the potential for a downward correction if the trend continues. Traders should monitor these indicators closely for further signals.\n\nKey support and resistance levels for the AUD/USD pair are crucial for determining potential entry and exit points. The immediate support level lies around the recent low of 0.71266, while resistance can be identified at 0.71302. A break below the support could lead to further declines towards the next significant support level, while a breakout above resistance may open the door to a rally towards 0.7150. \n\nIn light of the current market conditions, a cautious trading approach is advisable. Traders may consider waiting for a confirmed breakout above the resistance level or a breakdown below support before initiating positions. Given the current technical indicators and price action, this strategy could help mitigate risk while positioning for potential profit opportunities in either direction."
+    }
+  }
+}

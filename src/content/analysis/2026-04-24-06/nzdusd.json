@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-04-24T06:07:11.497Z",
+  "price": {
+    "close": "0.58534",
+    "high": "0.58538",
+    "low": "0.58511",
+    "open": "0.58512",
+    "change": "0.04",
+    "datetime": "2026-04-24 16:00:00"
+  },
+  "indicators": {
+    "rsi": 39.62514,
+    "macd": -0.0010033497,
+    "macd_signal": -0.0010401006,
+    "sma20": 0.586217
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理趋势]",
+      "content": "当前纽元/美元(NZD/USD)的价格为0.58534，显示出震荡整理的趋势。在过去24小时内，价格波动较小，仅变化了0.04%。高点和低点分别为0.58538和0.58511，表明市场情绪相对平稳，缺乏明显的方向性。\n\n在技术指标方面，虽然RSI(14)数据缺失，但MACD显示为负值-0.0010033497，暗示短期内卖方主导。SMA(20)为0.58621700，当前价格已低于这一均线，进一步确认了短期内的弱势。整体来看，市场尚未出现强烈的买入信号。\n\n支撑位方面，建议关注0.58510一线，如果价格跌破此水平，可能会引发进一步下行。而阻力位则设置在0.58620，若能有效突破，将有助于恢复上涨动力。总体而言，市场仍需关注这些关键价位，以判断后续走势。\n\n建议交易者在当前震荡行情中保持观望，避免追高。若价格触及支撑位并出现反弹信号，可以考虑小幅买入。然而，若持续向下突破支撑位，则应及时止损，以降低风险。保持灵活应对市场变化是当前的最佳策略。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD currency pair is currently trading at 0.58534, reflecting a slight 24-hour change of 0.04%. The price action has recently established a narrow range, with a high of 0.58538 and a low of 0.58511. This consolidation suggests a period of indecision among traders, potentially indicating a buildup for a future breakout. A further analysis of the trend shows that the pair is trading below the 20-day simple moving average (SMA), which is currently at 0.586217. This positioning suggests a bearish sentiment, as the market is grappling with downward pressure.\n\nIncorporating momentum indicators such as the MACD, which is currently at -0.0010033497, reveals that the market remains in a bearish phase. Although the MACD line is slightly negative, it hints at a potential reversal if it begins to climb toward the signal line. However, the absence of a signal line value limits a comprehensive analysis. Traders should remain cautious, as the lack of a clear upward momentum could lead to additional downside movements if selling pressure persists.\n\nKey support and resistance levels are crucial for gauging potential price movements. Immediate support is observed at the recent low of 0.58511, while resistance is identified around the 20-day SMA at 0.586217. A break below the support level could see the pair testing further support at 0.58400, while a rally above the SMA could signal a shift in sentiment and a potential retest of 0.58800. Traders should watch these levels closely for potential entry and exit points.\n\nIn terms of trading strategy, a cautious approach is recommended. Short positions could be considered if the price breaks below the support level of 0.58511, with a target around 0.58400. Conversely, should the price break above the 20-day SMA, a long position may be viable, targeting the subsequent resistance level at 0.58800. Proper risk management techniques should be employed, given the current market volatility and uncertainty in direction."
+    }
+  }
+}

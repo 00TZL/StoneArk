@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-04-24T06:04:39.112Z",
+  "price": {
+    "close": "159.778",
+    "high": "159.78336",
+    "low": "159.75799",
+    "open": "159.76849",
+    "change": "0.01",
+    "datetime": "2026-04-24 16:00:00"
+  },
+  "indicators": {
+    "rsi": 59.82538,
+    "macd": 0.075039134,
+    "macd_signal": 0.072245965,
+    "sma20": 159.66053
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[短期震荡，关注突破]",
+      "content": "当前美元/日元（USD/JPY）价格为159.778，近期市场表现出一定的震荡特征。虽然价格在159.75799至159.78336之间波动，但整体趋势表现出上行的潜力。投资者需关注短期内是否能有效突破159.8的阻力位，以确认进一步上涨的可能性。\n\n技术指标方面，MACD目前显示出微弱的上涨动能，值为0.075039134，表明多头稍占优势。然而，RSI指标尚未提供数据，这使得对超买或超卖状态的判断受到限制。建议投资者密切关注未来的技术指标变化，以便更好地把握市场动向。\n\n在支撑和阻力方面，当前的支撑位大约在159.66附近，若价格回落至此水平，可能会吸引买盘进入。上方阻力位则集中在159.8和160.0附近，一旦突破，这将为后续上涨提供强有力的支撑。整体来看，市场仍需谨慎对待。\n\n基于当前市场状况，建议交易者在159.66附近寻找买入机会，并在159.8附近设置止损。如果突破160.0，进一步上涨的可能性将增加。然而，若价格跌破159.66，需考虑调整策略以降低风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY currency pair is currently trading at 159.778, showing a slight 24-hour change of 0.01%. This stability suggests that the market is in a consolidation phase after recent fluctuations. The recent high of 159.78336 and low of 159.75799 indicate a tight trading range, which implies that traders are waiting for a significant catalyst to drive the price in either direction. A breakout above the recent high could indicate bullish momentum, while a drop below the low may signal a bearish reversal.\n\nThe absence of current RSI data makes it difficult to assess overbought or oversold conditions. However, the MACD value of 0.075039134 suggests that the bullish momentum is slightly stronger than bearish pressure, though the lack of a confirmed signal line limits its reliability. The 20-period Simple Moving Average (SMA) is positioned at 159.66053, providing a strong support level. A price retracement towards this SMA could present a buying opportunity, particularly if the price holds above this level.\n\nKey support is identified around the 159.66 mark, while resistance is evident near 159.78. A sustained break and hold above resistance could entice buyers to enter the market, potentially targeting higher levels. Conversely, if the price fails to maintain above the support level, it may trigger selling pressure, leading to a possible retest of lower support zones. Market participants should watch these levels closely for potential trading signals.\n\nTraders may consider adopting a wait-and-see approach for now, given the tight range and lack of decisive momentum. A breakout above resistance could warrant long positions, while a failure to hold above support may provide short opportunities. Overall, maintaining a strategic approach with proper risk management will be essential in navigating this current market environment."
+    }
+  }
+}
