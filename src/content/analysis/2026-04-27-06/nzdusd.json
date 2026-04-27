@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-04-27T06:26:41.224Z",
+  "price": {
+    "close": "0.5883",
+    "high": "0.58843",
+    "low": "0.58798",
+    "open": "0.58842",
+    "change": "-0.02",
+    "datetime": "2026-04-27 16:00:00"
+  },
+  "indicators": {
+    "rsi": 53.23743,
+    "macd": 0.00020909693,
+    "macd_signal": 0.0001130469,
+    "sma20": 0.5880105
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：短期震荡偏弱",
+      "content": "目前纽元/美元价格徘徊在0.5883附近，接近20日均线0.5880，显示短期价格在均线附近震荡整理，未形成明确单边趋势。价格全天波动有限，高低点0.58843/0.58798，表明市场短线多空力量相对均衡。  \n\nMACD指标当前为0.00021，尽管信号线未提供，但数值接近零，说明市场动能较弱，短期上涨动力有限。缺少RSI数据，难以判断超买超卖状态，但结合价格走势，可认为短线波动多为横盘震荡。  \n\n支撑位在0.5879附近，若跌破该水平，可能触发进一步回调；阻力位在0.5885上方，多头若突破此位，短线有小幅反弹空间。整体来看，价格处于窄幅区间，短期方向不明。  \n\n交易策略上，可采用区间交易思路，在支撑位附近逢低做多，阻力位附近考虑减仓或短线获利；若价格出现有效突破，应关注突破后的延续性，避免追高杀跌。保持灵活止损，控制仓位风险是关键。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is showing a slight downtrend with the current price at 0.5883, reflecting a modest 0.02% drop in the last 24 hours. The pair has been trading within a tight range between 0.58798 and 0.58843, indicating low volatility. In this current environment, the market is testing the support around 0.58798. If the price breaks below this level, it may signal further downside movement, potentially targeting 0.5850 as the next key support zone.\n\nIn terms of technical indicators, the MACD is positive at 0.00021, but without a signal line for comparison, it's difficult to draw significant conclusions from this alone. The lack of a clear MACD signal means that momentum is not yet fully established in either direction. Furthermore, the absence of an RSI value makes it hard to assess potential overbought or oversold conditions at this point, so traders should rely on price action and other indicators for confirmation.\n\nThe 20-period simple moving average (SMA) is currently at 0.58801050, which is very close to the current market price. This indicates neutral short-term momentum, as the price is hovering just above the SMA. Should the price fall below this level, it could signal a potential bearish move. Conversely, a bounce from this level could indicate a short-term bullish reversal, especially if accompanied by higher trading volumes or a stronger breakout.\n\nTraders should keep an eye on key support at 0.58798 and resistance around 0.5900. A break above 0.5900 could push the pair towards the next resistance at 0.5930, while a dip below support could lead to further downside testing. Considering the current market range and limited volatility, a conservative approach with tight stop-loss orders would be prudent to manage risk."
+    }
+  }
+}

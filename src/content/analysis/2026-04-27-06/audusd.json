@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-04-27T06:25:01.525Z",
+  "price": {
+    "close": "0.7163",
+    "high": "0.71652",
+    "low": "0.71586",
+    "open": "0.7165",
+    "change": "-0.03",
+    "datetime": "2026-04-27 16:00:00"
+  },
+  "indicators": {
+    "rsi": 57.17228,
+    "macd": 0.00042976324,
+    "macd_signal": 0.00024366922,
+    "sma20": 0.715437
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[短期震荡走势]",
+      "content": "当前，澳元/美元（AUD/USD）在0.7163附近交易，呈现出一定的短期震荡行情。从价格波动来看，24小时内仅小幅下跌0.03%，高低点之间的差距较小，显示出市场的整理状态。此时，价格未能突破明显的支撑或阻力位，暗示可能会继续在窄幅区间内波动。\n\n技术指标方面，MACD指标显示微弱的0.00042976324值，但信号线缺失，暂时无法确认趋势的强度与方向。RSI(14)未提供数据，进一步增加了当前行情的不确定性。在SMA(20)上，当前价格略高于均线0.71543700，表明短期内上涨潜力略强，但无明显趋势延续迹象。\n\n从支撑和阻力的角度来看，当前的支撑位大致在0.71586，突破此处可能会引发进一步下行，目标可能会指向0.7150附近。而阻力位则在0.71652附近，若价格突破此位，可能会出现反弹，但仍需关注市场情绪的变化。\n\n鉴于当前震荡整理的市场环境，建议短线交易者保持观望，待价格突破关键支撑或阻力位时再做决定。若突破阻力，可以考虑轻仓做多；若跌破支撑，做空可能会是较为合适的选择。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The Australian Dollar (AUD) against the US Dollar (USD) is currently displaying a subtle bearish sentiment with a slight decline of 0.03% in the past 24 hours. The price has oscillated between 0.71652 (high) and 0.71586 (low), suggesting a lack of strong momentum in either direction. With the market holding near its current level of 0.7163, it indicates that the AUD/USD pair is consolidating and may remain range-bound unless there is a clear catalyst driving the price beyond these boundaries.\n\nThe recent price action suggests a weak trend, with the AUD/USD pair unable to break decisively through notable levels of resistance or support. At the moment, the pair is hovering just above the 20-period simple moving average (SMA) at 0.7154, which serves as a dynamic support level. A sustained move below this level could lead to further downward pressure, targeting the next potential support at 0.7140. On the upside, resistance can be found near the recent high of 0.7165, and breaking above this level could signal a short-term bullish correction toward 0.7180 or higher.\n\nRSI and MACD data are not available, but it’s important to note that the lack of strong momentum in either direction could be seen as a neutral or indecisive market. Without clear signs of bullish or bearish divergence, traders might consider watching for price action near support or resistance levels to determine the next move. A failure to sustain above the SMA or a drop below support would suggest a bearish continuation, while a break above resistance would signal potential for upward momentum.\n\nFor traders, the strategy should involve waiting for a break above the 0.7165 resistance or a dip below 0.7154 before making aggressive positions. Scalpers may look for small intra-day trades within this narrow range, while more conservative traders might opt to wait for a clearer trend to form. Risk management should focus on tight stops just below support or above resistance levels."
+    }
+  }
+}

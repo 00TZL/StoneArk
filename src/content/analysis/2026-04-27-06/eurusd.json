@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-04-27T06:22:36.155Z",
+  "price": {
+    "close": "1.17195",
+    "high": "1.17233",
+    "low": "1.17169",
+    "open": "1.17229",
+    "change": "-0.03",
+    "datetime": "2026-04-27 16:00:00"
+  },
+  "indicators": {
+    "rsi": 50.74547,
+    "macd": 0.00013068305,
+    "macd_signal": 0.000010245132,
+    "sma20": 1.17175
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[短期震荡整理，市场谨慎]",
+      "content": "当前欧元/美元（EUR/USD）的价格为1.17195，处于一个较为平稳的区间内。市场24小时内微幅波动，变化幅度为-0.03%，显示出短期内缺乏强烈的方向性趋势。整体来看，欧元/美元目前处于震荡整理阶段，投资者应保持谨慎。\n\n技术指标方面，尽管MACD的数值为0.00013068305，但由于信号线数据缺失，难以做出明确的趋势预测。SMA(20)位于1.17175，接近当前价格，表明价格在短期内维持在这一水平附近波动。RSI数据未提供，但从目前走势看，市场情绪较为中立，暂时没有明显的超买或超卖情况。\n\n在支撑和阻力层面，1.17169和1.17233分别为当前价格区间的短期支撑和阻力。若价格突破上方阻力位，可能会迎来进一步的上涨动力，但突破下方支撑位则可能带来下行压力。短期内，交易者可以关注这一区间的突破情况，决定进出场时机。\n\n建议短线交易者在区间内操作，等待价格突破支撑或阻力位。由于市场当前缺乏明确趋势，建议避免过于激进的操作，保持灵活应对。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently trading near 1.1720, hovering around its 20-period SMA of 1.17175, indicating a neutral short-term trend. The recent price movement shows minimal volatility with a slight decline of 0.03% over the past 24 hours. This suggests market indecisiveness, with traders waiting for clearer signals. Given the proximity to the SMA, the trend remains largely sideways, and a breakout either above 1.17233 or below 1.17169 could determine the next directional move.\n\nIn terms of indicators, the MACD at 0.00013068305 suggests the potential for a bullish crossover, but the absence of the signal line makes it hard to interpret decisively. Without a confirmed momentum shift, the market remains range-bound, with price action driven by minor fluctuations around the established levels. A push above 1.17233 would confirm bullish momentum, while a drop below 1.17169 could signal further bearish movement.\n\nSupport is found around 1.17169, where recent price action has bounced, and resistance is at 1.17233, just above the current market price. A break below 1.17169 would expose the pair to potential testing of the next key support at 1.1700. On the other hand, if the resistance at 1.17233 holds, a return toward the 1.1750 level could be in play. These levels are critical for day traders to monitor for breakout or reversal opportunities.\n\nFor traders, it's crucial to wait for a clear breakout or reversal pattern to confirm the next direction. If price moves beyond the key support or resistance levels, consider entering with tight stop losses to mitigate risk. A breakout above 1.17233 may be an opportunity to go long, while a drop below 1.17169 could warrant a short position."
+    }
+  }
+}

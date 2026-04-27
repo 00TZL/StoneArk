@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-04-27T06:27:23.865Z",
+  "price": {
+    "close": "0.78564",
+    "high": "0.7857",
+    "low": "0.7851",
+    "open": "0.78517",
+    "change": "0.06",
+    "datetime": "2026-04-27 16:00:00"
+  },
+  "indicators": {
+    "rsi": 50.84263,
+    "macd": -0.000096477153,
+    "macd_signal": 0.000020417487,
+    "sma20": 0.785852
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[震荡整理，弱势回调]",
+      "content": "当前美元/瑞郎（USD/CHF）价格在0.7856附近波动，整体呈现震荡整理的趋势。从短期来看，价格在0.7851至0.7857区间内波动，尚未明确突破，显示出市场缺乏强势的方向性动能。这种震荡模式暗示市场情绪较为谨慎。\n\n在技术指标方面，MACD目前为负值，暗示短期内卖压较为强烈，但由于信号线缺失，我们难以确定进一步的趋势变化。SMA(20)为0.785852，显示出价格稍微偏向下行，但未出现强烈的下跌趋势。RSI(14)缺失，无法提供进一步的超买或超卖信号。\n\n支撑位方面，0.7851是近期价格的低点，若突破此位置，可能会进一步向0.7845附近寻找支撑。阻力位则位于0.7857，若突破该水平，可能会迎来短期反弹。综合来看，当前价格仍然处于区间整理阶段，尚未形成明确的趋势信号。\n\n在交易策略上，建议等待价格突破关键支撑或阻力位后再做决定。若价格突破0.7857，可以考虑短期做多，目标向0.7870靠拢。若跌破0.7851，则建议短期做空，目标向0.7845寻找支撑。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently trading near the 0.78564 level, showing a slight 24-hour change of 0.06%. This minor change indicates a relatively stable market with a narrow range between the day’s high and low at 0.7857 and 0.7851. The pair is sitting just below its 20-period Simple Moving Average (SMA) of 0.785852, which suggests a neutral to slightly bearish short-term trend. This price action indicates indecision in the market, as buyers and sellers are almost in equilibrium.\n\nFrom a technical standpoint, the Relative Strength Index (RSI) and MACD are unavailable at this moment, making it challenging to fully gauge the underlying momentum. However, the MACD is still in negative territory with a value of -0.000096477153, signaling that the short-term selling pressure remains dominant. The absence of a clear signal line in the MACD makes it more difficult to establish a decisive momentum direction. Traders may want to monitor for the emergence of these indicators to gain more clarity.\n\nIn terms of support and resistance, the immediate support level lies at 0.7851, where the price found a low during the 24-hour trading range. A breach below this level could expose further downside towards 0.7840 or 0.7835. On the resistance side, the 0.7857 region remains the key short-term hurdle, with a breakout above it possibly opening the way for a move towards 0.7865 or 0.7870. A break above the SMA could indicate a shift towards more bullish sentiment.\n\nGiven the current setup, traders may consider a cautious approach. If the price holds above 0.7851, a rebound to the upside could offer a buy opportunity, but the lack of a strong bullish momentum calls for a wait-and-see strategy. Conversely, a move below support could lead to short positions targeting the lower support levels. Risk management is crucial, as price action is showing limited direction."
+    }
+  }
+}

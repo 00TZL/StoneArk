@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-04-27T06:28:23.393Z",
+  "price": {
+    "close": "4713.80199",
+    "high": "4714.88065",
+    "low": "4709.92905",
+    "open": "4710.09875",
+    "change": "0.07",
+    "datetime": "2026-04-27 16:00:00"
+  },
+  "indicators": {
+    "rsi": 54.14174,
+    "macd": 1.79974,
+    "macd_signal": 0.13767827,
+    "sma20": 4707.72575
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短期震荡偏多",
+      "content": "当前黄金/美元价格在 $4713.80$ 附近徘徊，较昨日小幅上涨 $0.07\\%$，短线呈现震荡整理格局。从均线角度看，价格位于 20 日简单移动平均线 $4707.73$ 上方，显示多头仍占一定优势，但涨幅有限，短期可能延续区间波动。  \n\nMACD 指标显示主线在 $1.7997$ 附近，尚未形成明显背离，但仍暗示多头动能存在，需关注信号线交叉情况以判断后续加速或回调风险。由于 RSI 数据缺失，超买超卖状态暂无法确认，交易者可参考价格行为和均线支撑判断短期走势。  \n\n支撑位上看，近期低点 $4709.93$ 是关键防守线，一旦跌破可能引发短线调整；阻力位位于日高 $4714.88$ 附近，突破则有望测试 $4720$ 附近心理关口。价格在区间内运行，建议密切关注这些关键水平以捕捉短线机会。  \n\n交易策略上，短线偏多思路为主，回调至均线附近可考虑轻仓做多，同时设置止损保护在支撑下方 $4708$ 附近；若价格突破 $4715$，可顺势加仓追涨，但需警惕快速回撤的震荡风险，保持灵活止盈策略。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD pair is currently in a slight bullish trend, with the latest price at 4713.80, reflecting a modest 0.07% increase over the last 24 hours. This suggests a period of consolidation, with the price bouncing between 4709.93 and 4714.88. The market remains relatively stable, indicating a lack of significant volatility in the short term. However, this could signal a building momentum for a potential breakout, especially if the price pushes past the upper resistance near 4714.88.\n\nThe current market structure shows that the price is trading above the 20-period simple moving average (SMA) of 4707.73, which indicates a short-term bullish bias. Despite the lack of RSI and signal data, the MACD value of 1.7997 suggests some positive momentum, but without a confirmed signal line, it’s difficult to gauge the sustainability of this momentum. Traders should be cautious of potential price reversals, particularly if the MACD begins to lose strength or if the price fails to hold above the 4709.93 support level.\n\nKey support lies at the 4709.93 level, just below the current price, with the resistance forming near 4714.88. If the price moves higher and breaks this resistance level, a continuation towards the next major resistance could occur. Alternatively, if the support at 4709.93 is breached, a move towards lower levels may open up, possibly testing deeper support zones. Given the lack of strong indicators, traders should consider waiting for a clearer signal before making significant trades.\n\nIn the current market context, traders may look for short-term opportunities with tight stop-loss orders. A break above the resistance at 4714.88 could signal further upside, while a drop below 4709.93 could open the door for short trades. For more confidence in trading decisions, a confirmation from key indicators like RSI or a MACD crossover would be helpful to validate the prevailing trend direction."
+    }
+  }
+}

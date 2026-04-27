@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-04-27T06:24:19.492Z",
+  "price": {
+    "close": "159.44712",
+    "high": "159.50205",
+    "low": "159.40355",
+    "open": "159.40824",
+    "change": "0.03",
+    "datetime": "2026-04-27 16:00:00"
+  },
+  "indicators": {
+    "rsi": 54.5469,
+    "macd": 0.013816863,
+    "macd_signal": 0.011761582,
+    "sma20": 159.31648
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：[震荡整理，谨慎观望]",
+      "content": "当前美元/日元价格维持在159.45附近，处于短期震荡整理格局。从技术面来看，价格波动较小，24小时变化仅为0.03%，显示出市场缺乏明确方向。价格接近20日简单移动平均线（SMA 159.32），说明当前走势可能受限于此。\n\nRSI和MACD指标暂时没有显示出明显的超买或超卖信号，这意味着市场情绪较为平稳，缺乏强烈的买卖力量。MACD值略为正向，表明短期内可能存在一定的上涨动能，但仍需确认是否突破阻力。\n\n目前的关键支撑位在159.40附近，若价格跌破该水平，可能会进一步测试159.30区域的支撑。上方的阻力位则在159.50，突破该区域有望推动价格向159.60附近靠拢。因此，短期内应关注159.50的突破情况。\n\n综合来看，建议保持谨慎观望，待价格突破159.50或跌破159.40时再做决策。如果突破阻力，可考虑适度做多；反之，跌破支撑时则可考虑做空。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently hovering near 159.45, showing minimal movement over the last 24 hours with a modest 0.03% gain. The short-term trend appears cautiously bullish, as the price remains above the 20-period SMA at 159.316. This suggests underlying buying interest, though the narrow daily range between 159.403 and 159.502 reflects market indecision. Traders may want to monitor price action closely for confirmation before committing to directional trades.  \n\nThe MACD reading of 0.0138 indicates mild bullish momentum, though the absence of a signal line limits the strength of this signal. The proximity of the current price to the SMA suggests consolidation, implying that momentum could accelerate if a breakout above the recent high occurs. Conversely, a retracement toward the SMA could attract short-term buyers looking for favorable entry points, particularly around 159.30.  \n\nImmediate resistance is likely at the day’s high of 159.502, which could act as a barrier for further upside. On the downside, intraday support appears near 159.40, closely aligned with the lower range and the 20-SMA. Breaching this support could trigger short-term selling pressure, opening the path to 159.25. Observing how price interacts with these levels can provide valuable signals for swing or intraday trades.  \n\nFor traders considering positions, a conservative approach may involve waiting for a confirmed break above 159.50 for long exposure, targeting 159.60–159.65 while maintaining a tight stop below 159.40. Alternatively, a break below 159.40 could provide a shorting opportunity, aiming for 159.25–159.20 with risk management around the recent SMA support. Given the current low volatility, emphasis on clear confirmation before entry is advisable."
+    }
+  }
+}

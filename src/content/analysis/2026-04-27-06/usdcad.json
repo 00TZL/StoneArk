@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-04-27T06:25:51.915Z",
+  "price": {
+    "close": "1.36624",
+    "high": "1.36654",
+    "low": "1.3661",
+    "open": "1.36641",
+    "change": "-0.01",
+    "datetime": "2026-04-27 16:00:00"
+  },
+  "indicators": {
+    "rsi": 39.79265,
+    "macd": -0.00028694316,
+    "macd_signal": -0.00015656573,
+    "sma20": 1.36715
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[短期震荡走势，关注支撑/阻力突破]",
+      "content": "当前美元/加元（USD/CAD）的价格为1.36624，处于相对平稳的震荡区间。从短期来看，市场走势表现为横盘整理，未显现出明显的上涨或下跌动力。由于价格波动较小，趋势判断暂时维持中性，投资者应谨慎操作，等待进一步的突破信号。\n\n在技术指标方面，MACD显示出微弱的负值（-0.00028694316），表明短期内空头稍占上风，但信号线未明确显示，表明市场力量仍不稳定。RSI值未提供，无法做出全面评估。20日简单移动平均线（SMA）为1.36715，价格略低于此水平，意味着短期内仍有回调压力。\n\n当前的支撑位在1.3661附近，若价格突破该位置，可能进一步下探至1.3640水平。阻力位则位于1.3665附近，若突破该阻力，可能会迎来短期的反弹。投资者应密切关注这些关键价位的突破情况，以便捕捉市场的下一步动向。\n\n综合来看，建议在支撑位附近尝试低位买入，并在接近阻力位时考虑卖出。若价格突破重要支撑或阻力，可适时调整策略。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "USD/CAD is currently trading near 1.3662, slightly below the 20-period simple moving average of 1.3671, suggesting a mild short-term bearish bias. The pair has been oscillating in a narrow 24-hour range, indicating a consolidation phase rather than a strong directional trend. Recent price action shows hesitation around the 1.3665 high, which may act as near-term resistance, while the intraday low of 1.3661 could serve as initial support. Overall, the market lacks strong momentum, pointing to potential range-bound trading in the immediate term.  \n\nThe MACD reading of -0.0002869 signals a weak bearish inclination, albeit without a confirmed signal line for cross-validation. The absence of RSI data limits momentum confirmation, but the slight negative divergence of MACD suggests sellers are slowly gaining control. Traders should watch for any MACD convergence toward zero or a bullish crossover as an early warning of trend reversal. In such a quiet market, momentum indicators should be closely monitored before committing to new positions.  \n\nKey technical levels include support at 1.3660–1.3661, where buyers could re-enter, and resistance at 1.3665–1.3670, which might cap upside attempts. A decisive break above 1.3672 would shift the bias toward bullish territory, potentially opening 1.3680 and 1.3690 targets. Conversely, a breakdown below 1.3660 could accelerate selling pressure toward 1.3650. Traders should combine these levels with price action confirmation before taking directional trades.  \n\nGiven the current conditions, short-term traders may consider cautious range trading between 1.3660 and 1.3665, with tight stop-loss placement. Longer-term positions could be avoided until the market demonstrates a clear breakout or breakdown. Risk management remains crucial, as the narrow intraday range suggests limited volatility, but sudden news or economic releases from the U.S. or Canada could trigger swift directional moves, emphasizing the need for preparedness and flexible strategy adjustments."
+    }
+  }
+}
