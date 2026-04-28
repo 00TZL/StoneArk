@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-04-28T06:24:28.854Z",
+  "price": {
+    "close": "1.17029",
+    "high": "1.17082",
+    "low": "1.17013",
+    "open": "1.17061",
+    "change": "-0.03",
+    "datetime": "2026-04-28 16:00:00"
+  },
+  "indicators": {
+    "rsi": 32.78582,
+    "macd": -0.00052168761,
+    "macd_signal": -0.00027546805,
+    "sma20": 1.17225
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：短期偏弱震荡",
+      "content": "欧元/美元当前价格位于1.17029附近，较昨日收盘微幅下跌0.03%，整体呈现短期弱势盘整格局。价格低于20日均线SMA(20)1.17225，显示短期多头力量不足，多空争夺仍以空方略占优势。日内高低波幅有限，说明市场观望情绪较浓。  \n\nMACD指标显示-0.00052的负值，尽管信号线未提供，但该负值暗示空头动能仍在延续，尚未出现明显的底背离迹象。缺少RSI参考，但结合均线与MACD信号，短线超买压力不大，多头反弹空间有限。技术面暗示行情可能维持震荡偏弱状态。  \n\n支撑位关注1.1700整数关口及前低1.1695附近，若跌破，可能引发进一步下探至1.1680区域。阻力位可观察SMA(20)1.17225以及近期高点1.17082，一旦有效突破，将短线打开反弹空间。价格在支撑与阻力区间的波动，将成为短线交易的重要参考。  \n\n交易上建议以短线高抛低吸策略为主，激进投资者可在接近支撑时尝试低位多单，止损控制在1.1690以下；保守者可等待价格有效站上SMA(20)或突破阻力后再考虑做多。切勿盲目追涨，保持仓位灵活，以应对盘整行情中的快速反转。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently trading at 1.17029, showing a minor 24-hour decline of 0.03%. The price action has been largely confined within a narrow range, between a high of 1.17082 and a low of 1.17013, reflecting indecision in the market. The lack of significant movement suggests a consolidation phase, with the price struggling to break beyond its immediate resistance level near 1.17225, marked by the 20-period Simple Moving Average (SMA). Traders are likely awaiting more clarity on the next directional move.\n\nIndicator-wise, the MACD is currently negative at -0.00052168761, indicating slight bearish momentum. However, with the absence of a confirmed signal line or other supporting indicators like RSI, there is a lack of strong conviction in the trend. This could point to a short-term neutral or sideways bias, where price may continue to oscillate between the current levels until new triggers emerge. Without a solid push from the indicators, a decisive trend remains elusive.\n\nFrom a technical perspective, immediate support for EUR/USD appears to be at the 1.17013 level, which could offer a cushion if the pair starts to dip lower. Below that, the next key support is around the 1.16800 region. On the upside, resistance remains at the SMA level near 1.17225, followed by a stronger resistance cluster around 1.17500. A break above these levels could signal a resumption of upward momentum, while a drop below the 1.17000 level might signal further downside risk.\n\nFor traders, the current market environment suggests caution. Given the neutral indicators and tight range, a breakout strategy might be the most viable. Long positions could be considered above 1.17225 with a target toward 1.17500, while short positions may be viable below 1.17000, targeting 1.16800. However, a clear confirmation from the MACD or RSI would strengthen the case for either direction."
+    }
+  }
+}

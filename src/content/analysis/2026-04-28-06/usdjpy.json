@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-04-28T06:26:03.570Z",
+  "price": {
+    "close": "159.25202",
+    "high": "159.26295",
+    "low": "159.15363",
+    "open": "159.20836",
+    "change": "0.03",
+    "datetime": "2026-04-28 16:00:00"
+  },
+  "indicators": {
+    "rsi": 46.71535,
+    "macd": -0.020254735,
+    "macd_signal": 0.0051427667,
+    "sma20": 159.3322
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：短期震荡偏弱趋势",
+      "content": "当前美元/日元价格159.252附近徘徊，接近20日均线159.332，显示短期多空力量相对均衡，但价格略低于均线，暗示偏弱震荡格局。日内高低差较小，市场波动性有限，多空双方仍在观望关键突破点。  \n\nMACD为-0.0202，处于零轴下方，短线动能偏空，尚未出现明显反转信号。虽然RSI数据缺失，但从价格位置与均线关系可推测市场处于轻微超卖边缘，短期内回调压力仍在。投资者应关注动能指标的进一步确认。  \n\n技术面支撑位在159.15附近，如跌破可能延伸至159.00；阻力位则在159.33至159.40区间，突破则可能引发短线反弹。均线位置和高点形成压制，短线行情更适合区间操作。  \n\n交易建议上，激进者可考虑在支撑位附近逢低试多，止损控制在158.95以下；稳健者可等待价格突破159.40确认趋势后再跟进。短线谨慎操作为主，保持资金管理，防止突发消息导致的快速波动。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USD/JPY is exhibiting a subtle consolidation near the 159.25 level, reflecting limited directional momentum over the past 24 hours. Price action remains confined between the intraday high of 159.26 and low of 159.15, suggesting a short-term equilibrium between buyers and sellers. While the pair is trading just below the 20-period SMA at 159.33, this moving average currently acts as a minor dynamic resistance, indicating that upward momentum may require a stronger catalyst to break higher.  \n\nThe MACD reading of -0.0202 points to mild bearish momentum, though the absence of a corresponding signal line limits the reliability of crossover signals. Traders should be cautious as the pair may experience sideways movement unless volume intensifies or economic data triggers directional shifts. With the RSI unavailable, additional momentum confirmation is limited, emphasizing reliance on price action around key levels rather than oscillators for near-term guidance.  \n\nImmediate support can be identified near 159.15, aligning with recent intraday lows. A breakdown below this level could expose the next support zone around 159.00, potentially inviting short-term selling pressure. On the upside, resistance is concentrated near the 20-period SMA at 159.33 and extends toward 159.50, where prior highs mark potential supply zones. Monitoring these levels provides practical reference points for stop-loss placements and risk management in active trades.  \n\nFor trading strategy, range-bound approaches may be appropriate until a decisive breakout occurs. Short-term traders might consider buying near support with tight stops, targeting resistance near 159.33–159.50. Conversely, a break below 159.15 could favor short positions, aiming for the 159.00 region. Patience and adherence to defined risk thresholds are crucial, given the current lack of clear trend and limited momentum, suggesting that aggressive directional bets may carry higher risk."
+    }
+  }
+}

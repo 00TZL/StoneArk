@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-04-28T06:26:53.287Z",
+  "price": {
+    "close": "0.71735",
+    "high": "0.71775",
+    "low": "0.71704",
+    "open": "0.71766",
+    "change": "-0.05",
+    "datetime": "2026-04-28 16:00:00"
+  },
+  "indicators": {
+    "rsi": 43.83741,
+    "macd": 0.0001993782,
+    "macd_signal": 0.00046568509,
+    "sma20": 0.7185765
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短期盘整偏弱",
+      "content": "当前澳元/美元报价0.71735，较昨日微幅下跌0.05%，短线呈现横盘整理格局。价格略低于20日简单移动平均线SMA(20) 0.71858，显示近期买盘力量不足，多头动能有限，短期仍可能承压。  \n\nMACD柱状线为0.000199，虽仍在零轴上方，但缺乏明显发散信号，表明趋势动能较弱且不稳定。若RSI指标回归，可进一步验证超买或超卖状态，目前需关注动能延续情况，警惕震荡风险。  \n\n支撑位初步关注0.71700附近，如跌破可能进一步测试0.71550，阻力位上看0.71860至0.71900区间，多头若有效突破可触发反弹。整体短期波动空间有限，趋势偏向横盘调整，仍需留意关键价位的反应。  \n\n交易策略上，偏向短线操作为主，建议在接近支撑位0.71700附近考虑低位做多，止损设置略低于支撑；若价格上破0.71860阻力，可考虑顺势追涨。保持仓位轻盈，避免追高，关注技术信号确认趋势。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently showing a mild bearish sentiment after failing to sustain momentum above 0.7180. The latest price of 0.71735 reflects a modest 0.05% decline, indicating short-term consolidation within a narrow range. Price action remains closely aligned with the 20-period SMA at 0.71858, suggesting that the market is struggling to find a clear directional bias. Traders should monitor whether the pair can reclaim the SMA for signs of a potential bullish reversal or continue sliding toward support levels.  \n\nMomentum indicators provide a mixed outlook. Although the RSI is not available, the MACD shows a small positive reading of 0.000199, which hints at minor bullish pressure, yet the absence of a signal line limits interpretive clarity. This suggests that while sellers currently dominate, there is not a strong conviction in either direction. Short-term traders may need confirmation from candlestick patterns or volume spikes before committing to positions, as the current movement lacks decisive momentum.  \n\nKey support levels lie near 0.7170, corresponding to the daily low, and a slightly stronger floor around 0.7160, which historically has acted as a bounce point. Resistance remains firmly in the 0.7185–0.7190 zone, closely aligned with the SMA and recent intraday highs. A breach of these areas could signal renewed directional movement, with traders watching for follow-through in either direction. Range-bound strategies could be effective while price remains confined between these boundaries.  \n\nFrom a tactical perspective, cautious traders may consider short-term sell opportunities near resistance levels, with tight stops above 0.7190 to manage risk. Conversely, a rebound from the 0.7170 support level could offer buying potential, targeting intraday highs around 0.7185. Overall, the market currently exhibits a neutral-to-slightly-bearish profile, requiring confirmation signals before larger positions are taken. Monitoring global risk sentiment and commodity price movements may also provide valuable context for AUD/USD positioning."
+    }
+  }
+}

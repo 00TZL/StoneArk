@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-04-28T06:30:20.068Z",
+  "price": {
+    "close": "4631.23893",
+    "high": "4641.43938",
+    "low": "4623.63781",
+    "open": "4633.43196",
+    "change": "-0.05",
+    "datetime": "2026-04-28 16:00:00"
+  },
+  "indicators": {
+    "rsi": 21.89593,
+    "macd": -13.48325,
+    "macd_signal": -8.76411,
+    "sma20": 4677.42073
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短期震荡偏弱",
+      "content": "当前XAU/USD价格在4631附近小幅回落，日内波动幅度有限，显示市场缺乏明确方向。结合20日简单移动平均线(SMA20)4677，价格仍位于均线下方，暗示短期偏空格局，但并未形成明显加速下跌趋势。整体走势呈现震荡整理特征。  \n\nMACD指标显示-13.48的负值，表明空头动能略强，但信号线缺失需谨慎参考。价格接近4623的低点支撑位，如该支撑被有效守住，可能触发短线反弹。而上方4641高点及SMA20附近4677构成主要阻力位，短线多头需突破阻力才能确认反转。  \n\n从技术结构看，价格在低位承压整理，建议关注震荡区间操作。短线可在支撑区4623-4625附近尝试轻仓做多，止损设置在4620下方；若价格反弹至阻力区4641-4677，可考虑高位空单布局，控制仓位，防止快速回落带来的风险。  \n\n总体而言，XAU/USD短期偏弱震荡为主，操作应以顺势为主，控制风险，耐心等待突破关键阻力或支撑确认后再进行中线布局，避免追高杀低导致亏损。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD pair is currently in a consolidation phase, trading around 4631.24 after a slight pullback of 0.05%. The market shows a lack of significant volatility, with the price moving between the high of 4641.44 and the low of 4623.64 within the last 24 hours. Given the absence of a clear upward or downward momentum, traders should be cautious of range-bound trading. The price staying near the SMA(20) of 4677.42 highlights the balance between buyers and sellers, signaling that the market may need a catalyst for direction.\n\nFrom an indicator perspective, the MACD shows a negative reading of -13.48, suggesting that the bearish momentum has some strength. However, without a confirmed signal line or RSI data, the analysis remains incomplete. The current MACD position, while negative, isn’t signaling an immediate downtrend. Given the lack of a clear trend, traders should closely monitor the market for potential breakouts or trend reversals. A return above the SMA(20) could indicate a shift towards the upside.\n\nSupport for the XAU/USD pair appears to be around 4623.64, which is the current low. A breach below this level could open the door for further downside to test deeper levels. On the resistance side, the recent high of 4641.44 offers a short-term ceiling. If the price breaks above this level, further gains towards the next resistance zone at 4677.42 are plausible. A failure to hold above 4623.64 could suggest a move toward the downside.\n\nFor traders, it’s important to stay vigilant in this range-bound market. Long positions might be considered if the price breaks above the resistance level of 4641.44, with a stop loss placed just below the 4623.64 support. Conversely, a break below support may offer short-selling opportunities, targeting the next level of support lower down. Patience is key, and waiting for a clear breakout signal could be the most prudent strategy in this current market structure."
+    }
+  }
+}
