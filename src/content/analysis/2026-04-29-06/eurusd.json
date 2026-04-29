@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-04-29T06:16:56.515Z",
+  "price": {
+    "close": "1.16985",
+    "high": "1.1704",
+    "low": "1.1698",
+    "open": "1.17015",
+    "change": "-0.02",
+    "datetime": "2026-04-29 16:00:00"
+  },
+  "indicators": {
+    "rsi": 38.4836,
+    "macd": -0.00020295272,
+    "macd_signal": -0.00011905944,
+    "sma20": 1.17074
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[市场持平，等待突破]",
+      "content": "当前欧元/美元的价格为1.16985，24小时变化较小，跌幅仅为-0.02%。市场处于相对平稳的状态，价格在1.1704和1.1698之间波动，显示出缺乏强烈的方向性。尽管如此，仍可观察到一些潜在的市场动向。\n\n技术指标方面，RSI(14)目前未提供，且MACD处于负值(-0.0002)，说明市场的卖压稍显主导。虽然MACD信号线数据缺失，但负值表明短期内可能存在卖出信号，尤其在价格持续低于1.1700时。SMA(20)位于1.17074附近，这一均线为当前价格的轻微阻力位。\n\n在支撑与阻力的分析中，当前支撑位可看作1.1698附近，而1.1704则为短期阻力位。如果价格突破1.1704，可能会迎来更大的上行空间。若价格未能突破并跌破1.1698，则可能进一步下探1.1690区域。\n\n建议交易者保持耐心，观察价格是否能够突破1.1704的阻力，或是跌破1.1698的支撑。在突破确认前，可考虑采取区间交易策略，等待市场明确方向。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently exhibiting a neutral to slightly bearish trend, with the latest price at 1.16985. Over the past 24 hours, the pair has experienced a marginal decrease of 0.02%. The price action remains confined within a tight range, with the daily high and low at 1.1704 and 1.1698, respectively, suggesting low volatility. This lack of significant movement points towards market indecision, with no clear directional bias. \n\nFrom a technical perspective, the absence of a clear RSI value makes it difficult to assess overbought or oversold conditions. However, the MACD indicator is currently negative at -0.00020295272, which may imply a slight bearish momentum. The pair’s price is also trading just below the 20-period simple moving average (SMA), which is at 1.17074, further suggesting a minor bearish pressure in the short term. If the pair continues to hover below this SMA, we could see further downward movement toward lower support levels.\n\nSupport for EUR/USD is seen at the 1.1698 level, which has been tested in recent hours. A break below this level could open up the next support zone around 1.1680, where buying interest may re-emerge. On the upside, resistance is positioned near the 1.1704 level. A sustained break above this level could signal a potential push toward higher resistance around 1.1720. Until these levels are breached, the market may continue to trade within this narrow range.\n\nGiven the current price action and technical indicators, traders may consider adopting a cautious approach. Short-term traders could look for opportunities around the 1.1698 support for a potential bounce, while breakouts above 1.1704 could present buying opportunities. Conversely, a decisive break below 1.1698 could encourage a bearish continuation toward 1.1680."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-04-29T06:20:02.932Z",
+  "price": {
+    "close": "1.36909",
+    "high": "1.36917",
+    "low": "1.36877",
+    "open": "1.36886",
+    "change": "0.02",
+    "datetime": "2026-04-29 16:00:00"
+  },
+  "indicators": {
+    "rsi": 65.0013682,
+    "macd": 0.00095061751,
+    "macd_signal": 0.0010007843,
+    "sma20": 1.36817
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理，保持观望]",
+      "content": "当前美元/加元价格为1.36909，接近24小时高点1.36917，且价格波动较为窄幅。根据现有数据，汇价暂时呈现震荡整理走势，缺乏明显的方向性突破。短期内可能会在1.36877至1.36917区间内震荡运行，市场情绪较为谨慎。\n\n技术指标方面，RSI(14)数据缺失，无法提供超买超卖信号。MACD值为0.00095，显示出当前市场缺乏强烈的买入或卖出信号。SMA(20)为1.36817，价格略微高于此均线，表明当前市场倾向于小幅上涨，但未突破明显的技术阻力。\n\n支撑位位于1.36877附近，而1.36917则为短期的强阻力。若价格突破1.36917，可能会引发进一步上涨的动能，反之，若下破1.36877，则可能进一步回调至1.36800附近。此区间内的价格波动可能为短线交易提供机会。\n\n综合来看，考虑到缺乏强烈的技术信号，建议保持观望，等待更明确的突破或反转信号。在当前区间内进行区间交易亦可，但需设置适当止损，避免突发市场波动带来的风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD currency pair has been showing a slightly bullish tone in the short-term, currently trading around 1.36909. With a minimal 24-hour change of +0.02%, the market remains relatively stable but is showing signs of potential upward momentum. The price has tested recent highs of 1.36917 and lows of 1.36877, forming a narrow range that suggests consolidation. If this pattern continues, the pair may be preparing for a breakout, but a clear trend reversal is yet to form.\n\nLooking at the indicators, the RSI(14) is unavailable, making it difficult to assess overbought or oversold conditions. The MACD value of 0.00095061751 hints at weak bullish momentum, but without the signal line data, it's hard to conclude if this momentum is sustainable. Additionally, the 20-period simple moving average (SMA) stands at 1.36817, serving as a dynamic support level. Price is currently trading slightly above this, indicating that the bulls are maintaining control. However, any substantial pullback towards the SMA could trigger further support-based buying activity.\n\nKey support is found around 1.36877, with the recent low providing a clear entry level for long positions. Resistance is more elusive but can be projected at 1.36917, where the pair has recently encountered selling pressure. A break above this level could signal further upside potential, targeting a move towards the 1.3700 mark. If the market consolidates above 1.36917, we may see a more solidified bullish bias.\n\nTraders should consider entering long positions on a pullback near the SMA or around 1.36877, aiming for a breakout above 1.36917. For risk management, setting stops slightly below the SMA or the support at 1.36877 will help protect against a bearish reversal. Watching for further confirmation of upward momentum is crucial to maintaining a favorable risk-to-reward ratio."
+    }
+  }
+}

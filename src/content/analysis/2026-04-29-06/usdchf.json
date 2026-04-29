@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-04-29T06:21:33.423Z",
+  "price": {
+    "close": "0.78934",
+    "high": "0.78956",
+    "low": "0.78929",
+    "open": "0.78953",
+    "change": "-0.02",
+    "datetime": "2026-04-29 16:00:00"
+  },
+  "indicators": {
+    "rsi": 57.53812,
+    "macd": 0.00040015658,
+    "macd_signal": 0.00053659005,
+    "sma20": 0.7893825
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[市场震荡，短期调整]",
+      "content": "目前美元/瑞郎价格在0.78934附近波动，呈现横盘整理的态势。24小时内变动幅度较小，仅下降了0.02%。当前价格接近短期均线SMA(20)的0.78938，显示出市场缺乏明确的方向。整体趋势尚不明朗，可能存在短期内的调整压力。\n\n技术指标方面，MACD显示微弱的正值（0.0004），表明市场有一定的上行动能，但目前信号线缺失，使得该指标的指引作用较弱。RSI未能提供足够的数据支持，因此无法准确判断是否超买或超卖。短期市场可能处于观望阶段，缺乏强烈的买卖信号。\n\n支撑位方面，0.78929是近期低点，若价格跌破该水平，可能会测试更低的区域。阻力位则位于0.78956，若突破此点位，价格有可能迎来反弹。考虑到市场目前震荡整理的特征，投资者应密切关注这些技术区间的变化。\n\n建议交易者在此区间内采取观望策略，耐心等待价格突破关键技术位再进行操作。若价格突破上行阻力0.78956，可考虑小幅做多；若跌破支撑0.78929，则可考虑做空。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "USD/CHF is trading in a very tight range, hovering just below the 0.7900 psychological level, which suggests a short-term consolidation phase. The marginal 24-hour decline reflects a lack of strong directional conviction, while price action near the daily low indicates mild bearish pressure. The pair remains slightly below its short-term average, hinting that sellers are cautiously in control, though momentum is still relatively weak overall.\n\nFrom an indicator perspective, the proximity of price to the 20-period moving average implies a neutral-to-slightly bearish bias. The MACD remains in positive territory but with a very small value, signaling diminishing bullish momentum and potential flattening. The absence of RSI data limits overbought/oversold assessment, but the narrow price range suggests neither extreme is currently in play, reinforcing the idea of indecision in the market.\n\nKey support is seen around 0.7890, aligned closely with the session low, and a break below this level could expose further downside toward 0.7875. On the upside, resistance is clustered near 0.7900–0.7905, a zone that has capped recent attempts to move higher. A sustained break above this area would be needed to shift short-term sentiment toward a more bullish outlook and potentially target the 0.7920 region.\n\nIn terms of trading approach, range-bound strategies appear most appropriate under current conditions. Short positions near resistance and long entries near support may offer favorable risk-reward setups, provided tight stop-losses are used. A breakout strategy could also be considered, but confirmation through increased volume or stronger momentum signals would be essential before committing to directional trades. Patience remains key in this low-volatility environment."
+    }
+  }
+}

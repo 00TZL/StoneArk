@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-04-29T06:19:20.530Z",
+  "price": {
+    "close": "0.71555",
+    "high": "0.71625",
+    "low": "0.71553",
+    "open": "0.71611",
+    "change": "-0.08",
+    "datetime": "2026-04-29 16:00:00"
+  },
+  "indicators": {
+    "rsi": 36.52007,
+    "macd": -0.00041131876,
+    "macd_signal": -0.00015437967,
+    "sma20": 0.717272
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[近期震荡整理，短期偏弱]",
+      "content": "当前澳元/美元的走势显示出短期震荡整理的特点，价格在0.71553至0.71625区间内波动。考虑到当前价格接近支撑区间下方，短期内可能会继续维持震荡格局，缺乏明确的趋势指引。\n\n技术指标方面，MACD处于负值区域，显示出卖压的存在，虽然信号线数据缺失，但MACD仍然提供一定的弱势确认。RSI指标目前不可用，无法进行进一步的超买超卖分析，但考虑到短期的弱势表现，市场可能尚未出现超卖的情况。\n\n支撑位方面，0.71553是近期低点，也可以作为重要支撑位。如果价格进一步跌破此水平，可能会加剧下行压力，寻找下一个支撑区域。上方0.71625是当前的阻力位，若突破此水平，则可能开启反弹走势，挑战20日均线0.71727。\n\n建议短期交易者可在支撑区间附近寻找买入机会，设置合理止损位于0.7155下方。如果价格突破上方阻力位，可考虑逐步建仓多单，但需保持谨慎，并时刻关注市场的波动变化。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently trading at 0.71555, showing a slight decline of 0.08% over the past 24 hours. The price has recently been in a tight range, fluctuating between a high of 0.71625 and a low of 0.71553. This suggests the market is consolidating after earlier movements, with traders cautious about making strong directional bets. The current market sentiment seems neutral, with a small downward bias due to the recent price action and absence of significant volatility.\n\nOn the technical front, the price is trading below the 20-period simple moving average (SMA) at 0.717272, indicating a short-term bearish trend. This suggests that the sellers are in control, although the momentum appears weak. The MACD at -0.00041131876 reinforces this, showing that the pair is in negative territory, but it is not signaling any strong downtrend yet. With no RSI reading available, it becomes harder to assess the overbought or oversold conditions, which would normally help in gauging potential reversals.\n\nSupport levels are observed at the recent low of 0.71553, with a more significant level seen around 0.71500. A breach below this could open the door for further downside, targeting the next support zone at 0.71300. On the resistance side, the 0.71625 mark serves as an immediate barrier, with a key resistance level sitting at 0.71750, just above the current SMA. A break above this level would shift the bias back towards a neutral or slightly bullish outlook.\n\nFor traders, the current market structure suggests a cautious approach. Short-term opportunities might present themselves if the price retests the resistance near 0.71625 or 0.71750. However, the overall sentiment leans towards a continuation of the bearish bias as long as the price remains below the SMA and fails to break the immediate resistance levels."
+    }
+  }
+}

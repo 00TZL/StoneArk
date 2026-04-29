@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-04-29T06:20:46.963Z",
+  "price": {
+    "close": "0.58598",
+    "high": "0.5865",
+    "low": "0.58595",
+    "open": "0.58621",
+    "change": "-0.04",
+    "datetime": "2026-04-29 16:00:00"
+  },
+  "indicators": {
+    "rsi": 32.37256,
+    "macd": -0.00079265237,
+    "macd_signal": -0.00058341312,
+    "sma20": 0.587707
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理，短期偏弱]",
+      "content": "当前纽元/美元的走势表现出较为平稳的震荡整理状态。价格在0.5865和0.58595之间波动，说明市场情绪较为谨慎。由于没有明显的趋势性突破，短期内预计将维持当前区间震荡格局。\n\n技术指标方面，虽然RSI(14)数据缺失，MACD显示出微弱的负值，暗示市场可能偏向空头。MACD的负值并未出现显著的变化，显示出短期内卖压较为温和。SMA(20)略微高于当前价格，进一步确认了短期内价格的弱势。\n\n支撑位在0.58595附近，若价格下破此位，可能会加剧下行压力，进一步考验0.5850支撑区间。阻力位则在0.5865附近，若突破该水平，则有可能迎来短期的反弹。\n\n综合来看，建议短期内采取谨慎的观望态度，避免盲目追单。若价格接近支撑位，可以考虑短期做多；反之，若价格接近阻力位，则可考虑做空。然而，由于市场震荡较大，风险管理尤为重要。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently experiencing a tight trading range, with the price hovering around 0.5860. The recent low of 0.58595 and the high of 0.5865 indicate a relatively subdued market, with minimal volatility over the past 24 hours. The price is close to the 20-period simple moving average at 0.5877, suggesting that the pair could be in a consolidation phase. A breakout above or below this range could determine the next directional move.\n\nFrom a trend perspective, the market is largely neutral at the moment, as no significant trend has developed. With the RSI and MACD indicators unavailable, it’s difficult to assess momentum with precision. However, the MACD value of -0.00079 suggests a slight bearish bias, albeit very marginal. Traders should keep an eye on price action and volume to gauge whether momentum will pick up in either direction.\n\nSupport and resistance levels are clearly defined within the narrow range, with immediate support seen at the 0.58595 low and resistance at 0.5865. A break below support could lead to further downside, targeting the next major support level around 0.5840. On the other hand, a break above 0.5865 could push the pair toward the 0.5880 resistance zone, where sellers may emerge.\n\nGiven the lack of clear momentum indicators and the current range-bound price action, a neutral-to-cautious approach is recommended. Traders might consider waiting for a decisive breakout above 0.5865 or below 0.58595 before entering trades. Scalping within the range could also be an option, but with careful risk management due to the lack of strong directional bias."
+    }
+  }
+}

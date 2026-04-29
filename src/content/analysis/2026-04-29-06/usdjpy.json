@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-04-29T06:18:37.372Z",
+  "price": {
+    "close": "159.73419",
+    "high": "159.73604",
+    "low": "159.67476",
+    "open": "159.69632",
+    "change": "0.02",
+    "datetime": "2026-04-29 16:00:00"
+  },
+  "indicators": {
+    "rsi": 60.70247,
+    "macd": 0.057128613,
+    "macd_signal": 0.052846965,
+    "sma20": 159.61025
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：短期震荡偏强，价格测试关键阻力",
+      "content": "近期美元/日元在159.67至159.73区间波动，价格略高于20日均线159.61，显示短期多头略占优势。当前价格接近日内高点，表明买盘力量有限，多空双方在此价位呈现胶着态势。短期趋势以震荡上行为主，需关注突破与回调信号。  \n\nMACD指标显示主线为0.057，虽未给出完整信号线，但正值区域暗示多头仍存在推动力。RSI数据缺失，无法判断超买超卖状态，但结合价格与均线关系，可推测短期仍有小幅上行空间。技术指标总体偏向温和多头，但力度不足，需警惕反转风险。  \n\n支撑位方面，159.61为关键均线支撑，其次下方159.55为前低支撑。阻力位集中在159.74附近，如能突破该区域，有望向159.80延伸。若未突破阻力，价格可能在当前区间震荡整理，形成短线区间交易机会。  \n\n交易策略建议以短线顺势为主，价格回落至均线附近可考虑低吸，止损设在159.55下方；若突破159.74，可顺势加仓，目标159.80-159.85区域。整体保持谨慎，多空博弈仍较明显，切勿追涨杀跌。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "Price action in USD/JPY is holding in a narrow consolidation just below the 159.74 intraday high, suggesting a mildly bullish bias but with limited momentum. The pair is trading slightly above the 20-period SMA at 159.61, indicating short-term trend support. However, the extremely tight daily range and minimal 24-hour change reflect indecision, with neither buyers nor sellers showing strong conviction at current levels.\n\nThe MACD reading remains positive at 0.057, which supports underlying bullish momentum, although the absence of a signal line limits confirmation strength. RSI data is unavailable, but given the flat price behavior, momentum likely sits in a neutral zone. The lack of volatility suggests the market may be waiting for a catalyst, potentially macroeconomic data or intervention-related developments from Japanese authorities.\n\nImmediate support is seen around the SMA zone near 159.60, followed by a stronger floor at 159.65, aligning with the recent session low. On the upside, resistance is clearly defined at 159.74–159.75, a level the pair is repeatedly testing without a decisive breakout. A sustained move above this barrier could expose the psychologically significant 160.00 level, which may attract both breakout traders and official scrutiny.\n\nFrom a trading perspective, range-bound strategies remain favorable unless a breakout occurs. Buying near 159.60 with tight stops below 159.50 offers a controlled risk setup, while selling near 159.75 may suit short-term mean reversion trades. A confirmed break above 159.75 would shift bias toward continuation longs, whereas a drop below 159.60 could trigger a deeper pullback phase."
+    }
+  }
+}

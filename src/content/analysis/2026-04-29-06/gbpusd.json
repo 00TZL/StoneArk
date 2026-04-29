@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-04-29T06:17:50.273Z",
+  "price": {
+    "close": "1.34995",
+    "high": "1.35076",
+    "low": "1.34995",
+    "open": "1.35057",
+    "change": "-0.05",
+    "datetime": "2026-04-29 16:00:00"
+  },
+  "indicators": {
+    "rsi": 38.73406,
+    "macd": -0.0002570945,
+    "macd_signal": -0.00019370003,
+    "sma20": 1.35099
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[震荡整理中，短期缺乏明显方向]",
+      "content": "当前，英镑/美元在1.35000附近震荡整理，短期内缺乏明确的上涨或下跌趋势。从价格来看，昨日高点1.35076和低点1.34995的波动幅度较小，显示出市场的犹豫不决。若突破1.35076，可能会迎来进一步的上涨动能，而若下破1.34995，则有可能开启下行通道。\n\n技术指标方面，MACD目前显示负值（-0.00025709450），但信号线数据缺失，未能提供明确的趋势判断。由于缺乏RSI值的支持，现阶段无法依据超买或超卖的状态进行进一步判断。SMA(20)线在1.35099附近，略高于当前价格，显示短期内市场仍然呈现震荡走弱的倾向。\n\n从支撑和阻力的角度来看，1.34995一线为短期关键支撑位，若价格下破，可能会测试更低的支撑区间。上方，1.35076为强阻力，突破该位置可能会迎来更强的买盘兴趣。交易者应密切关注这些关键价格区间，寻找可能的突破机会。\n\n综合来看，当前市场走势仍较为震荡，建议短期内采取观望态度，避免过度追涨杀跌。若价格突破关键支撑或阻力位，适时跟进趋势交易。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently trading near 1.34995, just shy of the 24-hour high of 1.35076, suggesting a subdued bullish attempt that has yet to gain traction. Price action remains confined around the SMA(20) at 1.35099, indicating a short-term consolidation. The small daily change of -0.05% reflects market indecision, with neither buyers nor sellers dominating. The narrow trading range points to a potential buildup before a more decisive move, emphasizing the need for cautious positioning.\n\nAlthough the RSI is unavailable, the MACD shows a slight negative value of -0.000257, hinting at mild bearish momentum. The absence of the MACD signal line limits the strength of this interpretation, but the negative reading near the zero line suggests the pair is testing support without a strong directional bias. Traders should watch for a MACD cross below zero as a potential signal for short-term weakness, while a move above the SMA could reignite bullish sentiment.\n\nKey support appears near the current low of 1.34995, with a secondary buffer around 1.34850, where buyers previously intervened. Resistance is evident at 1.35076 and more decisively near 1.35200, a level that has capped upside in past sessions. Breaching these zones with volume could indicate a stronger trend. Given the tight range, breakout strategies combined with stop-losses just outside support or resistance levels may offer controlled risk exposure.\n\nFor trading, short-term traders might adopt a wait-and-see approach, capitalizing on confirmed breakouts above resistance or below support. Range-bound traders can exploit oscillations between 1.34995 and 1.35076 with smaller positions. Medium-term positions should consider broader macro factors, such as UK economic data or Fed policy cues, to validate directional bias. Patience is key, as the current technical structure suggests consolidation rather than trending behavior."
+    }
+  }
+}

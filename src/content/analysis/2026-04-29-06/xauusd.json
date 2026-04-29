@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-04-29T06:22:14.461Z",
+  "price": {
+    "close": "4586.3138",
+    "high": "4601.67982",
+    "low": "4585.76854",
+    "open": "4592.23074",
+    "change": "-0.13",
+    "datetime": "2026-04-29 16:00:00"
+  },
+  "indicators": {
+    "rsi": 39.14917,
+    "macd": -12.51451,
+    "macd_signal": -15.90005,
+    "sma20": 4590.38771
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：当前价格震荡整理，短期下行压力略显",
+      "content": "当前XAU/USD价格略微回调，市场处于震荡整理状态。从短期走势来看，价格保持在4585.77和4601.68之间波动，未出现明显突破。近期价格持续在20日简单移动平均线（SMA）4590.39附近震荡，显示出多空力量相对平衡。若价格未能突破4600的阻力位，下行压力可能加剧。\n\n技术指标方面，MACD指标呈现负值（-12.51），表明短期内卖盘较为强势，但由于缺少信号线数据，暂时无法确认是否为持续的下行信号。RSI未给出明确数值，因此无法对超买或超卖做出判断。整体上，短期内仍需关注价格突破关键支撑/阻力位的动向。\n\n支撑位方面，4585.77是短期关键支撑区，如果价格突破此位，可能会测试更低的支撑区间。若上涨突破4600水平，则可能会面临更高的阻力。综合来看，短期内市场依然处于整理期，价格波动幅度较小。\n\n建议交易者保持谨慎，当前不宜盲目跟随市场进行大规模操作。若价格突破4585支撑，可考虑短线空头布局，反之若突破4600阻力，则可适度做多。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD pair has been trading within a tight range recently, with the price hovering around 4586.3138. This is a relatively neutral price action, as it is located just below the 20-period Simple Moving Average (SMA), which stands at 4590.38771. The SMA, often used to identify short-term trends, suggests a mild bearish bias, as the price has failed to sustain above it. However, the lack of significant momentum indicates that market participants are likely in a consolidation phase, awaiting further catalysts for direction.\n\nOn the indicators front, the MACD value of -12.51451 indicates a bearish sentiment in the short term. While there is no available Signal line for cross-reference, the negative MACD value signals downward pressure in the market. This could suggest further weakness if the current level is sustained. For traders, it is important to monitor any crossover events or divergence in the future to confirm potential shifts in momentum. As the RSI(14) is not available, a key measure of overbought or oversold conditions is missing, but traders should be cautious if prices approach key support levels.\n\nLooking at support and resistance levels, immediate support is observed at 4585.76854, just below the current market price, where the recent low was recorded. A break below this level could lead to further downside testing the next support around 4570. On the resistance side, the high of 4601.67982 could act as a psychological barrier for upward movement. A breach above this level could signal a shift towards 4620. Traders should watch for price action around these levels to make informed decisions.\n\nConsidering the current market structure, a cautious approach is advised. A break below support or above resistance will offer clearer directional signals. For those seeking short-term trades, focusing on price action near the SMA and the support/resistance levels mentioned could provide profitable opportunities. Maintaining a close watch on any potential changes in momentum from indicators like MACD will be critical for entering trades with confidence."
+    }
+  }
+}
