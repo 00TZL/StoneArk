@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-04-30T06:22:20.750Z",
+  "price": {
+    "close": "1.16627",
+    "high": "1.16647",
+    "low": "1.16575",
+    "open": "1.16597",
+    "change": "0.02",
+    "datetime": "2026-04-30 16:00:00"
+  },
+  "indicators": {
+    "rsi": 34.30853,
+    "macd": -0.0010342246,
+    "macd_signal": -0.00089596661,
+    "sma20": 1.16794
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：短期整理，关注支撑位和阻力位的突破",
+      "content": "目前，欧元/美元(EUR/USD)呈现出震荡整理的走势，价格波动较小，未能突破明显的支撑或阻力。最新价格为1.16627，接近24小时内的最低点1.16575，表明市场处于相对平稳的状态。\n\n从技术指标来看，当前的MACD值为-0.0010342246，显示出一定的卖盘压力，然而由于信号线数据缺失，暂时难以做出明确的买入或卖出判断。RSI未提供，限制了对超买或超卖状态的分析。\n\n支撑位方面，1.16575的低点是关键支撑区域，一旦突破该点位，可能进一步测试更低的价格区间。阻力位则位于1.16794的SMA(20)附近，若价格突破此点，短期内有望进一步上涨。\n\n综合来看，欧元/美元在目前区间内维持震荡整理，建议投资者关注1.16575支撑位和1.16794阻力位的突破情况，突破后可以考虑适当入场。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is currently displaying a narrow range with a slight upward bias, as indicated by the latest price of 1.16627. The high and low of the day show minimal fluctuation, suggesting consolidation within a tight range. Despite the minor 24-hour change of 0.02%, the price has struggled to break out decisively in either direction. This indicates a period of indecision in the market, with traders waiting for clearer signals to move either higher or lower.\n\nLooking at the technical indicators, the RSI(14) is unavailable, limiting the ability to gauge momentum from this particular tool. The MACD is showing a negative value of -0.0010342246, signaling a potential bearish sentiment in the short-term. However, without the signal line data, it's difficult to confirm the strength of the current momentum. These mixed signals suggest caution and may imply a waiting phase before the next big move occurs.\n\nThe 20-period Simple Moving Average (SMA) is currently at 1.16794, acting as an immediate resistance level. The price is slightly below this level, and a clear breach above this SMA could signal a shift toward a more bullish outlook, especially if accompanied by higher volume. On the downside, support is seen at the low of 1.16575. A break below this level could open the door for further downside, with subsequent targets near 1.16400 and 1.16200, reinforcing bearish pressure.\n\nGiven the current market conditions, it is advisable to adopt a wait-and-see approach for now. For those looking to trade, entering long positions may be considered if the price breaks above the SMA resistance at 1.16794, targeting a move toward 1.17000. Conversely, a break below the 1.16575 support level could present an opportunity to sell, aiming for a retest of lower levels in the range. Patience and careful monitoring of price action remain crucial."
+    }
+  }
+}
