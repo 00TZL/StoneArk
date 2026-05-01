@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-05-01T06:34:52.436Z",
+  "price": {
+    "close": "0.58898",
+    "high": "0.5894",
+    "low": "0.58892",
+    "open": "0.58919",
+    "change": "-0.04",
+    "datetime": "2026-05-01 16:00:00"
+  },
+  "indicators": {
+    "rsi": 54.39808,
+    "macd": 0.00097965441,
+    "macd_signal": 0.0012549317,
+    "sma20": 0.589552
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：短期盘整偏弱",
+      "content": "纽元/美元当前报价0.58898，接近日内低点0.58892，显示多头动力有限。价格低于20日简单移动平均线SMA(20) 0.58955，短期均线呈现下行压力，暗示市场仍偏向空头，短线可能维持窄幅震荡。  \n\nMACD数值为0.00098，虽仍为正值，但信号线数据缺失，使趋势确认受限。总体来看，多空力量较为平衡，需关注潜在背离或突破信号。若MACD与价格形成同步下行，则下跌空间可能进一步打开。  \n\n关键支撑位位于0.5885附近，如跌破该位置，短线空头有加速可能。阻力位在SMA(20) 0.58955及0.5900整数关口，若价格突破并稳定在上方，则多头情绪可能回升。结合日内波动，支撑阻力反复测试是常态。  \n\n交易上，建议短线偏空操作为主，靠近阻力可考虑轻仓做空，同时设置止损在0.5905以上，保护资金安全。若价格企稳支撑反弹，可小幅尝试多单，重点关注MACD和价格结构变化，以灵活应对市场盘整波动。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD currency pair has been trading in a narrow range over the past 24 hours, with minimal movement of -0.04%. Currently priced at 0.58898, it remains within a tight boundary between its daily high of 0.5894 and low of 0.58892. This indicates low volatility in the market, suggesting that traders are likely awaiting further catalyst events. In the near term, a break either above the 0.5895 mark or below 0.5889 could provide clearer directional cues for the pair.\n\nFrom a technical perspective, the recent price action shows that the pair is currently hovering just below the 20-period simple moving average (SMA) at 0.58955. This level has been acting as a weak resistance point, with the price failing to move convincingly above it. If the pair manages to break above this moving average, it could signal potential for a short-term rally towards the next resistance level at 0.5905. On the downside, support appears to lie near the 0.5885 level, where buying interest may emerge.\n\nThe lack of RSI data and the current MACD reading of 0.00098 indicate that momentum is relatively neutral. With the absence of an overbought or oversold condition, market participants may look to the price action for more reliable signals. The MACD's proximity to the signal line could suggest indecision or a range-bound environment in the short term, reinforcing the idea that a breakout could be needed to confirm the next significant move.\n\nGiven the current technical picture, a cautious approach would be recommended for traders. A potential long position might be considered if the price moves decisively above 0.5895 with a clear break, targeting 0.5905. On the other hand, a short position could be contemplated if the price fails to hold above 0.5889 and slides below 0.5885, with further downside toward 0.5870 as the next target."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-05-01T06:31:16.275Z",
+  "price": {
+    "close": "1.17212",
+    "high": "1.17243",
+    "low": "1.17198",
+    "open": "1.17229",
+    "change": "-0.01",
+    "datetime": "2026-05-01 16:00:00"
+  },
+  "indicators": {
+    "rsi": 53.067144,
+    "macd": 0.00077660951,
+    "macd_signal": 0.00097811936,
+    "sma20": 1.17252
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：短线偏震荡，观望为主",
+      "content": "当前欧元/美元报价1.17212，较24小时微跌0.01%，整体波动幅度有限，高低点仅在1.17198至1.17243之间。价格位于20日均线SMA(20) 1.17252略下方，短期多空力量接近平衡，短线趋势偏向横盘整理，缺乏明显突破信号。  \n\nMACD指标显示值为0.0007766，略为正值，暗示多头略占优势，但信号线未提供参考，市场动能有限。短期震荡意味着趋势不明确，投资者需警惕快速反转风险。缺少RSI数值使超买超卖判断暂不可用，但整体盘面显示多空力量胶着。  \n\n支撑位关注1.17195附近，如跌破可能引发短线空头加速；阻力位在1.17250至1.17260区间，多次触及未能有效突破，短线上方压力明显。若价格稳守支撑并向上突破阻力，可考虑小幅追多，但需严格止损控制风险。  \n\n交易策略上，建议短线以观望为主，等待价格明确突破信号。若操作，低位短线买入或高位短线卖出均应配合0.0003~0.0005点的止损幅度，防止震荡波动造成损失。中线投资者应耐心等待趋势确认再介入，以降低不确定性风险。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD is currently trading around 1.17212, hovering near its 24-hour low of 1.17198 and showing limited volatility over the past day. Price movement suggests a neutral to slightly bearish bias, as it remains below the short-term SMA(20) at 1.17252. The lack of a strong directional push indicates consolidation, with neither buyers nor sellers asserting dominance. Traders should watch for a breakout above the SMA to signal potential upward momentum or a drop below recent lows to confirm bearish pressure.  \n\nThe MACD reading of 0.00077660951, although positive, is relatively muted, hinting at weak bullish momentum that has yet to translate into a decisive trend. Without a confirmed signal line or divergence data, the oscillator provides limited clarity but reinforces the market’s indecision. A rising MACD crossing above its signal line could trigger bullish opportunities, whereas a declining trajectory might intensify downside pressure. The absence of the RSI further underscores the need for caution in interpreting momentum.  \n\nImmediate support is observed near 1.17150–1.17180, which has historically contained short-term declines. On the upside, resistance lies at 1.17250–1.17260, coinciding with the 20-period SMA, a level that could cap gains in the absence of strong buying pressure. Breaching these boundaries could open the way for a more directional move: a breakout above resistance might invite scalpers or swing traders to target 1.1730, while a breakdown below support could see quick testing of 1.1710.  \n\nFor trading strategies, range-bound approaches may currently be prudent. Buyers might consider entering on dips near support with tight stops below 1.17150, aiming for the SMA region, while short positions could be considered on rejections from the 1.17250–1.17260 zone. Given the low volatility and unclear trend, avoiding over-leveraged positions is advisable, with a focus on intraday trades until a clearer directional bias emerges. Monitoring news catalysts and economic releases could provide the trigger needed for a sustained trend."
+    }
+  }
+}

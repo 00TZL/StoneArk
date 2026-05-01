@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-05-01T06:36:14.352Z",
+  "price": {
+    "close": "4592.99455",
+    "high": "4608.30429",
+    "low": "4591.13632",
+    "open": "4605.63314",
+    "change": "-0.26",
+    "datetime": "2026-05-01 16:00:00"
+  },
+  "indicators": {
+    "rsi": 42.87738,
+    "macd": 4.22528,
+    "macd_signal": 8.75361,
+    "sma20": 4619.23605
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短期承压整理，偏向震荡下行",
+      "content": "当前黄金价格位于4592.99美元附近，短期走势呈现承压整理格局。尽管日内高点触及4608美元，但未能有效突破20日均线（SMA20）4619.23美元，显示上行动力不足，多头节奏略显疲软。价格接近4591美元的短线支撑，短线波动可能在此区域反复震荡。  \n\nMACD显示正值4.23，但缺乏明确信号线参考，意味着短期动能偏弱，市场尚未形成强烈趋势。RSI数据暂不可用，但结合价格与均线关系，可以判断多空力量相对平衡，空头压力略高于多头，短期可能以震荡下行为主。  \n\n关键支撑位在4591美元附近，若下破则可能测试4580美元区域；阻力位在4619美元SMA20及4625美元前高区，多头若能有效站上此区间，将重拾上攻动力。日内操作应关注价格在支撑和阻力之间的反复验证。  \n\n交易策略上，可考虑短线逢高轻仓做空，止损设置在4620美元上方；中线投资者可等待价格稳步回踩支撑确认反弹信号后，再择机介入多单。同时注意突发消息或美元指数波动对黄金价格的影响，控制仓位以防快速波动风险。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The XAU/USD pair is currently trading at 4592.99, experiencing a slight decline of 0.26% over the past 24 hours. The price action is showing consolidation within a narrow range between the high of 4608.30 and the low of 4591.14. The lack of significant directional movement suggests market indecision. In the short term, the price could be setting up for a breakout, either above resistance or below support. Traders should watch for any shifts in momentum.\n\nOn a technical level, the 20-period simple moving average (SMA) stands at 4619.24, which is above the current price. This indicates a bearish short-term trend, as prices are trading below the SMA. If XAU/USD continues to hold beneath this level, we could see a deeper move lower, potentially testing support near the low of 4591.14. The lack of recent RSI and MACD signals limits immediate momentum insights, but the combination of a bearish price position relative to the SMA and a muted indicator setup suggests caution.\n\nKey support is observed at 4591.14, with resistance near the 4608.30 level. A break below 4591.14 could lead to a test of deeper support zones, such as 4570 or 4550. On the other hand, a move above 4608.30 would place the pair in a more neutral to bullish stance, with potential targets toward 4625 or even 4650. A clear trend reversal is needed to provide confidence for longer-term positioning.\n\nGiven the current setup, a range-bound strategy may be suitable for short-term traders, focusing on buying near support and selling at resistance. It’s crucial to wait for a definitive break in either direction before considering more aggressive trades. Without additional confirmation from indicators, maintaining a cautious approach is recommended."
+    }
+  }
+}

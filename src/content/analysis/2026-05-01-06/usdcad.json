@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-05-01T06:34:07.693Z",
+  "price": {
+    "close": "1.35871",
+    "high": "1.35883",
+    "low": "1.35829",
+    "open": "1.35863",
+    "change": "-0.00",
+    "datetime": "2026-05-01 16:00:00"
+  },
+  "indicators": {
+    "rsi": 32.39168,
+    "macd": -0.0020281975,
+    "macd_signal": -0.0022281764,
+    "sma20": 1.36004
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：震荡整理中，短期调整压力",
+      "content": "目前美元/加元（USD/CAD）处于震荡整理的状态。价格维持在1.35850附近，未出现显著的突破或回调。近期价格波动区间为1.35883至1.35829，表明市场暂时缺乏明确的方向，投资者的情绪较为谨慎。\n\n从技术指标来看，RSI和MACD的相关数据尚未完整，因此无法提供详细的超买超卖或动能趋势判断。SMA(20)位于1.36004，表明短期内价格依然处于下行压力之下，若突破这一水平，可能会引发一定的反弹。\n\n支撑位方面，1.35829是近期低点，若价格跌破此位，可能会进一步下探至1.35700附近。上方的阻力位在1.36000附近，突破这一关口可能意味着市场情绪转强。投资者应关注这些关键价位的突破情况。\n\n综合来看，美元/加元的短期走势可能会继续震荡整理，建议短线交易者在支撑位附近寻找买入机会，在接近阻力位时则考虑卖出或止盈操作。保持灵活应对，注意市场情绪变化。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently showing a neutral stance, with the latest price at 1.35871, virtually unchanged in the last 24 hours. This lack of movement suggests consolidation, as the price remains trapped within a tight range between the high of 1.35883 and the low of 1.35829. In the absence of significant volatility, traders are likely waiting for a catalyst to break the current price bounds. Without strong directional momentum, the market appears to be in a period of indecision.\n\nThe absence of RSI and a clear MACD signal further indicates a lack of immediate trend strength. The current MACD value of -0.002 suggests a slight bearish bias, but it is not decisive enough to imply a strong downward move. The moving averages, such as the 20-period SMA at 1.36004, also reflect a flat market, with the price currently below this level, hinting at potential resistance near the SMA. A break above this level could shift sentiment towards bullishness, but there is little indication of that happening at the moment.\n\nKey support and resistance levels are tightly defined at 1.35829 and 1.35883, respectively. A breakout above 1.35883 would likely signal a move toward higher levels, possibly testing the next resistance around 1.3610. Conversely, failure to maintain the support at 1.35829 could trigger a further decline, with 1.3560 acting as the next significant support. Traders should closely monitor these levels for any breakout or breakdown, as they will determine the next significant price action.\n\nGiven the current market conditions, a cautious approach is recommended. Day traders may find short-term opportunities if the price consolidates within the current range. However, for longer-term positions, it would be wise to wait for a clearer trend signal or confirmation of either support or resistance breakouts before entering trades."
+    }
+  }
+}

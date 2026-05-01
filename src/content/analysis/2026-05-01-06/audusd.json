@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-05-01T06:33:24.362Z",
+  "price": {
+    "close": "0.71903",
+    "high": "0.71934",
+    "low": "0.71882",
+    "open": "0.71896",
+    "change": "0.01",
+    "datetime": "2026-05-01 16:00:00"
+  },
+  "indicators": {
+    "rsi": 59.81097,
+    "macd": 0.0011601467,
+    "macd_signal": 0.0013721578,
+    "sma20": 0.7189215
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短期横盘偏多",
+      "content": "当前澳元/美元报价为0.71903，短期波动幅度有限，24小时仅微幅上涨0.01%，显示市场多空力量较为均衡。从趋势来看，价格位于20日简单移动平均线SMA(20) 0.71892之上，暗示短线仍偏多，但缺乏明确突破信号，行情可能延续横盘整理格局。  \n\nMACD指标显示0.00116的正值，虽偏多，但由于信号线未提供，对趋势确认有限。RSI数据缺失，无法判断超买超卖状态，因此需谨慎解读动能。价格在当前高点0.71934和低点0.71882之间波动，表明短线阻力和支撑相对集中，市场暂时缺乏强烈方向性。  \n\n关键支撑位可关注SMA(20)附近的0.7189区域，一旦下破，短线可能回落至0.7185左右。阻力位则在0.7193附近，若突破此水平，则可能打开0.7200上方空间，增加多头机会。成交量若能放大，突破信号更具可靠性。  \n\n交易策略上，可考虑在支撑区域轻仓做多，止损控制在0.7185以下；若价格站稳0.7193上方，可适当增加多单持仓。但在缺乏RSI及完整MACD确认的情况下，避免追高或重仓短线操作，以防快速回调风险。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently trading at 0.71903, showing minimal change in the last 24 hours with a 0.01% increase. The price has remained fairly stable, oscillating between the low of 0.71882 and the high of 0.71934. This consolidation indicates a market waiting for a clear catalyst, with neither bullish nor bearish momentum dominating. The overall trend seems neutral, suggesting a range-bound movement in the short term. Traders should watch for any breakout above 0.71934 or below 0.71882 for more directional clarity.\n\nWith the 20-period SMA sitting at 0.71892, the market is currently just above this moving average, hinting at some mild bullish pressure in the near term. However, this indicator alone is not enough to suggest a strong trend. The lack of RSI and MACD data leaves a gap in understanding momentum and strength, but the MACD reading of 0.0011601467 could indicate a slight positive bias. Until more clear signals emerge, traders should be cautious about expecting any substantial movements.\n\nKey support is found near the recent low of 0.71882, while resistance is identified at 0.71934. A break below 0.71882 could trigger a further dip towards the 0.7170-0.7180 zone, reinforcing the idea of a bearish correction. Conversely, a breakout above 0.71934 would shift the focus to the 0.7200 region, potentially opening the door to further upside. Given the tight range and lack of momentum indicators, this pair seems primed for range trading.\n\nFor traders looking to enter positions, it may be best to watch for a breakout or breakdown, with stop-loss orders set just outside of these key levels. Those with a neutral outlook could focus on scalping within the range, targeting small profits from the oscillations. Patience is crucial as the market waits for further momentum drivers."
+    }
+  }
+}

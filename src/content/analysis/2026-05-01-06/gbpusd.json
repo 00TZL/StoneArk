@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-05-01T06:31:57.969Z",
+  "price": {
+    "close": "1.35923",
+    "high": "1.35929",
+    "low": "1.35872",
+    "open": "1.35899",
+    "change": "0.02",
+    "datetime": "2026-05-01 16:00:00"
+  },
+  "indicators": {
+    "rsi": 63.33505,
+    "macd": 0.0022027612,
+    "macd_signal": 0.0025468698,
+    "sma20": 1.35853
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：短期震荡偏多，关注关键支撑与阻力",
+      "content": "当前英镑/美元价格在1.35923附近微幅波动，整体短期呈现震荡偏多格局。日内高低点区间较窄，显示市场多空力量相对均衡，短线趋势尚未形成明显突破，但价格略高于20日简单移动均线(SMA20 1.35853)，暗示短期多头仍具一定支撑。  \n\nMACD指标显示主线为0.0022，虽然信号线数据缺失，但正值表明多头动能略占上风。若未来MACD进一步上行且伴随柱状图放大，将增强上涨信号。技术面结合价格维持在SMA20之上，暗示短线反弹可能性存在，但需警惕震荡回落风险。  \n\n关键支撑位可关注1.3585附近SMA20位置及近期低点1.3587，若价格跌破该区域，可能引发短线回调。阻力位则在近期高点1.3593及心理关口1.36附近，突破则有望打开上行空间，短线可考虑逢低布局。  \n\n交易建议方面，短线可保持轻仓多单，止损设在1.3585下方，目标关注1.36及1.3610附近。如价格回落至支撑位且出现反弹信号，可逐步加仓；若突破阻力位，需谨慎防范快速获利回吐。整体策略以顺势为主，避免追高操作。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently trading at 1.35923, showing a very minimal 24-hour change of 0.02%. This price action suggests that the market is relatively stable, with no significant volatility in the short term. The price has remained within a narrow range between the high of 1.35929 and the low of 1.35872. In terms of trend analysis, this range-bound movement points to a consolidation phase, where the market is neither strongly bullish nor bearish. Traders should remain cautious and monitor for any breakout from this tight range.\n\nLooking at the technical indicators, the MACD value of 0.0022027612 indicates a mild bullish bias, though the absence of a clear signal line and RSI(14) data leaves the momentum unclear. The MACD histogram could suggest some upward pressure, but it’s not yet a strong signal for a sustained move. The 20-period simple moving average (SMA) is at 1.35853, providing a potential level of dynamic support. If price action approaches this level, it may face buying interest, as it aligns with the current consolidation.\n\nSupport levels are currently seen at 1.35872, just above the SMA, followed by the psychological level at 1.35800. If the price fails to hold these areas, the next support could be closer to 1.35500. On the resistance side, the immediate resistance is at 1.35929, with a stronger resistance around 1.36000. A break above this level could open the door for a potential move higher, especially if the market shows renewed momentum.\n\nFor trading, a cautious approach is recommended. Traders may consider buying near support at 1.35872 with a stop below 1.35800, targeting the resistance levels around 1.35929 or 1.36000. Alternatively, waiting for a clear breakout above 1.36000 or a breakdown below 1.35800 could offer more decisive signals for a directional trade. Risk management will be crucial in this volatile but range-bound market."
+    }
+  }
+}

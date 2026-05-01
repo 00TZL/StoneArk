@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-05-01T06:32:40.478Z",
+  "price": {
+    "close": "157.25396",
+    "high": "157.30016",
+    "low": "157.21823",
+    "open": "157.29552",
+    "change": "-0.02",
+    "datetime": "2026-05-01 16:00:00"
+  },
+  "indicators": {
+    "rsi": 40.77532,
+    "macd": -0.41751107,
+    "macd_signal": -0.59283082,
+    "sma20": 156.8447
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：短期震荡偏弱整理",
+      "content": "当前美元/日元价格徘徊在157.25附近，日内波动幅度有限，显示市场短期多空力量相对平衡。价格略高于20日均线156.84，意味着短线仍有支撑，但缺乏明显上行动力。整体趋势呈震荡整理格局，需关注突破信号。  \n\nMACD指标为-0.4175，显示空头动能略强，但信号线未给出明确方向，暗示市场暂时缺乏趋势延续性。由于RSI数据不可用，短期超买或超卖压力无法准确判断，因此需结合价格行为和均线支撑进行交易判断。  \n\n近期关键阻力位在157.30附近，若价格突破该水平，可考虑短线多头介入；支撑位在156.84及下方156.70区域，跌破可能加速回调。震荡区间内操作应以高抛低吸为主，避免追涨杀跌。  \n\n交易建议上，短线可等待价格触及支撑区域后逢低买入，同时关注阻力突破信号进行获利了结。若价格持续在均线下方震荡，则短线偏空策略更为稳健，风险控制以止损设置在156.70下方为宜。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently consolidating around 157.25 after testing a minor high of 157.30 over the past 24 hours. Price action suggests a short-term sideways trend, reflecting a market balance between buyers and sellers. The pair has remained above its 20-period simple moving average at 156.84, signaling underlying bullish bias, but the lack of decisive momentum indicates that traders are awaiting fresh catalysts before committing to strong directional positions.  \n\nMomentum indicators provide a mixed picture. The MACD at -0.4175 hints at mild bearish pressure, though the absence of a signal line reading limits confirmation. The negligible 24-hour price change of -0.02% reinforces the sideways dynamic, suggesting that traders are treading cautiously. While the Relative Strength Index is currently unavailable, the combination of the MACD’s negative reading and consolidation near the SMA suggests potential vulnerability to short-term pullbacks, though major trend reversal signals remain absent.  \n\nKey support is observed near 156.84, aligning with the 20-period SMA, while resistance lies around 157.30, corresponding to the daily high. A break above 157.30 would open the door for further upside targeting 157.60–157.80, whereas a breach below 156.84 could test lower support at 156.50. Traders should monitor price action around these pivot points, as directional moves beyond these thresholds may define the next short-term trend.  \n\nGiven the current technical setup, short-term traders might consider range-bound strategies, buying near support with tight stops and selling near resistance. Longer-term participants could await a confirmed breakout before committing to larger positions. Risk management is crucial due to low momentum and mixed indicator signals, emphasizing disciplined entries and exits. Overall, the pair remains cautiously bullish, with a sideways bias likely dominating until clearer signals emerge."
+    }
+  }
+}
