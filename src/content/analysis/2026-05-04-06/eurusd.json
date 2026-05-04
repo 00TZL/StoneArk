@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-05-04T06:33:19.070Z",
+  "price": {
+    "close": "1.17365",
+    "high": "1.17375",
+    "low": "1.17308",
+    "open": "1.17316",
+    "change": "0.04",
+    "datetime": "2026-05-04 16:00:00"
+  },
+  "indicators": {
+    "rsi": 56.069669,
+    "macd": 0.00022143813,
+    "macd_signal": 0.00019217273,
+    "sma20": 1.17293
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：[震荡整理中]",
+      "content": "当前欧元/美元价格为1.17365，24小时变化较小，仅为0.04%。从价格波动来看，欧元/美元似乎处于震荡整理阶段，价格在1.17375的高点与1.17308的低点之间波动。市场暂时未表现出明显的上涨或下跌趋势，短期内可能会继续维持这一格局。\n\n技术指标方面，MACD值为0.00022143813，但未显示信号线数据，表明当前市场缺乏明确的动能。RSI(14)数据暂时缺失，因此无法提供超买或超卖的参考。SMA(20)位于1.17293，显示价格处于短期均线附近，进一步支持震荡走势的判断。\n\n支撑位方面，1.17308是近期低点，可以视为重要的短期支撑；若价格突破该支撑位，可能会向下探测更低的水平。阻力位则位于1.17375，若突破该价位，可能会出现反弹向上测试更高的水平。整体而言，当前市场仍缺乏强势的方向性，建议短线交易者保持谨慎，关注突破方向。\n\n基于当前的技术面数据，短期内欧元/美元的走势可能会继续在区间内整理。建议交易者在接下来的交易日里保持观望，等待价格突破区间边界后再做决策。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD currently hovers around 1.17365, showing a muted 24-hour movement of just 0.04%. Price action indicates a narrow consolidation phase between the intraday high of 1.17375 and low of 1.17308. The market appears range-bound for now, suggesting indecision among traders. Short-term momentum is subtly bullish, given the price sits slightly above the 20-period simple moving average at 1.17293, which may act as immediate support and a reference for intraday retracements.  \n\nThe MACD reading of 0.000221 implies a mild upward momentum, although the absence of a signal line limits the confirmation of a strong trend. Traders should interpret this cautiously, as the current histogram shows early signs of bullishness without a clear crossover. The market’s consolidation near the SMA(20) may indicate potential for a breakout if volume picks up, making it important to watch for a decisive move above recent highs to confirm trend continuation.  \n\nKey support lies near the 1.17290–1.17300 zone, coinciding with the 20-period SMA, while resistance is clearly defined around 1.17400–1.17410. A sustained move below support could open the door to testing 1.17150, whereas breaking above resistance may target 1.17500–1.17520. These levels provide a framework for short-term trades, helping to manage risk and identify potential entry points.  \n\nFrom a trading perspective, cautious buyers might consider entering on dips near the SMA(20) while targeting the intraday resistance, keeping stop-loss orders just below the support area to mitigate downside risk. For sellers, waiting for a confirmed breakdown below support before shorting could offer higher probability setups. Overall, EUR/USD currently favors a range-bound to slightly bullish stance, but traders should remain alert for volatility spikes that could trigger a directional move."
+    }
+  }
+}

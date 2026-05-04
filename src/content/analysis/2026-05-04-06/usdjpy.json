@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-05-04T06:34:50.050Z",
+  "price": {
+    "close": "156.8086",
+    "high": "156.83511",
+    "low": "156.75829",
+    "open": "156.77501",
+    "change": "0.03",
+    "datetime": "2026-05-04 16:00:00"
+  },
+  "indicators": {
+    "rsi": 48.029366,
+    "macd": -0.07349189,
+    "macd_signal": -0.058961537,
+    "sma20": 156.85706
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：偏向震荡整理，短期存在回调压力",
+      "content": "当前美元/日元价格维持在156.8086附近，处于一个较为平稳的区间内。从短期走势来看，市场缺乏明确的上涨或下跌动力，可能呈现震荡整理的格局。价格在高点156.83511和低点156.75829之间波动，未能突破任何重要技术水平。\n\n在技术指标方面，虽然RSI(14)和MACD的信号尚不明确，但从SMA(20)来看，当前价格略低于20日简单移动平均线（156.85706），这表明短期内存在一定的回调压力。MACD值为-0.0734，暗示市场上卖压略有增大。\n\n支撑位方面，156.75829一线可视为短期支撑，若价格跌破此位置，可能进一步测试156.70附近的支撑。阻力位则位于156.83511一带，若价格突破该阻力，有望进一步挑战更高价位。\n\n交易建议方面，若价格接近支撑区间，可考虑采取轻仓做多策略。但若价格突破阻力位，且有进一步上行动能，可以尝试进场做多。当前市场震荡较为明显，建议保持谨慎操作，避免追高。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USD/JPY is trading in a narrow consolidation range just below the 156.85 area, showing limited momentum after a marginal 24-hour gain. Price action hovering slightly under the 20-period moving average suggests a mildly bearish intraday bias, though the broader structure still leans upward given the pair’s position near recent highs. The tight high–low range reflects indecision, with neither buyers nor sellers asserting strong control.\n\nThe MACD reading remains in negative territory, indicating fading bullish momentum and a possible early phase of a short-term pullback. Although the signal line is unavailable, the negative MACD alone hints at weakening upside pressure. The absence of RSI data limits confirmation, but current price behavior implies neutral-to-soft momentum conditions. Traders should be cautious about chasing breakouts without stronger confirmation from momentum indicators.\n\nImmediate support is located near 156.75, aligning closely with the session low, while a deeper pullback could test the 156.60 region. On the upside, resistance is seen around 156.85, coinciding with the SMA(20), followed by a more significant barrier near 157.00. A sustained break above this psychological level would likely revive bullish momentum and open the door for further gains.\n\nFrom a tactical standpoint, range-bound strategies may be more appropriate in the short term. Buying near support with tight stops below 156.60 or selling near resistance around 156.85–157.00 could offer favorable risk-reward setups. However, a decisive breakout beyond either boundary should shift the strategy toward trend-following, with confirmation from momentum indicators before entering positions."
+    }
+  }
+}

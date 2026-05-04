@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-05-04T06:36:16.109Z",
+  "price": {
+    "close": "1.35926",
+    "high": "1.35933",
+    "low": "1.35889",
+    "open": "1.35898",
+    "change": "0.02",
+    "datetime": "2026-05-04 16:00:00"
+  },
+  "indicators": {
+    "rsi": 52.2543,
+    "macd": -0.000048882397,
+    "macd_signal": -0.000055813294,
+    "sma20": 1.35904
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：当前震荡区间，短期趋于整理",
+      "content": "当前美元/加元（USD/CAD）处于相对平稳的震荡区间，价格在1.35889至1.35933之间波动，表明市场缺乏强烈的买卖动能。最新价格1.35926接近SMA(20)的1.35904，进一步确认了价格在短期内的整理状态。\n\n技术指标方面，MACD处于负值区域（-0.000048882397），显示出当前市场的空头力量稍占优势。然而，由于缺乏RSI和Signal数据，无法对超买或超卖状态进行详细评估。整体来看，市场情绪较为中性，短期内缺乏明确的趋势信号。\n\n支撑位方面，1.35889为短期支撑，若价格跌破该位置，可能会测试更低的区域。阻力位则位于1.35933，若突破该位置，可能会吸引更多买盘进场。当前区间震荡，交易者可关注突破的可能性。\n\n考虑到当前市场的震荡走势，建议在支撑位和阻力位附近进行区间交易。若价格突破1.35933，考虑做多；若跌破1.35889，则可尝试做空。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently trading near 1.35926, showing slight bullish momentum with a 24-hour change of 0.02%. This minor uptick suggests a consolidation phase, as the price oscillates between 1.35933 and 1.35889. A potential short-term trend appears to be neutral-to-slightly bullish, with the market trapped within a tight range. In the absence of strong directional moves, price action is likely to remain within these boundaries unless a breakout occurs.\n\nThe absence of a clear RSI reading and MACD signal leaves a gap in momentum interpretation, but the MACD value of -0.00004888 suggests minimal bearish pressure at the moment. The price is hovering just above its 20-period simple moving average of 1.35904, indicating a potential support level. A close below this moving average could suggest a continuation of a bearish correction, especially if the market retests 1.35889. Without a confirmed bullish or bearish signal from the oscillators, the market may look to find equilibrium.\n\nIn terms of key support and resistance levels, the immediate support resides at the low of 1.35889. A break below this could expose further downside potential toward 1.35750, where deeper support lies. On the other hand, resistance is found just above the current high at 1.35933, and a move beyond this level could propel the pair toward 1.36100. Watch for either a break of these levels to trigger momentum shifts or a continued range-bound action.\n\nFor traders, a cautious approach may be best. A breakout above 1.35933 could offer a buy opportunity, while a drop below 1.35889 could present a short opportunity. With the indicators offering no clear trend signal, waiting for confirmation through price action or a break of support/resistance would be prudent for those looking to capitalize on larger moves."
+    }
+  }
+}

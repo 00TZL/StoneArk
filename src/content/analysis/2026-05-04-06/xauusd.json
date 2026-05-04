@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-05-04T06:38:22.983Z",
+  "price": {
+    "close": "4589.53917",
+    "high": "4600.6625",
+    "low": "4589.28988",
+    "open": "4599.81978",
+    "change": "-0.24",
+    "datetime": "2026-05-04 16:00:00"
+  },
+  "indicators": {
+    "rsi": 24.081739,
+    "macd": -3.048663,
+    "macd_signal": -0.93575768,
+    "sma20": 4611.10362
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短期偏空，震荡承压",
+      "content": "目前黄金/美元价格在4589附近波动，日内微幅下跌0.24%，显示市场短线承压情绪。价格低于20日简单移动平均线(SMA20 4611)，表明中短期均线空头占优，短期走势偏弱，存在一定回调压力。  \n\nMACD指标显示快线为-3.048，位于零轴下方，显示下行动能仍在，但信号线缺失，需关注后续交叉情况确认趋势延续性。价格接近日内低点4589，若下破则可能测试前期支撑4575-4570区间，而上方阻力位主要集中在4605-4611附近。  \n\n技术形态显示近期高点逐步下降，低点支撑尚稳，短线呈震荡下行格局。若价格无法突破SMA20及4600阻力，则偏空格局仍然有效，反弹遇阻可考虑顺势空单布局。  \n\n交易策略上，可在价格回落至支撑4575附近观察多空信号，止损建议设在支撑下方5-10美元；若价格上破4605-4611阻力区，可谨慎短线追涨，但需控制仓位，整体以震荡承压、短线操作为主。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current price of XAU/USD stands at 4589.53917, slightly below the 20-period SMA of 4611.10362, suggesting a slight bearish sentiment. Given the recent price action, the market is showing a consolidation phase, with the price hovering near the low of the day at 4589.28988. This indicates that sellers are still active but there’s no clear breakout yet. If the price fails to break above the SMA or the recent high of 4600.6625, we could see further downside momentum towards the support zone near 4580. \n\nIn terms of technical indicators, the MACD is currently negative at -3.048663, which indicates a bearish momentum. However, with no clear signal line provided, it's difficult to assess if this momentum will continue or reverse. The lack of a positive crossover or bullish divergence means that the market remains susceptible to further weakness, especially if price action struggles to break past the previous high. A shift toward neutral or positive territory in the MACD could be a potential signal for a reversal or upward movement, but for now, the bearish outlook persists.\n\nSupport and resistance levels are crucial in understanding the potential range for this pair. Immediate support is observed near 4580, where the price is holding steady after a small dip. If this level breaks, the next support could be near 4570. On the resistance side, the market faces significant resistance at the 4600 mark, as well as the SMA at 4611. Breaking above these levels could trigger a stronger bullish move toward the 4620–4630 range. Traders should watch for price action around these levels for potential entry points.\n\nGiven the current market structure, a cautious approach is recommended. Selling at resistance levels around 4600–4610 could offer potential opportunities, especially if price struggles to break higher. On the other hand, any failure to maintain the 4580 support could lead to further downside risk. Traders should also monitor the development of the MACD and price action for any signs of a trend reversal before committing to long positions."
+    }
+  }
+}

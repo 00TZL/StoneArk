@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-05-04T06:36:57.373Z",
+  "price": {
+    "close": "0.59161",
+    "high": "0.59207",
+    "low": "0.59154",
+    "open": "0.59182",
+    "change": "-0.04",
+    "datetime": "2026-05-04 16:00:00"
+  },
+  "indicators": {
+    "rsi": 64.092149,
+    "macd": 0.00051123424,
+    "macd_signal": 0.00034970374,
+    "sma20": 0.5905765
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理中，暂无明确趋势]",
+      "content": "目前，纽元/美元（NZD/USD）在0.5916附近震荡整理，短期内缺乏明显的上涨或下跌趋势。当前价格接近20日简单移动平均线（SMA 20），表明市场处于一定的平衡区间，价格波动较小。虽然24小时变化为-0.04%，但整体波动幅度依旧有限。\n\nMACD指标显示出微弱的0.0005的正值，但没有明显的信号提示市场强势方向。RSI（14）尚未提供足够的数据支持，因此暂时难以得出过度买入或卖出的结论。从技术面来看，市场仍需进一步的确认信号才能决定是否出现突破。\n\n支撑位位于0.5915附近，而阻力位则略高于当前价位，约在0.5920附近。价格在这些区域内的震荡整理可能持续一段时间。若突破0.5920，可能会带来短期的反弹机会，但突破下行支撑0.5915可能导致更深的回调。\n\n在操作上，建议采取区间交易策略，等待价格突破支撑或阻力位再进行布局。对于风险承受能力较强的交易者，可以适度尝试突破后的跟随交易，但要设立严格的止损保护。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently showing a mildly bearish tone after a period of consolidation. The latest price of 0.59161 sits just above the 20-day simple moving average at 0.59058, suggesting that short-term momentum is still marginally supportive of the bulls. However, the narrow trading range between 0.59154 and 0.59207 over the last 24 hours reflects low volatility, indicating that market participants are awaiting fresh catalysts, likely economic data from New Zealand or the U.S., before committing to a stronger directional move.  \n\nThe MACD reading at 0.000511 indicates very limited bullish momentum, but the absence of a signal line makes it difficult to confirm a clear trend. Given the small negative change of -0.04%, the market may be at a technical equilibrium, balancing between minor buying interest near the SMA and selling pressure around recent highs. The lack of a recorded RSI leaves relative strength undetermined, but the proximity to the moving average suggests that the pair could oscillate in a tight range before a breakout occurs.  \n\nKey support lies near the 0.59050–0.59060 zone, aligning closely with the 20-day SMA, which has historically provided a short-term floor. Resistance is likely to be encountered at 0.59210–0.59220, the upper limit of today’s range, where selling pressure has consistently emerged. A sustained move above this level could open a path toward 0.59400, while a break below the SMA support may test 0.58950. Traders should watch these levels for potential breakout trades while keeping position sizes moderate due to low volatility.  \n\nFrom a tactical standpoint, short-term traders may consider range-bound strategies, buying near support and selling near resistance until momentum indicators clarify the direction. Longer-term participants should wait for confirmation from either the MACD signal or a decisive price breakout. Caution is advised due to the subdued market movement; leverage should be used conservatively, and stop-loss levels positioned just beyond key support or resistance to manage risk efficiently."
+    }
+  }
+}

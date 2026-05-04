@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-05-04T06:35:33.245Z",
+  "price": {
+    "close": "0.72086",
+    "high": "0.72106",
+    "low": "0.72064",
+    "open": "0.72083",
+    "change": "0.01",
+    "datetime": "2026-05-04 16:00:00"
+  },
+  "indicators": {
+    "rsi": 53.84132,
+    "macd": 0.00023147022,
+    "macd_signal": 0.0002446104,
+    "sma20": 0.720634
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：[震荡整理中]",
+      "content": "当前，澳元/美元（AUD/USD）在0.72086附近震荡整理，价格波动较小，未显现出明确的趋势。从技术面来看，价格接近20日简单移动平均线（SMA 20）0.72063，说明市场存在一定的支撑力度，可能维持震荡区间。高点0.72106和低点0.72064反映出短期内的价格区间，未突破的情况下，趋势仍较为平稳。\n\nRSI（相对强弱指数）未提供足够数据，无法评估是否存在超买或超卖的迹象。MACD指标仍保持微弱的正值（0.00023147022），但由于信号线数据缺失，尚难以做出明确的买卖信号。目前来看，市场缺乏强烈的趋势动能，波动有限。\n\n支撑位位于0.72064附近，若价格下破此区域，可能会进一步测试更低的支撑位。阻力位则集中在0.72106附近，若突破该阻力位，可能会迎来小幅上涨的空间。短期内，价格有可能在此区间内继续震荡整理。\n\n交易建议：鉴于市场缺乏趋势性动能，建议采取区间交易策略，关注0.72064和0.72106的支撑和阻力位置。操作上可考虑在支撑附近逢低买入，在阻力附近做空，风险控制为关键。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD is currently experiencing a neutral market phase, as reflected in the latest price of 0.72086, with a minimal 24-hour change of just 0.01%. This suggests that the pair is largely consolidating within a tight range, hovering near the 20-period simple moving average (SMA) of 0.720634. The narrow range between the high of 0.72106 and the low of 0.72064 further underscores the lack of volatility and clear direction in the market. Traders should expect this sideways price action to persist unless a significant catalyst triggers a breakout.\n\nIndicator-wise, the MACD reading of 0.00023147022 indicates a slight bullish bias, but the absence of a clear signal line value makes it difficult to interpret momentum with confidence. The RSI(14) is unavailable, which limits insight into overbought or oversold conditions, an important factor for identifying potential reversals. Despite the lack of strong momentum signals, the proximity to the SMA(20) implies the market is currently balancing between bullish and bearish forces, awaiting direction.\n\nFrom a technical perspective, immediate support for AUD/USD is found at the low of 0.72064, while resistance lies near the 0.72106 mark. A break below the support could signal further downside potential, possibly testing the 0.72000 psychological level. On the flip side, if the pair manages to push above 0.72106, the next resistance target could be at the 0.72200 level. Traders should monitor price action near these key levels for a breakout or reversal opportunity.\n\nGiven the current range-bound nature of the pair, traders may look for scalping opportunities or short-term trades within this consolidation phase. A break from this range could provide a clearer trading direction. If the price holds within the established levels, however, waiting for stronger technical signals—such as an RSI or MACD cross—could improve the probability of a successful trade. Patience is key in the current market environment."
+    }
+  }
+}
