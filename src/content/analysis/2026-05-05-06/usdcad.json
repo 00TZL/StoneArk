@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-05-05T06:13:05.679Z",
+  "price": {
+    "close": "1.36224",
+    "high": "1.36253",
+    "low": "1.36217",
+    "open": "1.36252",
+    "change": "-0.02",
+    "datetime": "2026-05-05 16:00:00"
+  },
+  "indicators": {
+    "rsi": 57.7699,
+    "macd": 0.00064878333,
+    "macd_signal": 0.00067006413,
+    "sma20": 1.36185
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：短期盘整偏多趋势",
+      "content": "目前美元/加元报价1.36224，接近24小时内高低点中间位置，整体波动有限，显示短期市场处于盘整状态。从价格相对SMA(20) 1.36185来看，价格略高于均线，表明短线多头略占优势，但整体动能不足。  \n\nMACD当前值为0.00064878333，尚未提供信号线，显示多空力量接近平衡，市场缺乏明显趋势延续性。若RSI数据可用，可进一步判断超买超卖状态，但当前仅凭MACD和均线，短期仍倾向谨慎偏多操作。  \n\n支撑位可参考近期低点1.36217，如价格回踩此区域并稳住，可视为短线买入机会；阻力位则关注高点1.36253，如突破则有望延伸至1.3640附近。整体支撑阻力区间狭窄，适合短线波段操作。  \n\n交易建议上，短线可考虑在支撑附近小幅建多仓，设置紧密止损，关注突破阻力后的顺势加仓机会。若价格跌破支撑，则应快速止损离场，避免趋势反转带来的风险。整体操作以谨慎偏多为主，等待明确趋势信号再扩大仓位。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently hovering around 1.36224, showing minimal movement over the past 24 hours with a slight -0.02% change. Price action remains close to the 20-period SMA at 1.36185, suggesting a consolidation phase. Short-term momentum appears neutral, as the small range between the daily high and low (1.36253–1.36217) indicates indecision among traders. Overall, the pair is testing a delicate equilibrium, and any directional shift may hinge on breaking key intraday levels.  \n\nThe MACD reading of 0.00064878333 hints at a very mild bullish bias, though the absence of a signal line makes confirmation difficult. Without RSI data, it’s challenging to gauge overbought or oversold conditions, but price proximity to the SMA suggests limited immediate momentum. Traders should watch for divergence or a crossover in MACD for early signs of directional strength. Momentum indicators currently imply a wait-and-see approach until a clearer trend emerges.  \n\nSupport and resistance levels are narrow yet critical. Immediate support lies around 1.36185, reinforced by the 20-period SMA, while resistance sits near 1.36253, the intraday high. A decisive break below support could open a short-term bearish move toward 1.3600, whereas a sustained push above resistance might signal a rally toward 1.3640. These levels offer well-defined entry and exit points for scalpers and short-term swing traders.  \n\nFor trading strategy, cautious positioning is advisable given the consolidation and muted volatility. Short-term traders might consider range-bound strategies, buying near support and selling near resistance, while keeping tight stops to mitigate false breakouts. Longer-term participants should wait for confirmation of trend continuation or reversal, ideally with supporting MACD crossovers and a confirmed breach of SMA-defined levels, before committing to larger positions. Risk management remains essential in this low-momentum environment."
+    }
+  }
+}

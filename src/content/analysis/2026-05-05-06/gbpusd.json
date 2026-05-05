@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-05-05T06:10:53.813Z",
+  "price": {
+    "close": "1.35243",
+    "high": "1.35269",
+    "low": "1.35164",
+    "open": "1.35195",
+    "change": "0.04",
+    "datetime": "2026-05-05 16:00:00"
+  },
+  "indicators": {
+    "rsi": 41.30672,
+    "macd": -0.0012047532,
+    "macd_signal": -0.0012495382,
+    "sma20": 1.3533
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：短期震荡偏弱整理",
+      "content": "当前英镑/美元报价1.35243，较昨日变化仅0.04%，显示短期波动有限。从价格走势来看，货币对在1.35269高点与1.35164低点之间横盘整理，短期缺乏明确突破方向，整体呈现震荡格局。  \n\n技术指标方面，SMA(20)位于1.35330，高于现价，暗示均线压力依然存在，短期多头动能受限。MACD处于-0.0012附近，仍显示空头势能微弱，但因信号线缺失，趋势确认度不足，需要密切关注后续交叉变化。  \n\n支撑位方面，1.3515-1.3520区间构成近期底部支撑，若失守可能进一步下探至1.3500附近。阻力位主要集中在1.3535-1.3540，突破该区域将有利于短线多头反弹，形成技术性上行空间。  \n\n交易策略上，建议短线以震荡操作为主，逢低轻仓做多，重点关注支撑附近的止损控制，同时在接近阻力区可尝试减仓或短线获利。中期投资者应保持观望，等待价格明确突破均线和关键阻力位后再介入，以降低不确定性风险。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently trading at 1.35243, showing minimal movement over the last 24 hours with a mere 0.04% increase. The pair has remained confined within a narrow intraday range of 1.35164 to 1.35269, reflecting a period of consolidation. The market appears indecisive, with neither bulls nor bears asserting control. Traders should be cautious in this environment, as price action suggests a potential buildup before a directional breakout, rather than a sustained trend continuation.  \n\nFrom a technical perspective, the 20-period simple moving average at 1.35330 sits just above the current price, indicating mild short-term bearish pressure. The negative MACD reading of -0.0012 further supports this cautious stance, implying that momentum favors sellers, although the absence of a signal line limits clarity. In such a scenario, traders may rely on price behavior around the moving average and recent highs and lows to gauge potential entry points, as traditional trend-following signals remain ambiguous.  \n\nSupport for the pair is visible near the 1.35160 level, which coincides closely with the intraday low. On the upside, resistance appears near 1.35330, in line with the SMA, and further extends toward 1.35400 if momentum picks up. Breaks above or below these levels could trigger short-term directional trades. Range-bound traders may look for buying near support and selling near resistance, whereas breakout-focused participants might await decisive moves beyond these thresholds before committing capital.  \n\nIn terms of trading strategy, maintaining a disciplined approach is key. Conservative traders might prefer waiting for confirmation of trend continuation, as volatility is currently subdued. Aggressive traders could consider short-term scalps between support and resistance, keeping tight stop losses. Monitoring fundamental developments, such as UK economic data or US interest rate signals, will also be essential, as they could swiftly shift the market’s tone, potentially breaking the current equilibrium and driving momentum in either direction."
+    }
+  }
+}

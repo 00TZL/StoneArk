@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-05-05T06:10:10.737Z",
+  "price": {
+    "close": "1.16847",
+    "high": "1.16855",
+    "low": "1.16818",
+    "open": "1.16833",
+    "change": "0.02",
+    "datetime": "2026-05-05 16:00:00"
+  },
+  "indicators": {
+    "rsi": 39.91474,
+    "macd": -0.00089999745,
+    "macd_signal": -0.00089828417,
+    "sma20": 1.16923
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：短期震荡偏弱，谨慎观望",
+      "content": "当前EUR/USD维持在1.1684附近，短期波动幅度有限，价格连续受SMA(20) 1.16923压制，显示短线多头动力不足。整体来看，市场呈现窄幅震荡格局，缺乏明确突破信号，多空力量相对均衡。  \n\nMACD处于负值区间且略低于零轴，表明下行动能略占上风，但信号线数据缺失，需结合后续动量确认。RSI未提供，但从价格横盘和均线趋平可推测，市场暂时没有超买或超卖极端情况，短线波动可能以盘整为主。  \n\n关键支撑位关注1.1680及1.1675附近，一旦跌破，可能触发短线回调。阻力位则集中在SMA(20) 1.1692以及近期高点1.16855，若突破这些阻力，多头将获得进一步拉升空间。技术面显示区间整理特征明显，突破方向将决定下一阶段行情。  \n\n交易策略上，建议短线观望为主，避免追涨杀跌。可在支撑位附近考虑小额低风险多单，突破阻力位可逐步介入顺势多单；反之跌破关键支撑应控制仓位并设置止损，保持稳健操作，等待趋势确认后再加仓。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD currently trades around 1.16847, showing minimal movement over the past 24 hours with a 0.02% change. Price action remains confined near the intraday high of 1.16855 and low of 1.16818, reflecting a tight range and short-term consolidation. The proximity to the 20-period SMA at 1.16923 suggests a neutral bias, as the pair struggles to decisively break above this short-term moving average. Overall, the market shows indecision, indicating that traders may be waiting for fresh economic catalysts to establish a clear directional bias.  \n\nThe MACD is slightly negative at -0.00089999745, signaling mild bearish momentum, though the absence of a signal line reading limits the strength of this interpretation. Momentum indicators like RSI are unavailable, which increases reliance on price action and moving averages. Traders should note that the small negative MACD suggests sellers hold a slight edge, but the tight range limits immediate downside potential. Any extension below the intraday low may attract additional selling pressure, whereas a rebound above the SMA could indicate renewed bullish attempts.  \n\nKey support levels lie near 1.16800, just below the recent intraday low, where buyers may step in to defend the current range. Resistance is expected around 1.16950–1.17000, close to the 20-period SMA and the upper bounds of recent price action. Breaching these levels decisively could trigger momentum-driven moves, providing clearer directional opportunities. Short-term traders should monitor these thresholds for breakout setups, while longer-term participants might wait for confirmation from higher timeframes before committing to positions.  \n\nTrading strategies should be cautious and range-oriented under the current market structure. Scalpers could consider buying near support and taking profits near resistance, keeping tight stop-loss orders given the narrow fluctuations. Momentum traders may wait for a clear MACD crossover or a break above the SMA to enter long positions, or a decisive drop below the 1.16800 support for short exposure. Risk management remains critical, as volatility is currently subdued, and false breakouts are possible in this consolidation phase."
+    }
+  }
+}

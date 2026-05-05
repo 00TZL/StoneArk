@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-05-05T06:11:40.073Z",
+  "price": {
+    "close": "157.26418",
+    "high": "157.29575",
+    "low": "157.24278",
+    "open": "157.27915",
+    "change": "-0.02",
+    "datetime": "2026-05-05 16:00:00"
+  },
+  "indicators": {
+    "rsi": 55.97811,
+    "macd": 0.073777353,
+    "macd_signal": 0.070185806,
+    "sma20": 157.19927
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：短期盘整偏多震荡",
+      "content": "当前美元/日元在157.26附近波动，日内涨幅微弱，整体呈现轻微震荡偏多格局。价格略高于20日均线SMA(20)157.199，显示多头仍占据一定优势，但涨幅有限，短期趋势可能以横盘整理为主。高低点接近，表明市场短期多空力量相对均衡。  \n\nMACD指标显示多头动能仍在延续，当前值为0.0737，但缺乏信号线参考，说明趋势强弱尚不明确。RSI缺失，但结合价格与均线关系，多头情绪保持谨慎，市场仍需关注潜在回调风险。技术指标提示短线交易者应防止追涨。  \n\n近期支撑位可参考157.20附近的SMA支撑和日内低点157.242，若跌破则可能触发更深调整。阻力位在157.30附近，如突破则有望延伸至157.40水平。盘整中，价格上下空间有限，波动区间相对狭窄，短线操作需灵活把握。  \n\n交易策略上，短线可考虑区间操作，低位轻仓买入，高位减仓或止盈。中线投资者建议关注突破信号后再加仓，以防假突破带来的风险。同时保持风险管理，设置合理止损，避免在震荡中被套。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "Price action in USD/JPY is currently consolidating in a very tight intraday range, reflecting a pause after recent upward momentum. The pair is hovering just above the 20-period moving average, suggesting a mildly bullish bias remains intact, though momentum has clearly slowed. The narrow high–low range indicates reduced volatility, often a precursor to a breakout, with market participants waiting for a clearer directional catalyst.\n\nThe proximity of price to the 20-period SMA (157.199) reinforces short-term equilibrium, while the marginally positive MACD reading suggests underlying bullish pressure is still present, albeit weak. Without a confirmed signal line crossover, momentum confirmation remains incomplete. RSI data is unavailable, but given the flat price movement, it would likely sit near neutral, further supporting the view of consolidation rather than strong directional conviction.\n\nImmediate support is seen around 157.20, aligning with the SMA and recent intraday lows near 157.24. A break below this zone could expose deeper support around 156.80. On the upside, resistance is tight at 157.30, with a more significant barrier likely forming near 157.80 based on prior price structure. A decisive move beyond either boundary could define the next short-term trend direction.\n\nFrom a trading perspective, range-bound strategies may remain appropriate in the near term, buying dips toward support and selling rallies near resistance with tight risk controls. However, traders should be alert for a breakout scenario, especially if accompanied by increased volume or macro catalysts. A sustained move above 157.30 would favor bullish continuation, while a drop below 157.20 may signal the start of a corrective phase."
+    }
+  }
+}

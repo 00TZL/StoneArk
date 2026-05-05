@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-05-05T06:12:22.515Z",
+  "price": {
+    "close": "0.71471",
+    "high": "0.71473",
+    "low": "0.71386",
+    "open": "0.71401",
+    "change": "0.12",
+    "datetime": "2026-05-05 16:00:00"
+  },
+  "indicators": {
+    "rsi": 33.31873,
+    "macd": -0.0012003676,
+    "macd_signal": -0.0010489249,
+    "sma20": 0.7165975
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短期偏弱整理趋势",
+      "content": "当前澳元/美元价格在0.7147附近震荡，短期走势显示多空力量较为均衡，但略微偏向空头。价格低于20日均线0.7166，显示短期承压，若无法有效突破均线，后续可能延续弱势整理。日内高低波幅有限，市场观望情绪浓厚。  \n\nMACD指标处于负值区域，短期动能偏空，但信号线尚未完全明确，意味着空头压力存在但尚未加速。缺乏RSI数据需关注超买/超卖边界，一旦价格跌破0.7138支撑，可能触发进一步下行回调。短线波动偏小，需警惕快速反弹形成的假突破。  \n\n关键支撑位在0.7138附近，如有效守住，该水平可作为短线多单参考；阻力位在0.7166的20日均线附近，突破需伴随成交量放大，否则可能出现回落。价格在支撑与均线之间呈震荡格局，短线交易机会以区间操作为主。  \n\n交易建议：偏向短线区间策略，可在支撑附近轻仓做多，止损放在0.7135以下；在阻力附近考虑获利了结或轻仓做空，避免追高。关注欧美及澳洲经济数据公布，以判断趋势是否会打破当前整理区间。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently hovering near 0.7147, showing limited movement over the past 24 hours with a modest 0.12% gain. Price action remains constrained between the daily high of 0.71473 and the low of 0.71386, indicating consolidation after a minor pullback from recent resistance levels. The short-term trend appears mildly bearish as the pair trades below the 20-period SMA at 0.7166, suggesting that sellers are retaining slight control. Traders should monitor whether price respects this moving average as a dynamic resistance, which could reinforce downward momentum.\n\nFrom a momentum perspective, the MACD is negative at -0.0012, signaling that bearish pressure may persist. Although the MACD signal line is unavailable, the negative value suggests that short-term selling strength exceeds buying pressure. Without a reliable RSI reading, overbought or oversold conditions cannot be confirmed, so traders must rely on price action and moving averages to gauge potential entry points. The combination of a sub-SMA price and negative MACD hints at cautious short opportunities, especially if bearish candlestick formations emerge near resistance zones.\n\nKey support for AUD/USD lies around 0.7138, coinciding with the daily low, which has acted as a temporary floor in recent sessions. Should this level break decisively, the next support zone is near 0.7120, aligning with previous consolidation lows. On the upside, immediate resistance is marked by the 20-period SMA at 0.7166, followed by the psychological barrier near 0.7180. Traders might consider using these levels to structure risk, placing stop-loss orders just beyond support when taking short positions or near resistance when entering long trades on potential pullbacks.\n\nFor trading strategy, short-term traders could look for minor rebounds toward 0.7165–0.7170 as opportunities to sell, provided the pair shows rejection signals such as pin bars or bearish engulfing candles. Long positions might be more cautious, waiting for a confirmed break and close above the SMA to signal potential trend reversal. Overall, market conditions suggest a slightly bearish bias, but low volatility calls for tight risk management and disciplined position sizing, keeping an eye on global risk sentiment and commodity-linked influences that typically sway the AUD."
+    }
+  }
+}

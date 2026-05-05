@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-05-05T06:14:33.405Z",
+  "price": {
+    "close": "0.78418",
+    "high": "0.78438",
+    "low": "0.78412",
+    "open": "0.78432",
+    "change": "-0.02",
+    "datetime": "2026-05-05 16:00:00"
+  },
+  "indicators": {
+    "rsi": 57.10462,
+    "macd": 0.00052627706,
+    "macd_signal": 0.00055383151,
+    "sma20": 0.783916
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：短期震荡偏多，关注关键支撑阻力",
+      "content": "当前美元/瑞郎在0.78418附近小幅回落，日内波动幅度有限，整体呈现震荡整理格局。价格略高于20日均线0.783916，显示短期仍有多头支撑，但涨势动力有限，需要警惕回调风险。  \n\nMACD处于0.000526的正值区间，虽缺少信号线数据，但正值提示多头能量尚存，短期可能维持震荡偏多走势。RSI数据缺失，使得超买超卖判断不完全，但结合价格与均线关系，可视为温和偏多信号。  \n\n从支撑阻力来看，近期低点0.78412构成短线支撑，如果跌破则可能引发更深回调；上方0.78438为近期高点阻力，突破该位置才可能延续上行趋势。交易者需关注这些关键价位的突破情况，以调整仓位策略。  \n\n综合来看，短线可考虑低多策略，止损设置略低于0.78410，目标关注0.78438及0.7850附近压力位。若价格未能有效上破阻力，可采取观望或高抛低吸的震荡操作，以控制风险并把握小幅波动机会。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "USD/CHF is currently showing a marginally bearish tone, with the pair trading at 0.78418, slightly below the 20-period simple moving average of 0.783916. Price action has been relatively tight over the last 24 hours, oscillating between 0.78412 and 0.78438, indicating market indecision. The pair is hovering near short-term support, suggesting that traders are cautious, waiting for clear directional cues from broader risk sentiment or upcoming economic data.\n\nAlthough the RSI is unavailable, the MACD reading of 0.000526 implies modest bullish momentum, albeit without a confirmed signal line crossover. This suggests the market may lack strong conviction, making short-term fluctuations more likely than sustained trends. The slight divergence between price and SMA indicates that the market may consolidate around current levels before committing to a directional move. Traders should observe whether MACD starts converging toward the signal line for early signs of trend continuation or reversal.\n\nKey support appears around 0.78400, a level previously respected over recent sessions, while resistance is near 0.78450, marking the upper limit of recent trading activity. Breaching these levels could trigger more decisive moves. A sustained break above resistance may signal an attempt to re-test 0.78500, while a drop below support could open the door to 0.78350. Monitoring volume and candlestick formations near these thresholds can help in timing entries and exits with greater confidence.\n\nFor trading strategy, short-term traders might favor cautious range-bound trades, buying near support and selling near resistance, with tight stops to manage risk. Longer-term positions should wait for a clearer trend confirmation, ideally backed by MACD alignment and a stronger momentum signal. Given the minimal 24-hour price change, patience is warranted, as the pair may need an external catalyst, such as US or Swiss economic data, to generate a more pronounced directional movement."
+    }
+  }
+}

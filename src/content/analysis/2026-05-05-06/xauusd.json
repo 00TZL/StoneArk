@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-05-05T06:15:25.554Z",
+  "price": {
+    "close": "4543.02337",
+    "high": "4553.76263",
+    "low": "4541.50542",
+    "open": "4548.80154",
+    "change": "-0.04",
+    "datetime": "2026-05-05 16:00:00"
+  },
+  "indicators": {
+    "rsi": 46.30723,
+    "macd": -11.32134,
+    "macd_signal": -15.97588,
+    "sma20": 4535.12971
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短线震荡偏弱，关注支撑位",
+      "content": "当前XAU/USD价格徘徊在4543附近，短期内走势呈现小幅回调，价格略低于20日均线SMA(20)的4535支撑，表明多空力量暂时接近平衡。日内高低点区间较窄，市场情绪偏谨慎，短线缺乏明显突破动力。  \n\nMACD指标显示主线位于-11.32附近，处于负值区域，暗示下行动能略占优势，但信号线缺失限制了趋势判断的强度。整体来看，空头压力有限，多空交织可能导致短线震荡整理，等待关键突破信号确认方向。  \n\n支撑位关注前期低点4541及20日均线支撑4535，若失守可能加速下探至4525附近；阻力位则在日内高点4553及近期关键压力4560一线，突破可提供上行确认。结合技术指标，操作上建议逢低轻仓做多，或高位逐步减仓，控制风险。  \n\n建议交易者关注关键均线及高低点的交叉反应，保持短线灵活策略。在缺乏RSI和完整MACD信号情况下，宜谨慎跟进趋势，重点关注突破或回踩后的反弹机会，避免追涨杀跌，控制单笔仓位风险。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold is currently exhibiting a cautiously neutral bias, with the latest price at 4543.02 hovering just above the 20-period simple moving average of 4535.13. The small 24-hour decline of 0.04% signals a lack of strong directional momentum, suggesting traders are awaiting fresh catalysts. Intraday volatility is contained, with a tight range between 4541.51 and 4553.76, indicating consolidation near short-term equilibrium. Overall, the trend is sideways, with minor bullish undertones from the price sitting above the SMA.  \n\nThe MACD reading of -11.32 points to underlying bearish pressure, but the absence of a signal line makes the extent of momentum uncertain. The lack of a current RSI value limits overbought/oversold insight, though the tight trading range hints at balanced buying and selling forces. Technically, this combination reflects a market indecision phase, where short-term dips could attract buyers near key support while upward moves remain capped by near-term resistance.  \n\nSupport is evident around the 4535 level, reinforced by the SMA, while immediate resistance is near 4554, the recent intraday high. A break below the SMA could open a path toward 4525, while a sustained move above 4554 would test 4565–4570. Traders should monitor price reaction at these zones carefully, using them to define risk parameters and stop-loss placement. Volume patterns and subsequent candlestick formations would further clarify potential directional shifts.  \n\nFor active strategies, range-bound approaches may be most appropriate, favoring long entries near support and short positions near resistance, with tight risk management due to limited momentum. Trend-following setups should be approached cautiously until a decisive breakout confirms direction. Overall, Gold’s consolidation phase offers measured opportunities, but patience is key before committing to aggressive positions. Close attention to macroeconomic cues, such as U.S. dollar movements and inflation data, will likely drive the next meaningful trend."
+    }
+  }
+}

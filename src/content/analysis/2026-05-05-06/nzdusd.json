@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-05-05T06:13:48.270Z",
+  "price": {
+    "close": "0.58744",
+    "high": "0.58746",
+    "low": "0.58668",
+    "open": "0.58677",
+    "change": "0.13",
+    "datetime": "2026-05-05 16:00:00"
+  },
+  "indicators": {
+    "rsi": 46.92319,
+    "macd": -0.00077458391,
+    "macd_signal": -0.00083477132,
+    "sma20": 0.5873155
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：短期震荡偏多",
+      "content": "当前纽元/美元在0.5874附近小幅上涨，价格略高于20日简单移动平均线(SMA20)的0.5873，显示短期多头略占优势。然而，涨幅有限，整体走势呈现横盘震荡特征，多空力量相对均衡。  \n\nMACD指标为负值，表明动能仍偏弱，但缺少信号线对比，需关注后续柱状图变化以确认趋势延续性。价格连续在0.5867-0.5875区间波动，短期上涨可能受到阻力0.5875附近压制，而下方0.5867构成初步支撑。  \n\n结合当前震荡行情，交易者可关注区间操作机会。短线投资者可在支撑位附近尝试低多，止损设置在0.5865下方；若价格突破0.5875阻力，可考虑顺势追涨，但需谨防假突破造成的回调。  \n\n总体来看，纽元/美元短期仍偏多，但上行动能有限，建议以低吸高抛为主，保持灵活调整仓位，关注关键技术位突破和动能指标确认，避免在无明确方向的区间中追高或抄底。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair currently shows a slight upward bias, trading at 0.58744 after a modest 0.13% gain over the past 24 hours. Price action remains confined within a narrow intraday range of 0.58668 to 0.58746, indicating a lack of strong directional momentum. The short-term trend appears neutral to mildly bullish, with the latest price slightly above the 20-period simple moving average at 0.58732. This alignment suggests limited buying interest, but the market could be poised for a short-term breakout if momentum accelerates.  \n\nThe MACD reading of -0.0007745 points to a subtle bearish pressure, though the absence of the signal line limits confirmation. Traders should interpret this cautiously; the negative value reflects that the short-term momentum is slightly weaker than the longer-term trend, which aligns with the consolidation pattern observed. Without a clear RSI, reliance on moving averages and price action becomes more important. If the price sustains above the SMA(20), it may attract momentum traders seeking small intraday gains.  \n\nImmediate support is located near the recent low of 0.58668, providing a buffer against further declines. On the upside, resistance is evident around the intraday high at 0.58746. Breaching either level could trigger a short-term directional move, with the next significant resistance near 0.5880 and support around 0.5860. Traders may consider scaling in on a confirmed breakout above resistance or employing tight stop-loss orders below support to mitigate risk in this range-bound environment.  \n\nFor tactical positioning, cautious traders might adopt short-term long entries if the price consolidates above the SMA and resistance is tested again. Conversely, aggressive short-term traders could look for selling opportunities if the MACD divergence strengthens and price fails to breach resistance decisively. Overall, the pair is showing low volatility and indecision, favoring disciplined entries near key support and resistance while avoiding chasing the market in thinly ranged conditions."
+    }
+  }
+}
