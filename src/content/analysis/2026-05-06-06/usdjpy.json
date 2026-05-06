@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-05-06T06:26:11.603Z",
+  "price": {
+    "close": "156.40304",
+    "high": "156.44231",
+    "low": "156.32578",
+    "open": "156.35464",
+    "change": "0.03",
+    "datetime": "2026-05-06 16:00:00"
+  },
+  "indicators": {
+    "rsi": 34.71526,
+    "macd": -0.19670031,
+    "macd_signal": 0.0034641885,
+    "sma20": 157.53668
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：短期盘整，偏空震荡",
+      "content": "当前美元/日元报价156.403，价格位于20日均线157.537之下，显示中短期仍偏空。虽然24小时波动不大，仅0.03%，但整体行情显示多空力量处于均衡状态，短线可能延续盘整走势。高低点156.442与156.326形成今日波幅区间，反映市场暂时缺乏明确方向。  \n\nMACD指标为-0.197，处于零轴下方，显示空方略占优势，但缺少信号线确认，空头动能有限。RSI未提供，无法判断超买超卖状态，因此市场短期走势可能依赖价格对关键均线的反应而非动量指标。技术面来看，价格接近前低支撑156.325，若跌破该位置，可能打开下行空间至155.80附近。  \n\n阻力方面，20日均线157.537以及近期高点156.442构成短期压制，若行情回升并突破这些阻力，则短线可能转向多头反弹。交易者应关注价格对均线的企稳情况，谨慎判断趋势反转信号。短线交易可在支撑附近布局低多，止损稍低于156.325，或在阻力附近尝试轻仓空单，控制仓位和风险。  \n\n综合来看，美元/日元当前处于弱势整理区间，短线偏空震荡，建议以低吸高抛、顺势为主。若价格出现有效突破，可顺势跟进，但需注意波动加大时风险管理。中线投资者可等待明确趋势确认后再考虑加仓布局。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USD/JPY continues to trade with a mildly bearish tone after failing to regain momentum above the 157.00 region. The pair is currently hovering near 156.40, remaining below the 20-day moving average at 157.53, which suggests sellers still maintain short-term control. Price action has also become increasingly compressed between the recent high of 156.44 and low of 156.32, indicating reduced volatility and a potential breakout phase approaching. Unless buyers reclaim the 157.00–157.50 zone, rallies may continue to face resistance pressure.\n\nMomentum indicators also favor cautious positioning. The MACD remains in negative territory at -0.1967, reflecting weakening bullish momentum and underlying downside pressure. Although the RSI reading is unavailable, current price structure and moving-average positioning imply fading upward strength rather than an active bullish trend. The inability to sustain gains despite a slightly positive 24-hour change further supports the view that upside momentum remains limited in the near term.\n\nKey technical levels are becoming clearer as consolidation develops. Immediate support is located around 156.30, followed by a stronger downside cushion near 156.00. A break below this area could accelerate declines toward 155.60. On the upside, resistance appears at 156.45 initially, with more significant barriers near 157.00 and the SMA(20) at 157.53. A daily close above the moving average would improve the broader outlook and potentially shift sentiment back toward buyers.\n\nFrom a trading perspective, short-term traders may favor selling rallies while price remains below the 157.00–157.50 resistance zone. Conservative entries could be considered near resistance with tight risk controls above 157.60. Meanwhile, aggressive bullish positions may only become attractive if USD/JPY breaks decisively above the moving average with stronger momentum confirmation. Until then, range-bound trading strategies and disciplined position sizing remain appropriate given the pair’s compressed movement and uncertain directional bias."
+    }
+  }
+}

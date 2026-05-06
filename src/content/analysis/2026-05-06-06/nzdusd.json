@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-05-06T06:28:22.714Z",
+  "price": {
+    "close": "0.59516",
+    "high": "0.5952",
+    "low": "0.59437",
+    "open": "0.59465",
+    "change": "0.08",
+    "datetime": "2026-05-06 16:00:00"
+  },
+  "indicators": {
+    "rsi": 81.13909,
+    "macd": 0.0016409004,
+    "macd_signal": 0.0010539944,
+    "sma20": 0.590664
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：[震荡整理，待突破]",
+      "content": "当前纽元/美元(NZD/USD)的价格为0.59516，整体呈现出震荡整理的趋势。过去24小时内，该货币对的变化幅度较小，仅为0.08%。日内高点和低点均在0.5952和0.59437之间波动，表明市场情绪较为谨慎，投资者在等待更明确的市场信号。\n\n从技术指标来看，虽然RSI(14)数据缺失，但从MACD来看，其值为0.0016409004，显示出市场可能正处于一个横盘整理的阶段。结合20日简单移动平均线(SMA)的水平位置0.59066400，这表明该区域可能是近期价格的支撑位。若价格突破这一水平，可能会引发更大的波动。\n\n支撑位方面，0.59437是关键支撑区域，若有效跌破则可能加速下行。而0.5952则是短期阻力位，若价格突破此水平，可能会进一步上行至0.6000附近。因此，投资者应密切关注这一关键价位的突破情况，以便做出相应的交易决策。\n\n综合考虑，建议投资者在0.5952附近寻找卖出机会，而在接近0.59437时考虑买入以获取潜在短期收益。同时，保持灵活的止损策略，以应对市场的突发波动。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently trading at 0.59516, reflecting a slight increase of 0.08% over the last 24 hours. This modest uptick comes as the price remains encapsulated within a tight range, with a high of 0.5952 and a low of 0.59437. The current price action suggests a consolidation phase, indicating that traders are closely monitoring economic indicators and geopolitical events that could influence the pair's trajectory.\n\nIn terms of trend analysis, the NZD/USD has been experiencing a bullish sentiment lately, supported by the 20-day Simple Moving Average (SMA) at 0.590664. This indicates that the pair has been trading above its short-term average, which is a positive sign for potential upward movement. However, the lack of a defined trend and the proximity to the recent high suggests that the pair may be facing some resistance around the 0.5952 level, necessitating a close watch for breakout opportunities.\n\nTechnical indicators such as the MACD, currently at 0.0016409004, suggest a possible momentum shift, although the absence of a signal line makes interpretation challenging. The RSI is not available, but its inclusion would typically offer insight into overbought or oversold conditions. Traders should consider these indicators in the context of broader market sentiment, as they provide crucial insight into potential reversals or continuations.\n\nFor traders looking to enter the market, it may be prudent to wait for a confirmed breakout above 0.5952, which could signal a continuation of the bullish trend. Conversely, a drop below the 0.59437 support level could trigger bearish sentiment and prompt selling opportunities. Establishing clear entry and exit points based on these levels will be essential for managing risk and capitalizing on potential price movements in the NZD/USD pair."
+    }
+  }
+}

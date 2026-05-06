@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-05-06T06:29:03.505Z",
+  "price": {
+    "close": "0.78013",
+    "high": "0.78048",
+    "low": "0.78002",
+    "open": "0.78023",
+    "change": "-0.01",
+    "datetime": "2026-05-06 16:00:00"
+  },
+  "indicators": {
+    "rsi": 34.19809,
+    "macd": -0.00077917543,
+    "macd_signal": -0.00051446018,
+    "sma20": 0.782106
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：[震荡整理趋势]",
+      "content": "当前美元/瑞郎的交易价格为0.78013，显示出一定的震荡整理趋势。过去24小时内，价格变动较小，仅下降了0.01%。高点和低点分别为0.78048和0.78002，表明市场尚未显著突破近期的区间。这种横盘整理可能为后续的趋势变化做好准备。\n\n从技术指标来看，虽然RSI和MACD的数据暂时缺失，但20日简单移动平均线（SMA）为0.782106，显示出短期内的平均价格水平。考虑到当前价格低于SMA，可能存在一定的下行压力。此外，MACD在负值区域，暗示短期内卖方力量可能更强。\n\n在支撑和阻力位方面，当前支撑位可参考0.78000，而阻力位则位于0.78200附近。如果价格能够突破0.78200，可能会引发进一步的上涨。然而，若跌破0.78000，则可能会进一步下探。\n\n建议交易者在当前市场环境中保持谨慎，考虑在支撑位附近寻找买入机会，同时在接近阻力位时观察是否有反转信号。保持灵活的止损策略，以应对市场的快速变化。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF currency pair currently shows a slight bearish trend, trading at 0.78013, with a minimal 24-hour change of -0.01%. The price remains close to the recent high of 0.78048 and the low of 0.78002. This tight range suggests a consolidation phase, indicating indecision among traders. A decisive break below 0.78002 could signal further downside, while a move above 0.78048 may prompt a bullish reversal.\n\nIn terms of technical indicators, the MACD is currently negative at -0.00077917543, suggesting a bearish momentum. The absence of the RSI value limits a comprehensive analysis of overbought or oversold conditions, though the negative MACD indicates a potential for continued weakness in the pair. Traders should monitor these indicators closely for any changes that may confirm or refute the current trend.\n\nKey support for USD/CHF is identified at 0.78002, where buyers may step in if the price tests this level. Conversely, resistance is observed at 0.78210600, aligning with the 20-period Simple Moving Average. Should the price break this resistance, it could trigger a rally towards higher levels. The proximity of these levels suggests that traders should be vigilant for any signs of volatility in either direction.\n\nGiven the current market conditions, it may be prudent for traders to adopt a cautious approach. A short position could be considered if the price breaks below 0.78002, with a target towards the next significant support level. Alternatively, a buy signal could emerge if the price manages to breach the 20 SMA at 0.78210600, potentially opening up gains towards 0.78300. Risk management strategies should be employed to navigate this market's inherent volatility."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-05-06T06:27:42.626Z",
+  "price": {
+    "close": "1.35953",
+    "high": "1.35991",
+    "low": "1.35891",
+    "open": "1.35907",
+    "change": "0.03",
+    "datetime": "2026-05-06 16:00:00"
+  },
+  "indicators": {
+    "rsi": 40.96202,
+    "macd": -0.00058104774,
+    "macd_signal": -0.00031931344,
+    "sma20": 1.36091
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：[震荡整理趋势]",
+      "content": "当前美元/加元（USD/CAD）汇率在1.35953附近震荡整理，整体趋势表现出一定的疲软。价格在1.35991的高点和1.35891的低点之间波动，显示出市场缺乏明确的方向性。短期内，若价格突破上方阻力位1.36091，可能会引发进一步反弹；反之，若跌破下方支撑位1.35890，则可能会继续走弱。\n\n技术指标方面，虽然RSI(14)数据缺失，但MACD指标显示出微弱的负值，表明短期内卖压略强。与此同时，20日简单移动平均线(SMA)在1.36091附近形成了一个关键的阻力位，若价格持续低于此水平，可能会导致市场保持熊市情绪。\n\n支撑位方面，1.35890是一个重要的心理关口，若价格下破此位，可能会引发更多的卖盘。反之，若能重新站上1.36091，则有望恢复上涨动能，挑战更高的价格水平。同时，投资者应关注即将发布的经济数据，这可能会对汇率产生较大影响。\n\n综上所述，当前市场处于震荡整理状态，建议投资者保持观望，待价格突破关键支撑或阻力位后再考虑进场交易。同时，设置好止损以控制风险，避免市场波动带来的潜在损失。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently trading at 1.35953, reflecting a modest 24-hour change of 0.03%. The price movement has been relatively stable, oscillating between a high of 1.35991 and a low of 1.35891. This consolidation phase suggests that the market is in a wait-and-see mode, possibly anticipating fresh economic data or geopolitical developments that could drive volatility. Traders should be cautious during this period, as the lack of direction may lead to choppy price action.\n\nAnalyzing the recent trend, the USD/CAD appears to be in a slight bearish phase given its proximity to the 20-period Simple Moving Average (SMA) at 1.36091. The pair has struggled to maintain momentum above this level, indicating potential resistance. Should the price break above the SMA, we could see a shift towards a bullish trend, targeting higher resistance levels around 1.36200 and 1.36500. Conversely, if the price fails to hold above the current support level at 1.35890, a further decline could see targets near 1.35750.\n\nThe MACD indicator currently shows a slight bearish momentum with a value of -0.00058104774, suggesting that sellers may have the upper hand in the short term. However, without a clear signal line, this trend could reverse quickly if bullish pressure emerges. Traders should keep an eye on the RSI for potential oversold conditions, as a recovery above 30 could prompt buying interest in the pair.\n\nIn terms of trading strategy, a prudent approach would be to monitor price action closely around the identified support and resistance levels. A breakout above 1.36091 could present a buying opportunity, particularly if confirmed by a bullish MACD crossover. On the other hand, a break below 1.35890 may warrant a short position, with the potential to target lower support levels. As always, risk management should be a priority, employing stop-loss orders to safeguard against unexpected market movements."
+    }
+  }
+}

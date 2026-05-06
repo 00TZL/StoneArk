@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-05-06T06:29:43.390Z",
+  "price": {
+    "close": "4665.75863",
+    "high": "4666.17078",
+    "low": "4656.0641",
+    "open": "4661.14502",
+    "change": "0.08",
+    "datetime": "2026-05-06 16:00:00"
+  },
+  "indicators": {
+    "rsi": 81.93418,
+    "macd": 26.73614,
+    "macd_signal": 17.0065232,
+    "sma20": 4593.8879
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：[震荡整理中]",
+      "content": "当前黄金/美元(XAU/USD)的价格为4665.76，24小时内微幅上涨0.08%。从价格走势来看，黄金处于一个震荡整理的阶段，近期在4656.06至4666.17之间波动，显示出市场的犹豫情绪。若价格突破上方阻力位4666.17，则可能迎来进一步上涨的机会。\n\n在技术指标方面，RSI和MACD的具体数值尚未完全提供，但MACD值为26.73614，显示出短期内的强势动能。若RSI回升至超买区，可能会引发短期内的价格回调。结合移动平均线，20日SMA为4593.89，进一步支撑了当前的价格震荡区间。\n\n从支撑和阻力位来看，建议关注4656.06作为短期支撑位置，若跌破该位，可能引发进一步下行。然而，若价格有效突破4666.17，则下一目标位将是更高的水平。在此背景下，短期内可以考虑在支撑位附近做多，止损设在4650一线，以控制风险。\n\n综合来看，黄金/美元目前面临上行和下行的风险，投资者应密切关注市场变化，灵活调整交易策略，抓住短期机会。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current price of Gold against the US Dollar (XAU/USD) stands at 4665.76, reflecting a slight increase of 0.08% over the past 24 hours. The market has shown resilience, oscillating between a high of 4666.17 and a low of 4656.06. This stability suggests a consolidation phase, where the price is likely to find direction in the near term. Given the overall bullish sentiment in the gold market, traders should watch for potential breakouts above resistance levels that could propel the price higher.\n\nIn terms of technical indicators, the absence of a current RSI reading makes it challenging to assess overbought or oversold conditions. However, the MACD value of 26.74 indicates a bullish momentum, suggesting that buyers are currently in control. The simple moving average (SMA) of 20 days at 4593.89 provides a critical support level. Should the price retrace, this SMA could serve as a buying opportunity, particularly if accompanied by bullish candlestick patterns, indicating a reversal.\n\nKey resistance levels are situated just above the current price, with 4666.17 representing the immediate barrier. A decisive break above this level could open the door to higher targets, potentially reaching the psychological threshold of 4700. On the other hand, if the price fails to hold above the support SMA, traders should be prepared for a pullback towards the 4650 area, where further buying interest may emerge.\n\nFor trading strategies, a cautious approach is advisable. Traders might consider entering long positions on confirmed breakouts above resistance with tight stop-loss orders to manage risk. Conversely, if the price approaches the SMA support, a short-term buy could be considered, provided that the price action indicates a bounce. Maintaining a keen eye on global economic events and market sentiment will be crucial in navigating this dynamic market."
+    }
+  }
+}
