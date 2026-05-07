@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-05-07T06:29:27.559Z",
+  "price": {
+    "close": "1.17499",
+    "high": "1.17522",
+    "low": "1.1748",
+    "open": "1.17516",
+    "change": "-0.01",
+    "datetime": "2026-05-07 16:00:00"
+  },
+  "indicators": {
+    "rsi": 53.46864,
+    "macd": 0.0005042628,
+    "macd_signal": 0.00070288851,
+    "sma20": 1.17524
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：短期震荡偏弱整理",
+      "content": "当前欧元/美元报价1.17499，短期价格在1.1748至1.17522区间内波动，整体呈现微幅下行压力。价格略低于20日简单移动平均线SMA(20)1.17524，显示短期多头动力不足，多空双方在区间内博弈。  \n\nMACD指标显示差值为0.000504，虽仍为正值，但接近零轴，表明上行动能减弱，短期内可能延续震荡整理态势。缺乏RSI数据限制了超买超卖判断，但结合价格行为，市场多空力量相对均衡，投资者应关注区间突破信号。  \n\n支撑位方面，近期低点1.1748构成短线支撑，若下破该水平，可能触发进一步回落；阻力位则在1.17524附近，与SMA(20)重合，多头若突破此价位，可考虑进一步跟随。区间操作策略仍为主。  \n\n交易建议上，短线投资者可在支撑附近适度布局多单，止损设置于1.1745下方；激进投资者可等待价格突破SMA确认趋势再入场。同时，若价格跌破支撑，应谨慎减仓或考虑短线空单，严格控制风险，遵循趋势为主的操作原则。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD is currently hovering around 1.17499, showing minimal movement over the past 24 hours with a -0.01% change. The pair remains close to its intraday high of 1.17522 and low of 1.1748, suggesting a tight consolidation phase. Price action near the 20-period simple moving average at 1.17524 indicates a near-neutral short-term trend. Traders should watch for a decisive break above or below this level, as it could signal the next directional move. Overall, the market appears indecisive but slightly tilted toward bearish sentiment.  \n\nMomentum indicators provide mixed signals. The MACD reading of 0.000504 hints at a very mild bullish bias, though without the signal line for confirmation, the momentum remains uncertain. In the absence of the RSI, reliance on price and moving averages becomes more critical. The minor divergence between price and SMA may suggest that short-term momentum is weakening, and the market could be primed for either a continuation or a pullback. Monitoring volume and intraday swings will be essential for timing entries and exits.  \n\nKey technical levels are tightly packed. Immediate resistance is found at the daily high of 1.17522, while intraday support rests near 1.1748. A clear break above 1.1760 could open the door toward 1.1770, while a drop below 1.1745 may accelerate a short-term decline toward 1.1735. These levels offer practical points for stop-loss placement and profit-taking. Traders should consider the tight range and avoid over-leveraging until a more decisive breakout occurs.  \n\nGiven current conditions, short-term traders might favor range-bound strategies, buying near support and selling near resistance. Conservative positions could be held while awaiting confirmation from MACD or price closing decisively beyond the SMA. Longer-term investors may adopt a wait-and-see approach until clearer directional signals emerge. Overall, careful position sizing and disciplined risk management are advised, as EUR/USD remains in a delicate balance with limited volatility."
+    }
+  }
+}

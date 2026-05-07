@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-05-07T06:33:47.659Z",
+  "price": {
+    "close": "0.59557",
+    "high": "0.59599",
+    "low": "0.59557",
+    "open": "0.59595",
+    "change": "-0.07",
+    "datetime": "2026-05-07 16:00:00"
+  },
+  "indicators": {
+    "rsi": 54.49235,
+    "macd": 0.00069600415,
+    "macd_signal": 0.00092384895,
+    "sma20": 0.59582
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：短线偏弱震荡",
+      "content": "目前纽元/美元价格围绕0.5955水平小幅回落，呈现短线弱势整理格局。价格低于20日均线0.59582，表明多头动力不足，多空力量略向空方倾斜，但整体下行幅度有限，市场仍处于震荡阶段。  \n\n从MACD来看，MACD柱为正且微弱0.000696，显示短期多头动能略有存在，但信号线未明，无法确认趋势延续，因此短线走势可能以区间波动为主。缺乏RSI数据，动量强弱难以精准判断，但价格贴近均线附近，表明市场多空平衡。  \n\n关键支撑位在0.5950附近，如跌破可能引发进一步下行压力；阻力位位于0.5965-0.5968区间，若价格突破则短线多头或获得反弹机会。交易者可关注区间震荡策略，在支撑附近考虑低吸，在阻力附近适度获利了结，同时设置止损控制风险。  \n\n综合来看，纽元/美元短线偏弱整理，行情多以震荡为主。建议投资者保持谨慎，不宜追涨杀跌，优先选择顺势区间操作，结合支撑阻力位灵活调整仓位，以应对市场短期波动的不确定性。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently trading near 0.59557, showing minimal movement over the past 24 hours. The market appears to be in a short-term consolidation phase, hovering slightly below the 20-period simple moving average at 0.59582. This suggests a mild bearish bias as the pair struggles to sustain levels above this moving average. The tight range between the high of 0.59599 and the low of 0.59557 indicates low volatility, reflecting market indecision ahead of potential economic data releases.\n\nMomentum indicators offer mixed insights. The MACD is positive at 0.000696, signaling slight bullish momentum, but the absence of a signal line reading limits confirmation of a sustained trend. Without an RSI reading, overbought or oversold conditions cannot be assessed, though the price hovering just under the SMA may hint at mild selling pressure. Traders should monitor whether the MACD widens or contracts, as this could indicate either a breakout from the current range or continued sideways movement.\n\nKey support and resistance levels are well-defined in the immediate term. Support is likely near the recent low around 0.59550, while resistance remains at the upper bound near 0.59600. A decisive break below support could trigger further downside toward 0.59450, whereas a successful push above resistance may test 0.59650. Price action around these levels will be critical for determining short-term directional bias, particularly in a market currently lacking strong trend signals.\n\nFrom a trading perspective, range-bound strategies may be appropriate in the current environment. Short-term traders could consider buying near support with tight stop-loss orders, targeting the resistance level for potential profit. Conversely, selling near resistance could be effective if bearish pressure strengthens. Long-term positions might be better deferred until clearer momentum emerges, either confirmed by the MACD or a meaningful break of the 20-period SMA, signaling a potential trend reversal or continuation."
+    }
+  }
+}

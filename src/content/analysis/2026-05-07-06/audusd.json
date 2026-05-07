@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-05-07T06:32:05.964Z",
+  "price": {
+    "close": "0.72422",
+    "high": "0.72474",
+    "low": "0.7242",
+    "open": "0.72469",
+    "change": "-0.06",
+    "datetime": "2026-05-07 16:00:00"
+  },
+  "indicators": {
+    "rsi": 55.050079,
+    "macd": 0.00058003593,
+    "macd_signal": 0.00069558686,
+    "sma20": 0.723979
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短期震荡偏多，关键位置观察中",
+      "content": "从价格走势来看，澳元/美元目前位于0.7242附近，短期呈现轻微下行修正，但整体保持在20日均线0.72398之上，显示多头仍有一定支撑。日内价格波动不大，说明市场观望情绪浓厚，短线趋势偏向震荡整理。  \n\n技术指标方面，MACD处于正值0.00058，虽然信号线数据缺失，但正值意味着多头动能尚存；SMA(20)位于当前价下方，提供动态支撑。由于RSI缺失，无法直接判断超买超卖，但结合价格与均线，可认为短期卖压有限，多头仍有反弹空间。  \n\n支撑位方面，下方关键支撑在0.7235和0.7220附近，若价格跌破，可能触发进一步调整。阻力位主要在0.7250和0.7260附近，若突破，可望延续短线上涨动力。市场在这些关键节点附近可能出现波动加大，需要谨慎跟进。  \n\n交易建议上，短线可关注0.7240-0.7250区间内的震荡机会，倾向于逢低做多，止损设置在0.7230以下以控制风险；中长线投资者可等待价格确认突破0.7250阻力后再考虑加仓，保持仓位灵活并关注宏观消息影响。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently hovering around 0.7242, showing marginal downside movement of 0.06% over the past 24 hours. Price action remains tightly range-bound between the intraday high of 0.72474 and low of 0.7242, suggesting market indecision in the short term. Observing the 20-period SMA at 0.72398, the pair is trading slightly above this moving average, indicating a mild bullish bias, though momentum appears subdued. Traders should watch for a decisive break above 0.7250 to confirm further upside potential.  \n\nFrom a momentum perspective, the MACD reading of 0.00058, without a corresponding signal line, suggests the bullish momentum is currently weak and lacks conviction. The absence of an RSI reading limits overbought/oversold interpretation, but the narrow price range implies consolidation rather than a strong trend. Short-term traders may interpret this as a waiting period, with potential for a breakout either above resistance or below support to trigger directional moves.  \n\nKey technical levels are critical in defining potential entries and exits. Immediate resistance sits at 0.7250, where prior intraday highs capped upward moves, while support near 0.7235 aligns with the SMA and recent lows. Breaching 0.7235 could prompt a sharper correction toward 0.7220, whereas overcoming 0.7250 could open the path toward 0.7270. Range-traders might favor a strategy of buying near support and selling near resistance, keeping stops tight due to the current low volatility.  \n\nConsidering these factors, traders may adopt a cautious approach, waiting for confirmation of trend direction. A clear break above 0.7250 with increased volume could favor long positions targeting 0.7270, while a dip below 0.7235 may warrant short positions aiming for 0.7220 or lower. Maintaining strict risk management is advised, as current consolidation signals potential for sudden volatility once the market chooses a directional bias."
+    }
+  }
+}

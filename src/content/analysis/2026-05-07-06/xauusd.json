@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-05-07T06:35:27.657Z",
+  "price": {
+    "close": "4730.40537",
+    "high": "4730.67963",
+    "low": "4701.89957",
+    "open": "4702.05845",
+    "change": "0.61",
+    "datetime": "2026-05-07 16:00:00"
+  },
+  "indicators": {
+    "rsi": 68.50378,
+    "macd": 18.60489,
+    "macd_signal": 20.38677,
+    "sma20": 4696.93177
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短期震荡偏多，突破上行信号增强",
+      "content": "目前XAU/USD价格位于4730.41美元附近，较20日均线4696.93美元上方运行，显示短期多头占优，价格保持在均线上方意味着市场仍存在一定支撑动力。昨日高点4730.68和低点4701.90构成短期震荡区间，价格在区间上沿附近徘徊，突破可能引发进一步拉升。  \n\nMACD指标显示当前主线为18.60，呈现温和多头动能，尽管信号线数据缺失，但MACD正值和价格高于均线结合表明上行动能存在延续性。缺乏RSI数据限制了超买超卖判断，但结合价格走势与均线位置，可推测短线仍有上涨空间。  \n\n支撑位可关注20日均线4696.93美元及短期低点4702美元附近，若价格回调至该区域可能提供买入机会；阻力位则在近期高点4731-4740美元区间，突破该区间将有助于打开上行空间。交易者需关注突破与回踩信号，以判断趋势延续性。  \n\n交易建议上，短线偏多思路为主，可在回踩支撑区域择机做多，止损设置在4700美元下方以控制风险；若价格有效突破4740美元阻力，可考虑加仓追涨，但应留意快速反转的可能性，保持仓位灵活性和风险管理。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional forex analyst. Provide technical analysis for Gold vs US Dollar (XAU/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 4730.40537\\n- 24h Change: 0.61%\\n- High/Low: 4730.67963 / 4701.89957\\n- RSI(14): N/A\\n- MACD: 18.60489, Signal: N/A\\n- SMA(20): 4696.93177\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nGold continues to trade with a constructive bullish bias, holding near the session high at 4730.40 after gaining 0.61% over the past 24 hours. Price action remains firmly above the 20-period SMA at 4696.93, indicating that buyers still control the short-term trend. The steady sequence of higher intraday lows suggests momentum remains intact, while broader market sentiment toward safe-haven assets continues to support demand for gold. Recent technical commentary also points to an underlying bullish structure in XAU/USD despite intermittent pullbacks. \n\nThe MACD readingtlook: XAU/USD Technical Analysis](https://www.forex.com/en-us/news-and-analysis/gold-2026-outlook-xau-usd-technical-analysis/?utm_source=chatgpt.com)** · *forex.com*\n> The technical gold 2026 outlook would remain positive for as long as those series of higher highs and higher lows remain intact.\n\n\nThe MACD reading at 18.60 reflects strengthening upside momentum and confirms positive market participation on recent advances. Although the RSI value is unavailable, current price behavior near the daily high implies that bullish momentum has not yet significantly weakened. Holding above the SMA is particularly important because it reinforces trend continuation potential and indicates that dips are still being treated as buying opportunities rather than signs of reversal. Analysts continue to highlight higher highs and higher lows as the dominant technical pattern for gold. \n\nImmediate resistance is positioned around 4731-is](https://www.forex.com/en-us/news-and-analysis/gold-2026-outlook-xau-usd-technical-analysis/?utm_source=chatgpt.com)** · *Forex*\n> The technical gold 2026 outlook would remain positive for as long as those series of higher highs and higher lows remain intact.\n\n\nImmediate resistance is positioned around 4731-4740, which aligns closely with the current daily peak. A decisive breakout above this zone could open the door toward 4780 and potentially the psychological 4800 level. On the downside, initial support is seen near 4700, followed by stronger structural support around the 4690-4680 region where the 20-day moving average is located. If price slips below those levels, sellers may attempt to push XAU/USD toward 4640. Recent market forecasts continue to identify the 4700 region as a significant short-term pivot area. \n\nFrom a trading perspective, bullish setups remain favored while price stays above 4690. Short-term traders may consider buyingyforex.com/forex-technical-analysis/2026/04/xauusd-analysis-23-april-2026/244338?utm_source=chatgpt.com)** · *DailyForex* · 2026/4/23\n> Today's Gold Trading Signals: Buy gold from the support level of $4630 with a target of $4820 and a stop-loss at $4600.\n\n\nFrom a trading perspective, bullish setups remain favored while price stays above 4690. Short-term traders may consider buying pullbacks toward support zones with tight risk management below 4675. Momentum traders could also monitor a confirmed breakout above 4740 for continuation opportunities. However, with gold trading close to recent highs, volatility may increase sharply near resistance, making disciplined position sizing essential. A failure to sustain above 4700 would weaken the current bullish outlook and increase the likelihood of a corrective retracement."
+    }
+  }
+}

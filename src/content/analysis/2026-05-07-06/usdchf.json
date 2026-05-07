@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-05-07T06:34:38.321Z",
+  "price": {
+    "close": "0.77912",
+    "high": "0.77928",
+    "low": "0.7789",
+    "open": "0.77903",
+    "change": "0.01",
+    "datetime": "2026-05-07 16:00:00"
+  },
+  "indicators": {
+    "rsi": 46.64745,
+    "macd": -0.00044843014,
+    "macd_signal": -0.00061720877,
+    "sma20": 0.778979
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：短期震荡偏多，关注关键阻力位",
+      "content": "当前美元/瑞郎在0.779附近小幅震荡，短期价格波动有限，但整体保持略微上行趋势。价格略高于20日简单移动均线(SMA20=0.77898)，显示短期支撑仍然有效，多头略占优势。日内价格保持窄幅整理，短线投资者需关注突破信号。  \n\nMACD目前为-0.000448，尽管数值为负，但仍接近零轴，表明市场动能偏弱且多空力量接近平衡。缺乏RSI数据增加了趋势判断的不确定性，但结合价格与SMA20位置，可推测多头仍有尝试拉升的可能。短线交易需谨慎控制仓位。  \n\n支撑位在0.7789附近，若跌破可能引发进一步回调至0.7785区域；阻力位关注0.7793-0.7795区间，多次试探未突破可能形成短线压制。突破阻力将有机会延伸至0.7800心理关口，反之跌破支撑则需警惕下行风险加大。  \n\n交易建议上，短线可考虑在支撑附近布局小幅多单，止损控制在0.7787以下；若价格向上突破0.7793-0.7795阻力，可顺势加仓追涨，但若持续震荡或MACD持续走弱，则应谨慎操作，避免追高风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "USD/CHF has been exhibiting a subtle upward bias over the past 24 hours, with the pair hovering near 0.77912. Price action suggests mild bullish momentum as it trades above the 20-period simple moving average (SMA), currently at 0.778979. While gains are modest, the market seems to respect the SMA as short-term support, signaling that buyers are gradually stepping in. Intraday highs at 0.77928 mark the near-term resistance, and any sustained break above this level could trigger further upside toward 0.7800.  \n\nThe MACD reading of -0.000448 indicates that bearish momentum slightly outweighs bullish pressure, although the magnitude is very small, hinting at indecision. Without a signal line or RSI data, confirmation from price action and SMA alignment becomes crucial. Traders should watch for momentum shifts: a crossover above the SMA or a bullish MACD turn could reinforce an upward trend, whereas a drop below 0.7789, the daily low, may indicate short-term correction or consolidation.  \n\nSupport lies near 0.7789, coinciding with yesterday’s low, while resistance is observed at 0.77928 and psychological 0.7800. These levels provide potential entry and exit points for short-term traders. A conservative strategy could involve buying on dips near support with a tight stop-loss below 0.7787 to limit risk, targeting a move toward 0.7800. Conversely, aggressive sellers might wait for a failure to breach resistance before opening short positions.  \n\nGiven the narrow range and minimal 24-hour price change, trading should remain disciplined. Confirmation through candlestick patterns or volume spikes would improve the reliability of trades. The current environment favors range-bound strategies, with slight bullish bias above the SMA. Monitoring macroeconomic events, such as U.S. data releases or Swiss National Bank statements, is advised to anticipate sudden volatility that could disrupt technical patterns."
+    }
+  }
+}

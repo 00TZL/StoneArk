@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-05-07T06:32:53.275Z",
+  "price": {
+    "close": "1.36427",
+    "high": "1.36432",
+    "low": "1.36371",
+    "open": "1.36384",
+    "change": "0.03",
+    "datetime": "2026-05-07 16:00:00"
+  },
+  "indicators": {
+    "rsi": 63.71301,
+    "macd": 0.00078224609,
+    "macd_signal": 0.00073286071,
+    "sma20": 1.36303
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：短期震荡偏多，存在上行压力",
+      "content": "当前美元/加元价格位于1.36427，略高于20日均线1.36303，显示短期多头略占优势。价格在过去24小时波动幅度有限，低点1.36371与高点1.36432形成窄幅整理格局，暗示市场在等待进一步突破信号。整体趋势偏震荡，但短线仍偏向多头。  \n\nMACD指标显示为0.00078224609，虽缺少信号线参考，但正值表明短期动能偏向多头。RSI数据缺失，无法直接判断超买或超卖情况，但结合均线和价格波动，可初步认为买盘力量仍存在，短期上行压力逐渐累积。  \n\n技术支撑位关注1.3630附近，为20日均线支撑区；阻力位则在1.3645–1.3650一线，若价格突破该区间，可能开启进一步上行行情。当前价格紧贴均线运行，若跌破支撑，则短线可能回调测试1.3625附近。  \n\n交易策略上，建议短线以逢低买入为主，重点关注支撑反弹信号，同时设置止损于1.3625下方以控制风险。若价格突破1.3650阻力，可考虑轻仓顺势加仓，捕捉短线延续上涨机会，但需警惕窄幅震荡带来的假突破风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently exhibiting a mildly bullish bias, hovering near 1.3643, just above the 20-period simple moving average at 1.3630. The modest 24-hour price change of 0.03% suggests consolidation within a narrow range, indicating that market participants are waiting for fresh catalysts, such as economic data from the U.S. or Canada. Short-term price action shows resilience near daily lows, highlighting potential accumulation around the 1.3637 support level. Traders should monitor whether the pair can sustain above the SMA to confirm continuation.  \n\nMomentum indicators offer mixed signals due to incomplete data. The MACD reading of 0.00078, without a signal line, hints at nascent bullish momentum, though confirmation is limited. In the absence of RSI information, price action relative to moving averages becomes more critical. The close above the 20-period SMA suggests underlying strength, while the narrow intraday range implies low volatility. Market participants may look for additional momentum indicators or price confirmation before committing to larger positions.  \n\nKey support and resistance levels frame the near-term trading range. Immediate support is positioned around 1.3637, reflecting the daily low, while short-term resistance lies at 1.3643, coinciding with the intraday high. Breaching the resistance with strong volume could open the path toward 1.3660, while a breakdown below support may test the 1.3625 area. These levels serve as practical reference points for both swing traders and scalpers seeking defined entry and exit zones.  \n\nFor trading strategy, a cautious approach is recommended given the limited volatility. Short-term traders might consider range-bound tactics, buying near support and selling near resistance, while watching for breakout signals. Momentum traders may wait for MACD confirmation and additional technical overlays, such as Bollinger Bands or a completed RSI, to validate directional strength. Risk management remains paramount, as the pair could react swiftly to U.S. employment reports or Canadian inflation data, which often trigger sudden shifts in sentiment."
+    }
+  }
+}
