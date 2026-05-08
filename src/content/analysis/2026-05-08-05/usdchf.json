@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-05-08T05:55:42.828Z",
+  "price": {
+    "close": "0.77988",
+    "high": "0.78014",
+    "low": "0.77972",
+    "open": "0.78",
+    "change": "-0.02",
+    "datetime": "2026-05-08 15:00:00"
+  },
+  "indicators": {
+    "rsi": 53.21368,
+    "macd": 0.00040148102,
+    "macd_signal": 0.00030596139,
+    "sma20": 0.7792645
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：短线维持横盘整理趋势",
+      "content": "目前美元/瑞郎在0.7797-0.7801区间震荡，短期内价格徘徊在SMA(20) 0.77926上方，显示多头略占优势，但涨势动力有限。24小时微幅下跌0.02%，反映市场观望情绪明显。MACD微弱正值0.0004，趋势尚未形成明显加速，暗示短期可能继续横盘整理。  \n\n技术指标显示，尽管RSI暂不可用，但价格稳守短期均线支撑，表明下方支撑仍有效。上方阻力位集中在0.7802附近，若突破需关注多头能否持续发力。MACD与均线结合分析，当前多空力量接近平衡，短线趋势偏中性。  \n\n支撑位方面，近期低点0.7797和SMA(20) 0.7792形成初步支撑；阻力位在0.7801至0.7802区间，多次触及未能有效突破，形成上方压制。投资者可关注价格接近支撑的买入机会，同时防范突破阻力后的短线回调风险。  \n\n交易策略上，建议以区间操作为主，短线可在支撑附近布局多单，止损略低于0.7792；若价格突破0.7802，可顺势考虑追多，但需控制仓位，严格止损。整体来看，美元/瑞郎短期仍以横盘震荡为主，趋势确认需等待突破或MACD动能放大。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is exhibiting a subdued intraday movement, hovering near 0.77988, with minimal change over the past 24 hours. Price action indicates a consolidation phase around the short-term moving average of 0.77926, suggesting a lack of decisive directional momentum. The narrow daily range of 0.77972–0.78014 reflects market indecision, with buyers and sellers in equilibrium. Traders should note that a breakout above the upper bound could signal a resumption of bullish sentiment, while a breach of the lower range may open the path to further downside.\n\nThe MACD reading of 0.0004, while slightly positive, is close to the zero line, indicating a weak bullish bias without strong conviction. In the absence of a signal line and RSI, momentum analysis remains limited, emphasizing reliance on price action and moving averages. The SMA(20) acts as a dynamic support level at 0.77926; sustained trading above it would reinforce short-term bullishness, whereas a decisive drop below this level could encourage selling pressure, especially near the psychological 0.7790 mark.\n\nSupport and resistance levels are critical in this range-bound environment. Immediate support sits at 0.7790, followed by 0.7785, where prior price reactions have occurred. On the upside, resistance levels are identified at 0.7802 and 0.7805, representing recent highs where supply may absorb buying interest. Traders should watch these levels closely for potential reversal signals or breakouts, as range-bound strategies like scalping or swing trades could be more effective in the current market scenario.\n\nFor trading suggestions, cautious participants may consider waiting for confirmation of a breakout or breakdown before entering positions. Short-term buyers could target 0.7802–0.7805 with tight stop-losses below 0.7790, while short sellers may look for rejections at resistance with stops above 0.7805. Given the limited volatility and lack of strong momentum indicators, risk management is essential, and positions should be sized conservatively to avoid exposure to sudden, sharp moves often seen in low-liquidity periods."
+    }
+  }
+}

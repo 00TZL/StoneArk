@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-05-08T05:51:10.600Z",
+  "price": {
+    "close": "1.17369",
+    "high": "1.17377",
+    "low": "1.17332",
+    "open": "1.1735",
+    "change": "0.02",
+    "datetime": "2026-05-08 15:00:00"
+  },
+  "indicators": {
+    "rsi": 45.55924,
+    "macd": -0.00059150797,
+    "macd_signal": -0.00047559276,
+    "sma20": 1.1746
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：短线震荡偏弱，关注关键支撑",
+      "content": "当前欧元/美元报价1.17369，较昨日波动幅度有限，整体呈短线震荡格局。从价格走势来看，多空力量均衡，但略显承压，短期趋势偏弱，需警惕下行突破的可能性。高低点1.17377/1.17332显示价格区间窄，反映市场观望情绪浓厚。  \n\n技术指标显示，MACD负值且持续下行，暗示空方仍占优势，但未形成明确发散，趋势延续性有限。20日简单移动平均线SMA(20)位于1.17460之上，价格略低于均线，说明短线压力存在，多头难以有效上攻，RSI数据缺失，无法进一步判断超买超卖，但整体偏中性至弱势。  \n\n支撑位方面，近期低点1.1733为短线重要支撑，跌破可能引发进一步下行压力；阻力位位于SMA(20)1.1746附近，若突破则有望测试1.1750心理关口。投资者应关注价格在区间内的反复震荡，谨慎操作，避免追涨杀跌。  \n\n交易建议上，短线偏向观望或轻仓做空为主，逢高1.1745附近可尝试空单，止损设置于1.1750上方；支撑企稳1.1733可考虑短线反弹多单，但需控制仓位。整体策略以顺势而行，结合盘中波动灵活调整。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair is exhibiting a subdued price movement, consolidating around the 1.1737 region after minor intraday fluctuations. The narrow daily range between 1.17332 and 1.17377 suggests limited momentum, indicating that the market is awaiting a catalyst to break out of this tight channel. The pair remains slightly below its 20-period simple moving average at 1.17460, implying that short-term bearish pressure could be emerging, though the lack of pronounced momentum keeps the trend indecisive.\n\nMomentum indicators are signaling subtle caution. The MACD is negative at -0.00059, hinting at mild bearishness, although without the signal line, the strength of this signal is uncertain. The absence of RSI data complicates overbought or oversold assessments, but the subdued price action and tight trading range imply neither extreme is currently present. Overall, technical momentum suggests that traders should monitor for shifts in either direction, as the current market does not favor a strong trend.\n\nSupport appears near 1.17330, slightly below the recent low, acting as a potential floor for price retracements. Resistance is identified around 1.17460, aligned with the 20-period SMA, marking the first significant ceiling for upward attempts. A sustained break above this level could trigger short-term bullish continuation, while a decisive breach below support may accelerate downside risk. These levels provide clear zones for tactical entry and exit decisions, helping to manage risk effectively in the current environment.\n\nFor trading strategy, a cautious approach is advisable. Short-term traders may consider range-bound trades, buying near support and selling near resistance, with tight stops given the narrow range. Trend-following positions should be avoided until the pair breaks decisively from this consolidation, supported by stronger momentum signals. Monitoring upcoming economic data releases, particularly U.S. inflation or Eurozone PMI reports, may offer the breakout catalyst necessary to establish a clearer directional bias.  \n\nWord count: 272"
+    }
+  }
+}

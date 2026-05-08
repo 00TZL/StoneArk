@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-05-08T05:54:14.250Z",
+  "price": {
+    "close": "1.36562",
+    "high": "1.36567",
+    "low": "1.3653",
+    "open": "1.36562",
+    "change": "-0.00",
+    "datetime": "2026-05-08 15:00:00"
+  },
+  "indicators": {
+    "rsi": 61.26954,
+    "macd": 0.00078823256,
+    "macd_signal": 0.00080346756,
+    "sma20": 1.36478
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：短线震荡偏多",
+      "content": "目前美元/加元维持在1.3656附近窄幅波动，全天价格几乎持平，显示短线市场多空力量相对均衡。日内高低差仅0.00037，反映出价格缺乏明显方向，整体呈现震荡整理格局。短期趋势仍偏多，但需关注突破信号。  \n\n技术指标方面，MACD显示微弱正值0.000788，暗示多头略占优势，但缺乏信号线数据，不能形成强烈趋势确认。SMA(20)位于1.36478，当前价格略高于均线，短期支撑明显。RSI指标未提供，需结合成交量和价格形态判断超买超卖情况。  \n\n支撑位可关注1.3645-1.3648区域，这一带为短期均线支撑与日内低点叠加，若跌破则可能引发进一步回调。阻力位在1.3660-1.3662附近，接近日内高点，突破该区域可确认多头延续，带动短线上行空间。  \n\n交易建议上，短线交易者可在支撑区域尝试轻仓做多，止损设置在1.3643下方，目标看向阻力区域；激进者可等待价格突破1.3662后顺势入场。若价格跌破均线支撑，则应谨慎控制多头仓位，避免追高。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "USD/CAD is showing a neutral to slightly bullish bias near 1.3656, with the pair hovering just above the 20-period simple moving average at 1.3648. Price action over the last 24 hours has been tightly range-bound, with a minimal 0.00% change, suggesting consolidation and indecision among traders. The high of 1.36567 and low of 1.3653 reinforce the lack of momentum, indicating that market participants are waiting for fresh catalysts, possibly from U.S. economic data or Canadian employment figures.  \n\nThe MACD reading of 0.000788 suggests a mild bullish tilt, though the absence of a signal line value limits the strength of this interpretation. While the moving average is slightly below the current price, it may act as short-term dynamic support. RSI data is unavailable, but the narrow trading range implies neither overbought nor oversold conditions. Overall, indicators signal caution, with potential for a breakout either above the intraday high or below the low if volatility picks up.  \n\nKey technical levels to watch include immediate support at 1.3645–1.3648, coinciding with the SMA(20), and resistance around 1.3660–1.3662, reflecting recent highs. A sustained move above this resistance could open the door for a test of 1.3670, while a break below support might target 1.3635–1.3630. Traders should monitor for confirmation of directional momentum before committing, as current consolidation may lead to false breakouts.  \n\nShort-term trading strategies could favor range-bound approaches, buying near support and selling near resistance, while keeping stop-losses tight. Breakout strategies may be more suitable for intraday traders, ideally waiting for a decisive close beyond 1.3662 or 1.3645. Risk management is key in this low-volatility environment, and watching for cross-market correlations, such as oil prices affecting the CAD, could provide additional context for positioning."
+    }
+  }
+}

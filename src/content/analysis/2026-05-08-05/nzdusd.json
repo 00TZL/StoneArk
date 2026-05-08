@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-05-08T05:54:58.332Z",
+  "price": {
+    "close": "0.59466",
+    "high": "0.59493",
+    "low": "0.59437",
+    "open": "0.5945",
+    "change": "0.03",
+    "datetime": "2026-05-08 15:00:00"
+  },
+  "indicators": {
+    "rsi": 46.60384,
+    "macd": -0.0004615222,
+    "macd_signal": -0.00036581822,
+    "sma20": 0.595337
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：短期震荡偏弱",
+      "content": "纽元/美元当前价格在0.59466附近微幅波动，日内高低仅在0.59493至0.59437之间，显示市场短期缺乏明确方向。从趋势来看，价格略低于20日简单移动平均线0.595337，表明短线偏弱，但整体仍维持区间震荡格局。多空双方观望情绪浓厚，短期趋势不宜过度追涨杀跌。  \n\n技术指标方面，MACD为-0.00046152220，虽然信号线未给出，但负值暗示空头动能略占上风。结合价格接近均线但未显著跌破，短线压力仍然存在。若RSI可用，预计将在中性区间徘徊，进一步佐证市场暂无强烈趋势，震荡整理可能持续。  \n\n支撑位方面，可关注近期低点0.59437及心理关口0.5940附近，如跌破或出现放量，则可能引发进一步下行。阻力位则在0.5953-0.5955区间，接近20日均线位置，若突破需观察成交量确认有效性。价格在区间内可能形成反复试探格局。  \n\n交易建议上，短线投资者可考虑区间操作策略，在支撑附近尝试低多，阻力区域减仓或轻仓空单，严格控制止损。中线投资者应耐心等待趋势明朗后再布局，避免追高或逆势操作，以降低波动风险。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently exhibiting a subtle consolidation around the 0.5946 region, following a narrow daily range of 0.59437–0.59493. While the 24-hour change is modest at 0.03%, the pair remains slightly below its 20-period simple moving average of 0.59534, suggesting minor short-term bearish bias. Price action shows limited momentum, with the market appearing indecisive after recent retracements from higher levels, indicating that a clear directional breakout may be needed to confirm trend continuation.  \n\nFrom a technical standpoint, the MACD reading of -0.00046 signals that the bearish momentum is weak but present. The absence of a MACD signal line and RSI data limits definitive momentum interpretation; however, the negative MACD value hints that sellers have a slight edge. Traders should observe whether the MACD converges toward zero, which may indicate a potential neutral phase or an early sign of a reversal. The proximity of the current price to the 20 SMA further reinforces a tentative balance between bulls and bears.  \n\nKey support is observed near 0.5940, which aligns with the recent daily low and may serve as a buffer against deeper declines. On the upside, immediate resistance resides at 0.5953, the level of the 20-period SMA, followed by a higher barrier around 0.5960, which has previously capped upward moves. A break above this resistance could open room for a short-term rally, while a decisive drop below 0.5940 could prompt a test of the next psychological support around 0.5935.  \n\nFor trading considerations, cautious range-bound strategies may be optimal in the current environment. Short-term buyers could look for opportunities above 0.5953 with tight stops near 0.5940, targeting the 0.5960 level. Conversely, sellers may consider positions under 0.5940, keeping a close watch on price reaction at the SMA. Given the current low volatility and lack of clear momentum, patience is warranted, emphasizing that trades should be guided by confirmation from a breakout or additional indicator signals."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-05-08T05:52:40.386Z",
+  "price": {
+    "close": "156.84398",
+    "high": "156.88607",
+    "low": "156.83497",
+    "open": "156.86807",
+    "change": "-0.01",
+    "datetime": "2026-05-08 15:00:00"
+  },
+  "indicators": {
+    "rsi": 57.021885,
+    "macd": 0.10895112,
+    "macd_signal": 0.098507121,
+    "sma20": 156.70031
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：短期震荡偏多",
+      "content": "从当前价格156.84398来看，美元/日元在短期内呈现轻微上行趋势，但整体波动幅度有限，仅比昨日高点156.88607略低，显示市场多空力量相对均衡。价格略高于20日简单移动平均线SMA(20)156.70031，表明短线多头仍占上风，但动能尚不足以形成明显突破。  \n\nMACD指标当前为0.10895112，虽缺少信号线参考，但正值显示多头动能存在。结合价格在高低点156.88607与156.83497之间窄幅震荡，可推测市场仍处于震荡整理阶段，短线趋势不明朗，需关注后续能否稳住156.84上方。  \n\n关键支撑位位于156.700附近，若价格跌破该区域，短线可能转为弱势；阻力位则在156.88附近，若多头力量增强突破，则有望测试157整数关口。交易者可关注价格在支撑和阻力间的区间震荡，并结合动能指标调整仓位。  \n\n交易策略上，建议短线以震荡偏多为主，低位可适量买入，设置止损156.70下方；高位遇阻可适度减仓或观望，等待MACD和价格形成明确突破信号，以控制风险同时捕捉区间波动收益。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USD/JPY is currently exhibiting a subtle consolidation phase around the 156.84 level, reflecting a pause after recent upward momentum. The pair’s slight decline of 0.01% over the past 24 hours indicates indecision among traders, with neither bulls nor bears taking firm control. Price remains above the 20-period simple moving average at 156.70, suggesting that the near-term trend retains a mild bullish bias. Traders may interpret this as a potential setup for continuation should volume pick up.  \n\nThe MACD reading of 0.1089, while positive, lacks a corresponding signal line, which limits definitive conclusions on momentum. Nevertheless, the positive value indicates that short-term momentum is marginally tilted toward buyers. Absence of a current RSI value reduces clarity on overbought or oversold conditions, so traders should exercise caution. Monitoring for divergence between price and MACD could provide early warning of trend exhaustion or reversals, especially near critical levels.  \n\nImmediate resistance appears near the intraday high of 156.886, a level that, if broken decisively, could open the way toward 157.00 psychological territory. Support is defined around the recent low at 156.835 and the SMA(20) at 156.70, providing a cushion for any short-term pullbacks. A failure to hold these supports may indicate short-term bearish retracement, making these levels useful for stop placement or conservative entry points.  \n\nFor trading strategies, a range-bound approach may be prudent in the current environment, waiting for either a breakout above 156.88 or a breakdown below 156.70 to confirm directional bias. Aggressive traders might consider small long positions near SMA support with tight stops, targeting intraday resistance. Conversely, short positions could be considered if the pair closes below the SMA and key support levels, with risk management calibrated to market volatility. Overall, patience and discipline are key given the limited directional conviction at present."
+    }
+  }
+}

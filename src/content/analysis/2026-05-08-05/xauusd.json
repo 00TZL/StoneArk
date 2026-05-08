@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-05-08T05:56:28.394Z",
+  "price": {
+    "close": "4728.33508",
+    "high": "4729.21562",
+    "low": "4710.9813",
+    "open": "4714.5991",
+    "change": "0.33",
+    "datetime": "2026-05-08 15:00:00"
+  },
+  "indicators": {
+    "rsi": 56.81211,
+    "macd": 3.602,
+    "macd_signal": 3.85458,
+    "sma20": 4718.32238
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短期震荡偏多",
+      "content": "目前XAU/USD价格位于4728.34附近，较20日均线4718.32略高，显示短期仍具上行动能。价格在高点4729.22与低点4711.00间波动，反映市场存在一定支撑与阻力压力。整体来看，价格突破SMA20后，短线多头情绪偏强，但波动幅度有限。  \n\nMACD指标显示当前快线为3.602，表明多头动能在逐步增强，但缺乏信号线参考，需要关注未来交叉变化确认趋势延续。由于RSI数据缺失，动能过热或超卖情况尚不明朗，短线仍需关注价格是否维持在20日均线上方。  \n\n关键支撑位初步可参考4710-4715区间，一旦下破可能触发回调压力。阻力位在4729-4732附近，多次测试该区域若未有效突破，可能出现短线回落。短线震荡格局明显，交易者可根据价格靠近支撑买入、接近阻力减仓或观望为主。  \n\n交易策略上，短线偏多操作可控制仓位，设置合理止损以防突发回调。若价格稳步突破4730并保持上行，趋势有望进一步延伸至4740附近。反之，若失守4710，则需谨慎防范空头回踩，短线操作宜灵活调整。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold is currently showing a moderate bullish tone against the US Dollar, trading at 4728.33, slightly above its 20-period SMA of 4718.32. This indicates that the short-term momentum favors buyers, though the narrow trading range between the 24-hour high of 4729.22 and low of 4710.98 suggests limited volatility and market indecision. Traders should monitor intraday price action for potential breakouts, as consolidation around the SMA often precedes a directional move, especially in metals with strong macroeconomic sensitivity.  \n\nThe MACD reading of 3.602, without an available signal line, points toward a mild upward momentum. While the exact crossover status cannot be confirmed, the positive MACD suggests buyers currently have the edge. The absence of the RSI prevents overbought or oversold assessment, but the slight 0.33% gain in 24 hours aligns with a cautious bullish bias. Investors may watch for momentum acceleration if the MACD continues rising above its recent levels, which could trigger short-term bullish extensions.  \n\nImmediate support appears near 4710, reflecting the intraday low, with a secondary zone around 4700, a psychologically significant level often reinforced by prior trading activity. Resistance is near 4729, the daily high, and further near 4740, which may act as a near-term cap if bullish momentum intensifies. A break above 4740 could signal a stronger rally toward 4750–4760, while a drop below 4700 may expose bears to more decisive downside pressure. These levels provide a clear framework for entry and exit points.  \n\nGiven current conditions, short-term traders might consider buying near support levels with tight stops below 4700, targeting incremental gains toward 4729–4740. Conversely, aggressive breakout traders could wait for confirmation above 4740 before entering long positions. Risk management is critical, as gold is highly responsive to US Dollar movements, inflation data, and geopolitical events. Overall, while the trend is mildly bullish, a measured approach with clear stop-loss levels is advisable for both day trading and swing strategies."
+    }
+  }
+}
