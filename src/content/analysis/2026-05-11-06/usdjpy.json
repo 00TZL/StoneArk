@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-05-11T06:59:54.311Z",
+  "price": {
+    "close": "157.03244",
+    "high": "157.1474",
+    "low": "157.00656",
+    "open": "157.13987",
+    "change": "-0.07",
+    "datetime": "2026-05-11 16:00:00"
+  },
+  "indicators": {
+    "rsi": 65.36731,
+    "macd": 0.11466987,
+    "macd_signal": 0.082619696,
+    "sma20": 156.84296
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：短期盘整偏多震荡",
+      "content": "当前美元/日元维持在157.03附近，价格小幅回落0.07%，整体表现为短期盘整偏多。日内高点157.1474与低点157.00656显示市场波动区间较窄，多空力量相对均衡，但上方承压略显明显。价格仍位于20日简单移动平均线SMA(20)156.84296之上，显示短期多头仍具支撑。  \n\n技术指标方面，MACD目前为0.1147，虽未提供信号线数据，但正值表明多头动能存在，但力度有限。RSI缺失数据无法确认超买超卖状态，整体技术面偏向谨慎，投资者应关注价格突破SMA及近期高低点的可能性。  \n\n支撑位可参考SMA(20)156.84及近期低点157.01附近，若跌破此区间可能触发短线回调。阻力位集中在近期高点157.15上方，若价格突破并站稳，有望延续短期多头行情。市场仍处于区间震荡，波动幅度较小。  \n\n交易策略上，建议短线多单可在支撑位附近布局，止损设于低点下方，目标锁定在157.15阻力区域；而激进空单可关注价格反弹受阻迹象，再行介入，控制仓位，防止趋势突变带来的风险。整体操作需兼顾风险管理与顺势操作。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USD/JPY has recently hovered around 157.03, showing a slightly negative bias with a 24-hour change of -0.07%. Price action has tested a short-term high of 157.1474 and a low of 157.00656, suggesting a tight consolidation zone. The market is exhibiting a subtle upward trend, supported by the 20-period SMA at 156.84296, which currently acts as a dynamic support. While momentum appears mild, the currency pair is trading just above this moving average, indicating a cautiously bullish undertone.  \n\nThe MACD reading of 0.1147, although lacking a signal line for confirmation, hints at mild positive momentum. The absence of a valid RSI limits the assessment of overbought or oversold conditions, but the close proximity of price to the SMA implies equilibrium between buyers and sellers. Traders should note that minor fluctuations around 157 could lead to short-term range trading, with limited directional conviction unless confirmed by additional technical signals.  \n\nKey support can be identified at the recent swing low near 157.00, which has shown resilience in the past sessions. Resistance is seen at the intraday high of 157.15, and a breakout above this level could open the path toward the 157.50 region. On the downside, a decisive break below the 20-period SMA could signal a shift toward bearish control, potentially targeting 156.70 as the next support. These levels offer a framework for risk management and potential entry points.  \n\nFor trading considerations, short-term traders may look for pullback opportunities near the SMA for buy positions, keeping stops slightly below 157.00. Conversely, a strong break above 157.15 could warrant momentum-driven long positions. Caution is advised given the narrow trading range and low volatility; using tight stop-losses and monitoring broader market cues such as U.S. Treasury yields or Bank of Japan commentary can help refine positioning and avoid being caught in whipsaw moves."
+    }
+  }
+}

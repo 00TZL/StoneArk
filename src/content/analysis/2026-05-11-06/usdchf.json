@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-05-11T07:03:26.041Z",
+  "price": {
+    "close": "0.77787",
+    "high": "0.77792",
+    "low": "0.77775",
+    "open": "0.77775",
+    "change": "0.01",
+    "datetime": "2026-05-11 17:00:00"
+  },
+  "indicators": {
+    "rsi": 50.2139,
+    "macd": 0.00038399022,
+    "macd_signal": 0.00035685125,
+    "sma20": 0.7778305
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：横盘震荡偏多",
+      "content": "当前美元/瑞郎维持在0.77787附近，价格轻微上扬，但整体波动幅度极小。短线走势显示市场缺乏明确方向，短期均线SMA(20)位于0.7778305，价格略高于均线，暗示多头略占优势，但横盘震荡特征明显。\n\nMACD显示0.000384的正值，尽管信号线未提供，但仍提示多头势能存在。然而，缺乏RSI信息使超买或超卖状态难以确认，交易者需关注价格突破均线及MACD变化作为趋势确认的参考。\n\n支撑位可关注0.77775区域，如价格回落至此仍能稳住，可能形成短线买入机会。阻力位位于0.77792附近，若价格突破此高点，将增加上行动能，反之若受阻回落，则可能延续横盘震荡。\n\n交易策略上，建议短线以区间操作为主，低位可小量布局多单，高位谨慎止盈或观望。若价格突破阻力并伴随MACD增强，可考虑跟进趋势单，中长线投资者仍应以风险管理为核心，避免频繁追涨杀跌。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is exhibiting a narrow trading range around the 0.7778 level, indicating a period of consolidation after recent minor fluctuations. The latest price sits slightly above the 20-period simple moving average (SMA), suggesting a tentative bullish bias in the short term. Price action between the intraday high of 0.77792 and low of 0.77775 indicates limited volatility, hinting at market indecision. Traders may interpret this sideways movement as a potential precursor to a more decisive directional move once a breakout occurs.  \n\nThe MACD reading of 0.000384 above zero signals modest bullish momentum, though the absence of a signal line makes crossovers inconclusive for immediate trade signals. With RSI currently unavailable, momentum confirmation is limited, which underscores the need for caution. Traders should monitor price behavior relative to the SMA and intraday levels, as a decisive close above 0.7780 could validate a short-term bullish continuation, whereas a fall below 0.7777 may increase the probability of a bearish retracement.  \n\nImmediate support appears near 0.7777, reinforced by the lower intraday range and SMA acting as a dynamic support. Resistance is located around 0.7780–0.7781, corresponding with recent highs and a psychological barrier for the pair. Breach of these levels could set the stage for a trend extension. For risk-conscious traders, waiting for confirmation of a breakout from this narrow channel could improve trade reliability and reduce exposure to false moves in the low-volatility environment.  \n\nTrading strategies should emphasize short-term positioning with tight stops due to the limited price range. Bullish traders could consider buying near the SMA with targets around 0.7781–0.7783, while bearish traders might look for shorts if the pair decisively breaks below 0.7777. Overall, the market currently favors patience, watching for volatility expansion, while trend indicators hint at a slight upward bias, but confirmation from price action is essential before committing to significant positions."
+    }
+  }
+}

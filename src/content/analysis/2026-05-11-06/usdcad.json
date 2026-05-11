@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-05-11T07:01:41.799Z",
+  "price": {
+    "close": "1.36791",
+    "high": "1.3693",
+    "low": "1.36765",
+    "open": "1.36923",
+    "change": "-0.10",
+    "datetime": "2026-05-11 16:00:00"
+  },
+  "indicators": {
+    "rsi": 49.1062,
+    "macd": 0.00039949021,
+    "macd_signal": 0.00032295473,
+    "sma20": 1.36786
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：短线震荡偏多",
+      "content": "当前美元/加元报1.36791，日内微幅回落0.10%，整体维持在1.3676-1.3693区间波动。从价格与20日均线接近情况看，短期趋势呈现轻微多头偏向，价格略高于SMA(20)的1.36786，显示均线支撑仍然有效。  \n\nMACD当前值为0.000399，虽未提供信号线，但正值意味着多头动能略占优势，市场短期偏向上行。但需注意动能有限，若价格持续回落至均线附近，可能出现短线整理或震荡格局。  \n\n支撑位关注1.3676附近，为日内低点与短期均线支撑重合区域；阻力位则在1.3693，近期高点构成压力区。突破阻力可进一步确认短线上涨动能，但未突破前仍可能在区间内震荡。  \n\n交易建议上，短线交易者可考虑低位轻仓多单，止损置于1.3675下方，目标看向1.3693-1.3700。激进策略者可等待价格突破阻力后顺势跟进，同时关注加元经济数据与美元走势，以防突发消息导致震荡加剧。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "USD/CAD is currently showing signs of consolidation near the 1.3680 level after a mild decline of 0.10% over the past 24 hours. Price action has been contained within a narrow range of 1.36765 to 1.3693, suggesting indecision among market participants. The latest candlesticks indicate short-term bearish pressure is slightly prevailing, though momentum appears limited. This could point to a pause before the next directional move, with traders likely watching key technical levels for confirmation.  \n\nThe 20-period simple moving average sits almost perfectly at the current price, reinforcing the market’s sideways bias. Meanwhile, the MACD is marginally positive at 0.000399, hinting at very mild bullish momentum, though without a signal line for cross-reference, the reading is less conclusive. These conditions suggest the pair is oscillating near equilibrium, where neither buyers nor sellers have gained a decisive upper hand. Monitoring MACD developments and intraday price swings will be essential for short-term positioning.  \n\nImmediate support is evident around 1.3675, corresponding with the recent low, which has held firm despite minor selling pressure. On the upside, resistance is seen near 1.3693, representing the intraday high and a key barrier for any upside continuation. A break above this resistance could open the path toward 1.3710, while a breach of support may expose 1.3660. These levels offer clear reference points for stop-loss placement and risk management for traders targeting short-term movements.  \n\nGiven the current environment, cautious range trading seems most appropriate. Traders may consider buying near support with tight stops and targeting the upper boundary of the range, while selling near resistance with careful risk control. For trend-following strategies, waiting for a confirmed breakout above 1.3695 or below 1.3675 would provide higher-probability entries. Overall, the pair exhibits neutral bias, with potential for directional momentum emerging only after breaking established intraday thresholds."
+    }
+  }
+}

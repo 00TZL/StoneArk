@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-05-11T07:04:11.154Z",
+  "price": {
+    "close": "4678.1335",
+    "high": "4679.78247",
+    "low": "4676.83098",
+    "open": "4678.2061",
+    "change": "-0.00",
+    "datetime": "2026-05-11 17:00:00"
+  },
+  "indicators": {
+    "rsi": 35.80045,
+    "macd": -11.45265,
+    "macd_signal": -8.71613,
+    "sma20": 4697.25808
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短线整理偏弱震荡",
+      "content": "目前XAU/USD价格位于4678附近，略低于20日均线4697，显示短期承压迹象。价格在4676~4679区间窄幅波动，多空力量均衡，短线趋势偏向整理，未形成明显突破方向。  \n\nMACD指标显示当前为负值-11.45，但信号线缺失，暗示下行动能存在，但动量尚不足以驱动强烈下跌。RSI未提供，需关注后续相对强弱变化，若RSI低于30，则可能出现超卖反弹机会。  \n\n支撑位初步看向4676，下方若失守或触及4665，可进一步确认空头压力。阻力位在4697附近，突破则可能带动价格测试4705~4710区域。短期交易应关注区间内波动，避免追涨杀跌。  \n\n操作建议上，保持谨慎为主，区间交易为宜。若价格回落至4676附近，可考虑轻仓多单布局，止损设在4672以下；若价格站稳20日均线并突破4697，可顺势做多，止损置于4690下方。总之，控制仓位，关注支撑阻力即可。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold remains under mild bearish pressure as XAU/USD trades below the 20-period moving average near 4697.26, indicating short-term downside momentum is still dominant. Price action has been confined to a narrow intraday range between 4676.83 and 4679.78, suggesting consolidation after recent weakness. The inability to recover above the moving average reflects cautious sentiment, while the flat 24-hour performance highlights market indecision ahead of a stronger directional catalyst.\n\nThe MACD reading at -11.45 continues to support a bearish technical structure, implying momentum remains tilted to the downside despite slowing volatility. Although RSI data is unavailable, current price behavior suggests oversold conditions are not yet extreme enough to trigger aggressive buying interest. Sellers appear active on rallies, particularly as price remains capped below the 4690–4700 resistance zone. A sustained move under current levels could encourage additional short-term liquidation pressure.\n\nImmediate support is positioned around 4676.80, which aligns closely with the session low and remains critical for maintaining near-term stability. A break beneath this area could expose 4668 and potentially 4655 in extension. On the upside, resistance is located at 4685 initially, followed by the stronger barrier near the SMA(20) at 4697.25. Only a decisive recovery above that moving average would improve bullish sentiment and shift momentum toward the 4710–4725 region.\n\nShort-term traders may favor cautious sell-on-rally strategies while price remains below 4697, particularly if bearish momentum indicators continue weakening. Conservative buyers may prefer waiting for confirmation of support holding above 4676 before entering long positions. Risk management remains essential due to the tight intraday range and potential for volatility expansion. A breakout beyond either boundary of the current consolidation zone is likely to determine the next meaningful directional move in XAU/USD."
+    }
+  }
+}

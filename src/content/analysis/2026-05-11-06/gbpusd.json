@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-05-11T06:59:03.231Z",
+  "price": {
+    "close": "1.3595",
+    "high": "1.35961",
+    "low": "1.35815",
+    "open": "1.35837",
+    "change": "0.08",
+    "datetime": "2026-05-11 16:00:00"
+  },
+  "indicators": {
+    "rsi": 44.33181,
+    "macd": -0.0010537313,
+    "macd_signal": -0.00097214319,
+    "sma20": 1.36059
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：短期震荡偏弱",
+      "content": "当前英镑/美元价格在1.3595附近徘徊，较日内低点1.35815略有上升，但仍未突破20日均线1.36059，显示短期内买方力量有限，市场处于轻微震荡整理状态，整体偏弱。价格在高低点之间波动，短线缺乏明确趋势延续信号。  \n\n从技术指标来看，MACD值为-0.00105，位于零轴下方，暗示空方略占优势，虽然信号线不可用，但动能显示短期内多头承压。RSI数据缺失，需结合均线及价格结构判断市场情绪，当前SMA(20)作为阻力位明显，若价格持续未能突破，将增加回落风险。  \n\n关键支撑位位于1.3580附近，若跌破该水平，可能进一步测试1.3550心理关口。阻力位则在1.3610至1.3620区间，突破该区域将短线改变偏弱格局。盘整区间内交易，可关注支撑附近的低吸机会，但需控制仓位。  \n\n交易策略上，建议短线保持谨慎，偏向区间操作，止损可设在支撑下方5-10点。若价格上破20日均线并伴随成交放量，可考虑顺势做多，但整体仍以震荡偏弱思路为主，切勿追涨杀跌，以防快速回调造成损失。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently trading near 1.3595, showing minimal 24-hour movement of just 0.08%, reflecting a period of consolidation. The short-term trend appears mildly bearish as the price remains slightly below the 20-period simple moving average at 1.36059. This suggests that despite attempts to climb higher, bullish momentum is struggling to gain traction. Traders should watch for price action around the SMA, as a sustained break above could signal a shift toward short-term strength.  \n\nThe MACD reading at -0.00105 points to subdued bearish momentum, although the absence of a signal line limits full interpretation. The negative MACD suggests sellers have a slight edge, but the narrow range indicates indecision and a lack of strong directional pressure. Market participants might rely on candlestick patterns and intraday price action to confirm potential reversals, as momentum indicators currently provide only a tentative bearish bias rather than a definitive signal.  \n\nSupport is likely near the 1.3580 level, a short-term floor where prior intraday lows have been tested. A break below this area could open the way to 1.3550, offering a tactical shorting opportunity. On the upside, immediate resistance sits at 1.3606, aligned with the SMA(20), with further resistance around 1.3625, a recent intraday high. Traders should be cautious of false breakouts, using confirmation from volume or price consolidation before taking decisive positions.  \n\nFor trading strategies, a range-bound approach may be prudent given the subdued volatility and mixed signals. Aggressive traders could target quick scalps between 1.3580 and 1.3606, while swing traders may wait for a confirmed breakout above 1.3625 for long positions or below 1.3550 for shorts. Risk management remains critical, with tight stop-losses near support and resistance to limit exposure, considering the pair’s current lack of strong directional momentum."
+    }
+  }
+}

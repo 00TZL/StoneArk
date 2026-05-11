@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-05-11T07:02:32.535Z",
+  "price": {
+    "close": "0.59496",
+    "high": "0.5951",
+    "low": "0.59494",
+    "open": "0.595",
+    "change": "-0.01",
+    "datetime": "2026-05-11 17:00:00"
+  },
+  "indicators": {
+    "rsi": 43.45059,
+    "macd": -0.0004800311,
+    "macd_signal": -0.00043958923,
+    "sma20": 0.5954385
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：短期震荡偏弱",
+      "content": "当前纽元/美元价格在0.59496附近微幅下滑，整体呈现横盘震荡格局。近期价格略低于20日简单移动平均线(SMA20=0.59544)，显示短期多头力量偏弱，但尚未形成明显下行趋势。市场成交活跃度有限，波动幅度较小，需关注突破信号。\n\nMACD指标为-0.00048，处于零轴下方，表明空头动能略占优势，但信号线尚未形成交叉，短线趋势仍存在不确定性。RSI数据缺失，无法进一步确认超买或超卖状态，建议结合其他技术指标谨慎研判。\n\n从支撑与阻力来看，近期支撑位集中在0.5945附近，若跌破可能引发进一步下探；阻力位则在0.5955至0.5960区间，多头需突破该水平才能形成上行动能。价格在该区间震荡，短期操作应以区间策略为主。\n\n交易建议上，偏向短线交易者可关注支撑位附近的低位买入机会，同时在接近阻力位时适度减仓或止盈。中线持仓者应等待价格明确突破SMA20及阻力位后，再考虑加仓以降低风险，保持灵活应对市场波动。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently exhibiting a slight consolidation phase near 0.5950 after a recent minor dip. The 20-period simple moving average at 0.59544 is acting as a subtle resistance, keeping price below its short-term average. The negligible 24-hour change of -0.01% reflects indecision among market participants, suggesting a balance between buyers and sellers. The narrow intraday range of 0.59494 to 0.5951 further confirms a sideways movement rather than a strong directional trend.  \n\nAlthough the RSI is unavailable, the MACD shows a negative value of -0.00048, indicating bearish momentum, albeit limited in strength. The absence of a signal line prevents a full crossover analysis, but the current MACD reading aligns with the slight downward bias observed in price action. Short-term momentum appears weak, meaning that any moves below the 0.5949 support may accelerate selling pressure, while a breakout above 0.5954 could rekindle bullish attempts.  \n\nImmediate support lies around 0.5949, coinciding with the day’s low and a psychologically significant level. Resistance is found at 0.5954, marked by the SMA and recent highs. Traders should monitor these levels closely, as a decisive break in either direction may signal a more substantial intraday move. Range-bound trading strategies, such as buying near support and selling near resistance, could be prudent given the current narrow price oscillation.  \n\nFor short-term positioning, cautious traders may prefer waiting for confirmation of trend direction before entering. Momentum traders might consider light short positions below 0.5949 with tight stop losses above 0.5954, while breakout traders could target entries above the SMA with initial profit targets around 0.5958–0.5960. Overall, the pair is in a low-volatility phase, favoring disciplined, level-based trading rather than aggressive directional bets."
+    }
+  }
+}

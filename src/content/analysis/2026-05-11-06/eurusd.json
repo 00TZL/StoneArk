@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-05-11T06:58:11.955Z",
+  "price": {
+    "close": "1.17648",
+    "high": "1.17655",
+    "low": "1.17498",
+    "open": "1.17499",
+    "change": "0.12",
+    "datetime": "2026-05-11 16:00:00"
+  },
+  "indicators": {
+    "rsi": 44.56098,
+    "macd": -0.0007641146,
+    "macd_signal": -0.00058749561,
+    "sma20": 1.1773
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：短期震荡偏空",
+      "content": "当前欧元/美元价格徘徊于1.17648附近，接近20日简单移动平均线SMA(20)1.17730，显示短期多空力量相对均衡。价格未能有效突破SMA，短线趋势仍偏向震荡整理，整体上偏弱，但尚未出现明确下跌信号。  \n\nMACD指标显示差值为-0.00076，位于零轴下方，表明空头略占优势，但信号线缺失限制了判断力度。结合价格在日内高低点1.17655与1.17498之间波动，可见市场短线多空交替，缺乏趋势延续性，交易者应警惕快速反转。  \n\n支撑位关注1.1749一线，若下破可能打开下行空间至1.1735附近；阻力位在1.1773附近，与SMA重合，突破后可能测试1.1790。短期震荡格局下，支撑阻力区间可作为关键交易参考，逢低短多、遇阻短空为策略核心。  \n\n建议谨慎布局，控制仓位，避免追高或追空。若价格稳定突破SMA并伴随MACD回升，可考虑顺势做多；反之，下破支撑并形成连续收盘低点，则空单可逐步介入，保持严格止损和灵活止盈，适合短线操作为主。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair currently hovers around 1.17648, reflecting modest upward momentum over the last 24 hours. Price action remains contained between the recent high of 1.17655 and low of 1.17498, suggesting a narrow intraday trading range. Short-term momentum appears subdued, with the pair testing its 20-period simple moving average at 1.17730, which is acting as immediate resistance. Overall, the market shows a cautiously bullish bias, but lack of decisive breakout leaves the trend somewhat uncertain in the near term.  \n\nTechnical indicators present a mixed picture. The MACD registers a slightly negative value of -0.000764, signaling limited downward pressure, yet the absence of a signal line limits interpretation. RSI readings are currently unavailable, but the constrained price action near the SMA suggests momentum is not strongly trending. Traders should note that sustained movement above the 20-period SMA could reinforce bullish sentiment, while a retreat below 1.17500 may indicate the start of corrective pressure toward nearby support levels.  \n\nKey support and resistance levels are crucial in guiding short-term strategies. Immediate support rests near 1.17500, with secondary support around 1.17400, providing a potential floor for buyers. On the upside, 1.17750 represents near-term resistance, followed by 1.17900, which could cap gains in the absence of strong catalysts. Price clustering around these levels implies that the market may continue to consolidate unless new economic data or central bank signals shift sentiment decisively.  \n\nGiven current conditions, cautious traders may prefer range-bound strategies, buying near support and taking profits close to resistance. More aggressive participants could consider waiting for a breakout above 1.17750 with volume confirmation to target 1.17900 and beyond. Conversely, a drop below 1.17500 may warrant short positions, aiming toward 1.17400. Risk management is essential, as the narrow intraday range indicates that sudden spikes in volatility could trigger stop-losses quickly."
+    }
+  }
+}

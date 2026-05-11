@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-05-11T07:00:48.523Z",
+  "price": {
+    "close": "0.72421",
+    "high": "0.72423",
+    "low": "0.72294",
+    "open": "0.72298",
+    "change": "0.17",
+    "datetime": "2026-05-11 16:00:00"
+  },
+  "indicators": {
+    "rsi": 53.32241,
+    "macd": -0.00037164435,
+    "macd_signal": -0.00036728582,
+    "sma20": 0.723882
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短期偏多震荡",
+      "content": "当前澳元/美元报0.72421，较昨日微幅上涨0.17%，整体呈现小幅上扬趋势。价格略高于20日简单移动平均线SMA(20) 0.72388，显示短期内多头力量仍在，但上涨动力有限，需要关注关键支撑和阻力位。整体趋势偏向震荡整理中带有轻微多头倾向。\n\nMACD指标显示-0.00037，虽缺乏信号线参考，但负值表明近期下行动能有所存在。结合价格站上SMA(20)来看，多空力量仍处于拉锯状态，市场可能在0.7229至0.7242区间内波动。RSI缺失，使得超买超卖状态难以判断，但从价格行为和均线关系推测，多头并非强势，但回调空间有限。\n\n支撑位方面，短期关键支撑位在0.7229附近，若跌破可能触发进一步调整；阻力位关注0.7242及0.7250区域，上方突破将增强多头信心。若价格在支撑位附近出现反弹，可考虑轻仓做多，但需设置严格止损以防快速回落。\n\n交易策略建议：短线操作以区间震荡为主，偏向低吸高抛策略。多头进入点可在0.7230-0.7235附近布局，目标上看0.7245-0.7250；空头操作则可在触及0.7242-0.7245阻力区考虑短线回调，止损控制在0.7255。总体保持谨慎，关注关键支撑阻力的有效性。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently trading at 0.72421, showing a mild upward movement of 0.17% over the last 24 hours. Price action indicates a short-term bullish bias as the latest price sits just above the 20-period simple moving average at 0.72388, suggesting buyers are maintaining modest control. The intraday high of 0.72423 and low of 0.72294 point to a relatively tight range, indicating consolidation before a potential breakout. Overall, the market exhibits cautious optimism, with momentum appearing slightly skewed toward the upside.  \n\nTechnical indicators provide a mixed picture. The MACD at -0.00037 remains in negative territory, signaling that longer-term momentum is still under pressure, although the small magnitude hints at potential stabilization. The absence of the MACD signal line and RSI data limits a full oscillator interpretation, yet the proximity of price to the SMA(20) suggests that short-term bullish pressure may continue if buyers maintain above this pivot. Traders should watch for divergence or convergence with other momentum indicators for confirmation before entering positions.  \n\nKey support and resistance levels are clearly defined within the current range. Immediate support lies near 0.7229, which has held during recent intraday testing, providing a floor for potential upward swings. On the upside, resistance at 0.7242 is the near-term hurdle, coinciding with the current high. A sustained break above this level could open the path toward 0.7260–0.7270, while a decisive drop below support could shift sentiment back to bearish, targeting 0.7210 as the next major floor. Monitoring price reaction at these zones will be critical.  \n\nFor trading strategy, short-term participants may consider buying on dips above the SMA(20), with tight stops just below 0.7229 to manage risk. Aggressive traders might target the 0.7260 level on momentum continuation, while cautious participants could wait for a confirmed break above resistance with volume confirmation. Conversely, if the market fails to sustain above the 20-period SMA and closes below 0.7229, short positions could gain traction, emphasizing the importance of disciplined entry and exit management in this consolidating environment."
+    }
+  }
+}
