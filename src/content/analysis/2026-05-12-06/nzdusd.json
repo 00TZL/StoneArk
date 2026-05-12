@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-05-12T06:36:18.817Z",
+  "price": {
+    "close": "0.59484",
+    "high": "0.59566",
+    "low": "0.59466",
+    "open": "0.59566",
+    "change": "-0.14",
+    "datetime": "2026-05-12 16:00:00"
+  },
+  "indicators": {
+    "rsi": 40.93102,
+    "macd": -0.000055339992,
+    "macd_signal": 0.000060398165,
+    "sma20": 0.5959255
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：震荡偏弱整理",
+      "content": "当前纽元/美元处于窄幅震荡偏弱格局，价格略低于20日均线，整体动能不足，短线多空拉锯明显，市场缺乏明确方向，偏向整理下行结构，观望\n\nMACD指标轻微死叉且动能柱收缩，显示空头动能占优但力度有限；均线系统压制价格，上方20日均线构成短期动态阻力，短线反弹受限\n\n下方支撑位集中在0.59466及0.59400整数关口，上方阻力关注0.5959均线与0.5965区域，突破与否决定短期方向\n\n建议短线以区间操作为主，未有效突破20日均线前谨慎追多，可在支撑附近轻仓尝试低吸，止损控制在0.5940下方，整体偏弱震荡"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently showing a subtle bearish tilt, trading slightly below the 20-period simple moving average at 0.59593. The recent price action reflects limited momentum, with the high and low confined within a narrow 0.59566–0.59466 range. This suggests a consolidation phase, indicating that the market may be pausing before a more decisive move. Short-term traders should watch for a break above the SMA for potential bullish continuation or a breach below the recent low to signal further downside.\n\nMomentum indicators are offering a cautious outlook. The MACD is negative at -0.000055, reflecting mild bearish pressure, though the absence of a signal line prevents a clear confirmation of trend strength. In this context, momentum appears weak, suggesting that any directional moves may be subdued. Without the RSI available, traders should rely on price action near key technical levels to gauge entry and exit points, emphasizing risk management until a stronger momentum signal emerges.\n\nSupport levels are forming near the intraday low at 0.59466, which could act as a floor in case of renewed selling pressure. Resistance is observed at the SMA (0.59593) and the intraday high at 0.59566. A decisive break above these levels would indicate potential bullish recovery, while a breach below the support could target 0.5940 or the 0.5935 area. Range-bound conditions suggest that scalping or short-term trades could be effective, especially near these boundaries, rather than pursuing trend-following strategies.\n\nFor trading strategy, cautious short-term positions seem prudent. Buyers might wait for confirmation above the SMA and the 0.5960 mark before entering, while sellers could target the lower end of the range with stops just above the recent highs. Given the current lack of strong momentum, tight stop-loss orders are advisable. Monitoring for breakout signals from the consolidation zone will be key to identifying the next meaningful directional move for NZD/USD."
+    }
+  }
+}

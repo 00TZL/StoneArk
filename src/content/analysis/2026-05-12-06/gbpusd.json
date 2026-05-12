@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-05-12T06:32:42.156Z",
+  "price": {
+    "close": "1.35602",
+    "high": "1.35781",
+    "low": "1.35602",
+    "open": "1.35751",
+    "change": "-0.11",
+    "datetime": "2026-05-12 16:00:00"
+  },
+  "indicators": {
+    "rsi": 30.39956,
+    "macd": -0.00099968302,
+    "macd_signal": -0.00045244158,
+    "sma20": 1.36085
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：[震荡整理中，等待突破方向]",
+      "content": "目前，英镑/美元的市场表现呈现震荡整理的走势。价格在1.35602附近波动，接近近期低点1.35602，显示出一定的支撑力度。然而，价格未能突破上方1.35781的高点，短期内缺乏明确的趋势动能。\n\n技术指标方面，虽然RSI(14)未提供具体值，但MACD的负值显示出卖压较强，市场情绪可能偏向下行。SMA(20)的水平在1.36085附近，价格低于这一均线，进一步确认了当前的弱势状态，且未显示出强烈的反转信号。\n\n支撑位方面，1.35602是关键的短期支撑，若价格跌破这一水平，可能会进一步下探至1.3500区域。上方则面临1.3600-1.3610区间的阻力，这一水平若突破，将可能引发短期的反弹。\n\n建议投资者在当前市场中保持观望，等待价格突破1.35781或1.3600的关键技术点位，才能确定更为明确的交易方向。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently showing mild bearish tendencies, trading near 1.3560 after a slight 0.11% decline over the past 24 hours. Price action is hovering close to the recent low of 1.3560 while failing to reclaim the intraday high of 1.3578, suggesting sellers are gradually asserting control. The overall short-term trend appears to be corrective, with the pair struggling below the 20-period simple moving average at 1.3608, indicating limited bullish momentum and the potential for continued pressure unless a decisive break above the SMA occurs.\n\nMomentum indicators provide a nuanced picture. The MACD reading of approximately -0.001 hints at bearish momentum, though the absence of a signal line limits precision in identifying crossover triggers. Traders should interpret this as cautious downside potential rather than an aggressive sell signal. Without an available RSI, gauging overbought or oversold conditions is challenging, but price action relative to moving averages and recent highs/lows can act as a proxy for momentum assessment, highlighting that short-term sellers may dominate the current technical landscape.\n\nSupport and resistance levels are key for near-term strategies. Immediate support lies at the 1.3560 floor, coinciding with the day's low, which if breached could open the path toward 1.3520. On the upside, resistance is first encountered at 1.3578, with a stronger barrier near the 20-SMA at 1.3608. Traders may consider range-based tactics within this corridor, or monitor for a breakout above 1.3608 to confirm a reversal in trend, while a break below 1.3560 could justify short positions with tight risk management.\n\nFrom a trading perspective, short-term traders may look to sell near intraday highs with stops above the 1.3608 SMA, targeting the 1.3560 support zone. Conversely, a breakout above the SMA could signal a tactical buy opportunity, aiming for 1.3620–1.3640, provided momentum indicators confirm strength. Overall, GBP/USD is balancing near a technical inflection point, and careful observation of price relative to SMA and key support/resistance levels will guide risk-conscious positioning."
+    }
+  }
+}

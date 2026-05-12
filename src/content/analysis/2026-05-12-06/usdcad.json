@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-05-12T06:35:20.123Z",
+  "price": {
+    "close": "1.36953",
+    "high": "1.36957",
+    "low": "1.36844",
+    "open": "1.36892",
+    "change": "0.05",
+    "datetime": "2026-05-12 16:00:00"
+  },
+  "indicators": {
+    "rsi": 64.43075,
+    "macd": 0.00049875027,
+    "macd_signal": 0.00028887435,
+    "sma20": 1.36781
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：短线偏强震荡上行",
+      "content": "美元/加元当前维持窄幅震荡偏强格局，最新价运行于1.3695附近，价格稳定站上20日均线1.3678，显示短期多头仍占据主动。24小时波动有限，说明市场处于等待方向选择阶段。\n\n从技术指标观察，MACD维持在零轴上方，柱体保持轻微正值，代表短线动能仍偏向上行。不过高低点区间较窄，反映追涨意愿不足，若后续量能无法放大，行情或转入整理结构。\n\n关键支撑位首先关注1.3680，其次为1.3665区域，该位置同时接近均线支撑。上方阻力位位于1.3700整数关口，若有效突破，预计有机会进一步测试1.3725至1.3740区间。\n\n交易策略方面，短线仍可维持回调做多思路，等待价格靠近1.3680附近企稳后分批布局更为稳健。若跌破1.3665，则需警惕多头动能减弱，短期可能转向区间震荡或技术性回落。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently showing signs of a mild bullish bias as the price trades slightly above the 20-period SMA at 1.36781, indicating that short-term momentum favors the U.S. dollar against the Canadian dollar. Price action has been contained within a narrow range over the past 24 hours, with a high of 1.36957 and a low of 1.36844, reflecting low volatility. Trend-wise, the market appears to be in a consolidation phase after recent upward movements, suggesting cautious positioning among traders.\n\nThe MACD reading of 0.0004987, despite the absence of a signal line for confirmation, implies that bullish momentum is modest but present. In the absence of RSI data, traders may rely on moving averages and price action to gauge overextension. The proximity of the current price to the SMA supports a scenario where minor pullbacks could provide buying opportunities, as the short-term trend has not yet reversed. The market lacks strong directional conviction but leans slightly bullish.\n\nKey support and resistance levels are pivotal for planning trades. Immediate support can be observed near 1.3680, which aligns with recent intraday lows, while resistance is evident around 1.3700, marking a psychological level and recent intraday highs. A decisive break above this resistance could open the way toward 1.3720, whereas a breach of support may target 1.3660. Traders should watch for price reactions at these levels to confirm continuation or reversal signals.\n\nGiven the current technical backdrop, a cautious approach is recommended. Short-term traders may consider buying on dips near the SMA with tight stops below support, targeting the 1.3700–1.3720 zone. Conversely, risk-averse participants might wait for a confirmed breakout or trend continuation. Overall, while the USD/CAD market exhibits mild bullishness, the narrow range and modest MACD reading suggest limited momentum, favoring short-term tactical trades rather than aggressive directional bets."
+    }
+  }
+}

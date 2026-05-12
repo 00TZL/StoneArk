@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-05-12T06:33:32.013Z",
+  "price": {
+    "close": "157.48162",
+    "high": "157.48961",
+    "low": "157.20458",
+    "open": "157.3172",
+    "change": "0.08",
+    "datetime": "2026-05-12 16:00:00"
+  },
+  "indicators": {
+    "rsi": 62.023782,
+    "macd": 0.14057703,
+    "macd_signal": 0.12890293,
+    "sma20": 157.27423
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：短期震荡偏多趋势",
+      "content": "当前美元/日元价格位于157.48附近，接近20日均线157.27，显示价格在均线之上小幅震荡，短期仍偏多。过去24小时价格波动幅度有限，高低点分别为157.49和157.20，表明市场多空力量相对均衡，短线趋势未明显突破。\n\nMACD指标显示多头动能微弱（MACD柱为0.1405），尽管信号线数据缺失，但当前正值暗示多方略占优势。然而，缺乏RSI参考，市场是否进入超买或超卖区尚不明确，需要警惕动能减弱带来的反转风险。\n\n支撑位方面，短期关键支撑位可参考157.20和157.00，若价格跌破这些水平，可能触发进一步回调。阻力位则在157.50至157.60附近，若能突破此区间，多头可能获得进一步上涨空间，短线可关注突破确认信号。\n\n交易策略上，可考虑在价格回调至157.20附近时择机做多，止损可置于156.95以下，以控制风险。若价格稳步突破157.50，则可顺势加仓追涨。同时，避免在区间震荡中频繁交易，待技术指标形成明确方向信号后再布局更为稳妥。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USD/JPY is currently testing short-term bullish momentum, trading slightly above the 20-period SMA at 157.274. The small daily gain of 0.08% reflects market indecision, suggesting consolidation near the current level. The intraday high at 157.489 and low at 157.205 indicate a narrow trading range, pointing to a potential buildup before the next directional move. Traders should monitor price action closely for a breakout above the daily high, which could confirm continuation of the recent uptrend.\n\nThe MACD reading of 0.1405, despite the absence of a signal line, hints at bullish bias, though momentum remains modest. The lack of an RSI value prevents overbought/oversold assessment, so price behavior relative to moving averages becomes critical. Sustained trading above the SMA(20) reinforces upward bias, while failure to hold this level could open the door for retracement toward psychological support near 157.20. Market participants may treat this as a pivot zone for intraday trades.\n\nSupport is established at 157.20, representing a combination of the intraday low and near-term SMA support. Immediate resistance lies at 157.49, the intraday high, with a secondary resistance round number near 157.80. A breach of the high could accelerate bullish momentum toward 158.00, while a drop below support may prompt a retest of 157.00. These levels serve as key references for stop placement and entry planning in both swing and intraday strategies.\n\nTraders seeking a short-term long position might consider entering above 157.50 with tight stops near 157.20, aiming for a near-term target around 157.80–158.00. Conversely, aggressive short positions could be initiated on a confirmed reversal below 157.20, targeting 157.00 or lower. Overall, USD/JPY shows cautious bullishness, and strategy should hinge on decisive moves outside the current tight range, ensuring proper risk management in this relatively low-volatility environment."
+    }
+  }
+}

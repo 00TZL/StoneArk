@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-05-12T06:34:34.009Z",
+  "price": {
+    "close": "0.7218",
+    "high": "0.72322",
+    "low": "0.72177",
+    "open": "0.72321",
+    "change": "-0.20",
+    "datetime": "2026-05-12 16:00:00"
+  },
+  "indicators": {
+    "rsi": 30.96005,
+    "macd": -0.00041305047,
+    "macd_signal": -0.00012790298,
+    "sma20": 0.7243365
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短期偏弱震荡",
+      "content": "当前澳元/美元处于0.7218，较昨日小幅下跌0.20%，显示短期内空方略占优势。价格徘徊在20日简单移动平均线（SMA20）0.7243下方，表明中短期趋势仍偏弱。MACD为负值且低于零轴，进一步支撑近期的下行压力，但缺乏信号线数据，需关注后续走势确认。\n\n从支撑与阻力角度看，近期低点0.7217构成短期支撑，若跌破此位，可能触发进一步下探至0.7200附近。上方阻力位集中在0.7232及SMA20附近，若价格突破此区域，空头压力或将减弱。整体波动仍以震荡整理为主，短线操作需谨慎控制风险。\n\n技术指标解读显示，价格低于SMA20，MACD负值，RSI数据缺失但结合价格行为，可判断多空力量暂时倾向空方。建议日内交易者可关注高抛低吸策略，短线空单可在阻力位附近布局，止损可设置于0.7245上方，短线多单则以支撑位0.7215-0.7220区域作为参考。\n\n综合来看，澳元/美元在当前价位呈现弱势震荡格局，短期内下行风险略高，但若遇技术支撑反弹仍具操作空间。交易者应关注关键支撑和阻力的变化，结合成交量和突破信号灵活调整仓位，以降低波动风险并把握短线机会。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently showing signs of short-term bearish pressure. The latest price at 0.7218 is slightly below the 20-period SMA at 0.7243, suggesting the pair is trading under a near-term average and may face continued selling interest. The daily high and low range (0.72322 / 0.72177) indicates a relatively narrow trading band, reflecting subdued momentum and market hesitation. Traders should watch for a break below 0.7215 to confirm downside continuation, while recovery above 0.7245 could signal renewed bullish attempts.\n\nTechnical indicators add nuance to the current environment. The MACD stands at -0.00041, signaling weak bearish momentum, although the absence of a signal line limits the precision of the crossover interpretation. RSI data is unavailable, which normally helps identify overbought or oversold conditions, so traders may need to rely more on price action and moving averages. The combination of price below SMA and negative MACD suggests sellers have a modest advantage, but caution is warranted given the narrow intraday range.\n\nKey support levels to monitor include 0.7210 and 0.7200, which have historically acted as short-term floors. Resistance is evident near 0.7243 (SMA20) and 0.7260, where prior attempts to push higher have stalled. Market participants should be alert to breakouts from these levels, as they often set the stage for more significant moves. Intraday traders may consider a strategy focused on range-bound scalping until a decisive directional signal emerges.\n\nFor trading suggestions, short-term traders could lean toward selling near resistance with tight stops above 0.7245, targeting 0.7210–0.7200 for potential profits. Conversely, a breakout above 0.7260 could offer a long entry, aiming for 0.7280–0.7300, provided momentum strengthens. Position sizing should remain conservative due to the current low volatility and limited momentum indicators, with emphasis on monitoring fundamental drivers such as Australian economic data or US interest rate expectations, which could quickly influence the pair’s trajectory."
+    }
+  }
+}

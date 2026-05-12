@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-05-12T06:38:07.580Z",
+  "price": {
+    "close": "4703.4099",
+    "high": "4720.50019",
+    "low": "4695.01973",
+    "open": "4717.63926",
+    "change": "-0.28",
+    "datetime": "2026-05-12 16:00:00"
+  },
+  "indicators": {
+    "rsi": 44.33792,
+    "macd": 4.54764,
+    "macd_signal": 8.41075,
+    "sma20": 4726.16766
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短线偏弱震荡，关注低位支撑表现",
+      "content": "当前金价运行于4703附近，24小时小幅回落，整体走势呈现高位整理后的弱势震荡结构。价格低于20日均线4726一线，说明短期空头仍占一定优势，市场情绪偏谨慎。\n\n从技术指标观察，MACD维持正值但动能有所减弱，显示此前上涨趋势尚未完全破坏，但多头推动力正在下降。RSI数据暂缺，意味着短线方向需更多依赖价格结构与均线位置进行判断。\n\n关键支撑位关注4695附近，若失守可能进一步测试4670区域；上方阻力则位于4720至4735区间，该区域同时接近短期均线压力。若价格重新站稳4726上方，多头情绪有望恢复。\n\n交易策略方面，短线建议以区间震荡思路操作，激进交易者可关注4695附近的反弹机会，但需严格控制止损。稳健者则等待突破4726后再顺势跟进，以确认新的方向性行情。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold is showing a slight bearish undertone as it trades below the 20-period SMA at 4726.17. The recent dip to 4703.41 reflects a modest downward pressure, suggesting that the short-term trend favors sellers. The intraday high of 4720.50 acted as a resistance barrier, while the low at 4695.02 could serve as initial support. The absence of a calculated RSI limits overbought or oversold insights, but the MACD value at 4.54764 hints at a mild bullish momentum that may be waning given the price is below the SMA.  \n\nPrice action indicates that XAU/USD may continue to consolidate between 4695 and 4720 in the near term. A break below 4695 could invite further downside toward 4680, while surpassing 4720 might signal a resumption of upward retracement. Traders should observe candle formations around these levels for confirmation, as the SMA trend and current MACD suggest that upward moves may encounter resistance before any strong rally. The market’s low volatility underscores caution for aggressive entries.  \n\nFrom a technical perspective, the MACD’s divergence from price indicates potential weakening bullish strength, implying that buyers may need stronger catalysts to push gold higher. With the current SMA serving as dynamic resistance, short-term traders could look for reversal signals near 4726. On the downside, 4700 is a psychological support, and sustained closes below this could reinforce bearish sentiment. Monitoring momentum indicators, once available, would provide clearer guidance on trend continuation or reversal.  \n\nTrading strategies should focus on range-bound approaches until a decisive breakout occurs. Conservative traders might wait for a confirmed break of 4720 or 4695 with volume confirmation before committing. For swing traders, selling near resistance with tight stop-losses or buying near support while targeting the mid-range could offer controlled risk-reward opportunities. Overall, XAU/USD remains in a cautious, slightly bearish stance, and patience is key until clearer directional signals emerge."
+    }
+  }
+}
