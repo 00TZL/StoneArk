@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-05-13T06:47:29.404Z",
+  "price": {
+    "close": "0.78098",
+    "high": "0.78114",
+    "low": "0.78038",
+    "open": "0.78048",
+    "change": "0.06",
+    "datetime": "2026-05-13 16:00:00"
+  },
+  "indicators": {
+    "rsi": 57.08403,
+    "macd": 0.00021167099,
+    "macd_signal": 0.00031386602,
+    "sma20": 0.7808715
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：短期震荡偏多",
+      "content": "当前美元/瑞郎处于0.78098水平，接近20日均线0.78087，短线表现出轻微上行动力。虽然价格涨幅仅0.06%，但维持在均线之上显示多头仍有一定支撑，市场可能延续震荡偏多的格局。  \n\n技术指标方面，MACD为0.00021167，虽未提供信号线，但正值暗示短线多头动能存在。RSI未显示，但结合价格在日内高点0.78114与低点0.78038之间徘徊，可推测市场多空力量接近平衡，短期波动幅度有限。  \n\n支撑位关注0.78038附近，若价格下破该水平可能触发短线回调。阻力位在0.78114及心理整数位0.78200附近，突破后可进一步打开上行空间。均线支撑和阻力位的结合为交易提供明确参考。  \n\n交易策略上，建议短线交易者可在回落至支撑位附近考虑低吸，同时设立0.7800下方止损；突破阻力可追随趋势做多，但需关注日内波动和风险管理。中长线投资者可保持观望，等待明确趋势信号再入场，以降低震荡风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently exhibiting a mildly bullish consolidation phase around the 0.78098 level. The latest price is hovering just above the 20-period simple moving average at 0.78087, suggesting that short-term momentum remains slightly supportive of USD strength. The 24-hour price range is narrow, with a high of 0.78114 and a low of 0.78038, indicating low volatility and a market that is waiting for a catalyst to drive a decisive move. Overall, the pair seems to be in a short-term sideways trend, with minor upward bias.  \n\nMACD is slightly positive at 0.0002117, which points to a weak bullish momentum, although the absence of a signal line reading limits the strength of the interpretation. Traders should note that the RSI data is unavailable, making it difficult to gauge overbought or oversold conditions. Price action near the SMA suggests that immediate support is holding, but a failure to maintain above this moving average could signal a temporary pullback. Monitoring momentum indicators closely is recommended before committing to a directional trade.  \n\nKey support for the pair is observed around 0.7804, which aligns with the recent intraday low. Immediate resistance lies near 0.7811, coinciding with the intraday high. A break above this resistance could open the path toward 0.7820 in the short term, while a breakdown below support might see a retest of the 0.7795–0.7790 zone. Traders should watch for confirmation through candlestick patterns or volume spikes before taking positions, as the current market context favors range-bound movement with a slight bullish tilt.  \n\nGiven the narrow range and subdued momentum, short-term traders could consider scalping opportunities near support and resistance, using tight stop-losses to mitigate risk. Longer-term traders might wait for a clear breakout above 0.7811 to enter a bullish position or a breakdown below 0.7804 to target lower levels. Overall, the market remains cautious, and disciplined risk management will be crucial until a stronger directional trend emerges."
+    }
+  }
+}

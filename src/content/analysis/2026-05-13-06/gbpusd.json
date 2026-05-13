@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-05-13T06:43:20.567Z",
+  "price": {
+    "close": "1.3535",
+    "high": "1.35504",
+    "low": "1.3535",
+    "open": "1.35491",
+    "change": "-0.10",
+    "datetime": "2026-05-13 16:00:00"
+  },
+  "indicators": {
+    "rsi": 44.0283,
+    "macd": -0.00072371777,
+    "macd_signal": -0.0010569271,
+    "sma20": 1.35339
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：短线偏弱整理",
+      "content": "当前英镑/美元价格小幅下跌至1.3535附近，呈现短线整理态势。从日内高低点1.35504/1.3535来看，价格波动幅度有限，多空力量相对均衡，短期趋势尚未出现明确突破信号。市场参与者需关注价格能否站稳关键均线。\n\n技术指标显示，20日简单移动平均线(SMA20)位于1.35339，价格略高于均线，表明短期支撑仍然存在。MACD为负值-0.0007237，显示空头压力稍显，但未形成强烈动能，趋势可能延续震荡。RSI数据暂缺，需留意后续超买或超卖情况确认趋势反转可能。\n\n支撑位方面，1.3530为短期关键支撑，若下破该位置，可能触及1.3500心理关口。阻力位则关注1.3550附近，多次试探但未突破，若收复并站稳此位，可进一步看向1.3575区域。价格区间整理特征明显，短线操作需以高抛低吸为主。\n\n交易策略上，建议关注回调买入机会，逢支撑可尝试小额多单，突破阻力则可顺势跟进。反之若跌破关键支撑，需谨慎减仓或空单介入，严格控制风险，同时关注美元和英镑相关宏观数据对汇价的冲击。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is exhibiting a mild bearish bias in the short term, holding slightly above its intraday low at 1.3535. Price action suggests consolidation near the 20-period simple moving average at 1.35339, indicating equilibrium between buyers and sellers. The modest 24-hour decline of 0.10% confirms the market lacks strong directional conviction, though the inability to push above yesterday’s high of 1.35504 signals resistance pressure. Traders should remain cautious and monitor whether support at 1.3530 holds for potential intraday reversals.\n\nMomentum indicators are currently limited, but the MACD shows a negative reading of -0.00072, hinting at mild downside momentum. Although the signal line is not available, the negative MACD suggests sellers are slightly stronger in the near term. With RSI data missing, it’s difficult to assess overbought or oversold conditions, but price hovering near the SMA(20) implies the market is near neutral. A break below the SMA could accelerate bearish sentiment, while a bounce may allow for corrective gains toward resistance levels.\n\nKey technical levels to watch include immediate support at 1.3530 and further down at 1.3515. On the upside, intraday resistance exists near 1.3550, with a stronger barrier at 1.3575. Price respecting these zones will provide traders with high-probability entry and exit points. A clean break above 1.3550 could shift the short-term trend into bullish territory, whereas a breach of 1.3530 would reinforce downside continuation.\n\nFor trading strategies, range-bound approaches may be optimal under current conditions, with tight stop-losses below support and take-profit near resistance. Trend-following traders might wait for a confirmed SMA break or a MACD crossover to enter short positions. Overall, GBP/USD is in a cautious equilibrium, offering opportunities for disciplined traders who combine support/resistance with momentum signals to navigate the current low-volatility environment."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-05-13T06:42:25.063Z",
+  "price": {
+    "close": "1.17239",
+    "high": "1.17348",
+    "low": "1.17228",
+    "open": "1.17342",
+    "change": "-0.09",
+    "datetime": "2026-05-13 16:00:00"
+  },
+  "indicators": {
+    "rsi": 30.91744,
+    "macd": -0.00063807557,
+    "macd_signal": -0.00065469509,
+    "sma20": 1.17367
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：短期偏弱震荡整理",
+      "content": "欧元/美元目前报价1.17239，较昨日略微下跌0.09%，短线呈现弱势整理格局。价格徘徊于20日均线SMA(20) 1.17367下方，显示多头动力不足，多空力量接近平衡，短期趋势偏向震荡下行。高低点区间1.17348/1.17228进一步确认价格在窄幅区间波动。  \n\nMACD指标为-0.000638，仍处于零轴下方，显示空头略占优势，但信号线尚未形成明显金叉或死叉，短期趋势尚无明确方向。若RSI可得，其低于50将强化弱势判断；当前RSI数据缺失，可关注价格突破均线的情况，以确认短线趋势。  \n\n支撑位在近期低点1.17228附近，若跌破可能打开下行空间至1.17150；阻力位则在SMA(20)附近1.17367及上方1.1740，突破则有利于多头反弹。整体来看，价格仍受均线压制，区间震荡特征明显。  \n\n交易建议上，短线可保持观望，等待价格明确突破或回落至支撑后再择机入场。风险控制应设置止损在支撑/阻力外5-10点，灵活调整仓位，避免追高杀跌。偏向短线操作的交易者可考虑小幅低多高空策略，结合均线与MACD信号动态管理仓位。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD is currently hovering around 1.17239, showing a mild bearish bias over the last 24 hours with a decline of 0.09%. The pair remains close to its 20-period simple moving average at 1.17367, suggesting short-term sideways pressure. Price action between 1.17228 and 1.17348 indicates consolidation, with neither bulls nor bears asserting strong control. Traders should watch for a decisive break above or below this tight range for early trend confirmation.  \n\nFrom an indicator standpoint, the MACD is negative at -0.000638, signaling mild bearish momentum, though the absence of a signal line reading limits the clarity of potential crossover signals. The lack of a current RSI value prevents an overbought/oversold assessment, but the proximity to the SMA implies equilibrium. Momentum appears subdued, and without further confirmation from volume or higher timeframes, the market may continue oscillating within the current bounds.  \n\nSupport is likely around the intraday low of 1.17228, providing a near-term floor, while resistance sits at 1.17348 and the SMA at 1.17367. A break below 1.1720 could open the door toward 1.1700, aligning with recent swing lows, whereas a push above 1.1740 would target 1.1760 in the short term. Traders should monitor price reaction near these levels to gauge whether the consolidation resolves in favor of the upside or downside.  \n\nFor tactical positioning, range-bound traders might consider short-term scalps between support and resistance, while breakout traders may wait for a confirmed move beyond 1.1740 or below 1.1720. Risk management is key, as volatility is relatively low and sudden spikes could trigger stop losses. Overall, the market is in a neutral-to-bearish short-term phase, with potential for either consolidation or a measured directional breakout depending on upcoming economic cues."
+    }
+  }
+}

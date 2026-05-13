@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-05-13T06:45:55.850Z",
+  "price": {
+    "close": "1.37016",
+    "high": "1.37033",
+    "low": "1.36954",
+    "open": "1.3697",
+    "change": "0.03",
+    "datetime": "2026-05-13 16:00:00"
+  },
+  "indicators": {
+    "rsi": 55.71389,
+    "macd": 0.000054264068,
+    "macd_signal": 0.00016652977,
+    "sma20": 1.37009
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：短线震荡偏多格局",
+      "content": "当前美元/加元维持在1.37016附近，日内波动幅度极窄，显示市场短期缺乏明确方向。从趋势角度看，价格略高于20日简单移动平均线SMA(20)=1.37009，表明短线仍有温和多头支撑，但突破力度有限，整体呈现震荡偏多。  \n\n技术指标方面，MACD微幅为正0.000054，虽显示多头动能存在，但缺乏明确信号线数据，动能偏弱，RSI未提供具体值，无法判断超买或超卖状态。因此，市场多空分歧依然存在，需关注价格对关键均线的反应。  \n\n支撑位初步位于1.3695，若跌破可能触发短线回调压力。阻力位关注近期高点1.37033以及心理整数位1.3710，突破后有望带动短线上行。价格在支撑与阻力之间震荡概率较大，适合短线交易者关注区间操作。  \n\n交易策略上，可考虑在接近支撑位1.3695附近轻仓多单，止损设置在1.3690下方；若价格接近阻力1.3703-1.3710，可择机减仓或短线做空，止损控制在1.3715上方。总体上，维持区间震荡偏多思路，等待动能进一步确认再做方向性加仓。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "USD/CAD is currently showing a mild bullish bias, trading slightly above the 20-period simple moving average at 1.37016. Price action has been relatively tight, with a 24-hour range between 1.36954 and 1.37033, suggesting consolidation. The minor upward drift above the SMA indicates short-term support for buyers, although momentum remains subdued. A break above the intraday high of 1.37033 could open a path toward 1.3710, while any dip below 1.3695 may invite renewed selling pressure toward 1.3685.\n\nThe MACD reading at 0.000054 suggests minimal bullish momentum, but the lack of a signal line limits clear confirmation. Without a definitive RSI reading, the market cannot be assessed for overbought or oversold conditions, indicating traders should proceed cautiously. The alignment of price slightly above the SMA shows tentative support, but a clearer trend might emerge only after breaking key short-term levels. Momentum indicators suggest range-bound behavior rather than a decisive trend, favoring strategic entries near support and resistance.\n\nKey support levels to monitor include 1.3695 and the psychological 1.3690 area, which could serve as a floor for buyers. Resistance levels are near 1.3703 and 1.3710, where sellers might reassert control. Intraday traders can consider buying near support with tight stops, targeting minor resistance, while cautious short positions may be viable only after confirming a break below 1.3690. Swing traders might wait for a more sustained breakout to avoid false signals in this low-volatility environment.\n\nIn terms of trading strategy, maintaining discipline is essential due to the narrow trading range. Scalpers may find opportunities in oscillations around the SMA, while position traders could stay on the sidelines until a clearer directional bias develops. Monitoring cross-asset cues, such as crude oil movements, may also provide insights since CAD often reacts to commodity price shifts. Overall, a conservative approach emphasizing risk management is recommended until the pair shows a more definitive trend direction."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-05-13T06:44:58.609Z",
+  "price": {
+    "close": "0.72368",
+    "high": "0.72426",
+    "low": "0.72346",
+    "open": "0.72394",
+    "change": "-0.04",
+    "datetime": "2026-05-13 16:00:00"
+  },
+  "indicators": {
+    "rsi": 51.65184,
+    "macd": 0.00013368977,
+    "macd_signal": 0.000065941824,
+    "sma20": 0.7233605
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短线震荡偏多趋势",
+      "content": "目前澳元/美元价格位于0.72368，接近20日均线0.72336，显示短期价格处于均线支撑附近，整体仍保持轻微上涨动能。价格在0.72346至0.72426的波动区间内，短线多空力量相对均衡，尚未形成明确突破方向。\n\nMACD显示为正值0.0001337，表明短期动能略偏多，但信号线数据缺失，需关注后续交叉变化来确认趋势延续。虽然RSI未提供，但结合价格和均线位置，可以判断短期超卖或超买压力不大，市场维持温和震荡格局。\n\n支撑位初步可视作0.72336附近20日均线，再下方0.72300是心理支撑；阻力位在近期高点0.72426，若突破可进一步看向0.72500区域。短线交易者可在支撑附近关注多单机会，突破阻力则可顺势加仓，但须设置严格止损。\n\n交易建议上，倾向于短线低吸高抛策略，利用震荡区间波动获取利润。若价格跌破均线并收盘下行，需警惕趋势反转风险；同时关注全球经济数据和澳洲央行政策消息，以辅助技术判断。整体而言，多空仍存分歧，操作上以稳健为宜，避免追高。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "AUD/USD is showing a mild consolidation around the 0.7235–0.7242 range. The latest price of 0.72368 sits slightly above the 20-period simple moving average at 0.72336, suggesting that short-term support is holding. Price momentum appears muted, with a 24-hour change of just -0.04%, indicating indecision among traders. The narrow high/low range further confirms a lack of strong directional conviction in the immediate term.\n\nThe MACD, while positive at 0.000134, is hovering near the zero line, hinting at a tentative bullish bias but without significant momentum. The absence of the signal line complicates interpretation, but the small positive reading implies buyers are slightly dominant. Traders should be cautious, as momentum may not yet be sufficient to sustain a breakout, and minor swings could easily reverse if market sentiment shifts or global risk factors intervene.\n\nKey support lies near 0.72335, the 20-SMA level, with further downside potential toward 0.72250 if sellers gain control. Resistance is positioned at the recent high of 0.72426, followed by 0.72500 as a psychological barrier. A sustained move above these levels could open the way for a stronger bullish leg, while failure to hold support could invite short-term retracement toward the 0.7220–0.7225 area.\n\nTrading suggestions favor a cautious approach: short-term traders might consider buying near support with tight stops around 0.7230, targeting 0.7242–0.7250 for intraday gains. Conversely, breakout traders could wait for a clear move above 0.7243 with volume confirmation. Overall, the market reflects a slight bullish tilt within a narrow range, but confirmation from momentum indicators or macro catalysts will be crucial before committing to larger positions."
+    }
+  }
+}
