@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-05-14T06:40:54.201Z",
+  "price": {
+    "close": "1.17123",
+    "high": "1.17145",
+    "low": "1.17072",
+    "open": "1.17121",
+    "change": "0.01",
+    "datetime": "2026-05-14 16:00:00"
+  },
+  "indicators": {
+    "rsi": 43.33366,
+    "macd": -0.00035017216,
+    "macd_signal": -0.00047467504,
+    "sma20": 1.1712
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：短期震荡偏多",
+      "content": "目前欧元/美元价格在1.17123附近盘整，短期波动幅度较小，显示市场缺乏明确方向。结合20日简单移动平均线（SMA20）1.17120的支撑作用，价格略高于均线，提示短线多头仍具一定支撑，但整体趋势仍偏向震荡整理。\n\n技术指标方面，MACD值为-0.00035，显示多空动能略微偏弱，多头尚未获得明显发力。RSI指标暂缺，但从价格与SMA20的贴近情况来看，多空力量大致平衡，短线仍可能在区间内反复震荡，若出现MACD拐头向上，可视为短线买入信号。\n\n支撑位方面，近期低点1.17072构成短期支撑，若跌破可能引发进一步回调；阻力位则在1.17145附近，突破后有望挑战1.1720区域。结合均线与区间边界，操作上应关注关键支撑和阻力的反应，避免追高追低。\n\n交易建议上，短线交易者可考虑在支撑附近小幅做多，止损设置在1.1705下方；如价格冲破阻力，则可适度加仓追涨。中线投资者应保持观望，等待MACD或RSI确认趋势方向，以降低区间震荡带来的风险。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD currency pair is showing a neutral trend at the current price of 1.17123, with little movement observed in the past 24 hours (0.01% change). The price has remained confined within a tight range between 1.17072 and 1.17145, suggesting a period of consolidation. This lack of significant price movement indicates indecision in the market, with neither buyers nor sellers asserting clear control. The market could be waiting for fresh news or data to break the range.\n\nFrom an indicator standpoint, the RSI(14) data is unavailable, but the MACD value of -0.00035017216 suggests a bearish bias in the short term. The negative MACD indicates that momentum is currently in favor of the sellers, although the lack of a clear crossover with the signal line limits its reliability. The price is also hovering around its 20-period simple moving average (SMA), which stands at 1.17120, reinforcing the current consolidation phase. A break above or below this level could signal the next move.\n\nLooking at key support and resistance levels, immediate support is found at the 1.1707 area, with further downside potential towards the 1.1700 mark. On the upside, resistance is located near the 1.1715-1.1720 range, with any breakout above this zone potentially leading to a retest of the next key resistance around 1.1730. Traders should closely monitor price action for any decisive move beyond these levels for clues on the next direction.\n\nFor trading, the current market conditions favor a cautious approach. Scalpers and short-term traders might consider trading within the established range, with buy orders near 1.1707 and sell orders closer to 1.1715. A breakout above 1.1720 could trigger a move higher, while a fall below 1.1700 may offer short-selling opportunities. However, due to the lack of strong momentum indicators, it is advisable to wait for more confirmation before making large trades."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-05-14T06:43:31.091Z",
+  "price": {
+    "close": "0.72615",
+    "high": "0.72616",
+    "low": "0.72563",
+    "open": "0.7259",
+    "change": "0.02",
+    "datetime": "2026-05-14 16:00:00"
+  },
+  "indicators": {
+    "rsi": 60.79044,
+    "macd": 0.00038584062,
+    "macd_signal": 0.00040092189,
+    "sma20": 0.725491
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短线震荡偏强，关注突破方向",
+      "content": "澳元/美元最新报0.72615，价格运行在20日均线0.72549上方，显示短线多头仍具一定优势。24小时波动较窄，说明市场情绪偏谨慎，当前走势以高位整理为主，趋势暂未形成明显单边突破。\n\n从技术指标观察，MACD维持正值，快线处于零轴附近，反映多头动能仍在，但力度有限。RSI数据暂未提供，意味着短线超买或超卖状态难以确认，市场更可能维持区间震荡结构，等待新的方向选择。\n\n关键支撑位可关注0.72560附近，若跌破则可能回测0.72480区域；上方阻力首先位于0.72620，进一步突破后有望测试0.72700整数关口。当前高低点区间较窄，短线突破后行情波动或将明显放大。\n\n交易策略方面，激进交易者可关注0.72620上破后的顺势跟进机会，目标看向0.72700上方；稳健者则建议等待回踩20日均线后的企稳信号。若价格失守0.72560，应警惕短线多头动能减弱带来的回调风险。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "AUD/USD is currently hovering around 0.72615, showing minimal intraday movement with a 0.02% change. The pair appears to be in a mild bullish phase given its position above the 20-period simple moving average at 0.72549. Price action suggests a consolidation near the upper end of the recent range, with buyers attempting to maintain control above key short-term support. Momentum is moderate, and without a strong RSI reading, the market is likely balancing between short-term accumulation and distribution.\n\nThe MACD reading of 0.000386 indicates a slight bullish bias, though the absence of a signal line limits the clarity of crossover signals. This subtle positive divergence could support further upside if confirmed by increasing volume or a breakout above resistance. Traders should watch for convergence between price action and moving averages for potential entry points. The proximity of the SMA(20) provides a dynamic support level that could serve as a pivot for intraday strategies.\n\nKey support lies near 0.7256, coinciding with the recent low and the SMA(20), while immediate resistance is around 0.7262, representing the intraday high. A decisive break above this resistance could open the way to 0.7270–0.7280, whereas a drop below support may retest 0.7245. The narrow trading range highlights the importance of watching for breakout confirmations, as false moves could trap momentum traders.\n\nFrom a trading perspective, short-term traders might favor buying near support with tight stops just below 0.7255, targeting the 0.7262–0.7270 area. Conversely, aggressive breakout traders could look for a sustained move above 0.7262, with risk management crucial due to low volatility. Overall, the pair shows cautious bullish potential, with traders advised to align positions with confirmed price action rather than relying solely on indicator signals."
+    }
+  }
+}

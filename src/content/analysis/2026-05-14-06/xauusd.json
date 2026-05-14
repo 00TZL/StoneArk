@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-05-14T06:46:57.838Z",
+  "price": {
+    "close": "4695.44938",
+    "high": "4696.76132",
+    "low": "4687.28087",
+    "open": "4696.76132",
+    "change": "0.02",
+    "datetime": "2026-05-14 16:00:00"
+  },
+  "indicators": {
+    "rsi": 52.14168,
+    "macd": -1.023462,
+    "macd_signal": -2.13703,
+    "sma20": 4691.17796
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短期震荡偏多，关注支撑与阻力位",
+      "content": "当前XAU/USD价格在4695.45附近波动，日内涨幅微弱，整体呈现小幅整理态势。价格略高于20日简单移动平均线(SMA20=4691.18)，显示短期多头略占优势，但整体趋势仍偏中性，需观察进一步价格突破情况。\n\n技术指标方面，MACD负值且低于零轴(-1.023462)，短期动能偏弱，缺乏明确买入信号。RSI数据不可用，难以评估超买超卖状态。结合价格在SMA附近徘徊，可判定市场处于观望阶段，多空力量暂时均衡。\n\n支撑位初步定位在4687.28附近，为日内低点与近期均线附近；若跌破该水平，则可能加速下探至4680关口。阻力位则关注4696.76高点以及4700整数关口，突破将有助于短线多头延伸上涨空间。\n\n交易策略上，短线操作建议以低位买入高位获利为主，结合支撑位入场，止损可略低于4687；若价格站稳4700，可考虑轻仓顺势加仓。激进交易者可关注突破阻力后的追多机会，但需警惕反转风险。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold is currently consolidating near the $4695 level, showing minimal net movement over the past 24 hours. The intraday range is narrow, with a high of $4696.76 and a low of $4687.28, reflecting a market in indecision. The price hovering slightly above the 20-period SMA at $4691.18 suggests a short-term neutral-to-bullish bias, though the lack of significant momentum indicates that traders are waiting for a clearer catalyst before committing.\n\nThe MACD reading at -1.023462 points to subdued bearish momentum, although without the signal line value, the strength of the trend remains uncertain. The absence of RSI data prevents a full overbought/oversold assessment, but the tight range and minimal daily change imply neither extreme buying nor selling pressure. This aligns with the price being near the SMA, suggesting the market is balancing around a technical equilibrium.\n\nSupport is likely to be encountered near $4687, the recent low, while resistance sits close to $4697, representing the short-term high. Breaking above $4697 could pave the way for a move toward $4705–$4710, whereas a decisive drop below $4687 might open a test of $4675. Traders should monitor volume and price reaction around these levels to confirm any breakout or reversal, as the current sideways movement indicates a potential build-up before a directional move.\n\nFor trading, a cautious approach is recommended. Range-bound strategies like buying near support and selling near resistance could be effective until a breakout confirms trend direction. Longer-term positions should await more definitive signals from momentum indicators or a breach of key support/resistance. Patience is warranted, as entering before trend confirmation could expose traders to whipsaw risk in this low-volatility environment."
+    }
+  }
+}

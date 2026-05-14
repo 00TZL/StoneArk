@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-05-14T06:45:19.280Z",
+  "price": {
+    "close": "0.59391",
+    "high": "0.59396",
+    "low": "0.59341",
+    "open": "0.59352",
+    "change": "0.06",
+    "datetime": "2026-05-14 16:00:00"
+  },
+  "indicators": {
+    "rsi": 54.26558,
+    "macd": -0.00018133839,
+    "macd_signal": -0.00030101299,
+    "sma20": 0.593233
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：短期横盘震荡偏强",
+      "content": "目前纽元/美元报0.59391，价格维持在20日简单移动均线(SMA20)0.59323之上，显示短期多头仍具支撑，但涨幅有限。日内波动幅度较小，高低点0.59396/0.59341，呈现横盘整理格局，短线趋势偏向震荡中略强。\n\nMACD指标为-0.00018133839，仍为负值，显示市场上行动能不足，但价格站上均线，可视作潜在反弹信号。RSI数据缺失，无法提供超买超卖判断，但结合价格位置，短线买盘可能在低位支撑区活跃。\n\n关键支撑位关注0.59320-0.59340区域，该区间为SMA20附近的支撑底部。阻力位上看0.59400-0.59420，若价格突破阻力，可能引发短线拉升。若跌破支撑，则需谨慎短线空单操作。\n\n交易策略上，短线可逢低布局多单，设置止损于0.59310以下，目标先看0.59420附近。激进交易者可在突破阻力后追随上涨，但需注意波动幅度有限，谨防假突破。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is showing a subtle bullish tilt as it hovers just above the 20-day SMA at 0.593233, indicating short-term support is holding. Price action remains relatively tight, with the daily high of 0.59396 and low of 0.59341, reflecting a consolidation phase. This sideways movement suggests that the market is waiting for fresh catalysts, potentially from upcoming economic data or US Dollar sentiment shifts. Traders should watch for a break above 0.5940 for early bullish confirmation.\n\nMACD is slightly negative at -0.000181, indicating minimal bearish momentum, but the lack of a signal line reading limits strong conclusions. RSI is unavailable, so relying on momentum oscillators alone is challenging. Nonetheless, the proximity of price to the SMA suggests that buyers are cautiously defending this zone. If the pair drops below 0.5932, the next support is likely near 0.5928, while resistance lies around 0.5945, marking the recent intraday highs as critical decision points.\n\nFrom a trend perspective, NZD/USD has been relatively range-bound, with no clear directional dominance in the last 24 hours. Short-term traders might consider scalping around the support and resistance bands, while swing traders could await a decisive move beyond 0.5945 or below 0.5928. The current micro-fluctuations favor a cautious long bias, especially if macroeconomic indicators provide positive signals for the New Zealand Dollar or weigh on the US Dollar.\n\nTrading strategies should remain flexible, given the consolidation environment. A breakout above the 0.5945 resistance could open a move toward 0.5960, while a breach of 0.5928 might target 0.5915. Position sizing should be conservative, and stop-loss orders near the SMA or immediate support are advisable. Monitoring global risk sentiment, commodity prices, and central bank cues will be essential to navigate this pair effectively in the coming sessions."
+    }
+  }
+}

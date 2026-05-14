@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-05-14T06:42:45.495Z",
+  "price": {
+    "close": "157.90412",
+    "high": "157.92121",
+    "low": "157.859",
+    "open": "157.90019",
+    "change": "0.00",
+    "datetime": "2026-05-14 16:00:00"
+  },
+  "indicators": {
+    "rsi": 57.096447,
+    "macd": 0.052532698,
+    "macd_signal": 0.060002873,
+    "sma20": 157.86829
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：短期整理偏多震荡",
+      "content": "目前美元/日元维持在157.90附近，价格围绕20日均线(157.868)轻微上方波动，显示短期多空力量均衡。尽管24小时涨跌幅接近零，但整体价格仍略高于均线，暗示潜在的偏多整理趋势。\n\nMACD指标显示快线与信号线的差值为0.0525，呈微弱正值，表明多头动能略优于空头，但未形成明确趋势信号。由于RSI数据缺失，短期超买或超卖情况难以判断，需要结合价格形态与成交量来确认短线动向。\n\n支撑位可关注157.85一线，该区域为近期低点附近，多头可能在此获得支撑；阻力位则在157.92-157.93区域，高点回撤压力明显。若价格突破阻力，可能延伸至158.00附近，反之跌破支撑则需警惕回调风险。\n\n交易建议上，短线可考虑高抛低吸策略，维持震荡操作为主。激进交易者可在支撑位附近布局多单，目标至阻力位，同时严格设定止损以控制风险；保守策略则等待价格明确突破后再顺势跟进，以降低震荡带来的不确定性。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USD/JPY is currently consolidating around the 157.90 level, showing limited directional momentum over the past 24 hours. The narrow trading range between 157.859 and 157.921 suggests indecision among traders, with neither bulls nor bears establishing firm control. From a trend perspective, the pair is hovering slightly above its 20-period simple moving average at 157.868, indicating mild bullish bias, though the lack of strong momentum keeps the market in a sideways consolidation phase for now.\n\nThe MACD reading of 0.0525, while positive, lacks a confirmed signal line crossover, suggesting the upward momentum is still tentative. With RSI unavailable, it's difficult to gauge overbought or oversold conditions, but the proximity of the current price to the SMA(20) implies the market is not extended in either direction. Short-term traders should watch for a breakout above 157.92 to confirm bullish continuation or a breakdown below 157.86 for bearish acceleration, using intraday momentum indicators for confirmation.\n\nKey technical levels are straightforward in this environment. Immediate resistance sits at the recent high near 157.921, while support aligns with the 157.86 low of the day. A sustained move beyond these thresholds could trigger a more directional move. For traders seeking lower-risk entries, buying near support with tight stops around 157.85 could capture limited upside, while selling near resistance could benefit from potential retracement. Larger positions may warrant waiting for a clear breakout or breakdown to avoid false moves.\n\nIn terms of trading approach, the current setup favors range-bound strategies until momentum indicators confirm direction. Scalping small gains within the 157.86–157.92 band could be effective for short-term traders. Meanwhile, breakout traders should monitor higher timeframes for trend confirmation. Overall, USD/JPY is in a cautious equilibrium, and patient positioning with disciplined risk management is advisable before committing to directional trades."
+    }
+  }
+}

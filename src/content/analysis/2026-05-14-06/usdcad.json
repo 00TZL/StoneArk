@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-05-14T06:44:19.071Z",
+  "price": {
+    "close": "1.37044",
+    "high": "1.37087",
+    "low": "1.37037",
+    "open": "1.3704",
+    "change": "-0.00",
+    "datetime": "2026-05-14 16:00:00"
+  },
+  "indicators": {
+    "rsi": 50.99474,
+    "macd": 0.00016035338,
+    "macd_signal": 0.00021008205,
+    "sma20": 1.37053
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：短期震荡偏多",
+      "content": "目前美元/加元在1.37044附近运行，价格紧贴20日均线SMA(20) 1.37053，显示短期内市场缺乏明确方向，但略微倾向上行。高低点接近，表明波动幅度有限，短期趋势偏向横盘震荡。\n\n技术指标方面，MACD为0.00016，虽未提供信号线，但数值微正，显示买方略占优势。RSI未提供数据，无法判断超买超卖状态，但结合价格与均线，可推测市场处于中性区域，需关注突破SMA后的动向。\n\n支撑位初步设在1.3700附近，该水平近期多次提供下方支撑；阻力位在1.3710至1.3715区间，若价格突破该阻力，可能引发短线多头回升。关注成交量配合突破，确认趋势延续性。\n\n交易建议上，短线操作可偏向逢低多单，止损设在支撑下方1.3698，目标锁定阻力区间1.3710-1.3715。若价格跌破支撑，需谨慎观望或考虑短线空单以控制风险，同时等待MACD或RSI进一步明确信号。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently showing consolidation around the 1.3704 mark, hovering just below its 20-period simple moving average (SMA) at 1.37053. The market has exhibited minimal 24-hour movement, indicating a lack of strong directional momentum. Price action remains constrained between the intraday high of 1.37087 and low of 1.37037, suggesting that traders are waiting for clearer economic cues or geopolitical developments before committing to a strong trend.\n\nMomentum indicators provide mixed signals. The MACD has a slight positive value of 0.00016, hinting at mild bullish pressure, though the absence of a signal line reading limits conclusive interpretation. The RSI is currently unavailable, but the near-flat price movement suggests the pair is neither overbought nor oversold. This neutral stance typically favors range-bound strategies, with traders closely monitoring for breakouts above resistance or breakdowns below support to capture directional moves.\n\nKey technical levels to watch are immediate support at 1.3700 and resistance at 1.3710. A sustained breach above 1.3710 could open the door toward 1.3725, whereas a drop below 1.3700 may expose the 1.3685–1.3690 zone. Intraday traders may find opportunities in scalping near these boundaries, while swing traders should await confirmed breakouts to reduce the risk of false signals. Volume and news catalysts will likely be decisive in driving a more definitive trend.\n\nIn terms of trading suggestions, a cautious approach is warranted. Short-term traders could consider buying near support with tight stop-loss orders below 1.3700, targeting the 1.3710–1.3720 range. Conversely, a break below 1.3700 could favor short positions toward 1.3685. Longer-term positions might benefit from waiting for MACD convergence or clear SMA support to confirm trend continuation. Patience is key in a market exhibiting minimal volatility and neutral momentum."
+    }
+  }
+}
