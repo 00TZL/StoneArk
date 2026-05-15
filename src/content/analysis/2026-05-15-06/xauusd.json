@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-05-15T06:57:00.514Z",
+  "price": {
+    "close": "4571.18476",
+    "high": "4581.00268",
+    "low": "4557.84223",
+    "open": "4567.98975",
+    "change": "0.04",
+    "datetime": "2026-05-15 16:00:00"
+  },
+  "indicators": {
+    "rsi": 19.0030045,
+    "macd": -27.17862,
+    "macd_signal": -18.49819,
+    "sma20": 4649.0067945
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短期震荡偏弱",
+      "content": "当前XAU/USD价格位于4571附近，较20日均线4649明显偏低，显示短期下行压力仍在，市场整体呈震荡偏弱格局。价格在4557一线获得支撑，而4581附近形成近期高点压力区，短线多空分歧明显。  \n\nMACD指标显示快线与信号线有下行趋势，暗示动能偏弱，空头力量占优，但RSI数据缺失，需关注超买超卖情况确认反弹空间。若价格持续在支撑位上方震荡，可观察短线反弹机会，但突破阻力需谨慎。  \n\n支撑位方面，重点关注4557及4540区域，一旦跌破可能加速下行。阻力位则在4581及4600附近，如能有效突破这些阻力，短线将可能出现反弹修复。交易者需密切监控价格对这些关键水平的反应。  \n\n交易建议上，短线操作可偏向低位轻仓做多，止损设在支撑下方，若价格无法突破阻力，适宜减仓或短线观望。中线投资者应保持谨慎，等待趋势明朗或价格回到均线附近确认再入场，以控制风险。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold remains under moderate bearish pressure after failing to reclaim the 4600 region, with the current price trading below the 20-period SMA at 4649.00. The gap between spot price and the moving average suggests sellers still control the broader short-term structure. Although the 24-hour change is slightly positive, the recovery appears limited and lacks strong bullish momentum. Price action between 4557 and 4581 reflects consolidation rather than a decisive reversal, keeping traders cautious in the near term.\n\nMomentum indicators continue to favor downside risk. The MACD reading at -27.17 indicates bearish momentum remains active, even if selling pressure has slowed compared with previous sessions. RSI data is unavailable, but the current market structure implies neutral-to-weak momentum conditions rather than oversold exhaustion. Unless buyers push the market back above 4600 and sustain acceptance there, rallies may continue attracting fresh selling interest from short-term traders and institutional participants.\n\nKey support is located near 4555-4560, which has already been tested during the latest session low. A confirmed break beneath this zone could expose deeper downside movement toward 4525 and potentially 4500. On the upside, immediate resistance stands around 4580, followed by the more significant 4600-4620 region. A recovery above that area would weaken the bearish outlook and could trigger short covering toward the SMA zone near 4650.\n\nFrom a trading perspective, short-term traders may favor selling rallies while price remains below 4600 and the SMA trend stays negative. Conservative entries could wait for rejection signals near resistance zones, while aggressive bearish positioning may target breaks below 4555. Bullish setups currently require stronger confirmation, ideally through sustained momentum above 4620. Risk management remains essential, as gold volatility can increase rapidly around macroeconomic releases and shifts in US dollar sentiment."
+    }
+  }
+}

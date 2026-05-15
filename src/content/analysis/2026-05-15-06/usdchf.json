@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-05-15T06:56:08.749Z",
+  "price": {
+    "close": "0.78574",
+    "high": "0.78623",
+    "low": "0.78539",
+    "open": "0.78621",
+    "change": "-0.06",
+    "datetime": "2026-05-15 16:00:00"
+  },
+  "indicators": {
+    "rsi": 73.30762,
+    "macd": 0.0009893763,
+    "macd_signal": 0.00079847443,
+    "sma20": 0.7839855
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：短期震荡偏多",
+      "content": "美元/瑞郎当前价格位于0.78574，略高于20日简单移动平均线0.78399，显示价格短期仍维持在均线之上，存在轻微多头支撑。近期24小时波动幅度有限，高低点仅在0.78623和0.78539之间，表明市场短期缺乏强烈趋势。  \n\nMACD指标当前为0.00098937630，显示多头动能仍在，但信号线缺失使得交叉确认不明确。缺乏RSI数据限制了超买超卖判断，但结合价格稳住于均线之上，可推测短线仍有温和上行空间。  \n\n支撑位关注0.78400附近，若跌破该水平可能触发短期回调。阻力位在0.78650~0.78700区域，若突破则可能延伸至0.78800附近。短期交易可考虑在支撑位附近寻求低位多单，同时严格设置止损以控制风险。  \n\n总体来看，美元/瑞郎短期呈震荡偏多格局，建议以均线支撑为参考，结合阻力位设定目标。操作上谨慎追高，重点关注价格对0.78400支撑的守护情况，如守稳可维持轻仓多单策略，破位则应果断调整仓位。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "USD/CHF continues to trade with a mildly bearish tone after slipping toward the 0.7857 region, although downside momentum remains limited. The pair is still holding above the 20-day moving average near 0.7840, suggesting broader price structure remains stable despite recent weakness. Intraday volatility has been narrow, with the market respecting the 0.7854 low and struggling to sustain moves above 0.7862. This reflects cautious positioning and reduced directional conviction among traders.\n\nThe moving average setup offers a constructive medium-term signal, as price remains slightly above the SMA(20), indicating buyers still retain some control. Meanwhile, the positive MACD reading points to underlying bullish momentum, though the lack of a confirmed signal line reduces the reliability of aggressive upside expectations. Momentum conditions therefore appear balanced rather than strongly trending. If the pair remains above 0.7840, short-term pullbacks may continue to attract dip buyers looking for stabilization.\n\nFrom a technical perspective, immediate support is located at 0.7854, followed by the more important structural zone around 0.7840. A break below this region could expose 0.7825 and potentially trigger stronger bearish continuation. On the upside, resistance is seen at 0.7862, with a further breakout target near 0.7880. Sustained movement above resistance would improve bullish sentiment and could encourage momentum-driven buying during upcoming sessions.\n\nTraders may consider a cautious buy-on-dips strategy while price holds above the 20-day average, particularly if bullish momentum strengthens near support zones. Conservative participants may prefer waiting for a confirmed breakout above 0.7862 before entering long positions. Conversely, short positions become more attractive only if the pair closes decisively below 0.7840, which would signal fading buyer strength and increase the probability of a deeper corrective decline."
+    }
+  }
+}

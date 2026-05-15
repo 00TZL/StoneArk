@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-05-15T06:53:09.512Z",
+  "price": {
+    "close": "0.7165",
+    "high": "0.71686",
+    "low": "0.71591",
+    "open": "0.71597",
+    "change": "0.08",
+    "datetime": "2026-05-15 16:00:00"
+  },
+  "indicators": {
+    "rsi": 22.24439,
+    "macd": -0.0018188042,
+    "macd_signal": -0.0012952683,
+    "sma20": 0.721045
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短期偏弱震荡整理",
+      "content": "目前澳元/美元在0.7165附近盘整，价格明显低于20日SMA 0.7210，短期趋势偏弱。尽管24小时涨幅有限，仅0.08%，但连续低于均线表明多头动能不足，短线可能延续震荡或小幅下探格局。\n\nMACD显示当前值为-0.0018，虽然信号线未给出，但负值提示空头力量占优，市场短期情绪偏谨慎。缺乏RSI数据，无法精确判断超买超卖区，但结合价格走势，整体仍偏向弱势震荡。\n\n支撑位方面，可关注0.7159的日内低点及心理整数0.7150，若跌破可能加速下行压力。阻力位在0.7170-0.7180区间，若价格反弹至此附近，多头可能遇到一定抛压，短线难以持续突破。\n\n交易策略上，短线建议观望或低位轻仓做多，止损可设在0.7150下方。若价格企稳并突破0.7180，短期可尝试顺势加仓做多。谨慎投资者可等待MACD与RSI信号配合确认趋势后再入场。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is showing a subtle downward bias after recently peaking near 0.7169. Price action suggests a consolidation phase within a narrow 0.7159–0.7169 range, indicating indecision among traders. The latest close at 0.7165, below the 20-day SMA at 0.7210, reinforces a short-term bearish undertone. Trend analysis points to potential pressure on the upside, with the pair struggling to breach the SMA, which acts as a dynamic resistance barrier in the near term.\n\nTechnical indicators present a mixed picture. The MACD reading of -0.0018 reflects mild bearish momentum, though the absence of a signal line limits clarity on immediate direction. RSI is currently unavailable, but the compressed price range hints at weakening bullish strength. Traders should note that the momentum indicators are signaling a lack of conviction, suggesting that any breakout may require confirmation via volume or stronger macroeconomic cues.\n\nKey support lies near the 0.7159 intraday low, followed by a psychological 0.7150 level, offering potential entry zones for buyers on pullbacks. Resistance is clearly defined at the 0.7170–0.7180 zone, with the 20-day SMA reinforcing this ceiling. Monitoring these levels can provide clearer risk-reward parameters. A break above 0.7180 could shift short-term bias higher, whereas a drop below 0.7150 may accelerate selling toward the 0.7120–0.7130 area.\n\nTrading strategies should be cautious, emphasizing range-bound approaches or tight stop-losses. Short-term traders might consider selling near resistance with stops above 0.7185, while buyers may look for confirmation of support at 0.7150–0.7160 before entering long positions. Given the current consolidation, breakout trades with volume confirmation could offer higher-probability setups, but patience is crucial to avoid false signals in this tightly coiled market."
+    }
+  }
+}

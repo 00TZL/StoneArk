@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-05-15T06:54:10.135Z",
+  "price": {
+    "close": "1.37476",
+    "high": "1.37534",
+    "low": "1.37408",
+    "open": "1.37531",
+    "change": "-0.04",
+    "datetime": "2026-05-15 16:00:00"
+  },
+  "indicators": {
+    "rsi": 67.85421,
+    "macd": 0.00093996096,
+    "macd_signal": 0.0007360262,
+    "sma20": 1.37305
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：短线震荡偏多趋势",
+      "content": "目前美元/加元价格围绕1.3747震荡，距离日内高点1.37534和低点1.37408波动幅度较小，显示短期内市场多空力量相对平衡。价格略高于20日均线SMA(20) 1.37305，提示短线偏多，但整体上涨动力有限。  \n\nMACD数值为0.00094，显示多头仍有一定延续性，但缺乏信号线对比，短期趋势确认不完全。RSI指标暂缺，无法评估超买超卖状态，因此需要结合价格形态和均线动态判断市场情绪。近期价格维持小幅上行，可能在支撑位附近获得买盘支撑。  \n\n支撑位可关注1.3740-1.3730区间，这是20日均线及近期低点的组合支撑，若跌破则可能测试1.3715水平。阻力位上方则为1.3753附近高点，突破后有望上探1.3770一线。交易者应关注关键支撑和阻力的反应，以确定短线入场点。  \n\n交易策略上，建议偏向短线多单为主，止损可置于1.3730下方支撑附近，目标锁定在1.3753-1.3770区间。若价格跌破均线并失守支撑，则需迅速调整策略或考虑短线空单。整体操作应结合市场波动，保持谨慎。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently displaying a mild consolidation phase, with the latest price hovering at 1.37476. The currency has remained tightly ranged between 1.37408 and 1.37534 over the past 24 hours, indicating that neither buyers nor sellers are exerting decisive control. The slight negative movement of -0.04% points to a lack of strong directional bias, but short-term trends suggest minor bullish pressure given that the current price remains above the 20-period SMA at 1.37305.\n\nFrom a technical indicator standpoint, the MACD reading of 0.00094 suggests a nascent bullish momentum, though the absence of the signal line limits the confirmation of a trend reversal. The proximity of the price to the SMA(20) reinforces the notion of potential upward support, as prices often rebound from this moving average during consolidation phases. Traders should monitor for a clearer MACD crossover or divergence to confirm the strength of any emerging trend.\n\nKey support and resistance levels are well-defined in this narrow trading range. Immediate support lies near 1.37400, where buyers have previously stepped in, while resistance is situated around 1.37535, marking the recent high. A decisive break above this resistance could open the door toward 1.37600, whereas a drop below support may test the 1.37300 SMA area and potentially extend to 1.37250. Volume patterns and candlestick behavior near these zones will provide early signals for directional bias.\n\nGiven the current technical landscape, a cautious trading approach is recommended. Short-term traders might consider range-bound strategies, buying near support and taking profits near resistance, while keeping stop-losses tight around 1.37380 to manage downside risk. Swing traders may wait for a confirmed MACD crossover or a break from the range to initiate directional positions. Overall, the pair shows a delicate balance between bullish and bearish forces, requiring disciplined risk management."
+    }
+  }
+}

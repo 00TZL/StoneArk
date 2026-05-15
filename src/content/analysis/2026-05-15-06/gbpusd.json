@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-05-15T06:51:23.620Z",
+  "price": {
+    "close": "1.33577",
+    "high": "1.33583",
+    "low": "1.33367",
+    "open": "1.3344",
+    "change": "0.10",
+    "datetime": "2026-05-15 16:00:00"
+  },
+  "indicators": {
+    "rsi": 23.62316,
+    "macd": -0.0038607437,
+    "macd_signal": -0.0035276171,
+    "sma20": 1.34153
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：短期偏弱震荡整理",
+      "content": "当前英镑/美元价格徘徊在1.33577附近，较20日均线1.34153存在一定下行空间，短期呈现弱势整理格局。日内高低点波动较窄，显示市场观望情绪浓厚，趋势尚未明确突破。整体上，价格处于均线下方，偏向空头压力。\n\n技术指标方面，MACD负值表明下行动能尚存，但信号线缺失使得交叉判断受限。RSI未提供具体数值，但结合价格走势可推测短期未出现超买或超卖状态，行情偏向横盘整理。投资者需关注指标进一步确认趋势的信号。\n\n支撑位初步在1.3335附近，如果跌破可能加速短期回调。阻力位在1.3415至1.3420区域，若价格有效突破，将有助于趋势反转。当前波动受均线和关键整数位限制，短线操作需谨慎控制仓位。\n\n交易策略上，偏向低吸高抛，顺势为主。可在接近支撑位时尝试小幅多单，止损控制在1.3325下方；在接近阻力位时可尝试短线空单，止损设在1.3430上方。整体保持灵活，应根据价格突破与指标变化调整仓位和方向。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "GBP/USD is currently showing a consolidative phase around the 1.3357 mark. The pair has tested a daily high of 1.33583 and a low of 1.33367, indicating limited intraday volatility. The minor 24-hour change of 0.10% further suggests a lack of directional momentum. From a trend perspective, the price remains below the 20-period SMA at 1.34153, signaling a short-term bearish bias, though the sideways price action hints at indecision among market participants.\n\nThe MACD reading of -0.00386 indicates mild bearish pressure, even without a defined signal line for confirmation. This aligns with the SMA positioning, suggesting that sellers may have a slight upper hand, but the lack of strong divergence keeps the overall trend neutral. RSI data is unavailable, but price oscillation within the tight intraday range implies that the market is neither overbought nor oversold, which typically precedes a breakout or sharper directional move.\n\nKey support appears near 1.3335, the recent intraday low, while immediate resistance is aligned with the upper range at 1.3358. A more significant resistance level can be noted around the 1.3415 SMA, which would need to be breached convincingly to signal a bullish reversal. Traders should monitor these levels closely for potential entry and exit points, as breakouts in either direction could dictate the next short-term trend.\n\nFor trading strategy, a cautious approach is advised. Short-term traders might look for a breakout above 1.3360 for potential long positions, targeting 1.3415, while protective stops should be set below 1.3330 to manage downside risk. Conversely, a breakdown below 1.3335 could open the door for a continuation of the bearish bias, with targets around 1.3300. Overall, patience and confirmation from price action around these critical levels will be key before committing to directional trades."
+    }
+  }
+}
