@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-05-19T07:36:34.224Z",
+  "price": {
+    "close": "1.16325",
+    "high": "1.16376",
+    "low": "1.16301",
+    "open": "1.16376",
+    "change": "-0.05",
+    "datetime": "2026-05-19 17:00:00"
+  },
+  "indicators": {
+    "rsi": 44.11953,
+    "macd": 0.000088202235,
+    "macd_signal": 0.00035875997,
+    "sma20": 1.16471
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：短线震荡偏弱",
+      "content": "当前欧元/美元维持在1.16325附近，价格较20日均线SMA(20)1.16471略低，显示短期承压迹象。日内波动幅度有限，高低点1.16376/1.16301反映市场缺乏明显方向性，多空力量暂时平衡。\n\n技术指标方面，MACD微幅正值0.000088，虽显示多头动能略有存在，但缺少信号线及RSI数据支撑，短期趋势仍需谨慎观察。价格低于SMA(20)可能导致进一步试探支撑位，市场仍处于整理阶段。\n\n支撑与阻力方面，短线支撑可关注1.1630及1.1625区域，若跌破可能加速下行压力。阻力位主要在1.1647及1.1655附近，突破需强势成交量配合，方可确认反弹延续。\n\n交易策略上，建议短线以震荡区间操作为主，逢低轻仓多、逢高减仓或观望为宜。中长线投资者可保持观望，等待关键技术指标和价格突破明确信号后再做布局，以降低追高或过早介入的风险。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD is currently exhibiting a mild bearish bias, trading just below the 20-period SMA at 1.16471. The latest price of 1.16325 indicates a slight pullback after a minor intraday high of 1.16376. Overall, the trend remains neutral to slightly downward in the short term, as the pair struggles to gain upward momentum. Traders should watch whether the price can reclaim the SMA level, which could signal a resumption of upward attempts.\n\nThe MACD shows a small positive value of 0.000088, suggesting that bullish momentum exists but is extremely weak. The absence of a signal line reading limits the clarity of crossover signals, but the near-flat MACD indicates consolidation. Without a clear divergence or strong upward acceleration, the current indicator setup favors cautious trading rather than aggressive positioning. Momentum appears balanced, highlighting the potential for minor swings within a narrow range.\n\nKey support is observed near the daily low of 1.16301, providing a short-term floor for buyers, while resistance is found around the SMA at 1.16471. Breaching below 1.16300 could open the way for a deeper retracement, potentially toward the 1.16250 area. On the upside, overcoming the 1.16470–1.16500 zone is critical for reasserting bullish control. Traders should focus on these levels for both entries and stop placements, ensuring risk is managed around these thresholds.\n\nFor trading strategy, range-bound techniques may be suitable given the lack of clear directional strength. Short-term traders could consider buying near 1.16300 with tight stops, targeting the SMA region, while cautious sellers may look to fade rallies into 1.16470–1.16500. Overall, maintaining disciplined position sizing and monitoring for breakout confirmations remains essential, as volatility could increase if either support or resistance zones fail to hold."
+    }
+  }
+}
