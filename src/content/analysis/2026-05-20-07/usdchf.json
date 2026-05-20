@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-05-20T07:41:40.274Z",
+  "price": {
+    "close": "0.79051",
+    "high": "0.79053",
+    "low": "0.79011",
+    "open": "0.7904",
+    "change": "0.01",
+    "datetime": "2026-05-20 17:00:00"
+  },
+  "indicators": {
+    "rsi": 69.31155,
+    "macd": 0.00088040621,
+    "macd_signal": 0.00085324166,
+    "sma20": 0.789409
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：短线震荡偏强，关注突破延续",
+      "content": "美元/瑞郎当前维持窄幅震荡，最新价运行于0.7905附近，价格略高于20日均线，显示短线多头仍占一定优势。24小时波动有限，说明市场情绪偏谨慎，整体处于等待方向选择阶段。\n\n从技术指标观察，SMA(20)位于0.7894，当前汇价站稳其上方，有助于维持短线偏强结构。MACD维持正值，表明多头动能尚未完全衰减，但由于缺乏RSI数据，暂时难以确认超买或超卖状态。\n\n关键支撑区域关注0.7901至0.7894，一旦跌破，可能引发进一步回调，下方目标或看向0.7880附近。上方阻力则集中在0.7905至0.7915区间，若有效突破，短线有机会打开新的上升空间。\n\n交易策略方面，短线可考虑依托0.7894附近逢低做多，止损设置于0.7885下方，以控制回撤风险。若价格持续受阻于0.7905上方，则需警惕高位震荡后的技术性回落，建议控制仓位并等待确认信号。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "USD/CHF is trading in a narrow consolidation range near 0.7905 after a modest intraday recovery from the 0.7901 low. The pair remains slightly above the 20-period SMA at 0.7894, indicating short-term bullish stabilization despite subdued momentum. Price action suggests buyers are defending lower levels, but the inability to push decisively beyond 0.7905 highlights cautious sentiment. As long as the pair holds above the moving average, the near-term bias remains mildly constructive.\n\nThe MACD reading at 0.00088 reflects positive momentum building gradually beneath the surface, even though the advance lacks strong acceleration. With RSI data unavailable, momentum assessment relies more heavily on price structure and MACD positioning. The pair appears to be forming a compact base after previous downside pressure, which can often precede a breakout attempt. However, low volatility and compressed trading ranges imply that market participants are still waiting for a stronger directional catalyst.\n\nImmediate support is located around 0.7901, followed by stronger downside protection near 0.7894, where the SMA currently aligns. A break below this zone could expose 0.7880 and potentially renew bearish pressure. On the upside, resistance stands at 0.7905, with a sustained move above that level opening the door toward 0.7920 and 0.7940. The tight range between support and resistance suggests a breakout-driven environment rather than a trending market at this stage.\n\nShort-term traders may consider buying dips near the 0.7895–0.7900 area while maintaining tight risk controls beneath 0.7890. Conservative traders may prefer waiting for a confirmed breakout above 0.7905 before targeting higher resistance zones. Conversely, failure to hold above the SMA could encourage sellers to re-enter the market. Overall, the technical outlook remains cautiously bullish in the near term, though momentum confirmation is still needed for a stronger directional move."
+    }
+  }
+}
