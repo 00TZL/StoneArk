@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-05-21T07:42:23.118Z",
+  "price": {
+    "close": "1.34201",
+    "high": "1.34405",
+    "low": "1.3416",
+    "open": "1.34347",
+    "change": "-0.11",
+    "datetime": "2026-05-21 17:00:00"
+  },
+  "indicators": {
+    "rsi": 47.76461,
+    "macd": 0.00061864604,
+    "macd_signal": 0.00082022705,
+    "sma20": 1.34311
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：短期震荡偏弱",
+      "content": "当前英镑/美元价格位于1.34201，略低于20日简单移动平均线(SMA20)1.34311，显示短期内存在一定下行压力。尽管24小时跌幅仅为0.11%，但价格在高低点1.34405/1.3416之间波动，说明市场短期多空力量较为均衡，趋势尚未明朗。\n\nMACD指标为0.0006186，虽未提供信号线，但数值接近零，意味着价格动能偏弱，多空双方仍在争夺方向。从技术指标来看，市场缺乏明确的强势信号，需关注未来价格是否突破SMA20以确认趋势。\n\n关键支撑位位于1.3416附近，若价格跌破该水平，可能加速下行；阻力位在1.3440附近，突破该位置则有望延续短期反弹。结合价格波动范围，短线交易应谨慎操作，建议以区间震荡策略为主。\n\n交易建议方面，若价格稳住支撑，可考虑小仓位做多，止损设置略低于1.3415；若价格上破阻力位，可适度跟进多头，目标指向1.3450附近。反之，跌破支撑则可短线做空，控制仓位以防波动扩大。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently exhibiting a mild bearish bias after testing the upper bound of recent ranges. With the latest price at 1.34201 and a slight 24-hour decline of -0.11%, the market appears to be consolidating around the 1.3420 level. Price action shows limited volatility between the high of 1.34405 and low of 1.3416, suggesting that traders are awaiting fresh directional cues. Short-term momentum seems subdued, but the overall sentiment remains cautious, with sellers gaining marginal control.\n\nFrom an indicator standpoint, the SMA(20) at 1.34311 is slightly above the current price, highlighting mild downward pressure. The MACD is positive at 0.0006186, but without a corresponding signal line, the momentum confirmation is incomplete. Although the RSI is unavailable, the current price positioning relative to the moving average implies a potential test of support levels. Technical traders may view this as a near-term bearish setup, though a decisive move above the SMA could quickly shift sentiment to neutral or bullish.\n\nSupport appears solid around 1.3410–1.3415, reflecting the low of the last 24 hours and previous short-term swing lows. Resistance is likely near 1.3440–1.3445, where the pair previously faced selling pressure. Breaching either level with strong volume could trigger more pronounced moves, making these zones critical for trade planning. A close below support might open a path toward 1.3390, while a break above resistance could target 1.3460–1.3470, aligning with prior consolidation highs.\n\nTrading suggestions include a cautious short bias while the price remains below the 20-period SMA, with stops just above the recent high. Traders could consider entering long positions only if the pair convincingly breaks and sustains above 1.3445, signaling a potential trend shift. Risk management remains key in this tight range environment, as small swings may dominate until macroeconomic factors or central bank news provide clearer directional impetus. Overall, a balanced approach with careful monitoring of support and resistance zones is advised."
+    }
+  }
+}

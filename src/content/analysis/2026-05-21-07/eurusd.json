@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-05-21T07:41:21.008Z",
+  "price": {
+    "close": "1.16022",
+    "high": "1.16228",
+    "low": "1.15945",
+    "open": "1.16199",
+    "change": "-0.16",
+    "datetime": "2026-05-21 17:00:00"
+  },
+  "indicators": {
+    "rsi": 38.015785,
+    "macd": 0.00014326956,
+    "macd_signal": 0.00031518762,
+    "sma20": 1.16196
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：短期震荡偏弱",
+      "content": "目前欧元/美元处于1.16022附近，较昨日小幅下跌0.16%，显示市场短期承压。价格在1.16228和1.15945之间波动，整体呈现窄幅震荡格局，尚未形成明确单边趋势，需关注突破信号确认方向。  \n\n技术指标显示，20日简单移动平均线SMA(20)在1.16196，价格略低于均线，表明短期空头略占优势。MACD略为正值0.000143，虽然尚未出现明确多空交叉，但动能偏弱，暗示多头力量不足，短线可能延续盘整。  \n\n支撑位关注1.15945附近，若跌破则可能下探1.1580区域；阻力位在1.16228至1.1630区间，突破则有望测试1.1650。投资者可根据突破情况调整策略，震荡区间内可考虑短线高抛低吸操作。  \n\n交易建议方面，短线偏向谨慎观望，维持低仓位操作为宜。若价格企稳并回升突破SMA(20)，可适度做多，止损可设在近期低点下方；若跌破支撑，短线可考虑小幅做空，控制风险并关注关键支撑反应。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional forex analyst. Provide technical analysis for Euro vs US Dollar (EUR/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 1.16022\\n- 24h Change: -0.16%\\n- High/Low: 1.16228 / 1.15945\\n- RSI(14): N/A\\n- MACD: 0.00014326956, Signal: N/A\\n- SMA(20): 1.16196\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nAt **1.16022**, EUR/USD is hovering just below its short‑term 20‑day simple moving average at **1.16196**, suggesting the recent bearish thrust has kept the pair under immediate pressure despite a shallow range today. The lack of a fresh RSI or Signal line limits momentum visibility, but the slightly positive MACD reading suggests that downward momentum isn’t deeply entrenched yet. Price action around the current level reflects indecision, often seen before a breakout or deeper retracement.\n\nLooking at the broader trend, the pair has shown a pattern of lower highs and lower lows in recent sessions, indicating *near‑term bearish bias*. If the euro remains below this SMA and similar dynamic levels, sellers retain control. However, longer‑term charts and industry commentary highlight important structural supports around **1.1580–1.1600**, a zone that has repeatedly attracted bids in past corrections and could act as a pivot for short‑covering or consolidation. A break convincingly below this band may expose deeper support nearer **1.1540**.\n\nOn the upside, immediate resistance sits at the **1.1620–1.1640** zone, with more formidable barriers nearer **1.1700** — a level that has acted as both support and resistance in multiple recent cycles and aligns with key moving averages on higher timeframes. A clean break above this area would be required to suggest a shift toward bullish control. Above that, the **1.1750–1.1800** region looms as a psychological and technical milestone that could unlock medium‑term upside momentum.\n\nFor traders, a measured approach is prudent. Consider scalping or short‑term short positions while price remains below today’s average and under key resistance, with a protective stop above **1.1640**. For more directional plays, waiting for a confirmed breakout beyond resistance before initiating longs, or a breakdown below support before adding shorts, helps manage risk. Keep an eye on volatility around these thresholds; tighter ranges often precede sharper moves once breakout conditions are met."
+    }
+  }
+}

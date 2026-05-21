@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-05-21T07:48:32.935Z",
+  "price": {
+    "close": "4515.4005",
+    "high": "4522.89914",
+    "low": "4512.22814",
+    "open": "4519.9591",
+    "change": "-0.10",
+    "datetime": "2026-05-21 17:00:00"
+  },
+  "indicators": {
+    "rsi": 45.73798,
+    "macd": 5.19254,
+    "macd_signal": 8.46908,
+    "sma20": 4532.16134
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短线震荡偏弱",
+      "content": "当前XAU/USD价格位于4515附近，较20日均线4532略低，显示多头动能有限，短线偏弱整理。高低点区间4522–4512反映出市场成交集中在窄幅震荡区间，整体趋势仍未形成明确突破。  \n\n技术指标方面，MACD显示主线在5.19附近，但信号线缺失，难以确认明确多空动能。结合价格偏离SMA(20)下方，表明多头承压，短线可能承受一定回调压力。RSI数据缺失，需关注后续超买/超卖信号确认。  \n\n支撑位上，4512为近期低点，若跌破可能打开进一步下行空间；阻力位4522及SMA(20)附近为主要压制，多头需突破此区域才可企稳反弹。市场震荡特征明显，单边行情不易形成。  \n\n交易策略上，建议短线观望为主，低位可考虑小仓位逢低试多，止损设置在4510下方；若价格突破4522及20日均线，可适度加仓做多；反之下破支撑位4512，可短线轻仓做空或等待企稳信号再入场。整体以震荡操作和风险控制为核心。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold (XAU/USD) is currently exhibiting a mild bearish bias after testing recent highs near 4522.90 and retreating to 4515.40. Price remains below the 20-period simple moving average at 4532.16, indicating short-term selling pressure dominates. Intraday price swings have been contained within a tight range, suggesting consolidation, but the inability to close above the SMA signals sellers retain control. Traders should watch for a decisive break above 4532.16 to confirm a reversal toward higher levels.\n\nMomentum indicators are partially constrained due to missing RSI and MACD signal line data, though the current MACD value of 5.19 suggests bullish energy is present but weakening. Without a signal line to confirm, this reading alone indicates a potential slowdown in upward momentum, aligning with the slight negative price movement. Market participants may consider waiting for a more definitive MACD crossover or the appearance of an RSI reading to gauge whether selling or buying strength prevails.\n\nKey support lies near the 4512.22 low, which has provided temporary price stabilization. A break below this zone could accelerate bearish sentiment toward psychological support at 4500.00. On the upside, resistance is marked by the recent high at 4522.90 and the SMA(20), with additional layers around 4540.00, which historically capped rallies. These levels will be critical for managing risk and defining entry points for swing trades.\n\nFor tactical positioning, conservative traders may favor short exposure near the SMA resistance while targeting the 4512 support zone, maintaining tight stop losses. Conversely, breakout-oriented strategies could watch for a sustained move above 4532 to pursue upside potential. Given the muted 24-hour change of -0.10%, scalpers should focus on intraday range plays until stronger trend confirmation emerges. Patience and disciplined risk management remain essential in this low-volatility environment."
+    }
+  }
+}
