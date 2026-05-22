@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-05-22T07:36:35.702Z",
+  "price": {
+    "close": "1.16061",
+    "high": "1.16103",
+    "low": "1.16015",
+    "open": "1.16103",
+    "change": "-0.04",
+    "datetime": "2026-05-22 17:00:00"
+  },
+  "indicators": {
+    "rsi": 45.36159,
+    "macd": -0.00008005614,
+    "macd_signal": -0.000029736406,
+    "sma20": 1.16097
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：短期横盘整理，警惕支撑测试",
+      "content": "当前欧元/美元报1.16061，短线价格围绕SMA(20) 1.16097轻微下行，显示市场多空力量接近平衡，短期趋势偏中性。日内波幅有限，高低点1.16103/1.16015，表明买卖双方在此区间内交投谨慎。\n\nMACD略为负值-0.00008，尚未形成明显的交叉信号，暗示下行动能稍强，但动量不足以推动快速下跌。缺失RSI数据限制了超买/超卖判断，但结合价格走势和均线来看，多空处于僵持状态。\n\n关键支撑位位于1.16015附近，若跌破可能测试1.1585区域；阻力位在1.1610-1.1620区间，多头若突破可望短期反弹至1.1630。交易者需关注突破或回踩支撑后的反应，以判断下一步方向。\n\n操作建议上，短线可采取区间操作策略，低位可考虑小量多单，高位接近阻力可减仓或轻仓空单。同时建议设置止损1-2个点以控制风险，避免追高杀跌，等待明确突破信号再加仓。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "The EUR/USD pair currently shows a slight downward bias, trading around 1.16061 with minimal movement over the last 24 hours. The pair has been consolidating near the 20-period simple moving average at 1.16097, indicating a lack of strong directional momentum. Price action between the daily high of 1.16103 and low of 1.16015 suggests a narrow range, reflecting market indecision. Traders should watch for a clear break above or below this range to confirm the next directional move.\n\nAlthough the RSI is unavailable, the MACD reading of -0.000080056140 hints at mild bearish momentum. The negative MACD suggests that short-term selling pressure slightly outweighs buying interest, although the signal line is missing for confirmation. This small negative value indicates that any downside moves may be gradual rather than abrupt, and the market is likely awaiting new fundamental catalysts to shift sentiment decisively.\n\nKey support appears near 1.1600, a psychologically significant level and recent intraday low. Resistance is immediate around 1.1610, which aligns with the recent intraday high and the 20-period SMA. A break below 1.1600 could open the door to 1.1585, while a sustained move above 1.1610 may target 1.1625–1.1630. Given the tight range, traders might consider range-bound strategies, taking profits near these support and resistance levels, while using tight stops to limit exposure.\n\nShort-term traders could favor a cautious approach, waiting for momentum confirmation before entering positions. Breakout strategies may be appropriate if the price decisively moves beyond the 1.1600–1.1610 corridor. Longer-term participants should watch broader macro trends, including ECB and Fed signals, as these could drive more substantial directional shifts. Overall, the pair remains in a delicate equilibrium, requiring careful monitoring of intraday price action."
+    }
+  }
+}

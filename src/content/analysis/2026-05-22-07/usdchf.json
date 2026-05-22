@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-05-22T07:41:50.875Z",
+  "price": {
+    "close": "0.7863",
+    "high": "0.78758",
+    "low": "0.78628",
+    "open": "0.78681",
+    "change": "-0.07",
+    "datetime": "2026-05-22 17:00:00"
+  },
+  "indicators": {
+    "rsi": 43.2977,
+    "macd": -0.00031038884,
+    "macd_signal": -0.00028484182,
+    "sma20": 0.787254
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：短期弱势震荡下行",
+      "content": "目前美元/瑞郎在0.7863附近盘整，日内价格波动幅度有限，显示出短期市场承压迹象。价格已低于20日均线0.78725，暗示多头动能不足，短线偏向空头压力，整体呈弱势震荡格局。  \n\nMACD指标为-0.00031，仍处于零轴下方，显示下行动能存在，但信号线尚未明确，需警惕可能出现的反弹。缺乏RSI数据限制了超买超卖判断，但价格接近日内低点0.78628，短线可能有支撑效应。  \n\n支撑位初步关注0.7860附近，若失守则有进一步下探0.7850的风险；阻力位上看0.7875至0.7880区间，多头若突破需关注均线压制的反弹力度。日内震荡区间较窄，短线操作应谨慎控制仓位。  \n\n交易策略上，建议以低吸高抛为主，短线逢高可考虑轻仓做空，止损设置在0.7880上方；若价格企稳支撑0.7860附近，可尝试低位布局多单，但需注意整体下行趋势仍未根本改变，操作应以保守为主。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is showing a subtle bearish undertone near the 0.7863 mark after a marginal decline of 0.07% over the last 24 hours. Price action remains closely tethered to the 20-period SMA at 0.78725, suggesting consolidation around this level. The intraday high of 0.78758 and low of 0.78628 indicate a tight trading range, reflecting indecision among market participants. Overall, the short-term trend appears slightly bearish, though the limited movement signals that the pair may need a catalyst to sustain directional momentum.\n\nMomentum indicators provide a mixed view. The MACD sits at -0.00031, hinting at a minor bearish bias, though the absence of a signal line prevents a clear crossover interpretation. Traders should note that RSI is unavailable, which limits overbought or oversold confirmation. The proximity of the current price to the SMA suggests that while there is a slight downward bias, USD/CHF is not yet in a strong trend, implying that any directional move might be shallow unless reinforced by external factors such as risk sentiment or economic data releases from the U.S. or Switzerland.\n\nKey support and resistance levels are emerging from recent intraday swings. Immediate support lies at 0.7860, with a more substantial level around 0.7845, which has historically acted as a floor during minor pullbacks. On the upside, resistance near 0.7880 and then 0.7900 could cap gains. Traders might watch these levels for potential reversal signals, as a breach of either boundary could indicate the next leg in the short-term trend. Given the tight range, breakout strategies could be prioritized over trend-following approaches.\n\nFor trading strategies, short-term traders may consider cautious long positions near support, targeting the lower resistance levels while employing tight stop-losses below 0.7845. Conversely, if prices approach 0.7880–0.7900, a fade strategy could be appropriate, assuming that the upper resistance holds. Risk management is essential given the narrow volatility, as sudden news events could trigger sharp moves. Overall, USD/CHF is currently in a range-bound phase, and traders should balance patience with readiness to act on breakouts."
+    }
+  }
+}

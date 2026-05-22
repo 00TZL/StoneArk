@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-05-22T07:40:56.456Z",
+  "price": {
+    "close": "0.58604",
+    "high": "0.58678",
+    "low": "0.58596",
+    "open": "0.58667",
+    "change": "-0.11",
+    "datetime": "2026-05-22 17:00:00"
+  },
+  "indicators": {
+    "rsi": 44.076313,
+    "macd": 0.00018800606,
+    "macd_signal": 0.00035145695,
+    "sma20": 0.586963
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：短期承压整理，偏向震荡下行",
+      "content": "当前纽元/美元价格位于0.58604，略低于20日均线0.58696，显示短期价格承压且多头动能不足。日内波动幅度有限，反映出市场在当前价位存在一定观望情绪，趋势倾向温和下行，需关注均线支撑反应。\n\n技术指标方面，MACD当前为正值0.000188，但缺少信号线参考，提示多空分界尚不明确，短期内价格可能在均线附近震荡整理。RSI数据不可用，但结合价格偏离均线情况，短线超买或超卖信号难以明确判断，需关注未来动能变化。\n\n支撑位方面，短线关注0.5859附近低点支撑，一旦跌破可能加速下行压力；阻力位则位于0.5870-0.5875区间，上方若突破则可能形成短线反弹机会。整体波动幅度有限，建议以区间操作为主，严格控制止损。\n\n交易策略上，短线可考虑在接近支撑位0.5859附近布局低多，止损设置略低于0.5858；上方阻力0.5875附近可尝试轻仓高空，但需关注突破行情风险。保持耐心观望短期趋势明朗化，切勿追高追低。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently hovering around 0.5860, slightly below its 20-period SMA at 0.58696, indicating a mild bearish bias in the short term. Price action remains constrained within a narrow range, reflecting market indecision. The small 24-hour decline of -0.11% and minimal volatility between the high of 0.58678 and low of 0.58596 suggest that the pair is consolidating near a critical juncture, poised for a potential breakout or further retracement.\n\nTechnical indicators offer a mixed outlook. While the RSI is unavailable, the MACD is marginally positive at 0.000188, suggesting limited bullish momentum but lacking a clear signal due to the missing signal line. The proximity of the current price to the SMA highlights a potential support/resistance pivot. Traders should monitor whether the price can reclaim the SMA as support, which could shift short-term sentiment toward a mild bullish trend, or if it remains below, reinforcing downward pressure.\n\nKey support lies near the recent intraday low at 0.58595, with a secondary floor around 0.58550, where previous price action found buying interest. Resistance is immediately overhead at 0.58696 (SMA 20), with a stronger barrier around 0.58750, where sellers may intensify. Breaches of these levels could dictate the next directional move, offering traders short-term scalping or swing opportunities, depending on risk appetite and timeframe preference.\n\nTrading strategies should prioritize caution given the tight range and lack of decisive momentum. Short-term traders might look for dips toward support for limited long positions, with stops just below 0.58550, while more aggressive participants could explore breakouts above 0.58750. Maintaining a disciplined risk-reward ratio is crucial, as the current consolidation suggests that volatility could expand quickly once a directional bias is confirmed."
+    }
+  }
+}

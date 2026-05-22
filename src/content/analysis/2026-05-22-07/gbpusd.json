@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-05-22T07:37:27.527Z",
+  "price": {
+    "close": "1.34251",
+    "high": "1.34253",
+    "low": "1.34141",
+    "open": "1.34244",
+    "change": "0.00",
+    "datetime": "2026-05-22 17:00:00"
+  },
+  "indicators": {
+    "rsi": 49.47163,
+    "macd": 0.000047000187,
+    "macd_signal": 0.00011755153,
+    "sma20": 1.34247
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：盘整偏多趋势",
+      "content": "当前英镑/美元价格徘徊在1.3425附近，短期内呈现轻微盘整格局。价格紧贴20日简单移动平均线(SMA20)，显示市场暂未形成明确突破方向，多空力量相对均衡。结合高低点1.34253/1.34141，可见市场震荡幅度有限。\n\nMACD指标微幅正值(0.000047)，虽然尚未形成明显金叉，但偏多的动能暗示短期多头仍具潜在支撑。RSI缺失数据，使超买超卖状态不明确，因此操作上应关注价格在关键均线附近的反应。\n\n支撑位方面，可重点关注1.3414至1.3415区间，若跌破该区域，可能加速空头回撤。阻力位在1.3428至1.3430附近，如突破则有望打开进一步上行空间。整体趋势显示短线操作适合轻仓多单，同时警惕突破失败引发回调。\n\n交易建议：短线可在支撑位附近布局小仓多单，目标锁定阻力位；若价格跌破支撑位，则应考虑减仓或等待回调后再择机入场。谨慎控制止损，并结合后续MACD及均线变化调整策略，以应对盘整期间可能出现的突发波动。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is showing a neutral intraday profile with the latest price essentially flat at 1.34251. Price action is consolidating around the 20-period SMA at 1.34247, indicating a lack of clear directional momentum. Recent highs and lows—1.34253 and 1.34141—suggest a narrow trading range, pointing to indecision among market participants. The negligible 24-hour change underscores this sideways behavior, with neither buyers nor sellers asserting dominance, and the market may be waiting for new macroeconomic cues or UK/US data releases to define the next directional move.\n\nTechnically, the SMA(20) aligning closely with the current price reinforces a consolidative phase rather than a trending one. The MACD value at 0.000047 shows minimal separation from its signal line, indicating very weak bullish pressure, though a crossover could quickly alter momentum. The absence of RSI data makes it harder to gauge overbought or oversold conditions, but the tight range implies no extreme sentiment is present. Traders should watch for any MACD divergence or sudden breakout above the SMA to signal a potential trend shift, either bullish or bearish, in the near term.\n\nSupport levels are evident around 1.34140, providing a base where buyers have historically stepped in during this range. Resistance near 1.34260–1.34270 marks the upper boundary of recent intraday highs, where selling interest has capped upside attempts. Breaching either level with conviction and volume could set up short-term directional trades. The current pattern suggests a range-bound environment; cautious traders may consider oscillatory strategies between support and resistance, while breakout traders could wait for a sustained move beyond these levels for trend-following opportunities.\n\nIn terms of trading suggestions, a conservative approach is recommended due to the lack of strong momentum. Range traders might target 1.34140–1.34260 for buy-low/sell-high trades with tight stops just outside these thresholds. Momentum traders could prepare for a breakout, ideally confirming with MACD signals or a clear move away from the SMA. Overall, patience is crucial; GBP/USD is in a wait-and-see mode, where short-term swings dominate and fundamental catalysts may be the next trigger for a more definitive trend."
+    }
+  }
+}

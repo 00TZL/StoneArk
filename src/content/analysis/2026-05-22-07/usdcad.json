@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-05-22T07:40:07.063Z",
+  "price": {
+    "close": "1.3793",
+    "high": "1.37961",
+    "low": "1.37908",
+    "open": "1.37916",
+    "change": "0.01",
+    "datetime": "2026-05-22 17:00:00"
+  },
+  "indicators": {
+    "rsi": 65.66528,
+    "macd": 0.00066909186,
+    "macd_signal": 0.00063548081,
+    "sma20": 1.37847
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：短期横盘偏多整理",
+      "content": "美元/加元当前报价1.3793，接近20日简单移动平均线(SMA20)1.37847，显示价格在短期均线附近震荡。虽然24小时变化仅0.01%，但MACD微幅正值0.000669，表明多头力量略占上风，市场趋势暂时偏向整理中的轻微上涨。\n\n从技术指标角度看，MACD显示多头动能正在累积，但缺乏明显信号线确认。SMA20支撑价格下探，短线震荡区间约在1.3780-1.3800之间。RSI指标暂不可用，但结合均线和价格行为，可判断市场暂无超买超卖压力，价格在区间内波动可能性大。\n\n支撑位方面，1.3780为短期重要支撑，可作为潜在止损参考；阻力位在1.3800附近，一旦突破，可能推动短线进一步上行。若价格未能突破阻力，则可能在支撑与阻力之间继续盘整，形成区间交易格局。\n\n交易策略上，建议短线可考虑区间交易，低多高空为主，同时设置严格止损以防突发突破。中长线交易者可等待明确突破信号再介入，结合MACD动能确认方向，以降低潜在风险并捕捉顺势机会。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is currently consolidating around 1.3793, showing minimal movement over the past 24 hours. Price action remains narrowly contained between the daily high of 1.37961 and low of 1.37908, suggesting a lack of strong directional momentum. The trend in the short term appears neutral to slightly bullish, with the current price sitting just above the 20-period SMA at 1.37847, indicating that the pair is testing support and may be preparing for a potential upward leg if bullish pressure resumes.\n\nMomentum indicators provide a mixed picture. The MACD value of 0.000669 indicates slight bullish momentum, though without the signal line, the full crossover interpretation is incomplete. The absence of an RSI reading limits insights into overbought or oversold conditions, so traders should exercise caution. Overall, the indicators suggest that while buyers have a slight edge, confirmation is needed from either a breakout above resistance or a retest of support levels to guide short-term positioning.\n\nKey levels to watch include immediate support near 1.3780, which aligns with the 20-period SMA, and the psychological resistance around 1.3800. A break above this resistance could open the way to 1.3820–1.3830, providing a clear bullish target. Conversely, a drop below 1.3780 would suggest a deeper retracement toward 1.3750. These levels provide actionable thresholds for stop-loss placement and entry points, offering a framework for risk management in current low-volatility conditions.\n\nFor traders, a cautious approach is recommended. Long positions could be considered near the SMA support with tight stops below 1.3780, aiming for a breakout above 1.3800. Short positions may be reserved for a failure to sustain above resistance, targeting the lower support zone. Given the current tight trading range, intraday strategies focusing on scalps or range trading may be more effective than trend-following positions until stronger directional signals emerge."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-05-22T07:38:27.846Z",
+  "price": {
+    "close": "159.13299",
+    "high": "159.14453",
+    "low": "159.10946",
+    "open": "159.10946",
+    "change": "0.01",
+    "datetime": "2026-05-22 17:00:00"
+  },
+  "indicators": {
+    "rsi": 55.84988,
+    "macd": 0.024100464,
+    "macd_signal": 0.017111023,
+    "sma20": 159.072793
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：短线震荡偏强",
+      "content": "当前美元/日元维持在159.13附近，价格略高于20日均线SMA(20) 159.0728，显示短期多头略占优势，但涨幅有限，市场呈现窄幅震荡格局。日内高低点159.1445/159.1095进一步印证价格波动空间不大，多空力量相对均衡。\n\n技术指标方面，MACD呈现正值0.0241但缺乏信号线确认，表明动能偏多但尚未形成明确趋势。RSI未提供数据，但价格徘徊在均线附近，显示多空能量交错，短线可能继续维持整理，突破确认需观察成交量配合。\n\n支撑位方面，短期可关注159.07附近20日均线支撑，若跌破则可能测试159.00整数关口；阻力位位于159.14-159.15一线，若上破可进一步挑战159.20区域。该价位区间内，价格多空互搏，操作宜谨慎。\n\n交易策略上，建议以区间震荡思路为主，短线可低多高空，严格控制止损。若价格突破阻力并站稳，可考虑顺势追多；若跌破支撑，则宜短线止盈或顺势空单介入，结合资金管理降低风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USD/JPY is currently hovering around 159.13, showing minimal movement in the last 24 hours. The pair is trading slightly above its 20-period simple moving average at 159.072, suggesting mild bullish pressure. The recent high at 159.144 and low at 159.109 indicate a narrow intraday range, reflecting a consolidation phase. Market sentiment appears cautious, likely awaiting further macroeconomic cues or central bank guidance before committing to a strong directional move.\n\nFrom a technical indicator perspective, the MACD shows a marginal positive value of 0.024, implying that short-term momentum slightly favors the upside. While the signal line is unavailable, the positive MACD reading hints at mild bullish energy, but without confirmation, the trend is not yet decisive. Traders may watch for a MACD crossover above zero or an expansion in the histogram as confirmation of a stronger upward trend. In the absence of RSI data, overbought or oversold conditions cannot be fully assessed, which adds to the importance of monitoring price action around key levels.\n\nKey support is observed near the SMA(20) at 159.073, and a stronger support level may lie around 159.00, which could act as a floor if the price retreats. Resistance sits at the recent high of 159.144, and a decisive break above 159.20 could open the door for further bullish momentum. These levels provide clear markers for both risk management and potential entry points. Traders should be cautious of false breakouts in this narrow range and consider using tighter stop-loss placements to mitigate downside risk.\n\nFor trading strategy, cautious range-bound tactics may be appropriate in the current environment. Short-term buyers may consider entering near support around 159.07–159.10 with stops just below 159.00, targeting the upper boundary at 159.144. Conversely, short positions could be contemplated near resistance, with protective stops above 159.20. Overall, USD/JPY appears to be in a consolidation mode, and breakout trades confirmed by momentum indicators or increased volume may provide the most compelling opportunities over the coming sessions."
+    }
+  }
+}

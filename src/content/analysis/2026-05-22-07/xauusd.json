@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-05-22T07:42:39.888Z",
+  "price": {
+    "close": "4518.18743",
+    "high": "4528.39903",
+    "low": "4517.61986",
+    "open": "4527.24361",
+    "change": "-0.21",
+    "datetime": "2026-05-22 17:00:00"
+  },
+  "indicators": {
+    "rsi": 46.60476,
+    "macd": -0.8788888,
+    "macd_signal": 1.038004,
+    "sma20": 4526.84319
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短线承压震荡整理",
+      "content": "当前XAU/USD价格略低于20日均线4526.84，显示短期多头动能减弱，市场处于承压震荡状态。日内高点4528.40和低点4517.62之间波动，价格未能有效突破均线，表明上行动力有限，短线趋势偏中性偏弱。\n\nMACD显示当前为-0.878，位于零轴下方，暗示空头力量略占上风，尽管幅度不大，但反映市场存在一定下行压力。RSI数据缺失，但价格接近均线附近，多空力量交织，短线可能延续区间整理。\n\n支撑位关注4515-4517区域，若跌破可能触发进一步下探至4505附近；阻力位关注4528-4530，突破则可能打开短线反弹空间。价格震荡区间较窄，操作上建议谨慎，关注关键支撑和阻力。\n\n交易策略上，可考虑区间内短线操作：低多高空为主，止损设置在关键支撑或阻力稍外侧；若突破均线且MACD形成拐头信号，可适度顺势跟进，控制仓位以应对短期波动风险。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold is currently showing a subtle bearish bias after failing to sustain momentum above the $4526 level, represented by the 20-period SMA. The price hovering around $4518 indicates a slight downward drift, testing the immediate support near $4517. A break below this zone could open the door for further declines toward the $4500 psychological level. Overall, the short-term trend leans mildly negative, reflecting market caution amid mixed risk sentiment.\n\nThe MACD reading at -0.8789 suggests that bearish momentum is gradually building, even though the signal line is unavailable for confirmation. In this context, traders should remain alert for potential acceleration in selling pressure if the MACD continues to diverge from zero. While the absence of RSI data limits overbought/oversold insights, the negative MACD coupled with price trading below the SMA indicates that sellers currently have a slight edge, albeit not decisively strong.\n\nResistance is clearly defined around $4528, the recent intraday high, and the SMA at $4526 provides an additional technical ceiling. Should gold attempt a rebound, these levels are likely to act as hurdles for upward movement. Conversely, support clusters near $4517 and $4500 may offer short-term buying opportunities for traders seeking tactical entries. Monitoring candlestick patterns at these key zones could provide valuable context for intraday setups.\n\nFrom a trading perspective, cautious short positions could be considered on rallies toward $4525–$4528, with tight stops just above the high. Long exposure may be more appropriate near $4517–$4500 if price shows signs of stabilization. Risk management remains critical, as gold can respond sharply to macroeconomic data or geopolitical developments. A measured approach, using technical zones and momentum signals, will help navigate the current low-volatility environment efficiently."
+    }
+  }
+}
