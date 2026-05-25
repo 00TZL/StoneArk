@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-05-25T08:12:17.368Z",
+  "price": {
+    "close": "1.3488",
+    "high": "1.34884",
+    "low": "1.348",
+    "open": "1.34829",
+    "change": "0.03",
+    "datetime": "2026-05-25 18:00:00"
+  },
+  "indicators": {
+    "rsi": 68.61132,
+    "macd": 0.0012552202,
+    "macd_signal": 0.0010962362,
+    "sma20": 1.34634
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：短线偏强震荡，上行动能仍在",
+      "content": "从价格结构看，GBP/USD最新报1.3488，贴近日内高点1.34884运行，24小时波动有限但重心保持上移。价格稳定站上SMA(20)均线1.34634，说明短周期趋势仍偏多，市场暂未出现明显转弱信号。\n\n指标方面，MACD处于正值区域（0.00126附近），显示多头动能仍占优势，不过由于信号线与RSI数据缺失，趋势确认度略有限。当前更适合结合价格行为观察，若连续收于均线上方，则上涨结构有望延续。\n\n关键位置上，短线支撑首先关注1.3463（20日均线附近），下方进一步支撑参考1.3440；阻力位位于1.3500整数关口，突破后有机会测试1.3530区域。若无法有效站稳1.3500，则可能进入高位整理。\n\n交易策略上，偏向顺势思路处理。激进交易者可等待回踩1.3460—1.3470区域寻找低吸机会，止损置于1.3440下方；稳健者则等待突破1.3500并确认后跟进，避免在高位追涨，提高盈亏比控制。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "GBP/USD is currently hovering around 1.3488, showing very limited 24-hour movement of 0.03%, which suggests a period of consolidation. The narrow trading range between 1.3480 and 1.34884 reinforces this sideways behavior. Observing the short-term trend, the pair remains slightly above its 20-period SMA at 1.34634, indicating mild bullish pressure, though the lack of a strong directional move signals traders are waiting for clearer cues from macroeconomic data or central bank commentary.\n\nThe MACD reading of 0.0012552202, without a specified signal line, shows slight upward momentum, but the small magnitude suggests it’s not yet a decisive trend signal. In the absence of RSI data, reliance on moving averages and price action becomes more critical. The SMA alignment above the recent lows implies that dips toward 1.3460–1.3463 could find support, offering potential entry points for long positions if buying pressure intensifies. Conversely, the upper end near 1.3490–1.3500 may act as a resistance zone, where short-term traders could consider profit-taking or cautious shorts.\n\nSupport and resistance levels are key for managing trades in this range-bound scenario. Immediate support lies at 1.3460, followed by a deeper level near 1.3440 if the market weakens. On the upside, intraday resistance is marked at 1.3490, with stronger resistance around 1.3510. Breakouts above or below these levels could trigger more sustained moves, so monitoring volume and price reaction at these thresholds is essential. Traders should be alert for news-driven volatility that could push GBP/USD beyond its current tight range.\n\nTrading suggestions focus on a measured approach: range-bound strategies such as buying near support and selling near resistance could be effective until a clear breakout emerges. For swing traders, waiting for MACD confirmation and SMA direction could help reduce false signals. Risk management remains crucial, with stop-loss placement just beyond the nearest support or resistance levels. Patience is key, as the current data indicates the pair is in a consolidation phase rather than a trending environment, suggesting that sharp directional trades may carry higher risk."
+    }
+  }
+}

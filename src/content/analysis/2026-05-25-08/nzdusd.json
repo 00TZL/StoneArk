@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-05-25T08:16:11.798Z",
+  "price": {
+    "close": "0.58706",
+    "high": "0.5871",
+    "low": "0.58674",
+    "open": "0.58688",
+    "change": "0.03",
+    "datetime": "2026-05-25 18:00:00"
+  },
+  "indicators": {
+    "rsi": 58.66016,
+    "macd": 0.00055131097,
+    "macd_signal": 0.00055869989,
+    "sma20": 0.5864915
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：短线偏强震荡上行",
+      "content": "纽元/美元最新报0.58706，价格维持在20日均线0.58649上方运行，显示短线买盘仍占据一定优势。24小时波动较小，说明市场情绪偏谨慎，整体走势以震荡偏多结构为主。\n\n从技术指标观察，MACD维持正值0.00055，表明多头动能尚未完全衰减，短期存在继续上探可能。虽然RSI暂缺，但当前价格重心稳定抬升，暗示市场仍处于温和反弹阶段。\n\n关键支撑位关注0.58650附近，该位置与20日均线形成共振，一旦失守，或回测0.58580区域。上方短线阻力位位于0.58800至0.58920区间，若有效突破，将进一步打开上涨空间。\n\n操作策略方面，短线可考虑依托0.58650轻仓顺势做多，目标关注0.58850上方区域，同时需严格设置止损。若价格跌破均线并放量下行，则需警惕多头结构转弱，转入区间整理走势。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "NZD/USD is trading in a narrow intraday range just above the 0.5865 level, showing mild bullish bias but lacking strong momentum. The price is holding slightly above the 20-period SMA at 0.58649, which suggests short-term support remains intact. However, the limited price spread between the daily high and low reflects consolidation, indicating that the market is awaiting a clearer directional catalyst before committing to a sustained move.\n\nFrom an indicator perspective, the absence of RSI data limits overbought or oversold assessment, but the positive MACD reading (0.00055) suggests underlying bullish momentum is building. If the MACD line continues to diverge above its signal line once available, it would reinforce a short-term upward bias. Still, the modest magnitude of the MACD implies that bullish pressure is currently weak rather than decisive.\n\nKey support is seen at 0.5865, aligned with the SMA(20), followed by a deeper level at 0.5855. On the upside, immediate resistance stands at 0.5871, the recent high, with a breakout potentially opening the path toward 0.5890. A sustained move above resistance would signal strengthening bullish control, while a break below support could shift sentiment toward a bearish correction.\n\nIn terms of trading strategy, range-bound approaches may be most suitable in the current environment. Buying near support with tight stops below 0.5855 and targeting a retest of 0.5870–0.5890 offers a favorable risk-reward setup. Alternatively, traders may wait for a confirmed breakout above 0.5871 before entering long positions, or a breakdown below 0.5860 to consider short opportunities, depending on momentum confirmation."
+    }
+  }
+}

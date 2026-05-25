@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-05-25T08:13:19.257Z",
+  "price": {
+    "close": "158.94491",
+    "high": "158.99481",
+    "low": "158.9416",
+    "open": "158.98957",
+    "change": "-0.03",
+    "datetime": "2026-05-25 18:00:00"
+  },
+  "indicators": {
+    "rsi": 41.81983,
+    "macd": -0.064914374,
+    "macd_signal": -0.070905067,
+    "sma20": 159.0023545
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：高位震荡偏空整理",
+      "content": "当前USD/JPY位于159关口附近运行，整体处于前期高位后的横盘震荡结构。价格未能有效站稳SMA20上方，短线动能略显衰减，市场进入整理阶段。\n\nMACD指标小幅负值运行，显示多头动能减弱，短期偏空信号有所增强，但缺乏明显放量确认。若后续RSI回落至50下方，将进一步强化调整预期。\n\n下方支撑位关注158.90及158.60区域，该位置多次形成短线承接。若跌破158.60，打开进一步回撤空间。上方阻力位在159.20与159.50附近。\n\n建议短线以高位震荡思路对待，未有效突破159.20前不宜追多，可等待回调至158.60附近分批布局。止损可设在159.50上方。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USD/JPY continues to trade in a narrow consolidation range near 158.94 after failing to sustain momentum above the psychological 159.00 barrier. Price action remains slightly bearish in the short term, with the pair trading marginally below the 20-period simple moving average at 159.00. The limited daily range between 158.94 and 158.99 suggests reduced volatility and cautious positioning among traders, although downside pressure is gradually increasing as bullish momentum weakens around recent highs.\n\nThe MACD reading at -0.0649 indicates fading upward momentum and hints at a possible bearish crossover environment, even without a confirmed signal value. Although RSI data is unavailable, current market structure implies neutral-to-soft momentum conditions rather than oversold territory. The inability to regain the SMA(20) keeps short-term sentiment defensive, while repeated rejection near 159.00 reinforces the view that buyers are struggling to maintain control at elevated levels.\n\nImmediate support is located around 158.94, followed by a stronger downside zone near 158.70 where buyers may attempt to stabilize the pair. On the upside, resistance remains firm at 159.00 and then 159.20, which could act as a breakout trigger if bullish momentum returns. A sustained move below support may accelerate selling pressure toward the 158.40 region, while a decisive recovery above resistance would shift short-term sentiment back toward a bullish continuation structure.\n\nTraders may consider cautious short positions while the pair remains below the 159.00–159.20 resistance zone, particularly if bearish momentum strengthens on intraday charts. Conservative traders may prefer waiting for confirmation through a breakdown below 158.90 before entering new positions. Meanwhile, bullish setups would become more attractive only after a clear breakout above 159.20 with improving momentum indicators. Risk management remains essential given the pair’s historically sharp reactions to interest rate expectations and central bank commentary."
+    }
+  }
+}

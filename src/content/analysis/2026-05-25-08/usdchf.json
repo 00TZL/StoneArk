@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-05-25T08:16:56.480Z",
+  "price": {
+    "close": "0.78181",
+    "high": "0.78221",
+    "low": "0.7818",
+    "open": "0.78208",
+    "change": "-0.04",
+    "datetime": "2026-05-25 18:00:00"
+  },
+  "indicators": {
+    "rsi": 32.10542,
+    "macd": -0.00073773605,
+    "macd_signal": -0.00062307659,
+    "sma20": 0.7832815
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：短线偏空震荡，空头仍占主导",
+      "content": "美元/瑞郎当前交投于0.78181附近，日内波动极窄，显示市场观望情绪较浓。从价格结构看，汇价持续运行于20日均线下方，短线趋势仍偏弱，空头对节奏掌控较明显，反弹力度暂时有限。\n\n技术指标方面，MACD维持在零轴下方，且负值继续存在，说明中短周期动能依旧偏空。虽然RSI数据暂缺，但结合价格贴近日内低点运行，可判断市场买盘信心不足，短线仍存在继续下探风险。\n\n关键支撑位首先关注0.7815区域，若跌破可能进一步测试0.7800整数关口；上方阻力则位于0.7833附近，对应20日均线压制区，若无法有效站稳，反弹大概率仍属于技术性修复行情。\n\n交易策略上，短线建议以逢高做空思路为主，重点观察0.7830至0.7840区域的承压表现。激进交易者可在反弹受阻后轻仓跟进空单，目标看向0.7800附近，同时需严格控制止损风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "USD/CHF continues to trade under mild bearish pressure, with the pair hovering near 0.78181 after failing to reclaim the 0.7830 region. Price action remains below the 20-period SMA at 0.78328, reinforcing the short-term downward bias. The narrow trading range between 0.78221 and 0.78180 suggests limited momentum for now, although sellers still appear to control intraday direction. Broader sentiment favors the Swiss franc as traders remain cautious toward the US dollar in defensive market conditions.\n\nMomentum indicators also lean negative despite the absence of a confirmed RSI reading. The MACD value at -0.000737 shows bearish momentum remains active, indicating that downside pressure has not fully faded. However, the relatively small MACD spread suggests the decline lacks strong acceleration, which may lead to consolidation before the next directional move. If buyers manage to push price back above the SMA zone, short-term sentiment could stabilize and trigger a corrective rebound toward higher resistance levels.\n\nImmediate support is located near 0.7815, followed by the psychological 0.7800 handle, which could attract stronger buying interest if tested. On the upside, resistance appears around 0.7833, aligned with the 20-day SMA, while a break above 0.7845 would weaken the current bearish structure and potentially open the way toward 0.7860. Traders should monitor volatility closely around these technical zones, as low-range trading conditions can quickly shift into sharper directional movement.\n\nFrom a trading perspective, short positions remain slightly favored while the pair trades below 0.7833. Conservative traders may wait for a confirmed break beneath 0.7815 before targeting the 0.7800 area. Meanwhile, aggressive buyers could consider limited countertrend opportunities only if price regains the moving average with improving momentum confirmation. Risk management remains essential, as the pair is trading near multi-session lows where sudden reversals are possible."
+    }
+  }
+}
