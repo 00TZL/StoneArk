@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-05-26T07:42:27.550Z",
+  "price": {
+    "close": "4523.29487",
+    "high": "4533.93305",
+    "low": "4521.61331",
+    "open": "4532.47599",
+    "change": "-0.18",
+    "datetime": "2026-05-26 17:00:00"
+  },
+  "indicators": {
+    "rsi": 35.6624,
+    "macd": -6.19608,
+    "macd_signal": -0.57314557,
+    "sma20": 4554.57665
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短线偏空震荡整理",
+      "content": "当前黄金/美元报价位于4523附近，日内小幅回落，整体维持弱势震荡结构。价格持续运行于20日均线4554下方，说明中短期空头仍占据主动，市场情绪偏谨慎，短线反弹动能暂未明显恢复。\n\n从技术指标观察，MACD维持负值区域运行，显示空头动能依旧存在，虽然跌幅暂未扩大，但多头承接力度有限。RSI数据暂缺，不过结合价格表现来看，市场尚未进入明显超卖状态，后续仍有进一步下探可能。\n\n关键支撑位关注4520一线，该位置接近日内低点，若失守可能打开下行空间，并测试4500整数关口。上方阻力首先位于4534附近，其后为20日均线4555区域，只有重新站稳均线，趋势才可能转强。\n\n交易策略方面，短线仍建议以反弹做空思路为主，关注4530至4550区域的压力表现。激进交易者可在弱反弹时轻仓布局空单，同时严格设置止损；稳健投资者则等待价格企稳或突破均线后再考虑顺势跟进。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "XAU/USD is currently exhibiting a mild bearish bias after slipping below its 20-period simple moving average, suggesting short-term weakness in momentum. Price action is consolidating near the session lows, indicating limited bullish follow-through. The overall structure remains range-bound, but the inability to reclaim higher levels above the mid-4550 zone keeps sellers in control. Market participants are closely watching whether the pair stabilizes or extends its downward drift.\n\nMomentum indicators reinforce the bearish tone, with MACD remaining in negative territory at -6.19608, signaling persistent downside pressure. Although RSI data is unavailable, price behavior below the 20-SMA suggests weakening bullish strength. The MACD signal gap implies sellers still dominate intraday sentiment. Overall momentum conditions point to continued caution, with recovery attempts likely to face resistance unless a clear reversal signal emerges.\n\nKey support is found near the recent low at 4521.61, with a break below this level exposing the psychological 4500 zone as the next major downside target. On the upside, immediate resistance is seen at 4533.93, followed by the 20-SMA near 4554.58, which acts as a dynamic ceiling. Price is currently trapped between these boundaries, reflecting short-term indecision within a broader corrective phase.\n\nFrom a trading perspective, the bias leans cautiously bearish while price remains below the 20-SMA. Short positions may be considered on rallies toward resistance levels, particularly near 4533 and 4554, with confirmation from momentum continuation. Conservative traders should wait for a decisive break below 4521.61 to target deeper support around 4500. Risk management is essential, as a reclaim of the 20-SMA would invalidate the near-term bearish setup."
+    }
+  }
+}

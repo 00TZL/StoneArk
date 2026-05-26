@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-05-26T07:35:40.939Z",
+  "price": {
+    "close": "1.16396",
+    "high": "1.16398",
+    "low": "1.16241",
+    "open": "1.16355",
+    "change": "0.04",
+    "datetime": "2026-05-26 17:00:00"
+  },
+  "indicators": {
+    "rsi": 53.99898,
+    "macd": 0.000021927144,
+    "macd_signal": 0.00014468234,
+    "sma20": 1.16388
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：短线震荡偏强，关注区间突破方向",
+      "content": "欧元/美元最新价维持在1.16396附近，接近日内高点运行，整体表现偏强。24小时波动虽然有限，但价格持续站稳20日均线之上，显示短线多头仍保持一定主动权，市场情绪偏谨慎乐观。\n\n从技术指标观察，SMA20位于1.16388，当前价格略高于均线，说明短周期趋势仍偏多。MACD维持正值，表明动能尚未转弱，不过柱体幅度较小，意味着上涨力度仍有限，短期可能延续窄幅整理。\n\n关键支撑区域位于1.16240附近，也是日内低点所在，若跌破可能引发短线回调，下方进一步支撑关注1.16180。上方阻力首先看1.16400整数关口，若有效突破，则有机会进一步测试1.16520区域。\n\n交易策略方面，短线更适合顺势低多思路，可等待价格回踩1.16300至1.16250区间后分批布局多单，止损放在1.16180下方。若后续放量突破1.16400，则多头延续概率将明显提升。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD continues to trade in a narrow bullish consolidation near 1.1640, holding slightly above the 20-period moving average at 1.16388. The pair has maintained upward stability despite limited intraday volatility, suggesting buyers remain in control in the short term. Price action near the daily high of 1.16398 indicates resistance pressure is emerging, yet the inability of sellers to force a deeper pullback keeps the near-term structure constructive. Momentum remains modest rather than aggressively directional.\n\nThe MACD reading remains marginally positive at 0.0000219, pointing to weak but persistent bullish momentum. Although the signal line and RSI readings are unavailable, the current positioning above the SMA(20) reinforces a mildly positive bias. The extremely tight high-low range between 1.16241 and 1.16398 reflects market hesitation, likely driven by reduced conviction ahead of stronger macroeconomic catalysts. Traders should interpret the current environment as range-bound with a slight upward tilt rather than a breakout trend.\n\nImmediate support is located around 1.16240, which has contained downside pressure during the latest session. A break below this level could expose 1.16150 and potentially weaken the short-term bullish outlook. On the upside, resistance sits near 1.16400, followed by a stronger barrier around 1.16520 where profit-taking may accelerate. Sustained movement above 1.16400 would improve bullish continuation prospects and could invite momentum-driven buying toward higher intraday targets.\n\nShort-term traders may consider buying dips while price remains above the 20-period average, particularly if support near 1.16240 continues to hold. Conservative participants should wait for a confirmed breakout above 1.16400 before pursuing long exposure. Meanwhile, failure to maintain current levels may create quick intraday selling opportunities toward lower support zones. Risk management remains important, as the pair currently lacks strong momentum and could remain trapped within a tight consolidation range until fresh economic data shifts sentiment."
+    }
+  }
+}

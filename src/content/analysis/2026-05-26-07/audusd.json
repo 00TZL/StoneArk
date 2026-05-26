@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-05-26T07:38:45.152Z",
+  "price": {
+    "close": "0.7159",
+    "high": "0.71677",
+    "low": "0.71559",
+    "open": "0.71677",
+    "change": "-0.10",
+    "datetime": "2026-05-26 17:00:00"
+  },
+  "indicators": {
+    "rsi": 43.56695,
+    "macd": 0.000082565783,
+    "macd_signal": 0.00032308817,
+    "sma20": 0.717019
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短线偏弱震荡，等待方向突破",
+      "content": "澳元/美元最新报0.7159，日内小幅回落，整体维持窄幅整理格局。价格运行在20日均线下方，显示短线动能略偏空，市场情绪相对谨慎，短期仍以震荡偏弱结构为主。\n\n从技术指标观察，MACD维持微弱正值，但柱状动能有限，说明多头力量不足，反弹持续性仍待确认。RSI数据暂缺，不过当前价格未能重新站稳均线，表明市场买盘跟进意愿偏弱。\n\n关键支撑位首先关注0.7155附近，若跌破可能进一步下探0.7140区域；上方阻力位则位于0.7170至0.7180区间，该区域与20日均线重合，对短线走势形成明显压制。\n\n操作策略方面，短线交易者可采取区间思路，在支撑附近观察企稳信号后轻仓尝试多单，但若价格持续受压于0.7170下方，则应警惕空头延续风险。建议严格设置止损，避免突破行情带来的波动放大。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "AUD/USD is trading slightly below the 20-period SMA at 0.7170, indicating that short-term momentum remains mildly bearish despite limited downside follow-through. The pair continues to consolidate near 0.7160 after failing to sustain gains above 0.7175, suggesting sellers are still active on rallies. With the daily range remaining tight between 0.71559 and 0.71677, market participants appear cautious ahead of stronger directional catalysts. Price action currently favors a range-bound structure with a negative bias unless buyers regain control above moving average resistance.\n\nMomentum indicators provide a mixed but cautious outlook. The MACD remains marginally positive at 0.000082, implying that bearish momentum is not yet aggressive, though fading upside pressure is evident. The absence of a confirmed bullish crossover limits confidence in recovery attempts. RSI data is unavailable, but recent price compression and weakening momentum suggest neutral-to-soft conditions rather than oversold territory. As long as the pair trades below the SMA(20), short-term sentiment is likely to remain defensive with limited bullish conviction.\n\nImmediate support is located near 0.7155, which aligns with the session low and an important intraday demand area. A decisive break below this zone could expose 0.7140 and potentially 0.7125 in extended selling conditions. On the upside, resistance is seen around 0.7170 initially, followed by 0.7185 where recent upward attempts stalled. A sustained move above 0.7185 would improve the technical outlook and shift focus toward the psychological 0.7200 region, where broader trend confirmation could emerge.\n\nTraders may consider maintaining a cautious bearish stance while price remains below 0.7170. Short positions could become more attractive on failed rebounds toward resistance, particularly if momentum weakens further. Conservative traders may prefer waiting for a confirmed breakout from the current consolidation range before entering new positions. Risk management remains essential, as low volatility conditions can quickly transition into sharper directional moves following macroeconomic or US dollar-driven developments."
+    }
+  }
+}

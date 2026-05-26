@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-05-26T07:41:34.950Z",
+  "price": {
+    "close": "0.78493",
+    "high": "0.7852",
+    "low": "0.78434",
+    "open": "0.78491",
+    "change": "-0.01",
+    "datetime": "2026-05-26 17:00:00"
+  },
+  "indicators": {
+    "rsi": 67.30689,
+    "macd": 0.00038418355,
+    "macd_signal": 0.00012620398,
+    "sma20": 0.7831845
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：短线震荡偏强，关注上方突破力度",
+      "content": "美元/瑞郎目前运行于0.7849附近，价格略高于20日均线0.7832，显示短线仍维持温和上行结构。虽然日内波动有限，但低点持续抬升，说明多头资金仍具一定防守能力，整体走势偏震荡偏强。\n\n从技术指标观察，MACD维持在零轴上方，柱体保持轻微正值，代表市场仍存在一定上行动能。不过当前成交推动力不足，且RSI数据缺失，短线方向更多依赖价格结构与均线支撑，预计行情将维持区间整理。\n\n关键支撑位可关注0.7843一线，该位置为日内低点区域，若跌破可能进一步回测0.7830附近均线支撑。上方阻力位则位于0.7852及0.7865附近，若有效突破，短线有望延续反弹并测试更高区间。\n\n交易策略方面，建议以区间偏多思路为主，可等待价格回踩0.7843至0.7835区域企稳后轻仓做多，目标关注0.7858至0.7865。若汇价跌破0.7830，则短线趋势可能转弱，应注意及时控制风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "USD/CHF continues to trade within a very narrow consolidation band, with price action hovering just below the recent intraday high. The broader short-term structure remains mildly bullish as the pair holds above its 20-period simple moving average. However, momentum is limited, suggesting the market is still digesting recent gains rather than committing to a directional breakout. Overall tone is neutral-to-slightly positive, with buyers maintaining a subtle edge.\n\nMACD reading shows a small positive value, indicating modest bullish momentum, though confirmation from a signal line is unavailable, limiting precision. Price trading above the SMA(20) reinforces a short-term supportive bias, with the moving average acting as dynamic support around 0.7832. The lack of RSI data reduces overbought/oversold clarity, leaving momentum interpretation primarily dependent on MACD and price structure. Overall indicators suggest mild upward pressure rather than strong trend acceleration.\n\nImmediate resistance is seen at the recent high near 0.7852, which is currently capping upside attempts. A sustained break above this level could open the door toward 0.7865 and 0.7880, where prior supply may emerge. On the downside, initial support sits near 0.7843, followed by the 20-SMA region around 0.7832. A break below that zone would shift momentum back toward a neutral or slightly bearish intraday tone.\n\nIn the current environment, range-bound strategies remain favorable while price remains compressed between support and resistance. Traders may consider buying near support around 0.7843–0.7832 with tight risk control, targeting the upper boundary near 0.7852. Alternatively, a breakout approach can be used if price decisively clears resistance, with stops placed below the breakout level. Given limited volatility, position sizing should remain conservative to manage sudden directional expansion."
+    }
+  }
+}

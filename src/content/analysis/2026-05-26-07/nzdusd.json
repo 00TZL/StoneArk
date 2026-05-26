@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-05-26T07:40:35.727Z",
+  "price": {
+    "close": "0.58451",
+    "high": "0.58521",
+    "low": "0.58443",
+    "open": "0.58521",
+    "change": "-0.12",
+    "datetime": "2026-05-26 17:00:00"
+  },
+  "indicators": {
+    "rsi": 32.57604,
+    "macd": -0.00051554442,
+    "macd_signal": -0.00024894195,
+    "sma20": 0.5863995
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：短线偏弱震荡，空头仍占主导",
+      "content": "纽元/美元最新报0.58451，日内小幅回落，整体仍运行于20日均线下方，显示短线空头结构尚未扭转。当前价格接近日内低点，市场买盘承接偏弱，短期走势维持震荡偏空格局。\n\n从技术指标观察，MACD处于零轴下方，且维持负值，说明中短期动能仍偏空。虽然RSI数据暂缺，但结合均线压制与价格重心下移，可判断市场情绪依旧谨慎，反弹力度暂时有限。20日均线0.58640附近形成明显技术压制。\n\n支撑方面，0.58440为当前第一支撑，若跌破，后续或进一步测试0.58350区域；上方阻力首先关注0.58520，其次是20日均线所在的0.58640。若价格重新站稳均线之上，才有机会改善短线弱势结构。\n\n交易策略上，短线仍建议以逢高做空思路为主，重点观察0.58520至0.58640区域的反弹表现。激进交易者可在阻力附近轻仓试空，并严格设置止损；若跌破0.58440，则空头动能可能进一步释放。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "NZD/USD remains under mild bearish pressure after slipping toward 0.5845, with price action holding below the 20-day simple moving average at 0.5864. The pair’s inability to reclaim this moving average suggests sellers continue to dominate short-term momentum, while the narrow daily range indicates cautious positioning ahead of stronger directional catalysts. The recent decline also reflects fading bullish conviction, particularly as the pair trades close to the session low near 0.5844.\n\nMomentum indicators reinforce the softer outlook. The MACD remains in negative territory at -0.00051, pointing to weakening upside momentum and continued downside bias in the near term. Although the RSI reading is unavailable, current price structure suggests the market is leaning toward oversold conditions without yet signaling a decisive reversal. If bearish momentum accelerates, traders may see increased volatility around key intraday support areas as sentiment stays fragile.\n\nImmediate support is located near 0.5840, followed by a stronger floor around 0.5825, where buyers could attempt to stabilize the pair. On the upside, initial resistance stands near 0.5852, with a more significant barrier around the SMA(20) at 0.5864. A sustained move above that zone would improve short-term sentiment and potentially expose 0.5880. However, repeated rejection beneath resistance would likely confirm continuation of the prevailing downward trend.\n\nFrom a trading perspective, short-term traders may favor selling rallies while price remains below 0.5864, targeting support near 0.5825 with controlled risk exposure. Conservative participants may prefer waiting for either a confirmed breakout above resistance or a clearer bullish reversal signal before entering long positions. Given the compressed trading range and negative momentum profile, disciplined stop placement and careful position sizing remain essential in the current market environment."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-05-26T07:36:39.586Z",
+  "price": {
+    "close": "1.34702",
+    "high": "1.34782",
+    "low": "1.3463",
+    "open": "1.34782",
+    "change": "-0.06",
+    "datetime": "2026-05-26 17:00:00"
+  },
+  "indicators": {
+    "rsi": 35.10163,
+    "macd": -0.000076714825,
+    "macd_signal": 0.000417335,
+    "sma20": 1.34952
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：短线震荡偏弱格局",
+      "content": "当前GBP/USD维持窄幅震荡，价格围绕1.3470整理，短线略偏弱，未能站上1.3495均线压制，整体仍处于回调修复阶段，市场动能不足，多空拉锯明显。\n\n技术指标方面，MACD维持轻微负值，动能柱偏弱，说明短期下行动能仍在，但尚未形成明显单边趋势。均线系统呈压制状态，价格受20日均线限制。\n\n下方支撑关注1.3460与1.3445区域，上方阻力位于1.3495及1.3520。若跌破支撑可能延续下探，反之突破均线则有反弹空间。\n\n交易策略建议以区间操作为主，等待价格回踩支撑附近低吸，或反弹至阻力位轻仓试空，严格设置止损控制风险。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "GBP/USD remains under mild bearish pressure after failing to sustain momentum above the 1.3490 region. The pair is currently trading near 1.3470, slightly below the 20-period SMA at 1.34952, indicating that short-term sentiment has weakened. Price action also shows a narrow intraday range, suggesting limited conviction from buyers. As long as the pair remains below the moving average, rallies may continue to face selling interest, particularly amid cautious dollar positioning.\n\nMomentum indicators point to fading upside strength. The MACD remains in negative territory at -0.0000767, reflecting a soft bearish bias and reduced bullish momentum in the near term. Although the RSI reading is unavailable, current price behavior implies a market lacking strong directional momentum. The inability to reclaim the SMA(20) reinforces the idea that the pair may continue consolidating or drifting lower unless fresh bullish catalysts emerge.\n\nImmediate support is located near the session low at 1.3463, followed by a stronger downside zone around 1.3445 where buyers may attempt to stabilize price action. On the upside, resistance is seen at 1.3478, with a more significant barrier near the 1.3495–1.3500 area, aligned with the 20-period moving average and recent rejection levels. A decisive break above 1.3500 could improve short-term sentiment and expose the 1.3530 region.\n\nFrom a trading perspective, short-term traders may favor selling rallies while the pair remains below 1.3495, targeting a move toward 1.3445 with controlled risk above 1.3505. More conservative participants may prefer waiting for either a confirmed break above resistance or a clearer rebound from support before entering new positions. Given the relatively tight range and muted momentum signals, disciplined position sizing and patience remain important in the current environment."
+    }
+  }
+}
