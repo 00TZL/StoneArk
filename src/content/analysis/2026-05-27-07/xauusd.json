@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-05-27T08:01:47.362Z",
+  "price": {
+    "close": "4481.88939",
+    "high": "4489.33782",
+    "low": "4476.47612",
+    "open": "4485.03773",
+    "change": "-0.07",
+    "datetime": "2026-05-27 17:00:00"
+  },
+  "indicators": {
+    "rsi": 34.43784,
+    "macd": -10.36719,
+    "macd_signal": -9.071285,
+    "sma20": 4503.75345
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：震荡偏弱",
+      "content": "当前黄金/美元维持弱势震荡格局，价格运行于4500下方，并跌破20日均线4503，短线趋势转弱，多头动能明显减弱，市场情绪偏谨慎运行。\n\n技术指标方面，MACD为负值-10.36显示空头动能占优，均线系统中价格位于SMA20下方，趋势确认偏弱，RSI缺失但整体动能不足。\n\n支撑阻力方面，短线支撑位于4476附近，下破可能指向4470区域，上方阻力关注4490及4503均线压力，区间震荡特征明显。\n\n交易策略上建议以反弹做空为主，若反弹至4490-4503区间可分批布局空单，止损设在4510上方，目标看向4470及更低支撑。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold remains under mild bearish pressure against the US Dollar, with XAU/USD trading near 4481.89 and holding below the 20-period moving average at 4503.75. The inability to reclaim the SMA(20) suggests sellers still control short-term momentum, although the narrow daily range indicates consolidation rather than aggressive liquidation. Price action near the session low of 4476.47 shows buyers are attempting to stabilize the market, but upside momentum remains limited unless the pair decisively breaks back above the 4500 psychological region.\n\nMomentum indicators continue to favor caution for bullish positions. The MACD reading at -10.36 reflects weakening momentum and confirms the prevailing downside bias in the near term. Although the RSI value is unavailable, current price behavior suggests the market is neither deeply oversold nor positioned for a strong reversal yet. Continued trading below the moving average reinforces the bearish technical structure, especially if lower highs continue forming during intraday rebounds.\n\nKey support is developing around 4476.50, followed by a stronger downside zone near 4465.00 where buyers may attempt a more meaningful defense. On the upside, immediate resistance appears near 4489.30, with broader resistance located around the SMA(20) at 4503.75. A sustained move above 4505 could shift sentiment toward short-term recovery and potentially open the path toward 4520.00. Conversely, failure to hold above current support levels may trigger renewed selling pressure and accelerate downside momentum.\n\nFrom a trading perspective, short-term traders may prefer selling rallies while price remains below 4503.75, particularly if bearish momentum strengthens around resistance zones. Conservative buyers may wait for confirmation of support stability above 4476 before considering recovery trades. Risk management remains essential given gold’s sensitivity to dollar strength and macroeconomic expectations. Tight stop-loss placement and disciplined position sizing are advisable in the current consolidative but bearish market environment."
+    }
+  }
+}

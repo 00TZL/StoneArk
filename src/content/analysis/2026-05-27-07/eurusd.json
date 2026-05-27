@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-05-27T07:55:48.855Z",
+  "price": {
+    "close": "1.16438",
+    "high": "1.16484",
+    "low": "1.16423",
+    "open": "1.16451",
+    "change": "-0.01",
+    "datetime": "2026-05-27 17:00:00"
+  },
+  "indicators": {
+    "rsi": 60.56304,
+    "macd": 0.0002388784,
+    "macd_signal": 0.000089460579,
+    "sma20": 1.16332
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：短线震荡偏强，关注区间突破方向",
+      "content": "欧元/美元最新报1.16438，日内波动有限，整体维持高位震荡结构。价格运行在20日均线1.16332上方，说明短线多头仍占据主动，但上涨动能暂未明显放大，市场情绪偏谨慎。\n\n从技术指标看，MACD维持正值，显示中期趋势仍偏多，说明汇价存在继续上探可能。不过柱状动能较弱，加之RSI数据暂缺，当前难以确认强趋势延续，短线更可能维持整理节奏。\n\n关键位置方面，1.16420附近形成初步支撑，若跌破可能回测1.16330均线区域；上方阻力位关注1.16500及前高1.16600一带，若有效突破，将进一步打开上行空间并强化多头结构。\n\n交易策略上，短线可关注区间突破后的跟随机会。激进交易者可依托1.16420附近轻仓尝试低多，止损控制在1.16300下方；若价格持续受压于1.16500，则需警惕冲高回落与短期获利了结压力。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD continues to trade in a narrow consolidation range near 1.16438 after a modest pullback from recent highs. The pair remains marginally above the 20-day moving average at 1.16332, suggesting underlying bullish structure is still intact despite subdued momentum. Price action near the daily high of 1.16484 indicates buyers are attempting to defend short-term upside positioning, although the lack of strong follow-through reflects cautious market sentiment and reduced directional conviction.\n\nMomentum indicators present a mixed but slightly constructive outlook. The MACD remains positive at 0.00023887840, implying bullish momentum has not fully faded, even as price movement stalls. While the RSI reading is unavailable, current market behavior suggests the pair is neither significantly overbought nor oversold. The extremely small 24-hour decline of -0.01% reinforces the idea of temporary equilibrium between buyers and sellers, with traders waiting for a stronger macroeconomic catalyst before committing to larger positions.\n\nImmediate support is located around 1.16420, closely aligned with the session low, followed by stronger technical support near the SMA(20) zone at 1.16330. A sustained break below this region could expose the pair to deeper retracement toward 1.16150. On the upside, resistance remains firm near 1.16500, with a decisive breakout potentially opening the path toward 1.16700 and higher. The tight intraday range suggests volatility compression, which often precedes a more aggressive directional move.\n\nFrom a trading perspective, short-term traders may favor buying dips while the pair holds above 1.16330, targeting a retest of 1.16500 and possibly 1.16700. Conservative participants should wait for confirmation through a breakout or breakdown before entering fresh positions. Risk management remains essential given the current low-volatility environment, as false breakouts can occur frequently when momentum indicators remain only moderately supportive rather than decisively bullish."
+    }
+  }
+}

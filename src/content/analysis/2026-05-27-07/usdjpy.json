@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-05-27T07:57:32.662Z",
+  "price": {
+    "close": "159.35228",
+    "high": "159.36439",
+    "low": "159.31383",
+    "open": "159.35231",
+    "change": "-0.00",
+    "datetime": "2026-05-27 17:00:00"
+  },
+  "indicators": {
+    "rsi": 62.11371,
+    "macd": 0.051407734,
+    "macd_signal": 0.055870832,
+    "sma20": 159.29863
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：高位震荡偏强整理",
+      "content": "美元/日元当前维持高位窄幅震荡格局，价格围绕159.30一线整理，整体趋势偏强但动能趋缓，短期进入盘整阶段，等待方向选择确认结构偏多头\n\nMACD指标轻微金叉上行，动能柱维持正值但幅度有限；价格运行于20日均线上方，短线多头占优，但RSI缺失需谨慎确认强度信号\n\n下方支撑关注159.30及159.28区域，上方阻力位159.36附近，突破需成交量配合，短线区间整理为主，上破则打开空间\n\n建议短线以回调做多为主，控制仓位在轻仓范围，若跌破159.28则需观望或止损离场，等待回踩确认再介入避免追高操作以防波动放大"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USDJPY remains in tight consolidation around 159.35 after a period of subdued volatility. Price action is hovering just above the 20-period SMA at 159.29863, suggesting a marginal bullish bias but lacking strong directional conviction. The pair continues to oscillate within a narrow intraday range, indicating equilibrium between buyers and sellers as the market awaits a catalyst. Volatility remains compressed across Asian and early European sessions.\n\nMomentum indicators show mixed signals, with MACD reading at 0.0514 indicating mild bullish momentum persisting in the short term. However, the absence of RSI data limits overbought or oversold assessment, making price action more important for confirmation. The 20-period SMA continues to act as dynamic support, reinforcing the current range-bound structure rather than a trending environment. This suggests traders should prioritize breakout confirmation over indicator divergence.\n\nImmediate support is seen near 159.31, aligning closely with the session low at 159.31383, while a deeper support zone emerges around 159.25 if selling pressure increases. On the upside, resistance is defined at 159.36, followed by a potential breakout threshold near 159.40 where liquidity clusters may attract momentum-driven buying. Price remains compressed between these levels. A sustained break outside this range would likely define the next directional impulse.\n\nGiven the current range-bound structure, short-term traders may consider mean-reversion strategies, buying near support and selling into resistance with tight risk controls. Breakout traders should wait for a decisive close above 159.36 or below 159.31 before committing, as false breaks remain a risk in low-volatility conditions. Position sizing should remain conservative. Focus on liquidity shifts during US session for confirmation signals."
+    }
+  }
+}

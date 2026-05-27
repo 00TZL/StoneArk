@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-05-27T07:56:36.540Z",
+  "price": {
+    "close": "1.34435",
+    "high": "1.34555",
+    "low": "1.34425",
+    "open": "1.34521",
+    "change": "-0.07",
+    "datetime": "2026-05-27 17:00:00"
+  },
+  "indicators": {
+    "rsi": 36.61005,
+    "macd": -0.00062645375,
+    "macd_signal": -0.00072095193,
+    "sma20": 1.34505
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：短线偏弱震荡整理",
+      "content": "当前英镑/美元运行于1.34435附近，日内波动较窄，价格略低于20日均线1.34505，显示短线多头动能有所减弱。24小时跌幅虽有限，但汇价连续承压，整体结构偏向高位整理中的弱势震荡。\n\n从技术指标观察，MACD已进入零轴下方，且负值扩大至-0.000626附近，反映市场空头动能正在累积。虽然RSI数据暂缺，但结合价格表现来看，短周期买盘力量明显不足，市场情绪偏谨慎。\n\n关键支撑位首先关注1.34420一线，若跌破可能进一步测试1.34250区域；上方阻力位则位于1.34550及1.34700附近，只有重新站稳20日均线之上，多头才有机会恢复主动并打开进一步反弹空间。\n\n交易策略方面，短线更适合采取逢高偏空思路，可关注1.34550附近受阻后的回落机会。若汇价有效跌破1.34420，可顺势跟进空单；但若重新突破1.34700，则需警惕空头回补带来的快速反弹。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "GBP/USD is trading in a narrow bearish-to-neutral range near 1.34435 after failing to sustain momentum above the 1.34550 area. The pair remains slightly below the 20-period SMA at 1.34505, suggesting short-term weakness despite relatively limited downside pressure. The modest 24-hour decline indicates that sellers are still active, but the lack of aggressive follow-through points to consolidation rather than a strong directional breakdown. Price action currently reflects cautious sentiment ahead of a clearer catalyst.\n\nMomentum indicators also lean mildly negative. The MACD value remains below the zero line at -0.000626, signaling fading bullish momentum and a possible continuation of short-term downside pressure. Although the RSI reading is unavailable, recent price behavior implies that the market is neither oversold nor overbought. The inability to recover above the moving average keeps the technical structure fragile, especially while intraday highs continue to be capped around 1.34550.\n\nImmediate support is positioned near 1.34420, which aligns closely with the session low. A break beneath this zone could expose 1.34280 and potentially 1.34150 if bearish momentum accelerates. On the upside, initial resistance stands at 1.34550, followed by a stronger barrier near 1.34700 where sellers may re-enter the market. Sustained movement above the resistance cluster would improve short-term sentiment and could trigger a recovery toward higher intraday targets.\n\nFrom a trading perspective, short-term traders may prefer a cautious sell-on-rallies approach while the pair remains below the 1.34550–1.34700 resistance region. Conservative bearish entries could target a move back toward 1.34300 with tight risk controls above recent highs. However, if GBP/USD stabilizes above the 20-day SMA and breaks resistance convincingly, momentum traders may shift toward intraday long positions targeting renewed upside continuation. Patience remains important while volatility stays compressed."
+    }
+  }
+}

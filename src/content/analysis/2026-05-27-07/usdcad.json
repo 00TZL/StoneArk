@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-05-27T07:59:08.303Z",
+  "price": {
+    "close": "1.38249",
+    "high": "1.38253",
+    "low": "1.38166",
+    "open": "1.38188",
+    "change": "0.04",
+    "datetime": "2026-05-27 17:00:00"
+  },
+  "indicators": {
+    "rsi": 63.64701,
+    "macd": 0.00023849417,
+    "macd_signal": 0.00012292304,
+    "sma20": 1.38125
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：震荡偏强但上行受阻",
+      "content": "当前USD/CAD围绕1.382附近窄幅整理，价格略高于20日均线1.38125，短线仍维持温和偏多结构，但动能有限，多空进入均衡博弈阶段。\n\nMACD柱值微正至0.000238，显示多头动能仍在但极为有限，缺乏明显扩张；若后续无法放量，趋势容易转入震荡回撤格局。\n\n下方支撑关注1.3810及1.3795一带，上方阻力位于1.3830与1.3850区域，若有效突破1.3830则有望延伸短线涨势。\n\n操作上建议以区间思路为主，高位轻仓试空、回踩低位轻多，突破1.3830后再顺势跟进，严格控制止损以防假突破。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "USD/CAD is holding a modest bullish tone near 1.3825 after stabilizing above the 20-day moving average at 1.38125. The pair continues to trade within a narrow intraday range, suggesting consolidation rather than aggressive directional momentum. Buyers remain active on dips, particularly as the US dollar retains support from steady Treasury yields and cautious risk sentiment. The inability of sellers to push the pair below the recent low around 1.3816 reinforces the short-term upward bias.\n\nMomentum indicators also lean mildly constructive. The MACD remains in positive territory at 0.000238, indicating that bullish momentum is still present, although not especially strong. RSI data is unavailable, but recent price behavior implies neutral-to-slightly-overbought conditions rather than extreme positioning. The pair’s proximity to the session high at 1.38253 suggests buyers are testing resistance levels cautiously. A sustained move above this zone could encourage additional upside momentum toward higher technical barriers.\n\nFrom a technical perspective, immediate support is located around 1.3812, closely aligned with the SMA(20), followed by stronger support near 1.3800. On the upside, resistance is developing around 1.3830, with a broader breakout target near 1.3850 if bullish momentum accelerates. Price action remains relatively compressed, which often precedes a larger directional move. Traders should monitor whether the pair can maintain closes above the moving average, as that would strengthen bullish continuation signals.\n\nShort-term trading strategies currently favor buying on pullbacks rather than chasing highs. Conservative traders may look for entries near the 1.3810–1.3815 area with tight risk controls below 1.3800. Meanwhile, a confirmed breakout above 1.3830 could attract momentum buyers targeting the mid-1.3850 region. However, if the pair slips below the SMA(20), downside pressure may increase quickly, potentially exposing the 1.3780 support region in the near term."
+    }
+  }
+}

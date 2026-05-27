@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-05-27T08:00:04.560Z",
+  "price": {
+    "close": "0.58717",
+    "high": "0.58787",
+    "low": "0.58698",
+    "open": "0.58756",
+    "change": "-0.06",
+    "datetime": "2026-05-27 17:00:00"
+  },
+  "indicators": {
+    "rsi": 63.035738,
+    "macd": 0.0005842798,
+    "macd_signal": 0.00012499126,
+    "sma20": 0.584899
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：震荡偏强整理格局",
+      "content": "NZDUSD短线呈震荡偏强结构，价格围绕0.5870上方整理，整体仍处于小级别上升通道末端，但动能趋于放缓。\n\n均线方面，现价稳于SMA20(0.5849)之上，短期多头结构维持；MACD微幅金叉但动能柱有限，RSI缺失需结合价格行为判断。\n\n下方支撑关注0.5869日内低点及0.5849均线区域，上方阻力集中于0.5879前高，突破后或指向0.5890整数关口。\n\n交易上建议高位震荡思路，未突破前以回调低多为主，若跌破0.5869则短线转弱，可顺势轻仓做空控制风险。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "NZD/USD is currently trading around 0.58717, showing a mild short-term consolidation after a marginal 24-hour decline. Despite the slight softness, the broader intraday structure remains mildly constructive as price holds above the 20-period SMA at 0.58490. This suggests underlying demand persists, although momentum has flattened near recent highs. Overall, the pair is oscillating in a tight range, reflecting equilibrium between buyers and sellers.\n\nMomentum indicators present a neutral-to-slightly positive tone. The MACD reading at 0.000584 indicates a modest bullish bias, though the absence of a clear signal line value limits confirmation strength. With RSI unavailable, price action becomes the primary guide, and recent candles suggest low volatility rather than directional conviction. The market appears to be coiling, with momentum neither overbought nor oversold, favoring range-bound behavior.\n\nImmediate resistance is defined by the recent high at 0.58787, with a potential extension toward 0.58850 if upside pressure builds. On the downside, initial support sits at 0.58698, followed closely by the 20-period SMA near 0.58490, which acts as a key dynamic floor. A break below this zone could expose 0.58350 as the next structural support level in a deeper pullback scenario.\n\nTrading conditions favor short-term range strategies rather than breakout positioning. Buying near support around 0.58690–0.58500 offers a favorable risk-reward setup, provided stops are placed below 0.58350 to protect against downside extension. Alternatively, traders may look to fade moves toward 0.58800 resistance, targeting a return toward mid-range equilibrium. Overall, disciplined range trading with tight risk control remains the preferred approach in current conditions."
+    }
+  }
+}

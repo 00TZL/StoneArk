@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-05-27T08:00:52.972Z",
+  "price": {
+    "close": "0.78567",
+    "high": "0.78571",
+    "low": "0.78462",
+    "open": "0.78499",
+    "change": "0.08",
+    "datetime": "2026-05-27 17:00:00"
+  },
+  "indicators": {
+    "rsi": 58.12204,
+    "macd": 0.00029001771,
+    "macd_signal": 0.00040207993,
+    "sma20": 0.785526
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：短线震荡偏强，关注区间突破",
+      "content": "美元/瑞郎目前维持窄幅震荡格局，最新报价接近0.7857，日内涨幅有限，但价格持续运行于20日均线附近，显示短线多头仍占据一定优势。整体波动收敛，市场处于等待方向选择阶段。\n\n从技术指标观察，SMA(20)位于0.7855附近，当前价格略高于均线，说明短周期趋势偏多。MACD维持正值，虽然动能不强，但多头能量尚未消失，若后续柱体继续扩张，可能推动汇价进一步上探。\n\n关键支撑位可关注0.7846一线，该区域为日内低点，同时也是短线买盘防守位置；上方阻力则位于0.7865至0.7870区间，若有效突破，行情有望打开新的上涨空间，并测试更高阶段性目标。\n\n交易策略方面，短线可采取回调做多思路，等待价格靠近0.7850附近企稳后分批布局，多单止损建议放在0.7840下方。若后续放量突破0.7865，则可考虑顺势跟进，但需注意美元整体波动对走势的影响。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "USD/CHF is trading in a narrowly constructive range near 0.78567, holding slightly above the 20-day moving average at 0.785526. The modest 24-hour gain suggests buyers remain active, although momentum is still relatively contained. Price action near the session high of 0.78571 indicates the pair is attempting to stabilize after recent weakness. Short-term sentiment appears cautiously bullish while the market continues to respect tight intraday boundaries and reduced volatility conditions.\n\nThe moving average structure supports a mild upward bias, especially as price remains consistently above the SMA(20). MACD territory remains positive at 0.000290, signaling improving bullish momentum despite the absence of a confirmed signal line crossover. With RSI data unavailable, traders may rely more heavily on price behavior and momentum continuation patterns. The current setup suggests gradual accumulation rather than an aggressive directional breakout, keeping the pair vulnerable to sudden sentiment-driven reversals.\n\nImmediate support is located around 0.78460, which aligns closely with the session low and recent consolidation demand. A break below this level could expose downside pressure toward 0.78380 and potentially 0.78250. On the upside, resistance remains firm near 0.78570, with a sustained breakout opening the path toward 0.78650 and 0.78720. The narrow trading band reflects hesitation among participants, meaning confirmation through volume and candle structure will be important before stronger directional positioning develops.\n\nShort-term traders may consider buying dips near support while maintaining tight risk controls beneath 0.78450. Momentum-focused participants could also monitor for a confirmed breakout above 0.78570 before entering long positions. Conversely, failure to maintain price above the SMA(20) may encourage short-selling opportunities targeting lower support zones. Given the compressed price action, disciplined position sizing and patience are essential until the market delivers a clearer directional signal."
+    }
+  }
+}

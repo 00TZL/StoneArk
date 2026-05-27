@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-05-27T07:58:19.630Z",
+  "price": {
+    "close": "0.71406",
+    "high": "0.71495",
+    "low": "0.71384",
+    "open": "0.71471",
+    "change": "-0.09",
+    "datetime": "2026-05-27 17:00:00"
+  },
+  "indicators": {
+    "rsi": 30.98826,
+    "macd": -0.00039105205,
+    "macd_signal": -0.00013098771,
+    "sma20": 0.716312
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短线偏空震荡整理",
+      "content": "澳元/美元最新报0.71406，日内小幅回落，整体走势维持弱势整理。价格运行在20日均线0.716312下方，说明短期空头仍占据主动，多头反弹力度有限，市场情绪偏谨慎。\n\n从技术指标观察，MACD维持负值，显示动能仍偏空，短线存在继续回调风险。虽然RSI暂无数据，但结合当前价格结构与均线压制情况，汇价尚未出现明显超卖后的反转信号。\n\n关键支撑位关注0.71380一线，若跌破可能进一步下探0.71250区域；上方阻力位位于0.71500至0.71630附近，也是20日均线所在区域，若无法有效突破，反弹空间预计受限。\n\n交易策略方面，短线建议以逢高做空思路为主，可关注反弹至0.71500附近的承压表现。激进交易者可轻仓布局空单，并严格设置止损；若汇价重新站稳0.71630上方，则需警惕趋势转强。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "AUD/USD remains under mild bearish pressure after failing to sustain momentum above the 0.7150 region. The pair is currently trading at 0.71406, slightly below the 20-day simple moving average at 0.71631, indicating that short-term sentiment continues to favor sellers. Price action has also remained compressed near the daily low of 0.71384, suggesting cautious positioning ahead of a stronger directional move. Unless buyers reclaim territory above the moving average, downside risks are likely to persist in the near term.\n\nMomentum indicators reinforce the soft bearish outlook. The MACD remains in negative territory at -0.00039, reflecting weakening upward momentum and continued seller dominance. Although the RSI reading is unavailable, current price behavior and the inability to recover above recent resistance levels imply limited bullish conviction. The narrow trading range also points to reduced volatility, often a precursor to a larger breakout. Traders should monitor whether bearish momentum accelerates if the pair closes below immediate support.\n\nKey support is located near 0.7135, followed by a stronger downside zone around 0.7110 where buying interest may emerge. On the upside, resistance is seen at 0.7150 initially, with a more significant barrier near the SMA(20) around 0.7163. A sustained move above that level could shift sentiment toward a short-term recovery and expose the 0.7180 area. Conversely, failure to hold above current support may encourage renewed selling pressure toward lower weekly ranges.\n\nFrom a trading perspective, short-term traders may favor selling rallies while price remains below 0.7163. Conservative entries could be considered near resistance with tight risk management above 0.7170. Meanwhile, breakout traders may wait for confirmation through either a decisive move above resistance or a breakdown below 0.7135 before entering positions. Given the relatively muted volatility, disciplined position sizing and patience remain important until clearer directional momentum develops."
+    }
+  }
+}
