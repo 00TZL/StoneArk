@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-05-28T07:48:35.758Z",
+  "price": {
+    "close": "159.50184",
+    "high": "159.52686",
+    "low": "159.44337",
+    "open": "159.48381",
+    "change": "0.01",
+    "datetime": "2026-05-28 17:00:00"
+  },
+  "indicators": {
+    "rsi": 52.59741,
+    "macd": 0.052830819,
+    "macd_signal": 0.067523053,
+    "sma20": 159.52285
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：短期震荡整理，关注159.50支撑与159.55阻力",
+      "content": "当前美元/日元在159.50附近震荡，价格波动有限，24小时涨幅仅0.01%，显示市场缺乏明确方向。短线趋势偏中性，未形成强烈的上升或下跌动能，投资者应关注关键支撑和阻力位的突破信号，以判断下一步走势。\n\n技术指标显示，SMA(20)位于159.52285，略高于当前价位，短期均线对价格形成轻微压制。MACD为0.0528，处于正值但缺乏信号线参考，暗示多头动能存在但并不强劲。RSI缺失，需关注未来数据以确认超买或超卖状态。\n\n支撑位方面，近期低点159.44337构成短线支撑区域，若跌破可能引发下行压力；阻力位在159.52686附近，上方突破将为多头提供进一步空间。价格在159.50~159.55区间波动，短线交易可采取区间操作策略。\n\n交易建议上，短期可关注159.50附近做多布局，止损放在159.44以下，获利目标接近159.55阻力位。若价格突破159.53上方，可顺势追多；反之跌破支撑，应谨慎控制仓位，避免追空，等待明确趋势信号确认。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USD/JPY continues to trade in a tight consolidation range near 159.50, reflecting a market that remains broadly bullish but temporarily lacking strong directional momentum. The pair is holding just beneath the 20-day moving average at 159.52, suggesting buyers are still active despite recent hesitation. Price action near the session high of 159.53 indicates resistance pressure remains firm, while the narrow intraday range highlights cautious positioning ahead of stronger macroeconomic catalysts.\n\nMomentum indicators present a mixed but mildly constructive outlook. The MACD value remains positive at 0.0528, which typically supports continuation of the prevailing upward trend, although the absence of a signal line limits confirmation strength. RSI data is unavailable, yet the pair’s inability to extend decisively above 159.50 suggests overbought conditions may still be influencing short-term sentiment. Holding near the moving average nevertheless implies downside momentum remains relatively contained for now.\n\nKey technical support is forming around 159.44, aligning closely with the daily low and serving as the first defensive zone for bullish traders. A break below that level could expose deeper retracement pressure toward 159.30 and potentially 159.10. On the upside, immediate resistance stands at 159.53, followed by the psychologically important 160.00 region, which may attract stronger profit-taking and possible intervention-related caution from Japanese authorities.\n\nFrom a trading perspective, momentum traders may prefer buying shallow pullbacks while price remains above 159.44, targeting a retest of 159.70 and eventually 160.00. Conservative participants may wait for a confirmed breakout above resistance before entering long positions. Short-term bearish setups become more attractive only if the pair closes below the support zone, which would indicate fading bullish control and increase the likelihood of a corrective decline in the near term."
+    }
+  }
+}

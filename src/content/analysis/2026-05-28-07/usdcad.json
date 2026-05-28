@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-05-28T07:50:09.361Z",
+  "price": {
+    "close": "1.38531",
+    "high": "1.38579",
+    "low": "1.38454",
+    "open": "1.38507",
+    "change": "0.02",
+    "datetime": "2026-05-28 17:00:00"
+  },
+  "indicators": {
+    "rsi": 58.70724,
+    "macd": 0.00092025666,
+    "macd_signal": 0.00089124827,
+    "sma20": 1.38435
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：短期震荡偏多",
+      "content": "当前美元/加元维持在1.3853附近，短期价格波动有限，显示市场处于震荡整理阶段。从SMA(20)来看，现价略高于均线1.38435，表明短线多头仍有支撑，但上行动能尚未完全确立。MACD为正值0.00092，虽偏弱，但潜在多头趋势仍在孕育中。  \n\n技术指标方面，由于RSI缺失，无法判断超买超卖，但MACD微弱向上与价格站上SMA的表现结合，提示市场短期可能偏多。价格在1.3845附近获得支撑，而1.3860-1.3865一带形成初步阻力区域，需要关注突破力度和成交量确认。  \n\n支撑位可参考1.3840-1.3845，若跌破此区域，可能引发短线回调。阻力位在1.3860-1.3865，如果价格稳步突破并站稳，后续有机会测试1.3880附近。交易者可关注支撑附近的低吸机会，并以阻力作为止盈参考。  \n\n操作建议上，短线交易者可保持轻仓多单，严格控制风险，止损设在1.3840下方。若价格突破1.3865阻力并放量，可考虑顺势加仓，但仍需警惕市场回调风险，保持灵活应对震荡行情。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "USD/CAD is trading in a narrowly bullish structure around 1.38531, holding slightly above the 20-period moving average at 1.38435. The modest 24-hour gain reflects a market lacking strong directional momentum, yet buyers continue defending intraday pullbacks. Price action near the session high of 1.38579 suggests short-term upside pressure remains intact, especially while the pair stays above the 1.3840 region. Broader sentiment appears cautious rather than aggressively bullish, with traders waiting for a stronger macro catalyst.\n\nThe MACD reading at 0.00092 points to mild positive momentum, indicating that bullish pressure still outweighs bearish activity despite the limited range expansion. Although the RSI value is unavailable, the current consolidation near recent highs implies the market is not yet overstretched. The pair’s ability to remain above the SMA(20) reinforces a constructive technical backdrop. However, the absence of stronger momentum indicators suggests that upside continuation may remain gradual rather than explosive in the immediate term.\n\nFrom a technical perspective, immediate resistance is located near 1.3860, followed by a stronger barrier around 1.3885 where previous buying momentum weakened. A decisive break above these levels could open the path toward the psychological 1.3900 handle. On the downside, first support stands near 1.3840, aligned with the moving average, while deeper support is seen around 1.3820. A move below this zone would weaken the short-term bullish structure and potentially trigger additional selling pressure.\n\nTrading conditions currently favor a cautious buy-on-dips approach rather than aggressive breakout positioning. Short-term traders may look for long opportunities near support zones with tight risk controls below 1.3820. Momentum confirmation above 1.3860 could strengthen bullish conviction for higher targets. Conversely, failure to sustain above the moving average may encourage range-bound selling strategies. Given the compressed volatility, disciplined position sizing remains important until clearer directional momentum develops."
+    }
+  }
+}

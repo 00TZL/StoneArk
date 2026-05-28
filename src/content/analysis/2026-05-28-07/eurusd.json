@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-05-28T07:47:07.277Z",
+  "price": {
+    "close": "1.16123",
+    "high": "1.16174",
+    "low": "1.16098",
+    "open": "1.16118",
+    "change": "0.00",
+    "datetime": "2026-05-28 17:00:00"
+  },
+  "indicators": {
+    "rsi": 44.66724,
+    "macd": -0.00081791505,
+    "macd_signal": -0.00068992531,
+    "sma20": 1.16205
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：窄幅震荡偏弱整理",
+      "content": "欧元/美元当前维持在1.1612附近窄幅整理，价格略低于20日均线1.1620，短线多头动能有所减弱。日内波动区间不足10点，显示市场观望情绪浓厚，整体走势偏向震荡中的弱势修正。\n\n从技术指标观察，MACD维持在零轴下方，空头动能仍占一定优势，说明短期趋势尚未完全转强。虽然RSI数据暂缺，但结合价格表现与均线结构，市场暂未出现明显超买或超卖信号，预计仍以区间运行主导。\n\n关键支撑位首先关注1.1609附近，若失守可能进一步回测1.1585区域；上方阻力位则位于1.1625至1.1640之间，若有效突破，短线有机会重新测试前期高点并恢复阶段性升势。\n\n交易策略方面，短线建议以高抛低吸思路为主，等待价格接近支撑或阻力后再择机入场。激进交易者可关注1.1625上破后的跟进机会，而稳健投资者宜继续等待趋势方向进一步确认。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD is currently trading at 1.16123, showing a virtually flat 24-hour movement. The pair remains in a narrow intraday range between 1.16098 and 1.16174, indicating indecision among market participants. Technically, the short-term trend appears neutral, as the latest price is slightly below the 20-period SMA at 1.16205. This suggests minor bearish pressure, but the market has not committed to a clear directional bias, making it sensitive to fundamental triggers like ECB commentary or U.S. economic data releases.\n\nLooking at momentum indicators, the MACD shows a negative reading of -0.0008179, hinting at mild downside momentum, although the signal line is unavailable for confirmation. The absence of RSI data limits overbought/oversold insights, but price behavior near the SMA indicates consolidation rather than strong directional pressure. Traders should monitor MACD developments closely; a crossover above zero could signal renewed bullish interest, whereas further divergence below the SMA would reinforce the cautious bearish stance.\n\nImmediate support is located near the daily low at 1.16098, with a more robust psychological barrier around 1.1600. On the upside, resistance aligns with the intraday high of 1.16174 and the 20-period SMA at 1.16205. Breaching either level could trigger short-term directional moves, with upside breakouts favoring buyers targeting 1.1630–1.1640, while a downside breach could see the pair retesting 1.1600 or lower, potentially extending to 1.1585.\n\nFor trading strategy, a wait-and-see approach is prudent due to the compressed range and lack of strong trend confirmation. Short-term traders may consider range-bound tactics, entering near support with stops below 1.1600, or near resistance with stops above 1.1625. Swing traders should wait for clearer MACD confirmation or SMA crossover signals to align positions with emerging momentum, balancing risk exposure amid low intraday volatility."
+    }
+  }
+}

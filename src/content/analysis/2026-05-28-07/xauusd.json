@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-05-28T07:52:33.817Z",
+  "price": {
+    "close": "4388.29236",
+    "high": "4395.45831",
+    "low": "4382.88197",
+    "open": "4382.88197",
+    "change": "0.12",
+    "datetime": "2026-05-28 17:00:00"
+  },
+  "indicators": {
+    "rsi": 32.58497,
+    "macd": -26.27851,
+    "macd_signal": -22.45396,
+    "sma20": 4426.76651
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短线偏弱震荡整理",
+      "content": "当前黄金/美元维持弱势震荡格局，最新报价运行于4388附近，价格仍低于SMA20均线4426一线，说明短周期空头压力尚未解除。尽管24小时涨幅有限，但反弹力度偏弱，市场整体情绪仍趋谨慎。\n\n从技术指标观察，MACD维持负值区域，显示中短线动能依旧偏空，空方主导权仍在。不过价格并未进一步跌破4380附近低点，说明下方存在一定承接买盘，短期或进入整理蓄势阶段，等待新的方向选择。\n\n关键支撑位关注4382与4375区域，若失守可能进一步下探4350附近。上方阻力则集中在4395及4425区域，尤其4426附近为20日均线压制位，若无法有效突破，反弹空间预计仍将受限。\n\n交易策略方面，建议以高位短空思路为主，激进投资者可关注4395附近承压后的回落机会。若价格站稳4426上方，则需警惕空头回补推动行情转强，届时应及时调整交易方向并严格控制仓位风险。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "XAU/USD continues to trade under moderate bearish pressure after failing to regain momentum above the 4425 region. The latest price near 4388 remains below the 20-period moving average at 4426.77, suggesting sellers still control the broader short-term structure. Although the 24-hour gain is slightly positive, price action has stayed confined within a narrow range between 4382 and 4395, reflecting hesitation and limited bullish conviction ahead of a stronger directional breakout.\n\nThe negative MACD reading at -26.27 reinforces the weakening momentum profile and indicates that downside pressure has not fully faded. While RSI data is unavailable, current positioning beneath the moving average implies that recovery attempts may continue to face resistance unless buyers can establish sustained closes above the 4400 psychological barrier. The inability to reclaim higher intraday levels also signals that market participants remain cautious, particularly as volatility compresses near immediate support zones.\n\nFrom a technical perspective, immediate support is located around 4382, followed by a stronger floor near 4370 where buyers may attempt to stabilize price action. On the upside, resistance appears near 4395 and then around the SMA(20) zone near 4427. A decisive break above 4427 could shift sentiment toward a short-term bullish correction targeting the 4450 region. Conversely, a breakdown below 4380 may accelerate selling pressure and expose lower support clusters in the near term.\n\nShort-term traders may prefer a cautious range-trading approach until a clearer breakout develops. Buying near support with tight risk controls could remain attractive if price continues defending the 4380 area, while bearish setups may gain strength on failed rallies toward 4400–4425 resistance. Momentum confirmation should remain essential before entering larger positions, as current market conditions suggest consolidation rather than a fully established trend reversal."
+    }
+  }
+}

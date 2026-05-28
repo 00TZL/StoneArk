@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-05-28T07:51:46.969Z",
+  "price": {
+    "close": "0.78803",
+    "high": "0.78829",
+    "low": "0.78741",
+    "open": "0.78761",
+    "change": "0.05",
+    "datetime": "2026-05-28 17:00:00"
+  },
+  "indicators": {
+    "rsi": 55.27427,
+    "macd": 0.00075669036,
+    "macd_signal": 0.00076913371,
+    "sma20": 0.7874755
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：横向震荡偏多",
+      "content": "当前美元/瑞郎价格在0.78803附近小幅上扬，整体呈现横向震荡格局。近期价格围绕20日均线0.78748波动，短期多空力量相对均衡，但轻微偏向多头，显示市场仍有一定上行动能。日内波幅有限，短线趋势偏向整理中蓄势，需关注价格能否突破近期高点0.78829。\n\n从技术指标来看，MACD为正值0.00075669036，提示短期多头动能存在，但信号线尚未提供明确信号，显示上涨力度有限。RSI数据缺失，难以判断超买或超卖状态，但价格站上SMA(20)支撑，短期多头仍可持续。整体指标组合暗示市场暂时以稳健多头为主，趋势延续可能性存在，但需警惕回调风险。\n\n关键支撑位在0.78741附近，若价格跌破该水平，可能触发短期空头回撤；阻力位位于0.78829，高点突破将确认多头延续，进一步上行空间或至0.7890附近。交易者应密切关注价格在阻力和支撑之间的震荡，谨防区间波动导致止损触发。\n\n交易策略上，建议逢低关注多单入场，止损可置于支撑下方0.7873附近，目标可参考近期高点0.7883及0.7890。若价格突破阻力后回抽确认，亦可择机加仓。短线操作应保持灵活，遵循顺势原则，同时注意风险管理。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "USD/CHF has shown mild consolidation around the 0.7880 level, with the pair hovering just above the 20-period simple moving average at 0.7875. The narrow daily range of 0.78829–0.78741 suggests limited volatility and a potential pause in directional momentum. Short-term price action indicates the market is balancing near support levels, and any decisive move above recent highs could signal renewed bullish interest, while a drop below the intraday low may favor the bears.\n\nThe MACD reading at 0.00076, although lacking a signal line comparison, hints at mild bullish momentum, as the positive value suggests the shorter-term moving average is above the longer-term average. Absence of the RSI limits overbought or oversold insights, but the close proximity to the SMA indicates equilibrium. Traders should watch for a crossover above recent highs around 0.7883 for confirmation of upward momentum, or a breakdown below 0.7874 to validate a retracement.\n\nKey support for USD/CHF resides near 0.7874–0.7875, coinciding with the SMA(20), which often serves as a dynamic support zone. Resistance is encountered near 0.7883–0.7885, marking recent highs. Breaching these levels with volume could trigger short-term trends. Intraday oscillations remain tight, suggesting range-bound opportunities for scalpers, while swing traders may await a breakout or breakdown for clearer directional bias.\n\nTrading strategies should remain cautious, focusing on small positions near support and resistance thresholds. Bullish traders might consider entries on a break above 0.7883, targeting 0.7890 with a stop below 0.7875. Conversely, bearish trades could look for breakdowns below 0.7874, targeting 0.7865–0.7860. Risk management is key given the low volatility environment, and confirmations from candlestick patterns or volume spikes could enhance trade reliability."
+    }
+  }
+}

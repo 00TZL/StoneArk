@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-05-28T07:49:22.143Z",
+  "price": {
+    "close": "0.71204",
+    "high": "0.7127",
+    "low": "0.71176",
+    "open": "0.71219",
+    "change": "-0.03",
+    "datetime": "2026-05-28 17:00:00"
+  },
+  "indicators": {
+    "rsi": 41.47097,
+    "macd": -0.00090105729,
+    "macd_signal": -0.00084424317,
+    "sma20": 0.7129445
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短线偏弱震荡整理",
+      "content": "澳元/美元当前维持窄幅震荡，最新报价处于0.7120附近，日内波动明显收敛。价格运行在20日均线下方，显示短线多头动能不足，整体走势偏向弱势整理，市场情绪相对谨慎。\n\n从技术指标观察，MACD已进入零轴下方，且负值持续扩大，说明空头力量仍占主导。不过汇价跌幅有限，表明下行动能尚未完全释放。RSI数据暂缺，但结合价格结构来看，短期存在反复震荡可能。\n\n关键支撑位关注0.7117附近，若跌破该区域，后续或进一步测试0.7100整数关口。上方阻力位首先位于0.7130，其次关注0.7150附近，若无法有效突破，反弹空间预计仍将受限。\n\n交易策略方面，短线建议以高位偏空思路为主，可等待价格反弹接近阻力区域后择机轻仓做空。同时需关注美元指数与美债收益率变化，若美元继续走强，澳元或进一步承压下行。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "AUD/USD is currently testing the lower end of a short-term consolidation range, trading just below the 20-day SMA at 0.71294. Price action shows limited directional momentum, with the latest tick at 0.71204, suggesting a cautious market. The high/low spread of 0.7127/0.71176 indicates intraday volatility is subdued. From a trend perspective, the pair appears to be in a mild bearish phase, struggling to break above the SMA, which acts as immediate resistance.\n\nThe MACD value at -0.000901 suggests bearish sentiment is prevailing, though the absence of the signal line prevents a full crossover interpretation. Traders should watch for MACD convergence toward zero, which could indicate a potential shift in momentum. While the RSI is unavailable, the current range-bound trading implies neither overbought nor oversold conditions, emphasizing that short-term moves may remain muted until a breakout occurs.\n\nKey support lies near 0.7115, aligning with recent intraday lows. Breaching this level could open the path toward 0.7100, a psychologically significant round number. Resistance is clearly defined by the 20-day SMA and recent highs around 0.7130–0.7135. Monitoring price behavior around these technical barriers will be critical for determining whether the market resumes a downtrend or attempts a recovery above the SMA.\n\nFor traders, a cautious approach is warranted. Short positions may be considered near the SMA if price fails to break above convincingly, with stops just above 0.7135. Conversely, a confirmed rebound above 0.7130 could offer a limited long opportunity targeting 0.7145–0.7150. Given the low volatility and narrow range, intraday scalping strategies might be more appropriate than swing trades until a clearer directional trend emerges."
+    }
+  }
+}

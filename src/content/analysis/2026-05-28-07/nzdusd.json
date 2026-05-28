@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-05-28T07:51:03.046Z",
+  "price": {
+    "close": "0.5888",
+    "high": "0.58926",
+    "low": "0.58859",
+    "open": "0.58876",
+    "change": "0.00",
+    "datetime": "2026-05-28 17:00:00"
+  },
+  "indicators": {
+    "rsi": 52.86902,
+    "macd": 0.00027117422,
+    "macd_signal": 0.00056411225,
+    "sma20": 0.5892295
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：横盘震荡偏弱",
+      "content": "纽元/美元当前价格报 0.5888，日内波动极小，显示市场多空力量相对均衡。近期价格在 0.58859–0.58926 之间盘整，短期趋势偏向横盘整理，但下行风险略高，需要关注突破方向。  \n\n技术指标显示，SMA(20) 为 0.58923，价格略低于均线，表明短期空头压力存在。MACD 值为 0.000271，虽然偏正，但信号线未提供明确方向，暗示动能不足，行情缺乏强烈趋势。RSI 数据缺失，无法进一步判断超买超卖情况。  \n\n关键支撑位在 0.5885 附近，若跌破可能引发进一步下探。阻力位则位于 0.5893–0.5895 区间，多次受阻形成压制。交易者应关注价格在支撑与阻力间的波动，等待明确突破信号。  \n\n操作建议上，短线可考虑区间交易策略，在接近支撑时轻仓做多，接近阻力时轻仓做空，严格设置止损以控制风险。若价格有效突破阻力或支撑，则可顺势跟进，注意波动性放大带来的风险与机会。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is showing a largely neutral posture around the 0.5888 mark, with very limited price movement over the past 24 hours. The market has been consolidating just below the 20-period simple moving average at 0.5892, indicating a short-term bearish bias as buyers struggle to push above this level. Price action has remained confined between recent intraday highs of 0.58926 and lows of 0.58859, suggesting a tight range and lack of strong directional conviction at the moment.\n\nFrom a momentum perspective, the MACD reading of 0.00027 hints at mild bullish momentum, but without a signal line reference, it’s difficult to confirm trend strength. The absence of a valid RSI reading means overbought or oversold conditions are unclear, emphasizing that traders should be cautious and rely on price structure rather than relying solely on indicators. Overall, the technical signals point to a range-bound scenario rather than a trending breakout environment, making intraday trades potentially more favorable than longer-term directional bets.\n\nKey support levels can be identified near 0.5885, reflecting the recent low and a base where buyers have repeatedly stepped in. Resistance is evident at the 0.5893–0.5895 zone, marked by both the recent high and the SMA(20), which is acting as a short-term ceiling. A decisive break above 0.5895 could signal renewed upside potential toward 0.5900, whereas a drop below 0.5885 might open the door for testing lower support near 0.5878, highlighting clear levels for tactical entry and exit points.\n\nFor trading strategies, range traders could look to capitalize on the tight consolidation by buying near support and selling near resistance. Conservative traders may wait for a breakout confirmation beyond the 0.5895–0.5885 range to avoid whipsaws. Given the subdued volatility, tight stop-losses are advisable, while momentum-seeking traders may combine MACD crossovers with price action to identify early directional shifts. Maintaining vigilance for economic releases from both New Zealand and the U.S. is also critical, as fundamental catalysts could abruptly redefine the range."
+    }
+  }
+}
