@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-05-29T07:52:07.682Z",
+  "price": {
+    "close": "4524.5673",
+    "high": "4525.96491",
+    "low": "4511.19029",
+    "open": "4522.91406",
+    "change": "0.04",
+    "datetime": "2026-05-29 17:00:00"
+  },
+  "indicators": {
+    "rsi": 70.60852,
+    "macd": 19.75641,
+    "macd_signal": 17.21631,
+    "sma20": 4494.05622
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短期震荡偏强",
+      "content": "当前XAU/USD价格徘徊在4524.57附近，略高于20日SMA4494.06，显示短期价格仍维持在均线之上，整体偏多。日内波动幅度有限，高低点分别为4525.96和4511.19，市场短线多空力量接近平衡，趋势呈现震荡偏强格局。  \n\n技术指标方面，MACD值为19.76，但信号线缺失，无法完全确认趋势强弱。价格高于SMA20表明短期支撑位有效，而RSI缺失则限制了超买超卖的判断。不过，价格连续收盘在均线上方，短线仍有上涨潜力。  \n\n支撑位方面，可关注4511-4515区域，一旦失守可能触发回调；阻力位在4526-4530区间，若突破则有望测试4535上方位置。成交量配合技术形态变化将是关键参考因素。  \n\n交易策略建议：短线可偏多操作，低位4511附近适合尝试建仓，突破阻力4526可加仓跟进。若价格下破支撑，则需考虑部分止损，保持灵活仓位管理，并关注美元指数和宏观消息对黄金波动的影响。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "XAU/USD is maintaining a constructive bullish bias, with the latest price at 4524.57 trading comfortably above the 20-period SMA at 4494.06. The modest 24-hour gain of 0.04% suggests consolidation rather than aggressive buying, but the broader structure remains positive as buyers continue to defend higher levels. The session range between 4511.19 and 4525.96 highlights a relatively tight trading environment, often associated with trend continuation after a sustained advance.\n\nMomentum indicators also favor the upside. Although the RSI(14) reading is unavailable, the MACD value of 19.76 remains positive, indicating that bullish momentum is still present beneath the surface. As long as MACD stays in positive territory, dips are likely to attract buying interest rather than signal a trend reversal. The market's ability to hold above the moving average further reinforces the view that underlying sentiment remains supportive for higher prices.\n\nFrom a technical perspective, immediate support is located near 4511.20, corresponding to the recent session low. A deeper pullback could expose the SMA zone around 4494.00, which should act as a stronger support area. On the upside, initial resistance is seen at 4526.00, followed by psychological resistance around 4535.00. A decisive break above current highs would strengthen bullish momentum and potentially open the door for an extension toward higher resistance zones.\n\nTrading considerations remain tilted toward buying on pullbacks while price holds above 4494.00. Conservative traders may wait for a confirmed breakout above 4526.00 before entering long positions, while more aggressive participants could look for opportunities near support levels with appropriate risk management. A sustained move below 4494.00 would weaken the bullish outlook and increase the probability of a broader corrective decline, making disciplined stop-loss placement essential."
+    }
+  }
+}

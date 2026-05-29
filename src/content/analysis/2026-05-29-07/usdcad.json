@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-05-29T07:49:48.012Z",
+  "price": {
+    "close": "1.38007",
+    "high": "1.38031",
+    "low": "1.37925",
+    "open": "1.37933",
+    "change": "0.05",
+    "datetime": "2026-05-29 17:00:00"
+  },
+  "indicators": {
+    "rsi": 46.92273,
+    "macd": -0.0010392076,
+    "macd_signal": -0.001247659,
+    "sma20": 1.37956
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：短线震荡偏多",
+      "content": "美元/加元当前报1.38007，价格运行于20日均线1.37956上方，24小时微涨0.05%，显示短线买盘仍占据一定优势。整体走势维持震荡格局，但价格重心略有上移，市场情绪偏向谨慎看多。\n\n从技术指标来看，MACD值为-0.0010，仍处于零轴下方，表明中期动能尚未完全转强。不过价格稳定在均线上方运行，显示空头力量有所减弱。由于RSI数据缺失，需重点观察后续动能指标变化确认方向。\n\n关键支撑位位于1.3793附近，即日内低点区域，进一步支撑关注1.3780水平；上方阻力位首先看1.3803短线高点，若有效突破，则有望测试1.3820至1.3840区间。当前价格接近阻力区域，突破与否将决定后续节奏。\n\n交易策略方面，建议以区间交易思路为主。激进交易者可关注1.3793附近回调做多机会，止损设于1.3780下方；若价格放量突破1.3803，则可顺势跟进多单。若连续受阻于阻力位，则需防范短线回落风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "USD/CAD is trading at 1.38007, holding slightly above its 20-period moving average at 1.37956, which suggests a mildly constructive short-term bias. The pair has remained confined within a narrow intraday range between 1.37925 and 1.38031, indicating a period of consolidation rather than a decisive directional move. While momentum remains limited, buyers continue to defend levels near the moving average, keeping the broader near-term structure stable.\n\nTechnical indicators provide a mixed but slightly supportive picture. The absence of a current RSI reading limits momentum assessment, but the negative MACD value of -0.0010 indicates that bearish pressure has not fully disappeared. However, the relatively small magnitude of the MACD reading suggests that downside momentum is weakening rather than accelerating. Combined with price trading above the SMA(20), this points to a market that may be transitioning from a corrective phase into a more balanced trading environment.\n\nFrom a price-action perspective, immediate support is located around 1.37925, the session low, followed by a stronger support zone near 1.37900 and the SMA(20) region. On the upside, resistance is evident at 1.38031, with a break above this level potentially opening the path toward 1.3820 and then 1.3850. As long as price remains above the 1.3790–1.3795 area, downside risks appear relatively contained despite lingering bearish momentum signals.\n\nFor trading purposes, a cautious bullish approach may be appropriate while the pair remains above the moving average. Traders could look for buying opportunities on pullbacks toward support, targeting a move through 1.38031 and higher resistance levels. Alternatively, a confirmed break below 1.37900 would weaken the technical outlook and favor short positions targeting deeper retracement levels. Given the current low volatility and narrow range, waiting for a breakout confirmation may offer a more favorable risk-to-reward profile."
+    }
+  }
+}

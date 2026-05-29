@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-05-29T07:51:18.611Z",
+  "price": {
+    "close": "0.78396",
+    "high": "0.78425",
+    "low": "0.78326",
+    "open": "0.7834",
+    "change": "0.08",
+    "datetime": "2026-05-29 17:00:00"
+  },
+  "indicators": {
+    "rsi": 40.88072,
+    "macd": -0.00075781327,
+    "macd_signal": -0.00078047607,
+    "sma20": 0.78434
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：短线偏弱震荡，关注方向突破",
+      "content": "美元/瑞郎当前维持窄幅震荡，价格运行于0.784附近，整体走势偏弱。价格略低于SMA(20)均线0.78434，显示短线多头动能不足，但24小时小幅上涨，说明空头压力暂未形成明显加速，市场处于整理阶段。\n\n从技术指标观察，MACD位于零轴下方且数值为负，表明中短期趋势仍偏空，不过跌势力度有限。由于RSI(14)暂无数据，短线超买超卖状态难以确认，因此市场情绪更多需依赖价格结构与均线位置判断。\n\n关键位置方面，0.78326可视为短线初步支撑，若跌破可能下探0.78250区域；上方阻力关注0.78425及0.78500整数关口，若价格有效突破并站稳，短期有望打开进一步反弹空间，形成技术性修复走势。\n\n交易策略上，建议保持区间思路，激进者可在支撑附近轻仓试多，并严格设置止损；若跌破支撑则考虑顺势跟空。稳健型交易者宜等待突破0.78500或失守0.78320后，再确认趋势方向进场。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "USD/CHF is trading at 0.78396, remaining slightly below its 20-period simple moving average at 0.78434. This positioning suggests a mildly bearish short-term bias, although the narrow daily range between 0.78326 and 0.78425 indicates that momentum remains limited. The modest 0.08% gain over the past 24 hours reflects a market that is stabilizing rather than establishing a strong directional trend. Traders should monitor whether price can regain and hold above the moving average to improve the near-term outlook.\n\nThe available momentum indicators offer a cautious perspective. While RSI data is unavailable, the MACD reading of -0.0007578 remains in negative territory, indicating that bearish momentum has not fully dissipated. However, the small magnitude of the MACD value suggests that selling pressure is relatively weak rather than aggressive. This may point to a consolidation phase where buyers and sellers are competing for control before a more decisive move emerges.\n\nFrom a technical standpoint, immediate support can be identified around the session low at 0.78326. A break below this level could expose additional downside toward the 0.78250 region, where fresh selling interest may develop. On the upside, resistance is located near the SMA(20) at 0.78434, followed closely by the recent high at 0.78425. A sustained move above this resistance zone would improve bullish sentiment and potentially open the way toward 0.78500 and higher levels.\n\nTrading strategies should remain disciplined while the pair trades within this tight range. Conservative traders may prefer to wait for a confirmed breakout above 0.78434–0.78425 before considering long positions, targeting higher resistance levels. Conversely, a clear break below 0.78326 could favor short-term bearish opportunities. Given the lack of strong momentum signals, risk management remains essential, with tight stop-loss placement recommended until a clearer trend develops."
+    }
+  }
+}

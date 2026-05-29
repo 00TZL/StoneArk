@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-05-29T07:46:58.724Z",
+  "price": {
+    "close": "1.34233",
+    "high": "1.34435",
+    "low": "1.34186",
+    "open": "1.34432",
+    "change": "-0.15",
+    "datetime": "2026-05-29 17:00:00"
+  },
+  "indicators": {
+    "rsi": 45.52565,
+    "macd": 0.00035675121,
+    "macd_signal": 0.00045077133,
+    "sma20": 1.34373
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：短线偏弱震荡整理",
+      "content": "英镑/美元最新报1.34233，24小时小幅下跌0.15%，整体呈现高位震荡偏弱格局。当前价格运行于20日均线1.34373下方，显示短线多头动能有所减弱，市场正处于方向选择阶段。\n\n从技术指标来看，MACD维持正值0.00035675，表明中期趋势仍保留一定上行动能，但价格未能站稳均线，暗示多头优势正在减弱。由于RSI数据缺失，短线超买超卖状态暂无法进一步确认。\n\n关键价位方面，日内低点1.34186构成首个支撑区域，若失守则可能下探1.34000整数关口。上方阻力位关注1.34435日内高点，其次为1.34600附近压力区域，突破后有望重新打开上涨空间。\n\n交易策略上，建议以区间交易思路为主。在1.34180附近企稳可关注短线做多机会，目标看向1.34430至1.34600；若有效跌破1.34180，则需警惕回调风险，可顺势跟进空头。操作中应严格设置止损，控制仓位风险。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "GBP/USD is trading at 1.34233, slightly below its 20-period simple moving average at 1.34373, indicating a mild bearish bias in the near term. The pair has also posted a modest daily decline of 0.15%, while remaining close to the session low of 1.34186. Price action suggests that buyers are losing momentum after recent gains, with the market struggling to establish a sustained move above the 1.3440 area.\n\nMomentum signals present a mixed picture. While the RSI(14) is unavailable, the MACD remains positive at 0.00035675121, implying that underlying bullish momentum has not completely disappeared. However, the lack of stronger upside follow-through and the pair's position below the 20-day average suggest that bullish pressure is weakening. Traders should watch for confirmation from future momentum readings before assuming a continuation of the broader upward trend.\n\nKey support is located at the intraday low of 1.34186, followed by the psychological 1.34000 level. A decisive break below this zone could expose deeper downside targets near 1.33850. On the upside, immediate resistance appears around the SMA(20) at 1.34373, with stronger resistance near the recent high of 1.34435. A sustained move above 1.34435 would improve sentiment and could encourage a push toward the 1.3470–1.3500 region.\n\nFrom a trading perspective, cautious traders may prefer to wait for a clear breakout from the current narrow range. Bullish setups become more attractive on a confirmed move above 1.34435, targeting higher resistance levels while using tight risk controls below the moving average. Conversely, a break beneath 1.34186 may favor short positions, particularly if accompanied by increasing downside momentum. Given the mixed technical signals, disciplined position sizing and strict stop-loss management remain essential."
+    }
+  }
+}
