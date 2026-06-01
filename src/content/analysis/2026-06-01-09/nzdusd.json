@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-06-01T09:14:52.622Z",
+  "price": {
+    "close": "0.59601",
+    "high": "0.59669",
+    "low": "0.596",
+    "open": "0.59656",
+    "change": "-0.10",
+    "datetime": "2026-06-01 19:00:00"
+  },
+  "indicators": {
+    "rsi": 21.95663,
+    "macd": -0.00055339162,
+    "macd_signal": -0.00040217464,
+    "sma20": 0.5976825
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：短线偏空震荡运行",
+      "content": "当前纽元/美元报0.59601，24小时微跌0.10%，价格运行于日内低点附近，显示市场买盘动力相对有限。汇价位于20日均线0.59768下方，短期趋势仍偏弱，整体维持震荡偏空格局，需关注后续能否重新站稳均线区域。\n\n从技术指标来看，MACD值为-0.000553，处于零轴下方，表明空头动能仍占据一定优势。不过跌幅并未明显扩大，说明下行动能相对温和。由于RSI数据缺失，当前主要参考均线结构与MACD信号判断市场方向。\n\n关键支撑位首先关注0.59600整数关口，该位置与日内低点重合，若有效跌破，可能进一步测试0.59450附近区域。上方阻力位关注0.59670以及20日均线所在的0.59770区域，若突破后者，则有望缓解短线下行压力。\n\n交易策略方面，短线投资者可维持逢高偏空思路，重点观察0.59670至0.59770阻力区表现。在未重新站稳20日均线前，追涨需保持谨慎。若汇价跌破0.59600支撑，可关注顺势下行机会，同时严格设置止损控制风险。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is showing subtle signs of bearish pressure, trading slightly below its 20-day simple moving average at 0.59768. The latest price at 0.59601 reflects a minor 0.10% decline over the past 24 hours, suggesting cautious sentiment among traders. Intraday price action has remained confined between 0.5960 and 0.59669, indicating a narrow consolidation phase. From a trend perspective, the pair is flirting with short-term downward momentum, and any decisive move below the 0.5960 support could signal a deeper correction.\n\nTechnical indicators provide mixed signals due to incomplete data. The MACD currently registers a negative value (-0.000553), pointing to mild bearish momentum, though the absence of a signal line and RSI limits confirmation. The SMA(20) is slightly above current levels, acting as immediate resistance. If the price manages to break and sustain above the SMA, it could signal a temporary rebound. On the downside, the previous intraday low around 0.5960 serves as the initial support, with a stronger support zone near 0.5945–0.5950 from recent swing lows.\n\nKey resistance levels are located at 0.5977 (SMA20) and a short-term pivot around 0.5985, where sellers may emerge if the market attempts an upside recovery. Conversely, any breach below 0.5960 could open the path toward the 0.5945–0.5950 range, followed by a more extended downside toward 0.5925. Traders should watch for volume confirmation on these levels to gauge whether breakout or bounce plays are valid. Price action around these zones will be critical in defining the near-term directional bias.\n\nFor trading strategy, short-term traders may consider cautious long positions if the pair stabilizes above 0.5965–0.5970, targeting 0.5985, with tight stop-losses below 0.5955. On the flip side, bearish traders could look for entry below 0.5960, targeting 0.5945, keeping stops above 0.5968. Given the narrow range and subdued momentum, scalping strategies may work better than aggressive swing trades until a clear breakout occurs. Overall, patience and strict risk management are essential given the indecisive technical backdrop."
+    }
+  }
+}

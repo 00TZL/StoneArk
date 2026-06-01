@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-06-01T09:16:21.357Z",
+  "price": {
+    "close": "4498.96477",
+    "high": "4500.65259",
+    "low": "4497.05106",
+    "open": "4497.05106",
+    "change": "0.04",
+    "datetime": "2026-06-01 19:00:00"
+  },
+  "indicators": {
+    "rsi": 19.09883,
+    "macd": -10.6625,
+    "macd_signal": -6.78084,
+    "sma20": 4527.64399
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短期盘整偏弱",
+      "content": "目前XAU/USD在4498附近徘徊，短期内价格维持在SMA(20)下方，显示多头动能不足，整体偏向弱势盘整。日内波幅有限，高低点仅相差约3.6美元，表明市场短线缺乏明确方向，观望情绪浓厚。  \n\nMACD指标显示主线为-10.66250，但信号线数据缺失，仍可初步判断空头压力存在，未出现明显反转信号。缺少RSI参考，使超买超卖判断不完整，但价格低于20日均线，短线偏空信号明显。  \n\n支撑位初步可参考4497附近，若跌破则下看4495甚至4490区域；阻力位在4500上方，进一步则4527为关键阻力，突破可能带来短线多头机会。区间操作空间有限，需关注临近关键水平的反应。  \n\n交易建议上，短线宜采取低买高卖策略，控制仓位，避免追高。若价格持续在SMA下方震荡，可关注反弹至阻力位后的卖出机会；若跌破支撑位，则应谨慎跟空，等待确认回调结束信号后再做布局。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold is currently hovering near $4499, showing limited movement within the $4497–$4500 range. This suggests a neutral short-term trend with slight consolidation just below the 20-day SMA at $4527. The inability to sustain above this moving average points to mild resistance overhead, keeping bullish momentum contained. Traders should note that the price is slightly below key short-term averages, indicating cautious positioning from both buyers and sellers.\n\nThe MACD at -10.66 hints at persistent bearish pressure despite the marginal 24-hour price increase. With the signal line unavailable, the negative MACD suggests momentum favors sellers in intraday swings. RSI data being absent limits overbought/oversold confirmation, but the tight price action implies neither extreme is currently dominating. Monitoring for a crossover or divergence in the MACD could provide early insight into potential trend reversals.\n\nImmediate support appears near $4497, coinciding with the 24-hour low, while resistance resides around $4528, just above the SMA. A sustained breach above this level could shift the market into a more bullish stance, whereas a breakdown below support may accelerate selling pressure toward $4480–$4475. Intraday traders may focus on these zones for entries, keeping stop losses tight due to the current low volatility.\n\nGiven the current setup, a range-bound strategy could be prudent, buying near support and taking profits close to resistance. Trend-following positions should be cautious until a clear breakout forms above $4528 or below $4497. Longer-term investors might await confirmation from broader momentum indicators or macroeconomic catalysts, such as USD strength or real yield movements, before committing to directional bets. This approach balances risk management with potential upside in the current consolidation phase."
+    }
+  }
+}

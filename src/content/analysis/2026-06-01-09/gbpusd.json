@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-06-01T09:11:42.083Z",
+  "price": {
+    "close": "1.34697",
+    "high": "1.34758",
+    "low": "1.34691",
+    "open": "1.34703",
+    "change": "-0.01",
+    "datetime": "2026-06-01 19:00:00"
+  },
+  "indicators": {
+    "rsi": 60.75682,
+    "macd": 0.0002854201,
+    "macd_signal": 0.00010753004,
+    "sma20": 1.3458
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：短线震荡偏强",
+      "content": "英镑/美元当前维持在1.3470附近窄幅整理，日内波动有限，整体走势呈现高位震荡特征。价格仍运行于20日均线上方，说明短期多头结构尚未被破坏，但上行动能开始放缓。\n\n从技术指标观察，SMA(20)位于1.34580，现价略高于均线，显示市场仍偏向温和看涨。MACD保持正值，表明多头动能仍存在，不过柱体幅度较小，意味着趋势延续力度有限，短线或继续整理。\n\n关键支撑位关注1.3458及1.3440区域，若跌破可能引发进一步回调；上方阻力则位于1.3480与1.3500整数关口附近。当前高低点区间极窄，也反映市场正在等待新的方向性突破信号。\n\n交易策略方面，短线可采取区间交易思路，靠近支撑轻仓做多，并关注1.3500附近突破情况。若后续放量站稳阻力位，则有望打开进一步上行空间；反之跌破均线则需警惕回调风险。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "GBP/USD is currently hovering around 1.34697, showing negligible movement over the last 24 hours. The pair has been trading in a narrow range between 1.34691 and 1.34758, suggesting a short-term consolidation phase. The market appears indecisive, with neither bulls nor bears establishing a clear dominance. Trend-wise, the pair is slightly above its 20-period SMA at 1.34580, hinting at a mild bullish bias, although the lack of momentum in recent price action keeps this bias tentative.\n\nThe MACD reading of 0.000285 indicates minimal bullish momentum, though the absence of a signal line makes interpretation less definitive. Typically, a rising MACD above the SMA would confirm upward pressure, but current readings suggest a neutral scenario. With the RSI unavailable, traders must rely on price action and moving average positioning. The small difference between the latest price and the SMA reflects a market in equilibrium, where short-term oscillations may continue without a decisive breakout.\n\nImmediate support for GBP/USD can be placed near 1.34650, which coincides with recent intraday lows. Resistance lies at 1.34760, slightly above the intraday high. A break above this level could open the path toward 1.3500, while a drop below support may trigger a retest of the 1.3450 area. These levels are crucial for intraday and swing traders, providing reference points for stop-loss placement and potential entry triggers.\n\nFor trading strategy, range-bound approaches appear appropriate under current conditions. Traders might consider buying near support with tight stops below 1.34650 and targeting the 1.34750–1.34800 zone. Conversely, selling near resistance with stops just above 1.34760 could capture minor retracements. Given the consolidation pattern, aggressive breakout traders may wait for clear movement beyond these levels before initiating larger positions, balancing risk and reward amid subdued volatility."
+    }
+  }
+}

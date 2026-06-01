@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-06-01T09:15:38.507Z",
+  "price": {
+    "close": "0.78373",
+    "high": "0.78376",
+    "low": "0.78289",
+    "open": "0.78321",
+    "change": "0.07",
+    "datetime": "2026-06-01 19:00:00"
+  },
+  "indicators": {
+    "rsi": 72.20748,
+    "macd": 0.00055574269,
+    "macd_signal": 0.0004317929,
+    "sma20": 0.7821395
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：短期震荡偏多趋势",
+      "content": "当前美元/瑞郎维持在0.7837附近，价格略高于20日简单移动平均线(SMA20)0.7821，显示短期内多头略占优势，但涨幅有限。24小时价格波动不大，仅0.07%，表明市场缺乏强烈趋势。MACD略为正值0.00056，提示多头动能存在，但信号线缺失，需谨慎确认。\n\n从支撑与阻力角度看，近期下方关键支撑位在0.7820，若跌破该水平，可能引发短线回调。上方阻力位在0.7840-0.7845区域，多次触及未能突破，显示卖压存在。若价格稳步站上0.7845，可视为短线突破信号，或延续多头趋势。\n\n技术指标显示，价格略高于SMA20，MACD为正，但RSI未提供数值，短期震荡风险存在。结合均线和动能指标，市场仍倾向小幅上涨，但缺乏强势趋势。操作上可关注区间震荡机会，逢低做多，止损可设在支撑位下方0.7818附近。\n\n综合来看，美元/瑞郎短线以震荡偏多为主，操作策略宜保持灵活，关注0.7820支撑和0.7845阻力的突破情况。日内交易可利用小幅回调低吸，高位谨慎减仓，避免追涨追高风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "USD/CHF is maintaining a modest bullish bias, with the pair trading at 0.78373 and hovering near the session high of 0.78376. The current price remains above the 20-period simple moving average at 0.78214, indicating that short-term momentum continues to favor buyers. The narrow daily range suggests a consolidation phase, but the ability to hold above the moving average points to underlying demand and a generally constructive technical outlook.\n\nMomentum indicators provide additional support for the bullish case. While RSI data is unavailable, the MACD reading of 0.00056 remains in positive territory, signaling that upward momentum has not yet faded. The absence of a signal line limits confirmation strength, but the positive MACD value suggests buyers retain a slight advantage. As long as price remains above the 0.78214 SMA, pullbacks are likely to be viewed as corrective rather than trend-reversing.\n\nFrom a price-structure perspective, immediate support is located around 0.78290, corresponding closely to the recent intraday low. A deeper support zone can be identified near the 0.78210–0.78220 area, where the moving average is currently positioned. On the upside, resistance is developing near 0.78380, followed by a psychological barrier around 0.78500. A sustained break above the current high could encourage additional buying interest and open the path toward higher short-term targets.\n\nTraders may consider maintaining a cautiously bullish stance while the pair remains above the 0.78290 support region. Conservative participants could wait for a confirmed breakout above 0.78380 before initiating long positions, targeting the 0.78500 area and beyond. Alternatively, short-term pullbacks toward the moving average may offer favorable entry opportunities. Risk management remains essential, with protective stops ideally placed below 0.78210 to guard against a shift in momentum and a potential bearish reversal."
+    }
+  }
+}

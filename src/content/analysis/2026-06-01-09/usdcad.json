@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-06-01T09:14:03.047Z",
+  "price": {
+    "close": "1.38199",
+    "high": "1.38202",
+    "low": "1.38125",
+    "open": "1.38168",
+    "change": "0.03",
+    "datetime": "2026-06-01 19:00:00"
+  },
+  "indicators": {
+    "rsi": 69.24572,
+    "macd": 0.00047206992,
+    "macd_signal": 0.00031951924,
+    "sma20": 1.38044
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：短线震荡偏多，上行动能温和增强",
+      "content": "美元/加元目前交投于1.38199附近，价格稳居20周期均线1.38044上方，显示短线多头仍占据主动。24小时波动区间较窄，表明市场处于整理阶段，但整体结构维持震荡偏强格局。\n\n从技术指标来看，MACD位于零轴上方且数值为0.00047，反映多头动能仍然存在，不过力度相对有限。RSI数据暂缺，但结合价格持续运行于均线上方判断，市场情绪仍偏向谨慎乐观，短期存在进一步试探高位的可能。\n\n关键位置方面，1.38125构成短线第一支撑，若失守则关注1.38044均线支撑；进一步下方支撑位于1.37850区域。上方阻力首先位于1.38202日内高点，突破后有望打开向1.38500甚至1.38800区域的上涨空间。\n\n交易策略上，建议以顺势思路为主，价格企稳于1.38044上方时可关注逢低做多机会，目标看向1.38500附近。若跌破均线并出现放量回落，则需警惕短线调整风险，等待新的支撑信号后再考虑入场。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "USD/CAD is currently consolidating near 1.3820, showing a narrow intraday range with minor upside pressure. The slight positive move of 0.03% suggests market indecision, and price is hovering just above the 20-period SMA at 1.38044, signaling mild short-term bullishness. The MACD is slightly positive at 0.000472, hinting at the potential for further upside momentum, though the absence of a signal line makes confirmation less robust. Traders should watch for clear breakout cues before committing to directional trades.  \n\nSupport appears around 1.3812, corresponding to the recent intraday low, providing a cushion against downside. Resistance is likely at the 1.3820–1.3830 zone, where previous price action stalled. The proximity to these levels suggests that short-term swings could be contained unless a strong catalyst emerges, such as economic data releases or Bank of Canada commentary. Monitoring the price reaction at these pivot points is crucial for planning entries or exits.  \n\nFrom a trend perspective, the market remains in a subtle uptrend, supported by price staying above the SMA(20). However, the limited movement over the past 24 hours implies low volatility, which could lead to choppy conditions. Breakouts above 1.3830 could open the door to further gains toward 1.3850, whereas a breakdown below 1.3810 may accelerate a retracement to 1.3790. This range-bound environment favors cautious, short-term strategies rather than aggressive trend-following.  \n\nTrading suggestions include positioning for small intraday scalps near support and resistance, with tight stops to manage risk given the low momentum. For swing traders, waiting for confirmation of a clear breakout or MACD acceleration may be prudent before initiating larger positions. Maintaining flexibility and monitoring for key U.S. or Canadian economic indicators will help align trades with potential volatility spikes and avoid being caught on false moves."
+    }
+  }
+}

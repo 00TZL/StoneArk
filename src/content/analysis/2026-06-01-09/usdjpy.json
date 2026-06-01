@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-06-01T09:12:29.380Z",
+  "price": {
+    "close": "159.47162",
+    "high": "159.47437",
+    "low": "159.4487",
+    "open": "159.46227",
+    "change": "0.00",
+    "datetime": "2026-06-01 19:00:00"
+  },
+  "indicators": {
+    "rsi": 67.84889,
+    "macd": 0.046343112,
+    "macd_signal": 0.041954159,
+    "sma20": 159.39463
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：高位震荡偏强运行",
+      "content": "美元/日元目前维持在159.47附近窄幅整理，价格运行于20日均线159.39上方，短线结构仍偏多头。尽管24小时波动有限，但汇价连续守稳高位，显示市场买盘情绪尚未明显减弱。\n\n从技术指标观察，MACD维持正值0.046附近，说明中短周期动能仍偏向上行，不过由于信号线数据缺失，当前更像温和上涨后的整理阶段。RSI暂无数据，但价格贴近阶段高位，需警惕短线超买后的回调压力。\n\n关键支撑位首先关注159.39一线，即20日均线区域，若跌破则可能下探159.20附近。上方阻力则集中在159.50至159.70区间，一旦有效突破，市场可能进一步测试160整数关口，波动率或同步放大。\n\n交易策略方面，短线仍可维持逢低做多思路，但不宜在高位盲目追涨。激进交易者可等待回踩159.40附近布局多单，止损设于159.20下方；若突破159.50，则可顺势跟进，并关注美债收益率变化对美元走势的影响。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USD/JPY is maintaining a constructive bullish tone, with the current price at 159.47162 trading above the 20-period simple moving average at 159.39463. This positioning suggests that buyers remain in control of the near-term trend despite the market showing limited intraday volatility. The narrow trading range between 159.44870 and 159.47437 indicates consolidation near recent highs, often a sign that the market is building momentum before its next directional move.\n\nMomentum indicators provide a cautiously positive outlook. The MACD value of 0.04634 remains in positive territory, reflecting underlying bullish momentum, although the absence of a signal line limits confirmation of acceleration. RSI data is unavailable, so overbought or oversold conditions cannot be assessed directly. Nevertheless, sustained trading above the moving average and positive MACD readings suggest that dips may continue to attract buying interest as long as price action remains supported.\n\nFrom a technical perspective, immediate support is located around 159.4500, followed by stronger support near the SMA(20) at 159.3950. A break below these levels could expose the pair to a deeper corrective move toward the 159.2500 area. On the upside, resistance is evident near the recent high of 159.4750, with a decisive breakout potentially opening the way toward 159.6000 and then the psychologically significant 160.0000 level.\n\nTraders may consider maintaining a bullish bias while the pair holds above 159.3950. Conservative participants could wait for a confirmed break above 159.4750 before initiating long positions, targeting 159.6000 and 160.0000. Alternatively, short-term pullbacks toward support zones may offer attractive entry opportunities. Risk management remains essential, with protective stops placed below key support levels to guard against unexpected reversals and shifts in market sentiment."
+    }
+  }
+}

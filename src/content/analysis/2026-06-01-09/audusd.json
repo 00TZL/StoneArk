@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-06-01T09:13:16.828Z",
+  "price": {
+    "close": "0.71817",
+    "high": "0.71857",
+    "low": "0.71809",
+    "open": "0.71832",
+    "change": "-0.03",
+    "datetime": "2026-06-01 19:00:00"
+  },
+  "indicators": {
+    "rsi": 47.2207,
+    "macd": -0.000039452207,
+    "macd_signal": -0.000030427588,
+    "sma20": 0.7183005
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短期震荡偏弱整理",
+      "content": "当前澳元/美元价格位于0.71817，略低于20日简单移动平均线SMA(20)的0.71830，显示短期多头动能有限，但并未出现明显空头趋势。价格在高点0.71857与低点0.71809之间波动，短线呈震荡格局，缺乏明确突破方向。\n\nMACD当前为-0.000039，处于零轴附近，信号线尚未提供参考，这表明动能微弱且市场处于观望状态。RSI指标未提供，但结合价格与SMA关系，短期可能面临轻微回调压力，多空双方暂时平衡。\n\n支撑位初步关注0.71800区域，若跌破可能进一步测试0.71750附近支撑；阻力位则在0.71850-0.71860附近，突破将有望带来上行机会。价格连续在均线附近盘整，短期高低点界限明确，利于交易者设定区间策略。\n\n交易策略上，建议以短线波段为主，逢低可尝试轻仓做多，逢高则可考虑短线获利了结。保持严格止损和仓位控制，避免追涨杀跌，同时关注后续经济数据和澳美利率动态，以调整交易节奏和方向。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "AUD/USD is trading at 0.71817, hovering near the lower end of its recent intraday range after a modest decline of 0.03%. Price action remains slightly bearish in the short term, as the pair is trading below the 20-period simple moving average at 0.71830. The narrow trading range between 0.71809 and 0.71857 suggests a market lacking strong directional conviction, with sellers maintaining a marginal advantage while buyers struggle to reclaim momentum above the moving average.\n\nTechnical indicators reinforce this cautious outlook. The MACD value of -0.000039 indicates mild negative momentum, suggesting bearish pressure remains present, although not particularly strong. With RSI data unavailable, momentum assessment relies primarily on price positioning and MACD behavior. The small negative MACD reading points to weakening bullish participation rather than an aggressive downtrend, implying that consolidation may continue unless a stronger catalyst emerges.\n\nFrom a support and resistance perspective, immediate support is located near the session low of 0.71809. A decisive break below this level could expose the pair to additional downside pressure toward the 0.71750 region. On the upside, resistance is initially seen at 0.71830, aligning with the 20-period SMA, followed by the session high at 0.71857. A sustained move above these levels would improve short-term sentiment and potentially attract renewed buying interest.\n\nTraders may consider maintaining a cautious bearish bias while the pair remains below 0.71830. Short positions could be favored on rallies toward resistance, particularly if momentum indicators continue to weaken. However, given the limited volatility and tight trading range, risk management remains essential. A confirmed breakout above 0.71857 would invalidate the near-term bearish view and could signal a shift toward a more constructive outlook, while a break below 0.71809 would strengthen downside expectations."
+    }
+  }
+}
