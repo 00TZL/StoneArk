@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-06-04T08:13:28.499Z",
+  "price": {
+    "close": "1.34276",
+    "high": "1.34289",
+    "low": "1.34223",
+    "open": "1.34223",
+    "change": "0.04",
+    "datetime": "2026-06-04 18:00:00"
+  },
+  "indicators": {
+    "rsi": 45.55007,
+    "macd": -0.00053041517,
+    "macd_signal": -0.0006964848,
+    "sma20": 1.3425
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：短期震荡偏多趋势",
+      "content": "目前英镑/美元报价1.34276，略高于20日简单移动平均线(SMA20)1.34250，显示短期内价格有轻微上行动能，但涨幅有限。日内高低点1.34289/1.34223波动较窄，表明市场处于震荡整理阶段，趋势尚不明朗。  \n\nMACD指标当前为-0.00053041517，位于零线下方，但数值接近零，暗示空头动能减弱，多空双方力量接近平衡。缺乏RSI参考值限制了超买超卖分析，但结合近期价格走势，短线仍有小幅反弹的可能。  \n\n支撑位可关注1.34220附近的近期低点，如果下破，可能引发进一步回调；阻力位在1.34300一线，若突破则可能带动价格上探1.34400附近。整体来看，价格在1.3422-1.3430区间内波动概率较大。  \n\n交易策略上，建议短线操作以区间震荡为主，可在接近支撑位附近布局多单，止损设置略低于1.3420；阻力位附近可考虑轻仓空单，控制风险。中线投资者可等待明显突破信号确认趋势后再介入，以避免区间震荡中的频繁干扰。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently hovering around 1.34276, showing minimal movement in the last 24 hours with a 0.04% increase. Price action remains relatively neutral, with intraday highs and lows tightly ranged between 1.34289 and 1.34223. This indicates market indecision, likely due to the lack of strong macroeconomic catalysts or major UK/US data releases. Traders should note that the pair is testing the short-term SMA(20) at 1.34250, which could act as a pivot for either a breakout or a reversal.\n\nFrom a technical perspective, the MACD is slightly negative at -0.00053, suggesting weak bearish momentum, though the absence of a signal line limits a conclusive crossover analysis. The market is currently in a consolidation phase, lacking clear directional strength. The tight range between recent highs and lows implies that any breakout above 1.34289 could quickly attract bullish interest, while a dip below 1.34223 might accelerate selling pressure. With the RSI unavailable, traders may rely more on price action and SMA interactions for short-term guidance.\n\nKey support is located near 1.34220–1.34250, where the SMA provides a potential floor for price. Resistance comes in at 1.34290 and slightly above at 1.34320, forming a narrow channel. A sustained move above these levels would suggest bullish continuation, while a failure to breach could reinforce the consolidation pattern. Monitoring intraday candles for rejection or confirmation around these zones will be critical for planning entries or exits.\n\nTrading suggestions favor cautious range-bound strategies until a decisive breakout occurs. Short-term scalpers might consider buying near support with tight stops around 1.34210, targeting the upper channel at 1.34290. Conversely, aggressive traders could short a breakout failure above 1.34290, aiming for a retest of the SMA zone. Overall, maintaining discipline and waiting for a clear trend signal will help mitigate risk in this low-volatility environment."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-06-04T08:19:27.702Z",
+  "price": {
+    "close": "4463.58534",
+    "high": "4467.05598",
+    "low": "4460.10408",
+    "open": "4460.61397",
+    "change": "0.08",
+    "datetime": "2026-06-04 18:00:00"
+  },
+  "indicators": {
+    "rsi": 50.82846,
+    "macd": 0.18047386,
+    "macd_signal": -2.75953,
+    "sma20": 4453.70659
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短线震荡偏强，维持上行格局",
+      "content": "当前黄金/美元报价4463.59，24小时涨幅0.08%，价格运行于20周期均线4453.71上方，显示短期多头仍占据主动。日内波动区间较窄，高低点分别位于4467.06和4460.10附近，市场处于震荡整理阶段，但整体结构偏向强势。\n\n从技术指标来看，MACD指标为0.1805并保持在零轴上方，表明市场仍具备一定上行动能。虽然RSI数据暂缺，无法进一步确认超买或超卖状态，但价格持续站稳均线之上，说明买盘力量尚未明显衰减，短线趋势维持偏多判断。\n\n关键支撑位关注4460.10一线，该位置为日内低点，同时构成短线多头防守区域；若失守，则下方支撑可看向4453.70附近的20周期均线。上方阻力位首先关注4467.06，突破后有望进一步测试4475至4480区域，打开新的上涨空间。\n\n交易策略方面，建议以逢低做多思路为主，等待价格回踩4460至4455区域企稳后布局多单，目标看向4467及4475上方。若价格有效跌破4453.70，则需警惕短线回调风险，及时控制仓位并严格设置止损。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "XAU/USD is currently in a mild consolidation phase following a recent upward drift, with price action hovering just above the 20-period SMA at 4453.7. The structure suggests a short-term bullish bias, but momentum is not strongly directional. The market is compressing between intraday highs near 4467 and nearby support around 4460, indicating equilibrium after a modest advance rather than a fresh breakout trend.\n\nIndicator readings reinforce a cautiously bullish tone. The MACD is slightly positive at 0.18, implying that upward momentum is present but not accelerating. With RSI data unavailable, price action becomes more important, and current candles show reduced volatility and overlapping ranges. This typically reflects market indecision, where participants wait for a catalyst before committing to either a breakout or deeper retracement phase.\n\nImmediate resistance is defined at 4467, the current 24-hour high, with a sustained break above this level potentially opening the path toward 4480 and then the psychological 4500 zone. On the downside, initial support sits at 4460, followed by the stronger 4453 SMA20 confluence. A break below that would expose 4440, where buyers may attempt to re-enter the market.\n\nFrom a trading perspective, the environment favors range-bound strategies until a clear breakout occurs. Buying dips toward 4460–4453 with tight risk control below the SMA20 may be viable under a bullish bias. Alternatively, breakout traders may wait for a decisive close above 4467 to confirm continuation. Failure to hold support would shift focus toward short-term bearish retracement opportunities."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-06-04T08:18:38.319Z",
+  "price": {
+    "close": "0.79161",
+    "high": "0.79196",
+    "low": "0.79159",
+    "open": "0.79189",
+    "change": "-0.04",
+    "datetime": "2026-06-04 18:00:00"
+  },
+  "indicators": {
+    "rsi": 60.15054,
+    "macd": 0.00061237122,
+    "macd_signal": 0.00074437425,
+    "sma20": 0.7913585
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：窄幅震荡偏多运行",
+      "content": "当前美元/瑞郎报0.79161，价格略高于20日简单移动均线0.79136，显示短线仍保持温和偏多格局。不过24小时跌幅仅0.04%，且日内波动区间极窄，表明市场观望情绪较浓，趋势动能暂不强劲。\n\n从技术指标来看，MACD数值为0.000612，处于零轴上方，反映多头仍占据一定优势，但由于缺少信号线数据，暂难确认是否形成进一步的上涨动能。RSI数据缺失，因此需结合价格结构观察后续方向选择。\n\n关键支撑位关注0.79150附近，该位置接近日内低点，若失守可能测试0.79080区域。上方首个阻力位位于0.79200整数关口，进一步阻力关注0.79300附近。当前价格贴近阻力区域，多空双方博弈较为明显。\n\n交易策略方面，短线可采取区间交易思路，在0.79150上方维持谨慎看多观点，等待突破0.79200后顺势跟进。若价格跌破支撑并放量下行，则应及时止损离场，转为关注回调机会，控制仓位与风险仍是当前阶段重点。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "The USD/CHF pair is currently showing a subtle bearish bias, trading just above the 0.7916 mark. Recent price action suggests a period of consolidation, with the high at 0.79196 and low at 0.79159, indicating limited intraday volatility. The pair remains slightly above its 20-period SMA of 0.79136, suggesting that while the short-term trend has tilted toward neutral-to-bullish, momentum remains fragile, and traders should watch for a potential break either way.\n\nMomentum indicators provide a mixed picture. The MACD value of 0.00061 indicates a very mild bullish crossover, but without a confirmed signal line, it’s difficult to assert strong trend conviction. RSI data is currently unavailable, limiting our ability to assess overbought or oversold conditions. The narrow range over the past 24 hours reflects indecision, with neither bulls nor bears fully in control, reinforcing the need for caution in position sizing and timing entries.\n\nKey support is likely near the 0.7910 psychological level, where previous price action suggests buying interest could emerge. Immediate resistance is just above the 0.7920 level, which has acted as a short-term cap during the latest consolidation phase. A decisive move above this zone could trigger further upside momentum, while a breach below support might see the pair gravitate toward 0.7900, testing lower intra-week levels.\n\nTraders may consider a cautious approach in the current environment. Range-bound strategies, including short-term scalps near support and resistance, could be effective. Those seeking directional trades might wait for a clear breakout above 0.7922 to target 0.7930, or a breakdown below 0.7905 for a move toward 0.7890. Positioning should factor in tight stops due to the limited volatility, as false breakouts remain a tangible risk in USD/CHF’s current sideways market."
+    }
+  }
+}
