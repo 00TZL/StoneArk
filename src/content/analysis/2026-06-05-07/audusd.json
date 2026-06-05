@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-06-05T08:02:05.285Z",
+  "price": {
+    "close": "0.7132",
+    "high": "0.71354",
+    "low": "0.71241",
+    "open": "0.71255",
+    "change": "0.09",
+    "datetime": "2026-06-05 17:00:00"
+  },
+  "indicators": {
+    "rsi": 49.8441,
+    "macd": -0.00038537846,
+    "macd_signal": -0.00039181492,
+    "sma20": 0.7132455
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短期横盘偏弱震荡",
+      "content": "目前澳元/美元维持在0.7132附近，接近20日均线0.71325，短期价格波动有限，显示出横盘整理特征。昨日高低点0.71354/0.71241表明市场缺乏明显趋势动力，整体偏向震荡，投资者需关注突破信号。\n\nMACD指标为-0.00038537846，显示空头动能略占优势，但幅度较小，暗示下行压力有限。缺乏RSI参考，结合均线及成交量观察，可视为多空力量均衡，短期内趋势不明朗，技术指标提示耐心观望。\n\n关键支撑位位于0.7124附近，若跌破可能引发进一步下探；阻力位在0.7135至0.7140区间，突破则可能带来反弹机会。价格维持在均线附近波动，支撑与阻力明确，有助于短线交易策略布局。\n\n交易策略上，建议关注区间波动操作，低位可尝试小幅多单，高位考虑轻仓空单，止损需严格设定以防突破带来的快速波动。若价格突破0.7140或跌破0.7120，可重新评估趋势方向并适时调整仓位。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "AUD/USD is currently trading near 0.7132, hovering just below its 20-day simple moving average at 0.71325. The slight positive movement over the last 24 hours suggests the pair is consolidating after a mild bullish attempt. Price action indicates that the market is range-bound between the intraday low of 0.71241 and high of 0.71354, showing limited momentum. Traders may interpret this sideways behavior as a period of indecision, awaiting stronger directional catalysts.  \n\nThe MACD reading at -0.000385 points to a minor bearish bias, despite the narrow negative value, signaling that short-term momentum favors sellers but lacks conviction. The absence of an RSI reading limits overbought or oversold assessment, so price levels relative to support and resistance become crucial for entry decisions. With the SMA acting as a pivot, the market could see renewed attempts to test the 0.7140 resistance if bulls gain traction.  \n\nImmediate support is identified near 0.7124, corresponding to the recent intraday low, while more substantial support may exist around 0.7115, where prior congestion zones have formed. Resistance is likely at 0.7135 and then 0.7140, where previous highs were capped. Monitoring candlestick patterns around these levels could provide early signals for potential breakouts or reversals, helping to anticipate short-term swings.  \n\nFor trading strategy, conservative traders might consider waiting for a clear break above 0.7135 for a long position, targeting 0.7145–0.7150 with tight stop-loss near 0.7123. Alternatively, a failure to reclaim the SMA convincingly could favor short positions toward 0.7120–0.7115. Overall, the pair shows mild indecision with potential for short-term momentum shifts, emphasizing careful attention to breakout confirmations and risk management."
+    }
+  }
+}

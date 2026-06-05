@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-06-05T07:59:13.265Z",
+  "price": {
+    "close": "1.16351",
+    "high": "1.1637",
+    "low": "1.16217",
+    "open": "1.16221",
+    "change": "0.11",
+    "datetime": "2026-06-05 17:00:00"
+  },
+  "indicators": {
+    "rsi": 66.92862,
+    "macd": 0.00012965157,
+    "macd_signal": 0.0000109697,
+    "sma20": 1.16204
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：短期盘整偏多",
+      "content": "目前欧元/美元价格在1.1635附近小幅波动，整体短期呈现盘整偏多格局。价格略高于20日简单移动平均线(SMA20) 1.16204，显示多头略占优势，但上涨动力有限。日内高低点1.1637/1.16217反映出市场震荡幅度较小，短线波动性偏低。\n\n技术指标方面，MACD显示0.0001296且未出现明显信号线发散，暗示趋势尚未形成强烈方向。RSI数据缺失，需关注后续动能变化以判断超买或超卖状态。价格维持在SMA20上方，短期均线支撑有效，若突破可进一步确认多头格局。\n\n支撑位方面，短期可关注1.1620区域，这是20日均线附近的重要支撑；阻力位在1.1640至1.1650区域，若价格无法突破，将可能延续盘整走势。结合高低点范围，短线交易者可考虑区间操作策略。\n\n交易建议上，偏向短线多单为主，入场可在接近支撑位附近布局，止损设置在1.1615下方以控制风险。若价格突破阻力并伴随成交量放大，可顺势加仓多单；反之，出现跌破支撑则需及时止盈或观望。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD is exhibiting a mild bullish bias, trading just above its 20-period simple moving average at 1.16204. The narrow 24-hour range between 1.16217 and 1.1637 suggests market consolidation, indicating indecision among traders. Despite the small upward movement of 0.11%, the pair is likely respecting short-term support, while the upward slope of the SMA signals that buyers are gradually asserting control. Price action near the SMA often acts as a pivot for intraday trading decisions.\n\nThe MACD reading of 0.00012965, although slightly positive, indicates very limited momentum, suggesting that bullish strength is present but weak. In the absence of the RSI and MACD signal line, traders should be cautious of false breakouts. The combination of a rising SMA and marginally positive MACD implies that the pair may continue its upward drift if supported by intraday buying interest, but lack of strong confirmation warrants careful position sizing.\n\nImmediate support is observed at 1.1620, coinciding closely with the SMA, while resistance sits at the 24-hour high of 1.1637. A sustained break above this resistance could open the door to the next psychological level around 1.1650. Conversely, a decisive drop below support would risk a short-term bearish retracement toward 1.1600. These levels provide a framework for intraday traders to manage risk and set stop-loss orders effectively.\n\nFor trading strategy, a cautious long bias could be adopted above the SMA with tight stops below 1.1620, targeting 1.1637 initially. Short positions may be considered only if the pair closes decisively below the support zone, confirming weakness. Given the low volatility and lack of strong momentum signals, intraday scalping or range-bound strategies may be preferable to aggressive trend-following approaches. Monitoring upcoming economic releases or US/EU data will be crucial to anticipate sharper moves."
+    }
+  }
+}

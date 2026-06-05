@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-06-05T08:03:58.040Z",
+  "price": {
+    "close": "0.58721",
+    "high": "0.58734",
+    "low": "0.58719",
+    "open": "0.58734",
+    "change": "-0.02",
+    "datetime": "2026-06-05 18:00:00"
+  },
+  "indicators": {
+    "rsi": 50.98713,
+    "macd": -0.00023798071,
+    "macd_signal": -0.0003451638,
+    "sma20": 0.5870255
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：短线偏震荡整理",
+      "content": "当前纽元/美元维持在0.5872附近，价格与20日均线SMA(20)=0.58703基本重合，显示短期趋势缺乏明显方向，市场处于横盘整理状态。MACD微弱负值-0.000238表明多空力量暂时均衡，动能略偏空，但幅度极小，短线波动可能受市场消息影响较大。\n\n技术指标方面，RSI未提供，但从价格与均线接近来看，多空双方在关键区间相互试探，短期内难以形成强势趋势。若价格上破0.5880阻力位，可视为多头尝试启动；若跌破0.5860支撑，则空头力量或将略占上风。\n\n支撑与阻力位方面，初步支撑0.5860，次级支撑0.5845；阻力位分别在0.5880及0.5895区域。交易者应关注价格在这些关键区间的反应，结合成交量与宏观消息做动态判断，避免盲目追涨杀跌。\n\n交易策略上，可采用区间震荡策略为主，逢低轻仓多、逢高轻仓空，严格控制止损0.5855以下或0.5898以上，以防短线突发波动。中长期仍需等待突破信号确认趋势方向，暂时不宜追求大仓位单边操作。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently trading around 0.58721, showing marginal downside movement in the past 24 hours. Price action has been relatively tight, confined between the intraday low of 0.58719 and high of 0.58734, suggesting a consolidation phase. With the 20-period SMA at 0.58703, the market is hovering just above this short-term moving average, indicating a neutral-to-slightly-bullish bias. Traders should note that momentum is muted, and breakout opportunities may define the next directional move.\n\nThe MACD currently registers a small negative reading at -0.00023798, signaling minor bearish momentum, though the lack of a signal line reading limits confirmation. In the absence of RSI data, reliance on price action and moving averages becomes more critical. The price flirting around the SMA implies equilibrium between buyers and sellers, reinforcing the current range-bound behavior. The next directional shift may depend on fundamental triggers, such as economic releases from New Zealand or the U.S., given the subdued technical signals.\n\nKey support is evident near 0.58700, which aligns closely with the SMA and the lower end of the recent trading range. Resistance emerges around 0.58750, marking the recent intraday high. A sustained break above this level could open a path toward 0.58800, while a decisive drop below support might expose the pair to 0.58650 or lower. Traders should monitor volume and candlestick patterns for confirmation before committing to directional trades.\n\nGiven the current technical landscape, short-term traders may favor range-bound strategies, buying near support and selling near resistance. Risk-averse participants could wait for a clear breakout to avoid false signals. Overall, the NZD/USD is exhibiting consolidation with limited momentum, and the next meaningful trend is likely to be triggered by either macroeconomic data or a decisive breach of the current support/resistance levels. Patience and confirmation-based entries remain key for effective trading in this environment."
+    }
+  }
+}

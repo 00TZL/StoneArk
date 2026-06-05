@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-06-05T08:05:55.183Z",
+  "price": {
+    "close": "4463.08783",
+    "high": "4463.42481",
+    "low": "4458.92715",
+    "open": "4461.59943",
+    "change": "0.04",
+    "datetime": "2026-06-05 18:00:00"
+  },
+  "indicators": {
+    "rsi": 50.40412,
+    "macd": -5.049972,
+    "macd_signal": -4.16352,
+    "sma20": 4464.97623
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：高位震荡偏弱整理",
+      "content": "当前黄金/美元维持窄幅震荡格局，最新价格报4463.09，日内波动有限。价格运行于20周期均线4464.98下方，显示短线多头动能有所减弱，但整体跌幅受限，市场暂未形成明确下行趋势，整体呈现高位整理特征。\n\n从技术指标来看，MACD值为-5.05，处于零轴下方，反映短期空头力量略占优势。不过由于RSI数据缺失，超买超卖状态暂无法确认。MACD偏弱但价格跌幅有限，表明空头动能释放相对温和，市场仍处于方向选择阶段。\n\n关键位置方面，日内低点4458.93构成首要支撑区域，若失守则可能进一步测试4455附近支撑。上方阻力首先关注4463.42日内高点，其后为20日均线4464.98区域，若有效突破，则有望打开向4470一线反弹空间。\n\n交易策略上，短线宜保持谨慎，倾向采取区间交易思路。激进交易者可关注4459附近支撑企稳后的低多机会，目标看向4465至4470区域；若价格跌破4458支撑，则应警惕空头延续，顺势跟随下行走势并严格控制风险。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold is currently trading near $4463, showing minimal movement over the past 24 hours and consolidating just below its 20-period SMA at $4464.98. This sideways price action suggests market indecision, with neither bulls nor bears in clear control. Short-term traders might interpret this as a neutral zone, awaiting stronger momentum or external catalysts such as macroeconomic data, U.S. dollar strength, or inflation cues to push the price decisively higher or lower.\n\nThe MACD reading at -5.05 indicates mild bearish pressure, though the absence of a signal line limits confirmation of momentum trends. Combined with the slight dip below the SMA, this suggests a cautious bias toward the downside unless the price regains momentum above $4465. RSI data is unavailable, but observing price behavior around support and resistance can offer a proxy for overbought or oversold conditions. Traders should monitor for divergence patterns or sudden accelerations to anticipate trend shifts.\n\nImmediate support for XAU/USD lies near $4459, representing the low of the last 24 hours, followed by a secondary floor around $4450, where historical buying interest has emerged. Resistance is observed at $4465, with a stronger barrier at $4475. Breaching these levels with volume could trigger a short-term trend continuation. Given the current narrow range, trading strategies focusing on breakout or range-bound techniques may be most effective, employing tight stops to manage risk.\n\nFor short-term positions, cautious traders might consider buying near support levels with a stop slightly below $4458, targeting the immediate resistance near $4465–$4470. Conversely, more aggressive traders could prepare for a breakout scenario above $4465, signaling bullish continuation, or short positions if the price decisively drops below $4458. Patience and adherence to risk management are key, as the market remains in a consolidation phase awaiting directional cues."
+    }
+  }
+}
