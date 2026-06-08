@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-06-08T08:48:12.601Z",
+  "price": {
+    "close": "0.70492",
+    "high": "0.70539",
+    "low": "0.70478",
+    "open": "0.70502",
+    "change": "-0.01",
+    "datetime": "2026-06-08 18:00:00"
+  },
+  "indicators": {
+    "rsi": 53.3749,
+    "macd": 0.000059563512,
+    "macd_signal": -0.000036411297,
+    "sma20": 0.70426
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短期盘整偏多",
+      "content": "目前澳元/美元维持在0.7049附近震荡，价格略高于20日均线0.70426，显示短期多头仍有支撑，但波动幅度有限，整体趋势呈现盘整偏多。价格在日内高点0.70539和低点0.70478之间徘徊，说明市场多空力量暂时均衡。  \n\nMACD指标显示多头动能微弱，当前值0.00005956，未形成明显金叉或死叉，表明趋势延续性有限，需要关注后续动能变化。RSI数据缺失，但结合均线和价格震荡可判断短期内买卖双方力量接近，需谨慎操作。  \n\n支撑位关注0.70426附近的20日均线支撑，以及近期低点0.70478，若跌破可能触发进一步回调。阻力位则在0.70539附近，若价格稳步突破该水平，则短线多头或将延续上行。  \n\n交易策略上，短线可在支撑位附近低吸，止损控制在0.7040以下，目标关注阻力位0.7054附近。激进投资者可等待突破确认后顺势跟进，但需关注市场波动加大时的风险管理，避免追高或追低。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently exhibiting a neutral-to-slightly-bullish bias, trading just above the 20-period SMA at 0.70426. Price action has been relatively contained, fluctuating within a tight range between 0.70478 and 0.70539 over the last 24 hours. The small daily movement of -0.01% suggests a consolidation phase, likely indicating market indecision ahead of potential fundamental drivers. Traders should watch for a decisive move above 0.7055 to confirm short-term bullish momentum.\n\nFrom a technical standpoint, the MACD reading of 0.00005956, although slightly positive, suggests limited upward momentum, and with the signal line unavailable, its strength cannot be fully assessed. The proximity of the current price to the SMA(20) implies that the pair is testing its near-term dynamic support. If the SMA holds, it could attract short-term buyers; a failure below 0.7042 may open the door to deeper retracements towards 0.7035.\n\nKey levels to monitor include immediate support at 0.7042, followed by a secondary level near 0.7035, which aligns with prior consolidation lows. Resistance is observed at 0.7055, with a more significant barrier around 0.7062 where previous highs were rejected. Price behavior around these levels will likely dictate the next directional bias, with sustained breaches serving as signals for potential trend continuation or reversal.\n\nFor trading strategy, cautious range-bound tactics may be optimal in the current environment. Short-term traders could consider buying near 0.7042 with tight stops below 0.7035, targeting the 0.7055 resistance. Conversely, a breakout above 0.7055 could justify momentum-based long positions, aiming for 0.7062 and beyond. Risk management is crucial due to the narrow intraday range and low volatility, as sudden news or economic releases could trigger sharper swings in the AUD/USD."
+    }
+  }
+}

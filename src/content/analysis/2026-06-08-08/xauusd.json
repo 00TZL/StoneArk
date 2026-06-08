@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-06-08T08:51:34.687Z",
+  "price": {
+    "close": "4292.06818",
+    "high": "4297.88433",
+    "low": "4284.85731",
+    "open": "4297.88433",
+    "change": "-0.14",
+    "datetime": "2026-06-08 18:00:00"
+  },
+  "indicators": {
+    "rsi": 29.73588,
+    "macd": -9.40637,
+    "macd_signal": -5.77555,
+    "sma20": 4321.079319
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短线偏弱整理趋势",
+      "content": "当前黄金价格在4292附近震荡，日内波动幅度有限，整体呈现短线偏弱整理格局。虽然价格仍高于昨日低点4284，但未能突破20日均线4321，显示多头力量受到抑制，短期上涨动力不足。\n\n技术指标显示，MACD为-9.41，负值区间表明空头压力仍在，但由于Signal未提供，需结合价格行为判断动能。RSI缺失，使超买超卖判断受限，但从价格结构看，买卖力量接近平衡，市场可能在当前区间横盘整理。\n\n支撑位主要在4285附近，若下破该水平，可能触发短线卖压加剧；阻力位在4300-4320区间，若多头能有效突破，或带来反弹机会。价格仍在均线下方震荡，显示短期趋势偏弱。\n\n交易策略建议：谨慎参与短线多单，重点观察支撑位反应。若价格突破阻力并伴随成交量放大，可考虑小仓位做多。短线可在支撑附近布局防守性买入，止损设于4280下方，以控制风险。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "XAU/USD remains under short-term bearish pressure, trading at 4292.07 and holding below the 20-period SMA at 4321.08. The metal has posted a modest 24-hour decline of 0.14%, while recent price action shows repeated failure to reclaim higher levels. As long as price remains beneath the moving average, the broader near-term bias favors sellers, although the decline appears measured rather than aggressively impulsive.\n\nMomentum indicators also lean negative. The MACD reading of -9.41 suggests bearish momentum remains active, indicating that downward pressure has not fully dissipated. While the RSI value is unavailable, the current positioning below the SMA and negative MACD configuration imply weakened buying interest. However, with the daily range confined between 4284.86 and 4297.88, momentum remains relatively controlled, reducing the likelihood of immediate panic selling.\n\nFrom a technical perspective, initial support is located near 4285, corresponding to the recent session low. A decisive break below this level could expose 4275 and potentially 4260 as the next downside objectives. On the upside, immediate resistance appears at 4298, followed by the more significant barrier around 4321, where the 20-period SMA is currently positioned. A sustained move above 4321 would improve sentiment and could trigger a broader corrective recovery toward 4340-4350.\n\nTraders may consider maintaining a cautious bearish stance while price remains below 4321. Short positions could be favored on rallies toward resistance, particularly if momentum indicators continue to weaken. Conversely, aggressive sellers should monitor the 4285 support area closely, as a failure to break lower could encourage short-covering and temporary rebounds. Risk management remains essential, with stop-loss placement above key resistance levels and profit targets aligned with nearby support zones."
+    }
+  }
+}

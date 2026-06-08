@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-06-08T08:49:59.383Z",
+  "price": {
+    "close": "0.58039",
+    "high": "0.5807",
+    "low": "0.58001",
+    "open": "0.5803",
+    "change": "0.02",
+    "datetime": "2026-06-08 18:00:00"
+  },
+  "indicators": {
+    "rsi": 53.32135,
+    "macd": 0.00009341451,
+    "macd_signal": 0.000011115993,
+    "sma20": 0.5796585
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：短线震荡偏强，维持温和上行格局",
+      "content": "纽元/美元最新报0.58039，价格运行于20日均线0.57966上方，显示短期多头仍占据一定优势。24小时波动区间较窄，高低点分别位于0.58070和0.58001，表明市场暂处于整理阶段，但整体结构偏向震荡上行。\n\n从技术指标看，MACD值为0.000093，保持在零轴附近并呈现轻微正值，反映上涨动能仍然存在，但力度有限。RSI数据暂缺，难以确认超买或超卖状态，因此需结合价格行为与均线位置进行综合判断。\n\n关键支撑位关注0.58000整数关口，其次为20日均线附近的0.57966区域；若跌破该区间，可能测试0.57850。上方阻力首先位于日内高点0.58070，进一步突破后有望挑战0.58200附近压力带，打开更大反弹空间。\n\n交易策略方面，短线可维持偏多思路，关注价格能否有效站稳0.58000上方。激进交易者可等待突破0.58070后顺势跟进，多头目标看向0.58200；若失守0.57966，则需警惕回调风险，宜控制仓位并设置严格止损。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "NZD/USD is trading near 0.58039, holding slightly above its 20-day simple moving average at 0.57966, which suggests a modest bullish bias in the short term. The pair has remained confined within a narrow intraday range between 0.58001 and 0.58070, indicating a period of consolidation rather than a decisive directional move. As long as price remains above the moving average, buyers retain a slight advantage, although momentum remains relatively subdued.\n\nThe technical picture is supported by a positive MACD reading of 0.000093, indicating that bullish momentum is still present. However, the absence of a signal line and RSI reading limits confirmation of trend strength. The marginal 24-hour gain of 0.02% further reflects a market lacking strong conviction. Traders should therefore interpret the positive MACD as an early sign of upward pressure rather than evidence of a fully established uptrend.\n\nFrom a price structure perspective, immediate support is located at 0.58000, followed by the SMA area around 0.57966. A break below these levels could expose the pair to further downside toward 0.57850. On the upside, initial resistance stands near the session high of 0.58070, with a stronger resistance zone around 0.58200. A sustained move above 0.58070 would improve the technical outlook and increase the likelihood of an extension toward higher resistance levels.\n\nFor trading purposes, a cautiously bullish approach appears appropriate while price remains above the 20-day average. Short-term traders may look for buying opportunities on pullbacks toward the 0.58000–0.57970 support zone, targeting a move toward 0.58070 and potentially 0.58200. Conversely, a decisive break below 0.57966 would weaken the bullish structure and could favor short positions targeting lower support levels. Risk management remains essential given the pair’s currently compressed trading range and limited momentum."
+    }
+  }
+}

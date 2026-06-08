@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-06-08T08:49:12.988Z",
+  "price": {
+    "close": "1.39487",
+    "high": "1.39521",
+    "low": "1.39457",
+    "open": "1.395",
+    "change": "-0.02",
+    "datetime": "2026-06-08 18:00:00"
+  },
+  "indicators": {
+    "rsi": 57.0465,
+    "macd": 0.00034994775,
+    "macd_signal": 0.00029625136,
+    "sma20": 1.39425
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：短线震荡偏多整理",
+      "content": "当前美元/加元价格在1.39487附近微幅下跌，整体走势呈现短期横盘震荡。价格略高于20日均线1.39425，显示多头仍具一定支撑，但上行动能有限，整体趋势偏向整理而非明显突破。日内波动幅度有限，高低点仅相差约0.00064，短线交易者需关注波动风险。  \n\n从技术指标来看，MACD当前值0.00035略为正向，显示多空力量接近平衡，缺乏明确信号。RSI数据缺失，但结合均线及价格走势可判断市场尚未进入超买区，多头仍有轻微发力空间。价格紧贴20日均线震荡，短线投资者应谨慎操作，避免追高。  \n\n关键支撑位在1.39425附近的20日均线及下方1.3940心理关口，如跌破可能触发短线回调。阻力位则在近期高点1.3952及更上方1.3960附近，突破后可带来小幅上涨机会。市场仍以区间整理为主，突破方向将决定后续中短线走势。  \n\n交易建议上，短线可在支撑附近低吸，并关注突破阻力的机会以布局波段。若价格跌破均线并放量下行，可适度减仓或短线做空。总体来看，保持谨慎乐观，关注关键技术位的有效突破，以防止行情突变带来的风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "The USD/CAD pair is showing a largely neutral intraday profile, consolidating near 1.39487. Price action remains close to the 20-period SMA at 1.39425, indicating short-term equilibrium between buyers and sellers. The narrow high-low range of 1.39521–1.39457 suggests low volatility, hinting at indecision in the market. Traders should watch for a decisive break above 1.3952 or below 1.3945 to determine the immediate directional bias.\n\nMomentum indicators present a mixed outlook. The MACD remains slightly positive at 0.00035, suggesting mild bullish sentiment, though the absence of a signal line reading tempers conviction. Without an RSI, overbought or oversold conditions cannot be gauged, which makes price action near key support and resistance levels more critical. Market participants should remain cautious and avoid initiating aggressive positions until further clarity emerges from momentum confirmation.\n\nSupport and resistance levels are narrowly defined in the current consolidation zone. Immediate support sits at 1.3945, reinforced by recent intraday lows, while resistance aligns around 1.3952, near the intraday high and SMA proximity. Breaches of these levels could trigger short-term breakout trades. A clean break above 1.3952 could open a move toward 1.3960–1.3970, whereas a breakdown below 1.3945 may test 1.3935–1.3930.\n\nFor trading strategies, range-bound participants may consider short-term scalps between 1.3945–1.3952 with tight stops, while breakout traders should wait for a confirmed move beyond these thresholds. Intraday traders should also monitor Canadian economic data or U.S. market drivers, as minor news could amplify moves in this low-volatility environment. Overall, a cautious approach is recommended until a directional trend solidifies."
+    }
+  }
+}

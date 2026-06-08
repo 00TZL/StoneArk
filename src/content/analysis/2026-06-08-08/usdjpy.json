@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-06-08T08:47:11.637Z",
+  "price": {
+    "close": "160.21412",
+    "high": "160.23615",
+    "low": "160.13301",
+    "open": "160.22477",
+    "change": "-0.01",
+    "datetime": "2026-06-08 18:00:00"
+  },
+  "indicators": {
+    "rsi": 40.81799,
+    "macd": -0.01121678,
+    "macd_signal": 0.0010024827,
+    "sma20": 160.28099
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：横盘整理偏弱震荡",
+      "content": "目前美元/日元最新报价为160.21412，短期价格波动有限，日内涨幅仅微弱，显示市场存在整理特征。从技术趋势来看，价格低于20日均线160.28099，表明短期存在下行压力，但跌幅有限，整体仍处于震荡区间。  \n\nMACD指标显示为-0.0112，负值区间暗示空头力量略占优，但未出现明显发散，意味着空头动能尚未加速。缺少RSI数据需谨慎观察超买超卖信号，以避免追高或追空操作。价格目前处于均线下方，但与高低点160.23615/160.13301接近，短线支撑阻力清晰。  \n\n关键支撑位初步设在160.13附近，若跌破可能进一步测试159.90区域；阻力位在160.28至160.24区间，突破则有望上探160.40。交易者应关注价格对均线及关键价位的反应，配合止损策略控制风险。  \n\n操作建议上，短线可维持震荡交易思路，逢阻力位减仓或轻仓空，靠近支撑位可尝试小幅多头。中长线投资者可等待价格明确突破均线或关键阻力后再布局，以降低波动风险并提高胜率。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USD/JPY is currently showing signs of a consolidating phase near the 160.21 level, with the 24-hour price change essentially flat. The intraday high of 160.236 and low of 160.133 suggest a tight range, indicating indecision among traders. The market is hovering slightly below the 20-period SMA at 160.281, which may act as a near-term resistance. Price stability around this level points to potential buildup before a breakout, so monitoring reactions at key moving averages is crucial.\n\nMomentum indicators provide mixed signals. The MACD at -0.0112 implies mild bearish sentiment, though the absence of a signal line reading limits precision. RSI data is unavailable, preventing a clear assessment of overbought or oversold conditions. Despite this, the negative MACD hints that bears hold a slight edge, but with minimal price movement, a strong trend has yet to establish. Traders should be cautious, focusing on breakout confirmation rather than speculative entries.\n\nSupport and resistance levels are pivotal for short-term positioning. Immediate support sits around 160.13, aligning with the daily low, while the SMA near 160.28 and the recent high at 160.236 act as resistance. A decisive break above 160.28 could open a path toward 160.40, whereas a breach below 160.13 may trigger a deeper retracement toward 159.90. These levels offer clear risk/reward benchmarks for intraday trades and swing positions.\n\nGiven the current setup, a range-bound strategy is advisable. Buying near support and taking profits near resistance could capture small, low-risk moves. For breakout traders, confirmation above 160.28 or below 160.13 with increased volume would signal entry opportunities. Overall, patience is key, and aligning positions with trend confirmation rather than chasing marginal price shifts will likely improve trade outcomes."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-06-08T08:50:46.406Z",
+  "price": {
+    "close": "0.79796",
+    "high": "0.79803",
+    "low": "0.7975",
+    "open": "0.79774",
+    "change": "0.02",
+    "datetime": "2026-06-08 18:00:00"
+  },
+  "indicators": {
+    "rsi": 61.68214,
+    "macd": 0.00053726729,
+    "macd_signal": 0.00040244929,
+    "sma20": 0.7965515
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：短线震荡偏强，维持温和上行格局",
+      "content": "美元/瑞郎最新报0.79796，价格运行于20日均线0.79655上方，显示短期多头仍占据一定优势。24小时波动幅度较小，汇价接近当日高点运行，表明市场买盘力量略强于卖盘，整体维持震荡偏多结构。\n\n从技术指标来看，MACD数值为0.000537，处于零轴上方，说明中短期动能偏向上涨。虽然RSI数据暂缺，无法进一步确认超买或超卖状态，但价格持续站稳均线之上，趋势信号依然偏积极，短线存在进一步测试上方压力的可能。\n\n关键位置方面，0.79750构成近期首要支撑，若失守则可能回踩0.79655附近均线支撑；下方更强支撑位关注0.79550区域。上方阻力首先位于0.79803日内高点，突破后有望挑战0.80000整数关口及更高区域。\n\n交易策略上，建议以顺势操作为主。在价格维持0.79750上方时，可关注逢低做多机会，目标看向0.79850至0.80000区间。若汇价跌破20日均线并放量下行，则需警惕短期调整风险，届时宜观望或等待新的趋势确认信号。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "USD/CHF is trading near 0.7980, maintaining a modest bullish tone after holding above the 20-period simple moving average at 0.7966. The pair’s ability to remain above this moving average suggests buyers retain short-term control, although the extremely narrow daily range between 0.7975 and 0.7980 indicates limited momentum and a market waiting for a stronger catalyst. The marginal 24-hour gain of 0.02% reinforces the view of a steady but cautious upward bias.\n\nMomentum indicators provide a mixed picture. While RSI data is unavailable, the positive MACD reading of 0.00054 indicates underlying bullish momentum remains intact. However, without confirmation from a signal line crossover or stronger price expansion, traders should avoid interpreting the MACD as a strong trend signal. The current setup points more toward gradual accumulation than aggressive buying pressure, suggesting that upside progress may remain measured in the near term.\n\nFrom a technical perspective, immediate support is located around 0.7975, which coincides with the session low and serves as the first line of defense for buyers. A deeper pullback could expose the SMA(20) near 0.7966, followed by secondary support around 0.7950. On the upside, resistance is evident at 0.7980–0.7981, with a break above this area potentially opening the way toward 0.8000, a psychologically significant level that may attract additional market attention.\n\nTrading strategies should remain balanced while price consolidates near resistance. Bullish traders may consider long positions on sustained closes above 0.7981, targeting 0.8000 and potentially higher levels if momentum strengthens. More conservative participants could wait for a pullback toward 0.7966–0.7970 to seek better risk-reward opportunities. Conversely, a decisive break below 0.7975 would weaken the short-term bullish structure and increase the probability of a move toward the 0.7950 support zone."
+    }
+  }
+}
