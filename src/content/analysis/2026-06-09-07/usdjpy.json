@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-06-09T07:39:27.206Z",
+  "price": {
+    "close": "160.19307",
+    "high": "160.22255",
+    "low": "160.1592",
+    "open": "160.16407",
+    "change": "0.01",
+    "datetime": "2026-06-09 17:00:00"
+  },
+  "indicators": {
+    "rsi": 50.20494,
+    "macd": -0.0024555864,
+    "macd_signal": -0.0073382045,
+    "sma20": 160.16649
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：高位震荡偏强",
+      "content": "美元/日元当前报160.193附近，24小时波动极为有限，价格维持在20日均线160.166上方运行，显示短线多头仍占据一定优势。整体走势呈现高位整理格局，市场处于方向选择阶段，趋势偏强但动能有所放缓。\n\n从技术指标来看，MACD数值为负且接近零轴，反映多空力量较为均衡，短线动能不足。由于RSI数据缺失，无法进一步确认超买或超卖状态，但价格稳守均线之上，表明市场尚未出现明显转弱信号。\n\n关键价位方面，短线支撑位关注160.160及160.100区域，若跌破则可能测试160.000整数关口。上方阻力位位于160.220附近，为日内高点区域，若有效突破，则有望进一步打开上行空间并挑战更高目标位。\n\n交易策略上，建议以顺势思路为主。在160.160上方可维持偏多观点，等待突破160.220后跟进多单；若价格跌破160.160并持续走弱，则需警惕回调风险。当前波动率较低，宜控制仓位并设置合理止损，等待更明确的方向信号出现。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is currently exhibiting a subtle upward bias, with the latest price at 160.193, marginally above the 20-period simple moving average of 160.166. This suggests that the short-term trend is slightly bullish, though momentum remains limited. Price action within the 24-hour range of 160.159 to 160.222 indicates consolidation, highlighting that traders are awaiting a catalyst to push the pair decisively higher or lower. Intraday volatility remains muted, consistent with the narrow price range observed.  \n\nWhile the RSI and MACD signals are partially incomplete, the available MACD reading of -0.00245 points to minimal bearish momentum, as the value hovers near the zero line. This aligns with the small upward drift seen against the SMA. Traders should note that momentum indicators suggest the market is in a neutral to mildly bullish phase, implying that any directional moves may be short-lived unless reinforced by fundamental news or higher volume participation. Monitoring a completed MACD signal could provide confirmation for potential entry points.  \n\nImmediate support is likely around 160.160, coinciding closely with the recent intraday low, providing a floor for short-term pullbacks. Resistance appears near 160.222, representing the intraday high and a level where profit-taking could slow upward advances. A sustained break above this resistance could open the path toward 160.300, while a drop below support may see a retest of 160.100. These levels provide traders with clear zones for managing risk and placing stop-loss orders effectively.  \n\nFor trading strategies, cautious long positions could be considered on dips toward the 160.160 support, aiming for near-term resistance targets. Conversely, short-term sellers might await a rejection at 160.222 to capitalize on minor pullbacks, especially in low-volume conditions. Overall, the pair reflects a market in equilibrium with a slight bullish tilt, suggesting that range-based trading or small trend-following positions may be optimal until a stronger directional bias emerges.  \n\nIf you want, I can also create a **shorter intraday trade plan with exact entry, stop-loss, and take-profit levels** based on this analysis. Do you want me to do that?"
+    }
+  }
+}

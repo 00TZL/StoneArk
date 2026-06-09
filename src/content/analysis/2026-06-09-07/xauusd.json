@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-06-09T07:43:58.547Z",
+  "price": {
+    "close": "4326.45981",
+    "high": "4334.25798",
+    "low": "4322.08151",
+    "open": "4333.99674",
+    "change": "-0.13",
+    "datetime": "2026-06-09 17:00:00"
+  },
+  "indicators": {
+    "rsi": 48.72345,
+    "macd": 2.49066,
+    "macd_signal": 2.35931,
+    "sma20": 4332.06828
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短期盘整，震荡偏弱",
+      "content": "当前XAU/USD价格在4326附近运行，日内波动幅度有限，显示市场短期内缺乏明确方向。结合20日均线4332，价格略低于均线，短期偏弱，但未形成明显下跌趋势，多空双方处于胶着状态。  \n\nMACD指标显示多头动能略有衰减，当前值为2.49，虽然尚在正区间，但上涨势头放缓，暗示短线回调压力存在。RSI未提供数据，但结合价格与均线的关系，短期超买风险不大，市场可能维持震荡格局。  \n\n支撑位关注4322-4320区域，若跌破该位置，短线可能延伸至4315附近；阻力位在4334-4336附近，多次触及未突破，短线多头需谨慎。价格在均线附近反复震荡，交易者可重点关注突破信号确认趋势。  \n\n综合来看，短期策略以区间操作为主，激进交易者可在支撑位尝试轻仓做多，止损控制在4319以下；阻力位附近可适度减仓或尝试短线回落操作，切忌追涨杀跌，等待明确突破确认趋势方向。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold is currently navigating a subtle downtrend against the US Dollar, with the latest price holding at $4326.46, slightly below the 20-period simple moving average of $4332.07. The intraday range, spanning $4322.08 to $4334.26, indicates limited volatility and suggests that short-term momentum is muted. The inability of the price to decisively break above the SMA signals cautious buying pressure, while the marginal 0.13% decline reflects a lack of strong directional conviction among traders.  \n\nThe MACD reading of 2.49066, without a corresponding signal line value, hints at a mild bullish bias, although confirmation is absent. Traders should remain attentive to potential divergence if momentum slows further, as the lack of a signal line makes traditional crossovers unavailable. While the market exhibits signs of consolidation, technical participants may interpret the current MACD level as an early indication of bullish energy that could unfold if support holds.  \n\nImmediate support is evident around $4322, marking the intraday low, while resistance is concentrated near the SMA at $4332 and extends toward $4334, the day’s high. A sustained breach above $4334 could trigger a short-term rebound toward higher levels, whereas a breakdown below $4322 might accelerate a corrective pullback. These zones provide clear reference points for tactical entries or exits, offering defined risk-reward parameters for both swing and intraday positions.  \n\nFor traders, a cautious approach is warranted. Short-term buyers may consider scaling in near support while monitoring volume and momentum for confirmation, whereas sellers could await a decisive break below $4322 before committing. Maintaining tight stop-loss orders around these key levels will help manage risk. Overall, the market exhibits a delicate balance between consolidation and potential bullish attempts, emphasizing the importance of disciplined execution and monitoring of critical technical thresholds."
+    }
+  }
+}

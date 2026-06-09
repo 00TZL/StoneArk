@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-06-09T07:40:17.647Z",
+  "price": {
+    "close": "0.70524",
+    "high": "0.70611",
+    "low": "0.7051",
+    "open": "0.70594",
+    "change": "-0.09",
+    "datetime": "2026-06-09 17:00:00"
+  },
+  "indicators": {
+    "rsi": 51.51862,
+    "macd": 0.00013950326,
+    "macd_signal": 0.000069051945,
+    "sma20": 0.705128
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短线震荡偏弱，关注关键支撑表现",
+      "content": "澳元/美元当前维持窄幅震荡，最新报价接近0.7052，日内小幅回落。价格运行于20日均线附近，显示多空力量暂时均衡，但短线动能略偏空，市场情绪仍偏谨慎。\n\n从技术指标来看，MACD维持微弱正值，说明中期仍存在一定反弹动能，但柱体较小，趋势延续性不足。RSI数据暂缺，使超买超卖判断受限，整体仍以区间整理结构为主。\n\n关键支撑位关注0.7050一线，若跌破可能进一步测试0.7035区域；上方阻力位位于0.7061及0.7080附近，短线若无法有效突破，汇价或继续承压震荡，行情方向仍待确认。\n\n交易策略方面，建议投资者以区间短线操作为主，激进者可在0.7050附近轻仓尝试低吸，但需严格设置止损。若价格重新站稳0.7065上方，则有望打开进一步反弹空间。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "The AUD/USD pair is currently navigating a narrow trading range, with the latest price at 0.70524, slightly above the 20-period simple moving average of 0.70513. This suggests that the short-term trend is relatively neutral, with neither bulls nor bears asserting clear control. The small daily movement of -0.09% and the tight high-low range between 0.70611 and 0.70510 reinforce this indecision, indicating potential consolidation before a more decisive directional move emerges. Traders should monitor whether price holds above the SMA for bullish confirmation or falls below for bearish bias.  \n\nMomentum analysis remains limited due to missing RSI and signal data; however, the MACD value of 0.0001395, marginally positive, implies mild bullish pressure. While not strong enough to generate a definitive signal, this slight positive divergence could support short-term upward retracements if market sentiment improves. The lack of a confirmed signal line prevents a classic crossover interpretation, so traders might rely on price action around moving averages or key levels to validate entry points.  \n\nImmediate support is found around the intraday low of 0.70510, closely aligned with the 20-period SMA. Breaching this level could open a pathway toward 0.70450, a previous consolidation zone, offering short-term selling opportunities. Resistance is positioned at the daily high of 0.70611, followed by 0.70700, where psychological selling pressure may appear. Breakouts above these levels would suggest renewed bullish momentum, potentially targeting 0.70800 in the medium term.  \n\nGiven the current landscape, a cautious approach is advisable. Traders may consider range-bound strategies, buying near support and selling near resistance, while maintaining tight stops to manage risk. For trend-following strategies, confirmation through a sustained move above 0.70650 or below 0.70500 could offer higher-probability setups. Overall, the pair shows limited directional conviction, and monitoring macroeconomic catalysts such as commodity prices and US economic data could provide the decisive push needed for a clearer trend.  \n\nWord count: 272"
+    }
+  }
+}

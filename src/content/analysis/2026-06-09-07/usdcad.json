@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-06-09T07:41:09.007Z",
+  "price": {
+    "close": "1.39379",
+    "high": "1.39411",
+    "low": "1.39365",
+    "open": "1.39365",
+    "change": "0.01",
+    "datetime": "2026-06-09 17:00:00"
+  },
+  "indicators": {
+    "rsi": 42.77146,
+    "macd": -0.00010338797,
+    "macd_signal": 0.00010016848,
+    "sma20": 1.39471
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：短线盘整，观望为主",
+      "content": "当前美元/加元价格维持在1.39379附近，日内波动极小，仅0.01%，显示市场缺乏明确方向。从价格走势看，短线呈现微弱盘整格局，多空力量相对均衡，未出现明显突破信号。投资者应谨慎操作，避免追涨杀跌。  \n\n技术指标方面，20日简单移动均线SMA(20)位于1.39471，价格略低于均线，表明短期内多头稍显弱势。MACD略为负值(-0.00010338797)，显示动能偏空，但幅度极小，说明趋势动力不足。缺乏RSI参考，使超买超卖判断不完全，需要结合价格和均线确认方向。  \n\n支撑位初步关注1.3936附近，若跌破可能加速短线下探；阻力位在1.3941-1.3947区间，如价格突破该区间，或可吸引短期多头入场。整体来看，区间震荡特征明显，短线操作空间有限，需重点观察关键支撑和阻力的突破情况。  \n\n交易建议上，短线可采取观望策略，等待价格明确方向后再介入。若偏向激进，可在支撑附近尝试小仓位多单，阻力附近可考虑轻仓做空，并严格设置止损，控制风险。中线投资者应耐心等待趋势信号，以避免被盘整行情消耗过多资金。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "USD/CAD is currently trading in a very tight range just below the 1.3940 handle, suggesting a short-term consolidation phase after a mild upward push. Price action hovering beneath the 20-period moving average at 1.39471 indicates a slight bearish bias in the immediate term. The lack of volatility, reflected in the narrow daily range, implies indecision, with neither buyers nor sellers showing strong conviction at current levels.\n\nFrom an indicator standpoint, the MACD remains marginally negative, hinting at fading bullish momentum and a potential continuation of short-term downside pressure. Although RSI data is unavailable, the price positioning relative to the SMA suggests weakening upside strength. If the pair continues to trade below the moving average, it reinforces the idea of a minor corrective phase rather than a strong trend reversal.\n\nKey support is located near 1.39350, closely aligned with the recent session low of 1.39365. A break below this zone could expose the pair to further downside toward 1.3920. On the upside, immediate resistance is seen at 1.39470 (SMA 20), followed by the psychological 1.3960 level. A sustained move above resistance would be needed to re-establish bullish momentum and open the door for higher levels.\n\nIn terms of trading approach, short-term traders may consider selling on rallies toward resistance, particularly if price fails to reclaim the SMA convincingly. Conversely, a confirmed breakout above 1.3950 with momentum could favor cautious long positions. Given the current low volatility environment, tighter stop-loss placement and patience are essential until a clearer directional bias emerges."
+    }
+  }
+}

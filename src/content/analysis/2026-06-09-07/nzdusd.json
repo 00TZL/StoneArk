@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-06-09T07:42:08.591Z",
+  "price": {
+    "close": "0.5829",
+    "high": "0.58392",
+    "low": "0.58283",
+    "open": "0.58372",
+    "change": "-0.14",
+    "datetime": "2026-06-09 17:00:00"
+  },
+  "indicators": {
+    "rsi": 59.73696,
+    "macd": 0.00064693803,
+    "macd_signal": 0.00044031907,
+    "sma20": 0.5817655
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：短线偏强震荡上行",
+      "content": "纽元/美元当前报0.5829，价格运行于20日均线0.5818上方，显示短线多头仍占据一定优势。尽管24小时微跌0.14%，但汇价整体维持在近期反弹结构之内，市场暂未出现明显转弱信号。\n\n从技术指标来看，MACD值为0.00065且保持在零轴上方，表明市场仍存在上行动能。不过由于RSI数据缺失，暂时无法确认是否进入超买或超卖区域。当前价格接近日内高点区域，短线追涨意愿可能有所减弱。\n\n关键支撑位关注0.5820及0.5800整数关口，若跌破0.5800，则可能引发进一步回调。上方阻力位位于0.5840附近，其后关注0.5860区域。若有效突破0.5840，汇价有望延续反弹并测试更高目标。\n\n交易策略方面，短线倾向逢低做多思路，可关注回踩0.5820附近的企稳机会，目标看向0.5840至0.5860区间。若价格跌破0.5800并站稳其下，则应警惕趋势转弱，适当控制仓位并设置止损。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "The NZD/USD pair is currently trading at 0.5829, showing a modest decline of 0.14% over the past 24 hours. The intraday high of 0.58392 and low of 0.58283 indicate a narrow trading range, suggesting limited volatility and a temporary consolidation phase. Price is slightly above the 20-period simple moving average at 0.58177, which may act as immediate support, signaling that the short-term trend retains mild bullish undertones despite the recent pullback.  \n\nMomentum indicators provide a mixed view. The MACD, currently at 0.00065, indicates a slight bullish bias, but the absence of a signal line reading limits confirmation of momentum strength. The RSI is not available, which hinders assessment of overbought or oversold conditions. Nevertheless, the proximity of price to the 20-period SMA implies that the market may continue oscillating around this level, awaiting a stronger directional catalyst, such as economic data releases or central bank commentary.  \n\nKey support and resistance levels are critical for navigating potential trades. Immediate support is likely near 0.5818, coinciding with the 20-period SMA, while a break below this level could target 0.5800. On the upside, resistance is observed at 0.5840, followed by 0.5860 if bullish momentum resumes. Traders should monitor price reactions at these levels, as a breakout could define the next directional move, while a rejection may extend consolidation within the current range.  \n\nFor trading considerations, short-term participants may favor range-bound strategies, entering near support with stops just below 0.5815 and targeting 0.5840 for potential gains. For trend-following strategies, confirmation from a MACD crossover or an RSI reading above 50 could signal a more sustained bullish trend. Conversely, a decisive move below support could open opportunities for tactical short positions, emphasizing risk management given the pair’s current low volatility environment.  \n\nWord count: 270"
+    }
+  }
+}
