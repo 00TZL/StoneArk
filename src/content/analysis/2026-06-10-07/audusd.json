@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-06-10T08:02:44.236Z",
+  "price": {
+    "close": "0.70181",
+    "high": "0.70182",
+    "low": "0.70176",
+    "open": "0.70176",
+    "change": "0.01",
+    "datetime": "2026-06-10 18:00:00"
+  },
+  "indicators": {
+    "rsi": 39.49955,
+    "macd": -0.00069938851,
+    "macd_signal": -0.00066667496,
+    "sma20": 0.7025975
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短期震荡偏弱整理",
+      "content": "当前澳元/美元价格在0.70181附近徘徊，全天波动幅度极小，仅0.01%，显示市场短期缺乏明确方向。从均线角度来看，价格低于20日简单移动均线0.70260，表明短期承压，空头力量略占上风，但整体仍处于盘整格局。  \n\nMACD指标显示-0.000699，略为负值，虽然没有信号线对比，但暗示空头动能存在，但并不强烈，表明市场短线仍有反复震荡的可能。结合K线形态，目前尚未出现明确突破信号，多空双方处于微弱均衡状态。  \n\n关键支撑位在0.70150附近，如跌破可能引发进一步回调；阻力位则在0.70260至0.70300区间，若上破将短线转向偏多。投资者应关注价格对均线的反应以及成交量变化，以确认趋势延续或反转信号。  \n\n综合来看，短线操作宜偏向观望或小幅波段交易。若价格守住支撑，可考虑低多布局，止损设在0.70140以下；如突破阻力，则可等待回踩确认后再做高位介入。风险控制仍是当前策略的核心。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "AUD/USD is trading at 0.70181, sitting marginally below the 20-period simple moving average at 0.70260. This positioning suggests the pair remains under mild short-term bearish pressure despite the negligible 24-hour change. Price action is confined to an exceptionally tight intraday range between 0.70176 and 0.70182, indicating a period of consolidation and reduced volatility. Unless buyers can reclaim territory above the moving average, upside momentum is likely to remain limited.\n\nThe available momentum indicators provide a cautious outlook. The MACD reading of -0.000699 points to underlying bearish momentum, although the absence of a signal line limits confirmation strength. With RSI data unavailable, momentum assessment relies more heavily on price behavior and trend structure. The combination of a negative MACD and price trading below the SMA suggests sellers retain a slight advantage, though current conditions do not indicate aggressive downside acceleration.\n\nFrom a technical perspective, immediate support is located near the session low at 0.70176, followed by the psychological 0.70000 area, which could attract buying interest if tested. On the upside, initial resistance appears around the SMA(20) at 0.70260. A sustained move above that level could open the path toward 0.70400 and potentially higher. Failure to break resistance would reinforce the current consolidation pattern and maintain downside risks.\n\nTraders may consider a cautious approach while the pair remains range-bound. Bullish strategies become more attractive on a confirmed break and close above 0.70260, targeting higher resistance zones. Conversely, a move below 0.70176 could trigger additional selling pressure toward 0.70000. Given the compressed trading range and lack of strong momentum confirmation, disciplined risk management and confirmation-based entries may offer a more favorable balance between opportunity and risk."
+    }
+  }
+}

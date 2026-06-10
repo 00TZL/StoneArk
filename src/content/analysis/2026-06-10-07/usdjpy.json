@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-06-10T08:01:53.328Z",
+  "price": {
+    "close": "160.39882",
+    "high": "160.402",
+    "low": "160.35522",
+    "open": "160.3766",
+    "change": "0.01",
+    "datetime": "2026-06-10 17:00:00"
+  },
+  "indicators": {
+    "rsi": 59.41949,
+    "macd": 0.039259473,
+    "macd_signal": 0.042583814,
+    "sma20": 160.35775
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：高位震荡偏强运行",
+      "content": "当前价格维持在160.39882附近，整体略高于SMA20的160.35775，说明短线仍保持温和上行结构。24小时波动极小，市场多空暂时均衡，但价格运行于均线之上，趋势依旧偏向强势震荡格局。\n\n从技术指标观察，MACD数值保持正值，显示多头动能尚未完全衰减，不过缺乏Signal与RSI数据，难以进一步确认动量强弱。因此当前更适合结合价格行为与成交情况判断，而非单纯依赖单项指标。\n\n支撑方面可重点关注160.355附近的均线区域，若失守则可能回测160.30一带；上方阻力首先位于160.402附近，突破后有机会延续上攻并测试更高区间。区间收窄意味着后续或迎来方向性选择。\n\n交易策略上，激进投资者可等待有效突破阻力后顺势跟进，稳健者则宜观察回踩支撑企稳再考虑布局，并严格设置止损控制风险。当前追高空间有限，更应关注突破确认与仓位管理的配合。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USD/JPY is trading at 160.39882, holding just above its 20-period simple moving average at 160.35775. This positioning suggests a modest bullish bias in the short term, as buyers continue to defend higher levels despite limited price expansion. The extremely narrow daily range between 160.35522 and 160.402 reflects consolidation near recent highs, indicating that the market is awaiting a stronger catalyst before establishing its next directional move.\n\nMomentum indicators provide a cautiously constructive outlook. The MACD value of 0.0393 remains in positive territory, signaling underlying upward momentum, although the absence of a signal line limits confirmation of trend strength. RSI data is unavailable, making it difficult to assess overbought or oversold conditions. Nevertheless, price stability above the SMA(20) and positive MACD readings favor continued upside pressure unless support levels begin to fail.\n\nFrom a technical perspective, immediate support is located around 160.355, which aligns closely with the session low and the 20-period moving average. A break below this area could expose the pair to a deeper pullback toward the 160.300 region. On the upside, resistance is evident near 160.402, the current session high. A sustained move above this barrier would strengthen bullish sentiment and potentially open the path toward 160.450 and higher extension targets.\n\nTraders may consider maintaining a mildly bullish stance while the pair remains above 160.355. Conservative participants could wait for a confirmed breakout above 160.402 before initiating fresh long positions, seeking follow-through momentum. Alternatively, a decisive breakdown beneath support may create short-term selling opportunities targeting lower intraday levels. Given the compressed trading range and low volatility, disciplined risk management and confirmation of directional signals remain essential before committing to larger positions."
+    }
+  }
+}

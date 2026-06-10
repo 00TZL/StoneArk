@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-06-10T08:05:26.524Z",
+  "price": {
+    "close": "0.79881",
+    "high": "0.79887",
+    "low": "0.79844",
+    "open": "0.79858",
+    "change": "0.03",
+    "datetime": "2026-06-10 18:00:00"
+  },
+  "indicators": {
+    "rsi": 55.94077,
+    "macd": 0.00040187745,
+    "macd_signal": 0.00044252502,
+    "sma20": 0.798335
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：短线震荡偏多格局",
+      "content": "当前美元/瑞郎价格在0.79881附近震荡，全天波幅有限，显示市场短期多空力量相对均衡。价格略高于20日均线0.79834，表明短线偏多趋势仍在，但缺乏明确突破动力，需要关注后续成交量变化。  \n\nMACD当前为0.00040，虽呈正值，但信号线数据缺失，难以判断动能强弱。结合价格走势，可视为市场处于整理阶段，短线多空转换频繁，投资者应保持谨慎，避免追高杀低。  \n\n支撑位初步锁定在0.79830附近，对应20日均线支撑；阻力位关注0.79887高点，若价格有效突破该水平，短线有望延续上涨空间。若回落跌破支撑，则可能触发短期回调。  \n\n交易上建议以震荡交易为主，低多高空策略可适用。短线投资者可在支撑附近布局多单，止损放在支撑下方小幅位置；突破阻力可考虑顺势加仓，同时严格控制仓位，防范突发行情引发的反向波动。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "USD/CHF is trading in a mildly constructive short-term trend, hovering at 0.79881 and remaining above the 20-period simple moving average at 0.79833. Price action near the daily high of 0.79887 suggests buyers are retaining control, although momentum remains modest rather than aggressive. The narrow intraday range between 0.79844 and 0.79887 indicates a market consolidating after recent stabilization, with participants awaiting a stronger directional catalyst.\n\nFrom a technical perspective, the positive MACD reading of 0.000401 suggests underlying bullish momentum is gradually building, even though the signal line is unavailable for confirmation. Meanwhile, the absence of RSI data limits overbought or oversold assessment, making price structure and moving averages more important for interpretation. Holding above the SMA(20) reinforces a cautiously bullish tone, especially if price sustains momentum above the immediate intraday ceiling.\n\nKey support appears near 0.79840, closely aligned with the session low and acting as the first defensive level for buyers. A break beneath this zone could expose a deeper retracement toward 0.79780. On the upside, immediate resistance stands around 0.79890, followed by the psychologically important 0.80000 region. A sustained move beyond resistance may encourage additional buying pressure and improve short-term sentiment.\n\nFor trading considerations, momentum-oriented traders may favor cautious long positions while price remains above the SMA(20), particularly if USD/CHF confirms a breakout through 0.79890 with stronger follow-through. More conservative participants may prefer waiting for either a confirmed pullback toward support or a decisive break above resistance before entering. Tight risk management remains important given the pair’s compressed range and currently limited volatility."
+    }
+  }
+}

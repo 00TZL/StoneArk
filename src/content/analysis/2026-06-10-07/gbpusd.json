@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-06-10T08:00:59.817Z",
+  "price": {
+    "close": "1.339",
+    "high": "1.3394",
+    "low": "1.338",
+    "open": "1.33879",
+    "change": "0.03",
+    "datetime": "2026-06-10 17:00:00"
+  },
+  "indicators": {
+    "rsi": 57.49375,
+    "macd": 0.00054187414,
+    "macd_signal": 0.00056577419,
+    "sma20": 1.33838
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：短线震荡偏多，关注上方突破",
+      "content": "当前GBP/USD报1.339，价格运行于20日均线1.33838上方，显示短线多头仍占据一定优势。近24小时涨幅虽仅0.03%，但汇价持续贴近日内高点，反映市场买盘力量相对稳定，整体维持震荡偏强格局。\n\n从技术指标来看，MACD值为0.00054187414且处于零轴上方，表明短期动能仍偏向上行。不过由于RSI数据缺失，暂无法确认是否进入超买区域，因此需结合价格表现判断趋势延续性。若MACD继续扩张，多头优势有望进一步增强。\n\n关键位置方面，短线支撑位关注1.3380，其次为20日均线附近1.3384区域；若失守，可能回测1.3365一线。上方阻力首先位于1.3394日内高点，突破后有望进一步测试1.3420附近压力区，届时将决定后续上涨空间。\n\n交易策略上，建议以顺势思路为主。激进交易者可关注1.3380至1.3385区域企稳后的做多机会，目标看向1.3420附近；稳健交易者则等待有效突破1.3394后跟进。若价格跌破1.3380并站稳其下，则需警惕短线回调风险，适当控制仓位与止损。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently exhibiting a modest bullish bias, trading near 1.339. The price has slightly recovered from its intraday low of 1.338, suggesting mild buying interest around this level. Observing the short-term trend, the pair is hovering just above its 20-period simple moving average at 1.33838, indicating that momentum is leaning toward consolidation with a gentle upward tilt. The narrow daily range points to subdued volatility, likely influenced by market participants awaiting key economic data.\n\nFrom an indicator standpoint, the MACD value of 0.00054, while positive, reflects only minimal bullish momentum due to the absence of a signal line for confirmation. Although the RSI is unavailable, the proximity of the price to the SMA suggests neither overbought nor oversold conditions, supporting a range-bound scenario in the immediate term. Traders should monitor for a decisive move above the recent high of 1.3394 to validate bullish continuation or a breach below 1.338 to signal potential short-term weakness.\n\nKey technical levels show immediate support around 1.338, followed by psychological support near 1.3365, where buyers may step in if the market softens. Resistance is apparent at 1.3394, with a secondary barrier near 1.341, which may cap upside advances. The tight price action within these levels indicates that breakouts will be crucial for directional trading, with intraday strategies focusing on momentum shifts or reversals around these points.\n\nFor trading suggestions, cautious long positions could be considered above 1.3395 with tight stop-loss placement near 1.338, targeting the 1.341 resistance. Conversely, a break below 1.338 may offer short opportunities toward 1.3365, emphasizing disciplined risk management. Overall, GBP/USD shows a slight bullish edge within a constrained range, and traders should prioritize confirmation of momentum before committing to larger positions, as volatility remains limited."
+    }
+  }
+}

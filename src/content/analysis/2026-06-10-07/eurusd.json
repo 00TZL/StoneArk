@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-06-10T07:59:56.919Z",
+  "price": {
+    "close": "1.15539",
+    "high": "1.15589",
+    "low": "1.15472",
+    "open": "1.15512",
+    "change": "0.03",
+    "datetime": "2026-06-10 17:00:00"
+  },
+  "indicators": {
+    "rsi": 55.31528,
+    "macd": 0.00014093858,
+    "macd_signal": 0.000087481312,
+    "sma20": 1.15487
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：短期盘整偏多，关注1.1547支撑与1.1560阻力",
+      "content": "当前欧元/美元在1.1553附近震荡，短期趋势呈现轻微上扬，但整体波动幅度有限，显示市场仍处于盘整状态。价格接近20日简单移动平均线(SMA20)1.15487，说明多空力量暂时均衡，短线操作应谨慎。  \n\nMACD指标当前为正值0.00014，虽然未提供信号线对比，但正值显示多头仍有一定动力。不过，由于缺乏RSI数据，超买超卖情况不明确，短线反转风险依然存在。投资者可结合价格突破与均线动态观察趋势延续。  \n\n关键支撑位在1.1547附近，如果跌破该水平，可能引发短线回调至1.1540区域；阻力位在1.1560至1.1565区间，多次未能突破则可能形成高位整理。结合震荡特性，区间交易策略更为稳妥，低位吸纳，高位部分获利了结。  \n\n综合来看，短期欧元/美元偏向盘整偏多，操作上可关注支撑附近建仓，止损设置略低于1.1545，同时上方遇阻时分批减仓。投资者需留意欧美经济数据及美元走势对汇价的突发影响，灵活调整仓位以控制风险。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD is trading at 1.15539, holding slightly above its 20-period simple moving average at 1.15487. This positioning suggests a modest bullish bias in the near term, although price action remains relatively compressed within a narrow daily range between 1.15472 and 1.15589. The marginal 24-hour gain of 0.03% reflects a market that is consolidating rather than trending aggressively, with buyers maintaining a small advantage while awaiting a stronger directional catalyst.\n\nThe available momentum indicators lean cautiously positive. MACD remains in positive territory at 0.00014094, indicating that upward momentum is still present, albeit limited in strength. While RSI data is unavailable, the combination of price trading above the 20-period SMA and a positive MACD reading supports the view that underlying sentiment remains constructive. However, the lack of strong momentum expansion suggests that bullish participants may encounter difficulty generating a sustained breakout without increased volume and follow-through buying.\n\nFrom a technical perspective, immediate support is located around the session low at 1.15472, followed by the SMA region near 1.15487, which should act as a dynamic support zone. A break below this area could expose deeper downside toward 1.15350. On the upside, resistance is evident near the recent high of 1.15589. A decisive move above this level would improve the short-term outlook and potentially open the path toward 1.15700 and then 1.16000.\n\nTrading strategies should remain flexible given the current consolidation environment. Bullish traders may consider buying pullbacks toward the 1.15480–1.15500 region while maintaining protective stops below nearby support. More conservative participants may prefer waiting for a confirmed breakout above 1.15589 before initiating long positions. Conversely, a sustained move below 1.15472 would weaken the bullish structure and could favor short-term selling opportunities targeting lower support levels. Risk management remains essential as volatility is currently subdued but capable of expanding quickly."
+    }
+  }
+}

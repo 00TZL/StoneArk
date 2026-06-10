@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-06-10T08:04:36.454Z",
+  "price": {
+    "close": "0.5811",
+    "high": "0.58132",
+    "low": "0.58107",
+    "open": "0.58132",
+    "change": "-0.04",
+    "datetime": "2026-06-10 18:00:00"
+  },
+  "indicators": {
+    "rsi": 43.98414,
+    "macd": -0.00019004503,
+    "macd_signal": -0.00010029787,
+    "sma20": 0.581782
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：短线偏空震荡运行",
+      "content": "纽元/美元当前报0.5811，日内微跌0.04%，价格运行于20日均线0.5818下方，显示短期趋势仍偏弱。虽然波动区间较窄，但汇价未能有效站稳均线，市场整体维持震荡偏空格局。\n\n从技术指标来看，MACD值为-0.00019，处于零轴下方，表明空头动能仍占据一定优势。RSI数据暂缺，但结合价格表现分析，多头反弹力度有限，短线仍需警惕进一步下探风险。\n\n关键位置方面，近期支撑位可关注0.5810附近，该位置与日内低点接近，若失守则可能打开下行空间，目标指向0.5790区域。上方阻力位首先关注20日均线所在的0.5818，其次为0.5830附近压力区域。\n\n交易策略上，建议以逢高做空思路为主，等待价格反弹至0.5818至0.5830区间寻找卖出机会。若汇价有效突破并站稳0.5830，则短线空头结构可能被削弱，需及时调整策略并关注趋势反转信号。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "NZD/USD is trading at 0.5811, slightly below its 20-period simple moving average of 0.5818, indicating a mildly bearish short-term bias. The pair has posted a marginal 24-hour decline, and price action remains compressed near the session low of 0.58107. This suggests limited buying conviction and reflects a market that is struggling to sustain upward momentum. Unless buyers reclaim levels above the moving average, downside pressure is likely to persist.\n\nThe available momentum indicators reinforce a cautious outlook. While the RSI reading is unavailable, the MACD value of -0.00019 points to negative momentum beneath the equilibrium line. This does not necessarily signal a sharp decline, but it does imply that sellers currently hold a modest advantage. The narrow trading range between 0.58107 and 0.58132 also highlights consolidation conditions, often preceding a directional breakout once sufficient momentum emerges.\n\nFrom a technical perspective, immediate support is located near 0.5810, which aligns closely with the recent low. A decisive break below this area could expose the pair to further weakness toward 0.5800 and potentially 0.5785. On the upside, resistance is initially seen around the SMA(20) at 0.5818, followed by 0.5830. A sustained move above these levels would improve the near-term outlook and increase the probability of a recovery toward higher resistance zones.\n\nTraders may consider maintaining a cautious bearish stance while the pair remains below 0.5818. Short positions could be favored on rallies toward resistance, particularly if momentum indicators remain negative. Conversely, aggressive buyers may prefer to wait for a confirmed breakout above the moving average before entering long positions. Given the current low-volatility environment, disciplined risk management and close monitoring of support and resistance reactions remain essential for trade execution."
+    }
+  }
+}
