@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-06-11T08:30:30.831Z",
+  "price": {
+    "close": "160.52135",
+    "high": "160.52549",
+    "low": "160.50452",
+    "open": "160.51108",
+    "change": "0.01",
+    "datetime": "2026-06-11 18:00:00"
+  },
+  "indicators": {
+    "rsi": 55.053873,
+    "macd": 0.03370992,
+    "macd_signal": 0.040797157,
+    "sma20": 160.51562
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：高位震荡偏强运行",
+      "content": "美元/日元当前报160.521附近，价格运行在20周期均线160.516上方，短线维持偏强格局。近24小时波动幅度较小，高低点区间仅约2个点，显示市场处于高位整理阶段，多空双方暂时保持谨慎。\n\n从技术指标来看，MACD数值为0.0337，仍处于零轴上方，表明多头动能尚未完全消退。不过由于Signal数据缺失，暂时无法确认金叉或死叉状态。RSI指标暂无数据，因此需结合价格结构和均线位置进行判断。\n\n关键支撑位可关注160.500整数关口，其次为160.450附近；若跌破支撑，短线可能回测更低区域。上方阻力位位于160.530至160.600区间，目前价格已接近日内高点，多头若能有效突破，则有望打开进一步上行空间。\n\n交易策略方面，当前更适合顺势思路操作。激进交易者可等待价格站稳160.530后考虑轻仓跟进多单，目标看向160.600上方；稳健投资者则建议等待回踩160.500附近企稳后再择机布局。若价格跌破关键支撑，则需警惕短线调整风险并严格设置止损。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USD/JPY is currently hovering around 160.52, maintaining a narrow trading range over the past 24 hours. The minimal 0.01% change indicates consolidation, suggesting the market is pausing after recent advances. Observing the intraday high of 160.525 and low of 160.504, the pair appears to be forming a short-term equilibrium near the 20-period simple moving average at 160.515, which may act as a dynamic support level.\n\nThe MACD reading at 0.0337, though slightly positive, hints at modest bullish momentum, but without a confirmed signal line, the strength of this trend remains uncertain. The absence of RSI data limits overbought or oversold analysis, making it essential to monitor price reactions around key levels. Traders should consider watching for a breakout above 160.55 to confirm an upward trend or a breakdown below 160.50, which could trigger short-term bearish moves.\n\nKey support is likely around the intraday low of 160.50, reinforced by the SMA(20), while resistance is present near 160.55–160.57, where prior highs could cap gains. A sustained move beyond these levels may provide directional clarity. Range-bound traders might exploit short-term oscillations between these boundaries, while trend-followers could wait for a decisive breakout with volume confirmation.\n\nGiven current market conditions, cautious buying above support with tight stops near 160.50 could offer low-risk long opportunities, while short positions may be appropriate if the price decisively breaks below key support. Monitoring macroeconomic announcements or central bank cues is recommended, as USD/JPY remains sensitive to interest rate expectations and risk sentiment, which can rapidly alter momentum and volatility."
+    }
+  }
+}

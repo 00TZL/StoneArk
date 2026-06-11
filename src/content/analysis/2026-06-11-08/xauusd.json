@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-06-11T08:35:12.006Z",
+  "price": {
+    "close": "4096.23404",
+    "high": "4112.51851",
+    "low": "4095.82506",
+    "open": "4104.54999",
+    "change": "-0.22",
+    "datetime": "2026-06-11 18:00:00"
+  },
+  "indicators": {
+    "rsi": 42.93436,
+    "macd": -24.73365,
+    "macd_signal": -33.26577,
+    "sma20": 4093.98423
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：高位震荡偏空整理",
+      "content": "黄金/美元当前维持高位震荡格局，日内价格回落至4096附近，24小时跌幅0.22%，显示短线多头动能有所减弱。价格虽仍运行于SMA(20)均线上方，但距离均线较近，说明市场进入方向选择阶段，整体节奏偏谨慎。\n\n从技术指标观察，SMA(20)位于4093.98，对当前价格形成短线支撑，若持续站稳则仍具备反弹基础。MACD数值为-24.73，处于负值区域，反映动能偏空，但由于Signal缺失，暂无法确认形成明确趋势性死叉，需结合后续价格行为判断。\n\n关键位置方面，下方首要支撑关注4094一线，其次为4090及日内低点4095附近区域，若失守可能进一步测试4078区域。上方阻力首先关注4112高点，突破后有望重新挑战4125至4140区间，多空分界较为清晰。\n\n交易策略上，短线建议采取区间交易思路，靠近支撑轻仓试多，接近阻力分批止盈；若价格有效跌破4090，则转向顺势做空思路。当前波动收敛阶段，不宜追单，等待放量突破后再提高仓位参与。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold is trading near 4096.23, hovering just above the 20-period simple moving average at 4093.98. The narrow gap between price and SMA suggests that the market remains in a consolidation phase rather than a decisive trend. Despite the modest 24-hour decline of 0.22%, buyers have managed to defend the session low around 4095.83, indicating that short-term sentiment remains relatively balanced. Price action near the moving average will likely determine the next directional move.\n\nMomentum indicators present a cautious picture. The MACD value of -24.73 points to bearish momentum still being present beneath the surface, although the absence of the signal line limits confirmation of trend strength. With RSI data unavailable, traders should rely more heavily on price behavior around key technical levels. The inability of gold to sustain moves above the recent high of 4112.52 suggests that bullish momentum has weakened, while sellers have yet to establish a strong downside breakout.\n\nFrom a technical perspective, immediate support is located at 4095.80, followed by a stronger support zone around 4085.00 if selling pressure accelerates. On the upside, resistance is seen near 4112.50, the recent intraday high, with a further barrier around 4125.00 should buyers regain control. A sustained move above resistance would improve the short-term outlook and could attract momentum-driven buying, while a break below support may trigger additional downside pressure.\n\nFor trading considerations, a cautious range-trading approach appears appropriate while price remains between support and resistance. Bullish traders may look for confirmation of strength through a clean break above 4112.50 before targeting higher levels. Conversely, bearish opportunities could emerge if price closes decisively below 4095.80, signaling a potential continuation of negative momentum. Given the mixed technical backdrop, disciplined risk management and confirmation from price action remain essential before entering new positions."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-06-11T08:29:30.170Z",
+  "price": {
+    "close": "1.33742",
+    "high": "1.33838",
+    "low": "1.33735",
+    "open": "1.33838",
+    "change": "-0.07",
+    "datetime": "2026-06-11 18:00:00"
+  },
+  "indicators": {
+    "rsi": 46.9481,
+    "macd": -0.000074570072,
+    "macd_signal": -0.00008786074,
+    "sma20": 1.33805
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：短线偏弱震荡运行",
+      "content": "当前英镑/美元报1.33742，价格略低于20日简单移动均线1.33805，且24小时微幅下跌，显示短线多头动能有所减弱。汇价接近当日低点区域运行，市场整体处于窄幅整理状态，短期趋势偏向震荡偏空。\n\n从技术指标来看，MACD值为负且位于零轴附近，表明市场动能略偏空方，但空头力量尚未明显扩大。由于RSI数据缺失，暂无法判断超买超卖状态。不过价格持续运行在均线下方，反映买盘优势暂时不足。\n\n关键位置方面，短线支撑关注1.33735一线，该位置为日内低点附近，若失守则可能进一步测试1.33550区域。上方首个阻力位位于1.33838，突破后有望重新挑战1.34000整数关口，并改善短线技术结构。\n\n交易策略上，建议以区间交易思路为主。激进交易者可关注1.33735附近支撑表现，企稳后尝试轻仓做多；若价格跌破支撑，则应顺势跟随空头。稳健投资者可等待突破1.33838阻力后再考虑追随上涨趋势，并严格设置止损控制风险。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "GBP/USD is currently showing signs of mild consolidation around the 1.3374 level after a minor decline over the past 24 hours. The pair remains slightly below its 20-period simple moving average at 1.33805, suggesting short-term bearish pressure, though the narrow trading range between 1.33735 and 1.33838 indicates a lack of strong directional momentum. Traders should watch for a decisive break above or below this range to confirm the next short-term trend.\n\nThe MACD reading at -0.00007457 indicates a subtle downward bias, although the signal line is unavailable for a full cross analysis. This aligns with the modest loss of 0.07% over the last day. Without RSI data, overbought or oversold conditions are harder to gauge, but the near-flat price movement relative to the SMA suggests the market is neither strongly extended nor heavily pressured, hinting at potential sideways trading in the near term.\n\nSupport appears near the 1.33735 intraday low, which has held during recent pullbacks. On the upside, immediate resistance is around 1.33838, the daily high, followed by the SMA at 1.33805 acting as a dynamic barrier. A break below support could open a path toward 1.3365–1.3360, while a sustained move above resistance and the SMA could target 1.3390–1.3400, offering clear reference points for intraday or swing trades.\n\nFor traders, cautious short positions may be favored near resistance levels with tight stops, while long trades could be considered closer to established support if signs of price stabilization emerge. Monitoring upcoming economic releases for both the UK and US is crucial, as any surprise data could trigger volatility and break the current equilibrium. Maintaining a disciplined approach with clear stop-loss levels is recommended in this environment of low directional conviction."
+    }
+  }
+}
