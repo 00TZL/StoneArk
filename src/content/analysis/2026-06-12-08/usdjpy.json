@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-06-12T08:18:04.669Z",
+  "price": {
+    "close": "160.23813",
+    "high": "160.32237",
+    "low": "160.23301",
+    "open": "160.32237",
+    "change": "-0.04",
+    "datetime": "2026-06-12 18:00:00"
+  },
+  "indicators": {
+    "rsi": 46.69719,
+    "macd": -0.032498001,
+    "macd_signal": -0.055815116,
+    "sma20": 160.22546
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：短线横盘整理，震荡偏空",
+      "content": "当前美元/日元在160.238附近徘徊，整体短期走势呈现横盘整理态势。从K线结构来看，多空力量相对均衡，价格在日内高低点160.322与160.233之间波动，显示市场短线方向不明，但下行压力略显。投资者需关注价格是否突破本区间以确定下一步趋势。\n\n技术指标显示，MACD为-0.0325且仍处于零轴下方，提示空方力量略占优势，但缺乏明确的趋势信号。20日简单移动平均线（SMA20）位于160.225附近，当前价格略高于SMA，表明短期仍可能围绕均线波动，市场处于观望状态，RSI数据缺失限制了超买超卖判断。\n\n支撑位上，近期低点160.233构成短期强支撑，若价格跌破此位，下行空间可能延伸至159.950附近。阻力位方面，高点160.322为关键压制，突破后可能上探160.500区域。交易者可在支撑位附近逢低布局短线多单，同时在阻力位附近谨慎减仓或考虑空单策略。\n\n综合来看，美元/日元短期仍以震荡整理为主，偏空略强。建议关注区间突破情况，结合MACD与均线形成的信号择机操作，控制仓位和止损，避免追高杀跌。市场波动有限，短线交易应保持谨慎。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "The USD/JPY pair is exhibiting a consolidative pattern around the 160.23 region, indicating a short-term equilibrium between buying and selling pressures. The price has remained relatively flat over the last 24 hours, with a minimal negative change of 0.04%, suggesting market indecision. Recent intraday highs at 160.322 and lows at 160.233 provide a narrow trading range, reflecting a potential pause before a directional breakout. The proximity of the current price to the 20-period simple moving average of 160.225 reinforces this sideways movement.\n\nMomentum indicators hint at subtle bearish pressure. The MACD currently shows a negative value of -0.0325, implying that recent short-term selling slightly outweighs buying, although the lack of a signal line prevents full confirmation. Traders should be cautious as RSI readings are unavailable, which limits insight into overbought or oversold conditions. Nonetheless, the minor deviation below the SMA suggests sellers have a slight edge, potentially prompting short-term pullbacks if bearish momentum strengthens.\n\nKey support can be identified near the 160.20 level, where the SMA and recent intraday lows converge, offering a base for potential rebounds. Resistance is positioned around 160.32, corresponding to recent highs and minor congestion zones. A break above this level could attract additional buying interest, targeting higher psychological barriers near 161.00. Conversely, a decisive drop below support may open a pathway toward 159.80, aligning with previous minor swing lows.\n\nTrading strategies should prioritize caution and short-term confirmation. Range-bound traders might capitalize on bounces between 160.20 and 160.32, using tight stops to mitigate risk. Trend traders should await a confirmed breakout or breakdown from these levels before committing to directional positions. Considering the narrow trading range and muted volatility, scalping or short-term intraday approaches may offer better risk-adjusted opportunities than longer-term bets at this juncture."
+    }
+  }
+}

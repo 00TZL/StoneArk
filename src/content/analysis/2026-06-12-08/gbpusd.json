@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-06-12T08:17:12.627Z",
+  "price": {
+    "close": "1.34008",
+    "high": "1.34032",
+    "low": "1.33928",
+    "open": "1.33928",
+    "change": "0.04",
+    "datetime": "2026-06-12 18:00:00"
+  },
+  "indicators": {
+    "rsi": 53.45817,
+    "macd": 0.00072607299,
+    "macd_signal": 0.00081703695,
+    "sma20": 1.33936
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：短期震荡偏多",
+      "content": "当前英镑/美元维持在1.34008附近，价格在20日均线1.33936上方轻微震荡，显示短期多头仍有支撑。日内高低波幅有限，市场动能温和，MACD为0.000726，虽缺乏信号线参考，但正值提示上涨动能尚存。整体来看，短线呈震荡上行格局。  \n\n从技术指标来看，SMA(20)作为短期支撑，当前价格略高于均线，暗示价格有轻微上行动力。MACD柱体虽小但为正，说明多空力量接近平衡，但多头略占上风。由于RSI数据缺失，超买超卖判断有限，交易者需关注后续动能变化，以防突发反转。  \n\n关键支撑位在1.3393附近，若价格跌破该水平，短期可能回落至1.3385一线；阻力位在近期高点1.3403至1.3410区间，多头突破则有望测试1.3420。交易者可在支撑附近布局多单，同时设置止损防范波动风险。  \n\n交易建议方面，建议保持偏多思路，关注短线回调买入机会。若价格站稳1.3405以上并突破阻力，可适当加仓。谨慎操作为主，严格止损，关注欧美经济数据及英镑相关消息，以捕捉进一步趋势延伸的机会。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "The GBP/USD pair is currently displaying a subtle bullish bias, trading slightly above the 20-period simple moving average at 1.33936. Price action within the 24-hour range shows minimal volatility, indicating market indecision around the 1.3400 psychological level. Short-term momentum appears cautious, with MACD registering a positive value of 0.00073, suggesting nascent upward momentum, although the absence of a signal line prevents confirmation of a strong trend continuation. Traders should watch for breakout confirmation above the recent high of 1.34032 to gauge sustained strength.\n\nFrom a technical standpoint, support is evident near the daily low at 1.33928, offering a defensive level for long positions. Resistance is immediately at 1.34032, with further upside targets around 1.3420 if bullish momentum persists. Given the current data, the market is range-bound, and traders might prefer intraday strategies until a decisive move occurs. Breakouts beyond these levels could signal short-term trend initiation, while failure to breach resistance might lead to a retest of support.\n\nIndicators suggest cautious optimism: the positive MACD hints at mild buying interest, and the price trading above the 20-SMA reinforces a short-term upward bias. However, the lack of an RSI reading leaves overbought/oversold conditions ambiguous, which warrants prudence. Momentum-driven traders could consider scaling into positions on minor dips near support, keeping stops tight just below 1.3390 to manage risk efficiently.\n\nIn terms of strategy, day traders could focus on trading within the narrow 1.3393–1.3403 corridor, capitalizing on short-term swings. For swing traders, a confirmed break above 1.3405 could justify a bullish entry targeting 1.3420–1.3430, while a breakdown below 1.3390 would suggest a retracement toward 1.3375. Risk management remains crucial, as the market shows low volatility and the next directional move could be sharp once a level is decisively broken."
+    }
+  }
+}

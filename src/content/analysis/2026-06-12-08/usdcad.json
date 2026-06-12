@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-06-12T08:20:03.124Z",
+  "price": {
+    "close": "1.39851",
+    "high": "1.39905",
+    "low": "1.39829",
+    "open": "1.39905",
+    "change": "-0.03",
+    "datetime": "2026-06-12 18:00:00"
+  },
+  "indicators": {
+    "rsi": 56.094157,
+    "macd": 0.00050413347,
+    "macd_signal": 0.00052981121,
+    "sma20": 1.39817
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：短线盘整，潜在回调压力",
+      "content": "当前美元/加元维持在1.3985附近，价格紧贴20日简单移动平均线(SMA20=1.39817)，显示市场短期内缺乏明显方向性。整体走势呈现小幅盘整，日内波动在1.39829~1.39905之间，显示多空力量相对均衡，但价格偏下方微弱压力。  \n\nMACD指标显示0.000504的正值，但未提供信号线，暗示短期上涨动能仍存在，但缺乏确认信号。RSI缺失，但结合价格位置，可推测超买或超卖压力不明显，市场情绪谨慎。短线波动偏向横盘整理为主，投资者需关注突破点。  \n\n关键支撑位在1.3980附近，若价格下破此位置，可能引发短线回调至1.3975区域。阻力位在1.3990~1.3995之间，若价格有效突破，将打开进一步上涨空间至1.4000关口。交易者应关注突破确认，以防假突破引发误判。  \n\n交易策略上，短线投资者可考虑区间操作，低位尝试轻仓多单，高位谨慎做空。若价格突破1.3995并站稳，可择机顺势做多。止损设置宜贴近支撑或阻力位，以控制风险，同时密切关注全球经济数据及油价波动对加元的影响。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "USD/CAD is currently exhibiting a neutral-to-bullish bias near 1.3985, hovering slightly above its 20-period simple moving average of 1.39817. Price action has been confined to a narrow intraday range of 1.39829–1.39905, suggesting market indecision. This sideways movement, combined with the minimal 24-hour change of -0.03%, points to consolidation after recent momentum, where neither bulls nor bears have gained decisive control. Monitoring for a breakout beyond this range will be crucial for short-term positioning.\n\nThe MACD reading of 0.000504 signals mild bullish momentum, although the absence of a signal line prevents a full crossover analysis. Without the RSI value, relative strength assessment is limited, but the proximity to the SMA(20) indicates that the market is respecting short-term trend support. Traders should note that sustaining above the SMA reinforces a potential continuation of the upward drift, while a break below could invite short-term retracements.\n\nSupport levels are immediate at 1.3980, coinciding with the lower intraday boundary and SMA buffer, offering a reasonable entry point for buyers seeking short-term swings. Resistance lies near 1.3991, marking the recent high and a psychological ceiling. A breakout above this zone could open a path toward 1.4000, while a drop beneath support may test 1.3975, aligning with prior consolidation lows. Volume confirmation will be key for validating any breakout or breakdown scenario.\n\nTrading strategy should emphasize patience and confirmation. Range traders might exploit the 1.3980–1.3991 corridor, buying near support and selling near resistance with tight stops. Trend-followers may wait for a decisive break and daily close beyond the resistance to initiate long positions, targeting 1.4000–1.4010, or conversely, shorts upon sustained breach below support. Given the subdued volatility, risk management with modest position sizing is recommended to account for potential false breakouts."
+    }
+  }
+}

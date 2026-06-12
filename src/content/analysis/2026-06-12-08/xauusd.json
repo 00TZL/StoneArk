@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-06-12T08:22:43.632Z",
+  "price": {
+    "close": "4218.71478",
+    "high": "4219.40928",
+    "low": "4181.16876",
+    "open": "4181.16876",
+    "change": "0.88",
+    "datetime": "2026-06-12 18:00:00"
+  },
+  "indicators": {
+    "rsi": 62.86364,
+    "macd": 19.28708,
+    "macd_signal": 19.1618,
+    "sma20": 4174.088732
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短期偏多震荡上行",
+      "content": "当前XAU/USD价格稳在4218附近，突破短期均线SMA(20)4174，显示多头力量明显。价格高点4219已触及阻力区，但回调幅度有限，市场短期仍存在上行动能。成交量若配合，可能推动价格进一步试探4225-4230阻力。\n\nMACD指标显示多头动能增强，主线19.28高于信号线（Signal N/A），暗示买盘活跃，但需警惕超买回调风险。RSI未显示，短线可结合价格行为判断趋势，若连续高位收盘，进一步拉升空间有限。\n\n支撑位关注4180-4185区域，若价格回踩仍能获得支撑，则多头结构完整；下破则可能触发短线空头反应。阻力位在4219-4230附近，突破该区可望上探4250心理关口。\n\n交易策略上，短线可维持区间偏多操作，回踩支撑区域适合低多布局，止损可置于4175下方；若价格突破4230，可考虑顺势加仓，但需控制仓位，防范行情震荡反转。整体短期趋势偏多，但需关注阻力压力和关键支撑有效性。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "XAU/USD has been demonstrating a moderately bullish trend as the price currently trades at 4218.71, above the 20-period simple moving average (SMA) of 4174.09. The short-term momentum suggests buyers are gaining control after recent consolidation around the 4180–4220 zone. Price action near the intraday high of 4219.41 indicates a potential breakout scenario if bullish sentiment persists, with higher levels likely to be tested in the near term. Traders should monitor whether support near 4181 holds to validate the continuation of this uptrend.\n\nThe MACD value of 19.29, despite the absence of a signal line, implies positive momentum, aligning with the recent gains. In the absence of a current RSI reading, the market may be approaching mild overbought territory given the rapid price ascent. Technical participants should observe whether momentum slows near the upper resistance or if the SMA continues to provide dynamic support. Any pullback toward the SMA or the low at 4181 could serve as a potential entry for buyers seeking lower-risk positions within the prevailing uptrend.\n\nCritical support levels are identified at 4181 and 4174, offering strong zones where buying interest may emerge. Resistance resides at the recent high of 4219, followed by 4240–4250 as psychological barriers. Short-term traders may consider scaling positions near support for long entries, while stop-loss orders just below 4170 can help mitigate downside risk. Conversely, aggressive traders might explore breakouts above 4220–4230, targeting potential upside continuation while remaining mindful of volatility spikes.\n\nGiven the current setup, a cautious bullish bias is recommended. Traders should combine price action analysis with momentum indicators to time entries and exits effectively. Consolidation around key levels could offer additional clarity on direction. Risk management is crucial in case of sudden retracements, especially during high-impact economic announcements or changes in USD strength, which could influence the gold/US dollar correlation significantly."
+    }
+  }
+}
