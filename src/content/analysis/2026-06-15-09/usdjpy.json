@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-06-15T09:53:28.810Z",
+  "price": {
+    "close": "160.13769",
+    "high": "160.14591",
+    "low": "160.09295",
+    "open": "160.14253",
+    "change": "-0.00",
+    "datetime": "2026-06-15 19:00:00"
+  },
+  "indicators": {
+    "rsi": 50.59503,
+    "macd": -0.012990745,
+    "macd_signal": -0.022761266,
+    "sma20": 160.12914
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：高位窄幅震荡偏弱整理",
+      "content": "当前USD/JPY处于160.10上方的高位横盘结构，价格围绕160.13反复震荡，整体趋势偏多但动能明显放缓。短线进入高位整理阶段，多空力量趋于均衡，尚未形成明确方向突破信号。\n\n技术指标方面，MACD略微转负显示多头动能衰减，短期存在回调压力。价格与SMA20基本重合，说明市场处于均线纠缠状态，缺乏趋势扩张，RSI虽未给出但可推测接近中性区域。\n\n支撑位关注160.09一线日内低点，其次为160.00整数关口；阻力位在160.14-160.15区间，高点压制明显。若突破160.15则可能重新打开上行空间，否则仍维持区间运行。\n\n交易策略上建议以高抛低吸为主，未突破前避免追单。激进者可在160.14附近轻仓试空，止损160.18上方；回落至160.05附近可考虑短多，整体保持区间思路应对当前行情。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USDJPY is consolidating around 160.13 after a mild intraday pullback, with price still hovering just above the 20-period SMA at 160.129. The structure suggests a tight range environment rather than a directional breakout. Despite minimal 24-hour change, the market maintains a slightly constructive bias as buyers continue to defend dips near the 160.10 area. Overall momentum remains neutral-to-slightly bullish within a compressed volatility regime.\n\nThe MACD reading at -0.01299 indicates weakening bullish momentum and a potential short-term loss of upward drive, even though price action has not broken down materially. With RSI unavailable, confirmation from momentum oscillators is limited, increasing reliance on price structure. The slight divergence between flat price action and negative MACD suggests consolidation risk, with traders likely reducing exposure until clearer directional signals emerge.\n\nImmediate support is positioned at 160.09, aligned with the session low, while the key psychological level at 160.00 remains the most important downside pivot. A sustained break below this zone could expose a deeper retracement toward lower intraday liquidity pockets. On the upside, resistance is concentrated at 160.15–160.20, with a breakout above 160.20 needed to re-establish stronger bullish continuation pressure.\n\nFrom a trading perspective, range-bound strategies remain most effective in the current environment. Buying near 160.10 with tight risk control and targeting 160.15 offers short-term efficiency, while fading moves near resistance can also be considered. A confirmed breakout above 160.20 would shift bias toward momentum longs, whereas a drop below 160.00 would indicate a transition into corrective downside conditions."
+    }
+  }
+}

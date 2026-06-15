@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-06-15T09:52:38.458Z",
+  "price": {
+    "close": "1.34303",
+    "high": "1.34333",
+    "low": "1.34221",
+    "open": "1.34234",
+    "change": "0.05",
+    "datetime": "2026-06-15 19:00:00"
+  },
+  "indicators": {
+    "rsi": 52.32237,
+    "macd": 0.00074344863,
+    "macd_signal": 0.0008748717,
+    "sma20": 1.34279
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：震荡偏强整理",
+      "content": "英镑/美元处于高位窄幅震荡，现价1.34303接近高点1.34333，整体运行在SMA20上方，短线多头略占优势，但上涨动能有限，结构呈震荡偏强整理。\n\n技术指标方面，MACD为0.000743，显示轻微正向动能但强度有限，RSI虽未给出，但结合价格位置推测处于中性偏强区间，整体动能温和，缺乏加速迹象。\n\n支撑位关注1.3422日内低点及1.3420附近SMA20均线，构成短线支撑带；上方阻力位在1.3433近期高点，进一步阻力看向1.3445一线。\n\n操作上建议回踩1.3422附近轻仓做多，止损设于1.3418下方，目标看向1.3438及1.3445；若跌破均线支撑则短线转为观望或顺势反手。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "GBP/USD is currently trading in a tight consolidation around 1.3430, with price action hovering just above the 20-period simple moving average at 1.34279. The structure suggests a mild bullish bias, but momentum remains limited as the pair struggles to extend beyond recent intraday highs. The narrow 24-hour range between 1.34221 and 1.34333 highlights market indecision and low volatility conditions. This environment often precedes a directional breakout once liquidity increases.\n\nThe MACD reading of 0.00074 indicates a very slight bullish momentum bias, though the signal line is not available for confirmation. Price action above the SMA(20) supports short-term strength, but the lack of RSI data limits overbought or oversold assessment. Overall momentum signals remain weak but marginally positive, suggesting accumulation rather than strong trend continuation. This aligns with a market waiting for a catalyst.\n\nImmediate support is seen at 1.3422, aligning with the intraday low, followed by a secondary support zone near 1.3415 where previous liquidity clusters may exist. On the upside, resistance is concentrated at 1.3433, the recent high, with a breakout potentially opening the path toward 1.3450. Price compression suggests a breakout scenario is increasingly likely in either direction. Traders are closely watching these levels for confirmation.\n\nIn the current environment, range-trading strategies between support and resistance may be more effective than trend-following approaches. Buying near 1.3422 with tight risk control and targeting 1.3433–1.3450 offers a favorable short-term setup. Alternatively, a breakout above resistance could justify momentum longs, while a breakdown below support would shift bias bearish. Risk management remains essential due to compressed volatility. Flexibility is key as price consolidates."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-06-15T09:56:29.466Z",
+  "price": {
+    "close": "0.58447",
+    "high": "0.58506",
+    "low": "0.58438",
+    "open": "0.58448",
+    "change": "-0.01",
+    "datetime": "2026-06-15 19:00:00"
+  },
+  "indicators": {
+    "rsi": 52.19851,
+    "macd": 0.00038804277,
+    "macd_signal": 0.0004642978,
+    "sma20": 0.584442
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：震荡整理偏弱格局",
+      "content": "当前纽元/美元整体呈现窄幅震荡整理格局，价格围绕0.5844一线运行，短线动能偏弱，市场缺乏明确方向，整体略偏整理走势特征明显阶段\n\n技术指标方面，MACD指标略微位于零轴上方但动能有限，短期均线SMA20走平，显示趋势缺乏延续性，RSI缺失但从价格结构看未进入超买区\n\n下方支撑关注0.58438及0.58430附近，上方阻力位于0.58506一线，SMA20附近构成短线中轴，价格在区间内反复震荡\n\n操作上建议以区间交易思路为主，高抛低吸为宜，若有效突破0.5851则可顺势做多，跌破0.5843则需谨慎转空，严格控制风险"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "NZD/USD is trading in a very tight consolidation band, reflecting subdued volatility and a lack of strong directional conviction. Price action remains marginally above the 20-period SMA, suggesting a slight bullish intraday bias, though momentum is weak. The market structure indicates equilibrium between buyers and sellers, with repeated failures to break decisively beyond the recent high, reinforcing a short-term sideways to mildly constructive tone overall.\n\nMomentum indicators show a modest bullish tilt, with MACD registering a small positive reading that hints at limited upward pressure. However, the magnitude of the signal remains weak, indicating that buyers lack strong conviction. With RSI data unavailable, momentum is inferred from price stability near short-term averages, suggesting neutral-to-slightly positive conditions rather than a sustained trend continuation. Overall, momentum remains balanced and requires a breakout for clearer directional confirmation.\n\nImmediate support is located near 0.58438, aligning closely with the session low, while a secondary support zone sits around 0.58420, where buyers have recently shown defensive behavior. On the upside, resistance is positioned at 0.58506, the intraday high, with a further barrier near 0.58530 that would need a sustained breakout to signal renewed bullish momentum. Price remains compressed within this narrow range, highlighting market indecision.\n\nGiven the range-bound structure, short-term strategies favor mean reversion trades, buying near support and selling into resistance, while maintaining tight risk controls due to low volatility. Breakout traders may wait for a decisive close above 0.58506 or below 0.58420 to confirm directional expansion. Position sizing should remain conservative, as current conditions do not yet support sustained trend-following setups, while false breakouts remain a key risk in this environment."
+    }
+  }
+}

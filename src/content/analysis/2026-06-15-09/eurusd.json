@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-06-15T09:51:44.737Z",
+  "price": {
+    "close": "1.16078",
+    "high": "1.16105",
+    "low": "1.16001",
+    "open": "1.16014",
+    "change": "0.05",
+    "datetime": "2026-06-15 19:00:00"
+  },
+  "indicators": {
+    "rsi": 61.32718,
+    "macd": 0.00093370008,
+    "macd_signal": 0.00086129805,
+    "sma20": 1.15918
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：震荡偏强整理格局",
+      "content": "欧元/美元当前处于1.16上方窄幅震荡偏强格局，价格维持在短期均线上方运行，显示多头仍占据轻微优势，但上行动能较为温和，市场等待进一步方向性突破信号。\n\nMACD指标维持轻微正值，说明动能仍偏向多方，但柱状动能有限，缺乏强势加速。由于RSI未提供，需结合价格结构判断，目前波动收敛，短线趋于整理蓄势阶段。\n\n下方支撑关注1.1590及SMA20位置，若失守可能回测1.1580区域。上方阻力集中在1.1610及1.1620附近，突破后有望打开短线进一步上行空间至1.1640一带。\n\n操作上建议以回调做多为主，在1.1590附近分批介入，止损设于1.1580下方，目标看向1.1620-1.1640区间。若跌破支撑则需及时观望，避免震荡假突破风险。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD is trading with a mildly constructive tone after holding steady near 1.16078, showing limited volatility over the past 24 hours. Price action remains tightly compressed just below the recent high at 1.16105, suggesting consolidation rather than a decisive breakout. The broader short-term structure leans slightly bullish as the pair continues to hover above its immediate moving average, indicating buyers are gradually maintaining control despite lack of strong momentum.\n\nMomentum signals are cautiously supportive but not strongly directional. The MACD reading at 0.0009337 remains in positive territory, implying underlying bullish pressure, though the absence of a confirmed signal line reading limits conviction. With RSI unavailable, momentum interpretation relies more heavily on price structure and moving averages. The position above the 20-period SMA at 1.15918 reinforces a mild upward bias, but the narrow spread suggests weakening impulse strength rather than expansion.\n\nFrom a price structure perspective, immediate resistance is defined by the intraday high at 1.16105, with a break above this level opening room toward 1.1620–1.1630 where psychological and minor supply zones may emerge. On the downside, initial support sits at the 20-period SMA around 1.1592, followed by a deeper cushion near 1.1580 where prior consolidation likely provides liquidity interest. The tight range indicates market indecision near equilibrium.\n\nTrading conditions favor a range-to-breakout approach. Short-term traders may consider buying dips toward 1.1590–1.1585 while maintaining tight risk controls below 1.1580, targeting a retest of 1.1610 and potentially 1.1625 on continuation. Alternatively, a clean break above 1.1610 with volume could justify momentum longs, while failure at resistance may trigger mean reversion back toward the moving average zone."
+    }
+  }
+}

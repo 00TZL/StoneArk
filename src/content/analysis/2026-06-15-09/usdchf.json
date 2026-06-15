@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-06-15T09:57:24.392Z",
+  "price": {
+    "close": "0.79317",
+    "high": "0.79347",
+    "low": "0.7926",
+    "open": "0.79341",
+    "change": "-0.03",
+    "datetime": "2026-06-15 19:00:00"
+  },
+  "indicators": {
+    "rsi": 34.48146,
+    "macd": -0.0010275229,
+    "macd_signal": -0.00088306185,
+    "sma20": 0.7950595
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：偏弱震荡下行格局",
+      "content": "趋势判断：USD/CHF当前价格0.79317位于20日均线下方，整体呈弱势震荡结构，短线反弹动能不足，空头占优但未形成单边下跌，更多表现为区间下移。\n\n技术指标显示，MACD处于负值区间并持续走弱，空头动能占优。价格未能站上SMA20均线，说明中期趋势仍偏空，短线修复后易再承压下行。\n\n支撑位关注0.7926日内低点，若跌破可能下探0.7920甚至更低区域；上方阻力位在0.7950与0.7960附近，均线附近压力明显。\n\n交易策略建议以反弹做空为主，若价格反抽至0.7950附近承压可考虑布局空单，止损设于0.7965上方，目标下看0.7920及更低支撑区域。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "USD/CHF continues to trade in a narrow consolidation phase with a slight bearish bias, as price action remains below the 20-period SMA at 0.79506. The market structure suggests repeated failures to sustain gains above 0.7940, indicating fading bullish momentum. Despite low volatility, sellers maintain gradual control, keeping the pair anchored near recent lows. Overall tone is cautious, with downside pressure slowly building unless buyers reclaim the SMA region decisively.\n\nMomentum indicators reinforce the bearish tilt, with MACD remaining below the zero line and showing a mild but persistent negative reading. This suggests downside momentum is present, though not aggressively expanding. The absence of RSI data limits precision, but price behavior near intraday lows implies weakening buying interest. Short-term momentum favors sellers, yet lack of volatility signals a controlled rather than impulsive decline.\n\nKey support is located near 0.7920, aligned closely with the recent intraday low at 0.7926, making this zone critical for short-term direction. A break below could expose the psychological 0.7900 level, where stronger buying interest may emerge. On the upside, initial resistance stands at 0.7950, followed by 0.7980, which aligns with prior rejection zones and the upper boundary of recent consolidation.\n\nFrom a trading perspective, the pair favors a sell-on-rallies approach while price remains capped below the 20-SMA. Traders may consider short positions near 0.7950 with protective stops above 0.7980 to manage risk. Alternatively, aggressive buyers could look for scalping opportunities near 0.7920 support, though downside risk remains dominant. Overall, the bias stays mildly bearish unless a sustained breakout above resistance occurs."
+    }
+  }
+}
