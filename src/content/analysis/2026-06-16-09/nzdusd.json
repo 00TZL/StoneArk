@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-06-16T09:21:02.125Z",
+  "price": {
+    "close": "0.58248",
+    "high": "0.58267",
+    "low": "0.58245",
+    "open": "0.58267",
+    "change": "-0.04",
+    "datetime": "2026-06-16 19:00:00"
+  },
+  "indicators": {
+    "rsi": 49.337,
+    "macd": -0.00050063141,
+    "macd_signal": -0.00060628256,
+    "sma20": 0.582226
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：震荡整理中略偏弱",
+      "content": "当前NZD/USD整体呈区间震荡格局，汇价0.5825附近运行，略高于20日均线，趋势动能偏弱且方向不明。  \n\nMACD指标维持负值区域，空头动能仍占优，但波动幅度极小，RSI缺失使短线强弱判断依赖价格结构。  \n\n下方支撑关注0.58220与0.58200，上方阻力在0.58270及0.58300，区间边界较为清晰。  \n\n操作上建议等待区间突破信号，跌破支撑可短空，上破阻力再顺势做多，并严格控制止损。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "NZD/USD is moving in a tight consolidation around 0.5825, reflecting low volatility and limited directional conviction. Price action remains capped after failing to extend above recent intraday highs, suggesting a mild bearish bias within a broader sideways structure. The market is effectively range-bound as participants await a catalyst. Short-term momentum is neutral-to-soft rather than trending, with no clear breakout structure developing yet.\n\nTechnical indicators show a mixed but slightly bearish tone. The MACD at -0.00050 signals weak downside momentum, though not strong enough to imply trend continuation. Price holding just above the 20-period SMA at 0.58223 suggests buyers are still defending short-term structure. With RSI unavailable, momentum reads as compression and fading volatility rather than decisive directional strength, reinforcing the idea of a market in equilibrium.\n\nImmediate support sits at the 20-period SMA near 0.58223, followed by 0.58200 as a key micro floor. A break below could expose 0.58150. Resistance is found at the intraday high of 0.58267, with a breakout potentially targeting 0.58300. These levels define a tight intraday trading range suitable for short-term positioning, with price action tightly coiling between support and resistance.\n\nConditions favor range trading over trend following. Long positions can be considered near 0.58220–0.58200 with tight stops, while shorts may be explored near 0.58260–0.58300 resistance. Breakout traders should wait for a confirmed close beyond the range to avoid false signals. Given low volatility, conservative sizing and disciplined stop placement are essential to manage whipsaw risk effectively."
+    }
+  }
+}

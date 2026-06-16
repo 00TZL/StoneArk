@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-06-16T09:19:02.196Z",
+  "price": {
+    "close": "0.70688",
+    "high": "0.7069",
+    "low": "0.70668",
+    "open": "0.70689",
+    "change": "-0.00",
+    "datetime": "2026-06-16 19:00:00"
+  },
+  "indicators": {
+    "rsi": 53.19093,
+    "macd": -0.00018999095,
+    "macd_signal": -0.00013639456,
+    "sma20": 0.7068055
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：窄幅震荡偏弱整理",
+      "content": "当前AUD/USD维持0.7067-0.7069极窄区间波动，呈横盘整理结构。动能不足，多空胶着，短线缺乏趋势延续，等待方向性突破。\n\n技术指标显示价格略高于SMA20但优势有限，均线走平，趋势趋弱。MACD位于零轴下方，动能偏弱，空头压力仍存，整体偏中性略弱。\n\n下方支撑关注0.7066及0.7064区域，若失守或延伸回落空间。上方阻力位于0.7070及0.7072附近，需有效放量突破才能打开上行空间。\n\n操作建议以区间思路为主，在0.7066附近低吸，0.7070上方止盈，止损置于区间外。避免追单，等待突破确认后再顺势跟进。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "AUD/USD is currently trading in a very tight consolidation zone around 0.7068–0.7069, showing clear signs of short-term equilibrium between buyers and sellers. The lack of meaningful 24-hour movement suggests market indecision following a prior directional impulse. Price action is compressing near the 20-period SMA at 0.706805, which now acts as a pivot level. Overall structure leans neutral, but slightly biased to the downside due to repeated failures to break higher convincingly above 0.7070.\n\nFrom a trend perspective, momentum is subdued, and directional strength is weak. The MACD reading at -0.0001899 indicates mild bearish pressure, although the absence of a signal line limits confirmation of trend continuation. This typically reflects a market in early-stage correction or sideways accumulation. Without RSI data, momentum validation is incomplete, but price behavior near equilibrium suggests neither strong overbought nor oversold conditions are present.\n\nKey resistance is forming at 0.7070–0.7072, a zone where price has repeatedly stalled. A sustained breakout above this level would open the path toward 0.7085 and potentially 0.7100 as the next psychological barrier. On the downside, immediate support lies at 0.7065, followed by stronger demand near 0.7058–0.7050, where prior buying interest has emerged. A break below these levels would shift bias more clearly bearish.\n\nTrading conditions favor range strategies in the short term. Selling near resistance with tight stops above 0.7072 or buying dips toward 0.7058 with confirmation could both be viable approaches. However, given compressed volatility, breakout confirmation is crucial before committing to trend-following positions, as false moves remain likely in this low-momentum environment."
+    }
+  }
+}

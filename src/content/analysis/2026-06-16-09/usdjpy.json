@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-06-16T09:18:05.583Z",
+  "price": {
+    "close": "160.33069",
+    "high": "160.33831",
+    "low": "160.31594",
+    "open": "160.31594",
+    "change": "0.00",
+    "datetime": "2026-06-16 19:00:00"
+  },
+  "indicators": {
+    "rsi": 57.34865,
+    "macd": 0.029752934,
+    "macd_signal": 0.026283434,
+    "sma20": 160.26215
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：高位震荡偏强整理结构",
+      "content": "当前USDJPY维持高位窄幅震荡结构，价格围绕160.30附近整理，整体仍处于前期升势后的横盘消化阶段，短线多空力量较为均衡，但多头略占优势。\n\n技术指标方面，价格略高于SMA20（160.26），显示短期均线支撑有效。MACD维持小幅正值，动能偏多但未放大，RSI缺失使超买判断不明确，整体偏震荡偏强。\n\n支撑位关注160.20与160.00整数关口，下破或引发回撤加深；阻力位在160.35近期高点，其上看160.50及161.00区域，突破需放量确认趋势延续。\n\n交易策略建议以区间操作为主，靠近支撑可轻仓试多，止损160下方；接近阻力区域谨慎做空或止盈，多头需等待有效突破160.35后顺势跟进。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USDJPY is in tight consolidation around 160.33 with minimal volatility, indicating equilibrium after prior directional move. Price action remains marginally above the 20-period SMA, suggesting a mildly bullish bias within a broader sideways structure. The market is currently range-bound between intraday highs and lows with no clear breakout confirmation. Overall trend is neutral-to-slightly bullish, with buyers maintaining control but lacking strong momentum for continuation.\n\nMomentum indicators show early bullish inclination. The MACD reading at 0.02975 remains positive, implying upward momentum, though confirmation from the signal line is missing, suggesting incomplete trend validation. With RSI unavailable, price relative to the SMA(20) becomes more important; trading above 160.26 indicates buyers are defending short-term averages. However, weak volatility implies momentum is still fragile and prone to reversal without volume expansion.\n\nImmediate resistance is observed near 160.34, aligning with the current session high and recent price cap. A sustained breakout above this level could open a path toward 160.50 and then 160.80 as extended targets. On the downside, initial support sits at 160.26, followed by stronger demand around 160.15. A break below 160.15 would weaken the bullish bias and potentially expose 160.00 as a key psychological floor.\n\nShort-term traders may consider range strategies, buying near 160.20–160.26 support with tight stops below 160.15, targeting 160.34–160.50. Breakout traders should wait for a confirmed close above 160.34 before entering longs, aiming for momentum extension. Conversely, rejection at resistance could justify short scalps toward mid-range support. Risk management remains essential given compressed volatility and potential for sudden policy-driven yen movements in the near term."
+    }
+  }
+}
