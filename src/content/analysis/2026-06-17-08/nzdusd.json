@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-06-17T08:59:08.090Z",
+  "price": {
+    "close": "0.58179",
+    "high": "0.58224",
+    "low": "0.58129",
+    "open": "0.58215",
+    "change": "-0.06",
+    "datetime": "2026-06-17 18:00:00"
+  },
+  "indicators": {
+    "rsi": 35.44426,
+    "macd": -0.00025888451,
+    "macd_signal": -0.000093774951,
+    "sma20": 0.5829935
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：震荡偏弱格局",
+      "content": "短期来看纽元兑美元维持窄幅震荡走势，价格围绕0.5818附近整理，整体动能偏弱但尚未形成明确单边趋势，市场进入观望阶段。\n\n技术指标方面MACD处于轻微负值区域（-0.00025），显示空头动能占优；价格已略低于20日均线0.58299，短线承压明显。\n\n支撑位关注0.5813日内低点，若跌破可能下探0.5800整数关口；上方阻力位在0.5822及0.5830一线，对应短期均线压力。\n\n操作上建议维持区间思路，高位偏空低吸为主，反弹至阻力区域可考虑分批布局空单，止损设于0.5835上方以控制风险。并关注数据变化。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "NZD/USD is currently exhibiting a mild bearish intraday bias while remaining in a tight consolidation phase. Price action at 0.58179 is sitting just below the 20-period SMA at 0.58299, indicating that short-term momentum has shifted slightly downward. The pair is struggling to reclaim recent highs, and the overall structure suggests sideways-to-soft price behavior rather than a strong directional breakout at this stage.\n\nFrom an indicator standpoint, the MACD reading at -0.0002588 confirms weakening bullish momentum and a gradual tilt toward bearish pressure. Although RSI data is unavailable, price positioning below the SMA and the negative MACD alignment together imply limited upside strength. The narrow 24-hour range between 0.58224 and 0.58129 further reflects low volatility, often preceding a potential expansion move once accumulation resolves.\n\nKey support is seen near 0.5810, a level that has repeatedly acted as a short-term floor during recent sessions. A break below this zone could expose the pair to further downside toward 0.5795, where buyers may attempt to re-enter. On the upside, immediate resistance is located at 0.5830, closely aligned with the SMA(20), followed by a stronger barrier around 0.5850, which would be needed to restore bullish structure.\n\nIn terms of trading strategy, a cautious bearish bias is favored while price remains below the SMA(20). Short positions may be considered on failed retests of 0.5828–0.5830 with tight risk control above 0.5840. Alternatively, traders may wait for a clean break below 0.5810 to confirm momentum continuation. Range traders could also exploit the current compression by fading extremes until a breakout is confirmed."
+    }
+  }
+}
