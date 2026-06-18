@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-06-18T08:33:37.063Z",
+  "price": {
+    "close": "0.7027",
+    "high": "0.70336",
+    "low": "0.70267",
+    "open": "0.70332",
+    "change": "-0.09",
+    "datetime": "2026-06-18 18:00:00"
+  },
+  "indicators": {
+    "rsi": 40.86268,
+    "macd": -0.00073718616,
+    "macd_signal": -0.00083934876,
+    "sma20": 0.703797
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短线承压震荡偏弱",
+      "content": "当前AUDUSD维持偏弱震荡结构，价格运行在0.7027附近，紧贴日内低点区域，并持续承压于20日均线0.7038下方。整体走势自高位回落后反弹力度有限，多头延续性不足。价格结构呈现高点逐步下移的特征，短线仍处于弱势整理阶段，若无法重新站上均线，空头主导格局暂难改变。\n\n技术指标方面，MACD持续运行在零轴下方，动能柱偏空，说明下行动能虽不剧烈但仍占据优势。结合价格贴近区间下沿表现来看，市场缺乏明显反转信号，短线更多体现为弱势横盘整理。均线系统压制明显，短周期均线拐头向下的风险仍在累积，反弹持续性较弱。\n\n支撑位方面，0.7020为当前关键短线防守区域，一旦失守可能进一步指向0.7015甚至0.7000整数关口。上方阻力集中在0.7038一线，即20日均线位置，其上方0.7045附近为前期密集压力区。当前价格处于狭窄区间内，突破方向将决定后续波动扩展空间。\n\n交易策略上倾向于反弹做空思路为主，可关注价格回升至0.7035至0.7040区域的受阻信号进行分批布局空单。若有效突破0.7045则短线空头逻辑需暂时规避，等待新的结构确认。下方若跌破0.7020可顺势跟随，但需严格控制仓位与止损节奏。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "AUD/USD trades near 0.7027 with mild intraday weakness as price action remains compressed in a very tight range just above the session low. The pair is struggling to build directional momentum and continues to hover slightly below the 20-period SMA at 0.7038, reinforcing a short-term bearish bias. Overall structure suggests a corrective phase after recent upside attempts, with buyers losing strength around the 0.7033 area.\n\nMomentum indicators lean cautiously bearish. The MACD reading at approximately -0.00074 reflects fading upside momentum and a gradual shift toward downside pressure. Without RSI data, price behavior becomes the primary guide, and current consolidation suggests equilibrium rather than conviction buying. The lack of strong bullish divergence implies upside attempts remain fragile unless a clear expansion in momentum and volume emerges.\n\nOn the downside, immediate support is located near 0.7020, with a deeper level around 0.7015 where recent intraday lows may attract liquidity. To the upside, resistance is seen at 0.7033, followed by a stronger cluster between 0.7038 and 0.7045 where the 20-SMA and prior rejection zones converge. These levels define a tight equilibrium range where breakouts are likely to be tested.\n\nFrom a trading standpoint, the bias favors range trading or mild bearish setups while price remains below the 20-SMA. Short positions may be considered on rallies toward 0.7033–0.7038 with protective stops above 0.7045 to avoid breakout risk. Bullish continuation would require a confirmed break and hold above 0.7045, opening the path toward higher resistance zones. Until then, volatility compression calls for disciplined risk management."
+    }
+  }
+}

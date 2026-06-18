@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-06-18T08:31:35.170Z",
+  "price": {
+    "close": "1.32778",
+    "high": "1.32975",
+    "low": "1.32772",
+    "open": "1.32974",
+    "change": "-0.15",
+    "datetime": "2026-06-18 18:00:00"
+  },
+  "indicators": {
+    "rsi": 28.75037,
+    "macd": -0.0027520183,
+    "macd_signal": -0.0027247028,
+    "sma20": 1.33276
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：短线承压震荡偏弱",
+      "content": "当前英镑/美元整体呈短线震荡偏弱结构，价格跌破短期均线后延续回落，但下方仍存在一定买盘支撑，整体趋势由多转震荡偏空运行为主。\n\n技术指标方面，MACD维持负值且动能柱偏弱，显示空头动能占优；价格持续运行于SMA20下方，均线压制明显，短期反弹力度受限。\n\n支撑方面，1.3275附近为短线关键支撑，若跌破可能下探1.3260区域；上方阻力位于1.3298及1.3328，需突破均线才能改善结构。\n\n交易建议以反弹做空为主，若价格无法站稳1.3290上方可逢高布局空单；激进者关注跌破1.3275后的顺势跟空机会，严格控制止损。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "GBP/USD continues to trade with a mild bearish bias after slipping below its 20-period simple moving average at 1.33276. Price action remains heavy, with lower intraday highs forming and buyers struggling to reclaim momentum. The pair is consolidating near the session lows around 1.3277, indicating persistent downside pressure. Overall structure suggests short-term weakness within a broader range rather than a decisive trend breakdown yet.\n\nMomentum indicators, though partially limited in the provided dataset, align with a weakening bullish structure. The MACD reading at -0.00275 confirms negative momentum and suggests continued selling pressure. With the price trading below the 20-SMA, short-term sentiment has shifted to bearish. Absence of RSI data limits overbought/oversold confirmation, but price behavior near session lows reinforces downside control and lack of strong dip-buying interest.\n\nImmediate support is seen at the recent low around 1.3272, with a break potentially exposing the 1.3250 area and then 1.3230 as the next downside zones. On the upside, initial resistance sits near 1.3300, followed by stronger pressure at the 20-SMA around 1.3328–1.3330. Price needs a decisive close above this zone to neutralize the current bearish bias and reopen bullish recovery prospects.\n\nTrading strategy leans cautiously bearish while price remains below the 20-SMA. Short positions may be favored on rallies toward 1.3300–1.3325 with protective stops above 1.3335 to guard against a momentum reversal. Profit targets can be staged at 1.3250 and 1.3230. However, traders should remain alert for consolidation near current lows, as oversold bounces may create temporary counter-trend opportunities. Risk management remains essential in this volatile intraday range."
+    }
+  }
+}

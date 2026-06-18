@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-06-18T08:30:32.910Z",
+  "price": {
+    "close": "1.15041",
+    "high": "1.15147",
+    "low": "1.15032",
+    "open": "1.15132",
+    "change": "-0.08",
+    "datetime": "2026-06-18 18:00:00"
+  },
+  "indicators": {
+    "rsi": 31.0076126,
+    "macd": -0.0020599281,
+    "macd_signal": -0.0021231575,
+    "sma20": 1.15334
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：窄幅震荡偏弱整理",
+      "content": "欧元/美元当前在1.1500附近窄幅整理，整体仍受短期均线压制。价格持续运行在1.15334的20日均线下方，显示上方抛压仍存。尽管跌幅有限，但反弹力度不足，说明多头动能偏弱。短线结构偏向震荡下行后的整理阶段，市场缺乏明确方向，更多呈现低波动蓄势状态，等待新的催化因素推动突破。\n\nMACD指标位于零轴下方并维持弱势运行，暗示空头动能略占优势但尚未形成趋势性放大。由于RSI缺失，动量强弱无法完全确认，但从价格极窄波动区间来看，市场情绪偏谨慎。多空双方博弈明显，买盘支撑与卖压均不强，整体处于整理收敛结构中，缺乏单边行情特征。\n\n下方支撑关注1.1500整数关口及1.1485区域，一旦跌破可能引发短线加速回落至更低平台。上方阻力集中在1.1533均线位置及1.1550附近，该区域若无法突破，将持续压制反弹空间。当前价格夹在关键区间内运行，突破方向将决定下一阶段走势强弱。\n\n交易策略建议以区间操作为主，在未站上1.1533前可考虑逢高轻仓偏空，止损设于1.1555上方；若跌破1.1500则顺势跟进空单。反之若放量突破均线阻力，则需及时切换多头思路。整体应以等待明确方向为主，避免在低波动阶段追单操作。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD is trading in a mildly bearish intraday structure as price remains below the 20-period simple moving average at 1.15334. The pair is consolidating tightly near 1.1504, reflecting reduced volatility and a lack of directional conviction. The repeated failure to reclaim 1.1515 suggests upside momentum is fading, while price action continues to lean toward a gradual downward drift within a short-term corrective phase. Market participants await catalyst for directional breakout.\n\nMACD remains negative at -0.0020, reinforcing weakening momentum on the downside, even though signal line data is unavailable. This suggests sellers still maintain slight control, but the magnitude of movement is limited, indicating potential exhaustion or pre-breakout compression. The extremely narrow 24-hour range between 1.15032 and 1.15147 confirms market indecision, often preceding a volatility expansion phase in either direction.\n\nImmediate support is located at 1.1503, which is currently being tested, with a break potentially exposing 1.1490 and then 1.1475 as the next downside zones. On the upside, initial resistance stands at 1.1515, followed by stronger resistance at the 1.1533 SMA20 level. A sustained move above the moving average would be required to neutralize the short-term bearish bias and signal recovery.\n\nTrading strategy favors selling into minor rallies toward 1.1510–1.1515 with tight risk control above 1.1535. Alternatively, a breakdown below 1.1503 could trigger short continuation entries targeting lower supports. However, given compressed volatility, breakout confirmation is essential before positioning aggressively, as false moves are common in such tight consolidation environments. Risk management remains crucial given low liquidity conditions and potential sudden expansion."
+    }
+  }
+}

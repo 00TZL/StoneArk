@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-06-18T08:36:44.697Z",
+  "price": {
+    "close": "0.80163",
+    "high": "0.80181",
+    "low": "0.79984",
+    "open": "0.79987",
+    "change": "0.21",
+    "datetime": "2026-06-18 18:00:00"
+  },
+  "indicators": {
+    "rsi": 72.69714,
+    "macd": 0.0016717192,
+    "macd_signal": 0.0015110871,
+    "sma20": 0.7977415
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：震荡偏强延续上行结构",
+      "content": "美元瑞郎当前维持震荡偏强格局，价格运行于0.80上方，并稳站20日均线0.7977之上，短线多头略占优势。但上方仍存阻力短线延续中  \n\n技术指标方面，MACD维持小幅金叉结构，动能柱温和扩张，显示短期上涨动能仍在延续，但未出现超买信号。整体偏多运行格局  \n\n支撑位关注0.7998日内低点及0.7977均线位置，上方阻力集中在0.8025与0.8050区域，突破需放量确认为关键  \n\n交易策略建议以回调做多为主，关注0.7998支撑企稳情况，跌破则短线转为观望或轻仓控制风险但需控制风险执行纪律为主"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "USD/CHF is currently maintaining a mild bullish tone after stabilizing above the 0.8010 region, following a narrow 24-hour range between 0.79984 and 0.80181. Price action suggests short-term consolidation after a gradual recovery from sub-0.8000 levels. The structure remains slightly constructive, with the market holding above recent breakout territory and printing marginally higher intraday lows, indicating cautious accumulation rather than strong directional momentum.\n\nFrom an indicator perspective, momentum conditions are modestly supportive of upside continuation. The MACD reading at 0.00167 remains in positive territory, reflecting improving bullish pressure, although the lack of RSI data limits clarity on overbought or oversold conditions. The 20-period SMA at 0.79774 is acting as a dynamic support level, and trading above it reinforces a short-term recovery bias. However, the momentum profile still appears gradual rather than impulsive.\n\nKey support is seen at the psychological 0.8000 level, followed closely by the SMA20 zone around 0.7977, which is critical for maintaining the current constructive structure. A decisive break below this area would weaken the near-term outlook and open room toward 0.7950. On the upside, immediate resistance sits at 0.8018, aligned with the recent high, while a broader resistance zone emerges around 0.8030–0.8050 where prior supply could cap advances.\n\nTrading conditions favor a range-to-breakout approach in the near term. Long positions may be considered on dips toward 0.8000–0.7977 with protective stops below the SMA to manage downside risk. Alternatively, a confirmed breakout above 0.8018 could trigger continuation toward higher resistance zones. Until volatility expands and direction strengthens, disciplined risk management remains essential in this compressed trading environment."
+    }
+  }
+}
