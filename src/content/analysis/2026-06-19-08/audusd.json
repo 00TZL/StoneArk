@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-06-19T09:01:01.002Z",
+  "price": {
+    "close": "0.70181",
+    "high": "0.70199",
+    "low": "0.70096",
+    "open": "0.70098",
+    "change": "0.11",
+    "datetime": "2026-06-19 18:00:00"
+  },
+  "indicators": {
+    "rsi": 50.60677,
+    "macd": -0.00054639687,
+    "macd_signal": -0.0006863704,
+    "sma20": 0.7013695
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：震荡偏强上行",
+      "content": "澳元/美元目前运行于0.7018附近，价格略高于20日均线0.7014，显示短线多头仍占据一定优势。过去24小时维持温和上涨，高低点区间较窄，反映市场处于整理阶段，但整体结构仍保持缓慢抬升态势，短期趋势偏向震荡偏强。\n\n从技术指标来看，MACD数值为-0.00055，仍位于零轴下方，表明此前空头动能尚未完全消散。不过价格能够稳定在均线上方，说明卖压正在减弱。由于RSI数据缺失，市场超买或超卖状态暂时难以确认，因此需重点观察后续价格突破方向以及成交动能变化。\n\n关键支撑位可关注0.7010和0.7000整数关口，若跌破后者，可能引发进一步回调至0.6985区域。上方阻力首先位于日内高点0.7020附近，突破后有望挑战0.7040至0.7050区间。当前价格接近短线阻力，市场或面临方向选择。\n\n交易策略方面，激进交易者可等待价格有效突破0.7020后顺势跟进多单，目标看向0.7040至0.7050区域；稳健投资者则可关注回踩0.7010附近后的支撑确认机会。若价格跌破0.7000并持续运行于其下方，则应警惕短线趋势转弱，适当控制仓位并设置严格止损。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "AUD/USD is currently trading in a tight consolidation phase around 0.7018, with price action hovering just above the 20-period SMA at 0.70137. The structure suggests a mild bullish bias in the very short term, but momentum is weak and lacks conviction. Recent price movement between 0.70096 and 0.70199 reflects equilibrium between buyers and sellers, indicating the market is waiting for a catalyst to establish direction.\n\nFrom a trend perspective, the pair is attempting to stabilize after a subdued corrective phase. Holding above the SMA(20) keeps the short-term structure marginally constructive, but repeated failures to extend beyond 0.7020 signal fading upside momentum. The overall trend remains range-bound rather than directional, with no clear breakout confirmation on either side yet.\n\nIndicator signals reinforce this neutral tone. MACD remains slightly negative at -0.000546, suggesting lingering bearish pressure, though the magnitude is minimal and not strong enough to drive a sustained decline. With RSI unavailable, momentum assessment relies on price behavior, which continues to show compression. This typically precedes volatility expansion, making the current zone technically sensitive.\n\nKey support is located at 0.7009, followed by a psychological floor near 0.7000. A break below could expose 0.6985. On the upside, immediate resistance sits at 0.7020, with stronger barriers near 0.7035. A cautious bullish stance is favored above 0.7010 with tight risk control, while breakdown traders may look for rejection near resistance for short setups."
+    }
+  }
+}

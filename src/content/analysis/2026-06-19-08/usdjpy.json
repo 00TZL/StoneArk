@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-06-19T09:00:15.095Z",
+  "price": {
+    "close": "161.29391",
+    "high": "161.32862",
+    "low": "161.2447",
+    "open": "161.32862",
+    "change": "-0.02",
+    "datetime": "2026-06-19 18:00:00"
+  },
+  "indicators": {
+    "rsi": 56.96596,
+    "macd": 0.12991849,
+    "macd_signal": 0.1581902,
+    "sma20": 161.28532
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：高位震荡偏多格局",
+      "content": "当前美元/日元维持高位震荡结构，整体仍处多头趋势中，但上行动能略有放缓。短线在161附近反复整理，未出现明显反转信号，市场仍以区间上沿试探为主。\n\n均线方面价格紧贴20日均线161.28附近运行，显示趋势延续性较强。MACD柱状维持正值但动能收敛，提示上涨节奏放缓，短期进入修正整理阶段。\n\n下方支撑关注161.24及161.20一线，上方阻力位于161.33与161.40区域。当前波动收窄，若突破区间上沿则有望延续上行，否则仍以震荡为主。\n\n操作上建议以区间交易为主，回踩支撑附近可轻仓做多，接近阻力位逐步止盈。若有效跌破161.20则需警惕回调加深风险，控制仓位为主。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USD/JPY is currently moving in a tight consolidation around 161.29 after a very small intraday pullback. Price action remains slightly above the 20-period SMA at 161.28, which keeps the broader short-term structure marginally tilted upward. However, momentum has clearly slowed, and repeated failures to extend above recent highs suggest the market is balancing between buyers and sellers rather than committing to a directional trend. Overall, the pair is behaving more like a range environment than a trending phase.\n\nMomentum signals are mixed but still lean mildly positive. The MACD reading at 0.1299 suggests underlying bullish pressure remains present, though the absence of a signal line prevents a full confirmation of trend strength or crossover dynamics. Without RSI data, overbought or oversold conditions cannot be clearly assessed, but price stability near the SMA indicates equilibrium rather than exhaustion. This setup typically reflects consolidation where short-term mean reversion dominates intraday behavior.\n\nOn the downside, immediate support is seen at 161.24, aligning closely with the recent low and acting as the first structural floor. Below that, the SMA20 near 161.28 adds a dynamic support zone, while a break lower could expose the psychological 161.00 level. On the upside, resistance is defined by the 161.33 intraday high, with a more significant ceiling forming near 161.50 where prior supply pressure is likely to re-emerge and slow advances.\n\nFrom a trading perspective, conditions favor range-bound strategies rather than breakout positioning. Buying dips near 161.24–161.28 with tight stops just below the range can be effective, while partial profit-taking near 161.33 remains reasonable. Breakout traders should wait for a confirmed close beyond 161.33 or a breakdown under 161.24 before engaging. Given compressed volatility, disciplined sizing and patience are essential for managing risk effectively in this environment."
+    }
+  }
+}

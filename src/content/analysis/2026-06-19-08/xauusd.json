@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-06-19T09:05:05.906Z",
+  "price": {
+    "close": "4168.09037",
+    "high": "4171.01147",
+    "low": "4166.45885",
+    "open": "4166.45885",
+    "change": "0.05",
+    "datetime": "2026-06-19 19:00:00"
+  },
+  "indicators": {
+    "rsi": 37.15953,
+    "macd": -30.1739,
+    "macd_signal": -31.36129,
+    "sma20": 4189.71107
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短线承压震荡偏弱格局",
+      "content": "XAU/USD短线承压运行，价格持续位于4189一线均线下方，整体多头动能减弱，市场进入偏弱震荡格局。\n\nMACD指标维持负值区间并小幅走扩，空头动能占优，短期缺乏明显反弹信号，市场情绪偏谨慎。需关注动能变化与反抽力度。短线偏弱\n\n支撑阻力方面，4166为近期关键支撑，跌破或下看4150区域；上方4171及4189构成压制，反弹空间受限。短线需警惕回调风险。\n\n操作上建议以区间交易为主，接近4171-4189区域可尝试高位做空，跌向4166下方谨慎追空，控制风险。建议严格止损。短线"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold vs US Dollar (XAU/USD) is currently trading around 4168, showing a narrow intraday range between 4166 and 4171. The structure reflects a short-term consolidation phase after recent downside pressure. Price remains positioned below the 20-period simple moving average at 4189, indicating that the broader intraday bias still leans bearish. However, the lack of strong directional expansion suggests hesitation near current lows rather than aggressive continuation.\n\nMACD readings at -30.17 confirm persistent bearish momentum, although the absence of a clear signal line value limits precision in crossover assessment. RSI is not available, but price behavior near the lower end of the range implies mildly oversold-to-neutral conditions. Momentum remains tilted to the downside, yet the flat intraday movement indicates weakening selling pressure rather than acceleration. This suggests consolidation with bearish bias intact in short term.\n\nKey support levels are forming around 4165, with immediate downside risk extending toward 4160 and a deeper zone near 4150 if selling pressure resumes. On the upside, resistance is seen at 4171, which aligns with the recent intraday high, followed by the 4189 SMA20 level that acts as a dynamic barrier. A stronger bullish reversal would require a sustained break above this moving average.\n\nTrading conditions favor a cautious approach, with rallies toward resistance zones offering potential short-entry opportunities while downside breaks below 4160 could accelerate momentum toward lower supports. Conservative traders may wait for confirmation via a clear break of range boundaries before committing. Risk management remains essential, as current price action reflects low volatility but potential for sharp breakout moves. Bias remains neutral-to-bearish intraday outlook."
+    }
+  }
+}

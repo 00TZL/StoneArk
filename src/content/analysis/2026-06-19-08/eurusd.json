@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-06-19T08:58:29.878Z",
+  "price": {
+    "close": "1.14634",
+    "high": "1.14659",
+    "low": "1.14468",
+    "open": "1.14468",
+    "change": "0.14",
+    "datetime": "2026-06-19 18:00:00"
+  },
+  "indicators": {
+    "rsi": 47.39577,
+    "macd": -0.0015951441,
+    "macd_signal": -0.0019103207,
+    "sma20": 1.14572
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：温和震荡偏多整理结构",
+      "content": "当前欧元/美元整体维持温和偏多震荡结构，汇价运行于1.14572均线上方，短线多头略占优势，但上涨动能并不强，更多表现为高位整理格局，市场缺乏明确单边趋势推动。  \n\n技术指标方面，MACD仍处于轻微负值区间且信号线未完全确认，显示动能偏弱；但价格仍站稳短期均线，说明多空处于拉锯状态，趋势延续性有待进一步确认。  \n\n支撑位关注1.1446至1.1450区间，该区域为近期低点密集带；上方阻力位在1.1466及1.1480附近，若要突破需伴随成交动能放大，否则易形成反复震荡。  \n\n交易策略上建议以区间思路为主，回踩支撑附近可考虑轻仓做多，若跌破1.1445则转为观望；上冲阻力未有效突破前避免追高，整体保持短线灵活止损管理。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD continues to trade in a tight intraday consolidation after a modest advance, holding just above the 1.1450 region. Price action remains slightly constructive as buyers defend dips, but upside momentum is limited. The pair is effectively balancing between short-term accumulation and hesitation, reflecting a market awaiting clearer macro catalysts. Overall structure leans mildly bullish while still lacking strong directional conviction.\n\nMomentum indicators suggest a fragile balance, with MACD slightly below zero indicating that bearish pressure has not fully dissipated. However, the minimal magnitude of the reading points to weakening downside momentum rather than strong selling. Price trading above the 20-period SMA reinforces short-term support and suggests buyers are gradually regaining control. With RSI unavailable, momentum assessment relies primarily on MACD behavior and price structure.\n\nImmediate resistance is located near 1.1466, aligned with the recent intraday high, followed by a more significant barrier around 1.1480 and then the psychological 1.1500 level. On the downside, initial support sits at the 1.1457 SMA20, with stronger protection at 1.1447 and further demand likely near 1.1435. The tight clustering of levels suggests a breakout-driven move will likely define the next directional phase.\n\nShort-term traders may consider range-bound strategies while price remains between support and resistance, focusing on quick scalps near extremes. A sustained break above 1.1466 could open the path toward 1.1480 and 1.1500, favoring bullish continuation setups. Conversely, a decisive drop below 1.1457 would shift bias lower toward 1.1447. Risk management remains essential given the compressed volatility and potential for sharp breakout moves."
+    }
+  }
+}
