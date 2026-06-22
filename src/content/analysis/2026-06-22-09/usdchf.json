@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-06-22T09:44:45.551Z",
+  "price": {
+    "close": "0.80758",
+    "high": "0.80821",
+    "low": "0.80698",
+    "open": "0.80816",
+    "change": "-0.08",
+    "datetime": "2026-06-22 19:00:00"
+  },
+  "indicators": {
+    "rsi": 50.42568,
+    "macd": 0.00037469074,
+    "macd_signal": 0.00035623494,
+    "sma20": 0.807512
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：震荡偏强，短线多空拉锯",
+      "content": "当前USD/CHF处于窄幅震荡结构，价格贴近0.8075一线，整体围绕20日均线徘徊，显示市场缺乏明确方向，短线进入整理阶段。\n\nMACD指标微幅金叉动能偏弱，柱状图仅小幅正值，说明多头动能有限。价格略上穿20日均线，短期偏向中性偏多格局，维持观望为主。\n\n下方关键支撑位关注0.8069及0.8060区域，上方阻力集中在0.8082与0.8090附近，区间突破前预计延续震荡走势。\n\n短线建议高抛低吸为主，靠近支撑可轻仓试多，接近阻力宜逐步减仓，严格控制止损以应对区间突破风险，保持灵活操作节奏，执行纪律。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "USD/CHF is trading near 0.80758, holding slightly above its 20-period simple moving average at 0.80751. The pair has remained confined within a narrow intraday range between 0.80698 and 0.80821, reflecting a market that is currently lacking strong directional conviction. The marginal 24-hour decline of 0.08% suggests mild bearish pressure, but the inability of sellers to push decisively below recent lows indicates that downside momentum remains limited for now.\n\nFrom a technical perspective, the proximity of price to the SMA(20) points to a neutral-to-slightly bullish short-term structure. The MACD value of 0.0003747 remains positive, indicating that underlying momentum has not fully shifted in favor of bears despite the recent pullback. However, the absence of a confirmed signal-line reading limits the strength of the momentum assessment. Traders should therefore focus on price action around the moving average to determine whether a clearer trend emerges.\n\nImmediate support is located near 0.80700, corresponding closely with the session low at 0.80698. A break below this level could expose the pair to further weakness toward the 0.80550 area, where additional buying interest may emerge. On the upside, initial resistance stands around 0.80820, followed by a more significant barrier near 0.80900. A sustained move above resistance would strengthen the case for a short-term recovery and potentially attract additional bullish participation.\n\nFor trading purposes, range-based strategies may remain appropriate while the pair stays between support and resistance. Conservative traders could wait for a confirmed breakout before initiating new positions. A move above 0.80820 may favor long positions targeting higher resistance zones, while a break below 0.80700 could support short positions aimed at lower support levels. Given the current low-volatility environment, disciplined risk management and confirmation from volume or momentum indicators are advisable before committing to directional trades."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-06-22T09:38:32.683Z",
+  "price": {
+    "close": "1.14579",
+    "high": "1.14622",
+    "low": "1.14488",
+    "open": "1.14488",
+    "change": "0.09",
+    "datetime": "2026-06-22 19:00:00"
+  },
+  "indicators": {
+    "rsi": 44.57024,
+    "macd": -0.00052536769,
+    "macd_signal": -0.00042824526,
+    "sma20": 1.14629
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：震荡偏弱的区间整理格局",
+      "content": "当前欧元/美元整体呈震荡偏弱结构，价格围绕1.1458附近窄幅整理，上方受1.1462短线压制，动能释放有限，多空仍处于均衡拉锯阶段。\n\n技术指标方面，MACD维持轻微负值显示动能偏弱，价格位于20日均线下方运行，短期反弹但缺乏突破信号，市场等待进一步方向选择。\n\n支撑位关注1.1448一线及日内低点，若跌破可能延伸回撤；阻力集中在1.1462与1.1463附近，突破需放量确认，否则仍受压制。\n\n操作上建议短线维持区间交易思路，靠近支撑轻仓做多，接近阻力逐步减仓，严格控制风险，避免追涨杀跌的情绪化操作，保持纪律执行策略与仓位管理。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD is trading around 1.14579 with very limited intraday volatility, reflecting a consolidative structure after recent directional indecision. Price action remains capped beneath the 20-period SMA at 1.14629, suggesting that upside momentum is struggling to extend. Overall short-term trend bias is mildly neutral to bearish, as buyers repeatedly fail to secure sustained closes above the moving average while the market continues to rotate within a narrow intraday range.\n\nThe MACD reading at -0.000525 signals weak bearish momentum, indicating that downside pressure is present but not strongly accelerating. With the signal line unavailable, confirmation is limited, yet price trading below the SMA(20) reinforces a short-term bearish bias. Momentum conditions appear subdued overall, consistent with consolidation rather than a trending phase. The absence of RSI data reduces overbought or oversold clarity, leaving price structure and moving averages as the primary technical guides.\n\nImmediate support is seen at 1.14488, the recent intraday low, with a break exposing 1.14450 as the next downside area and potential liquidity zone. On the upside, resistance is clustered at 1.14622 and the 1.14629 SMA(20), forming a tight technical ceiling. A sustained move above this zone would be required to shift intraday structure back toward bullish territory, with 1.14700 as a potential extension target.\n\nTrading strategy favors a range-to-bearish approach, with potential short positions considered on rallies toward 1.14620–1.14630, provided price rejection signals appear. Risk management should remain tight, with stops placed above 1.14700 to avoid breakout traps. Alternatively, range traders may exploit oscillations between 1.14480 support and 1.14630 resistance. A confirmed break above resistance would invalidate the bearish bias and open room for further upside continuation."
+    }
+  }
+}

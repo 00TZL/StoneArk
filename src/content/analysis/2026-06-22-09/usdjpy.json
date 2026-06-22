@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-06-22T09:40:36.671Z",
+  "price": {
+    "close": "161.75082",
+    "high": "161.78516",
+    "low": "161.71873",
+    "open": "161.78516",
+    "change": "-0.02",
+    "datetime": "2026-06-22 19:00:00"
+  },
+  "indicators": {
+    "rsi": 77.45979,
+    "macd": 0.12064581,
+    "macd_signal": 0.08869278,
+    "sma20": 161.48694
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：高位震荡偏多整理",
+      "content": "美元/日元整体维持温和偏多的震荡结构，价格位于161.75附近并站稳20日均线之上，但上行动能并未明显放大，短线更多表现为高位整理格局，趋势尚未进入单边加速阶段。  \n\nMACD维持小幅正值，显示多头动能仍在但强度有限，未形成趋势加速。由于RSI缺失且日内波动极窄，市场情绪偏观望，短期多空分歧不大，方向选择仍待确认。  \n\n短线支撑关注161.48一线的20日均线，其次为161.20区域。上方阻力集中在161.78日内高点，进一步突破则看向162.10附近的前高压力带，区间边界逐步清晰。  \n\n操作上建议以区间思路为主，回踩支撑附近可尝试低吸，反弹至阻力区间逐步止盈。若放量突破161.80上方，则可顺势跟随多头延伸行情，关注趋势切换信号。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USD/JPY is currently in a mild bullish consolidation phase, trading near recent highs after a prolonged upward drift. Price action shows limited intraday volatility, suggesting market participants are waiting for a catalyst. The pair remains structurally supported above its short-term moving average, indicating that the broader trend bias still leans upward despite the very slight 24-hour decline and lack of momentum expansion.\n\nMomentum indicators are mixed but slightly constructive. MACD remains in positive territory at 0.1206, implying that bullish momentum is still present even though it is not accelerating strongly. The absence of RSI data limits overbought assessment, but price stability above the 20-period SMA suggests underlying demand. Overall, indicators reflect a market in equilibrium with a mild bullish tilt rather than a strong directional breakout at this stage.\n\nImmediate support is seen near the intraday low around 161.72, with stronger support aligning with the 20-period SMA at 161.49. A break below this zone would expose downside pressure toward 161.20. On the upside, resistance is concentrated at 161.78–161.80, followed by a psychological barrier at 162.00. The tight range suggests a potential volatility expansion once either boundary is breached decisively in the near term as market awaits catalyst.\n\nShort-term trading favors a buy-on-dips approach while price holds above the 161.49 SMA support. Traders may consider long positions near 161.70–161.75 with tight risk control, targeting a breakout toward 161.80 and 162.00. Alternatively, a confirmed breakdown below 161.49 would shift bias to bearish, opening room toward 161.20. Risk management remains crucial due to the compressed range and potential for sudden volatility expansion in current market conditions."
+    }
+  }
+}

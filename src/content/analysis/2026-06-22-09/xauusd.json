@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-06-22T09:45:47.139Z",
+  "price": {
+    "close": "4208.52417",
+    "high": "4210.22885",
+    "low": "4195.40455",
+    "open": "4195.40455",
+    "change": "0.32",
+    "datetime": "2026-06-22 19:00:00"
+  },
+  "indicators": {
+    "rsi": 69.65219,
+    "macd": 10.99803,
+    "macd_signal": 7.44534,
+    "sma20": 4173.28226
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：高位震荡偏多，测试阻力区间",
+      "content": "当前XAU/USD整体维持上升结构，价格稳站SMA20上方，多头趋势延续，但短线进入高位整理阶段，动能略有放缓迹象需警惕回调风险\n\nMACD指标维持正值区间，动能柱扩张有限，说明上涨动能仍在但缺乏加速，市场进入震荡上行节奏维持多头结构未破坏但需关注背离信号\n\n下方支撑关注4195及4173的SMA20位置，若失守可能回踩4150区域；上方阻力位4210与4230构成短期压制需突破确认趋势延续\n\n操作上建议回调至支撑区分批做多，突破4210后可顺势追多，止损设于4170下方以控制风险整体策略偏向逢低布局但需严格执行纪律"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold vs USD maintains a mildly bullish intraday structure, with price trading around 4208 after a modest 0.32% daily gain. The market remains supported above the 20-period SMA at 4173, indicating short-term trend strength. Price action is consolidating just beneath recent highs near 4210, suggesting potential accumulation. Overall momentum favors buyers, although upside progression appears gradual rather than impulsive at this stage.\n\nMomentum indicators suggest sustained bullish bias, with MACD reading at 10.998 indicating positive momentum above the zero line. Although the signal line is not provided, the histogram implication remains supportive of upward pressure. RSI is unavailable, limiting overbought assessment, yet price behavior near highs suggests cautious optimism. Traders should note that momentum remains intact but may be approaching a short-term exhaustion zone.\n\nKey resistance is located at 4210, with a decisive break potentially opening the way toward 4225 and 4250 levels. Immediate support lies at 4195, followed by stronger structural support around the 20-period SMA at 4173. A deeper pullback could extend toward 4150 if selling pressure increases. The current range suggests a tightening structure, often preceding a breakout or corrective retracement phase.\n\nFrom a trading perspective, a breakout above 4210 may offer long opportunities targeting 4225 and 4250, provided momentum confirms follow-through. Alternatively, pullbacks toward 4195 or the 4173 SMA zone could present dip-buying setups within the prevailing uptrend. Risk management remains essential, with stops ideally placed below 4173 or 4150 depending on strategy. Overall, bias stays cautiously bullish unless key support is breached in current conditions."
+    }
+  }
+}
