@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-06-23T07:45:25.998Z",
+  "price": {
+    "close": "0.80892",
+    "high": "0.80907",
+    "low": "0.8078",
+    "open": "0.80907",
+    "change": "-0.02",
+    "datetime": "2026-06-23 17:00:00"
+  },
+  "indicators": {
+    "rsi": 53.74237,
+    "macd": 0.00025374741,
+    "macd_signal": 0.0002873021,
+    "sma20": 0.8088315
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：震荡偏弱整理",
+      "content": "美元/瑞郎整体维持低位震荡偏弱结构，汇价在0.808附近反复整理，短线多空力量较为均衡，但美元指数走软限制反弹空间，整体仍以区间运行为主。  \n\nSMA20位于0.8088附近，现价略低于均线，显示短线承压。MACD维持微弱正值，动能有限，尚未形成强趋势信号，需关注均线压制延续性。  \n\n下方初步支撑位于0.8075一线，若跌破或进一步下探0.8060区域。上方阻力关注0.8095及0.8110，突破前仍以震荡看待。  \n\n操作上建议区间交易为主，靠近支撑轻仓试多，接近阻力分批止盈，严格控制0.8050下方止损风险，避免追单，等待确认信号，以低波动策略为宜结构延续。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "USD/CHF is currently trading in a tight consolidation phase around 0.8089 after a modest 24-hour decline of 0.02%. Price action remains compressed between 0.8078 and 0.8091, indicating low volatility and market indecision. Despite the minor pullback, the broader structure suggests a stabilizing bias rather than a sustained downtrend. The market appears to be building energy within a narrow equilibrium zone, awaiting a directional catalyst.\n\nFrom an indicator perspective, the SMA(20) at 0.80883 is closely aligned with the current price, reinforcing a neutral short-term trend with slight bullish undertones. MACD is marginally positive at 0.00025, suggesting weak but persistent upward momentum. However, the absence of RSI limits overbought or oversold confirmation. Overall, momentum signals point to a balanced market with a slight upward tilt rather than a strong directional trend.\n\nKey support is established at 0.8078, marking the recent session low and immediate demand zone. A break below this level could expose downside pressure toward 0.8065, where prior consolidation likely offers additional support. On the upside, resistance is defined at 0.8091, followed by a psychological barrier near 0.8100. A sustained breakout above this range would be required to confirm bullish continuation.\n\nTrading strategy favors range-bound positioning until a breakout occurs. Buying near 0.8078 with tight risk control below 0.8075 may offer favorable reward within the range. Alternatively, a breakout trade above 0.8091 could target 0.8100 and beyond, provided momentum expands. Until then, traders should prioritize mean-reversion setups and avoid chasing price in the middle of the range."
+    }
+  }
+}

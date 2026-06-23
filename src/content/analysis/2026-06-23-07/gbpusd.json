@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-06-23T07:40:26.353Z",
+  "price": {
+    "close": "1.32343",
+    "high": "1.32491",
+    "low": "1.32319",
+    "open": "1.32344",
+    "change": "0.00",
+    "datetime": "2026-06-23 17:00:00"
+  },
+  "indicators": {
+    "rsi": 47.30421,
+    "macd": 0.00020209355,
+    "macd_signal": 0.00043449029,
+    "sma20": 1.32462
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：短线震荡偏弱整理格局",
+      "content": "当前GBP/USD整体处于短线震荡偏弱结构，价格运行在SMA20均线1.32462下方，显示上方压力仍存，反弹动能有限，整体偏向整理格局\n\nMACD指标仅小幅为正值0.0002附近，动能极弱且缺乏趋势延续信号，RSI缺失使超买超卖判断不完整，短线方向仍待确认为主导\n\n短期支撑位关注1.3230与日内低点1.32319区域，若跌破或下探更低区间；上方阻力集中在1.3249及1.3250附近，突破需放量确认\n\n建议以区间交易为主，靠近1.3248-1.3250可尝试轻仓做空，回落至1.3230附近可考虑短多，严格设置止损以控制震荡风险"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "GBP/USD is trading in a tight consolidation phase around 1.3234, reflecting a lack of directional momentum in the short term. Price action remains compressed near recent lows, suggesting the market is balancing after a minor pullback from the 1.3249 intraday high. Overall structure is slightly bearish in the very short term, as the pair struggles to reclaim the 1.3246 moving average zone.\n\nThe 20-period simple moving average at 1.32462 acts as immediate dynamic resistance, with price trading just below it, reinforcing a mild bearish bias. MACD is marginally positive at 0.000202, indicating weakening downward pressure but not yet confirming bullish reversal. With RSI unavailable, momentum signals remain incomplete, so traders should rely more heavily on price structure and moving average behavior for confirmation.\n\nImmediate support is seen at 1.32319–1.32300, aligning with the session low and psychological intraday floor for short-term positioning. A break below this zone could expose 1.3225 as the next downside target with bearish continuation pressure. On the upside, resistance sits at 1.3246 SMA20, followed by 1.32491 recent high as a key intraday barrier. A sustained move above 1.3249 would be required to shift momentum toward 1.3260 and re-establish bullish control.\n\nGiven the current consolidation, range-trading strategies are favored between 1.3230 support and 1.3246 resistance conditions favoring mean reversion trades. Short positions may be considered near 1.3246–1.3250 with tight stops above 1.3255, targeting a return to 1.3230 in the current range environment. Alternatively, a breakout above 1.3249 could trigger momentum buys toward 1.3260 in the near term. Risk management remains essential due to low volatility and potential false breakouts especially around news spikes."
+    }
+  }
+}

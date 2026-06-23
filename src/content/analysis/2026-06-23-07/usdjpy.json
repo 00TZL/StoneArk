@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-06-23T07:41:27.789Z",
+  "price": {
+    "close": "161.52244",
+    "high": "161.67358",
+    "low": "161.41108",
+    "open": "161.67358",
+    "change": "-0.09",
+    "datetime": "2026-06-23 17:00:00"
+  },
+  "indicators": {
+    "rsi": 46.40404,
+    "macd": 0.017983082,
+    "macd_signal": 0.024367101,
+    "sma20": 161.58968
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：高位震荡偏弱整理",
+      "content": "当前美元/日元整体呈高位震荡格局，价格围绕161.50附近整理，短线方向不明，偏震荡略空结构上仍处于均线压制之下，缺乏明确突破动能\n\n技术指标方面，MACD略为金叉但动能偏弱，柱状变化有限，说明反弹力度不足RSI缺失但从价格结构看多空平衡短期方向等待确认\n\n下方支撑关注161.41日内低点及161.20区域，上方阻力在161.67与161.59均线附近区间震荡为主短线需突破确认\n\n交易策略建议以区间思路为主，接近161.60上方可轻仓试空，回落161.40附近分批做多并设置止损防止突破行情严格执行纪律"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USD/JPY is currently trading around 161.52, showing a mild intraday decline of 0.09% after failing to sustain momentum above recent highs. Price action remains broadly range-bound, with the pair consolidating near the upper end of its recent trading zone. Despite the slight pullback, the overall structure still reflects a strong bullish environment on higher timeframes, though short-term momentum is showing signs of exhaustion beneath the 161.67 peak.\n\nMACD reading at 0.0179 suggests only a marginal bullish bias, indicating momentum is flattening rather than accelerating. With the signal line not provided, interpretation remains limited, but price behavior implies weakening upside pressure after recent gains. The histogram’s minimal expansion reflects indecision, consistent with a market pausing near resistance. Traders should treat current momentum as neutral-to-slightly-positive, lacking strong directional conviction for breakout continuation.\n\nUSD/JPY faces immediate resistance at 161.67, the recent intraday high, followed by a psychological barrier at 162.00. On the downside, initial support is located at 161.41, with stronger support near 161.00 where buyers previously stepped in. The narrow trading range indicates compression, suggesting a potential breakout or rejection. Price is currently balanced between these levels, awaiting a catalyst for directional expansion.\n\nGiven the current consolidation phase, a range-trading strategy is preferred. Traders may consider buying near 161.40–161.00 support zones with tight stops below 160.80, targeting a rebound toward 161.67 and potentially 162.00. Alternatively, short positions can be considered near resistance if rejection signals appear. Risk management is crucial, as breakout volatility could quickly invalidate range assumptions in either direction. Position sizing should remain conservative given compressed volatility conditions."
+    }
+  }
+}

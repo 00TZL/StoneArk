@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-06-23T07:42:20.929Z",
+  "price": {
+    "close": "0.69525",
+    "high": "0.69627",
+    "low": "0.69522",
+    "open": "0.6954",
+    "change": "-0.02",
+    "datetime": "2026-06-23 17:00:00"
+  },
+  "indicators": {
+    "rsi": 18.65738,
+    "macd": -0.0012049253,
+    "macd_signal": -0.00076890108,
+    "sma20": 0.698941
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：短线震荡偏弱整理",
+      "content": "当前澳元/美元维持窄幅震荡偏弱格局，价格运行在0.695附近，短线多头动能不足，整体受制于0.698一线均线压制，市场仍以整理为主。\n\n技术指标方面，MACD处于负值区间且动能柱延续走弱，显示空头占优。价格持续低于SMA20均线0.6989，均线系统呈压制状态，反弹力度有限。\n\n支撑关注0.6950与0.6940区间，下方若失守或打开进一步下行空间。上方阻力位于0.6963与0.6980，突破前需成交量配合确认。\n\n交易策略上建议保持高抛低吸思路，未有效突破0.698前以反弹做空为主，控制仓位并设置止损于关键阻力上方，防止假突破风险。。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "AUD/USD is currently trading with a mild bearish bias as price action remains pinned near the session low at 0.69525. The pair continues to struggle below the 20-period SMA at 0.69894, indicating that short-term momentum has shifted downward. Despite the lack of strong volatility, the inability to reclaim higher levels suggests sellers are gradually maintaining control, keeping the broader intraday structure tilted toward a corrective-to-bearish phase.\n\nFrom an indicator perspective, the MACD reading at -0.0012 reinforces weakening momentum, with the histogram likely remaining in negative territory even though a full signal line is not available. The absence of RSI limits precision, but price behavior below key moving averages typically aligns with subdued bullish strength. Overall momentum indicators suggest consolidation within a downward drift rather than an aggressive sell-off, reflecting cautious bearish sentiment.\n\nKey support is forming around 0.6950, which is being tested repeatedly and may act as a short-term floor. A sustained break below this level opens the path toward 0.6940 and potentially 0.6925 as the next downside extensions. On the upside, initial resistance sits at 0.6975, followed by stronger supply near the 20-SMA at 0.6989 and the psychological 0.7000 level, where sellers are likely to re-emerge.\n\nTrading conditions favor a cautious bearish or range-trading approach. Short positions may be considered on rejection near 0.6975–0.6990 with confirmation from price action signals, while stop losses above 0.7000 help manage risk. Alternatively, aggressive buyers may look for a rebound from 0.6950 support, but upside should be treated as corrective unless price reclaims the 20-SMA with conviction and sustained momentum."
+    }
+  }
+}

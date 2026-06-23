@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-06-23T07:46:10.823Z",
+  "price": {
+    "close": "4105.57476",
+    "high": "4126.99321",
+    "low": "4105.09528",
+    "open": "4116.51058",
+    "change": "-0.25",
+    "datetime": "2026-06-23 17:00:00"
+  },
+  "indicators": {
+    "rsi": 20.96798,
+    "macd": -16.78955,
+    "macd_signal": -7.084311,
+    "sma20": 4170.56062
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：弱势震荡偏空格局",
+      "content": "黄金/美元当前处于均线下方弱势震荡结构，价格跌破20日均线4170后持续承压，短线反弹动能有限，整体偏空运行，市场情绪趋于谨慎。\n\nMACD维持负值且动能柱走弱，显示空头动能占优；RSI缺失但结合价格贴近日内低点，短期存在超卖修复需求，但尚未出现明确反转信号。\n\n下方关键支撑位在4100整数关口，若有效跌破或进一步指向4080区域；上方阻力首先看4126日内高点，其次4170均线附近压力较强。\n\n操作上建议以反弹做空为主，等待4100附近企稳确认或反弹至4120-4170区间分批布局空单，同时严格设置止损以控制波动风险。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold vs US Dollar (XAU/USD) is currently showing a short-term bearish bias as price trades below the 20-period SMA at 4170.56. The market remains under pressure after failing to sustain levels above 4126, forming a lower-high structure and consolidating near the session low. With price hovering around 4105, momentum suggests sellers are gradually maintaining control in the intraday timeframe.\n\nFrom an indicator perspective, MACD is firmly negative at -16.79, confirming downside momentum, while the lack of RSI data limits overbought/oversold clarity. However, price action relative to the SMA(20) indicates sustained weakness, as the market continues to reject attempts to reclaim the moving average. This alignment typically signals continuation risk rather than reversal in the immediate term.\n\nKey support is located at the psychological 4100 level, followed by a deeper zone around 4080, where buyers may attempt to stabilize price. On the upside, immediate resistance sits at 4126, aligned with the recent high, while stronger resistance remains at the SMA(20) near 4170. A break above this moving average would be required to neutralize current bearish pressure.\n\nFor trading strategy, short positions remain favored while price holds below 4126, with tight risk management above this resistance level. Intraday traders may consider selling rallies toward 4120–4126, targeting a retest of 4100 and potentially 4080. Conversely, a decisive breakout above 4170 would shift bias toward recovery and invalidate the current bearish continuation setup."
+    }
+  }
+}
