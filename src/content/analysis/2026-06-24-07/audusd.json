@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-06-24T07:35:09.738Z",
+  "price": {
+    "close": "0.6905",
+    "high": "0.69062",
+    "low": "0.69029",
+    "open": "0.6906",
+    "change": "-0.02",
+    "datetime": "2026-06-24 17:00:00"
+  },
+  "indicators": {
+    "rsi": 29.029072,
+    "macd": -0.0014118683,
+    "macd_signal": -0.0015723574,
+    "sma20": 0.691665
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：震荡偏弱整理态势",
+      "content": "当前AUD/USD在0.6905附近窄幅整理，整体仍受短期均线压制，价格重心略微下移，市场处于弱势震荡格局，反弹动能有限。\n\nMACD指标维持负值，动能柱偏弱，显示空头压力仍在延续。价格位于SMA20下方，短期均线呈压制状态，反弹易受阻。需关注进一步下行风险。\n\n上方阻力关注0.6916及0.6920区域，若无法突破SMA20则反弹空间受限；下方初步支撑位于0.6895，进一步支撑0.6880附近。\n\n短线建议以区间交易为主，未突破0.6920前避免追多，回落至0.6895附近可观察企稳信号，严格控制止损，为主策略更稳健。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "AUD/USD is currently trading around 0.6905, showing a mild intraday bearish bias within a tight consolidation range. Price action remains compressed near recent lows, suggesting market indecision after prior directional moves. The inability to reclaim the 0.6915–0.6920 zone indicates short-term selling pressure. Overall structure leans slightly bearish while still lacking strong momentum for a decisive breakdown, keeping the pair in a fragile sideways-to-downward drift with traders awaiting clearer catalyst from US data.\n\nIndicators show mixed but weakening momentum. MACD remains in negative territory at -0.0014, signaling persistent bearish pressure and limited bullish crossover potential in the short term. With RSI unavailable, momentum confirmation is incomplete, but price trading below the 20-day SMA at 0.6917 reinforces downside bias. The moving average now acts as dynamic resistance, suggesting rallies may face selling interest unless momentum improves decisively upward. Overall structure remains slightly bearish in near term.\n\nSupport and resistance levels are tightly clustered due to low volatility. Immediate support is seen near 0.6900, a psychological level that has repeatedly attracted short-term buyers. A break below this zone could expose 0.6885 as the next downside target. On the upside, initial resistance sits at 0.6917 aligned with the 20-day SMA, followed by 0.6930 as a stronger barrier limiting recovery attempts. Range breakout will likely define short-term direction.\n\nTrading strategy favors a cautious, range-trading approach given the lack of strong directional momentum. Short positions may be considered on rallies toward 0.6915–0.6920 with tight risk controls above 0.6930. Conversely, long setups could emerge near 0.6900 support if rejection signals appear. Until a clear breakout occurs, traders should prioritize flexibility and avoid overexposure in this low-volatility environment. Volatility expansion would confirm stronger trend formation."
+    }
+  }
+}

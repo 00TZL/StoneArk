@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-06-24T07:39:08.914Z",
+  "price": {
+    "close": "4078.41132",
+    "high": "4090.67227",
+    "low": "4077.9515",
+    "open": "4086.7437",
+    "change": "-0.19",
+    "datetime": "2026-06-24 17:00:00"
+  },
+  "indicators": {
+    "rsi": 35.49234,
+    "macd": -18.62045,
+    "macd_signal": -17.96261,
+    "sma20": 4102.77033
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：弱势震荡偏空延续",
+      "content": "黄金/美元短线呈弱势震荡偏空结构，价格持续运行于4100下方，反弹动能不足，整体仍受压制，空头略占优势，但下方支撑未破，行情进入整理下行阶段  \n\n技术指标方面，价格低于20日均线4102，短期均线压制明显，MACD维持负值扩散，动能柱偏弱，RSI缺失但结合价格结构显示超卖修复有限，反弹缺乏量能支撑  \n\n关键支撑位位于4075至4070区域，若跌破或将测试4060附近；上方阻力集中在4090及4103一线，突破后才有望重启反弹，当前区间震荡为主  \n\n操作建议以反弹做空为主，激进可在4090附近试空，稳健等待4100上方确认失败再介入，下方目标4070及更低支撑，严格设置止损控制风险"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "XAU/USD is trading around 4078, showing a mild bearish bias after slipping -0.19% over the last 24 hours. Price action remains capped below the 20-period SMA at 4102.77, indicating that short-term momentum is still skewed to the downside. However, the narrow intraday range between 4077.95 and 4090.67 suggests consolidation near support rather than a decisive breakdown, reflecting indecision in current market sentiment.\n\nMomentum indicators reinforce a cautious outlook, with MACD at -18.62045 signaling persistent bearish pressure. Although the signal line is not provided, the negative histogram implies weakening upside strength and a lack of bullish follow-through. With RSI unavailable, price behavior relative to the moving average becomes more important, and trading below SMA20 continues to favor sellers in the short term bias remains intact.\n\nKey support levels are emerging at 4075, aligning closely with the session low of 4077.95. A break lower could expose 4060 and then 4040 as the next downside targets. On the upside, immediate resistance is seen at 4090, followed by the 20-SMA at 4102.77, which remains a critical pivot. A stronger barrier sits near 4120–4130, where previous supply has limited advances.\n\nFrom a trading perspective, the market favors range-bound strategies while price remains below the 20-SMA. Selling into resistance near 4090–4103 may offer favorable risk-reward setups, especially with confirmation of momentum weakness. Alternatively, aggressive traders may consider buying dips toward 4075–4060 with tight stops, though downside breakouts could accelerate volatility toward lower support zones quickly in the current environment as conditions evolve with disciplined risk management applied."
+    }
+  }
+}

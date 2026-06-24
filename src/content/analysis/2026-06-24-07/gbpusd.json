@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-06-24T07:33:15.952Z",
+  "price": {
+    "close": "1.31913",
+    "high": "1.31918",
+    "low": "1.31803",
+    "open": "1.31862",
+    "change": "0.04",
+    "datetime": "2026-06-24 17:00:00"
+  },
+  "indicators": {
+    "rsi": 41.013867,
+    "macd": -0.00078767821,
+    "macd_signal": -0.0008340631,
+    "sma20": 1.31973
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：窄幅震荡偏弱整理",
+      "content": "英镑/美元当前处于极窄幅震荡结构，最新价略低于20日均线1.31973附近，短线多空拉锯明显，价格围绕区间上沿反复争夺，整体趋势偏整理。\n\n技术指标方面，MACD处于零轴下方并维持轻微负值，动能偏空但力度有限，RSI暂缺但从价格结构看未见明显超买超卖信号。\n\n支撑位关注1.3180与1.3175一带，若失守可能延伸回落；上方阻力位在1.3197及1.3205附近，突破前仍以震荡对待。\n\n交易策略建议以区间思路为主，高抛低吸为宜，未有效突破前避免追单，跌破支撑可轻仓试空，突破阻力再顺势跟多。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "GBP/USD is trading around 1.31913, showing a muted intraday advance of 0.04% but remaining largely range-bound. Price action continues to hover just below the 20-period SMA at 1.31973, indicating a lack of strong bullish momentum. The broader structure reflects consolidation after recent swings, with neither buyers nor sellers gaining decisive control. Short-term bias leans slightly neutral to mildly bearish due to repeated failures to sustain moves above moving average resistance.\n\nMomentum indicators reinforce this cautious tone. The MACD reading at -0.000787 suggests weakening bullish momentum and a subtle bearish shift in short-term pressure. Without RSI data, price action becomes the primary guide, and current candles show compressed volatility. This environment typically signals indecision, where breakout attempts require strong volume confirmation. Until MACD begins to flatten and reverse higher, upside continuation remains technically constrained.\n\nImmediate resistance is located at 1.31970, aligned with the SMA20, followed by a stronger barrier around 1.32150 where prior intraday rejections have occurred. A sustained break above this zone could open the path toward 1.32500. On the downside, initial support sits at 1.31800, the session low, with further cushioning near 1.31600. A decisive break below these levels would likely accelerate bearish momentum and shift sentiment lower.\n\nTrading conditions favor range-bound strategies rather than aggressive trend following. Selling near 1.3197–1.3215 with tight risk control above 1.3225 may offer favorable setups if resistance holds. Alternatively, long positions are more suitable near 1.3180 support, ideally confirmed by rejection wicks or bullish engulfing signals. Traders should remain cautious of false breakouts and wait for clearer MACD alignment or a structural break before committing to directional bias."
+    }
+  }
+}

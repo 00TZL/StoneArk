@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-06-24T07:38:10.162Z",
+  "price": {
+    "close": "0.81148",
+    "high": "0.81183",
+    "low": "0.81124",
+    "open": "0.81161",
+    "change": "-0.02",
+    "datetime": "2026-06-24 17:00:00"
+  },
+  "indicators": {
+    "rsi": 66.8703,
+    "macd": 0.00052298457,
+    "macd_signal": 0.00038490829,
+    "sma20": 0.810101
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：窄幅震荡偏强整理格局",
+      "content": "美元/瑞郎整体呈现窄幅震荡偏强结构，价格围绕0.811附近整理，短线多空均衡，但略有上行倾向，缺乏趋势突破动能较弱。\n\nMACD指标维持微弱正值，动能柱略有扩张，显示短线多头占优但力度有限。价格运行于SMA20上方，均线支撑有效，趋势确认仍需放量。\n\n下方支撑关注0.8100与0.8085区域，若跌破可能回测更低震荡区间。上方阻力集中在0.8120及0.8150附近，突破需成交量配合。\n\n交易策略建议以区间思路为主，短线高抛低吸，靠近支撑分批做多，接近阻力逐步减仓。若跌破支撑需及时止损，控制风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "USD/CHF is currently in a narrow consolidation phase around 0.8115 after a prolonged period of subdued volatility. Price action remains slightly above the 20-period SMA at 0.8101, which signals a modest bullish bias, though momentum is not strong enough to confirm a sustained trend. The 24-hour trading range remains extremely compressed between 0.81124 and 0.81183, reflecting market indecision and low participation. Overall structure suggests a neutral-to-slightly-positive tone with a potential breakout setup forming.\n\nMomentum indicators present a cautiously constructive but weak signal. MACD is marginally positive at 0.00052, indicating a slight upward drift in momentum, though the absence of a clear signal line reading limits confirmation. Without RSI data, overbought or oversold conditions cannot be assessed, increasing reliance on price structure and moving averages. The market appears to be coiling, with volatility contraction suggesting an eventual expansion phase, though directional bias remains unconfirmed.\n\nImmediate support is located at the 20-period SMA near 0.8101, which is currently acting as the key intraday pivot. A break below this level could expose downside pressure toward 0.8085, where minor historical congestion may provide temporary support. On the upside, resistance is clearly defined at the recent high of 0.81183, with a potential extension toward 0.8130 if buyers manage a clean breakout. Price is effectively trapped in a tight equilibrium zone between these boundaries.\n\nTrading strategy should remain range-focused with a breakout contingency plan. Long positions may be considered near 0.8100 with tight stops below 0.8085, targeting a retest of 0.8118 and potentially 0.8130 on continuation. Alternatively, traders may wait for a confirmed breakout above 0.81183 before entering momentum trades. Given the compressed volatility, disciplined risk management is essential to avoid false breakouts and whipsaw movements."
+    }
+  }
+}
