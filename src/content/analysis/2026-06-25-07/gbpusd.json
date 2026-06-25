@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-06-25T07:34:24.123Z",
+  "price": {
+    "close": "1.31768",
+    "high": "1.31808",
+    "low": "1.31712",
+    "open": "1.31726",
+    "change": "0.03",
+    "datetime": "2026-06-25 17:00:00"
+  },
+  "indicators": {
+    "rsi": 52.26546,
+    "macd": -0.00018160673,
+    "macd_signal": -0.00048957056,
+    "sma20": 1.31671
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：震荡偏强整理格局",
+      "content": "当前英镑/美元维持窄幅震荡整理，价格运行在1.317附近，上方逼近日内高点，整体略偏多，但动能有限。短线偏震荡为主关注上沿突破信号\n\n技术指标方面，价格略高于SMA20均线1.31671，短期仍有支撑；MACD轻微负值，动能偏弱但未形成明确下行信号。RSI缺失，需结合价格结构判断\n\n支撑位关注1.3167及日内低点1.31712，上方阻力1.31808，区间极窄震荡明显短线关注突破方向为主信号确认中\n\n操作建议以区间短线为主，低吸靠近1.3167支撑，高抛接近1.3180压力，严格控制止损，避免追单轻仓交易更稳健等待确认信号强"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "GBP/USD is currently consolidating around 1.3177 after a very tight 24-hour range, reflecting balanced participation from both buyers and sellers. The pair is effectively moving sideways with no clear breakout yet. Despite this, price holding slightly above the 20-period SMA at 1.3167 indicates a mild underlying bullish bias. However, the lack of expansion in volatility suggests the market is waiting for a catalyst before committing to a directional trend.\n\nFrom a momentum perspective, the slightly negative MACD reading at -0.00018 shows that bearish pressure is present but extremely weak and losing influence. Without RSI data, price behavior becomes the primary guide, and the structure suggests equilibrium rather than trend strength. The proximity of price to the moving average reinforces a neutral-to-slightly bullish environment, where neither side has strong control, increasing the probability of continued range-bound movement in the short term.\n\nKey support is located at the 20-SMA around 1.3167, which is acting as a dynamic floor. Below that, 1.3150 serves as the next meaningful support zone, aligned with psychological interest and recent intraday lows. On the upside, immediate resistance is found at 1.3181, the recent high, followed by 1.3200 as the next major psychological barrier. A breakout beyond this tight structure could trigger a sharper directional move.\n\nFor trading approaches, range strategies remain favorable under current conditions. Long positions near 1.3165–1.3170 can be considered with protective stops below 1.3150, aiming for a rebound toward 1.3180. Conversely, a sustained break above 1.3181 may signal bullish continuation toward 1.3200. A downside break below 1.3150 would weaken the structure and expose 1.3125. Given the compressed volatility, disciplined risk control and smaller position sizing are essential."
+    }
+  }
+}

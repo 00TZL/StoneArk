@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-06-25T07:36:26.992Z",
+  "price": {
+    "close": "0.68963",
+    "high": "0.68966",
+    "low": "0.68881",
+    "open": "0.68895",
+    "change": "0.09",
+    "datetime": "2026-06-25 17:00:00"
+  },
+  "indicators": {
+    "rsi": 46.78293,
+    "macd": -0.00045677473,
+    "macd_signal": -0.00060899651,
+    "sma20": 0.6894975
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：震荡偏强整理",
+      "content": "当前澳元/美元维持窄幅震荡偏强格局，价格运行在0.6896附近，多空拉锯明显但整体重心略有上移，短线仍以整理为主，尚未形成明确单边趋势。\n\n均线方面，价格略站上SMA20的0.6895一线，显示短期支撑有效，但MACD仍为负值且动能偏弱，提示反弹过程中仍存在回撤压力。\n\n下方支撑关注0.6888及0.6885区域，若失守或回落加深；上方阻力位于0.6897与0.6905，突破需放量确认，才能打开上行空间。\n\n交易策略建议以区间思路为主，靠近0.6888-0.6890轻仓试多，接近0.6900以上分批止盈，跌破0.6885严格止损，控制风险为先。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "AUD/USD is trading in a tight consolidation phase after a modest 24-hour gain of 0.09%. Price action remains compressed near 0.6896, indicating equilibrium between buyers and sellers. The broader intraday structure suggests a neutral-to-slightly bullish bias, as the pair holds above recent session lows. However, upside momentum remains limited, with repeated rejections near the 0.6897 area. Market participants continue to await a decisive breakout.\n\nTechnical indicators present a mixed but slightly cautious outlook for AUD/USD. The MACD reading at -0.00046 suggests mild bearish momentum, although the histogram remains subdued and lacks strong directional conviction. The 20-period SMA at 0.68950 acts as a short-term pivot, with price currently hovering just above it, reinforcing a neutral bias. Absence of RSI data limits overbought/oversold confirmation, leaving momentum assessment partially incomplete.\n\nKey price levels are tightly clustered due to the current low-volatility environment. Immediate resistance is seen at 0.68966, followed by psychological resistance near 0.6900, which remains the primary upside barrier. On the downside, initial support lies at 0.68881, with stronger support around 0.6880 where buyers previously defended the range. A break outside this narrow band could trigger sharper directional movement.\n\nGiven the current consolidation, a range-trading approach is favored over trend-following strategies. Traders may consider buying near support around 0.6888 while taking profits near 0.6897–0.6900 resistance. Alternatively, a breakout strategy can be employed if price closes decisively above 0.6900 or below 0.6880, signaling expansion in volatility. Risk management remains essential due to the pair’s extremely tight trading range and potential for sudden liquidity-driven moves."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-06-25T07:40:22.087Z",
+  "price": {
+    "close": "3981.85804",
+    "high": "3989.4678",
+    "low": "3973.6152",
+    "open": "3977.62244",
+    "change": "0.13",
+    "datetime": "2026-06-25 17:00:00"
+  },
+  "indicators": {
+    "rsi": 38.4347,
+    "macd": -21.52226,
+    "macd_signal": -24.48334,
+    "sma20": 3994.12237
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：震荡偏弱整理",
+      "content": "当前黄金/美元在3980附近震荡运行，价格略低于20日均线，短线结构呈现偏弱状态。整体仍处于高位整理区间，高低点逐步收敛，说明多空力量暂时平衡，但下行动能略占优势。\n\n从指标来看，MACD位于零轴下方且动能柱延续负值，空头动能仍在释放。均线系统显示价格受20日均线压制明显，短期反弹缺乏持续性，RSI虽未给出但结合走势判断偏弱震荡。\n\n支撑方面，下方关注3973一线短期低点，若失守可能进一步回撤至3950区域。上方阻力集中在3994及4000整数关口，只有有效突破均线压制才可能重启上行趋势。\n\n交易策略上建议维持区间思路，高抛低吸为主。靠近3973附近可轻仓试多，接近3994至4000区域分批止盈；若有效跌破支撑，则顺势跟空并严格设置止损控制风险。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold (XAU/USD) is trading at 3981.86, hovering just below the 20-period SMA at 3994.12, indicating a mild bearish bias in the short term. Price action remains range-bound between 3973 and 3989, suggesting consolidation after recent volatility. The failure to sustain levels above 3990 reflects weakening bullish momentum, while the broader structure still lacks a decisive breakout, keeping traders cautious near upper resistance zones.\n\nMACD reading at -21.52 reinforces bearish momentum, showing that downside pressure is gradually outweighing bullish attempts. With RSI unavailable, price action becomes more important, and recent candles suggest reduced buying strength near resistance. The narrow intraday range also signals declining volatility, often preceding a breakout or continuation move. Until momentum improves, upside rallies may face selling pressure near key technical levels.\n\nImmediate resistance is located at 3994.12 (20 SMA), followed by 4010 and 4025 as stronger upside barriers. On the downside, initial support lies at 3973.61, the session low, with further support at 3958 and 3940. A sustained break below 3970 would likely accelerate bearish continuation, while reclaiming 4000 would shift bias back toward bullish recovery and potential trend reversal attempts.\n\nTrading strategies favor selling into resistance zones around 3990–4000 with tight risk controls, targeting a pullback toward 3975 and 3958. Alternatively, aggressive traders may consider buying dips near 3970 support, but confirmation is required. A breakout above 4000 would invalidate near-term bearish bias, opening room toward 4025. Risk management remains essential due to compressed volatility and potential sharp breakout conditions."
+    }
+  }
+}

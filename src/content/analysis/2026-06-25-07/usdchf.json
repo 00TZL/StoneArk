@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-06-25T07:39:31.487Z",
+  "price": {
+    "close": "0.8117",
+    "high": "0.81265",
+    "low": "0.81148",
+    "open": "0.81208",
+    "change": "-0.04",
+    "datetime": "2026-06-25 17:00:00"
+  },
+  "indicators": {
+    "rsi": 49.47049,
+    "macd": 0.000093930403,
+    "macd_signal": 0.00026844972,
+    "sma20": 0.81225
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：窄幅震荡偏弱整理格局",
+      "content": "美元/瑞郎短线维持窄幅震荡偏弱结构，价格持续受制于0.8120一线下方运行，整体走势略显承压。当前汇价反复测试低位区间，未能有效脱离整理平台，说明多空方向仍在博弈，市场缺乏单边动能。\n\n技术指标方面，MACD虽维持微弱正值，但动能柱极其有限，缺乏趋势放大迹象，尚未形成有效金叉延续。结合均线系统来看，价格持续运行在20日均线下方，短期均线压制明显，反弹持续性不足。\n\n支撑位关注0.8115近期低点，一旦失守可能进一步下探0.8100整数关口寻求流动性支撑。上方阻力集中在0.8123至0.8126区域，该区间同时对应日内高点与均线压制带，突破难度较大。\n\n交易策略上建议维持区间偏空思路，高位承压可尝试轻仓做空，等待反弹至0.8123附近出现滞涨信号介入更优。若有效跌破0.8115，可考虑顺势跟进空单，但需严格控制止损在0.8128上方。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "USD/CHF is currently exhibiting a mild bearish consolidation phase following a gradual loss of upward momentum. Price action is confined within a narrow intraday range around 0.8115–0.8126, suggesting indecision and reduced volatility. The broader structure leans slightly lower as repeated failures to sustain gains above 0.8125 indicate weakening bullish pressure and a developing short-term downside bias. Market participants appear cautious ahead of fresh directional catalysts from US yield expectations.\n\nUSD/CHF indicators show mixed but slightly bearish-to-neutral signals. The MACD reading remains marginally positive at 0.00009393, yet it lacks meaningful divergence, suggesting momentum is effectively flat. With SMA(20) at 0.81225 sitting above current price, short-term trend pressure is mildly negative. Absence of RSI limits overbought/oversold clarity, reinforcing a consolidation regime rather than a directional breakout setup. Overall momentum suggests traders should avoid aggressive positioning until confirmation emerges.\n\nSupport and resistance levels remain tightly compressed, reflecting the ongoing equilibrium between buyers and sellers. Immediate support is located at 0.8110, followed by a psychological floor near 0.8100, where buyers may attempt to defend the downside. On the upside, initial resistance aligns with the SMA(20) at 0.81225, with stronger barriers near 0.8135 potentially capping recovery attempts in the near term.\n\nTrading strategy favors a cautious, range-bound approach until a decisive breakout occurs. Short positions may be considered on rallies toward 0.8122–0.8130 with protective stops above 0.8140 to manage upside risk. Alternatively, intraday scalping within the established range may be more effective given low volatility conditions. A sustained break below 0.8100 would be required to confirm a stronger bearish continuation. Risk management remains essential as liquidity can thin during US session transitions."
+    }
+  }
+}
