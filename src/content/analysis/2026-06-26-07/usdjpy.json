@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-06-26T07:44:27.661Z",
+  "price": {
+    "close": "161.6349",
+    "high": "161.73103",
+    "low": "161.62509",
+    "open": "161.72156",
+    "change": "-0.05",
+    "datetime": "2026-06-26 17:00:00"
+  },
+  "indicators": {
+    "rsi": 41.94609,
+    "macd": -0.029192881,
+    "macd_signal": -0.0097940028,
+    "sma20": 161.74179
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：短线偏弱震荡，关注均线压制",
+      "content": "美元/日元当前维持高位震荡偏弱格局，最新报价161.6349，略低于20日均线161.7418，说明短线多头动能有所减弱。24小时跌幅仅0.05%，价格波动区间较窄，市场仍处于等待方向选择阶段，趋势暂未形成明显突破。\n\n从技术指标观察，MACD数值为-0.0292，处于零轴附近偏弱区域，显示短线动能略偏空，但空头优势并不明显。RSI数据暂时缺失，因此难以进一步确认市场是否进入超买或超卖状态，后续仍需结合成交动能进行验证。\n\n关键位置方面，下方首先关注161.6250附近支撑，该位置若失守，可能进一步测试161.5000区域。上方阻力首先位于20日均线161.7400附近，若有效突破并站稳，则有望重新挑战161.9000至162.0000整数关口，打开新的上涨空间。\n\n交易策略上，建议以区间交易思路为主，激进投资者可等待价格突破161.7400后顺势跟进多单，或跌破161.6250后考虑短线做空。当前方向尚未明确，不宜盲目追涨杀跌，应严格设置止损，并密切关注后续技术指标与价格共振信号。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USD/JPY is currently trading around 161.63, slightly below the 20-period SMA at 161.74, indicating a mild short-term bearish bias within a broader consolidation phase. Price action has tightened significantly, with recent movement confined between 161.62 and 161.73, suggesting market indecision. While the higher timeframe structure likely remains bullish, momentum has clearly cooled, and buyers are no longer driving sustained breakouts.\n\nMACD is slightly negative at -0.029, reflecting weakening bullish momentum and a gradual shift toward bearish pressure. With no RSI reading available, momentum confirmation is limited, but price trading under the SMA suggests short-term sellers have a slight edge. However, the shallow MACD reading indicates this is not a strong reversal signal, more consistent with corrective consolidation rather than aggressive downside expansion.\n\nImmediate support is located at 161.62, the current intraday low, followed by a deeper support zone near 161.50 and then 161.20 where previous consolidation occurred. On the upside, initial resistance sits at 161.74 aligned with the SMA20, with stronger resistance at 162.00 and then 162.30 where prior rejection zones may attract profit-taking and renewed selling interest, market remains range-bound in near term.\n\nTraders may consider a range-bound strategy while price remains compressed, favoring short-term buys near support around 161.50–161.62 with tight stops below 161.20 or selling rallies toward 161.74–162.00 resistance. Breakout confirmation above 162.00 would signal renewed bullish momentum while a decisive break below 161.50 could open the door to a deeper corrective phase toward 161.20 in the short term."
+    }
+  }
+}

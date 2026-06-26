@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-06-26T07:48:14.037Z",
+  "price": {
+    "close": "0.80819",
+    "high": "0.80951",
+    "low": "0.80807",
+    "open": "0.809",
+    "change": "-0.09",
+    "datetime": "2026-06-26 17:00:00"
+  },
+  "indicators": {
+    "rsi": 35.9655,
+    "macd": -0.00064217481,
+    "macd_signal": -0.00047973961,
+    "sma20": 0.8099445
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：短期弱势震荡偏空",
+      "content": "当前USD/CHF维持在0.808附近窄幅整理，整体结构偏弱，价格持续运行于20日均线下方，短线空头动能略占优势，但未形成明显单边趋势震荡偏弱。\n\nMACD位于零轴下方-0.00064附近，动能柱偏弱，均线系统显示价格低于SMA20（0.8099），短期反弹缺乏量能配合，趋势仍偏空压制。\n\n下方支撑位关注0.8080与0.8070区间，若失守或进一步打开下行空间；上方阻力集中于0.8095及0.8100，需突破才可能缓解弱势格局震荡延续。\n\n操作上建议维持反弹做空思路，若价格反抽至0.8095附近承压可轻仓布局空单，止损0.8105上方，目标下看0.8070一线为主策略谨慎交易结构"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "USD/CHF is trading just above the session low at 0.80819, maintaining a mildly bearish tone after slipping below the 20-period simple moving average at 0.80994. The inability to reclaim that moving average suggests sellers continue to control short-term momentum, although the narrow daily range indicates that bearish pressure remains measured rather than aggressive. Unless buyers push the pair back above the moving average, rallies may continue to attract selling interest.\n\nTechnical indicators provide a cautiously negative outlook. The available MACD reading of -0.000642 points to weakening momentum and reinforces the current downside bias, even though the signal line is unavailable for confirmation. The absence of RSI data limits the assessment of overbought or oversold conditions, so price action around key technical levels becomes especially important. Traders should therefore rely on market structure and momentum rather than oscillator extremes for confirmation.\n\nImmediate support is located near today's low at 0.80807, with a decisive break potentially opening the way toward the psychological 0.80700 area. On the upside, initial resistance appears around the 20-day SMA near 0.80994, followed by the session high at 0.80951 and then the 0.81050 region if bullish momentum strengthens. A sustained move above these barriers would weaken the current bearish structure and improve the short-term outlook.\n\nFor trading purposes, a cautious bearish approach remains preferable while the pair trades below the 20-period moving average. Short positions may offer a better risk-reward profile on failed rallies toward resistance, particularly if downside momentum accelerates. Conversely, conservative buyers may prefer to wait for a confirmed close above 0.80994 before considering long exposure. Given the relatively tight trading range, disciplined stop-loss placement and prudent position sizing remain essential to manage potential volatility."
+    }
+  }
+}

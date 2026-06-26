@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-06-26T07:43:31.134Z",
+  "price": {
+    "close": "1.3211",
+    "high": "1.32113",
+    "low": "1.31917",
+    "open": "1.3199",
+    "change": "0.09",
+    "datetime": "2026-06-26 17:00:00"
+  },
+  "indicators": {
+    "rsi": 59.77901,
+    "macd": 0.00052005887,
+    "macd_signal": 0.00041960837,
+    "sma20": 1.3197
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：震荡偏多延续上行结构",
+      "content": "当前英镑/美元维持窄幅上行震荡结构，价格运行于1.3211附近，贴近日内高点区域，短线多头占据主动，但整体上攻节奏偏缓，属于温和推升行情，尚未出现加速突破特征。\n\nMACD指标处于零轴上方并维持温和扩张，显示多头动能延续但力度有限；虽RSI未提供，但结合价格结构判断动能偏强但未进入明显超买区，短线仍有上行动能空间。\n\n下方支撑重点关注1.3197的20日均线及1.3190整数关口，该区域为短线多空分水岭；上方阻力集中在1.3220至1.3240区间，若有效突破有望打开进一步上行通道。\n\n操作上建议维持回调做多思路为主，在1.3200附近及支撑区域分批布局多单，止损可设于1.3185下方，目标依次看向1.3240及更高延伸空间，追高需控制仓位风险。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "GBP/USD is currently consolidating in a narrow range around 1.3211, maintaining a mild bullish bias following a modest 24-hour gain. Price action remains tightly compressed between 1.31917 and 1.32113, suggesting equilibrium between buyers and sellers. The pair trades slightly above the 20-day SMA at 1.31970, indicating short-term constructive structure. However, momentum remains limited, with no clear breakout yet confirmed, keeping the broader trend neutral-to-slightly bullish.\n\nMomentum indicators suggest a subdued but positive tone. The MACD reading at 0.00052 sits just above the zero line, reflecting weak bullish momentum without strong divergence. Although the signal line is not provided, price stability above the SMA supports a constructive outlook. RSI data is unavailable, but price behavior implies mid-range conditions rather than overbought territory, consistent with consolidation rather than directional acceleration.\n\nKey support is seen at the SMA20 near 1.31970, which aligns with recent intraday lows around 1.31917. A break below this zone could expose 1.31800 as the next downside target, followed by 1.31500 for deeper retracement risk. On the upside, immediate resistance is located at 1.32200, with stronger barriers at 1.32500 and 1.32800, where sellers may re-emerge in the near-term market structure.\n\nFrom a trading perspective, the pair favors range-trading strategies until a decisive breakout occurs. Long positions are preferable on dips toward 1.31970 with confirmation of support holding, targeting a move toward 1.32200 and potentially 1.32500. Conversely, failure to sustain above 1.31970 may trigger short-term selling pressure, with downside extensions toward 1.31800. Risk management remains essential due to compressed volatility conditions."
+    }
+  }
+}

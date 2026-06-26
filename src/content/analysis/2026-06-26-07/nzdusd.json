@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-06-26T07:47:16.007Z",
+  "price": {
+    "close": "0.56494",
+    "high": "0.56503",
+    "low": "0.56451",
+    "open": "0.56485",
+    "change": "0.01",
+    "datetime": "2026-06-26 17:00:00"
+  },
+  "indicators": {
+    "rsi": 54.082236,
+    "macd": -0.000058970655,
+    "macd_signal": -0.00012210572,
+    "sma20": 0.5646125
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：震荡偏多整理格局",
+      "content": "纽元/美元整体处于窄幅震荡格局，价格围绕0.5649附近运行，短线多空力量均衡但略偏多。上方若能有效突破前高区域并放量，才有望打开进一步上行空间，否则仍以区间整理为主。\n\n技术指标方面，MACD轻微为负但动能持续收敛，显示下行动能正在减弱。价格目前站稳SMA20均线之上运行，短期均线形成支撑，市场结构逐步由弱转为震荡偏强状态。\n\n下方支撑位关注0.5645及0.5642区域，上方阻力位在0.5650与0.5653附近。当前价格紧贴区间上沿运行，若突破前高则可能触发短线加速行情，否则维持窄幅震荡概率较大。\n\n交易策略上建议以区间操作为主，低位支撑附近可轻仓试多，高位阻力附近考虑止盈或短空。突破0.5653后再顺势跟进多单，并严格控制止损以应对假突破风险。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "NZD/USD continues to trade in an extremely tight consolidation around 0.5649, reflecting a lack of strong directional conviction. Price action remains anchored near short-term equilibrium, with repeated tests of both sides of the 0.5645–0.5650 band. The broader intraday structure suggests a neutral-to-slightly bearish bias, as upside momentum remains limited and rallies are quickly capped. Market participants appear to be waiting for a catalyst before committing to a sustained breakout.\n\nNZD/USD shows a marginally bearish short-term tone, with price hovering just above its 20-period SMA at 0.56461. This suggests the pair is trading near fair value, but struggling to build bullish extension. The MACD remains slightly negative at -0.000059, indicating weakening upside momentum. With RSI unavailable, price action becomes the primary guide, and current structure favors cautious, range-bound interpretation rather than trend expansion.\n\nImmediate support is located at 0.56451, aligning with the session low and acting as the first defensive level for buyers. A sustained break below this zone could expose deeper support near 0.5640. On the upside, resistance is seen at 0.56503, with a breakout potentially opening the door toward 0.5660. Price compression between these levels reinforces a coiling structure, often preceding volatility expansion.\n\nGiven the current range-bound structure, a mean-reversion approach is favored over trend-following strategies. Buying near support around 0.5645 may offer favorable risk-reward, provided tight stops are placed below 0.5640. Conversely, short opportunities near 0.5650 resistance can be considered if rejection signals appear. Traders should remain cautious, as low volatility conditions increase the likelihood of false breakouts and rapid reversals notably."
+    }
+  }
+}

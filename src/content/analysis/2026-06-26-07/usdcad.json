@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-06-26T07:46:20.362Z",
+  "price": {
+    "close": "1.4192",
+    "high": "1.41978",
+    "low": "1.41907",
+    "open": "1.41908",
+    "change": "0.01",
+    "datetime": "2026-06-26 17:00:00"
+  },
+  "indicators": {
+    "rsi": 40.54061,
+    "macd": -0.0007804985,
+    "macd_signal": -0.00076505253,
+    "sma20": 1.41986
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：窄幅震荡偏弱整理",
+      "content": "当前美元/加元维持极窄幅震荡，价格围绕1.4190运行，整体波动收敛，市场处于短线整理阶段，方向性不足。\n\n技术指标方面，价格运行在20日均线下方，MACD动能柱维持负值，短线空头动能略占优势，但缺乏趋势性加速。\n\n下方支撑关注1.4190与1.4185区域，上方阻力位于1.4198及1.4205附近，区间边界清晰，突破前仍以震荡对待。\n\n操作上建议采取区间思路，高位轻仓做空、低位短多为主，严格止损控制，等待有效突破后再顺势跟进。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "USD/CAD continues to trade in a tight consolidation phase around 1.4192, reflecting a lack of decisive momentum in either direction. Price action remains compressed just below the 20-period SMA at 1.41986, suggesting mild bearish pressure in the short term. The broader structure is still range-bound, with intraday volatility subdued. Market participants appear cautious ahead of fresh macro catalysts, keeping directional conviction limited and reinforcing a sideways trading environment overall.\n\nMACD indicates slightly negative momentum, reflecting weakening bullish strength. With the signal line not provided, momentum assessment remains partial but still suggests a mild downside bias in the near term. RSI is unavailable, however price hovering near the SMA implies neutral to slightly bearish conditions. Overall, momentum indicators collectively point toward consolidation with a subtle bearish undertone. Trading momentum remains weak and indecisive.\n\nImmediate support for USD/CAD is seen at 1.4190, where price has recently stabilized during intraday trading. A break below this level could expose 1.4185 as the next downside target, reinforcing the broader range structure. On the upside, resistance is located near 1.4198 at the 20-period SMA, followed by 1.4205 as a stronger barrier. These levels define a narrow trading corridor where price is likely to oscillate unless volatility expands.\n\nGiven the current lack of directional momentum, a range-trading approach is favored in the short term. Traders may consider buying near support around 1.4190 and taking profits toward 1.4198–1.4205 resistance. Alternatively, a confirmed breakdown below 1.4185 would shift bias toward a deeper corrective move. Risk management remains essential as low volatility conditions can quickly transition into breakout moves. Traders should monitor macroeconomic releases closely for volatility expansion signals."
+    }
+  }
+}

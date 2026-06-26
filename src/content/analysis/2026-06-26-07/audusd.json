@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-06-26T07:45:24.008Z",
+  "price": {
+    "close": "0.68948",
+    "high": "0.68982",
+    "low": "0.68913",
+    "open": "0.68982",
+    "change": "-0.05",
+    "datetime": "2026-06-26 17:00:00"
+  },
+  "indicators": {
+    "rsi": 46.89272,
+    "macd": -0.00029274358,
+    "macd_signal": -0.00019249422,
+    "sma20": 0.690245
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：弱势震荡偏空格局",
+      "content": "当前AUD/USD围绕0.689附近窄幅整理，整体运行在0.6902的20日均线下方，表明短线仍受压制。价格缺乏突破动能，结构上偏向弱势震荡，市场方向性尚未完全展开，但空头略占优势。\n\nMACD指标维持小幅负值，显示下行动能仍在但并不强烈，属于温和回落状态。RSI未给出，但结合极窄波动区间判断，多空力量接近均衡，当前行情更偏向整理蓄势阶段。\n\n下方关键支撑位于0.6891，若失守可能进一步测试0.6885区域；上方阻力集中在0.6902均线及0.6910整数关口，只有有效突破才能缓解当前偏弱结构。\n\n操作上建议以区间交易为主，靠近0.6900-0.6910区间可尝试轻仓做空，止损放在0.6912上方；回踩支撑附近可短线低吸，但需快进快出，等待方向突破确认。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "AUDUSD is trading marginally below 0.6900 at 0.68948, showing a mild intraday bearish bias after repeated failure to sustain moves above the 0.6900 handle. Price action remains compressed within a tight 24-hour range, suggesting consolidation rather than a strong directional breakout. Broader structure indicates a sideways-to-slightly-downward drift as sellers defend minor rebounds toward short-term moving averages. Market sentiment remains cautious ahead of fresh macro catalysts.\n\nAUD/USD is trading just under its 20-period SMA at 0.690245, indicating slight downside pressure and rejection near short-term equilibrium. The absence of RSI limits momentum confirmation, but price action below the SMA suggests weakening bullish momentum. MACD reading at -0.00029 reinforces a modest bearish crossover bias, implying that upside attempts are losing strength unless momentum re-accelerates above 0.6905. This keeps near-term sentiment tilted slightly negative.\n\nImmediate support sits at 0.68913, the 24-hour low, with a break exposing 0.68850 as next downside target. On the upside, initial resistance aligns with the SMA20 near 0.69025, followed by 0.69100 where sellers previously emerged. A sustained move above 0.69100 would be required to neutralize bearish pressure and reopen a path toward 0.69250. This zone remains critical for short-term direction.\n\nShort-term strategy favors range-bound trading with a bearish tilt, given price persistence below the 20-SMA. Traders may consider selling into rebounds toward 0.6905–0.6910 with protective stops above 0.6915 to limit breakout risk. Alternatively, aggressive buyers can look for reversal entries near 0.6890 support, but confirmation is required as momentum remains weak and prone to further downside extension. Risk management remains essential in current low-volatility conditions."
+    }
+  }
+}

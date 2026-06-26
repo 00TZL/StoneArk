@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-06-26T07:49:12.361Z",
+  "price": {
+    "close": "4030.82152",
+    "high": "4040.40404",
+    "low": "4027.22403",
+    "open": "4031.45691",
+    "change": "-0.03",
+    "datetime": "2026-06-26 17:00:00"
+  },
+  "indicators": {
+    "rsi": 55.12922,
+    "macd": 1.32677,
+    "macd_signal": 0.035156019,
+    "sma20": 4020.48262
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：震荡整理偏多",
+      "content": "当前黄金/美元维持高位震荡整理格局，价格徘徊于4030附近，短线动能略显放缓，但整体仍未跌破关键均线支撑，市场进入盘整阶段。\n\n指标方面RSI暂缺，但MACD显示1.32677仍为正值，动能略有衰减迹象，均线系统价格站上SMA20，短期多头结构尚未破坏。\n\n下方支撑关注4020一线SMA20，其次4000整数关口；上方阻力在4040前高，突破后或上看4055至4060区域震荡。\n\n操作上建议以回调做多为主，依托4020附近分批布局，跌破4000止损；若放量突破4040则顺势追多，未破前以区间交易为主震荡。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "XAU/USD is currently trading in a tight consolidation phase around 4030 after a mild 24-hour decline of 0.03%. The broader short-term trend remains cautiously bullish as price holds above the 20-period SMA at 4020.48. However, momentum has slowed, with repeated failures to sustain moves above 4040 suggesting overhead supply. Market structure indicates a potential equilibrium phase before a directional breakout, likely driven by upcoming macroeconomic catalysts.\n\nTechnical indicators present a mixed but constructive picture. MACD at 1.32677 suggests positive momentum in the short term, though absence of a clear signal line reading limits confirmation of trend strength. RSI is unavailable, but price action above the 20-SMA indicates underlying support. Overall momentum appears neutral-to-bullish, with diminishing upside velocity hinting at consolidation rather than a sustained breakout continuation phase.\n\nImmediate support is seen at the 4020.48 level aligned with the 20-period SMA, followed by stronger structural support near 4010 and the recent intraday low at 4027.22 acting as a minor pivot. On the upside, resistance is concentrated around 4040.40, which has repeatedly capped price advances. A sustained break above this zone could open the path toward 4055 and 4070 in the near term.\n\nFrom a trading perspective, the structure favors a buy-the-dip approach while price remains above the 20-SMA support. Long positions can be considered on pullbacks toward 4020–4015 with protective stops below 4010 to manage downside risk. Profit targets are set at 4040 initially, with extension toward 4055 and 4070 on breakout confirmation. Conversely, failure to reclaim 4040 may invite short-term corrective selling pressure."
+    }
+  }
+}
