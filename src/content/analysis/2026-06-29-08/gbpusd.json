@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-06-29T08:51:10.777Z",
+  "price": {
+    "close": "1.32065",
+    "high": "1.32168",
+    "low": "1.32052",
+    "open": "1.32153",
+    "change": "-0.06",
+    "datetime": "2026-06-29 18:00:00"
+  },
+  "indicators": {
+    "rsi": 52.15419,
+    "macd": 0.00033702117,
+    "macd_signal": 0.00019252026,
+    "sma20": 1.3202
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：震荡偏多格局延续",
+      "content": "当前英镑/美元处于窄幅震荡整理结构，价格围绕1.3205一线波动，短线动能偏中性略多头，整体仍未脱离近期盘整区间，趋势呈弱上行倾向。\n\n技术指标方面，价格略高于SMA20（1.32020），显示短期均线支撑有效；MACD为微弱正值，动能柱有限，缺乏明显放量信号，RSI缺失使超买超卖判断受限。\n\n支撑位集中在1.3200与1.3190附近，若失守可能回测更低震荡区；上方阻力关注1.3217高点及1.3230区域，突破需成交量配合，否则仍以区间运行。\n\n交易策略建议以区间思路为主，靠近1.3190-1.3200区域可尝试轻仓做多，止损放在1.3185下方，上看1.3217及1.3230分批止盈，避免追涨追跌。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "GBP/USD is trading in a tight consolidation phase around 1.32065 after a mild 24-hour decline. Price action remains compressed between 1.32168 and 1.32052, indicating low volatility and indecision. Despite the slight pullback, the pair continues to hold above the 20-period SMA at 1.32020, suggesting the broader short-term structure is still mildly supportive. Overall trend bias is neutral-to-slightly bullish within a sideways range and price continues to coil ahead of potential breakout catalysts.\n\nMACD shows a small positive reading at 0.000337, indicating faint bullish momentum, though signal confirmation is absent, suggesting weak trend conviction. RSI is not available, but price behavior implies a neutral momentum regime. The lack of strong directional indicators reinforces consolidation conditions. Momentum remains fragile, with buyers and sellers largely balanced, and no decisive breakout signal currently confirmed on short-term oscillators.\n\nImmediate support is located at 1.32020, aligned with the 20-period SMA, followed closely by the session low at 1.32052. A break below this zone would expose deeper support around 1.31900. On the upside, initial resistance stands at 1.32168, with a potential extension toward 1.32250 if bullish pressure increases. Broader resistance near 1.32400 remains a key ceiling for any sustained recovery attempts.\n\nTrading conditions favor a range-bound strategy due to compressed volatility. Traders may consider buying near 1.32020–1.32050 with tight stops below 1.31900, targeting resistance at 1.32170–1.32250. Conversely, short positions can be considered on rejection near resistance levels with confirmation of bearish momentum. Breakout traders should wait for a decisive move beyond 1.32250 or below 1.31900 before committing to trend-following positions accordingly."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-06-29T08:52:58.863Z",
+  "price": {
+    "close": "0.68932",
+    "high": "0.68966",
+    "low": "0.68907",
+    "open": "0.68961",
+    "change": "-0.04",
+    "datetime": "2026-06-29 18:00:00"
+  },
+  "indicators": {
+    "rsi": 49.74126,
+    "macd": 0.000023155697,
+    "macd_signal": -0.000036609665,
+    "sma20": 0.6893
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：窄幅震荡偏弱整理",
+      "content": "当前澳元/美元处于极窄幅震荡结构，价格贴近0.6893一线运行，整体动能偏弱。短线多空拉锯明显，未形成有效突破方向，市场进入整理阶段。\n\n技术指标方面，MACD维持极微弱正值，动能信号有限，缺乏明确趋势指引。价格围绕20日均线徘徊，RSI缺失但整体偏中性，震荡特征明显。\n\n下方支撑位关注0.6890附近，若失守或进一步回测日内低点。上方阻力在0.6897一带，对应24小时高点区域，突破需放量确认。\n\n交易策略建议以区间思路为主，短线高抛低吸为宜，避免追单。若有效突破0.6897上方可顺势做多，跌破0.6890则转为偏空跟随，严格止损控制。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "AUD/USD is currently trading in a very tight consolidation band near 0.6893, showing minimal directional conviction. Price action remains compressed between the intraday high and low, indicating subdued volatility and a clear lack of strong participation from either bulls or bears. The pair is effectively oscillating around its 20-period SMA, suggesting short-term equilibrium. Overall structure remains neutral, though repeated inability to sustain upside moves hints at a mildly fragile bullish attempt.\n\nMomentum indicators present a mixed but largely indecisive picture. The MACD shows a very small positive reading, implying a faint bullish bias, but the magnitude is too weak to confirm any meaningful trend development. The near-flat histogram suggests momentum is stalling rather than building. With RSI not available, the price action relative to the SMA(20) becomes more important, and the alignment right on the average reinforces a balanced, range-bound market state.\n\nFrom a structural standpoint, immediate support is defined at the session low around 0.68907, with a break lower exposing nearby liquidity zones near 0.68880. On the upside, resistance sits at 0.68966, marking the session high and the first barrier to upside continuation. The extremely tight range signals compression, which often precedes a volatility expansion phase. Traders should closely monitor these boundaries for breakout confirmation.\n\nTrading conditions currently favor range strategies over directional positioning. Buying near support with tight risk control below 0.68880 may offer short-term opportunities, while fading moves into resistance could also be effective. Alternatively, breakout traders should wait for a decisive close beyond either boundary before committing, with upside continuation above resistance or bearish acceleration below support. Given the compressed volatility, disciplined risk management is essential."
+    }
+  }
+}

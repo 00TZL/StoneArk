@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-06-29T08:56:55.760Z",
+  "price": {
+    "close": "4052.59269",
+    "high": "4067.35541",
+    "low": "4052.35645",
+    "open": "4063.19776",
+    "change": "-0.24",
+    "datetime": "2026-06-29 18:00:00"
+  },
+  "indicators": {
+    "rsi": 36.30217,
+    "macd": -5.91787,
+    "macd_signal": -4.11528,
+    "sma20": 4071.029927
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：高位回落后的偏弱震荡格局",
+      "content": "当前黄金/美元短线呈现高位回落后的震荡偏弱结构，价格徘徊于4050上方，整体仍受4070一线均线压制，趋势动能略有转弱迹象。\n\nMACD指标持续位于零轴下方且动能柱为负，显示空头占优。价格低于20日均线4071附近，短期均线压制明显，反弹动能有限，偏弱运行。\n\n下方初步支撑关注4050整数关口，其下若失守可能指向4040及4025区域；上方阻力集中在4067高点与4071均线，突破后才有延续上行空间。\n\n交易策略建议以反弹做空为主，等待价格靠近4070-4071压力区分批布局空单，止损可设4078上方；若跌破4050则顺势追空，目标4025附近。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold vs US Dollar is currently in a short-term corrective and mildly bearish consolidation phase after failing to sustain levels above the 20-period simple moving average at 4071.03. Price action is trading at 4052.59, sitting below this dynamic resistance, signaling weakening bullish momentum. The recent intraday range between 4067.36 and 4052.36 reflects tight consolidation near the lower boundary, suggesting the market is coiling while leaning slightly downward.\n\nFrom an indicator perspective, MACD at -5.91787 confirms bearish momentum, indicating that downside pressure is currently dominant. Although RSI(14) is unavailable, the price structure suggests a neutral-to-slightly-oversold condition given the compressed range and repeated tests of intraday lows. The absence of a bullish signal line crossover reinforces the view that momentum remains fragile, with no clear reversal confirmation yet.\n\nKey support is immediately located at the psychological level of 4050, which is being tested in real time. A decisive breakdown below this zone would expose downside targets near 4040, followed by the more significant round level of 4000. On the upside, initial resistance is found at 4067, followed closely by 4071, which aligns with the SMA20 and acts as a critical trend filter. A breakout above this level would open room toward 4090–4100.\n\nTrading-wise, the preferred approach in the short term is to sell rallies into the 4067–4071 resistance zone, with protective stops above 4075 to avoid false breakouts. Profit targets can be staged at 4050 and 4040. Aggressive bullish positioning is only justified on a confirmed breakout and hold above 4071, ideally supported by momentum expansion, with upside objectives toward 4090. Risk control remains essential given the current compressed volatility."
+    }
+  }
+}

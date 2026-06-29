@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-06-29T08:50:10.837Z",
+  "price": {
+    "close": "1.13972",
+    "high": "1.14071",
+    "low": "1.13967",
+    "open": "1.14029",
+    "change": "-0.04",
+    "datetime": "2026-06-29 18:00:00"
+  },
+  "indicators": {
+    "rsi": 54.60009,
+    "macd": 0.0002578097,
+    "macd_signal": 0.000076581083,
+    "sma20": 1.13895
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：震荡偏弱整理格局延续",
+      "content": "当前EUR/USD维持高位窄幅震荡，短线略显承压但整体仍处整理结构。汇价在1.1400附近反复争夺，显示多空力量暂时均衡，尚未形成明确单边趋势，市场处于方向选择前夕。\n\n技术指标方面，MACD维持微弱正值但动能有限，暗示上涨动能趋缓。价格运行于SMA20（1.13895）上方，短期均线提供支撑，但缺乏明显扩张，趋势强度偏弱。\n\n支撑位关注1.1385及1.1360区域，一旦失守可能回踩1.1330。阻力位集中在1.1410及1.1440附近，突破需放量确认，否则仍以区间震荡为主。\n\n交易策略建议以高抛低吸为主，激进者可在1.1385上方轻仓做多，目标1.1410；若跌破1.1385则转向观望或顺势做空，控制风险优先，避免追单。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD is currently trading in a very tight consolidation near 1.1397, reflecting short-term indecision after a mild 24-hour decline of 0.04%. The broader intraday structure remains neutral-to-slightly bullish as price continues to hold above the 20-period SMA at 1.13895. However, upside momentum is limited, suggesting the market is pausing before a potential directional breakout once liquidity expands around key nearby resistance levels.\n\nMomentum indicators show a fragile bullish bias. The MACD is slightly positive at 0.0002578, indicating mild upward pressure, though the histogram remains weak and lacks confirmation from a signal line reading. With RSI unavailable, price action becomes more important, and the market’s ability to stay above the 20-SMA suggests buyers are still defending short-term trend support despite muted momentum overall.\n\nImmediate resistance is located at 1.1407–1.14071, where recent highs have repeatedly capped price advances. A sustained break above this zone could open the path toward 1.1415 and potentially 1.1430 in extension. On the downside, initial support sits at the 20-SMA near 1.13895, followed by stronger structural support around 1.1375, which would likely be tested if short-term selling pressure increases further.\n\nShort-term trading conditions favor range strategies while price remains trapped between 1.1389 support and 1.1407 resistance. Aggressive traders may consider buying near the 20-SMA with tight stops below 1.1375, targeting a retest of 1.1415. Conversely, a rejection at resistance could justify short positions toward the lower boundary. Confirmation of a breakout is required before adopting trend-following positions to avoid false signals in this low-volatility environment overall bias."
+    }
+  }
+}

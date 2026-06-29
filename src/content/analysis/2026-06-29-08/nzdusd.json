@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-06-29T08:54:57.538Z",
+  "price": {
+    "close": "0.5649",
+    "high": "0.56546",
+    "low": "0.56486",
+    "open": "0.5654",
+    "change": "-0.09",
+    "datetime": "2026-06-29 18:00:00"
+  },
+  "indicators": {
+    "rsi": 57.29288,
+    "macd": 0.00032181954,
+    "macd_signal": 0.00018613098,
+    "sma20": 0.564307
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：震荡偏多格局中的窄幅整理",
+      "content": "NZD/USD当前处于窄幅震荡偏多格局，最新价0.5649运行于日内高低0.56546/0.56486附近，波动极度收敛。整体结构仍以盘整为主，但价格维持在20日均线0.5643上方，显示短线多头略占优势。24小时小幅回落-0.09%，说明上方动能有限，市场缺乏明确突破方向，仍等待区间选择。\n\n技术指标方面，MACD柱值仅0.00032，显示多头动能仍然偏弱但略有正向延续，尚未形成强趋势。由于RSI缺失，动量确认不足，需要依赖均线与价格结构判断。当前价格紧贴均线运行，说明市场处于均衡状态，多空力量接近，短期更偏向整理蓄势而非单边行情，趋势仍待进一步强化。\n\n支撑位方面，首要支撑位于0.5643附近的20日均线，其次为0.5635区域，一旦跌破可能回测更低震荡区间。阻力位集中在0.5655短期高点，进一步上方为0.5660-0.5665区间。当前价格逼近上方阻力但未有效突破，说明上行动能仍需放量确认，否则易出现反复震荡格局延续。\n\n交易策略上建议以区间思路为主，在0.5640-0.5643区域分批低吸，止损设于0.5632下方；若反弹至0.5655附近受阻，可考虑短线高抛或反手做空。若放量突破0.5660并站稳，则趋势有望转为短多延伸。当前阶段不宜追涨杀跌，耐心等待方向确认更为稳健。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "NZD/USD trades around 0.5649, showing a tight consolidation after recent marginal softness. Price action remains slightly above the 20-period SMA at 0.5643, suggesting the pair is attempting to stabilize rather than extend a clear downtrend. Overall structure indicates a neutral-to-slightly-bullish bias, with momentum constrained by low volatility and limited follow-through in either direction. Market participants appear to be awaiting a catalyst for directional expansion.\n\nMACD shows a small positive reading at 0.0003218, indicating weak bullish momentum, though lack of a visible signal line reading suggests convergence and reduced trend strength. This implies that upside pressure exists but is not yet confirmed. With RSI unavailable, price behavior becomes more important: repeated clustering near current levels signals equilibrium between buyers and sellers, consistent with a consolidative phase rather than a trending market.\n\nImmediate support is located at 0.5643, aligned with the 20-SMA, followed closely by intraday lows around 0.5648, making the current zone a key short-term floor. A break below 0.5643 would expose downside risk toward 0.5635. On the upside, resistance is seen at 0.56546, the recent high, with a stronger barrier near 0.5665, where prior selling interest may re-emerge and cap further advances.\n\nTrading strategies favor range-bound execution. Buying dips near 0.5643–0.5648 with tight risk control below 0.5640 offers a favorable mean-reversion setup, targeting 0.5654 and 0.5665. Alternatively, a breakout above 0.5655 would signal renewed bullish momentum and open the door to higher levels. A sustained break below 0.5643 would shift bias bearish, favoring short positions toward 0.5635 amid weakening sentiment overall."
+    }
+  }
+}

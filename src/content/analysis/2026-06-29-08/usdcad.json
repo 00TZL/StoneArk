@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-06-29T08:53:58.037Z",
+  "price": {
+    "close": "1.41974",
+    "high": "1.41976",
+    "low": "1.41867",
+    "open": "1.41883",
+    "change": "0.06",
+    "datetime": "2026-06-29 18:00:00"
+  },
+  "indicators": {
+    "rsi": 56.18769,
+    "macd": -0.00010463576,
+    "macd_signal": -0.00010135604,
+    "sma20": 1.41916
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：震荡整理中略偏多头",
+      "content": "当前美元/加元处于极窄区间震荡结构，价格围绕1.419附近整理，整体趋势偏横盘，短线略有温和上行倾向，但动能仍显不足，结构仍待确认\n\nSMA20位于1.41916，价格略上穿均线但缺乏扩散动能；MACD微幅负值显示多空拉锯，动量仍偏弱，尚未形成明确方向突破信号。谨慎观察\n\n下方支撑位关注1.4187与1.4185附近，上方阻力集中在1.4200及1.4210区域，区间收窄表明市场等待新的催化方向\n\n操作上建议以区间交易为主，靠近支撑轻仓做多，靠近阻力逐步止盈；若放量突破1.4200则顺势跟多，跌破1.4185则转为短空思路。灵活调整"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "USD/CAD is currently trading in a tight consolidation range around 1.4197, reflecting a lack of strong directional conviction in the short term. Price action remains slightly biased to the upside as it holds marginally above the 20-period SMA at 1.41916. However, momentum is subdued, suggesting the market is waiting for a clearer catalyst. Overall structure points to a neutral-to-slightly bullish intraday trend within a compressed volatility environment.\n\nTechnical indicators show mixed signals. The MACD histogram is slightly negative at -0.0001, indicating weak bearish momentum, although the magnitude is minimal and does not confirm a trend reversal. With RSI data unavailable, momentum confirmation is limited. Price hovering just above the SMA(20) suggests equilibrium, where buyers are attempting to defend short-term support but lack strong follow-through. This reinforces a consolidation phase rather than a directional breakout.\n\nImmediate support is located at the session low of 1.41867, followed by a secondary support zone near 1.4180, which aligns with recent intraday demand. On the upside, resistance is seen at 1.41976, the current high, with a breakout above this level potentially opening the door toward 1.4205 and then 1.4220. Price compression between these levels suggests an impending volatility expansion, traders should watch for volume confirmation on breakout attempts to avoid false moves.\n\nIn the current environment, a range-trading approach is favored between 1.4180 and 1.4205, with buy-on-dip strategies near support and partial profit-taking near resistance. Breakout traders should wait for a sustained close above 1.4205 or below 1.4180 before committing. Risk management remains critical due to low volatility and potential fake breakouts. Stops should be placed just beyond key levels to protect against sudden liquidity-driven spikes. Overall bias remains neutral until a decisive breakout occurs."
+    }
+  }
+}

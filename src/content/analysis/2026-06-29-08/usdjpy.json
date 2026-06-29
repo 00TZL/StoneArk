@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-06-29T08:51:57.243Z",
+  "price": {
+    "close": "161.85615",
+    "high": "161.86548",
+    "low": "161.80047",
+    "open": "161.82157",
+    "change": "0.02",
+    "datetime": "2026-06-29 18:00:00"
+  },
+  "indicators": {
+    "rsi": 68.60816,
+    "macd": 0.018645777,
+    "macd_signal": 0.012768632,
+    "sma20": 161.78211
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：震荡偏强，短线维持上行格局",
+      "content": "美元/日元最新报161.85615，价格运行于20日均线161.78211上方，显示短线多头仍占据一定优势。24小时波动较小，整体处于高位整理阶段，趋势偏强但上涨动能有所放缓，短期或延续震荡上行节奏。\n\n从技术指标来看，MACD数值为0.018645777，仍位于零轴上方，说明多头力量尚未完全衰减，但由于Signal与RSI数据缺失，趋势确认程度有所降低。结合均线结构分析，当前价格保持在均线上方，仍具备继续试探高点的条件，但需关注动能是否持续增强。\n\n关键位置方面，短线支撑首先关注161.800附近，其次留意20日均线161.782一线，若跌破则可能回测更低支撑。上方阻力位集中于161.865前高附近，若有效突破并站稳，则有望打开进一步上涨空间，延续当前偏多走势。\n\n交易策略上，建议以顺势思路为主，等待价格突破阻力后跟随做多，或回踩20日均线企稳后分批布局。若价格跌破关键支撑并伴随成交动能增强，则应及时控制仓位，谨慎防范短线回调风险，坚持设置止损并做好资金管理。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USD/JPY is maintaining a modest bullish bias, with the latest price at 161.85615 trading above the 20-period simple moving average of 161.78211. The narrow daily range between 161.80047 and 161.86548 suggests consolidation rather than aggressive directional movement, indicating that buyers remain in control while momentum has temporarily slowed. As long as price continues to hold above the moving average, the prevailing trend favors gradual upside continuation instead of a meaningful corrective decline.\n\nTechnical indicators provide a cautiously constructive outlook despite incomplete data. The positive MACD reading of 0.018645777 reflects improving bullish momentum, although the absence of a signal line limits confirmation of crossover strength. Likewise, the unavailable RSI(14) prevents a precise assessment of overbought or oversold conditions. Even so, price action relative to the moving average and the positive MACD value together imply that buying interest remains slightly stronger than selling pressure in the current market environment.\n\nImmediate support is located near the 20-period SMA around 161.78, followed by the session low at 161.80, which reinforces this zone as an important technical floor. A sustained break below these levels could expose the pair to a deeper retracement toward the 161.60 region. On the upside, resistance begins at the recent high of 161.865, with a decisive move above that level potentially opening the way toward the psychologically significant 162.00 area, where profit-taking activity may increase.\n\nFrom a trading perspective, bullish strategies remain favorable while the exchange rate holds above 161.78, with traders looking for confirmed breakouts above 161.865 before adding long exposure. Conservative participants may prefer waiting for stronger momentum confirmation, particularly given the missing RSI and MACD signal values. Risk management remains essential, using protective stops below nearby support and avoiding oversized positions while the pair continues to trade within its relatively tight consolidation range."
+    }
+  }
+}
