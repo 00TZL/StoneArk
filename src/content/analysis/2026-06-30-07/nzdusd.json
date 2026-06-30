@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-06-30T07:46:58.992Z",
+  "price": {
+    "close": "0.56593",
+    "high": "0.56594",
+    "low": "0.56526",
+    "open": "0.56548",
+    "change": "0.08",
+    "datetime": "2026-06-30 17:00:00"
+  },
+  "indicators": {
+    "rsi": 64.14014,
+    "macd": 0.00014344678,
+    "macd_signal": 0.00011028956,
+    "sma20": 0.565003
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：震荡偏强整理",
+      "content": "纽元/美元整体呈震荡偏强结构，价格维持在0.5650上方整理，短线多空拉锯明显但未有效破位，整体趋势仍略偏向上方延续，处于整理蓄势阶段。\n\nMACD指标微幅翻红，动能柱维持正值但力度有限，显示上涨动能尚未完全释放；价格站上SMA20均线，短线结构由弱转为温和偏多。\n\n下方支撑关注0.5650及0.5645区域，该区间为近期整理低点密集带；上方阻力位于0.5660与0.5675，若有效突破将打开进一步上行空间。\n\n交易策略建议以短线低吸高抛为主，回踩0.5650附近企稳可轻仓试多，若跌破支撑则暂时观望，等待趋势方向进一步确认后再入场。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "NZD/USD is currently trading in a very tight consolidation range around 0.5659, reflecting a market in equilibrium after a modest intraday gain of 0.08%. Price action remains compressed near the upper boundary of the day’s range, suggesting a mild bullish bias but lacking strong momentum. The structure indicates a short-term sideways-to-slightly-upward trend, with buyers cautiously maintaining control while awaiting a catalyst for directional expansion.\n\nFrom an indicator perspective, the pair shows early bullish signaling but not conviction. Price is holding above the 20-period SMA at 0.5650, which now acts as dynamic support. The MACD reading is marginally positive at 0.00014, implying weakening bearish pressure and a potential early bullish crossover continuation. However, absent RSI data limits momentum confirmation, reinforcing the view that the market is still consolidating rather than trending strongly.\n\nKey support is established at 0.5650, aligned with the SMA(20), followed by deeper support near 0.5645 and 0.5638, where buyers previously absorbed selling pressure. On the upside, immediate resistance sits at 0.5660, with stronger barriers around 0.5675 and 0.5700. A sustained break above 0.5660 would likely trigger short-term momentum continuation, while rejection may return price toward the moving average support zone.\n\nTrading conditions favor range-bound strategies until a breakout occurs. Traders may consider buying near 0.5650–0.5645 with tight risk controls, targeting 0.5660–0.5675. Alternatively, a breakout above 0.5660 could justify momentum long entries with confirmation. Conversely, a decisive drop below 0.5645 would invalidate the bullish bias and open room for corrective downside pressure toward 0.5630."
+    }
+  }
+}

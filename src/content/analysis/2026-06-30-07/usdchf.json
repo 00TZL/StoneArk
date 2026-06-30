@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-06-30T07:47:46.112Z",
+  "price": {
+    "close": "0.80879",
+    "high": "0.80897",
+    "low": "0.80836",
+    "open": "0.80871",
+    "change": "0.01",
+    "datetime": "2026-06-30 17:00:00"
+  },
+  "indicators": {
+    "rsi": 51.017902,
+    "macd": 0.000055587914,
+    "macd_signal": -0.0001309643,
+    "sma20": 0.8083155
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：震荡整理中偏弱下行",
+      "content": "当前USD/CHF维持极窄区间震荡，价格围绕0.8087运行，整体结构偏弱但未形成明确单边趋势。短线高低点收敛，说明市场处于整理阶段，方向选择仍待突破确认。0.8080附近成为多空博弈核心区域。\n\n从均线与动能来看，价格略高于SMA(20)=0.8083，显示短线仍有支撑，但上方动能有限。MACD微正但动能极弱，快慢线缺乏扩张，说明反弹缺乏持续性，多头力量不足以推动趋势反转。\n\n支撑位关注0.8080与0.8075区间，一旦失守可能打开向0.8060的下行空间。阻力位在0.8090与0.8100整数关口，突破需放量配合，否则容易再次回落震荡。\n\n交易策略建议以区间操作为主，0.8080上方可轻仓尝试短多，目标0.8090附近；若跌破0.8080则顺势做空，目标0.8070一带。整体仍以低波动震荡思路对待，避免追单。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "USD/CHF is currently trading in a tight consolidation phase around 0.80879, reflecting very low volatility and a neutral intraday structure. Price action is confined within a narrow 24-hour range between 0.80836 and 0.80897, indicating equilibrium between buyers and sellers. The broader trend remains mildly sideways, with no decisive breakout from recent congestion. The pair is effectively oscillating around its short-term equilibrium zone.\n\nFrom an indicator perspective, momentum signals remain weak but slightly constructive. The MACD shows a marginal positive reading, suggesting early bullish pressure; however, the absence of a clear signal line value limits confirmation of strength. Price is holding just above the SMA(20) at 0.80831, which now acts as a dynamic pivot. Without RSI data, momentum confirmation is incomplete, reinforcing the current low-conviction environment.\n\nKey support is seen at 0.8083, aligned with the SMA(20), followed by a deeper floor near 0.8080 and 0.8075 if selling pressure accelerates. On the upside, immediate resistance lies at 0.8089, with a breakout above this level opening room toward 0.8095 and the psychological 0.8100 zone. The compression between these levels suggests an impending volatility expansion phase.\n\nTrading conditions favor range-bound strategies until a clear breakout occurs. Scalpers may consider buying near 0.8083 support and selling into 0.8089 resistance, using tight stops due to the compressed range. Breakout traders should wait for a decisive close above 0.8089 or below 0.8080 to confirm directional bias, as current momentum remains insufficient for sustained trend continuation."
+    }
+  }
+}

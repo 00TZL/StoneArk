@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-06-30T07:43:13.670Z",
+  "price": {
+    "close": "1.32422",
+    "high": "1.32473",
+    "low": "1.32394",
+    "open": "1.32409",
+    "change": "0.02",
+    "datetime": "2026-06-30 17:00:00"
+  },
+  "indicators": {
+    "rsi": 54.86852,
+    "macd": 0.00038888737,
+    "macd_signal": 0.00071523241,
+    "sma20": 1.32461
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：窄幅震荡偏多但动能趋弱",
+      "content": "当前汇价围绕1.3242窄幅整理，短线仍保持轻微偏多结构，但上方1.3246附近SMA20构成压制，反弹动能有限，整体进入高位盘整阶段。\n\nMACD指标显示微弱金叉迹象，数值仅0.00038，动能偏弱且未形成有效趋势确认，RSI缺失使超买超卖判断受限，短线更多表现为均衡震荡。\n\n下方支撑位于1.3239及1.3235区域，若失守或引发短线回调；上方阻力集中在1.3247至1.3255之间，突破需放量确认趋势延续。\n\n操作建议以区间交易为主，靠近1.3235附近分批做多，止损设于1.3230下方；上方接近1.3250逐步止盈，避免追涨杀跌。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "GBP/USD is currently trading in a very tight consolidation around 1.3242 after a muted 24-hour session, reflecting a market in equilibrium between buyers and sellers. Price action remains compressed just below the 20-period simple moving average, indicating a slight bearish intraday bias but without strong conviction. The broader structure still leans sideways, with no clear breakout momentum visible, suggesting traders are waiting for fresh catalysts or liquidity expansion.\n\nMomentum indicators show a fragile bullish edge, as the MACD remains slightly positive at 0.0003889, though the histogram lacks strong follow-through. The absence of RSI limits precise overbought or oversold confirmation, but price proximity to the SMA suggests neutral momentum conditions. Overall, indicators point to weak upward pressure that is insufficient to confirm trend reversal, reinforcing a range-bound environment where directional conviction remains limited for now.\n\nImmediate support is located at the session low near 1.32394, with additional downside protection around 1.32350 if selling pressure accelerates. On the upside, resistance is seen at 1.32473, followed closely by the 20-period SMA near 1.32461, which is currently acting as a dynamic ceiling. A sustained break above this zone could open the path toward 1.32550, where previous intraday rejection has been observed.\n\nTrading conditions favor short-term range strategies rather than breakout positioning, given the lack of directional momentum. Buying near support levels around 1.3239 with tight stops below 1.3235 may offer controlled risk entries, while profit-taking near 1.3247 to 1.3255 remains reasonable. Alternatively, fade strategies near resistance can be considered. Traders should remain cautious, as low volatility increases the risk of false breakouts and sudden liquidity-driven spikes."
+    }
+  }
+}

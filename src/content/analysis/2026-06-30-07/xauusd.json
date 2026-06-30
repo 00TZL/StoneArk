@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-06-30T07:48:41.702Z",
+  "price": {
+    "close": "4028.78956",
+    "high": "4034.2101",
+    "low": "4024.14487",
+    "open": "4030.22807",
+    "change": "-0.05",
+    "datetime": "2026-06-30 17:00:00"
+  },
+  "indicators": {
+    "rsi": 54.36102,
+    "macd": -12.91401,
+    "macd_signal": -17.13132,
+    "sma20": 4008.97586
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：高位震荡偏多但动能趋弱",
+      "content": "当前XAUUSD处于高位窄幅震荡格局，价格围绕4020上方运行，多空拉锯明显。整体仍维持短线偏多结构，但上行动能开始放缓，市场进入整理阶段。\n\n技术指标显示MACD为负值但幅度收敛，暗示回调压力仍存。价格仍站上20日均线，说明中期趋势尚未转弱，但短期动能偏弱，缺乏强势突破信号。\n\n下方支撑关注4024日内低点，其次4008附近20日均线。上方阻力集中在4034前高，若有效突破则有望测试4050区域，反之或继续区间震荡。\n\n操作上建议回调接近4010-4008分批做多，止损4000下方；若反弹至4034遇阻可轻仓短空，整体以区间交易思路为主，等待方向选择。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold vs US Dollar is trading in a tight consolidation around 4028 after a marginal 24-hour decline of 0.05%. Price action remains structurally bullish on the higher timeframe, as the market continues to hold above recent breakout levels. However, momentum has cooled, suggesting a short-term pause rather than a reversal. The current behavior reflects equilibrium between buyers and sellers near recent highs, with volatility compressing ahead of a potential directional move.\n\nSMA20 at 4008.98 continues to act as a dynamic support zone, with price holding comfortably above it, reinforcing the broader bullish structure. However, MACD reading at -12.91 indicates fading upside momentum and possible short-term exhaustion. With RSI unavailable, price action becomes the primary guide, showing consolidation rather than trending strength. This divergence between price stability and weakening momentum suggests caution for aggressive long entries at current levels.\n\nSellers are likely to defend the immediate resistance at 4034.21, which aligns with the recent intraday high. A sustained breakout above this level could open the door toward 4050 and potentially 4070 in extension. On the downside, initial support is located at 4008.98, followed by a stronger demand zone around 3985. Price remains range-bound between these boundaries, awaiting a catalyst for expansion.\n\nTrading strategy favors buying dips above the 4008 support zone, with tight risk management below 3985 to protect against breakdown scenarios. Range traders may exploit oscillations between 4024 and 4034 for short-term scalps. A confirmed breakout above 4035 would shift momentum bullish again, targeting 4050–4070. Conversely, a breakdown below 4008 would signal deeper correction risk and invalidate near-term bullish continuation bias."
+    }
+  }
+}

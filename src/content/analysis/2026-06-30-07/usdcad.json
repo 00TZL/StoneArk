@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-06-30T07:46:11.806Z",
+  "price": {
+    "close": "1.42262",
+    "high": "1.42302",
+    "low": "1.42242",
+    "open": "1.42295",
+    "change": "-0.02",
+    "datetime": "2026-06-30 17:00:00"
+  },
+  "indicators": {
+    "rsi": 60.72868,
+    "macd": 0.00092698612,
+    "macd_signal": 0.00078648103,
+    "sma20": 1.42158
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：震荡偏多格局",
+      "content": "美元/加元当前处于窄幅整理格局，价格围绕1.4226震荡运行，波动极度收敛。整体趋势略偏震荡偏多，但上行动能不足，市场仍以区间交易为主导。\n\n技术指标方面，MACD维持微弱正值，显示多头动能有限但仍占优。均线系统中，价格站上SMA20，短线支撑结构有所改善。RSI缺失导致超买超卖判断不完整。\n\n支撑位关注1.4215与1.4200一线，若失守可能回撤至更低区间。上方阻力集中在1.4230与1.4250，突破需放量确认趋势延续。短线多空在关键区间反复博\n\n交易策略上建议维持区间思路，高抛低吸为主。若价格回踩SMA20附近可关注做多机会，跌破1.4210则需谨慎并控制风险敞口。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "USD/CAD is currently in a tight consolidation phase, trading slightly above the 20-period SMA, which suggests a mild bullish bias within an otherwise sideways structure. Price action remains compressed between 1.4224 and 1.4230, indicating low volatility and balanced order flow. The market is struggling to establish directional conviction, but the hold above short-term average keeps downside pressure limited for now, with intraday compression evident.\n\nIndicators show mixed but slightly bullish momentum signals, with MACD remaining positive at 0.0009269, reflecting weak upward pressure. However, absence of RSI limits overbought/oversold clarity, keeping momentum assessment incomplete. Overall, momentum appears subdued rather than trending, suggesting consolidation rather than expansion. Signal line data is missing, so confirmation of trend strength remains uncertain, reinforcing cautious interpretation of current price behavior, with limited volatility expansion.\n\nImmediate support is anchored at the 20-day SMA near 1.4216, followed by a stronger psychological level at 1.4200, where buyers may re-emerge. On the upside, resistance sits at 1.4230, aligned with recent intraday highs. A sustained breakout above this level could open the path toward 1.4250 and potentially 1.4275. Until a breakout occurs, price is likely to remain range-bound, bias remains neutral.\n\nTrading conditions favor a range-bound strategy, with opportunities to buy near support around 1.4215–1.4200 and consider partial profit-taking near resistance at 1.4230. Breakout traders should wait for a confirmed close above resistance to target higher levels, while bearish setups require a decisive break below 1.4200. Risk management remains essential due to compressed volatility and potential false breakouts. Overall conditions remain cautious, watch for fakeouts."
+    }
+  }
+}

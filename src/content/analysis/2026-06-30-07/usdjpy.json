@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-06-30T07:44:06.277Z",
+  "price": {
+    "close": "162.15621",
+    "high": "162.25422",
+    "low": "162.12511",
+    "open": "162.25422",
+    "change": "-0.05",
+    "datetime": "2026-06-30 17:00:00"
+  },
+  "indicators": {
+    "rsi": 63.98839,
+    "macd": 0.099984691,
+    "macd_signal": 0.083558257,
+    "sma20": 162.039502
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：震荡偏强整理格局",
+      "content": "美元/日元当前围绕162.15附近高位震荡运行，整体维持在窄幅区间内整理结构。价格仍站在20日均线上方，说明中期趋势偏多未破坏，但上行动能有所放缓，市场进入多空拉锯阶段，短线以震荡偏强为主。\n\n均线结构方面，SMA20位于162.03附近，对汇价形成动态支撑。MACD虽保持正值但柱体收敛，显示多头动能逐步减弱。由于RSI数据缺失，但结合价格走势判断，当前未进入明显超买区，更像高位整理。\n\n支撑位重点关注162.12一线及162.00整数关口，一旦失守可能回测更低区间。上方阻力集中在162.25前高以及162.30区域，若有效突破该区间，将打开新一轮上行空间，否则维持箱体震荡。\n\n交易策略上建议以回调做多为主，优先关注162.00-162.10区域分批布局多单，止损控制在161.85下方。若价格触及162.25-162.30阻力带，可考虑减仓或短线反向操作，整体以区间交易思路应对。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USD/JPY is maintaining a mild bullish consolidation phase, with price action hovering just above the 20-period SMA at 162.04. The pair remains relatively stable around 162.15 after a narrow 24-hour range between 162.12 and 162.25, suggesting equilibrium between buyers and sellers. Despite the slight daily decline, the broader structure still reflects upward bias, as dips continue to be shallow and quickly absorbed by demand.\n\nMACD at 0.0999 indicates that bullish momentum is still present, but its limited expansion suggests weakening directional conviction. The lack of RSI data reduces clarity on overbought conditions, yet price behavior implies neither strong exhaustion nor meaningful corrective pressure. The near-flat 24-hour change of -0.05% reinforces a consolidation regime rather than a trending phase, where momentum is stabilizing after prior advances.\n\nKey support is located at 162.00, reinforced by the SMA20 at 162.04, forming a tight demand zone that is likely to attract buyers on dips. A decisive break below this area would expose 161.70 as the next support level, where prior accumulation could re-emerge. On the upside, immediate resistance is found at 162.25, followed by 162.50 and 162.80, marking zones where supply pressure and profit-taking may limit continuation.\n\nTrading strategy favors range-bound execution until a clearer breakout develops. Long positions may be considered on pullbacks toward 162.00–162.05 with protective stops below 161.80 and initial targets around 162.50. Alternatively, a sustained break above 162.25 would signal renewed bullish continuation toward 162.80. Given the compressed volatility, disciplined risk control remains essential."
+    }
+  }
+}

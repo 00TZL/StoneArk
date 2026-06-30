@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-06-30T07:42:16.062Z",
+  "price": {
+    "close": "1.14059",
+    "high": "1.14094",
+    "low": "1.14021",
+    "open": "1.1403",
+    "change": "0.02",
+    "datetime": "2026-06-30 17:00:00"
+  },
+  "indicators": {
+    "rsi": 50.46543,
+    "macd": -0.000096721595,
+    "macd_signal": 0.00021152468,
+    "sma20": 1.14132
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：低位窄幅震荡偏弱整理",
+      "content": "当前EUR/USD维持极窄区间震荡，价格运行于1.1410下方，整体偏弱震荡结构。短线多空拉锯明显，缺乏趋势突破动能仍\n\n均线显示价格持续位于SMA20(1.14132)下方，形成短期压制结构。MACD维持轻微负值，动能柱收敛，反弹力度有限。延续\n\n下方支撑关注1.14020一线，若失守或进一步下探1.13950区域。上方阻力位1.14130及1.14200，突破需放量确认。\n\n建议短线以区间交易为主，高抛低吸为主思路，避免追涨杀跌。若价格站稳1.1413上方可轻仓试多，否则仍以反弹做空更优。稳势"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD is in tight consolidation around 1.1406 after minimal 24h change 0.02%. Price action is compressed between 1.14021 and 1.14094, indicating low volatility and equilibrium. Short-term structure leans slightly bearish as price trades just below SMA20 at 1.14132, suggesting rejection of recent upward attempts. Broader momentum appears neutral-to-weak, with no clear breakout confirmation yet. Market participants remain cautious ahead of catalyst data.\n\nThe 20-period SMA at 1.14132 acts as a dynamic resistance, with price trading slightly below it. This positioning reinforces mild bearish pressure in the short term. MACD reading at -0.0000967 signals weakening bullish momentum and a potential early bearish crossover bias. RSI is unavailable, limiting momentum confirmation but price compression suggests indecision rather than strong trend continuation. Overall indicators lean slightly bearish but not decisively.\n\nImmediate support is located near the session low at 1.14021, where buyers have repeatedly defended price action. A break below this level may expose 1.1395 as the next downside target. On the upside, 1.14132 SMA20 is first resistance, followed by 1.1418 and 1.1423 zones. Range remains tight, so breakouts above resistance or below support are required for directional bias. Liquidity is thin, increasing the risk of false breakouts.\n\nFor traders, a range strategy may be preferable while price remains between key levels. Long positions could be considered on dips near 1.1402 with tight risk control. Short setups may emerge on rejection of 1.1413–1.1418 zone. Stop-loss discipline is essential due to compressed volatility. A breakout above 1.1423 would shift bias toward bullish continuation. Until then, patience is favored in low-volatility conditions."
+    }
+  }
+}
