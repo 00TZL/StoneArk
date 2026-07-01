@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-07-01T08:06:01.551Z",
+  "price": {
+    "close": "1.42196",
+    "high": "1.42198",
+    "low": "1.42167",
+    "open": "1.42167",
+    "change": "0.03",
+    "datetime": "2026-07-01 18:00:00"
+  },
+  "indicators": {
+    "rsi": 54.95071,
+    "macd": 0.00011546083,
+    "macd_signal": -0.000010426897,
+    "sma20": 1.42082
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：短线震荡偏强，延续上行试探阻力",
+      "content": "当前价格1.42196逼近日内高点，且略高于SMA(20)的1.42082，说明短线多头仍占优，但涨幅仅0.03%，上行动能并不强。整体更像是高位窄幅整理后的轻微抬升，市场在等待更明确的突破方向。\n\nMACD为0.000115，处于零轴上方附近，显示动能偏多但力度有限；由于RSI和Signal缺失，暂不宜仅凭指标判断超买。更稳妥的做法是结合价格是否能持续站稳均线，以及后续是否放量突破来确认趋势强弱。\n\n下方首要支撑关注1.4208附近，其次是1.4200与1.4195一带；若失守，回调可能进一步指向1.4185。上方阻力先看1.4220，突破后有望上探1.4235，强阻力位于1.4250附近，那里更可能出现获利了结压力。\n\n交易上，稳健者可等待1.4220有效突破后顺势做多，止损放在1.4205下方；若价格跌回SMA(20)并失守支撑，则应转为观望，避免追高。当前阶段以短线低仓位、严格止损为宜，静待方向确认。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "USD/CAD is trading with a mild bullish bias near 1.42196, holding just above the 20-period simple moving average at 1.42082. The pair’s 24-hour range is tight, which suggests consolidation rather than a strong directional breakout. Price remains close to the session high, so near-term momentum still favors buyers, but the move lacks conviction. This keeps the broader setup constructive while leaving room for short-term pullbacks.\n\nThe MACD reading of 0.00011546083 is marginally positive, which points to a slight upward momentum advantage. Even without a signal line reading, the small positive spread suggests the pair is leaning higher rather than reversing. RSI is unavailable, so momentum must be judged mainly from price action and moving average behavior. As long as USD/CAD stays above the SMA(20), dips are more likely to attract interest than trigger a deeper selloff.\n\nImmediate support sits around 1.4208, the area of the 20-day average, followed by the lower end of the recent range near 1.4217 and then psychological support around 1.4200. On the upside, initial resistance is at 1.4220, the current session high, with the next barrier likely near 1.4250 if buyers can force a breakout. A sustained move above the high would strengthen the case for a continued advance.\n\nFor traders, a cautious bullish strategy is reasonable while price holds above 1.4208. Short-term longs may be considered on pullbacks toward support, with tight risk controls below 1.4200. Conservative traders may prefer to wait for a clean break above 1.4220 before entering, since the current market is still range-bound. If the pair fails to hold above the average, a brief correction toward lower support would become more likely."
+    }
+  }
+}

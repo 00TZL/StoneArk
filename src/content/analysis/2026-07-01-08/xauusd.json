@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-07-01T08:08:40.533Z",
+  "price": {
+    "close": "3971.74029",
+    "high": "3976.73365",
+    "low": "3971.71651",
+    "open": "3976.59611",
+    "change": "-0.11",
+    "datetime": "2026-07-01 18:00:00"
+  },
+  "indicators": {
+    "rsi": 34.76794,
+    "macd": -12.86672,
+    "macd_signal": -9.89639,
+    "sma20": 4002.24271
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：震荡偏弱下行整理",
+      "content": "趋势偏弱震荡整理，价格运行在3970附近，短线反弹乏力，整体仍承压于4000关口下方，多头动能不足，结构偏空延续，需警惕回撤风险\n\n技术指标显示MACD持续为负，空头动能占优，价格明显受20日均线4002压制，短期缺乏上行突破信号，反弹空间有限，维持弱势格局不变\n\n下方关键支撑位关注3950与3920区域，上方阻力集中于4000-4010区间，突破前宜谨慎追多，震荡为主区间操作为宜策略\n\n建议以反弹做空为主，控制仓位，等待确认跌破支撑后顺势跟空，避免追涨风险，保持纪律交易严格止损管理防止反复扫损提升胜率执行计划"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "The current market data for XAU/USD shows that gold is trading at 3971.74, reflecting a slight decline of 0.11% over the past 24 hours. This minor dip follows a high of 3976.73 and a low of 3971.72 during the same period, indicating a consolidation phase. The price action suggests that gold is experiencing selling pressure, which may indicate a potential shift in market sentiment. Traders should monitor for a breakout above the recent high to confirm a bullish trend or a breakdown below the low for potential bearish momentum.\n\nThe absence of the Relative Strength Index (RSI) and the negative MACD value of -12.87 suggest that the momentum is currently bearish. The MACD being below zero indicates that sellers are in control, which could lead to further declines if buying interest does not materialize soon. Investors should remain cautious, especially in a market that has shown signs of weakness. The 20-period Simple Moving Average (SMA) at 4002.24 further reinforces the bearish outlook, as the price remains well below this moving average, indicating a lack of bullish momentum.\n\nKey support and resistance levels are critical for trading decisions. Immediate support is seen at 3971.72, with a further level at 3950.00, where buying interest may increase. Resistance is noted at the recent high of 3976.73, followed by a significant level at 4000.00. A breakout above 4000.00 could signal a reversal of the current bearish trend, while a failure to hold above 3971.72 might prompt further selling, testing the support at 3950.00.\n\nFor traders, a cautious approach is recommended. Those looking to short XAU/USD might consider entering around the current price with a stop-loss above 3976.73, aiming for a target near the support at 3950.00. Conversely, if the price breaks above 4002.24, it may present a buying opportunity with a target at 4050.00, contingent on a strong momentum shift. Overall, the market remains sensitive to external factors, and traders should stay informed on economic developments that could impact gold prices."
+    }
+  }
+}

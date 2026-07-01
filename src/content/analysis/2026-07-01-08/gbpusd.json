@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-07-01T08:03:16.361Z",
+  "price": {
+    "close": "1.32444",
+    "high": "1.32457",
+    "low": "1.32442",
+    "open": "1.32449",
+    "change": "-0.01",
+    "datetime": "2026-07-01 18:00:00"
+  },
+  "indicators": {
+    "rsi": 50.2237,
+    "macd": 0.00005746302,
+    "macd_signal": 0.0001800608,
+    "sma20": 1.32493
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：短线震荡偏弱",
+      "content": "当前汇价徘徊于1.3244附近，略低于20日均线1.32493，且接近日内低点，说明短线仍以弱势横盘为主。24小时波动极窄，表明多空都在等待新的催化，趋势延续性不足。\n\nMACD虽维持轻微正值，但数值接近零轴，动能偏弱，更多代表反弹力度有限。RSI缺失，无法直接判断超买超卖，只能从价格结构看出买盘承接不强，回升持续性需验证。\n\n下方支撑先看1.3242一线，若失守，进一步关注1.3230及1.3215区域；上方阻力位于1.3249的20日均线，突破后才有望测试1.3260与1.3275，形成短线修复空间。\n\n操作上宜以区间思路为主，未放量站上1.3249前不宜追多；若跌破1.3242并确认，则可顺势短空，止损放在1.3250上方。整体倾向观望，等待方向明确后再介入。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "GBP/USD is trading in a very tight range around 1.32444, with the session high and low nearly identical, which points to a pause rather than a decisive trend. The pair is sitting just below its 20-day simple moving average at 1.32493, suggesting the short-term bias is slightly soft. The 24-hour change is essentially flat, so momentum is limited and traders may be waiting for a catalyst before the next directional move.\n\nThe MACD reading is marginally positive at 0.000057463020, but without a signal line it is hard to call a clean bullish crossover. Still, the small positive value suggests downside pressure is not strong enough to drive a meaningful selloff yet. With RSI unavailable, price action becomes more important: the market looks balanced, but the inability to hold above the 20-day average keeps the near-term tone cautious.\n\nImmediate support is clustered near 1.3244, followed by the psychological 1.3240 area and then 1.3235 if selling accelerates. On the upside, 1.32493 is the first key resistance, and a clear break above it would open the door toward 1.3260 and then 1.3280. Until price reclaims the moving average, rallies may struggle to extend, while a break below 1.3240 could invite a deeper retracement.\n\nFor trading, a range-trading approach is reasonable while volatility remains compressed. Short-term traders may consider buying near support only if price shows a clear rebound signal, with tight stops below 1.3235. More conservative traders may wait for a close above 1.32493 to confirm bullish continuation, or below 1.3240 to confirm bearish follow-through. In this environment, patience is likely more valuable than chasing small intraday moves."
+    }
+  }
+}

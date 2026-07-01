@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-07-01T08:02:21.401Z",
+  "price": {
+    "close": "1.14021",
+    "high": "1.14032",
+    "low": "1.14019",
+    "open": "1.14032",
+    "change": "-0.01",
+    "datetime": "2026-07-01 18:00:00"
+  },
+  "indicators": {
+    "rsi": 44.084976,
+    "macd": -0.00013847534,
+    "macd_signal": 0.000031161821,
+    "sma20": 1.14131
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：短线承压、低位震荡",
+      "content": "当前汇价1.14021，略低于20日均线1.14131，说明短线仍受压制。24小时波动极窄，结合高低点贴近，显示市场观望情绪浓厚，价格暂时处于弱势整理格局。\n\nMACD为负值，空头动能尚未完全衰减，提示反弹持续性有限。由于RSI缺失，需重点观察K线对1.1400整数关口的反应；若失守，短线下探概率将明显上升。\n\n下方支撑先看1.1400，其次是1.1390与1.1375区域；上方阻力在1.1413均线附近，进一步阻力位于1.1425及1.1440。若无法站稳均线，反弹更可能被视为技术性修正。\n\n交易上宜保持谨慎，激进者可在1.1413下方逢高试空，止损放在1.1425上方；若有效突破并站稳1.1413，再考虑顺势跟进多单。当前更适合等待确认信号。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD is trading in a very tight range around 1.14021, with the day’s high and low both clustered near 1.1402, which suggests a market still waiting for a stronger catalyst. The pair is only marginally lower on the day, but the broader tone remains cautious. Price sitting just below the 20-period SMA at 1.14131 points to a mild near-term bearish bias, though the lack of volatility shows conviction is still limited.\n\nThe MACD reading at -0.00013847534 signals slight downside momentum, but it is not strong enough yet to confirm an active selloff. With RSI unavailable, momentum is harder to gauge from a standard overbought/oversold perspective, so price action becomes especially important. The flat intraday structure implies consolidation rather than trend acceleration, meaning breakouts may matter more than oscillations inside the current band.\n\nImmediate support is located around 1.1400, a psychological level that is already being tested. If that gives way, the next support zone may emerge near 1.1385, followed by deeper interest closer to 1.1365 if selling pressure builds. On the upside, resistance sits at 1.1413 near the SMA, then 1.1430 and 1.1450, where sellers may reappear if momentum improves.\n\nA cautious trading approach is preferable here. Short-term traders may look to buy only on a confirmed hold above 1.1400 with a move back through 1.1413, while more conservative participants may wait for a clearer close above resistance before entering long positions. If price breaks below 1.1400 with volume, a modest short setup could be favored, with tight risk controls due to the pair’s narrow range."
+    }
+  }
+}

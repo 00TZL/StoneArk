@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-07-01T08:04:08.028Z",
+  "price": {
+    "close": "162.67501",
+    "high": "162.67857",
+    "low": "162.675",
+    "open": "162.67681",
+    "change": "-0.00",
+    "datetime": "2026-07-01 18:00:00"
+  },
+  "indicators": {
+    "rsi": 64.8762,
+    "macd": 0.11502761,
+    "macd_signal": 0.13609178,
+    "sma20": 162.6438
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：高位震荡偏强",
+      "content": "当前价格贴近日内高点，说明汇价仍运行在162.67附近的窄幅区间内，短线虽缺乏明显加速，但整体结构保持偏强，属于高位整理后的蓄势阶段，暂未见明显转弱信号。\n\n指标方面，MACD为正值且位于零轴上方，表明多头动能仍在延续；不过RSI和信号线缺失，使超买与节奏判断受限，需结合价格是否守住均线来确认下一步方向。\n\n支撑方面，20日均线162.6438是第一防线，162.60与162.50可视为进一步支撑区。阻力方面，162.70为即时压力，若有效突破并站稳，上方有望测试162.85，甚至向163.00延伸。\n\n交易上宜以顺势为主但避免追高，回踩162.64附近企稳可考虑轻仓试多，跌破162.60则应降低仓位并等待确认。若放量突破162.70后再跟进，胜率通常更高，止损需严格。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USD/JPY remains in a narrow, steady consolidation near 162.68, with price holding just above the 20-period SMA at 162.64380. The almost flat 24-hour change suggests the pair is pausing after its recent advance rather than reversing decisively. This kind of tight intraday range often reflects balance between yen demand and ongoing dollar resilience, so the broader tone still looks constructive unless price slips back under nearby short-term support.\n\nMomentum signals are limited, but the available MACD reading at 0.1150 remains mildly positive, which usually supports a bullish bias as long as it stays above zero and does not roll over sharply. RSI is unavailable, so overbought or oversold conditions cannot be confirmed directly. Even so, the lack of downside follow-through near current levels implies buyers are still defending the trend, though momentum appears measured rather than strong.\n\nImmediate support is clustered around 162.64, where the SMA sits, followed by the 162.50 area and then 162.20 if selling pressure deepens. On the upside, the current high near 162.68 is the first resistance, with a breakout above that level potentially opening the door toward 162.85 and then 163.00. Because price is moving in a tight band, a clean break from this range is likely needed before the next directional move develops.\n\nFor traders, the setup favors patience and confirmation. Short-term bulls may look for a sustained hold above 162.64 and a push through 162.68 before considering long entries, ideally with momentum expanding. Conservative stops could sit just below 162.50 to protect against a failed breakout. If price loses the SMA and cannot recover quickly, a brief pullback toward lower support would become more likely, making a reactive rather than aggressive long approach preferable."
+    }
+  }
+}

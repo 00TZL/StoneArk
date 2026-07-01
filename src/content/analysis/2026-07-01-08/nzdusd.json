@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-07-01T08:06:54.215Z",
+  "price": {
+    "close": "0.56759",
+    "high": "0.56778",
+    "low": "0.56757",
+    "open": "0.56778",
+    "change": "-0.04",
+    "datetime": "2026-07-01 18:00:00"
+  },
+  "indicators": {
+    "rsi": 57.20319,
+    "macd": 0.00040380898,
+    "macd_signal": 0.00046053523,
+    "sma20": 0.5674665
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：短线震荡偏弱，等待突破确认",
+      "content": "纽元/美元当前围绕0.5676一线窄幅波动，24小时几乎持平，说明市场方向性不足。价格虽仍贴近20日均线，但上攻力度有限，短线结构偏震荡，整体略带弱势。\n\n指标方面，MACD维持小幅正值，表明反弹动能尚未完全消失，但信号线缺失，趋势确认度不高。RSI暂不可用，超买超卖判断受限，因此更适合结合价格行为观察。\n\n支撑先看0.5675与0.5670，若失守，回撤可能延伸至0.5665附近；上方阻力关注0.5678，进一步突破后看0.5685和0.5690。当前区间极窄，突破前大概率延续整理。\n\n操作上宜以区间思路为主，未有效站稳0.5678前不宜追多；若跌破0.5675并放量，可轻仓顺势试空，止损放在0.5682上方。稳健者等待MACD与价格同步确认再介入。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "NZD/USD is trading in a very narrow range around 0.56759, which suggests the pair is consolidating rather than trending decisively. The latest price is sitting just above the 20-period simple moving average at 0.56747, so the short-term bias is mildly constructive, but the market is still lacking momentum. With the 24-hour change nearly flat, traders should treat this as a low-volatility setup where breakouts may matter more than intraday noise.\n\nThe MACD reading of 0.0004038 is positive, which indicates that upside momentum has not fully disappeared. Even without an RSI reading, price action suggests the pair is balanced rather than oversold or overbought. If NZD/USD can stay above the SMA(20), it would support a gradual recovery attempt. However, the tight high-low spread shows that buyers have not yet achieved meaningful follow-through, so confirmation is still needed.\n\nImmediate support is clustered near 0.56746 to 0.56757, followed by stronger support around 0.56680 and then 0.56580 if selling pressure increases. On the upside, resistance is first seen at 0.56778, the recent high, then around 0.56820 and 0.56900. A clean break above 0.56778 could open the door to a slow test of higher resistance, while a drop below 0.56746 would weaken the short-term structure.\n\nTrading wise, a cautious range strategy looks appropriate. Short-term traders may consider buying near support only if price holds above the SMA(20), with tight risk control below 0.56740. More conservative traders may wait for a clear breakout above 0.56778 before entering long positions. If price fails to hold support, fading rallies toward resistance could be more attractive than chasing momentum in this muted market."
+    }
+  }
+}
