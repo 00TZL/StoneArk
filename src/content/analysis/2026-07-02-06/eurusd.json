@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-07-02T07:00:13.395Z",
+  "price": {
+    "close": "1.13968",
+    "high": "1.14035",
+    "low": "1.13859",
+    "open": "1.13859",
+    "change": "0.09",
+    "datetime": "2026-07-02 16:00:00"
+  },
+  "indicators": {
+    "rsi": 57.10104,
+    "macd": -0.00029793734,
+    "macd_signal": -0.00053065364,
+    "sma20": 1.13836
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：震荡偏强延续",
+      "content": "当前EUR/USD维持震荡上行结构，价格站稳1.138附近支撑后小幅上探1.14关口，短线多头略占优势但动能有限，上方阻力逐步显现。\n\n技术指标方面，MACD仍处轻微负值但绿柱收敛，暗示空头动能减弱；SMA20位于1.13836形成短期支撑。RSI缺失但短线不超买。\n\n支撑位关注1.1380及1.1370区域，若失守或回测20日均线下沿；阻力位在1.1405及1.1420附近突破将打开上行空间。\n\n操作上建议短线偏多思路，回调至1.1380附近分批做多，止损1.1365下方，目标1.1420上方逐步止盈严格控制风险。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD is currently trading in a narrow consolidation phase around 1.13968 after a modest 0.09% 24-hour gain. Price action remains confined between 1.13859 and 1.14035, indicating a lack of strong directional conviction. The broader short-term structure leans slightly bullish as price holds above the 20-period SMA at 1.13836. However momentum remains subdued, suggesting the market is awaiting a clearer catalyst before initiating a breakout move.\n\nFrom an indicator perspective, the 20-period SMA at 1.13836 acts as immediate dynamic support, reinforcing the current range-bound bias. MACD reads slightly negative at -0.0002979, signaling mild bearish pressure, though not strong enough to confirm a trend reversal. With RSI unavailable, momentum assessment relies primarily on price structure, which continues to suggest equilibrium rather than trend expansion.\n\nImmediate support is located at 1.13859, aligning closely with the session low, followed by a stronger floor around 1.13836 where the 20-SMA converges. On the upside, resistance is seen at 1.14035, with a potential extension toward 1.1420 if bullish momentum strengthens. The tight spacing between support and resistance underscores a compressed volatility environment. This setup often precedes breakout attempts once volatility returns.\n\nTrading conditions favor a range-bound strategy in the near term, with buying interest likely emerging near 1.1383–1.1386 support and profit-taking or short positioning considered near 1.1403 resistance. Breakouts above 1.1405 would shift bias toward continuation higher, while a break below 1.1380 would expose deeper downside risk toward 1.1365. Risk management remains essential given low volatility conditions. Patience is required as directional confirmation has not yet emerged."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-07-02T07:03:53.268Z",
+  "price": {
+    "close": "1.42041",
+    "high": "1.42046",
+    "low": "1.42",
+    "open": "1.42",
+    "change": "0.02",
+    "datetime": "2026-07-02 17:00:00"
+  },
+  "indicators": {
+    "rsi": 41.41438,
+    "macd": -0.00012847017,
+    "macd_signal": 0.000006239109,
+    "sma20": 1.4214
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：窄幅震荡偏弱整理格局",
+      "content": "当前USD/CAD运行在1.4200上方极窄区间内，价格略低于20日均线1.42140，显示短线仍受均线压制。整体趋势呈现震荡偏弱结构，多空在整数关口附近反复博弈，方向选择尚未明确，市场进入整理蓄势阶段。  \n\n技术指标方面，MACD维持轻微负值-0.000128，动能偏空但力度有限，说明下行缺乏趋势性延续。RSI暂缺数据，但结合价格横盘特征判断动能中性偏弱，短线波动收敛，市场观望情绪较浓。  \n\n支撑与阻力方面，下方关键支撑位于1.4200整数关口，若跌破可能指向1.4185区域。上方阻力首先看1.4214均线位置，其次1.4230为前期密集成交区，突破该区域才可能打开上行空间。  \n\n交易策略上建议以区间思路为主，短线可在1.4200附近轻仓试多并严格止损，下破则转为顺势做空思路。若价格反弹至1.4214-1.4230区间承压，可考虑逢高布局空单，但需控制仓位等待方向确认。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "USD/CAD is trading at 1.42041, almost unchanged over the past 24 hours, suggesting a market that is consolidating after recent movement rather than establishing a decisive directional trend. The pair remains slightly below the 20-period simple moving average at 1.42140, indicating that short-term momentum still favors sellers. At the same time, the extremely narrow daily range highlights reduced volatility, implying that traders are waiting for a stronger catalyst before committing to larger positions.\n\nThe available technical indicators present a mildly bearish picture, although confirmation remains limited because RSI and the MACD signal line are unavailable. The MACD value of -0.00012847017 reflects weakening bullish momentum and hints that downside pressure has not completely faded. Trading beneath the 20-period moving average reinforces this cautious outlook, but the lack of broader indicator confirmation suggests avoiding overly aggressive directional bias until momentum becomes more clearly defined.\n\nImmediate support is located around the session low near 1.42000, with a break below that level potentially exposing additional downside toward the 1.41850 region. On the upside, initial resistance is found near the 20-period moving average at 1.42140, followed by the recent high around 1.42046 and then the 1.42300 area if buying interest strengthens. A sustained move above resistance would improve the short-term technical outlook and reduce the current bearish bias.\n\nTraders may consider maintaining a cautious approach while the pair remains trapped within its tight range. Short positions could be favored if price continues to reject the moving average, particularly when accompanied by stronger downside momentum. Conversely, a confirmed breakout above 1.42140 with increasing buying pressure may offer a more attractive long opportunity. Given the subdued volatility, disciplined risk management, clearly defined stop-loss levels, and patience for confirmation remain essential before entering new positions."
+    }
+  }
+}

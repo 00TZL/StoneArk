@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-07-02T07:05:43.310Z",
+  "price": {
+    "close": "0.80821",
+    "high": "0.80825",
+    "low": "0.80797",
+    "open": "0.80798",
+    "change": "0.02",
+    "datetime": "2026-07-02 17:00:00"
+  },
+  "indicators": {
+    "rsi": 40.69007,
+    "macd": -0.00019956468,
+    "macd_signal": -0.000061483823,
+    "sma20": 0.809065
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：震荡偏弱格局延续",
+      "content": "USD/CHF当前运行在0.8082附近，整体波动极度收敛，24小时高低点差距极小，显示市场处于明显横盘整理状态。汇价持续运行在20日均线0.8091下方，表明短期结构略偏弱，但尚未形成明确单边趋势，仍以震荡为主。\n\nMACD指标为负值约-0.0002，空头动能轻微占优但未明显放大，说明下行动力有限。RSI数据缺失，但结合价格贴近区间下沿判断，动能处于中性偏弱区域。均线走平进一步确认趋势缺乏方向性，市场进入整理阶段。\n\n下方关键支撑位关注0.8075，一旦失守可能下探0.8060甚至0.8050区域形成延伸回落。上方阻力集中在0.8090与0.8100整数关口，其中0.8091对应SMA20构成动态压制，突破前难以扭转偏弱结构。\n\n交易策略建议以高空思路为主，可在0.8090附近尝试轻仓做空，止损设于0.8105上方；若跌破0.8075可考虑顺势追空。暂不建议追多，除非价格有效站稳0.8100并突破均线压制后再行观察。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "USD/CHF is currently trading in a very tight consolidation around 0.8082, showing a mild intraday stalling after recent downward pressure. The pair remains slightly below its 20-day simple moving average at 0.8091, suggesting that short-term momentum is still capped. Price action is compressed, indicating indecision between buyers and sellers, with no clear breakout yet. Overall structure leans slightly bearish to neutral as upside attempts continue to fade near resistance.\n\nMomentum indicators reinforce a cautious outlook. The MACD reading at -0.0002 signals weak bearish momentum, though the magnitude remains minimal, suggesting a lack of strong selling conviction. With RSI unavailable, price action and moving averages carry more weight. Trading below the 20-day SMA further confirms a mild bearish bias. However, the extremely narrow range implies consolidation rather than trend expansion, keeping directional conviction limited for now.\n\nImmediate support is located near the session low around 0.80797, a level that has been repeatedly tested in the current range. A break below could expose the 0.8075 area, followed by stronger structural support near 0.8068. On the upside, resistance aligns with the 20-day SMA at 0.8091, with additional barriers at 0.8100. Price remains trapped between these levels, highlighting a well-defined short-term range structure.\n\nGiven the current lack of directional momentum, a range-trading approach is favored. Selling near resistance around 0.8090–0.8100 may offer favorable risk-reward opportunities, with tight stops above 0.8105 to guard against breakout risk. On the downside, buyers may look for scalping opportunities near 0.8079–0.8075 support zones. Traders should remain flexible, as a volatility expansion could quickly invalidate range strategies and trigger a short-term breakout move."
+    }
+  }
+}

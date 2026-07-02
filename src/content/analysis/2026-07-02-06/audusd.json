@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-07-02T07:03:05.814Z",
+  "price": {
+    "close": "0.68954",
+    "high": "0.68998",
+    "low": "0.68944",
+    "open": "0.68979",
+    "change": "-0.03",
+    "datetime": "2026-07-02 17:00:00"
+  },
+  "indicators": {
+    "rsi": 49.67648,
+    "macd": -0.000072373222,
+    "macd_signal": -0.00009538903,
+    "sma20": 0.6895895
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：窄幅震荡偏弱，短线仍待方向确认",
+      "content": "当前澳元/美元报0.68954，较前一日微跌0.03%，价格运行于日内高低点之间，整体波动较为有限。从均线位置观察，汇价略低于SMA20的0.68959，显示短线仍偏弱，但空方优势尚未明显扩大，市场仍处于整理阶段。\n\n技术指标方面，MACD数值为-0.000072，处于零轴附近且略偏负值，反映短期动能偏空，但趋势力度较弱。由于RSI(14)数据暂缺，当前难以判断是否进入超买或超卖区域，因此需结合价格行为与成交动能综合分析。\n\n从关键价位来看，0.68944构成短线第一支撑，若失守则可能进一步测试0.68900附近；上方初步阻力位于0.68998，其后关注0.69050一线。若价格有效突破阻力并站稳20日均线，则有望打开进一步反弹空间。\n\n交易策略上，建议以区间交易思路为主，等待价格突破关键支撑或阻力后再顺势跟进。激进投资者可关注均线附近的突破信号，稳健投资者则宜耐心等待MACD与价格形成同步转强或转弱确认，以降低假突破风险。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "AUD/USD is trading in a tight consolidation around 0.6895, reflecting a lack of decisive directional momentum. Price action remains range-bound just below a flat 20-period SMA, indicating equilibrium between buyers and sellers. The broader intraday structure leans slightly bearish as repeated failures to sustain moves above 0.6900 suggest overhead supply. Overall trend is neutral-to-slightly bearish, with volatility compressed and breakout potential gradually building beneath the surface.\n\nMomentum indicators reinforce this muted outlook. MACD is marginally negative, signaling weak downside pressure, while the absence of a clear RSI reading suggests balanced conditions without overbought or oversold extremes. The flat SMA(20) around current price confirms ongoing trend indecision. The extremely narrow trading range between 0.68944 and 0.68998 highlights volatility compression, which often precedes an expansion phase. Traders should remain alert for directional acceleration.\n\nImmediate support is located at 0.6894, aligned with the session low and recent liquidity absorption zone. A sustained break below this level could expose 0.6888 and potentially 0.6875 as the next downside objectives. On the upside, resistance is positioned at 0.6899, followed by the psychological 0.6900 level and stronger resistance near 0.6905. Price remains tightly compressed between these levels, making reactions to tests increasingly significant.\n\nIn the current environment, range-trading strategies are favored, with potential buys near support and sells near resistance, both requiring tight risk controls due to low volatility. Breakout traders should wait for a confirmed close beyond 0.6900 or below 0.6894 to validate direction. A bullish breakout would signal recovery momentum, while a downside break would shift bias toward deeper corrective pressure."
+    }
+  }
+}

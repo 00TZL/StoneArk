@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-07-02T07:04:50.801Z",
+  "price": {
+    "close": "0.56769",
+    "high": "0.56822",
+    "low": "0.56767",
+    "open": "0.56809",
+    "change": "-0.07",
+    "datetime": "2026-07-02 17:00:00"
+  },
+  "indicators": {
+    "rsi": 52.50556,
+    "macd": 0.00017105532,
+    "macd_signal": 0.00016525713,
+    "sma20": 0.5675255
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：震荡偏强整理",
+      "content": "当前纽元/美元维持窄幅震荡格局，价格围绕0.5675一线运行，短线动能有限但整体略偏强整理结构，市场波动率收敛，未出现明显方向突破信号。\n\n技术指标方面，汇价略高于SMA20均线0.5675，显示短期均线支撑有效。MACD为轻微正值，动能柱偏弱但仍维持温和上行倾向，RSI暂缺参考。\n\n下方支撑关注0.5670及0.5665区域，上方阻力位于0.5682与0.5695。操作上建议区间内低吸高抛，等待有效突破后顺势跟进，并关注宏观情绪变化。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "NZD/USD is currently trading in a narrow consolidation phase around 0.5677, reflecting subdued volatility and a lack of decisive directional momentum. The pair remains slightly pressured on the 24-hour basis with a marginal decline of 0.07%, suggesting mild USD resilience rather than aggressive NZD weakness. Price action is tightly compressed near the session low, indicating market indecision and liquidity-driven trading conditions. Overall trend remains neutral with a slight bearish intraday bias.\n\nTechnical indicators suggest a largely balanced market with minimal directional conviction. The price trading just above the 20-period SMA at 0.56753 indicates a fragile bullish tilt, though not strong enough to confirm trend continuation. MACD reading of 0.00017 shows a modest positive momentum shift, but the absence of RSI data limits overbought/oversold confirmation. Overall momentum remains weak, consistent with consolidation conditions.\n\nImmediate support is located around 0.5675, aligned closely with the 20-period SMA, making it a key short-term pivot zone. A sustained break below this level could expose downside targets at 0.5670 and 0.5660, where additional demand may emerge. On the upside, resistance is seen at 0.5682, followed by 0.5690 and the psychological 0.5700 level. Price remains trapped within a tight intraday range.\n\nTrading conditions favor a range-bound strategy given the compressed volatility and lack of strong directional signals. Buying near support around 0.5675 with tight risk control below 0.5668 may offer favorable reward-to-risk if bounce momentum develops. Alternatively, a breakout above 0.5682 could trigger short-term bullish continuation toward 0.5690 and 0.5700. Traders should remain cautious as momentum remains fragile. Macro uncertainty and low volatility conditions increase the importance of disciplined position sizing."
+    }
+  }
+}

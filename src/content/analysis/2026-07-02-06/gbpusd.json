@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-07-02T07:01:12.890Z",
+  "price": {
+    "close": "1.33078",
+    "high": "1.3325",
+    "low": "1.32912",
+    "open": "1.32921",
+    "change": "0.12",
+    "datetime": "2026-07-02 16:00:00"
+  },
+  "indicators": {
+    "rsi": 77.14045,
+    "macd": 0.0011104384,
+    "macd_signal": 0.00095329502,
+    "sma20": 1.32781
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：高位震荡偏多整理",
+      "content": "英镑/美元当前呈现温和上行后的高位整理格局，价格围绕1.330附近震荡，短线多头动能仍在但未形成强势突破，整体趋势偏向震荡偏多，需等待方向确认。\n\n从均线结构看，价格运行于20日均线上方，短期支撑有效。MACD维持轻微正值但柱体较弱，动能不足。RSI缺失但结合走势推测处于中性偏强区域。波动延续\n\n下方关键支撑位于1.3278与1.3250一带，上方阻力集中在1.3325近期高点及1.3350整数关口，突破与否将决定短线方向延续性。\n\n操作上建议以回调做多为主，关注1.3290附近企稳机会，止损可设于1.3270下方，上看1.3325突破后延伸至1.3350，整体偏短线顺势交易思路。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "GBP/USD continues to trade with a mild bullish bias after holding above the 20-day SMA, suggesting buyers are gradually regaining control. Price action remains confined within a narrow intraday range between 1.3291 and 1.3325, reflecting consolidation after recent gains. The structure indicates a short-term uptrend, though momentum is not strong enough to confirm a breakout yet. Market participants appear cautious ahead of a decisive catalyst overall bias.\n\nMomentum indicators present a cautiously positive tone, with MACD reading slightly above the zero line at 0.00111, hinting at limited but persistent bullish pressure. Although the signal line is unavailable, the histogram behavior suggests gradual improvement in upside momentum. Price trading above the 20-day SMA reinforces short-term strength. In absence of RSI, overall conditions can still be interpreted as neutral-to-bullish, lacking overbought signals.\n\nImmediate support is seen around 1.3291, aligning with the session low, followed closely by the 20-day SMA near 1.3278, which acts as a dynamic floor. A deeper correction could expose 1.3250 as the next downside zone. On the upside, resistance is located at 1.3325, the recent high, with a breakout potentially opening the path toward 1.3350 and 1.3380 levels respectively.\n\nCurrent conditions favor a range-trading approach while price remains trapped between support and resistance levels. Buying near 1.3290–1.3278 with protective stops below 1.3270 offers a favorable risk-reward setup for continuation toward 1.3325 and 1.3350. Alternatively, short positions near resistance may be considered for scalping, provided tight stops are used. Breakouts above 1.3325 would shift bias more strongly bullish accordingly respectively."
+    }
+  }
+}
