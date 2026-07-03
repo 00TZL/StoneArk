@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-07-03T06:56:14.745Z",
+  "price": {
+    "close": "160.73653",
+    "high": "161.17745",
+    "low": "160.60117",
+    "open": "161.1691",
+    "change": "-0.27",
+    "datetime": "2026-07-03 16:00:00"
+  },
+  "indicators": {
+    "rsi": 29.54356,
+    "macd": -0.20559197,
+    "macd_signal": -0.23012265,
+    "sma20": 161.12351
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：短线承压回落偏弱震荡",
+      "content": "当前USD/JPY围绕160.70附近运行，价格跌破20日均线161.12后转入弱势整理，短线动能偏空但未形成单边下跌结构。\n\n技术指标方面，MACD维持-0.2055负值区间，空头动能占优；价格位于20日均线下方，短期均线压制明显，RSI缺失但动能偏弱。\n\n下方支撑位于160.60一线，为日内低点附近；上方阻力集中161.12至161.18区域，突破均线前难以打开上行空间，震荡为主。\n\n操作建议以区间交易为主，靠近160.60可轻仓尝试反弹，多头需等待站稳161.20上方确认，严格控制风险并避免追单。操作纪律"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USD/JPY is currently in a mild corrective phase after failing to sustain momentum above recent highs near 161.17. Price action has slipped slightly below the 20-period SMA at 161.12, suggesting short-term bearish pressure within a broader medium-term uptrend. The pair remains structurally supported above the 160.60 intraday low, indicating consolidation rather than a full reversal. Market sentiment is cautious as traders reassess dollar strength against yen stability expectations.\n\nMomentum indicators reinforce the short-term weakness. MACD at -0.2056 is below zero, signaling bearish momentum and a potential continuation of downside pressure unless a bullish crossover emerges. With RSI unavailable, price action becomes more important, and current positioning below the 20-SMA confirms near-term softness. However, the lack of acceleration in downside movement suggests this may remain a corrective pullback rather than a trend reversal scenario.\n\nKey support is seen at 160.60, the recent intraday low, followed by stronger psychological support at 160.00. A break below 160.00 could expose 159.50 as the next downside target. On the upside, immediate resistance is located at 161.10–161.20, aligned with the 20-SMA and recent rejection zone, followed by 161.60 as the next major resistance area where sellers previously emerged in the near term.\n\nTrading strategy favors selling into strength near resistance zones while maintaining caution due to the broader uptrend. Short-term traders may consider fading moves toward 161.10–161.20 with tight stops above 161.60. Alternatively, dip-buying near 160.60 remains viable only if price action shows rejection of breakdown attempts. Overall, range trading conditions dominate, with emphasis on disciplined risk management amid volatile USD/JPY flows."
+    }
+  }
+}

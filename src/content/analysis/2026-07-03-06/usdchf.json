@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-07-03T06:59:48.952Z",
+  "price": {
+    "close": "0.80159",
+    "high": "0.80237",
+    "low": "0.80112",
+    "open": "0.80229",
+    "change": "-0.09",
+    "datetime": "2026-07-03 16:00:00"
+  },
+  "indicators": {
+    "rsi": 29.29999,
+    "macd": -0.0011485475,
+    "macd_signal": -0.0011502637,
+    "sma20": 0.803305
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：震荡偏空",
+      "content": "美元/瑞郎短线整体偏空震荡，价格持续运行在20日均线下方，反弹力度有限，空头动能略占优势，但尚未形成明确单边下行结构。\n\nMACD指标维持在零轴下方运行，动能柱偏弱，显示下行动能占优但缺乏加速迹象，说明当前更多属于弱势整理与震荡回落阶段。\n\n下方支撑重点关注0.8011日内低点及0.8000整数关口，上方阻力集中在0.8023与0.8033均线区域，整体维持窄幅区间运行格局。\n\n操作上建议反弹至0.8023-0.8033分批布局空单，止损设于0.8040上方，若跌破0.8010可顺势追空，下看0.8000附近支撑位。"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "USD/CHF continues to exhibit a mild bearish consolidation phase following repeated rejection near the 0.8030–0.8035 zone. Price action remains capped below the 20-period SMA, signaling short-term downside pressure despite the relatively tight intraday range. Lower highs and slightly weaker momentum suggest sellers are gradually gaining control, although volatility remains compressed, indicating the market is awaiting a catalyst for a clearer directional breakout.\n\nMomentum indicators reinforce this view. The MACD remains in negative territory at -0.0011, suggesting persistent bearish momentum, even though the histogram appears shallow, implying limited conviction. With RSI data unavailable, price positioning below the SMA(20) at 0.8033 acts as a proxy for trend strength, pointing to a soft bearish bias. The absence of strong bullish signals keeps upside attempts fragile and prone to rejection near resistance levels.\n\nImmediate support is located at the intraday low around 0.8011, which aligns closely with recent price stabilization. A decisive break below this level could expose the psychological 0.8000 handle, followed by a deeper support zone near 0.7985. On the upside, initial resistance sits at 0.8024, with stronger resistance at the 20-SMA near 0.8033, where sellers have consistently re-emerged.\n\nTrading conditions favor a cautious bearish bias while price remains below the SMA. Short positions may be considered on rallies toward 0.8024–0.8033, with tight stop-losses above 0.8040 to manage risk. Alternatively, traders should wait for a clean breakout below 0.8011 to confirm continuation. Given the narrow range, disciplined risk management is essential to avoid whipsaw movements in low-volatility conditions."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-07-03T06:57:11.560Z",
+  "price": {
+    "close": "0.69452",
+    "high": "0.69493",
+    "low": "0.69388",
+    "open": "0.69391",
+    "change": "0.09",
+    "datetime": "2026-07-03 16:00:00"
+  },
+  "indicators": {
+    "rsi": 68.26325,
+    "macd": 0.00090162171,
+    "macd_signal": 0.00074422377,
+    "sma20": 0.692617
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：震荡偏强",
+      "content": "短线澳元/美元维持震荡偏强结构，价格站上0.6926均线后延续缓慢上行，但上方0.6950附近存在明显压力，多空进入博弈阶段。\n\nMACD维持小幅正值，动能柱偏多但未放大，显示上涨动能温和释放，结构仍偏多。若RSI后续回升至55上方，将确认短线趋势延续并增强。\n\n下方支撑关注0.6926与0.6900区域，上方阻力集中在0.6950及0.6980附近，突破0.6950或打开进一步上行空间。\n\n操作上建议回调靠近0.6925-0.6930分批做多，止损设0.6900下方，目标先看0.6950，突破后可延伸至0.6980一带。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "AUD/USD continues to trade in a mild upward-leaning consolidation phase after holding above the 20-period SMA at 0.69262. Price action remains compressed within a tight intraday range, suggesting equilibrium between buyers and sellers. The market structure still favors a gradual bullish bias, but momentum lacks strong expansion. Recent candles show hesitation near the 0.6950 area, indicating potential short-term exhaustion rather than a reversal.\n\nMomentum indicators suggest a modest bullish pressure, with MACD reading above zero at 0.00090, reflecting continued but weakening upside momentum. The absence of an RSI reading limits overbought assessment, yet price stability above the 20-SMA implies underlying demand support. However, the shallow MACD slope indicates fading acceleration, hinting that bullish strength may be transitioning into sideways consolidation rather than a trending breakout phase.\n\nSupport is anchored at the 20-SMA around 0.6926, which now acts as the first defensive level for buyers. A deeper floor sits near 0.6900, aligning with psychological support and prior intraday congestion. On the upside, immediate resistance is observed at 0.6949, followed by a potential extension toward 0.6965 and the round 0.7000 level if momentum strengthens in the near term.\n\nStrategy favors buying dips above 0.6926 support, aligning with trend-following behavior in a range-to-bullish environment. Traders may consider long entries on rejection of lower bounds, with protective stops below 0.6920 to guard against breakdown risk. Upside targets include 0.6949 and 0.6965, while partial profit-taking near resistance is prudent. Alternatively, breakout traders may wait for a sustained move above 0.6950 for confirmation in validation phase."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-07-03T06:58:12.726Z",
+  "price": {
+    "close": "1.41688",
+    "high": "1.41698",
+    "low": "1.4161",
+    "open": "1.41636",
+    "change": "0.03",
+    "datetime": "2026-07-03 16:00:00"
+  },
+  "indicators": {
+    "rsi": 37.7875,
+    "macd": -0.00086646304,
+    "macd_signal": -0.00078972177,
+    "sma20": 1.41794
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：震荡偏弱延续",
+      "content": "短线美元加元呈震荡偏弱格局，价格运行于20日均线下方，整体动能不足，多头延续性有限，市场进入整理偏空阶段空头占优但波动收敛短期承压延续风险\n\nMACD指标维持轻微负值，动能柱偏弱，说明空方动能仍占优势；价格未能收复均线，反弹持续性不足短线偏空延续运行为主结构弱势\n\n下方支撑关注1.4161低点区域，上方阻力集中于1.4179及1.4185一线，突破需放量确认趋势反转区间震荡明显阶段性\n\n建议以反弹做空为主，控制仓位，等待价格靠近阻力区分批布局，同时设置止损于1.4190上方以防突破风险谨慎操作为宜短线交易"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "USD/CAD is currently trading in a tight consolidation phase with a slight bearish bias, hovering at 1.41688 just below the 20-period SMA at 1.41794. Price action remains compressed between 1.4161 and 1.41698, reflecting low intraday volatility and market indecision. Despite brief attempts to stabilize, the pair continues to struggle reclaiming the short-term moving average, suggesting that sellers retain modest control. Overall structure points to a mild corrective phase rather than a strong directional trend.\n\nMomentum indicators reinforce this cautious bearish tone. The MACD reading at -0.000866 signals weakening upside momentum and a continued preference for downside pressure. Although RSI is not available, the positioning of price below the SMA(20) typically aligns with softening bullish strength. The absence of strong momentum in either direction indicates a market waiting for a catalyst, with downside bias gradually building unless buyers can reclaim equilibrium above short-term averages.\n\nKey resistance is observed at 1.4179–1.4180, aligned with the SMA(20), followed by a more significant barrier near 1.4200, where previous reactions have likely capped upside moves. On the downside, immediate support sits at 1.4161, with a break exposing 1.4150 and potentially 1.4125 as extended targets. The current narrow range suggests compression, often preceding a breakout in either direction once volatility returns.\n\nFrom a trading perspective, a cautious bearish approach is favored while price remains below 1.4180. Short positions may be considered on rejection near resistance, with protective stops above 1.4185 and downside targets toward 1.4150 and 1.4125. Alternatively, a bullish breakout above 1.4180 would invalidate near-term weakness and open room toward 1.4200. Risk management is essential given the current low-volatility environment."
+    }
+  }
+}

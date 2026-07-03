@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-07-03T06:55:16.690Z",
+  "price": {
+    "close": "1.33754",
+    "high": "1.33803",
+    "low": "1.33646",
+    "open": "1.33654",
+    "change": "0.08",
+    "datetime": "2026-07-03 16:00:00"
+  },
+  "indicators": {
+    "rsi": 68.16806,
+    "macd": 0.0014925339,
+    "macd_signal": 0.0015533617,
+    "sma20": 1.33545
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：短线震荡偏强上行",
+      "content": "当前GBP/USD处于短线震荡上行结构，价格稳守1.3350一线之上，整体仍维持温和多头格局，但上行动能略有放缓。\n\n技术指标方面，价格运行于SMA20(1.33545)之上形成支撑，MACD维持小幅正值，动能偏多但未明显放大，趋势确认度一般。\n\n支撑位关注1.3360与1.3350区域，若跌破或回测均线；阻力位看1.3380及前高1.3395附近，突破需放量配合确认。\n\n交易策略建议短线回调低多为主，若回落至1.3360附近企稳可轻仓做多，跌破1.3350则需谨慎转为观望或顺势短空。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "GBP/USD is maintaining a mild bullish bias after stabilizing above the 1.3350 region, with price action gradually grinding higher toward recent intraday highs. The pair’s structure reflects a short-term recovery phase following prior consolidation, supported by steady buying interest on dips. However, momentum remains moderate rather than impulsive, suggesting traders are still cautious and awaiting confirmation of a stronger directional breakout above nearby resistance near 1.3380.\n\nPrice action is trading just above the 20-period SMA at 1.33545, indicating a short-term supportive trend foundation. The positive MACD reading of 0.00149 suggests bullish momentum is present, though not yet strongly expanding, as no signal line is provided for full confirmation. Overall, indicators point to a cautiously bullish setup, where momentum is improving but still requires stronger follow-through to validate sustained upside continuation above recent highs.\n\nImmediate support is seen near 1.3350, aligned closely with the 20-SMA, making it a key intraday pivot zone. A break below this level could expose downside risk toward 1.3330 and potentially 1.3300 if selling pressure accelerates. On the upside, resistance is concentrated around 1.3380, followed by 1.3400 as a psychological barrier. Price reaction at these levels will likely define the next short-term directional move.\n\nFrom a trading perspective, bias remains mildly bullish while price holds above 1.3350, favoring long positions on dips toward support with tight risk control. Traders may consider breakout strategies above 1.3380 to capture momentum continuation toward 1.3400, while placing protective stops below the SMA to manage downside risk. Given the modest momentum profile, position sizing should remain conservative until a clearer breakout is confirmed."
+    }
+  }
+}

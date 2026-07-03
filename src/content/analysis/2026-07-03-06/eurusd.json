@@ -1,0 +1,30 @@
+{
+  "symbol": "EUR/USD",
+  "name": "Euro vs US Dollar",
+  "nameCn": "欧元/美元",
+  "timestamp": "2026-07-03T06:54:23.687Z",
+  "price": {
+    "close": "1.14596",
+    "high": "1.14621",
+    "low": "1.14485",
+    "open": "1.14485",
+    "change": "0.10",
+    "datetime": "2026-07-03 16:00:00"
+  },
+  "indicators": {
+    "rsi": 70.62338,
+    "macd": 0.0010708693,
+    "macd_signal": 0.00096895884,
+    "sma20": 1.14374
+  },
+  "analysis": {
+    "zh": {
+      "title": "欧元/美元技术分析：震荡偏强延续上行",
+      "content": "当前EUR/USD维持窄幅震荡后小幅上行结构，价格稳守1.1440上方，短线多头动能略占优势，但上方阻力逐步临近，整体仍属温和偏多格局。\n\nMACD柱值维持正区间0.00107，显示短期动能略有改善；价格站上20日均线1.14374，均线开始提供支撑，但RSI缺失限制超买/超卖判断有效性。\n\n上方阻力关注1.1462及1.1475区域，若突破将打开进一步上行空间；下方支撑位于1.1440与1.1430，跌破则短线转弱并回测均线。\n\n操作上建议维持回调做多为主，关注价格在1.1440附近的企稳信号，激进者可在突破1.1462后顺势追多，严格设置止损以控制回撤风险。"
+    },
+    "en": {
+      "title": "Euro vs US Dollar Technical Analysis",
+      "content": "EUR/USD is showing a mildly bullish consolidation structure around 1.1460 after a modest 0.10% daily gain. Price action remains tightly compressed near the session high, indicating controlled upside momentum rather than aggressive buying. The pair is trading above its 20-period SMA at 1.14374, suggesting the short-term trend is gradually improving. However, lack of strong directional expansion signals a market waiting for a catalyst.\n\nMomentum indicators lean slightly positive. MACD is currently at 0.00107, hovering just above the zero line, which reflects a fragile bullish momentum shift. Although a full signal line reading is not available, the histogram behavior suggests diminishing downside pressure. RSI data is unavailable, but price stability above the moving average implies neutral-to-bullish conditions. Overall, momentum favors gradual upside continuation rather than reversal.\n\nImmediate resistance is located at the recent high of 1.14621, where price is currently testing supply pressure. A sustained breakout above this level could open the path toward 1.1475 and the psychological 1.1500 region. On the downside, initial support sits at the 20-period SMA of 1.14374, followed by stronger support near 1.1420 and 1.1400, where buyers previously re-emerged in the near term.\n\nTrading conditions favor range-to-breakout strategies due to subdued volatility. Short-term traders may consider buying dips above 1.14374 with tight risk control, targeting resistance at 1.14621 and beyond if momentum accelerates. Alternatively, a confirmed breakout above resistance would validate bullish continuation entries. Protective stops below 1.1420 remain prudent, as failure to hold support could trigger a deeper pullback toward 1.1400 while monitoring US data releases closely."
+    }
+  }
+}

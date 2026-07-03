@@ -1,0 +1,30 @@
+{
+  "symbol": "NZD/USD",
+  "name": "New Zealand Dollar vs US Dollar",
+  "nameCn": "纽元/美元",
+  "timestamp": "2026-07-03T06:59:01.423Z",
+  "price": {
+    "close": "0.57221",
+    "high": "0.57269",
+    "low": "0.57155",
+    "open": "0.57158",
+    "change": "0.11",
+    "datetime": "2026-07-03 16:00:00"
+  },
+  "indicators": {
+    "rsi": 68.69459,
+    "macd": 0.00081493361,
+    "macd_signal": 0.00066367404,
+    "sma20": 0.570195
+  },
+  "analysis": {
+    "zh": {
+      "title": "纽元/美元技术分析：温和偏多震荡上行",
+      "content": "NZD/USD短线呈现温和震荡上行结构，价格维持在0.57200上方运行，整体延续低位反弹后的整理走势。当前汇价逐步逼近日内高点0.57269，显示买盘仍占优势，但动能未出现明显加速。结构上仍属于区间上沿测试阶段，尚未形成明确趋势突破，更多体现为偏强震荡格局，市场处于多空博弈的平衡状态。\n\nSMA20位于0.570195下方，价格持续站稳均线之上，确认短期多头结构保持有效。MACD指标为正值0.0008149，显示动能柱维持温和扩张，但缺乏信号线数据限制进一步交叉判断。整体技术指标指向轻微多头优势，但上行动能仍属渐进式释放，趋势延续需要更多量能配合。\n\n下方关键支撑集中在0.57150日内低点及0.57020附近的SMA20位置，该区域为多头防守核心。若跌破均线，则可能回撤至0.56850一线寻求更深层支撑。上方阻力首先关注0.57270前高，若有效突破并企稳，则有望打开0.57350至0.57400的短线扩展空间。\n\n交易策略上建议以回调做多为主，在0.57150至0.57050区域分批布局多单，止损设置于0.57000下方以控制风险。若价格有效突破0.57270并站稳，可顺势追多。当前波动空间收敛，避免追涨杀跌，更适合等待突破确认或均线回踩后的低吸机会。"
+    },
+    "en": {
+      "title": "New Zealand Dollar vs US Dollar Technical Analysis",
+      "content": "NZD/USD is trading at 0.57221, holding modest gains after a steady intraday advance. The pair remains above its 20-day simple moving average at 0.570195, suggesting that short-term momentum continues to favor buyers. Although the latest daily change is limited, price action indicates a constructive tone as long as the market maintains higher lows. A sustained move above the recent high of 0.57269 would strengthen the bullish outlook and encourage additional upside interest.\n\nTechnical indicators offer a cautiously positive picture despite incomplete momentum data. The available MACD reading of 0.00081493361 remains in positive territory, implying that bullish momentum has not yet faded. While the absence of RSI and MACD signal values limits confirmation, the current price trading comfortably above the moving average supports the view that buying pressure still has an edge. Traders should nevertheless monitor momentum closely for signs of weakening if price stalls near recent highs.\n\nThe immediate support zone is located around 0.57155, the session low, with stronger support emerging near the 20-day moving average around 0.57020. A decisive break below these levels could expose the pair to a deeper corrective move and reduce the current bullish bias. On the upside, resistance begins at 0.57269, followed by the psychologically important 0.57500 area, where profit-taking and renewed selling interest could emerge.\n\nFrom a trading perspective, maintaining a mildly bullish bias appears reasonable while the pair remains above 0.57020. Conservative traders may prefer waiting for a confirmed breakout above 0.57269 before initiating fresh long positions, aiming for higher resistance levels with disciplined risk management. Alternatively, a failure to hold above support could create short-term selling opportunities toward lower technical targets. Position sizing and protective stop-loss orders remain essential given the potential for sudden shifts in currency market sentiment."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-07-03T07:00:57.652Z",
+  "price": {
+    "close": "4171.65074",
+    "high": "4174.31959",
+    "low": "4161.98443",
+    "open": "4171.23355",
+    "change": "0.01",
+    "datetime": "2026-07-03 16:00:00"
+  },
+  "indicators": {
+    "rsi": 69.90422,
+    "macd": 27.94346,
+    "macd_signal": 26.03453,
+    "sma20": 4138.045662
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：高位震荡偏多整理",
+      "content": "当前黄金/美元整体维持高位震荡偏强结构，价格稳站20日均线之上，短线多头优势仍在，但上行动能略有放缓，进入整理阶段。整体趋势仍偏多头排列。但需警惕高位回调风险增加。短期以区间整理为主。波动收敛。等待突破方向确认信号\n\nMACD指标维持正值区间运行，动能柱虽未明显扩大但仍支持多头结构；RSI缺失但结合价格高位整理判断，市场进入强势盘整阶段。短线动能略有钝化。但趋势尚未转弱。多空仍以多头占优。指标共振偏多但乏力。需观察后续放量情况确认信号\n\n支撑位关注4162短期低点，其下为4138均线强支撑；阻力位4174前高已被测试，若突破将指向4185及4200整数关口。区间边界明确。关注突破有效性信号确认关键点位\n\n操作上建议顺势偏多思路，回踩4162-4138区域分批做多更优；若有效跌破4138则短线转为观望，突破4174后可轻仓追多。控制仓位与止损。避免追高风险。保持纪律交易分阶段执行策略为主性"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "Gold vs US Dollar is maintaining a bullish consolidation phase around 4171, holding just below the recent intraday high of 4174 after a tight range between 4162 and 4174. The broader structure remains constructive as price trades well above the 20-period SMA at 4138, indicating buyers are still in control. Higher lows suggest ongoing accumulation and controlled upward momentum building.\n\nGold's momentum is supported by a positive MACD reading of 27.94, reflecting sustained bullish pressure despite the lack of RSI data. Price action remains steady near the upper boundary of the intraday range, suggesting controlled momentum rather than exhaustion. With volatility compressed, the market appears to be coiling for a potential breakout while maintaining underlying bullish bias above key moving averages. watch for sustained close above resistance zone confirmation\n\nImmediate support is seen at 4162, followed by stronger support near the 20-SMA at 4138, which acts as a key dynamic floor for the current uptrend. On the upside, resistance is located at 4174, with a sustained break opening the path toward 4185 and the psychological 4200 level. Price behavior around these zones will define the next directional move ahead.\n\nTrading strategy favors buying on dips above 4162 with confirmation of support holding, while breakout traders may consider entries above 4174 targeting 4185 and 4200. Protective stops should be placed below 4160 for short-term trades or beneath 4138 for swing positions. Given the compressed range, risk management remains essential as false breakouts may occur before expansion in current market conditions."
+    }
+  }
+}
