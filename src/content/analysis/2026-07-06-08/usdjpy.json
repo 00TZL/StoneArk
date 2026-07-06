@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/JPY",
+  "name": "US Dollar vs Japanese Yen",
+  "nameCn": "美元/日元",
+  "timestamp": "2026-07-06T08:11:43.703Z",
+  "price": {
+    "close": "162.2336",
+    "high": "162.27663",
+    "low": "162.16739",
+    "open": "162.17874",
+    "change": "0.04",
+    "datetime": "2026-07-06 18:00:00"
+  },
+  "indicators": {
+    "rsi": 71.13719,
+    "macd": 0.23466101,
+    "macd_signal": 0.14805294,
+    "sma20": 161.58055
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/日元技术分析：高位震荡偏强上行",
+      "content": "汇价当前围绕162.23高位整理，整体仍处于上升趋势中的震荡阶段。价格稳定运行在20日均线161.58上方，表明多头结构未被破坏，但动能略有放缓，短线进入整理蓄势区间。\n\nMACD指标维持正值0.2346，显示多头动能仍占优势，但信号线缺失暗示动量延续性有限。RSI未给出，但结合价格结构判断，短期大概率处于高位中性偏强区域，需警惕超买回调压力。\n\n下方关键支撑位关注161.80与161.50，跌破可能引发回踩20日均线。上方阻力位位于162.30与162.60，若有效突破将打开进一步上行空间，指向163关口区域。\n\n交易策略建议以回调做多为主，优先等待161.80附近企稳信号介入，多头止损可设在161.40下方。若突破162.30，可顺势追多，但需防范高位快速回撤风险。"
+    },
+    "en": {
+      "title": "US Dollar vs Japanese Yen Technical Analysis",
+      "content": "USD/JPY remains in a steady bullish structure, with price currently trading around 162.23 and holding above the 20-period SMA at 161.58. This suggests the short-term trend remains upward, supported by persistent dollar strength and yield differentials. The 24-hour range is extremely tight, indicating consolidation rather than reversal. Price action continues to respect higher lows, reinforcing the broader uptrend despite intraday hesitation near recent highs.\n\nMomentum signals are moderately constructive, with MACD reading at 0.2346, indicating positive momentum, though the lack of a visible signal line reading limits confirmation of acceleration. The absence of RSI data reduces precision, but price stability above moving average support implies buyers remain in control. However, the flat 24-hour change suggests momentum is pausing, and the pair may be building energy for a directional breakout rather than extending immediately.\n\nKey resistance is forming near 162.27, which aligns closely with the current intraday high and acts as an immediate ceiling. A sustained break above this level could open the path toward 162.60 and potentially higher extension zones. On the downside, initial support is seen at 162.16, followed by stronger structural support at 161.58, the 20-SMA, which remains a critical trend defense level for bulls.\n\nTrading strategy favors buying dips within the established uptrend, particularly near 161.60–161.80 with tight risk control below 161.50. Breakout traders may consider long positions on a confirmed close above 162.30, targeting momentum continuation. Conversely, rejection at resistance could trigger short-term mean reversion toward the SMA, but broader bias remains bullish unless 161.50 support is decisively broken."
+    }
+  }
+}

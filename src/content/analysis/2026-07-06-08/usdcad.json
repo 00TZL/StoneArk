@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CAD",
+  "name": "US Dollar vs Canadian Dollar",
+  "nameCn": "美元/加元",
+  "timestamp": "2026-07-06T08:13:30.453Z",
+  "price": {
+    "close": "1.42222",
+    "high": "1.42225",
+    "low": "1.42182",
+    "open": "1.42187",
+    "change": "0.02",
+    "datetime": "2026-07-06 18:00:00"
+  },
+  "indicators": {
+    "rsi": 70.64114,
+    "macd": 0.0004796076,
+    "macd_signal": 0.00029628291,
+    "sma20": 1.42064
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/加元技术分析：高位震荡偏多延续",
+      "content": "当前美元/加元维持窄幅震荡偏强格局，价格贴近1.4222一线高位运行，多头动能温和延续，但上方空间受限，整体呈现高位整理向上试探结构。\n\nSMA20位于1.42064下方形成短期支撑，价格站上均线显示趋势偏多。MACD为正值且持续放大，动能柱温和扩张，但RSI缺失需结合价格行为确认。\n\n短线支撑关注1.4206与1.4195区域，若失守或转入回调结构。上方阻力在1.4223-1.4230密集区，突破将打开进一步上行至1.4250空间。\n\n交易策略建议以回调做多为主，等待1.4205附近企稳分批布局，多头止损设于1.4190下方。若放量突破1.4230，可顺势追多但需控制仓位。"
+    },
+    "en": {
+      "title": "US Dollar vs Canadian Dollar Technical Analysis",
+      "content": "USD/CAD is currently exhibiting a mild bullish consolidation phase, trading just above the 1.4200 region and holding slightly above the 20-period SMA at 1.42064. Price action remains tight near recent highs, suggesting equilibrium between buyers and sellers rather than a directional breakout. The broader structure leans modestly bullish as long as the pair sustains above the short-term moving average, with momentum gradually stabilizing after a brief period of indecision.\n\nFrom an indicator standpoint, the MACD reading of 0.00048 confirms a weak but positive momentum bias, indicating that upside pressure is present though not strongly accelerating. With RSI data unavailable, price behavior becomes the primary guide, and current compression near resistance implies neutral-to-slightly bullish conditions. The absence of strong volatility expansion suggests the market is coiling, potentially preparing for a directional move once range boundaries are breached.\n\nKey support is located at 1.4206, aligned with the SMA20, followed by deeper support at 1.4190 and 1.4180, where buyers have recently defended price action. On the upside, immediate resistance stands at 1.4230, with stronger barriers near 1.4250 and 1.4280. A sustained break above 1.4230 would likely confirm continuation of the short-term uptrend, while failure to hold above 1.4200 could shift sentiment toward corrective downside pressure.\n\nTrading conditions favor a range-to-breakout approach. Short-term traders may consider buying dips toward 1.4200–1.4190 with tight risk control below 1.4180, targeting a move back toward 1.4230 and potentially 1.4280 on breakout confirmation. Alternatively, a rejection near resistance could offer short-term fading opportunities. Overall volatility remains subdued, requiring disciplined entries and avoidance of overleveraged positioning in the current consolidation phase."
+    }
+  }
+}

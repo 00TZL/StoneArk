@@ -1,0 +1,30 @@
+{
+  "symbol": "AUD/USD",
+  "name": "Australian Dollar vs US Dollar",
+  "nameCn": "澳元/美元",
+  "timestamp": "2026-07-06T08:12:42.519Z",
+  "price": {
+    "close": "0.69352",
+    "high": "0.69384",
+    "low": "0.69349",
+    "open": "0.69369",
+    "change": "-0.03",
+    "datetime": "2026-07-06 18:00:00"
+  },
+  "indicators": {
+    "rsi": 51.22013,
+    "macd": -0.000088598228,
+    "macd_signal": -0.000086860295,
+    "sma20": 0.6934195
+  },
+  "analysis": {
+    "zh": {
+      "title": "澳元/美元技术分析：震荡偏弱整理",
+      "content": "当前澳元/美元整体处于窄幅震荡格局，价格围绕0.6935附近运行，波动区间极度收敛，显示市场进入短期整理阶段，上方0.6938形成临时阻力，动能偏弱。\n\n技术指标方面，MACD微幅为负显示动能仍偏空，但价格略站上20日均线0.6934附近，短线多空分歧明显，趋势缺乏单边延续性。\n\n支撑位关注0.6934与0.6930一线，若失守或进一步测试0.6925区域；上方阻力0.6938与0.6942，突破需放量确认。"
+    },
+    "en": {
+      "title": "Australian Dollar vs US Dollar Technical Analysis",
+      "content": "AUD/USD is currently exhibiting a narrow consolidation phase with a mild downside bias. Price action at 0.69352 remains tightly compressed near the session low, suggesting reduced volatility and equilibrium between buyers and sellers. The 24-hour decline of -0.03% reflects indecision rather than directional conviction. Overall structure indicates a sideways drift following recent directional exhaustion, with the market awaiting a catalyst for expansion beyond the current micro range.\n\nFrom an indicator standpoint, momentum signals lean slightly bearish. The MACD reading of -0.0000886 suggests fading bullish momentum and a subtle shift toward downside pressure, though the magnitude remains weak. With RSI unavailable, price behavior relative to the 20-period SMA becomes more relevant. Trading around 0.69342, the SMA(20) is acting as a short-term equilibrium line, reinforcing the idea of a range-bound market rather than a trending environment.\n\nKey support is located near 0.6930, with a secondary buffer around 0.6925, where buyers have recently stepped in to stabilize price action. On the upside, immediate resistance is seen at 0.6938–0.6940, aligning closely with the recent high. A sustained break above 0.6945 would be required to reintroduce bullish momentum, while a breakdown below 0.6925 could open the door toward deeper retracement levels.\n\nTrading conditions favor a mean-reversion approach in the short term. Range traders may consider buying near support zones with tight risk control and targeting resistance at 0.6940, while short positions could be explored on rejection signals near the upper boundary. Given the compressed volatility, breakout confirmation is essential before positioning for trend continuation. Risk management remains critical due to potential sudden expansion from this equilibrium state."
+    }
+  }
+}

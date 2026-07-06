@@ -1,0 +1,30 @@
+{
+  "symbol": "GBP/USD",
+  "name": "British Pound vs US Dollar",
+  "nameCn": "英镑/美元",
+  "timestamp": "2026-07-06T08:10:58.823Z",
+  "price": {
+    "close": "1.33443",
+    "high": "1.33506",
+    "low": "1.33442",
+    "open": "1.33491",
+    "change": "-0.04",
+    "datetime": "2026-07-06 18:00:00"
+  },
+  "indicators": {
+    "rsi": 47.33771,
+    "macd": -0.00031374741,
+    "macd_signal": -0.00023750895,
+    "sma20": 1.33484
+  },
+  "analysis": {
+    "zh": {
+      "title": "英镑/美元技术分析：窄幅震荡偏空整理",
+      "content": "趋势判断：GBP/USD在1.334附近窄幅整理，价格略低于20日均线1.33484，短线动能偏弱，整体维持震荡偏空结构。\n\n指标方面，MACD为负值运行，显示空头动能占优，快慢线趋于收敛但未见明显反转信号，短线仍以弱势震荡为主。多头缺乏延续性。\n\n支撑关注1.33440-1.33420区间，上方阻力位1.33510及1.33580，当前波动极窄，价格在箱体内运行，突破前延续震荡。\n\n交易建议以高抛低吸为主，靠近支撑轻仓试多，接近阻力位可短线试空，严格止损，等待突破后顺势跟随。波段操作。"
+    },
+    "en": {
+      "title": "British Pound vs US Dollar Technical Analysis",
+      "content": "GBP/USD is trading around 1.33443, remaining close to its recent intraday range after a modest 24-hour decline of 0.04%. Price is sitting slightly below the 20-period simple moving average at 1.33484, suggesting that short-term momentum has softened without confirming a decisive bearish trend. The narrow trading range between 1.33442 and 1.33506 also reflects a period of consolidation, with buyers and sellers showing limited conviction while awaiting a stronger directional catalyst.\n\nThe available technical indicators point to mildly negative momentum. The MACD value of -0.00031374741 indicates that bearish pressure still has a slight advantage, although the absence of a signal line limits confirmation of trend strength. Likewise, the unavailable RSI reading prevents a full assessment of momentum extremes, making price action around the moving average more significant. Until additional momentum signals emerge, traders should remain cautious about assuming either a sustained breakout or an extended reversal.\n\nImmediate support is located near the session low around 1.33442, where buyers have so far defended the market. A decisive break below this level could expose additional downside and encourage further selling pressure. Initial resistance is found near the 20-period SMA at 1.33484, followed closely by the recent high around 1.33506. A sustained move above these levels would improve the short-term technical outlook and could attract renewed buying interest if accompanied by stronger momentum.\n\nFrom a trading perspective, patience may offer the best risk-adjusted approach while the pair remains confined to a narrow range. Conservative traders could wait for a confirmed breakout above resistance before considering long positions, while a clear break below support may provide opportunities for short trades. Given the limited volatility and mixed technical picture, disciplined risk management, carefully placed stop-loss orders, and confirmation from increased trading volume or additional momentum indicators would strengthen the quality of any trading decision."
+    }
+  }
+}

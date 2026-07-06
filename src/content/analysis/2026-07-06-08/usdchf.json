@@ -1,0 +1,30 @@
+{
+  "symbol": "USD/CHF",
+  "name": "US Dollar vs Swiss Franc",
+  "nameCn": "美元/瑞郎",
+  "timestamp": "2026-07-06T08:15:29.826Z",
+  "price": {
+    "close": "0.80543",
+    "high": "0.80547",
+    "low": "0.80458",
+    "open": "0.80468",
+    "change": "0.10",
+    "datetime": "2026-07-06 18:00:00"
+  },
+  "indicators": {
+    "rsi": 62.90538,
+    "macd": 0.00061392105,
+    "macd_signal": 0.00042862254,
+    "sma20": 0.803778
+  },
+  "analysis": {
+    "zh": {
+      "title": "美元/瑞郎技术分析：震荡偏强上行格局",
+      "content": "美元/瑞郎短线维持窄幅震荡上行结构，价格围绕0.805附近运行，多头略占优势但动能有限，尚未形成突破行情，整体偏震荡偏强\n\nMACD指标小幅转正，动能柱维持温和扩张，但RSI缺失限制判断；价格站上20日均线0.8038，短期趋势偏多结构延续中性略强\n\n上方阻力位关注0.8055及0.8060区域，下方支撑0.8046与0.8038一线，区间收敛明显短线等待突破信号确认中\n\n建议以回调做多为主，接近0.8045-0.8038分批布局，突破0.8060后可顺势追多，控制止损在区间下沿谨慎交易执行"
+    },
+    "en": {
+      "title": "US Dollar vs Swiss Franc Technical Analysis",
+      "content": "USD/CHF continues to trade within a tight consolidation range, showing a mild upward bias after defending recent intraday lows. Price action remains compressed near 0.8050, suggesting equilibrium between buyers and sellers. The broader short-term structure leans slightly bullish as higher lows are forming, though momentum remains limited. Market participants appear cautious, awaiting a clearer directional catalyst from upcoming macroeconomic drivers or USD sentiment shifts.\n\nPacing indicators suggest a modest bullish tilt in the short term, as price holds above the 20-period SMA at 0.803778. This positioning reflects improving support beneath current levels. MACD is slightly positive at 0.0006139, indicating weak but constructive momentum. However, the absence of RSI data limits overbought/oversold assessment, leaving confirmation dependent on price behavior around key intraday zones and volatility expansion.\n\nImmediate support is located near 0.8046, aligning with recent intraday lows, followed by stronger structural support around the SMA at 0.8038. A breakdown below this zone could expose 0.8025 as the next downside target. On the upside, resistance is seen at 0.8055, with a potential extension toward 0.8070 if momentum strengthens. Price remains trapped within a narrow band, emphasizing range-bound conditions.\n\nTrading conditions favor a cautious, range-focused approach rather than breakout positioning. Dip-buying near support levels around 0.8038–0.8046 may offer favorable risk-reward setups, provided tight stops are maintained below 0.8025. Alternatively, short positions near resistance at 0.8055–0.8070 could be considered if rejection signals appear. Until volatility expands, scalping within the established range remains the most practical strategy, with disciplined execution essential in low-volatility conditions."
+    }
+  }
+}

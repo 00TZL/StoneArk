@@ -1,0 +1,30 @@
+{
+  "symbol": "XAU/USD",
+  "name": "Gold vs US Dollar",
+  "nameCn": "黄金/美元",
+  "timestamp": "2026-07-06T08:16:17.724Z",
+  "price": {
+    "close": "4157.49625",
+    "high": "4165.1069",
+    "low": "4157.13989",
+    "open": "4164.25605",
+    "change": "-0.16",
+    "datetime": "2026-07-06 18:00:00"
+  },
+  "indicators": {
+    "rsi": 40.96662,
+    "macd": -4.4298,
+    "macd_signal": -2.016752,
+    "sma20": 4171.7343
+  },
+  "analysis": {
+    "zh": {
+      "title": "黄金/美元技术分析：短线偏空震荡，关注下方支撑",
+      "content": "当前黄金/美元最新报价位于4157.50附近，价格低于20日均线4171.73，说明短期仍处于弱势整理格局。24小时小幅回落，空头略占主动，但跌幅有限，市场整体仍以震荡偏空运行为主，暂未形成明显单边下跌趋势。\n\n技术指标方面，MACD数值为负，显示空头动能仍在释放，短线反弹力度相对有限。由于RSI数据暂时缺失，难以进一步确认是否进入超卖区域，因此需结合后续价格表现及成交动能综合判断趋势变化。\n\n从关键价位来看，下方首要支撑位关注4157附近，若失守则可能进一步测试4150甚至更低区域；上方阻力首先关注4172附近，即20日均线位置，若有效突破并站稳，则有望缓解当前弱势，并向4185附近发起挑战。\n\n交易策略上，短线建议保持谨慎，整体仍以逢高偏空思路为主，避免在支撑区域盲目追空。若价格放量突破4172并企稳，可考虑顺势跟进多单；若跌破4157支撑，则可关注空头延续机会，同时严格设置止损，做好仓位管理以控制交易风险。"
+    },
+    "en": {
+      "title": "Gold vs US Dollar Technical Analysis",
+      "content": "XAU/USD is trading with a mild bearish bias after slipping below its 20-period SMA at 4171.73. Price action around 4157 shows the market consolidating near intraday lows, suggesting fading bullish momentum from prior sessions. The inability to reclaim the SMA20 indicates that sellers currently retain short-term control. Overall structure leans sideways-to-bearish, with momentum gradually tilting lower unless buyers can force a sustained recovery above the 4170 region.\n\nMomentum signals reinforce this outlook. The MACD reading at -4.42980 confirms bearish pressure remains active, even though the absence of a signal line value limits full crossover assessment. Price behavior near the lower boundary of the daily range suggests limited upside follow-through and potential exhaustion of recent buying attempts. Without supportive momentum divergence, intraday rallies are more likely to attract renewed selling interest rather than trend continuation.\n\nKey support is situated around 4155, closely aligned with the current session low at 4157.14, making this zone critical for short-term structure. A decisive break below it could open the way toward 4150 and then 4135 as the next downside targets. On the upside, resistance is first seen at 4171.73, followed by 4185, with a stronger ceiling near 4200 where broader selling pressure may re-emerge.\n\nTrading conditions favor a sell-on-rallies approach while price remains below the SMA20. Short entries may be considered near 4170–4180 with protective stops above 4200 to guard against breakout volatility. Alternatively, more conservative traders may wait for a confirmed breakdown below 4155 to join downside continuation moves, while maintaining strict risk control in the current consolidation environment."
+    }
+  }
+}
